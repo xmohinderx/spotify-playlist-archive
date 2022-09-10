@@ -4,7 +4,7 @@
 
 > make it pop! cover: YUNGBLUD
 
-412 songs - 20 hr 47 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+413 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Feel It](https://open.spotify.com/track/5UapJPoV8BX4xQYOIwjABo) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [The Guilty Pleasure Chest](https://open.spotify.com/album/1m0GLsVORJPj9jeqvTWB3W) | 2:41 | 2021-10-29 | 2022-01-22 |
 | [Feel Something](https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Feel Something](https://open.spotify.com/album/3LFMOM2H8eBY7VRHRbKNzp) | 2:30 | 2022-04-08 | 2022-06-25 |
 | [Figure You Out \(Remix\)](https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out \(Remix\)](https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH) | 3:12 | 2022-02-11 | 2022-02-26 |
+| [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 | 2022-09-09 |  |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-05-28 |
 | [Friend Right Now](https://open.spotify.com/track/1525qKTOc3G2KJNYRG3rSQ) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Friend Right Now](https://open.spotify.com/album/4F7oZLETHlEAovFGgp4VAI) | 2:33 | 2022-07-08 | 2022-08-13 |
 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 | 2022-04-29 | 2022-07-30 |
@@ -270,7 +271,7 @@
 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 | 2022-05-20 | 2022-07-30 |
 | [one day before i die](https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [one day before i die](https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc) | 3:01 | 2022-03-11 | 2022-04-29 |
 | [only human](https://open.spotify.com/track/1XLZcAceP6w4b7f6IdhYZ8) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [only human.](https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ) | 2:30 | 2021-10-29 | 2022-01-22 |
-| [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 |  |
+| [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-09-10 |
 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 | 2022-02-18 | 2022-05-14 |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-05-28 |
 | [Palm Springs for the Weekend](https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Palm Springs for the Weekend](https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0) | 2:00 | 2022-04-22 | 2022-05-20 |

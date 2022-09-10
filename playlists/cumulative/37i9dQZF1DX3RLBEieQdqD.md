@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe
 
-75 songs - 4 hr 23 min - not published yet
+75 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/4dgRTLno9dN3O245XyEHEz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

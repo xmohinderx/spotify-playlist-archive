@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🌽🌽 it's corn!! a big lump with knobs!! it has the juice!! 🌽🌽
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,837 likes - 577 songs - 1 day 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,486 likes - 577 songs - 1 day 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

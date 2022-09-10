@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,524 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,636 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,28 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 24 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
 | 25 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 |
 | 26 | [juice box](https://open.spotify.com/track/1dhNZf5E0qpgTEJ81HxzS6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [aruma](https://open.spotify.com/artist/007ymf6nTBbhE9f9zxTcJF), [案山子](https://open.spotify.com/artist/13kzWMPtOOXvXujXHbpjVj) | [juice box](https://open.spotify.com/album/4Uvm3mUSpQCRTwyfLHsFip) | 3:58 |
-| 27 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 |
-| 28 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
+| 27 | [Lost](https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Lost](https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq) | 4:05 |
+| 28 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 |
 | 29 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
 | 30 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 |
-| 31 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 |
-| 32 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 |
-| 33 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
-| 34 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
+| 31 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
+| 32 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
+| 33 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 |
+| 34 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
 | 35 | [もう少しだけ](https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [もう少しだけ](https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I) | 3:40 |
 | 36 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 |
-| 37 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 |
+| 37 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
 | 38 | [無為を抱く](https://open.spotify.com/track/2f1O9xNSk8p6Tyj28Ky0d2) | [遼遼](https://open.spotify.com/artist/2fPF5WFB2T6upW7xgTJpTb) | [無為を抱く](https://open.spotify.com/album/1lLPNuhwezJ793o2vboFoC) | 5:48 |
 | 39 | [阿修羅ちゃん](https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:15 |
 | 40 | [あっかんべ](https://open.spotify.com/track/4H3CbpffoSJ0YvAcysYF9y) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [ぽいずにゃ〜しんどろーむ](https://open.spotify.com/album/5BqRdVGwJWuwV3c6emUoEZ) | 2:46 |
-| 41 | [Lost](https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Lost](https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq) | 4:05 |
-| 42 | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 |
-| 43 | [アミ](https://open.spotify.com/track/5xd5pEwtXqZf4OFKN1w7sD) | [ayaho](https://open.spotify.com/artist/7awsMAHbAIxGXzwOOxme2B), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [アミ](https://open.spotify.com/album/585o5gifFloGibjfoanTXW) | 2:49 |
-| 44 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 |
-| 45 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 |
-| 46 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
-| 47 | [回る空うさぎ](https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Remindful.One](https://open.spotify.com/album/0aYunc3nelpAKlZbf8MYDB) | 2:52 |
-| 48 | [おとせサンダー](https://open.spotify.com/track/0TBZ2NGb9es28EVrtJGhic) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [おとせサンダー](https://open.spotify.com/album/0xDJJ5AZvTB2CSxeUrkple) | 4:04 |
-| 49 | [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
+| 41 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 |
+| 42 | [アンデッド](https://open.spotify.com/track/7mJasHPXBQ7WEek6Di0HQe) | [ミセナイクセニ](https://open.spotify.com/artist/1nTcWnlqJNMo9VvBiWQsxH) | [アンデッド](https://open.spotify.com/album/2mxHXFqXh8E0wPO3sjukgX) | 3:53 |
+| 43 | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 |
+| 44 | [アミ](https://open.spotify.com/track/5xd5pEwtXqZf4OFKN1w7sD) | [ayaho](https://open.spotify.com/artist/7awsMAHbAIxGXzwOOxme2B), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [アミ](https://open.spotify.com/album/585o5gifFloGibjfoanTXW) | 2:49 |
+| 45 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 |
+| 46 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 |
+| 47 | [くびったけ](https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [くびったけ](https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw) | 3:54 |
+| 48 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 |
+| 49 | [回る空うさぎ](https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Remindful.One](https://open.spotify.com/album/0aYunc3nelpAKlZbf8MYDB) | 2:52 |
+| 50 | [おとせサンダー](https://open.spotify.com/track/0TBZ2NGb9es28EVrtJGhic) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [おとせサンダー](https://open.spotify.com/album/0xDJJ5AZvTB2CSxeUrkple) | 4:04 |
 
-Snapshot ID: `MTY2MjY0OTIwMCwwMDAwMDAwMDEwN2I1ZDg2ZGFkZTVjMGUxODA2OTlmZTE0MzU0M2E4`
+Snapshot ID: `MTY2MjY0OTIwMCwwMDAwMDAwMGFmZWE1MzQ3MmZjZmY2NDk3Yzc2ODljYzk0MDZkOWMz`

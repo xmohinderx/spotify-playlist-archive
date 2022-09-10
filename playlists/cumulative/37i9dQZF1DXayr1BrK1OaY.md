@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-173 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
+174 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 | 2022-03-28 | 2022-04-01 |
 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 | 2021-07-30 | 2022-04-13 |
 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 | 2021-04-02 | 2022-07-29 |
-| [Just To Hear You Say \- Joseph Ray Remix](https://open.spotify.com/track/09wkyp6dMAo5JakEj49R0M) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [In Another Lifetime \(Remixed\)](https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf) | 5:03 | 2022-08-05 |  |
+| [Just To Hear You Say \- Joseph Ray Remix](https://open.spotify.com/track/09wkyp6dMAo5JakEj49R0M) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [In Another Lifetime \(Remixed\)](https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf) | 5:03 | 2022-08-05 | 2022-09-10 |
 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 | 2022-06-17 |  |
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 | 2022-07-29 |
 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-06-10 | 2022-09-03 |
@@ -143,6 +143,7 @@
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-25 |  |
 | [Something About](https://open.spotify.com/track/7JAYdUpFc003nvCNWD1PkK) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/7a6OiEYIbq9d8UKrAAetAS) | 3:44 | 2022-03-25 | 2022-07-29 |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2021-04-02 |  |
+| [Something I Can Feel](https://open.spotify.com/track/0HbwAcxC39MqElV6NO05DQ) | [Denis First](https://open.spotify.com/artist/1qVHDR3icC0cD02ofnzEA1), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Something I Can Feel](https://open.spotify.com/album/15ILAVj88X0ZVqpSPN9Mgp) | 2:58 | 2022-09-02 |  |
 | [Spotlight](https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 5:31 | 2021-04-02 |  |
 | [Starstruck \- Vegyn Remix](https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Starstruck \(Vegyn Remix\)](https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa) | 3:48 | 2021-05-07 | 2022-09-03 |
 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2021-04-02 |  |

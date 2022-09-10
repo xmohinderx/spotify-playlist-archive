@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 245070,
       "name": "Bigger Things",
       "url": "https://open.spotify.com/track/75PhzoG7Z5qZFsNdcmlyxu"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 218437,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/5Z5qYQz6ODyI8rdUb3Ebi9"
@@ -915,6 +915,28 @@
       "duration_ms": 256000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT"
+    },
+    {
+      "album": {
+        "name": "Darkside",
+        "url": "https://open.spotify.com/album/3vXkiXQge96O332xl5hoSt"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "SPARKS",
+          "url": "https://open.spotify.com/artist/7CNgXa0k7ieLtaynmrgUBl"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/3vYU3g6y2L0brDR3nt8F5d"
     },
     {
       "album": {
@@ -3897,6 +3919,28 @@
       "duration_ms": 258260,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/3fldSmcRWqzfoe3QjmwmN6"
+      },
+      "artists": [
+        {
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+        },
+        {
+          "name": "Joicey",
+          "url": "https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/6D5Ueh4E9uj7H67UV6FBJO"
     },
     {
       "album": {

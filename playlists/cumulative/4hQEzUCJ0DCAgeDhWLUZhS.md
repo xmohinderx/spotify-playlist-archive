@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Muse
 
-318 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+321 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Don't Let the Devil Take Another Day](https://open.spotify.com/track/50mvz2sHxx13JZ2qwy8W71) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Kind \(Deluxe\)](https://open.spotify.com/album/5eKfSbsVTRHvUI7r7DdyYR) | 3:04 | 2020-10-10\* | 2021-02-25 |
 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 | 2022-08-19 |  |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-10-10\* | 2021-05-13 |
+| [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 |  |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-01-21 | 2022-03-18 |
 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 | 2021-10-29 |  |
 | [Ease My Mind](https://open.spotify.com/track/2pBRMZKqwdPrrMLZouj5yZ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Ease My Mind](https://open.spotify.com/album/4bdJvHMmM4nZ5VClRTVdqa) | 3:25 | 2021-11-19 |  |
@@ -184,6 +185,7 @@
 | [Meet Me on the Roof](https://open.spotify.com/track/3YCUPKddcFr4s6iL4mj6Xy) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:39 | 2020-10-10\* | 2021-05-13 |
 | [Mercury in Retrograde](https://open.spotify.com/track/6PT1dLDHk9BaVwFG74pomG) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [SOUND & FURY](https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq) | 4:31 | 2020-10-10\* | 2021-02-25 |
 | [Middle Finger](https://open.spotify.com/track/7mNXePzVOXqBTE1WuDa5HQ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Middle Finger](https://open.spotify.com/album/4wYDZ71tevPReWBFRzTHSI) | 2:35 | 2021-02-26 | 2022-03-18 |
+| [Midnight Demon Club](https://open.spotify.com/track/0Ha3SbwjPO11gZ0zPjZQ2o) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 4:12 | 2022-09-09 |  |
 | [Midnight Train](https://open.spotify.com/track/161esqOztHsKYDh9Aj4yij) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Midnight Train / Don't Wade In The Water](https://open.spotify.com/album/3BpPThkSnJZF2wo5vrmUup) | 3:16 | 2020-10-23 | 2022-03-18 |
 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 | 2020-10-10\* | 2021-05-13 |
 | [MLBRN](https://open.spotify.com/track/3F6b6goF66FibaTgfdO3eS) | [KID LAB RAT](https://open.spotify.com/artist/3s02o9NfNibQnaLmkRxRzd) | [MLBRN](https://open.spotify.com/album/7EOVE590oo7t0kK3kK1a8X) | 2:45 | 2022-06-23 |  |
@@ -232,6 +234,7 @@
 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 | 2020-10-10\* | 2021-05-13 |
 | [Remote Control](https://open.spotify.com/track/5IsB2kShsBfmHZcXqcFB7Y) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Remote Control](https://open.spotify.com/album/4DuPTIodLTC82Llh8k3Cwg) | 2:41 | 2021-02-26 | 2022-03-18 |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-02-25 | 2022-03-18 |
+| [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 |  |
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-22 |  |
 | [Savage Lands](https://open.spotify.com/track/5nDrnOSq8NuwHJpwH6Zv0y) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 4:24 | 2021-10-29 |  |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2020-10-10\* | 2021-05-13 |

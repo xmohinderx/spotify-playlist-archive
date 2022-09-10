@@ -724,6 +724,28 @@
     },
     {
       "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137346,
+      "name": "Chaka Khan (feat. Kenny Beats)",
+      "url": "https://open.spotify.com/track/1DyUdvmTqhzy0RzCJdGvxd"
+    },
+    {
+      "album": {
         "name": "Big Dreez",
         "url": "https://open.spotify.com/album/6LTCFCmcHl9RgVCjWKghNS"
       },
@@ -1095,10 +1117,40 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 113424,
       "name": "Euphoric",
       "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
+    },
+    {
+      "album": {
+        "name": "F.N.F. (Let's Go) [Remix]",
+        "url": "https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247762,
+      "name": "F.N.F (Let's Go) - Remix",
+      "url": "https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q"
     },
     {
       "album": {
@@ -2227,7 +2279,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 122181,
       "name": "Pesos (feat. Peso Peso)",
       "url": "https://open.spotify.com/track/3c7G8oF298vWlCsOKK2P5B"

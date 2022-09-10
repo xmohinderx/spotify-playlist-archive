@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 165333,
       "name": "argyle",
       "url": "https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y"
@@ -3973,6 +3973,24 @@
       "duration_ms": 182970,
       "name": "I'm Okay Now",
       "url": "https://open.spotify.com/track/6xcfvAdi2nPQVRJG8eSHzE"
+    },
+    {
+      "album": {
+        "name": "What's Wrong",
+        "url": "https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse"
+      },
+      "artists": [
+        {
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214455,
+      "name": "I'm So Happy",
+      "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
     },
     {
       "album": {

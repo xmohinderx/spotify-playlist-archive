@@ -3978,6 +3978,24 @@
     },
     {
       "album": {
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/27iHl47FNY4y2h4LJLCv98"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2dpxmuF4RltdQvh0sg5wcA"
+    },
+    {
+      "album": {
         "name": "CRISIS",
         "url": "https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX"
       },

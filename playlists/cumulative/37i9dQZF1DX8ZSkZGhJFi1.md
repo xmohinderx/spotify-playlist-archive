@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-146 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
+147 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Three Eleven](https://open.spotify.com/track/6mpdxk6NcSbyKN3YPfVLDt) | [Hologram Life](https://open.spotify.com/artist/556OIgOCzim3VGfOZHWAqx) | [Three Eleven](https://open.spotify.com/album/0hdNNKYeIK7WpnzRqP6ElD) | 4:39 | 2022-02-17 |  |
 | [Time to Face Your Fears](https://open.spotify.com/track/5GdLtWqbQVXKIAwUpXuJcq) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [I'll Leave the Light on for You](https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL) | 3:07 | 2022-02-17 |  |
 | [Took It Too Far](https://open.spotify.com/track/1B9mJ0e6rKVfUUi5nCvvim) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [To The Factory](https://open.spotify.com/album/4nvHLzp2CInKEzvz8QTquQ) | 2:56 | 2022-02-17 |  |
-| [Track Smack](https://open.spotify.com/track/2ExGfjMMr5PDTicSk65xQd) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/1SYa5Vd1APzOiSiOQREnkW) | 3:12 | 2022-02-17 |  |
+| [Track Smack](https://open.spotify.com/track/2ExGfjMMr5PDTicSk65xQd) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/1SYa5Vd1APzOiSiOQREnkW) | 3:12 | 2022-02-17 | 2022-09-10 |
+| [Track Smack](https://open.spotify.com/track/3eD2mfu97RybLSHMBzkVQN) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/3OACGrVtxvKdMLki5HDRyZ) | 3:12 | 2022-06-24 |  |
 | [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 | 2022-02-17 | 2022-07-29 |
 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 | 2022-06-24 |  |
 | [Trippier](https://open.spotify.com/track/4bT3N5SidnYnydelbL3FVL) | [Stanz Vanz](https://open.spotify.com/artist/01swNkzCEWNS1bFpINjuAN) | [Trippier](https://open.spotify.com/album/6JO4wwfTK87vMPGkub8XWf) | 3:35 | 2022-02-17 |  |

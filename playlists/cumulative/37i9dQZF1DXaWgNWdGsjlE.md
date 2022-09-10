@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: POORSTACY
 
-132 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+133 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [The Singularity](https://open.spotify.com/track/11NHApIN2R0DZJDypPYeFJ) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 2:17 | 2022-04-08 |  |
 | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Too Bizarre \(with Swae Lee & Siiickbrain\)](https://open.spotify.com/album/0c7bLm2cqhAWQ4BhovOUdm) | 2:38 | 2022-04-08 |  |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-04-08 |  |
-| [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 | 2022-04-08 |  |
+| [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 | 2022-04-08 | 2022-09-10 |
+| [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 | 2022-07-01 |  |
 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2022-04-08 |  |
 | [Venomous \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/6my1SNH8U6TTT5S5vLOKVW) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 3:24 | 2022-07-01 |  |
 | [Venomous \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/2xAjXvmMqqlnVhNvpGLzeY) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Venomous \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/0FazkrXViAG8NSMnBuaIHv) | 3:29 | 2022-04-08 | 2022-07-29 |

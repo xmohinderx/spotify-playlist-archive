@@ -4,7 +4,7 @@
 
 > The best feel\-good songs of the 1980s.
 
-185 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/3kEIbFvf5MNOkdlnY6hDok)
+186 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/3kEIbFvf5MNOkdlnY6hDok)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Rockin' Good Way \(To Mess Around and Fall In Love\)](https://open.spotify.com/track/2vbTr48Vc4y4PUEcGYYlvK) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Simply The Best](https://open.spotify.com/album/5YGJ1MscP8Pk4H2jAkRqpy) | 2:53 | 2021-04-29 | 2022-07-29 |
 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 | 2021-04-29 |  |
 | [All Night Long \(All Night\)](https://open.spotify.com/track/1DxT6f6mH7kLriOUWbujup) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 6:22 | 2021-04-29 | 2022-07-29 |
-| [All Night Long \(All Night\)](https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down \(Deluxe Edition\)](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 6:23 | 2022-05-11 |  |
+| [All Night Long \(All Night\)](https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down \(Deluxe Edition\)](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 6:23 | 2022-05-11 | 2022-09-10 |
 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 | 2021-04-29 | 2022-07-29 |
 | [Any Dream Will Do](https://open.spotify.com/track/4FEyVH9a4WGY6zdhVixIxE) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4), ["Joseph And The Amazing Technicolor Dreamcoat" 1991 London Cast](https://open.spotify.com/artist/7CD4S5LN8BeM1MVjL7ASK4) | [Joseph And The Amazing Technicolor Dreamcoat](https://open.spotify.com/album/4fGWn2HIeTZsIgIzaoL8sx) | 3:54 | 2021-10-05 | 2022-07-29 |
 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 | 2022-05-11 |  |
@@ -67,6 +67,7 @@
 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 | 2021-04-29 |  |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/4V9BTST4BSkvOL4xIQNHuS) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven on Earth \(Remastered & Expanded Special Edition\)](https://open.spotify.com/album/08pQhv89ezKOhOKqZner5D) | 4:07 | 2021-04-29 | 2022-07-29 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/58mFu3oIpBa0HLNeJIxsw3) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth](https://open.spotify.com/album/4PLM698gAODdpx7Wy3LNPj) | 4:07 | 2022-05-11 | 2022-08-15 |
+| [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 | 2022-05-11 |  |
 | [Hip To Be Square](https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:05 | 2021-04-29 |  |
 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna \(Reissue\)](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2022-05-11 |  |
 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 | 2021-04-29 | 2022-07-29 |

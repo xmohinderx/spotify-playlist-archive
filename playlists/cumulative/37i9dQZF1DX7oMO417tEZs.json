@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: Gorillaz",
+  "description": "Proudly marching to the beat of their own drum. Cover: Mura Masa",
   "name": "Outliers",
   "published_playlist_ids": [
     "2eZDT7fvyZw5HsAm74ImXE"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 358584,
       "name": "Al Boomer's Lounge",
       "url": "https://open.spotify.com/track/5XkNlLfzV9DHWKVlw9Mu8a"
@@ -886,6 +886,28 @@
     },
     {
       "album": {
+        "name": "Before We Panic",
+        "url": "https://open.spotify.com/album/5SIBf47jai8CH6C0Mfyo4I"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209672,
+      "name": "Before We Panic",
+      "url": "https://open.spotify.com/track/6kMowPd0AOmogkJnRORzGX"
+    },
+    {
+      "album": {
         "name": "Bento Box",
         "url": "https://open.spotify.com/album/09etgwlYWXr867yvh6AwEi"
       },
@@ -1193,7 +1215,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 176017,
       "name": "Boys Don't Sob",
       "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 179162,
       "name": "CAN'T TELL ME NOTHING",
       "url": "https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46"
@@ -2353,6 +2375,28 @@
       "duration_ms": 162122,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn"
+    },
+    {
+      "album": {
+        "name": "e-motions (with Erika de Casier)",
+        "url": "https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168723,
+      "name": "e-motions (with Erika de Casier)",
+      "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
     },
     {
       "album": {
@@ -3576,6 +3620,28 @@
     },
     {
       "album": {
+        "name": "Harvest Moon (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/7JOnm7NqCfCxJ9LCdaZXqB"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274186,
+      "name": "Harvest Moon \u2013 Vandelux Remix",
+      "url": "https://open.spotify.com/track/3OcV9XXExOdsVHYXSjSGNd"
+    },
+    {
+      "album": {
         "name": "Head Space Freestyle",
         "url": "https://open.spotify.com/album/4pNVj7o6u8ol0UmQlHzJJa"
       },
@@ -3776,6 +3842,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4L8rz5GLBEYV7C2qv5iE4M"
+      },
+      "artists": [
+        {
+          "name": "TURNA",
+          "url": "https://open.spotify.com/artist/3R2WIQW8Xbe0mvSXUS2u8Q"
+        },
+        {
+          "name": "Gillian Mapp",
+          "url": "https://open.spotify.com/artist/4Hc65gJGYM3VxIY8bF7LpE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6KMcmZsL1J0Dp2lmAQgKVy"
+    },
+    {
+      "album": {
         "name": "Home Maker",
         "url": "https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU"
       },
@@ -3971,7 +4059,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 158480,
       "name": "i gave you everything",
       "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
@@ -4055,6 +4143,24 @@
       "duration_ms": 257437,
       "name": "I Won't Bite",
       "url": "https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx"
+    },
+    {
+      "album": {
+        "name": "i'm an alchemist",
+        "url": "https://open.spotify.com/album/0tDENFNjMht52wJowGAzRE"
+      },
+      "artists": [
+        {
+          "name": "francis rae",
+          "url": "https://open.spotify.com/artist/2kJ9XAaKCa3LbM4QezaSpf"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168504,
+      "name": "i'm an alchemist",
+      "url": "https://open.spotify.com/track/3KIvgKWgMuPu9j7domnxer"
     },
     {
       "album": {
@@ -4266,6 +4372,24 @@
     },
     {
       "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/70mtx3Au4fSrW1yFfiDnc4"
+      },
+      "artists": [
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153349,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/3B3NQiIioZIpieLvFNaOFj"
+    },
+    {
+      "album": {
         "name": "Indiesong",
         "url": "https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn"
       },
@@ -4397,6 +4521,24 @@
       "duration_ms": 163710,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/27oVHfIMUIJHEtMopSDx8r"
+    },
+    {
+      "album": {
+        "name": "It Could Be Nice",
+        "url": "https://open.spotify.com/album/1s4VVB5nN16DfnSVKRx6NK"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "It Could Be Nice",
+      "url": "https://open.spotify.com/track/5lGoX0XHR2ystyz0OF3Kv5"
     },
     {
       "album": {
@@ -4535,6 +4677,24 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
+    },
+    {
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "album": {
@@ -5933,7 +6093,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 170321,
       "name": "New Money (with 21 Savage)",
       "url": "https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl"
@@ -6239,7 +6399,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 212744,
       "name": "OCTEMBRE",
       "url": "https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G"
@@ -8089,7 +8249,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
@@ -8209,7 +8369,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 156236,
       "name": "Telephone Light",
       "url": "https://open.spotify.com/track/1PZuzXgxUGiKjhLqKyPLrQ"
@@ -8609,7 +8769,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 179013,
       "name": "Too Hot (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
@@ -8881,6 +9041,24 @@
       "duration_ms": 268776,
       "name": "Waiting For The Day",
       "url": "https://open.spotify.com/track/19WKcEuuC6QVm6C2DdJmQA"
+    },
+    {
+      "album": {
+        "name": "The Efferusphere",
+        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220418,
+      "name": "Waiting Outside",
+      "url": "https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX"
     },
     {
       "album": {

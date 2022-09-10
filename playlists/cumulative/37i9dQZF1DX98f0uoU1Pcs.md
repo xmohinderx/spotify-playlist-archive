@@ -2,9 +2,9 @@
 
 ### [Noisy](https://open.spotify.com/playlist/37i9dQZF1DX98f0uoU1Pcs)
 
-> The perfect mix of Punk, Rock, Alt & Indie\. Cover: FIDLAR
+> The perfect mix of Punk, Rock, Alt & Indie\. Cover: Surf Curse
 
-293 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+296 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [DAEMON](https://open.spotify.com/track/6z2vZ2TyVT2jeCm7sxuDPU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [DAEMON](https://open.spotify.com/album/1ZzmlC1ZtshIf4OgTmuEwY) | 2:46 | 2022-03-11 |  |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-08-26 |  |
 | [Days Like These](https://open.spotify.com/track/6KVjO1Wye1FuNdYx0keRkP) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [HEY WHAT](https://open.spotify.com/album/6S6jg2LuEwGdo9iYMSwCBS) | 5:20 | 2022-01-07 | 2022-01-26 |
+| [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-09-09 |  |
 | [Design \- Beck Remix](https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Design \(Beck Remix\)](https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G) | 2:36 | 2022-01-07 |  |
 | [Dirty Water](https://open.spotify.com/track/45YxYUys5nuXLwrV4DnxFF) | [Marbled Eye](https://open.spotify.com/artist/3V6GV39cSmmExOhjdcM60D) | [Dirty Water](https://open.spotify.com/album/1gnhCT9K4f5yMpNxM8b6J1) | 3:14 | 2022-01-21 |  |
 | [Don't Cling To Life](https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 2:26 | 2021-10-07 | 2022-04-29 |
@@ -198,6 +199,7 @@
 | [Odds Are It's Blue](https://open.spotify.com/track/6ZvXyUlPkuFK04sAqaWY6U) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Odds Are It's Blue](https://open.spotify.com/album/1WHx1beOfbbcKHxBJUOnmd) | 3:04 | 2021-10-07 | 2022-01-08 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-26 |  |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-08-05 | 2022-08-27 |
+| [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-09-09 |  |
 | [Orange County Punk Rock Legend](https://open.spotify.com/track/2IyMFjkWuxuev05AWpFDXj) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Orange County Punk Rock Legend](https://open.spotify.com/album/0N6DCJtzG6GPoaQxu0YwJL) | 1:40 | 2022-08-05 |  |
 | [Outsah](https://open.spotify.com/track/67lTcyZnBnkZVnU8KcBEnl) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Outsah](https://open.spotify.com/album/5NhvzOeKEqFa4TWtexhmmF) | 1:53 | 2021-10-07 | 2022-04-29 |
 | [Peaceful Life](https://open.spotify.com/track/0gq6V1aodhiGhQhpMOZzY7) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Peaceful Life](https://open.spotify.com/album/1WCP9j9mfD12JT7FpRiQV5) | 2:03 | 2021-10-07 |  |
@@ -231,6 +233,7 @@
 | [Security](https://open.spotify.com/track/310b6rhKJa6lFBNccqQeCl) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/4poJkjWruWqqGsumQggoQB) | 3:47 | 2021-10-07 | 2022-01-08 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-01-07 |  |
 | [See\-Thru](https://open.spotify.com/track/634FJRZsXbx849oSoClH4f) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [See\-Thru](https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6) | 3:06 | 2021-10-07 | 2022-02-12 |
+| [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-09 |  |
 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-26 |  |
 | [Shallow](https://open.spotify.com/track/7Ekno8c0KbiW2uFxAQeJU3) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Bitter](https://open.spotify.com/album/0vKLo5Q6AVsc1u1W1l13RW) | 5:10 | 2022-06-17 |  |
 | [Sharp Tongues](https://open.spotify.com/track/6lpllCuS9BVrmsR8LaLW8e) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Sharp Tongues](https://open.spotify.com/album/2dZ4jOeFWhFMQDofrSW41e) | 2:43 | 2021-10-07 | 2022-06-18 |

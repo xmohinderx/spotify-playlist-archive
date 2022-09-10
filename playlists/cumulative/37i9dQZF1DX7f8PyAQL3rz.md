@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> md chefe, a mistura de postura e elegância
+> vulgo fk quer saber como cê tá
 
 97 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/5KoqCQZRKW4rzG9099X41H)
 

@@ -1,12 +1,12 @@
 {
   "description": "Get ready for dinner with some upbeat, funky and cooking Jazz.",
-  "num_followers": 17957,
+  "num_followers": 17979,
   "original_name": "Cooking Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyMDE3NywwMDAwMDAwMGJhOTBiZDdjYzBkY2MxODg3OTgyZTgyOTUwNmY3MDAy",
+  "snapshot_id": "MTY2MjYyMDE3NywwMDAwMDAwMGVlZTg2ZWQ0ODA5NzEzNjEwYjRhOTRlNmYzYzAyOTBl",
   "tracks": [
     {
       "added_at": "2022-09-08 06:56:16",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
+        "name": "Them Dirty Blues",
+        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "duration_ms": 307626,
+      "name": "Work Song - Remastered",
+      "url": "https://open.spotify.com/track/2J7tTIy7b4F78HuNwNmYVv"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
         "name": "The Song Is You: Best Of The Verve Songbooks",
         "url": "https://open.spotify.com/album/2wreYny3REO7NDgQBNQ0ns"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 209160,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/1LjvXnEvVhlYXlY1UgLmky"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
-        "name": "Them Dirty Blues",
-        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
-      },
-      "artists": [
-        {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
-        }
-      ],
-      "duration_ms": 307626,
-      "name": "Work Song - Remastered",
-      "url": "https://open.spotify.com/track/2J7tTIy7b4F78HuNwNmYVv"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
         "name": "Sonny Rollins With The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 159106,
       "name": "On A Slow Boat To China",
       "url": "https://open.spotify.com/track/1bL0nMplD1O1j8593wUx3T"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 534546,
+      "name": "A Baptist Beat - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3MAR3T0AWWIfN7tlgjjPzt"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 414466,
       "name": "Charcoal Blues - Remastered 2004",
       "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 534546,
-      "name": "A Baptist Beat - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3MAR3T0AWWIfN7tlgjjPzt"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
-        "name": "A Jazz Message",
-        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey Quartet",
-          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
-        }
-      ],
-      "duration_ms": 440093,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/1Omb3itM2gJlnciYRElXTe"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
+        "name": "A Jazz Message",
+        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey Quartet",
+          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
+        }
+      ],
+      "duration_ms": 440093,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/1Omb3itM2gJlnciYRElXTe"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
         "name": "Third Season",
         "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 394093,
       "name": "Give Me That Feelin'",
       "url": "https://open.spotify.com/track/79sKgKj7XBBmgNKuZfLndd"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
-        "name": "Today And Now",
-        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
-        }
-      ],
-      "duration_ms": 383986,
-      "name": "Go Li'l Liza",
-      "url": "https://open.spotify.com/track/0t96Je3ofeUXyi6UbX3J8w"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -943,6 +927,42 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
+        "name": "Today And Now",
+        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 383986,
+      "name": "Go Li'l Liza",
+      "url": "https://open.spotify.com/track/0t96Je3ofeUXyi6UbX3J8w"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
+        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
+      },
+      "artists": [
+        {
+          "name": "Jutta Hipp",
+          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
+        },
+        {
+          "name": "Zoot Sims",
+          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+        }
+      ],
+      "duration_ms": 522706,
+      "name": "Just Blues",
+      "url": "https://open.spotify.com/track/4XZCbio5t7KEmGYoLcYPE8"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -955,22 +975,6 @@
       "duration_ms": 293960,
       "name": "The Boy Next Door - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2LDSQ8nOGsDSrN9QcZLf5K"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 527093,
-      "name": "Willow Weep For Me - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3TerEwVP6zs2QrsCoG0yFK"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -995,22 +999,18 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
-        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
       "artists": [
         {
-          "name": "Jutta Hipp",
-          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
-        },
-        {
-          "name": "Zoot Sims",
-          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 522706,
-      "name": "Just Blues",
-      "url": "https://open.spotify.com/track/4XZCbio5t7KEmGYoLcYPE8"
+      "duration_ms": 527093,
+      "name": "Willow Weep For Me - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3TerEwVP6zs2QrsCoG0yFK"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "How Am I To Know",
+      "url": "https://open.spotify.com/track/5feNIk6PGv5shuhTor9Lhj"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
         "name": "The Cool Sounds Of Pepper Adams",
         "url": "https://open.spotify.com/album/3z2vgBE5b5c09FNeaX6UC4"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 534333,
       "name": "Did You Call Her Today",
       "url": "https://open.spotify.com/track/3BK6maKOM0Pq2RvQn921Bf"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "How Am I To Know",
-      "url": "https://open.spotify.com/track/5feNIk6PGv5shuhTor9Lhj"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
-        "name": "Headin' South",
-        "url": "https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy"
-      },
-      "artists": [
-        {
-          "name": "Horace Parlan",
-          "url": "https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e"
-        }
-      ],
-      "duration_ms": 355373,
-      "name": "The Song Is Ended - Remastered",
-      "url": "https://open.spotify.com/track/45FosUx3MXslHj0yVKEWrN"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
         "name": "Worktime (RVG)",
         "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 358146,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/7q6gIRAkC8hnuMmv3VAHwT"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 438666,
+      "name": "Walk On The Wild Side",
+      "url": "https://open.spotify.com/track/2f7vnETYXqWYBJNfa3zkYj"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX"
+        "name": "Headin' South",
+        "url": "https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Horace Parlan",
+          "url": "https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e"
         }
       ],
-      "duration_ms": 438666,
-      "name": "Walk On The Wild Side",
-      "url": "https://open.spotify.com/track/2f7vnETYXqWYBJNfa3zkYj"
+      "duration_ms": 355373,
+      "name": "The Song Is Ended - Remastered",
+      "url": "https://open.spotify.com/track/45FosUx3MXslHj0yVKEWrN"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
-        "name": "Them Dirty Blues",
-        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
-      },
-      "artists": [
-        {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
-        }
-      ],
-      "duration_ms": 432266,
-      "name": "Them Dirty Blues - Remastered",
-      "url": "https://open.spotify.com/track/3f6xm9qUFXkunVsqN0Sbyy"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
         "name": "Horace Silver Trio (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3yGcHzdskfjL8p0Zlx9uTH"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 209173,
       "name": "Opus De Funk - 1989 Digital Remaster; The Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3213dsixhwk0e8s9CfBzT3"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
+        "name": "Them Dirty Blues",
+        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "duration_ms": 432266,
+      "name": "Them Dirty Blues - Remastered",
+      "url": "https://open.spotify.com/track/3f6xm9qUFXkunVsqN0Sbyy"
     },
     {
       "added_at": "2022-09-08 06:56:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-08 06:56:16",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2022-09-08 06:56:16",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 450400,
       "name": "Blues On My Mind",
       "url": "https://open.spotify.com/track/0b1enif732ppkDbyWMys0G"
+    },
+    {
+      "added_at": "2022-09-08 06:56:16",
+      "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2022-09-08 06:56:16",

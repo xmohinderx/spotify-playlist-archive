@@ -4,11 +4,12 @@
 
 > chill beats for cool coffeehouse vibes.
 
-748 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+749 songs - 1 day 4 hr 24 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 | 2022-01-27 |  |
+| [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 | 2022-01-27 | 2022-09-10 |
+| [.Like a fool](https://open.spotify.com/track/7n87Oi2j5Us4eWhHu8zmpp) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/6VOj1qdMD9IwgeSnyhM54l) | 1:43 | 2022-09-09 |  |
 | [1 Step Ahead](https://open.spotify.com/track/0UkpfwUKYe6uzYxhH3KnIB) | [Oyh!](https://open.spotify.com/artist/3md8n0ymZHbXmwbLocvzuJ) | [1 Step Ahead](https://open.spotify.com/album/2dP3R7ovDc4shHmI4ALjiR) | 2:00 | 2022-01-27 |  |
 | [143](https://open.spotify.com/track/0ofSbJuaDQRThgOdsRAndd) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [143](https://open.spotify.com/album/6TI8St2osvFTUFyL22UK5T) | 1:57 | 2022-08-05 |  |
 | [18+](https://open.spotify.com/track/4usEuG3E0kerFVVaKJizQ3) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Cyan Stroller](https://open.spotify.com/album/3cnALOy7T6USEL8N6Nps4Y) | 1:45 | 2022-01-27 | 2022-05-20 |

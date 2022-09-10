@@ -4,7 +4,7 @@
 
 > just chill..\. respectfully
 
-246 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+247 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 | 2021-12-15 | 2022-04-21 |
 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 | 2021-12-15 | 2022-07-29 |
 | [All Bad](https://open.spotify.com/track/0G6ExlA2fcJIDGoayswUNT) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:51 | 2021-12-15 | 2022-04-05 |
-| [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2021-12-15 |  |
+| [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2021-12-15 | 2022-09-10 |
 | [Apathy](https://open.spotify.com/track/1y0YcbPS4pu5kveEhJ9KqJ) | [PIE](https://open.spotify.com/artist/66jQGw4oO3q0A8E3FcCZhE) | [Apathy](https://open.spotify.com/album/71WgldxC8RmuVjVvHN48r9) | 3:25 | 2021-12-15 | 2022-07-29 |
 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 | 2021-12-15 |  |
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-06-30 |  |
@@ -123,6 +123,7 @@
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/5pkzBdjGwsm3D6EE4PPEQ2) | 1:13 | 2021-12-15 | 2022-04-07 |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD) | 1:13 | 2022-02-11 |  |
 | [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 | 2022-08-24 |
+| [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 | 2022-09-05 |  |
 | [Lava/Treacle](https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/56BXeYf8Xp3zxKSuQmbOet) | 3:21 | 2021-12-15 | 2022-07-31 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 | 2022-04-21 |

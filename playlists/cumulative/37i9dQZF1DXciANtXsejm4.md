@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-172 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
+173 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Matala Matala](https://open.spotify.com/track/5xY4JSm5ciMeGA47aACikk) | [Habana Combo](https://open.spotify.com/artist/7zpSH2chjM380vMwQTEOaq) | [Todo Fue un Error](https://open.spotify.com/album/1R5PN1hvvafPIRm1et6uua) | 3:49 | 2022-06-17 | 2022-07-16 |
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/2m4nocjuXlAjrfuSqXEo46) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/5QiDj5pvq28cO1s4oupY53) | 4:15 | 2022-04-15 | 2022-07-29 |
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 | 2022-07-15 |  |
+| [Me Parece Que](https://open.spotify.com/track/1zHorxcby7HrNwHzctcvAZ) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Me Parece Que](https://open.spotify.com/album/7cVuyvwraUEOrCydXVFPqd) | 2:41 | 2022-09-09 |  |
 | [Mejor Perderla Que Encontrarla](https://open.spotify.com/track/3E50uUWb93FrCF7tYJFid0) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 2:15 | 2022-06-10 | 2022-07-01 |
 | [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2022-06-03 |  |
 | [Nada](https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [Nada](https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA) | 3:06 | 2022-06-03 |  |
@@ -167,7 +168,7 @@
 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 | 2022-04-15 |  |
 | [Tu Primera Vez](https://open.spotify.com/track/4PwkzD6FzKuaYUKEvZuuD5) | [Freddy y los Solares](https://open.spotify.com/artist/4VV2QFCzOG5Nxisme12B0b) | [Para Morir de Amor](https://open.spotify.com/album/4EQ1W80B2zpKLvsVbKYSgd) | 3:41 | 2022-06-10 | 2022-07-08 |
 | [Tu Sombra en Mi](https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:55 | 2022-04-15 |  |
-| [Tuyo Siempre Tuyo](https://open.spotify.com/track/6XDbqQ8Agqi3ny4te6xgBz) | [Los Nobles](https://open.spotify.com/artist/1WfpH53VReC5lgeuKaT91T) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/6DOloKLBD2ScpYBRVxRYmP) | 2:43 | 2022-06-03 |  |
+| [Tuyo Siempre Tuyo](https://open.spotify.com/track/6XDbqQ8Agqi3ny4te6xgBz) | [Los Nobles](https://open.spotify.com/artist/1WfpH53VReC5lgeuKaT91T) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/6DOloKLBD2ScpYBRVxRYmP) | 2:43 | 2022-06-03 | 2022-09-10 |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 | 2022-04-15 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 | 2022-04-15 | 2022-07-29 |
 | [Universo Paralelo](https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Universo Paralelo](https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R) | 3:39 | 2022-04-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "These progressive R&B and soul tracks can't be put in a box. Cover: Tempest",
+  "description": "These progressive R&B and soul tracks can't be put in a box. Cover: Greentea Peng",
   "name": "Alternative R&B",
   "published_playlist_ids": [
     "5LTt78znSTM3vwYtfHo5Kh"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 167588,
       "name": "all on me",
       "url": "https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Brown Angel",
       "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
@@ -1894,6 +1894,28 @@
     },
     {
       "album": {
+        "name": "C BOTH SIDES",
+        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155351,
+      "name": "CENTIPEDE (with KENNY MASON)",
+      "url": "https://open.spotify.com/track/2JiDnbh3HRC6WekbH2gpXI"
+    },
+    {
+      "album": {
         "name": "i hope u see this",
         "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
@@ -1909,7 +1931,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 167312,
       "name": "chances",
       "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
@@ -1963,7 +1985,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 205536,
       "name": "Cherie",
       "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
@@ -2322,6 +2344,24 @@
     },
     {
       "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+    },
+    {
+      "album": {
         "name": "CRISIS",
         "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
       },
@@ -2439,10 +2479,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
+    },
+    {
+      "album": {
+        "name": "CYCLOPS",
+        "url": "https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "CYCLOPS",
+      "url": "https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p"
     },
     {
       "album": {
@@ -2671,7 +2729,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 200000,
       "name": "Do 2 Me",
       "url": "https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w"
@@ -2711,7 +2769,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 194135,
       "name": "Doctor, My Eyes",
       "url": "https://open.spotify.com/track/1ZjE0bbhrk7OyQftjaWUxQ"
@@ -3405,7 +3463,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
@@ -3489,7 +3547,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 135714,
       "name": "Free Range",
       "url": "https://open.spotify.com/track/04Mb1bvxcOUuYNnHwV4RqP"
@@ -4335,7 +4393,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 179439,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd"
@@ -4523,7 +4581,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 232967,
       "name": "Home Maker (Edit)",
       "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
@@ -4661,7 +4719,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254526,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
@@ -4988,6 +5046,24 @@
     },
     {
       "album": {
+        "name": "IN THE AIR/BILL$ (SPED UP)",
+        "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102013,
+      "name": "IN THE AIR (SPED UP)",
+      "url": "https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6"
+    },
+    {
+      "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
@@ -5043,7 +5119,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 203777,
       "name": "In Your Body",
       "url": "https://open.spotify.com/track/2VRJKXrqR4ztn6WgJ28R9r"
@@ -5265,6 +5341,24 @@
       "duration_ms": 159666,
       "name": "jealousy (feat. rema)",
       "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
+    },
+    {
+      "album": {
+        "name": "Jesus Freak Lighter",
+        "url": "https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Jesus Freak Lighter",
+      "url": "https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE"
     },
     {
       "album": {
@@ -6245,7 +6339,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
@@ -7080,6 +7174,24 @@
     },
     {
       "album": {
+        "name": "OMG BRITT",
+        "url": "https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "OMG BRITT",
+      "url": "https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE"
+    },
+    {
+      "album": {
         "name": "On A Wave",
         "url": "https://open.spotify.com/album/5eAUBYI8HfXSV0WQCMD4Vz"
       },
@@ -7811,7 +7923,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 147093,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z"
@@ -7847,7 +7959,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 154768,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
@@ -8871,7 +8983,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 101298,
       "name": "slideshow",
       "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
@@ -8929,7 +9041,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 224340,
       "name": "So Gone (feat. Naomi Wild)",
       "url": "https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ"
@@ -9575,7 +9687,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
@@ -9655,7 +9767,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 118168,
       "name": "SYNCOPATE",
       "url": "https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI"
@@ -10199,7 +10311,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 155680,
       "name": "Tiptoeing",
       "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
@@ -10295,6 +10407,24 @@
       "duration_ms": 197142,
       "name": "Too much sun in LA",
       "url": "https://open.spotify.com/track/7MlqMPavSR5rlpcMf9ybfC"
+    },
+    {
+      "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Top Steppa",
+      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
       "album": {
@@ -11027,6 +11157,24 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "album": {
+        "name": "DEPRESSED BUT MAKE IT COOL",
+        "url": "https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0"
+      },
+      "artists": [
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "WORK 4 A SMILE (DEMO)",
+      "url": "https://open.spotify.com/track/0pgR8YHXEZPOAo93QvWyhA"
     },
     {
       "album": {

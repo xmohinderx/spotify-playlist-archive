@@ -2,9 +2,9 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
+> De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
 
-366 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+367 songs - 21 hr 40 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Coup de soleil](https://open.spotify.com/track/0NyhAtRM4o8SAWEdIflxby) | [Nooom](https://open.spotify.com/artist/2onf6pDejZ19BQ5i8YxobO), [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Coup de soleil](https://open.spotify.com/album/19NyteEHJgka9SrhVnvbR4) | 4:00 | 2022-04-22 | 2022-04-26 |
 | [Coup de soleil](https://open.spotify.com/track/2xOefBxmeK7PXxCeHYCDhG) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Coup de soleil](https://open.spotify.com/album/5QNYXEOGwjQ5nZ27jn2NH1) | 3:48 | 2021-05-08 | 2021-09-08 |
 | [Courir](https://open.spotify.com/track/4qhwhVDsbTfBsYDd0pmnzy) | [Guillaume Arsenault](https://open.spotify.com/artist/1Xrx0Xnznngb6qjtaWKZ4M) | [Courir \- Single](https://open.spotify.com/album/5ebTUBNcmux7eMrcdk2NxL) | 3:33 | 2021-01-03\* | 2021-12-18 |
-| [Couvre\-feu](https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT) | 4:04 | 2021-01-03\* |  |
+| [Couvre\-feu](https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT) | 4:04 | 2021-01-03\* | 2022-09-10 |
 | [Crier tout bas](https://open.spotify.com/track/4tWyK8bdS4YUkpXZIW9uav) | [Gabriel Cyr](https://open.spotify.com/artist/2sqgY6vt8CHeaCIfLcw6J8) | [La Voix 2019](https://open.spotify.com/album/0R9SDt52a9zP9PQ1f1uN6z) | 3:46 | 2021-02-22 | 2021-05-28 |
 | [Dagues](https://open.spotify.com/track/6UzLLH6dYuOvpjnavhDQS0) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Dans le noir](https://open.spotify.com/album/6acP1CsAciv95uGVTNfNe7) | 3:51 | 2021-01-15 | 2022-06-22 |
 | [Dahlia](https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Dahlia](https://open.spotify.com/album/2JIQTUXCAVjUq0LvLbZFMr) | 4:17 | 2021-01-03\* | 2022-07-23 |
@@ -141,6 +141,7 @@
 | [Je reviens chez nous](https://open.spotify.com/track/172zakucirQMrMR8t0rFci) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3), [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Je n'veux pas dormir ce soir](https://open.spotify.com/album/46bZg3CYLTULjGp4tSevVX) | 3:24 | 2021-04-03 | 2021-10-02 |
 | [Je rêve](https://open.spotify.com/track/399nIYTpN4745fwu3mTUzP) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:32 | 2021-01-07 | 2021-04-30 |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2021-06-23 | 2022-01-08 |
+| [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 |  |
 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 | 2021-12-17 | 2022-07-22 |
 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 | 2022-07-22 |
 | [Km Zéro](https://open.spotify.com/track/5i5Ukdzaq3UoXXhuinnWAi) | [Monsieur Raph](https://open.spotify.com/artist/3tCGkAQa2Q8ukkefsgrrYw) | [Le sens de la dérive](https://open.spotify.com/album/7mZATbXPGxVWhXROjmvIa6) | 3:25 | 2021-01-03\* | 2022-07-23 |

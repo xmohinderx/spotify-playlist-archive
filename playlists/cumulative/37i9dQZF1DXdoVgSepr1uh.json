@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: Sael, el pibe.",
+  "description": "Argentina en la casa! Foto: Maria Becerra.",
   "name": "Reggaet\u00f3n Argentino",
   "published_playlist_ids": [
     "6tDUGVVPmoQw2RkVQfmtJk"
@@ -121,6 +121,24 @@
       "duration_ms": 206090,
       "name": "Aunque Ya No Est\u00e9s Aqu\u00ed",
       "url": "https://open.spotify.com/track/00sAoxFmsbUSU5Cn0RCxlV"
+    },
+    {
+      "album": {
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
     },
     {
       "album": {
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 178750,
       "name": "Pa' La Pared",
       "url": "https://open.spotify.com/track/3mdPjtqAHenQdfruvauObB"

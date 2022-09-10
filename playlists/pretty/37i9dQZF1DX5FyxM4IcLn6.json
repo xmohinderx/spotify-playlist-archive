@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121340,
+  "num_followers": 121339,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGE3MmI4NmIxZWM0YWZjN2FmOWMwY2MzNzJiYjA2MTYx",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDUwZWM4YzMzNDM5YTM4OWQ0YTRjY2FlNTZhZDUyMWZk",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1149,20 +1149,20 @@
       "url": "https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji"
     },
     {
-      "added_at": "2022-03-29 19:11:15",
+      "added_at": "2022-03-29 22:42:51",
       "album": {
-        "name": "Younger Me",
-        "url": "https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2"
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 206853,
-      "name": "Younger Me",
-      "url": "https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B"
+      "duration_ms": 556844,
+      "name": "First Love - Live",
+      "url": "https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx"
     },
     {
       "added_at": "2022-03-29 22:42:51",
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C"
     },
     {
-      "added_at": "2022-03-29 22:42:51",
+      "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "The Blessing (Live)",
-        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
+        "name": "Younger Me",
+        "url": "https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 556844,
-      "name": "First Love - Live",
-      "url": "https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx"
+      "duration_ms": 206853,
+      "name": "Younger Me",
+      "url": "https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/3BTUH65LL0kRRED0J0PaV8"
     },
     {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "SONGWRIGHTS APOTHECARY LAB",
+        "url": "https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Formwela 10",
+      "url": "https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V"
+    },
+    {
       "added_at": "2022-03-29 22:42:51",
       "album": {
         "name": "Mend\u00f3",
@@ -1391,22 +1407,6 @@
       "duration_ms": 202701,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/63lmbLq8jYrEle2iG2O7hO"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "SONGWRIGHTS APOTHECARY LAB",
-        "url": "https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO"
-      },
-      "artists": [
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Formwela 10",
-      "url": "https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V"
     },
     {
       "added_at": "2022-03-29 19:11:15",

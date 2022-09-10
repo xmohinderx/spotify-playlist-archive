@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-93 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+94 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Fee Fi Fo Fum](https://open.spotify.com/track/4z40VUPWxUtWufaNJ3VPvG) | [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2), [Hugo Doche](https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh) | [Fee Fi Fo Fum](https://open.spotify.com/album/1cqAANGm5N0ObEb7Iqydde) | 3:24 | 2021-12-17 | 2022-08-06 |
 | [Feel Your Soul](https://open.spotify.com/track/1zX7K6qmUKaDFhfTru79gF) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Browk](https://open.spotify.com/artist/5VSox4cXnqIAxhJ4iJifSo), [Jesus Luz](https://open.spotify.com/artist/5SRrRUx9kNNtPhAwWSJPGr) | [Feel Your Soul](https://open.spotify.com/album/6vrF9cwQfdxK14ItoaLbjN) | 2:24 | 2021-12-17 |  |
 | [Freak](https://open.spotify.com/track/6wZD3wwSe15cxUty6l5HPP) | [Undercue](https://open.spotify.com/artist/6BOGvgcLBptl2fGVXl93zk), [Hotweiller'S](https://open.spotify.com/artist/05PtQi4kXRQFPh1DOJkzce) | [Freak](https://open.spotify.com/album/1wSFyZNPmxrP7MF3ObmMAE) | 3:07 | 2021-12-17 |  |
-| [From the Jungle \- Original Mix](https://open.spotify.com/track/2BfEOtR3ZBZeVHBZr41OGC) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH) | [From the Jungle](https://open.spotify.com/album/2PTssqj1PE6Lj242tlyL0G) | 4:57 | 2022-04-29 |  |
+| [From the Jungle \- Original Mix](https://open.spotify.com/track/2BfEOtR3ZBZeVHBZr41OGC) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH) | [From the Jungle](https://open.spotify.com/album/2PTssqj1PE6Lj242tlyL0G) | 4:57 | 2022-04-29 | 2022-09-10 |
 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 | 2021-12-17 |  |
 | [Galaxy Cluster](https://open.spotify.com/track/64knvzKFBcKZA4EoagRmpW) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Galaxy Cluster](https://open.spotify.com/album/2jkRNLyreYjRMOsx4WsEtm) | 3:17 | 2021-12-17 |  |
 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 | 2021-12-17 |  |
@@ -91,6 +91,7 @@
 | [Stank](https://open.spotify.com/track/3AkxpOhduYiqdkJChSFN5b) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Stank](https://open.spotify.com/album/5HazQn6Yvc7cim3hitOOQ1) | 2:37 | 2021-12-17 | 2022-04-23 |
 | [Sushi](https://open.spotify.com/track/7s724tfxJWoNxPUcLQBlkI) | [Hrag Beko](https://open.spotify.com/artist/5QuB05RhOsw0gPMb0m3Zwc) | [Sushi](https://open.spotify.com/album/1SBEvoyZQbFqKecMC88zpw) | 4:44 | 2021-12-17 |  |
 | [Taste \- Remix](https://open.spotify.com/track/5jzvi4Vt4QvCgDMF3jO7u9) | [DJ Valle](https://open.spotify.com/artist/5cYXpZE0nMP9yKot4mb32e) | [Taste \(Remix\)](https://open.spotify.com/album/10khoYES3P54jYmKMLP4Rp) | 1:54 | 2021-12-17 | 2022-02-12 |
+| [Tears](https://open.spotify.com/track/70av8bgExOvrGBWflEToQw) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Tears](https://open.spotify.com/album/5BQh3H3V2a2ROhVUhbRXBp) | 4:46 | 2022-09-09 |  |
 | [TERROR](https://open.spotify.com/track/2JYuqwjVVDN8urZZOoGXS6) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [TERROR](https://open.spotify.com/album/0kVkopK97VuOhHJ8Mh5OXn) | 3:24 | 2021-12-17 |  |
 | [The Love](https://open.spotify.com/track/2zcvYKGbJb4wsUfWKId1Iw) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [The Love](https://open.spotify.com/album/48apPEhE41dmuhU9F2zgW9) | 4:56 | 2022-07-08 |  |
 | [The Ninja](https://open.spotify.com/track/6CabLlqCd0jhWd9t0YHf27) | [Eddie Bitar](https://open.spotify.com/artist/2lYqW6goFxy80hB83z69nT), [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Metronome](https://open.spotify.com/artist/1IONqTIhfKqR6QYjS98q9m) | [The Ninja](https://open.spotify.com/album/4css1cwolGmyamZ0PLhhXQ) | 4:45 | 2022-04-22 |  |

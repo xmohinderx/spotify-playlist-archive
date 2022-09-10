@@ -1090,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Roy Head",
+        "url": "https://open.spotify.com/album/1pY5yYIU9DNm9GTFhCyMTt"
+      },
+      "artists": [
+        {
+          "name": "Roy Head And The Traits",
+          "url": "https://open.spotify.com/artist/30rTY7YT6tAoAUoGJXQBqQ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Treat Her Right",
+      "url": "https://open.spotify.com/track/2dq2J24oIF67Uvttut4dv7"
+    },
+    {
+      "album": {
         "name": "True Romance",
         "url": "https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2"
       },

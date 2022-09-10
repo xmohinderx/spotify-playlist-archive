@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-149 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+152 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 | 2022-07-01 |  |
 | [I Know You Better](https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [I Know You Better](https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm) | 6:20 | 2022-03-11 |  |
 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 | 2022-02-17 | 2022-08-27 |
+| [I Will Worship](https://open.spotify.com/track/3c9VN31K4tglWcw5p1TMFa) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [I Will Worship](https://open.spotify.com/album/1Yzm9l3a0c46rVo3lRR2r1) | 3:52 | 2022-09-09 |  |
 | [I'm Not Alone](https://open.spotify.com/track/6XvkzgxSEFINkliWpjtObE) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [I'm Not Alone](https://open.spotify.com/album/72rnpHXs1MTzisLSxmGvlb) | 4:08 | 2022-02-17 | 2022-08-27 |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2022-02-17 | 2022-08-27 |
 | [Idols](https://open.spotify.com/track/3PPG4ztHr3H9zST0fKOipQ) | [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [Idols](https://open.spotify.com/album/4Pwno4xA9DPeAjnSnfymvK) | 2:59 | 2022-07-08 |  |
@@ -80,6 +81,7 @@
 | [In The House](https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 2:59 | 2022-02-17 | 2022-08-27 |
 | [In Your Eyes](https://open.spotify.com/track/1mDuP7qIDNlE4CKJhotWyl) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [In Your Eyes](https://open.spotify.com/album/7woBjeGePAa8gugsNrDCqQ) | 4:44 | 2022-04-20 | 2022-07-02 |
 | [It's About Time](https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [It's About Time](https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy) | 2:54 | 2022-02-17 |  |
+| [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy) | 3:45 | 2022-09-09 |  |
 | [Joy In The Morning](https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:36 | 2022-06-10 |  |
 | [Jump \- Neon Feather Remix](https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [JUMP \(Neon Feather Remix\)](https://open.spotify.com/album/5fn3S9SYdWym1nn3Y77vvC) | 3:36 | 2022-03-18 |  |
 | [Keep On Hoping](https://open.spotify.com/track/67Ggy7CFJGAaeFVXoZkVAE) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/7xSiollUHf1V98ulBd5Zzn) | 3:27 | 2022-02-17 | 2022-08-27 |
@@ -128,6 +130,7 @@
 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 | 2022-02-17 | 2022-08-27 |
 | [Stand In Your Love](https://open.spotify.com/track/79a7JqbWLqk7lVD8pwbnjy) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Stand In Your Love](https://open.spotify.com/album/0lPDEqGfKCJ1zXkfk2x1Id) | 3:19 | 2022-02-17 | 2022-08-27 |
 | [Stranger](https://open.spotify.com/track/0Ok890xjKDfG6t4HjI4tRm) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/0SADJ5jvIglyFvC0hRgN4R) | 3:19 | 2022-02-17 | 2022-08-27 |
+| [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 | 2022-09-09 |  |
 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 | 2022-02-17 |  |
 | [Sweet Ever After \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:31 | 2022-02-17 | 2022-08-27 |
 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 | 2022-04-29 |  |

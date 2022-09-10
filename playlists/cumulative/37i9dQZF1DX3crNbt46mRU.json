@@ -11210,6 +11210,24 @@
     },
     {
       "album": {
+        "name": "Cloudlike",
+        "url": "https://open.spotify.com/album/1OwfTFq7MvIc5rBc015XYe"
+      },
+      "artists": [
+        {
+          "name": "From Kid",
+          "url": "https://open.spotify.com/artist/3aDrE1t79RGQYi7yOZZ7IW"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Cloudlike",
+      "url": "https://open.spotify.com/track/1KiUGW31HkqchhWj3uhZEV"
+    },
+    {
+      "album": {
         "name": "Club Jesus",
         "url": "https://open.spotify.com/album/0r8wkVFxGEamipTwz2I718"
       },
@@ -11673,10 +11691,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 156238,
       "name": "Confused",
       "url": "https://open.spotify.com/track/2FoG65TJvbADSiFyQpFf7g"
+    },
+    {
+      "album": {
+        "name": "Confused",
+        "url": "https://open.spotify.com/album/3qEaoliS5LaToKICM0Aupe"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157100,
+      "name": "Confused",
+      "url": "https://open.spotify.com/track/1pS6t9IlBamOSBcc2COFZa"
     },
     {
       "album": {
@@ -17798,6 +17834,24 @@
     },
     {
       "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K"
+    },
+    {
+      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/6A2Jot2ezzKdUNzrv2izmX"
       },
@@ -18967,6 +19021,28 @@
       "duration_ms": 195085,
       "name": "Flashbacks",
       "url": "https://open.spotify.com/track/2LaoQ1RFj2sgaSlww14lz2"
+    },
+    {
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176124,
+      "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
     },
     {
       "album": {
@@ -21850,7 +21926,7 @@
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200597,
+      "duration_ms": 200958,
       "name": "Good On Love (with Future)",
       "url": "https://open.spotify.com/track/4aPjhAeHtS0eturdD1dk78"
     },
@@ -25510,6 +25586,28 @@
     },
     {
       "album": {
+        "name": "Hunting Shadows (Assassin's Creed)",
+        "url": "https://open.spotify.com/album/6HzGOjwwke7sTbZrSf4Et9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "Hunting Shadows (Assassin's Creed)",
+      "url": "https://open.spotify.com/track/1aYGPbw7A1JKDuXyuSMQ4Z"
+    },
+    {
+      "album": {
         "name": "Hunting Shadows (Assassin\u2019s Creed)",
         "url": "https://open.spotify.com/album/6qQjlpXKP98YjXkv0UjNT3"
       },
@@ -25521,7 +25619,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 176586,
       "name": "Hunting Shadows - Assassin\u2019s Creed",
       "url": "https://open.spotify.com/track/6wfbKd64wzHsBImI7ea9qa"
@@ -30823,6 +30921,24 @@
       "duration_ms": 197691,
       "name": "La recette",
       "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
+    },
+    {
+      "album": {
+        "name": "La Vita Splendida",
+        "url": "https://open.spotify.com/album/3aDg50ttns7Ydk8IiUX07O"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241307,
+      "name": "La Vita Splendida",
+      "url": "https://open.spotify.com/track/6iqSvLMDS8YIkKVf0EoBUg"
     },
     {
       "album": {
@@ -41693,6 +41809,32 @@
       "duration_ms": 175601,
       "name": "ONE TIME",
       "url": "https://open.spotify.com/track/6lOk5fSKVJvI9qRrQZTNFW"
+    },
+    {
+      "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     },
     {
       "album": {
@@ -53177,7 +53319,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"

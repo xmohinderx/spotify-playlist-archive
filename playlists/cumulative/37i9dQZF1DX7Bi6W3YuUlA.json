@@ -1101,6 +1101,24 @@
     {
       "album": {
         "name": "Clean",
+        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
+    },
+    {
+      "album": {
+        "name": "Clean",
         "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
       },
       "artists": [
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 174400,
       "name": "Fo' Rilly Flow",
       "url": "https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz"

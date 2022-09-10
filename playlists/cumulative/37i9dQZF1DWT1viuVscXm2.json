@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 153734,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/30tJvRFNIeiLT4oypxhySY"
@@ -2130,6 +2130,28 @@
     },
     {
       "album": {
+        "name": "Para Que",
+        "url": "https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Ilan Amores",
+          "url": "https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237925,
+      "name": "Para Que",
+      "url": "https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX"
+    },
+    {
+      "album": {
         "name": "Pensando Record\u00e9",
         "url": "https://open.spotify.com/album/6itNbVzsvRFmhgvl2Q4Ldi"
       },
@@ -2219,6 +2241,24 @@
       "duration_ms": 136806,
       "name": "Pistola Remix",
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
+    },
+    {
+      "album": {
+        "name": "Poco",
+        "url": "https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249610,
+      "name": "Poco",
+      "url": "https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE"
     },
     {
       "album": {
@@ -2353,6 +2393,24 @@
       "duration_ms": 174053,
       "name": "Sabros\u00f3n",
       "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "album": {
+        "name": "Saca La Casa Pal Mambo",
+        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162084,
+      "name": "Saca La Casa Pal Mambo",
+      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
     },
     {
       "album": {
@@ -2545,7 +2603,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
@@ -2755,7 +2813,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197777,
       "name": "Tragos En Mi Mesa",
       "url": "https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X"

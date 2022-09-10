@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover:  Pierce The Veil",
+  "description": "The hardest songs, loud. Very loud. Cover:  ONE OK ROCK",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -2117,7 +2117,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 191466,
       "name": "Dismantled",
       "url": "https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc"
@@ -2323,6 +2323,24 @@
       "duration_ms": 199250,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
+    },
+    {
+      "album": {
+        "name": "Echolocate Your Love",
+        "url": "https://open.spotify.com/album/6mLQgWO8DFzqT9H8pYVIOu"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204841,
+      "name": "Echolocate Your Love",
+      "url": "https://open.spotify.com/track/5P37xjNwr4ZgXG4JbsiXqT"
     },
     {
       "album": {
@@ -6025,7 +6043,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
@@ -7725,6 +7743,24 @@
       "duration_ms": 169128,
       "name": "Up",
       "url": "https://open.spotify.com/track/2wzNQYX6veNM0AJncAV75v"
+    },
+    {
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-109 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
+110 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Stacy](https://open.spotify.com/track/3nixPfJdbVsPP3uNcHTLAp) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Lost In You](https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt) | 2:24 | 2021-12-09 |  |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-12-09 |  |
 | [Stay In Luv](https://open.spotify.com/track/7BkyJod32Yoocn72Jj2JYS) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Stay In Luv](https://open.spotify.com/album/7kmPzrAYg0lTax8XIfDNjM) | 3:22 | 2021-12-09 |  |
-| [Sugar](https://open.spotify.com/track/2NHlbpWVC7z8S9N14TDRUr) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/48jKW8G7RdJlxRB1COXM8N) | 3:33 | 2021-12-09 |  |
+| [Sugar](https://open.spotify.com/track/2NHlbpWVC7z8S9N14TDRUr) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/48jKW8G7RdJlxRB1COXM8N) | 3:33 | 2021-12-09 | 2022-09-10 |
+| [Sugar](https://open.spotify.com/track/5XGTYltLDKyl7MW3MzydnL) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/2sf79K9Sr8UC3FYoAwkmys) | 3:33 | 2021-12-09 |  |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-12-09 |  |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 3:34 | 2021-12-09 |  |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-12-09 |  |

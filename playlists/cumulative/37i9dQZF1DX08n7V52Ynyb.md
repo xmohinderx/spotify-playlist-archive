@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-140 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
+141 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/1xksct4B5bg9jYP5TYccYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Child Is Born](https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM) | [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [A Child Is Born](https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx) | 2:54 | 2022-04-13 |  |
 | [A New Path](https://open.spotify.com/track/6xFz7mIXZNx0BymD3RzCba) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI) | [Notes from Within](https://open.spotify.com/album/4uqZggZ9A4mchqCAqT4iOq) | 5:53 | 2022-04-13 | 2022-09-01 |
 | [Alfie](https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Alfie](https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj) | 5:34 | 2022-04-21 |  |
-| [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 | 2022-04-13 |  |
+| [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 | 2022-04-13 | 2022-09-10 |
 | [All My Life](https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz) | [Georgia Mancio](https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw), [Alan Broadbent](https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1) | [Quiet Is the Star](https://open.spotify.com/album/10HR7jExTsb576nxpmR1xO) | 2:46 | 2022-04-13 |  |
 | [Angel Eyes](https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N) | [Melissa Errico](https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l) | [Out Of The Dark – The Film Noir Project](https://open.spotify.com/album/2WWgLX6vhqS1yA04GCeK6G) | 5:49 | 2022-04-13 |  |
 | [Anita's Blues](https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:27 | 2022-04-13 | 2022-09-01 |
@@ -22,6 +22,7 @@
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2022-04-13 | 2022-06-15 |
 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 | 2022-04-13 |  |
 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 | 2022-04-13 |  |
+| [Behind Me](https://open.spotify.com/track/1iEYkH6B6KKkeElA98faHh) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 6:20 | 2022-09-08 |  |
 | [Behind Me](https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Behind Me](https://open.spotify.com/album/5Vskn4NaSK6MfLoUm6PawW) | 6:20 | 2022-04-13 | 2022-07-29 |
 | [Behind Me](https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 6:20 | 2022-07-21 | 2022-09-01 |
 | [Body And Soul](https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL) | [Muriel Zoe](https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq) | [Neon Blue](https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh) | 4:22 | 2022-04-13 |  |

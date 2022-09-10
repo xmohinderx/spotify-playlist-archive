@@ -698,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Entangle",
+        "url": "https://open.spotify.com/album/3FOcCZrrlOwVX52hOa5249"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236437,
+      "name": "Entangle",
+      "url": "https://open.spotify.com/track/5EHNdt9S4GdQqvVUlaqiv8"
+    },
+    {
+      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B"
       },
@@ -961,7 +979,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 191152,
       "name": "Highway Runner - Ladies on Mars \"Street Race\" Remix",
       "url": "https://open.spotify.com/track/21BXst2WHRctU1BoynqJQH"
@@ -1730,6 +1748,28 @@
     },
     {
       "album": {
+        "name": "Stop (Soulpersona 'Red Light' Remix)",
+        "url": "https://open.spotify.com/album/3VRjmxJeIugxi2wclgXU9O"
+      },
+      "artists": [
+        {
+          "name": "Princess Freesia",
+          "url": "https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER"
+        },
+        {
+          "name": "Soulpersona",
+          "url": "https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272544,
+      "name": "Stop - Soulpersona 'Red Light' Remix",
+      "url": "https://open.spotify.com/track/2iDvUs9u03xKp7bxVaaOeV"
+    },
+    {
+      "album": {
         "name": "XCIII",
         "url": "https://open.spotify.com/album/56wo2b21FTLTq0uuJPR1Vm"
       },
@@ -1803,7 +1843,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 329015,
       "name": "Take Me Closer",
       "url": "https://open.spotify.com/track/1GeS67D5dZInyYe7Ctlc1L"

@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Jeanne Added
 
-420 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+421 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [On My Way](https://open.spotify.com/track/5fea0bXIOCmSa3WawwzaAm) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [Twenty With Love](https://open.spotify.com/album/72aGs5g2wvcpIMGNAPlBcL) | 3:30 | 2022-04-05 | 2022-05-04 |
 | [On prend tout](https://open.spotify.com/track/6WheAWK0iOK2Zo81u40YVK) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [On prend tout](https://open.spotify.com/album/3jGasbW6iJN83czkvpskh8) | 2:49 | 2022-05-31 | 2022-07-06 |
 | [On se colle à la peau](https://open.spotify.com/track/5uWrmMztXXegPfd9u4QLyi) | [WILA](https://open.spotify.com/artist/2lqxgqA2Ygafxcd9dxS6mN) | [On se colle à la peau](https://open.spotify.com/album/5N70oCEC8IlKphw9pAVdp9) | 2:39 | 2022-04-05 | 2022-05-04 |
-| [One Big Mess](https://open.spotify.com/track/1xJI08hQGSIzMPnObYbdh3) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [One Big Mess](https://open.spotify.com/album/0Kzj9Krv9V5pXLSTbUyaMf) | 3:56 | 2022-09-06 |  |
+| [One Big Mess](https://open.spotify.com/track/07Xx6slqgQ5BNuWqj8oncw) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [One Big Mess](https://open.spotify.com/album/2xedPu8DQ9EXvYl8KTmV75) | 3:56 | 2022-09-06 |  |
+| [One Big Mess](https://open.spotify.com/track/1xJI08hQGSIzMPnObYbdh3) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [One Big Mess](https://open.spotify.com/album/0Kzj9Krv9V5pXLSTbUyaMf) | 3:56 | 2022-09-06 | 2022-09-10 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-07 | 2022-05-04 |
 | [Osmose](https://open.spotify.com/track/7h8Ervlf2BqcAU5xsuqrs3) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [RHC \(Extension\)](https://open.spotify.com/album/3J5FR1jneAWbIswVD59SH2) | 2:41 | 2022-03-07 | 2022-04-06 |
 | [Où que tu sois](https://open.spotify.com/track/6Ekkjj3FAPUkZH2OJTkksv) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Où que tu sois](https://open.spotify.com/album/0nPcbkhWHhy5TJYBR2jJGB) | 2:53 | 2022-02-01 | 2022-03-08 |

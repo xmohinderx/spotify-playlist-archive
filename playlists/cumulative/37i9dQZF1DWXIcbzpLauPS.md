@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Bleed From Within
+> This is the new Core at its finest\. Cover: Motionless In White
 
-579 songs - 1 day 12 hr 27 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+580 songs - 1 day 12 hr 30 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Rainbow Veins](https://open.spotify.com/track/7cjlfruK9Oqw7k5wAZGO72) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Rainbow Veins](https://open.spotify.com/album/7moGhJvy4szDPEEgvgffGj) | 4:58 | 2021-12-17 | 2022-01-08 |
 | [RAMPAGE](https://open.spotify.com/track/7lvYFiGca0eqeHUSGB9AWB) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [RAMPAGE](https://open.spotify.com/album/3cXopz7daDUlntgsDt9636) | 2:32 | 2022-03-11 | 2022-04-23 |
 | [Raw](https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Raw](https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9) | 3:42 | 2022-05-27 |  |
+| [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 | 2022-09-09 |  |
 | [Realistic Flesh Mask](https://open.spotify.com/track/1RKMdt5u0mxJo0QdDrzd48) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx), [Nick Arthur](https://open.spotify.com/artist/7tmbnYJ4nox5mUPKAXNFZa) | [Realistic Flesh Mask](https://open.spotify.com/album/6iAmG9xNEvyadpWjgficUO) | 3:12 | 2022-07-13 | 2022-07-22 |
 | [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 | 2022-06-24 |  |
 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 | 2022-07-13 | 2022-07-23 |
@@ -557,7 +558,7 @@
 | [Voices](https://open.spotify.com/track/5rUv179NuGHKBrmz4k5hiu) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Voices](https://open.spotify.com/album/65HY54OfEyWDdtm2zFi8uF) | 2:53 | 2021-12-17 | 2022-04-02 |
 | [Voices](https://open.spotify.com/track/51ZlzotGF0D9VyeOLK8Ps9) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Voices](https://open.spotify.com/album/4gD7pbQGAtNiMTeWunAQe1) | 4:15 | 2022-07-13 | 2022-07-22 |
 | [Void](https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Happier?](https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo) | 2:43 | 2021-12-17 | 2022-02-18 |
-| [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 |  |
+| [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-12-17 | 2022-02-11 |

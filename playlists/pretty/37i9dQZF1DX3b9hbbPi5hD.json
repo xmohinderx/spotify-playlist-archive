@@ -1,12 +1,12 @@
 {
   "description": "Tarantino not only produces great movies, he produces great soundtracks",
-  "num_followers": 587297,
+  "num_followers": 587474,
   "original_name": "Best Tracks from Tarantino Films",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY2OTQ3OCwwMDAwMDAwMDg0NThhN2E4ODYzMzE1MmFkNzVkNDIyNDQ2ODkzOTU3",
+  "snapshot_id": "MTY2Mjc0NDMxOSwwMDAwMDAwMDViYjA0YzlmZjJiMzg1NTdiYmQyYjQwYjliZWFhYWY1",
   "tracks": [
     {
       "added_at": "2018-08-20 07:31:02",
@@ -219,6 +219,22 @@
       "duration_ms": 147693,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi"
+    },
+    {
+      "added_at": "2022-09-09 17:25:19",
+      "album": {
+        "name": "The Best Of Roy Head",
+        "url": "https://open.spotify.com/album/1pY5yYIU9DNm9GTFhCyMTt"
+      },
+      "artists": [
+        {
+          "name": "Roy Head And The Traits",
+          "url": "https://open.spotify.com/artist/30rTY7YT6tAoAUoGJXQBqQ"
+        }
+      ],
+      "duration_ms": 125893,
+      "name": "Treat Her Right",
+      "url": "https://open.spotify.com/track/2dq2J24oIF67Uvttut4dv7"
     },
     {
       "added_at": "2018-08-20 07:31:02",

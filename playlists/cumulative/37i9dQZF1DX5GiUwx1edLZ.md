@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-219 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/3taMKdfV2mPq94KYQPk84T)
+220 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/3taMKdfV2mPq94KYQPk84T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Love Is Gone \(Orchestral Cover\)](https://open.spotify.com/track/3F4HFMlD7l1qKTG4h4CALU) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Greenice](https://open.spotify.com/artist/34bZqO84T0Z4JOJqgbPMdF) | [Love Is Gone \(Orchestral Cover\)](https://open.spotify.com/album/5VTWnh7ZNuJW2fZZUMhzhb) | 7:56 | 2021-12-10 | 2022-07-28 |
 | [Love Me Like You Never Did \(Acoustic\)](https://open.spotify.com/track/1Oy4c5vseF1wbnKle1ZQQp) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Ethan Thompson](https://open.spotify.com/artist/2FPhOFbPxBiUTjdF9ZUYrZ) | [Watch the World \(Acoustic Versions\)](https://open.spotify.com/album/7dWgNVjh2aG5C3l5cvswKy) | 3:11 | 2021-12-10 | 2022-07-29 |
 | [Lullaby \- Acoustic](https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Lullaby \(Acoustic\)](https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB) | 3:57 | 2021-12-10 |  |
+| [Mad World \- Acoustic Version](https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Mad World \(Acoustic Version\)](https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq) | 2:49 | 2022-08-26 |  |
 | [Mad World \- Acoustic Version](https://open.spotify.com/track/7BRYEE8wi0gye3T5V7zro9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Mad World \(Acoustic Version\)](https://open.spotify.com/album/1gIRc9FnLBNpKvOAE7xiBl) | 2:49 | 2021-12-10 | 2022-07-31 |
 | [Married to Your Melody \- Acoustic Version](https://open.spotify.com/track/4UPMf6fDQB8Ckdtah1SIqO) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/1BkLF64aRSd3mOBxcPChhD) | 3:01 | 2022-05-20 | 2022-07-29 |
 | [Melody \- Acoustic](https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody \(Acoustic\)](https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY) | 2:49 | 2022-03-25 |  |
@@ -226,6 +227,6 @@
 | [You Got To Go](https://open.spotify.com/track/1Gs0I6tTJ8WN42pEvm3Rzt) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Acoustic](https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp) | 5:38 | 2022-03-25 | 2022-05-08 |
 | [You Were Loved \(with OneRepublic\) \- Acoustic](https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\) \[Acoustic\]](https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq) | 3:31 | 2022-05-27 |  |
 | [Young God \(Acoustic\) \[feat\. Lovelle\]](https://open.spotify.com/track/0mQhrGlPgwWPscwMfC6WfI) | [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX), [Lovelle](https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx) | [Young God \(Acoustic\) \[feat\. Lovelle\]](https://open.spotify.com/album/4bsDbDBvDySRa9nI2KPcPl) | 3:44 | 2021-12-10 | 2022-07-27 |
-| [Zedd Medley \- Find You/Spectrum/Clarity/Stay the Night](https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R) | [Daniel Jang](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN) | [Violin Covers Pt\. II](https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g) | 3:06 | 2022-06-27 |  |
+| [Zedd Medley \- Find You/Spectrum/Clarity/Stay the Night](https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R) | [Daniel Jang](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN) | [Violin Covers Pt\. II](https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g) | 3:06 | 2022-06-27 | 2022-09-10 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

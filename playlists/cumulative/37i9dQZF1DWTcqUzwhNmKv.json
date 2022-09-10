@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Megadeth on top of the biggest Metal playlist!",
+  "description": "Ozzy on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -171,6 +171,24 @@
       "duration_ms": 192504,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
+    },
+    {
+      "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228260,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM"
     },
     {
       "album": {
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 221282,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 203653,
       "name": "Earth Shaker",
       "url": "https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 169000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 164000,
       "name": "Fuckboi (feat. Conquer Divide)",
       "url": "https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO"
@@ -1935,6 +1953,24 @@
       "duration_ms": 180674,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf"
+    },
+    {
+      "album": {
+        "name": "Hurrikan",
+        "url": "https://open.spotify.com/album/3metucRFaJQD1Tx4zVYwLp"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99373,
+      "name": "Hurrikan",
+      "url": "https://open.spotify.com/track/4uBXb5llcXoL231RHUv8JD"
     },
     {
       "album": {
@@ -2650,6 +2686,28 @@
     },
     {
       "album": {
+        "name": "Nothing Feels Right (feat. Zakk Wylde)",
+        "url": "https://open.spotify.com/album/5FRTz5iys7bz1F2yzn9Lm5"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Zakk Wylde",
+          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335150,
+      "name": "Nothing Feels Right (feat. Zakk Wylde)",
+      "url": "https://open.spotify.com/track/1K2MfPrkhy3pAYFL0m4Y64"
+    },
+    {
+      "album": {
         "name": "Nous Sommes La Guerre",
         "url": "https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA"
       },
@@ -3289,7 +3347,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 146176,
       "name": "Self-Destruction",
       "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
@@ -4650,6 +4708,32 @@
     },
     {
       "album": {
+        "name": "Waiting On The Sky To Change",
+        "url": "https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        },
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244135,
+      "name": "Waiting On The Sky To Change",
+      "url": "https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0"
+    },
+    {
+      "album": {
         "name": "Wake Up Dead",
         "url": "https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre"
       },
@@ -4907,6 +4991,24 @@
       "duration_ms": 322804,
       "name": "Wind of Change",
       "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon"
     },
     {
       "album": {

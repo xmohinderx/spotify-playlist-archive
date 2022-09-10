@@ -3182,6 +3182,32 @@
     },
     {
       "album": {
+        "name": "V\u00c6B T\u00c9KK",
+        "url": "https://open.spotify.com/album/6rUaaCGu5UsPQsZOMeJTk0"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        },
+        {
+          "name": "\u00c1slaug Helga",
+          "url": "https://open.spotify.com/artist/0fxgP6SrjpTzEgiTbzlEta"
+        },
+        {
+          "name": "Nappi",
+          "url": "https://open.spotify.com/artist/05NYmJduTDP7AxdCZei9kT"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "DJAMMI\u00d0 KALLAR",
+      "url": "https://open.spotify.com/track/3sk0an74u9Mwr8syvmFCpl"
+    },
+    {
+      "album": {
         "name": "Kve\u00f0ja, Br\u00edet",
         "url": "https://open.spotify.com/album/3LSoEqFvR1Z4ichisNDAJT"
       },
@@ -9940,6 +9966,32 @@
     },
     {
       "album": {
+        "name": "Malena",
+        "url": "https://open.spotify.com/album/1A2cD8dEM0HmMaoh64jP6R"
+      },
+      "artists": [
+        {
+          "name": "Francesco Giglio",
+          "url": "https://open.spotify.com/artist/5Ah51IbdpFTEZVBYiTKCyI"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Elisa Gold",
+          "url": "https://open.spotify.com/artist/6Lu0XdMBPAbHIbFjLMQEFp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Kc0Kx0MKFWIBbYVTg52w"
+    },
+    {
+      "album": {
         "name": "MAMMAMIA",
         "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
@@ -10991,7 +11043,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
@@ -16251,7 +16303,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"

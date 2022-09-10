@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Christian Nodal, Romeo Santos.",
-  "num_followers": 14719,
+  "num_followers": 14765,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MDcyMiwwMDAwMDAwMDcwY2QxMWZiZDdjYmVlYjM4ZTc5MGExOGM1NTdmNDlk",
+  "snapshot_id": "MTY2MjA5MDcyMiwwMDAwMDAwMGRkODc5ZGMzZTViODY4NTg5YTE2OGE3NTQ4ZDRlZjBi",
   "tracks": [
     {
       "added_at": "2022-09-02 03:52:02",
@@ -699,6 +699,30 @@
     {
       "added_at": "2022-09-02 03:52:02",
       "album": {
+        "name": "Bandolero",
+        "url": "https://open.spotify.com/album/223VABFuHUyZNNW1OTGlmW"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 172149,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/2AsqZbYfD9007Dw9aW6N7u"
+    },
+    {
+      "added_at": "2022-09-02 03:52:02",
+      "album": {
         "name": "De A De Veras",
         "url": "https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 141105,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
-    },
-    {
-      "added_at": "2022-09-02 03:52:02",
-      "album": {
-        "name": "Bandolero",
-        "url": "https://open.spotify.com/album/223VABFuHUyZNNW1OTGlmW"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 172149,
-      "name": "Bandolero",
-      "url": "https://open.spotify.com/track/2AsqZbYfD9007Dw9aW6N7u"
     },
     {
       "added_at": "2022-09-02 03:52:02",
@@ -851,30 +851,6 @@
     {
       "added_at": "2022-09-02 03:52:02",
       "album": {
-        "name": "Enfermo de Riqueza",
-        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 234611,
-      "name": "Enfermo de Riqueza",
-      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
-    },
-    {
-      "added_at": "2022-09-02 03:52:02",
-      "album": {
         "name": "100 A\u00f1os (Con Calibre 50)",
         "url": "https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 215092,
       "name": "100 A\u00f1os - Con Calibre 50",
       "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
+    },
+    {
+      "added_at": "2022-09-02 03:52:02",
+      "album": {
+        "name": "Enfermo de Riqueza",
+        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 234611,
+      "name": "Enfermo de Riqueza",
+      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
     },
     {
       "added_at": "2022-09-02 03:52:02",

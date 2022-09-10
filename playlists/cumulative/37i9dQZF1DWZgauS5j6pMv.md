@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Dabeull
 
-210 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+211 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [GET DOWN](https://open.spotify.com/track/3zylRjS84s0SgiB72bvxR0) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [BD3](https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ) | [GET DOWN](https://open.spotify.com/album/0tWjDz7dJv6Hrh2J4vO8eZ) | 1:39 | 2021-09-17 | 2022-09-03 |
 | [Get Down](https://open.spotify.com/track/15tuK1pTwQdy3GQH0OaBJ8) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:13 | 2022-01-28 |  |
 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 | 2022-04-29 |  |
+| [Gimme The Word](https://open.spotify.com/track/4kIhrMfenA2r86h98xh91r) | [Uzuhan](https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37) | [Gimme The Word](https://open.spotify.com/album/4I7sMTrlO9UQ4jNDQxqGBq) | 3:17 | 2022-09-09 |  |
 | [Give It up \(Don't Take Part in the Madness\) \- Abstract Orchestra Remix](https://open.spotify.com/track/4JyAYQAtaexWAjvu1zFEqU) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Abstract Orchestra](https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp), [John McCallum](https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4) | [Give It Up \(Don't Take Part in the Madness\) \[Abstract Orchestra Remix\]](https://open.spotify.com/album/3ISsFYJgRBaxWdseqzBENc) | 4:17 | 2021-06-04 | 2022-01-29 |
 | [Glad \- Vocal Mix](https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9) | [Michele Chiavarini](https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Glad](https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN) | 4:35 | 2022-05-06 |  |
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2022-06-24 |  |
@@ -196,7 +197,7 @@
 | [Until I Get Back](https://open.spotify.com/track/2inueyaWWmc0Hu0LJwMetH) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Until I Get Back](https://open.spotify.com/album/0mqVkEjfEhg8jXz7HRtWqJ) | 4:33 | 2022-05-06 |  |
 | [Wagmi Express](https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Water 4 The Soul II](https://open.spotify.com/album/7AjqMjfxFB7r5ZX1UyEMU9) | 3:35 | 2022-01-28 |  |
 | [Wait, I Lied](https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:16 | 2021-05-07 | 2022-01-29 |
-| [Wanna Go](https://open.spotify.com/track/4BSDnTwqQOARzQnsVkS8Gh) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Wanna Go](https://open.spotify.com/album/7xU2fbizvJVD9XUpqlQ8wM) | 2:18 | 2022-06-17 |  |
+| [Wanna Go](https://open.spotify.com/track/4BSDnTwqQOARzQnsVkS8Gh) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Wanna Go](https://open.spotify.com/album/7xU2fbizvJVD9XUpqlQ8wM) | 2:18 | 2022-06-17 | 2022-09-10 |
 | [WASABI](https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [WASABI](https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM) | 2:47 | 2022-07-22 |  |
 | [Wasting Time](https://open.spotify.com/track/6qwwMUQBq2yy2bqBejBCIc) | [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Wasting Time](https://open.spotify.com/album/1l45FmdRw6IPM0jjDMd2fq) | 2:13 | 2021-04-16 | 2022-01-29 |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-05-07 | 2022-07-16 |

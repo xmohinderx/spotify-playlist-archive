@@ -4,7 +4,7 @@
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-52 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
+53 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [The Station](https://open.spotify.com/track/0DLv7bCzYht1B7zLyNObWE) | [hidingthehurt](https://open.spotify.com/artist/1ZEMLFeC3e4J8Y9exK3dKp), [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [The Station](https://open.spotify.com/album/3FPieXf5uccWdl10BgxpLl) | 2:28 | 2021-12-01 |  |
 | [These Days R Mine](https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [These Days R Mine](https://open.spotify.com/album/2vkVLUruMBiiwHNv9bATTB) | 3:28 | 2021-12-01 |  |
 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 | 2021-12-01 |  |
-| [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 | 2021-12-01 |  |
+| [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 | 2021-12-01 | 2022-09-10 |
+| [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 | 2021-12-01 |  |
 | [verbal warnings](https://open.spotify.com/track/02JZIF70F9dpOCdenwFwH3) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [verbal warnings](https://open.spotify.com/album/71884HMgAShpsgBO7aR26P) | 3:03 | 2021-12-01 |  |
 | [White Lie](https://open.spotify.com/track/6lZRybpY3OTgnufOBR91dg) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/5D2svNFAKRNgAOW1Tys68z) | 3:33 | 2021-12-01 |  |
 

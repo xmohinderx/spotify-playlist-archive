@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-231 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+232 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 | 2022-06-06 |  |
 | [不營業的日常](https://open.spotify.com/track/7D0L9OU2vaI45hUj4is66b) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [不營業的日常](https://open.spotify.com/album/46K9h6nOjRiNNNiwoC8wce) | 4:04 | 2022-06-06 | 2022-07-10 |
 | [世界末日後的浪漫](https://open.spotify.com/track/4gl6kFLDAY24hJlKywPQ0l) | [Four Pens](https://open.spotify.com/artist/4JaPHRnOQfEDyVWJ27CSpY) | [世界末日後的浪漫](https://open.spotify.com/album/3GrNmGLzo2sgSoyhcvaQwT) | 3:10 | 2022-08-15 | 2022-09-06 |
-| [什么跟什么有什么关系](https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [许光汉](https://open.spotify.com/artist/5YYRJB47PfTBqvb3tm2mwu) | [不完美人生指南](https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK) | 3:47 | 2022-06-06 |  |
+| [什么跟什么有什么关系](https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [许光汉](https://open.spotify.com/artist/5YYRJB47PfTBqvb3tm2mwu) | [不完美人生指南](https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK) | 3:47 | 2022-06-06 | 2022-09-10 |
 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 | 2022-08-15 |  |
 | [今晚嫁给我吧](https://open.spotify.com/track/479DlRu66IKVo9aENXdgRC) | [Chen Linong](https://open.spotify.com/artist/33L43pzLHkc0qhwnfPLWAt), [王彦霖](https://open.spotify.com/artist/1IOPUaQQonu28bwceG2kgU) | [今晚嫁给我吧](https://open.spotify.com/album/7x6BMToWLH2zObuxAgSZBa) | 3:59 | 2022-06-27 | 2022-07-17 |
 | [低頭戰](https://open.spotify.com/track/3PZHvFk65YHEhbXtI5T82Q) | [Amber An](https://open.spotify.com/artist/3a5LC9P4JzYWSWo6npWQsw), [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [低頭戰](https://open.spotify.com/album/1wCDig0yqUA0eP8tepQUv4) | 3:22 | 2022-06-06 | 2022-06-13 |
@@ -148,6 +148,7 @@
 | [愛你需要練習](https://open.spotify.com/track/0OVRyjRP4ub7xVZI1MOdew) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW), [薇婭](https://open.spotify.com/artist/3YJP49BjkAQUKPE6Yf7CVw) | [愛你需要練習](https://open.spotify.com/album/41AW0iBvE6NDQr2FT0gtlB) | 3:55 | 2022-06-06 | 2022-07-23 |
 | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/track/5UaSB8aD7oQOX1l5eqoLMR) | [曾韻璇](https://open.spotify.com/artist/5y6V55XBzT0i9WkySKwgNE), [高偉勛](https://open.spotify.com/artist/3P8fzwFoEZQxVovoy2xgkd) | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/album/3eHD9S6QJRWfUq3dO63E5i) | 3:47 | 2022-07-04 | 2022-07-08 |
 | [慢慢來](https://open.spotify.com/track/1yAgPYONWEoQgsOaFqIVGE) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [慢慢來](https://open.spotify.com/album/6PUCm1ig2sqtDU0epcKHQL) | 3:48 | 2022-06-13 | 2022-06-19 |
+| [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 |  |
 | [戀愛是選擇題由你](https://open.spotify.com/track/02r44UrfPjUYnST7DTLmH8) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [相愛的這種本能](https://open.spotify.com/album/5ej1v8T39zdAUM5g1gvtxz) | 3:33 | 2022-06-06 | 2022-06-13 |
 | [我喜歡\(不,我愛\)](https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo) | [Yen\-J](https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi) | [謝謝你的美好](https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE) | 4:08 | 2022-06-06 | 2022-07-19 |
 | [我喜歡你](https://open.spotify.com/track/75EBF5dwgU2w0u4IJtdUI5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [我喜歡你](https://open.spotify.com/album/2TbRtoKHcCkt39yb9JBnC6) | 3:15 | 2022-06-06 | 2022-07-12 |

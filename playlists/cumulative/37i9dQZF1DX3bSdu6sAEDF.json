@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 167500,
       "name": "Another Broken Heart",
       "url": "https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR"
@@ -315,6 +315,24 @@
       "duration_ms": 217281,
       "name": "Another Day Down",
       "url": "https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei"
+    },
+    {
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5mIY4ShCactjPKntsiRcHZ"
+      },
+      "artists": [
+        {
+          "name": "Nate Good",
+          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131249,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/63nK13LZrRDdKpLRSj4uca"
     },
     {
       "album": {
@@ -705,7 +723,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 207722,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
@@ -1306,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "album": {
         "name": "WE ARE (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
@@ -1465,6 +1501,24 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+    },
+    {
+      "album": {
+        "name": "Happening Again",
+        "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173951,
+      "name": "Happening Again",
+      "url": "https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc"
     },
     {
       "album": {
@@ -2941,7 +2995,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 158167,
       "name": "Rules R Made 2 B Broken",
       "url": "https://open.spotify.com/track/5wX68SsEADVhUjFdEyTOAd"
@@ -2999,7 +3053,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 159310,
       "name": "See If I Care",
       "url": "https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer"
@@ -3593,7 +3647,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 175148,
       "name": "The Impact",
       "url": "https://open.spotify.com/track/6oMdRe1roUbsv3Irors0qf"

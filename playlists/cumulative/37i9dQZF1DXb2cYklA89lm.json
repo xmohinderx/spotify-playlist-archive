@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "No Brain, No Pain",
+        "url": "https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az"
+      },
+      "artists": [
+        {
+          "name": "The Brains",
+          "url": "https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Black Jack Death Bet",
+      "url": "https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz"
+    },
+    {
+      "album": {
         "name": "Welcome Back To Insanity Hall",
         "url": "https://open.spotify.com/album/5pYc0q0qCPcASzOLi03U9k"
       },
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 181546,
       "name": "Rockin' at the House of Strange",
       "url": "https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8"

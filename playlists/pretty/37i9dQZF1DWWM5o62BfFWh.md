@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,720 likes - 68 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,770 likes - 68 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 29 | [La Noche Pinta Buena](https://open.spotify.com/track/6kRdDtXzVavPnQHOdwesss) | [Pacific Broders](https://open.spotify.com/artist/4eSxDx3Bqn3iahMM9yVxgq), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Noche Pinta Buena](https://open.spotify.com/album/6EEIFn4Um2eEPs6zBHNOvE) | 3:18 |
 | 30 | [Apagame la Luz](https://open.spotify.com/track/5YNm7rjtayQtYKgK1tLpcW) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Apagame la Luz](https://open.spotify.com/album/5A19cv9THtQaFe45nJ2beo) | 3:25 |
 | 31 | [La Esquina](https://open.spotify.com/track/7BqabXyGT4PFn5VKTLYBEA) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Persa "La Voz"](https://open.spotify.com/artist/1dGKIP6egyfadESsIvuVzN), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg), [Eliot El Mago D Oz](https://open.spotify.com/artist/7sLfBZWvYiIFjuTtRBLmIS) | [La Esquina](https://open.spotify.com/album/2YDo0dFmWq3Yt0j2AU59d6) | 4:35 |
-| 32 | [Te Amo \(Versos Gastados\)](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
+| 32 | [Te Amo \(Versos Gastados\) \- prod\. by Cuban Deejays](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
 | 33 | [Calentando la Habana](https://open.spotify.com/track/5D5eHsVVy8JEHBOUXlhd4t) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Calentando la Habana](https://open.spotify.com/album/07Gy6UBWNbNzzOs4lmSZKC) | 4:13 |
 | 34 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y General Damian\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 |
 | 35 | [Si No Vuelves](https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:35 |

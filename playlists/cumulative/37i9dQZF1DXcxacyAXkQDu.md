@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-765 songs - 1 day 21 hr 28 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+767 songs - 1 day 21 hr 36 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Back of Your Head](https://open.spotify.com/track/4Nxo4PVVFePtkEG3G0LuD9) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Back of Your Head](https://open.spotify.com/album/16kpdNRYt5KexZJLBXUOog) | 3:54 | 2021-12-21 | 2022-07-29 |
 | [Back to You](https://open.spotify.com/track/7zjif2RAeR0LuzlW7OqPoo) | [Adriana](https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq) | [Back to You](https://open.spotify.com/album/58jIg843UC5iN5sGLoJWIp) | 2:36 | 2022-03-24 | 2022-03-28 |
 | [BAD DESIRE](https://open.spotify.com/track/3rVixRSQvA9IGV3gopxdUc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [BAD DESIRE](https://open.spotify.com/album/7MovA4TwCOO6axk8nxE110) | 4:13 | 2022-03-24 | 2022-04-21 |
-| [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 | 2022-08-26 |  |
+| [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 | 2022-08-26 | 2022-09-10 |
 | [Barcelona](https://open.spotify.com/track/1yJZwBqTyGTB7mz8nZyiel) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia) | 3:08 | 2022-03-24 | 2022-04-19 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2021-12-21 | 2022-08-23 |
 | [Be Your Man](https://open.spotify.com/track/0r8Ak8DxAdZzxNb9uImWAQ) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/5GBsPJwvVWXWRalcDPTAGM) | 3:23 | 2022-02-24 | 2022-07-29 |
@@ -373,6 +373,7 @@
 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 | 2022-07-08 |  |
 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 | 2021-12-21 | 2022-01-21 |
 | [Learning to Fly](https://open.spotify.com/track/774L5jcka6KfVUecFA0Zc1) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Learning to Fly](https://open.spotify.com/album/4CPWgOPiOYXbUFi7G7VQdC) | 3:05 | 2022-03-24 | 2022-07-04 |
+| [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2022-09-09 |  |
 | [Leave You Lonely](https://open.spotify.com/track/2M5mic6eEYch6o1gVJKRkQ) | [Jesse Hale Moore](https://open.spotify.com/artist/3nZsDB8GeL0xVGNvetZgoO) | [Leave You Lonely](https://open.spotify.com/album/2PDQuuWGMRWrDMkPxgPiV9) | 3:55 | 2021-12-21 | 2022-07-28 |
 | [Left Side](https://open.spotify.com/track/6QUVcbxAJTVDQeDrchWzZx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/6VtxEWVdKRHUyRnrtC3K7r) | 2:24 | 2022-03-24 | 2022-04-21 |
 | [Let Her Go](https://open.spotify.com/track/1GlvVIPOzbZyHIDaFF8eIc) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Goodbye Sunshine, Hello Nighttime](https://open.spotify.com/album/7kj2KnlW6wukIq2db4DdPy) | 3:12 | 2022-03-24 | 2022-07-28 |
@@ -624,7 +625,7 @@
 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 | 2021-12-21 |  |
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-05-22 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2022-08-05 | 2022-08-13 |
-| [Tear Me Down](https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 2:57 | 2022-08-12 |  |
+| [Tear Me Down](https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 2:57 | 2022-08-12 | 2022-09-10 |
 | [Tear Me Down](https://open.spotify.com/track/6hiv5wOQch8yn5VFW6hD8Z) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [What Good Is Love \(Acoustic\)](https://open.spotify.com/album/6nSgEmUzkS90nKOLEI89Rh) | 2:57 | 2022-01-07 | 2022-07-28 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2022-07-26 |
 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 | 2021-12-21 |  |
@@ -662,6 +663,7 @@
 | [Thinking](https://open.spotify.com/track/7jGXlWmxFPzBJOelhhg0DK) | [Jean Root](https://open.spotify.com/artist/552ZwELQyZPtQtikl5e1tn) | [Thinking](https://open.spotify.com/album/2iX08scdGLXtaMP7rE5OGc) | 3:27 | 2022-03-25 | 2022-04-09 |
 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 | 2021-12-21 | 2022-05-03 |
 | [This Could Be Love](https://open.spotify.com/track/6pYWX2sqfzlfao3irB9iXw) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [This Could Be Love](https://open.spotify.com/album/6KBXkshoN7saKqCqMz9tdu) | 2:43 | 2021-12-21 | 2022-07-29 |
+| [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-09-09 |  |
 | [This Town \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/4aSfgWmRa9KsISD4Jmx7QB) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:22 | 2022-03-24 |  |
 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2021-12-21 | 2022-07-29 |
 | [Thru These Tears](https://open.spotify.com/track/4gB61mP4tNChn4LgfquMhi) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears](https://open.spotify.com/album/66Jli9l9UHCoiumUK85Y5z) | 3:24 | 2022-03-24 | 2022-04-17 |

@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTYxOCw4NzE3ZTQ5Yzg4ZDU3MWY5Yzg5YjNjOWExOTRhYjc4ODM0ZDUwMzgw",
+  "snapshot_id": "MTYyMiw3ODU5YjQ5Y2YxZjNmZjkwZTBjODUzY2MyMmExNjZmYzYyYjM5OTdm",
   "tracks": [
     {
       "added_at": "2022-08-26 01:01:45",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
     },
     {
+      "added_at": "2022-09-09 03:32:31",
+      "album": {
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 252130,
+      "name": "Midnight Demon Club",
+      "url": "https://open.spotify.com/track/0Ha3SbwjPO11gZ0zPjZQ2o"
+    },
+    {
       "added_at": "2022-08-19 03:31:22",
       "album": {
         "name": "Tippa My Tongue",
@@ -95,6 +111,38 @@
       "duration_ms": 188101,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/2iOMWossZttPvaGNzbEKCh"
+    },
+    {
+      "added_at": "2022-09-09 03:40:41",
+      "album": {
+        "name": "San Quentin",
+        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
+    },
+    {
+      "added_at": "2022-09-09 03:41:07",
+      "album": {
+        "name": "Dregs of the Wine",
+        "url": "https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 209942,
+      "name": "Dregs of the Wine",
+      "url": "https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6"
     },
     {
       "added_at": "2022-07-22 06:05:49",

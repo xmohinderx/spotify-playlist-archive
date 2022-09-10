@@ -2,9 +2,9 @@
 
 ### [Radar India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Anumita Nadesan
+> Most exciting artists from the Indian Indie scene\. Cover : Raman Negi
 
-173 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+175 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2021-12-06 | 2022-03-22 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [GrapeGuitarBox](https://open.spotify.com/artist/0KDH3OhkatkzhqJcf4m8DR) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2021-12-06 | 2022-01-11 |
 | [Gaate Jao](https://open.spotify.com/track/0RWbkXSfIYIQo0g8JvrXIh) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Gaate Jao](https://open.spotify.com/album/3EJqU9rYyYgrgoNDQIxIGS) | 3:27 | 2021-12-06 | 2022-01-11 |
+| [Gaayab](https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Gaayab](https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS) | 4:22 | 2022-09-10 |  |
 | [Gehraiyaan](https://open.spotify.com/track/1h5bMRo0WZ6L6E2a9ndiQ1) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [Gehraiyaan](https://open.spotify.com/album/0tQJ5GTvAMRX7vZ8umFUzO) | 3:38 | 2022-01-31 | 2022-02-05 |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-01-10 |  |
 | [Grip](https://open.spotify.com/track/6T6I79tFf1Zc9h5Piy0gV9) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Landslands](https://open.spotify.com/artist/4I4rUfCqitzhA0WpTmwZvf) | [Grip](https://open.spotify.com/album/1tM6K9limY633ujoAagEuf) | 3:32 | 2022-01-10 |  |
@@ -80,7 +81,7 @@
 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2021-12-06 | 2022-08-31 |
 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 | 2021-12-06 | 2022-06-11 |
 | [jazba](https://open.spotify.com/track/6oFj20X1bo2PwVfedRZs6G) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Jazba](https://open.spotify.com/album/60HHi0QYQpi4SOvHFAu0aU) | 5:35 | 2022-01-10 |  |
-| [Jiya Kaanch Ka](https://open.spotify.com/track/2NgXNCccXyW9xIVfKVonl4) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Jiya Kaanch Ka](https://open.spotify.com/album/1uOokbJIY02uOXNmMReuVF) | 2:40 | 2022-01-10 |  |
+| [Jiya Kaanch Ka](https://open.spotify.com/track/2NgXNCccXyW9xIVfKVonl4) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Jiya Kaanch Ka](https://open.spotify.com/album/1uOokbJIY02uOXNmMReuVF) | 2:40 | 2022-01-10 | 2022-09-10 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2021-12-06 | 2022-08-23 |
 | [Kaagaz Ki Naav](https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Kaagaz Ki Naav](https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu) | 4:57 | 2021-12-06 | 2022-08-03 |
 | [Kaahe Ko Sataaye](https://open.spotify.com/track/5VvJxA5YDS3J88R6snUOX1) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Kaahe Ko Sataaye](https://open.spotify.com/album/2orsvLr1bGcUenmFBuaXM1) | 3:45 | 2021-12-06 | 2022-04-15 |
@@ -108,11 +109,12 @@
 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-10 |  |
 | [Last December](https://open.spotify.com/track/4BV7aMOMZYc9PfV5jW3R7j) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Hades.](https://open.spotify.com/artist/0Wt5CU3KrmoSgQbzHjioNQ) | [Last December](https://open.spotify.com/album/7B7QS4DmYKplXtK6EJhoEg) | 3:19 | 2021-12-06 | 2022-03-22 |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2022-07-08 |  |
-| [Le Chal](https://open.spotify.com/track/5fehqyMcmFL86IkoPtntbz) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Le Chal](https://open.spotify.com/album/13T9R562F4d4Xmd2SI9c7J) | 4:07 | 2022-01-10 |  |
+| [Le Chal](https://open.spotify.com/track/5fehqyMcmFL86IkoPtntbz) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Le Chal](https://open.spotify.com/album/13T9R562F4d4Xmd2SI9c7J) | 4:07 | 2022-01-10 | 2022-09-10 |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-01-10 |  |
 | [Makhmal](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 | 2022-08-08 |  |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2021-12-06 | 2022-03-16 |
 | [Martbaan](https://open.spotify.com/track/3NyVaRd7ei6erCESpTQzDL) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN), [June](https://open.spotify.com/artist/0WSJQxpWnYJswHWehTfJnP), [Sarah Mehdi](https://open.spotify.com/artist/5hj5wOlAgSI6WM3YP1LOd4) | [Martbaan](https://open.spotify.com/album/4rhWPluu9U2NusNDQVdogO) | 5:30 | 2022-01-10 | 2022-03-26 |
+| [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-10 |  |
 | [Meherbaan](https://open.spotify.com/track/5AeCYcLTcrY8AiW33Ue2Ll) | [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Meherbaan](https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6) | 3:44 | 2022-08-02 |  |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-01-27 |  |
 | [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 | 2022-01-10 | 2022-05-11 |

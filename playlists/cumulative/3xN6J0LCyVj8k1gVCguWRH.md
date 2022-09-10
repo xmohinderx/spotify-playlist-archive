@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,663 songs - 4 day 0 hr 47 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,664 songs - 4 day 0 hr 52 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1257,6 +1257,7 @@
 | [screenlight](https://open.spotify.com/track/3SUqMjY0AOtmsBbbO9HbQG) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [screenlight](https://open.spotify.com/album/2XqLmBU9PGOqecAKg0D7T9) | 2:09 | 2022-05-23 | 2022-06-18 |
 | [Sea Salt](https://open.spotify.com/track/2d9ob8Skm4xeorCwWXkpwb) | [Sophie Dorsten](https://open.spotify.com/artist/5CdWY3kUKjlO7gDpdW2JXR), [Alex Dorsten](https://open.spotify.com/artist/0n8DZSotJdu0tz4cFTZHNF) | [Sea Salt](https://open.spotify.com/album/6zXUfzIz4w4MaoS5ed88tA) | 2:47 | 2021-05-08 | 2021-11-07 |
 | [Searchin' \- Original Mix](https://open.spotify.com/track/0W04NlgVayujQBOsRW8gw0) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD), [Karmina Dai](https://open.spotify.com/artist/05RLuucyiLswN7bNiV6Ma3) | [Together Alone](https://open.spotify.com/album/10YwwAZHM65fOGu3bGqb71) | 4:15 | 2021-02-12 | 2021-02-27 |
+| [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 |  |
 | [Secret Places](https://open.spotify.com/track/49d1JMJusDfWXDf78yGKiS) | [Kindred Connection](https://open.spotify.com/artist/5cEEoJbXSjPdfO4xYWXPvg) | [Secret Places](https://open.spotify.com/album/5fwLSEZ5dGpxet0h5vG2eV) | 3:12 | 2021-05-08 | 2021-05-23 |
 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 | 2022-07-15 | 2022-08-05 |
 | [See You Later](https://open.spotify.com/track/6QNDCSWnkY58Tuy4NCTDkm) | [Sonnengruss](https://open.spotify.com/artist/1ZhvuoFAmQ93bqmF4UKNTR), [Amit Benita](https://open.spotify.com/artist/4uHDumx7WnNV9aJJjLXhnM) | [See You Later](https://open.spotify.com/album/3u9oYmFsoMqsxMC2U9Z2C1) | 2:10 | 2021-08-13 | 2021-08-29 |

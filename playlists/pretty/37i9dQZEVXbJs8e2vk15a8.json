@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE1OTU1OTUwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE2MDQxMDEzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "2 Shipitia (Tio Rene)",
         "url": "https://open.spotify.com/album/78OSmbJ65RpJAkTU2QFERt"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5nWNZN5yHShizC96Ojs9wP"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -73,23 +73,7 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -105,7 +89,23 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
@@ -121,39 +121,7 @@
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Los Chamantos de Mi Chile",
-        "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
-      },
-      "artists": [
-        {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Llorando Ausencia",
-      "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -169,27 +137,23 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "Caminemos de la Mano",
-        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
       "artists": [
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 214695,
-      "name": "Caminemos de la Mano",
-      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Marisola",
         "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
@@ -213,39 +177,43 @@
       "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "Himnos Nacionales De Latino America",
-        "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
+        "name": "Caminemos de la Mano",
+        "url": "https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB"
       },
       "artists": [
         {
-          "name": "Orquesta Filarm\u00f3nica internacional",
-          "url": "https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         }
       ],
-      "duration_ms": 232844,
-      "name": "Himno Nacional De Chile",
-      "url": "https://open.spotify.com/track/0HFwyeSuWD9I0JOuvLAmdu"
+      "duration_ms": 214695,
+      "name": "Caminemos de la Mano",
+      "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "Mora (ALOCATE REMAKE)",
-        "url": "https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z"
+        "name": "Los Chamantos de Mi Chile",
+        "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
       },
       "artists": [
         {
-          "name": "44musicla",
-          "url": "https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza"
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
         }
       ],
-      "duration_ms": 188929,
-      "name": "Mora (ALOCATE REMAKE)",
-      "url": "https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO"
+      "duration_ms": 131106,
+      "name": "Llorando Ausencia",
+      "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -265,7 +233,71 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Himnos Nacionales De Latino America",
+        "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Filarm\u00f3nica internacional",
+          "url": "https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK"
+        }
+      ],
+      "duration_ms": 232844,
+      "name": "Himno Nacional De Chile",
+      "url": "https://open.spotify.com/track/0HFwyeSuWD9I0JOuvLAmdu"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Mora (ALOCATE REMAKE)",
+        "url": "https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z"
+      },
+      "artists": [
+        {
+          "name": "44musicla",
+          "url": "https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza"
+        }
+      ],
+      "duration_ms": 188929,
+      "name": "Mora (ALOCATE REMAKE)",
+      "url": "https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Un Verano Contigo",
+        "url": "https://open.spotify.com/album/3ptuyzxvfJe0o6uS0Wdy6Q"
+      },
+      "artists": [
+        {
+          "name": "Magus",
+          "url": "https://open.spotify.com/artist/2jNWUl9jXcCc3Rwt0FxEQz"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Ojos Llorosos",
+      "url": "https://open.spotify.com/track/6MCb9dUGR4Oq4xKV1phz0z"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -285,55 +317,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "El Amor en 48 Compases",
-        "url": "https://open.spotify.com/album/4IjgGpRs1qLHM0WoBDSPwt"
-      },
-      "artists": [
-        {
-          "name": "Entremares",
-          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
-        }
-      ],
-      "duration_ms": 134674,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/4JFQK4fLPGusx5I3fM22qi"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Un Verano Contigo",
-        "url": "https://open.spotify.com/album/3ptuyzxvfJe0o6uS0Wdy6Q"
-      },
-      "artists": [
-        {
-          "name": "Magus",
-          "url": "https://open.spotify.com/artist/2jNWUl9jXcCc3Rwt0FxEQz"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Ojos Llorosos",
-      "url": "https://open.spotify.com/track/6MCb9dUGR4Oq4xKV1phz0z"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "La Vida en Versos..",
         "url": "https://open.spotify.com/album/7BuhI0plokfjW5QaDepizy"
@@ -349,7 +333,7 @@
       "url": "https://open.spotify.com/track/7udlCswy96a5tyCtnVINUN"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
@@ -365,23 +349,23 @@
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+        "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/4IjgGpRs1qLHM0WoBDSPwt"
       },
       "artists": [
         {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
         }
       ],
-      "duration_ms": 163253,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
+      "duration_ms": 134674,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/4JFQK4fLPGusx5I3fM22qi"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Guaracha Sutra",
         "url": "https://open.spotify.com/album/2IaNJlf1pL4bYMxcFA49ag"
@@ -401,23 +385,7 @@
       "url": "https://open.spotify.com/track/4chneoFbvXmefJwCYw7Lpz"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Chile Tipico Vol.3 Camino De Luna",
-        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
-      },
-      "artists": [
-        {
-          "name": "Silvia Infantas Y Los Condores",
-          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
-        }
-      ],
-      "duration_ms": 127613,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
@@ -433,7 +401,23 @@
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
@@ -457,7 +441,7 @@
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "SHADOW",
         "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
@@ -477,55 +461,7 @@
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
-      },
-      "artists": [
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        }
-      ],
-      "duration_ms": 343353,
-      "name": "La Noche Mas Linda",
-      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "LA TERAPIA",
-        "url": "https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 185012,
-      "name": "LA TERAPIA",
-      "url": "https://open.spotify.com/track/5i9bTK3gXeVCvua3PH4nwv"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
@@ -541,7 +477,71 @@
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
+      },
+      "artists": [
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 343353,
+      "name": "La Noche Mas Linda",
+      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "LA TERAPIA",
+        "url": "https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 185012,
+      "name": "LA TERAPIA",
+      "url": "https://open.spotify.com/track/5i9bTK3gXeVCvua3PH4nwv"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/0zpQxifc8mVEx9LzmU1veR"
@@ -561,55 +561,7 @@
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -629,23 +581,39 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "Blin Blin Blin Blan",
-        "url": "https://open.spotify.com/album/44LSJkLPRq6cK96LWqzo3o"
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
       },
       "artists": [
         {
-          "name": "King Blvck",
-          "url": "https://open.spotify.com/artist/03EM6UHgNRnx8RGKQApVQA"
+          "name": "Rapanui Hinariru",
+          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
         }
       ],
-      "duration_ms": 111864,
-      "name": "Blin Blin Blin Blan",
-      "url": "https://open.spotify.com/track/71zt6MfZmy1kcOXaLqS5Ie"
+      "duration_ms": 154489,
+      "name": "Uru Te Hami",
+      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Si Te La Encuentras Por Ah\u00ed",
         "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
@@ -661,7 +629,7 @@
       "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Pa K Te Enamore",
         "url": "https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql"
@@ -677,7 +645,7 @@
       "url": "https://open.spotify.com/track/5yNlgsdQ7LsysOVhxYn5yk"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "B\u00e9same Bonito (Micro TDH Remix)",
         "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
@@ -697,79 +665,23 @@
       "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
       },
       "artists": [
         {
-          "name": "Rapanui Hinariru",
-          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
         }
       ],
-      "duration_ms": 154489,
-      "name": "Uru Te Hami",
-      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
+      "duration_ms": 163253,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "LOS APARATOS",
-        "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 232843,
-      "name": "LOS APARATOS",
-      "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Fugitivo",
-        "url": "https://open.spotify.com/album/1WtxgnvfXnISAXZx1cyjv2"
-      },
-      "artists": [
-        {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Fugitivo",
-      "url": "https://open.spotify.com/track/0LiS05joFmMAeOafeQN81l"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "Ele Te Bota Soca Soca",
         "url": "https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5"
@@ -797,7 +709,95 @@
       "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Blin Blin Blin Blan",
+        "url": "https://open.spotify.com/album/44LSJkLPRq6cK96LWqzo3o"
+      },
+      "artists": [
+        {
+          "name": "King Blvck",
+          "url": "https://open.spotify.com/artist/03EM6UHgNRnx8RGKQApVQA"
+        }
+      ],
+      "duration_ms": 111864,
+      "name": "Blin Blin Blin Blan",
+      "url": "https://open.spotify.com/track/71zt6MfZmy1kcOXaLqS5Ie"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "LOS APARATOS",
+        "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 232843,
+      "name": "LOS APARATOS",
+      "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "God Save The Queen",
+      "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Chile Tipico Vol.3 Camino De Luna",
+        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
+      },
+      "artists": [
+        {
+          "name": "Silvia Infantas Y Los Condores",
+          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
+        }
+      ],
+      "duration_ms": 127613,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
@@ -813,47 +813,23 @@
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "Bad Decisions (with BTS & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
+        "name": "|BONKERS|",
+        "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "staplegun",
+          "url": "https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI"
         }
       ],
-      "duration_ms": 172714,
-      "name": "Bad Decisions (with BTS & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+      "duration_ms": 212335,
+      "name": "|BONKERS|",
+      "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
-      "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 141954,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
-    },
-    {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
@@ -869,20 +845,36 @@
       "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
     },
     {
-      "added_at": "2022-09-08 12:39:10",
+      "added_at": "2022-09-09 12:16:53",
       "album": {
-        "name": "FOREVER 1 - The 7th Album",
-        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+        "name": "Fugitivo",
+        "url": "https://open.spotify.com/album/1WtxgnvfXnISAXZx1cyjv2"
       },
       "artists": [
         {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
         }
       ],
-      "duration_ms": 202533,
-      "name": "FOREVER 1",
-      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+      "duration_ms": 210000,
+      "name": "Fugitivo",
+      "url": "https://open.spotify.com/track/0LiS05joFmMAeOafeQN81l"
+    },
+    {
+      "added_at": "2022-09-09 12:16:53",
+      "album": {
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
     }
   ],
   "unique_name": "Viral 50 - Chile",

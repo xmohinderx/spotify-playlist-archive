@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-302 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+303 songs - 1 day 2 hr 31 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [In the Shadow of the Horns \- Studio](https://open.spotify.com/track/1qY7zhfiiMVzb38kJ2806t) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze In The Northern Sky](https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF) | 7:01 | 2022-07-13 |  |
 | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Anderson](https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44) | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/album/0qMWnSbR71q3ccgPyPx9v6) | 4:41 | 2022-03-18 | 2022-07-24 |
 | [Inno A Satana](https://open.spotify.com/track/3hKxsjBdyJmqOyNMgv2wOx) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 4:48 | 2022-07-13 |  |
+| [Insides Out](https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Insides Out](https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK) | 3:32 | 2022-09-09 |  |
 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 | 2022-09-01 |  |
 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
@@ -268,7 +269,7 @@
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/0lZFz009jZslzPn0ArTbkl) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves and Titan Woods](https://open.spotify.com/album/2xq8TaPMvQJaXMW79byymI) | 2:55 | 2022-07-13 | 2022-07-28 |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 | 2022-07-13 | 2022-09-02 |
 | [The Purest Black](https://open.spotify.com/track/6En6JSC3qRPv9XnoGQZ7F0) | [LIVLØS](https://open.spotify.com/artist/3upLnjEfkXlcb8IddTLQUA) | [The Purest Black](https://open.spotify.com/album/0yARYnhJy9u9HLq3RfgI97) | 5:51 | 2021-12-17 | 2022-05-07 |
-| [The Secrets of the Black Arts](https://open.spotify.com/track/4UmELaFGGfsLbN1P5kH5Ax) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [The Secrets of the Black Arts](https://open.spotify.com/album/7uybiQG5eHqdiXF69EDJOs) | 3:41 | 2022-07-13 |  |
+| [The Secrets of the Black Arts](https://open.spotify.com/track/4UmELaFGGfsLbN1P5kH5Ax) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [The Secrets of the Black Arts](https://open.spotify.com/album/7uybiQG5eHqdiXF69EDJOs) | 3:41 | 2022-07-13 | 2022-09-10 |
 | [The Serpentine Offering](https://open.spotify.com/track/1JEbu4sbfwNnjetAaaYGmU) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [In Sorte Diaboli](https://open.spotify.com/album/4iW5SJA2EZbx5YRfKCUoAm) | 5:09 | 2022-07-13 |  |
 | [The Storm I Ride](https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 3:27 | 2022-07-13 |  |
 | [The Third of the Storms \(Evoked Damnation\)](https://open.spotify.com/track/3isS9hdnmyMePPrKm6qEQU) | [Hellhammer](https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY) | [Apocalyptic Raids](https://open.spotify.com/album/5KdSSGj5tKCQUJEKeGedKU) | 2:57 | 2022-07-13 |  |

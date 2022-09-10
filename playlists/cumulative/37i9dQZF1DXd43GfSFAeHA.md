@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Flippter x Soulja
 
-129 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+130 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-05-08 | 2022-07-29 |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-07-28 |  |
 | [تبسي](https://open.spotify.com/track/1fdwrQdInEatnElvOZVuEL) | [KHALIFA OG](https://open.spotify.com/artist/0dNsEdHWYo7jFACFABQOWs) | [تبسي](https://open.spotify.com/album/3oMSpM04MvEJPbrBCjbpRT) | 2:57 | 2022-05-08 |  |
+| [جيزة](https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [جيزة](https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ) | 2:58 | 2022-09-09 |  |
 | [خد و هات](https://open.spotify.com/track/1AfioCIHFE3Ny3kTBppiP9) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [خد و هات](https://open.spotify.com/album/3DIpQbx2oJvHuZm37Gctpr) | 2:43 | 2022-05-08 | 2022-07-05 |
 | [روس مايلة](https://open.spotify.com/track/0jM99irYwb4HCPfX5euOx4) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope) | [روس مايلة](https://open.spotify.com/album/71CoAxArBEm4CU5edrftJr) | 3:14 | 2022-05-08 | 2022-08-24 |
 | [سبيلك \(مع مؤيد\)](https://open.spotify.com/track/3fCsQYTWgr1ZZYyAN0UW3P) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Moayad Alnefaie](https://open.spotify.com/artist/0trc89eGNVJsaPr8IVpXZe) | [سبيلك \(مع مؤيد\)](https://open.spotify.com/album/1ev9lcxEWm4KNwagphf6Wd) | 3:16 | 2022-05-08 | 2022-07-05 |

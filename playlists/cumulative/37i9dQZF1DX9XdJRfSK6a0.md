@@ -4,7 +4,7 @@
 
 > This Sunday, let's tune out the words.
 
-69 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
+70 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Intro](https://open.spotify.com/track/0DAsxISzun85PbsqAfIzeC) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2rmMeEq5D1Bg7YFRwtHBDr) | 2:07 | 2019-01-04 | 2022-07-29 |
 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 | 2019-01-04 |  |
 | [Les marionnettes](https://open.spotify.com/track/5QUc4vKdECNtJGkgEUlhXf) | [Zbigniew Preisner](https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau) | [La Double vie de Véronique \(Original Film Soundtrack\)](https://open.spotify.com/album/6UKSDlLQzAGrd5CZ6XhKL3) | 2:29 | 2019-01-04 |  |
-| [Lilla Kulturbidragsvalsen](https://open.spotify.com/track/53T2w0Gg3Q02rYyHh07m0A) | [Väsen](https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE) | [Mindset](https://open.spotify.com/album/5N4VblrjQ3ANxWJciDL9bv) | 3:27 | 2019-01-04 |  |
+| [Lilla Kulturbidragsvalsen](https://open.spotify.com/track/53T2w0Gg3Q02rYyHh07m0A) | [Väsen](https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE) | [Mindset](https://open.spotify.com/album/5N4VblrjQ3ANxWJciDL9bv) | 3:27 | 2019-01-04 | 2022-09-10 |
+| [Lilla Kulturbidragsvalsen](https://open.spotify.com/track/6ksucg4khzBjfhgmjGzqlR) | [Väsen](https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE) | [Mindset](https://open.spotify.com/album/5nXH5X9ah26QpKUTTwRGEt) | 3:29 | 2019-01-04 |  |
 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 | 2019-01-04 |  |
 | [orkesterlåt](https://open.spotify.com/track/2pJCNYhpSLq4acNXcBUjy1) | [Björn Olsson](https://open.spotify.com/artist/522M1OdbnnJ3c1Bjxy69tb) | [lite nya melodier](https://open.spotify.com/album/3C8MzdrI4bKoRPRdzbqwx6) | 2:02 | 2019-01-04 |  |
 | [Ouvertyr 1](https://open.spotify.com/track/6GofKiirAD5kNm9oVeuW8B) | [Mattias Bärjed](https://open.spotify.com/artist/2wmNSrvTLK8giMLw3cUyQN) | [Upp till kamp!](https://open.spotify.com/album/1gvoR0ncyGReRqSAtTEb0D) | 2:37 | 2019-01-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,077 likes - 51 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,108 likes - 51 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

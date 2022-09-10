@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Quevedo
 
-213 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
+214 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-01-07 | 2022-02-04 |
 | [Bésame](https://open.spotify.com/track/2cVCr6Am3spuM1gPDLKxAF) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Bésame](https://open.spotify.com/album/77RnZZL53tsWQ0gTRgAFkW) | 3:05 | 2022-02-03 | 2022-04-02 |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-08 |  |
+| [CANDY \- Remix](https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:24 | 2022-09-09 |  |
 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 | 2022-02-08 | 2022-04-09 |
 | [Carita Morena](https://open.spotify.com/track/5zu9xieHTcl3pEISNJTKmZ) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Carita Morena](https://open.spotify.com/album/17CwSev7ezGRuJFCENtIgG) | 3:18 | 2022-01-07 | 2022-01-17 |
 | [Castigo](https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Castigo](https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ) | 2:58 | 2022-05-12 | 2022-07-19 |
@@ -36,7 +37,7 @@
 | [Celosa](https://open.spotify.com/track/4FtuqEWmjtgKmVWW0iZOP7) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:37 | 2022-06-23 | 2022-08-10 |
 | [Chamaquita](https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0) | [Chamaquita](https://open.spotify.com/album/1WuBqKxkSxFeAgnYaQd8We) | 2:50 | 2022-04-13 | 2022-07-27 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-02-25 | 2022-03-11 |
-| [Chu Chu Pamela](https://open.spotify.com/track/14pr9SjxdNW8ZGU9GdZGLh) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Chu Chu Pamela](https://open.spotify.com/album/5nk75NdvD4wH7ARj1R9u2A) | 2:57 | 2022-07-26 |  |
+| [Chu Chu Pamela](https://open.spotify.com/track/14pr9SjxdNW8ZGU9GdZGLh) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Chu Chu Pamela](https://open.spotify.com/album/5nk75NdvD4wH7ARj1R9u2A) | 2:57 | 2022-07-26 | 2022-09-10 |
 | [Chukiteo](https://open.spotify.com/track/5uwQHyQ8PlXUYy2oanoP1x) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Chukiteo](https://open.spotify.com/album/1xsxxKAMaKePjGMTmyMDNf) | 2:41 | 2022-04-21 | 2022-07-19 |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-05-26 | 2022-08-26 |
 | [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2022-01-07 | 2022-04-14 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 ### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- Ankit Tewari
+> New music from popular Hindi artists\. Cover\- Ankit Tiwari
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,479 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,496 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Saaye](https://open.spotify.com/track/0fdsAOeCtXHyjEra16h3An) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaye](https://open.spotify.com/album/1Gus69A2j11p8utuhDIc4O) | 3:15 |
 | 50 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
 
-Snapshot ID: `MTY2MjY2MTgwMCwwMDAwMDAwMGQxODVmMGNlY2E4ZmYyYTczZDdhOTMwY2MwOGMzYmM3`
+Snapshot ID: `MTY2MjcxNDk5NCwwMDAwMDAwMGNhNjljZjUxYWQzOTgyYzNkNWI4YmYxNTZjZmQwNjdh`

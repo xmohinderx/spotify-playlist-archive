@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Gab Bouchard
 
-193 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+194 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fleur de l'Âge](https://open.spotify.com/track/1AtvnJLYXb0eUy0JElcoPC) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:25 | 2022-05-13 |  |
 | [Fleurs](https://open.spotify.com/track/6J4sn4PN9POF1TeZiE77w2) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Fleurs](https://open.spotify.com/album/1QX130cPvTixh689vkCWo4) | 2:58 | 2022-03-25 | 2022-04-16 |
 | [Follow](https://open.spotify.com/track/7KxeibFn8Nammh6i9cDD7j) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [CIEL](https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6) | 4:22 | 2022-03-25 | 2022-04-09 |
+| [Forêt magique](https://open.spotify.com/track/4gRW12zxJsHytn79RWCTbN) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [Forêt magique](https://open.spotify.com/album/3aB7pHJvc97G9BXGkdrONv) | 3:18 | 2022-09-09 |  |
 | [Free Grillz](https://open.spotify.com/track/60YGUQOa2e5BwtDgfltZvQ) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Free Grillz](https://open.spotify.com/album/4Lagndmtb3CdC01wU12E1k) | 2:17 | 2022-03-25 | 2022-04-29 |
 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 | 2022-06-10 |  |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 |  |
@@ -104,7 +105,7 @@
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 |  |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 |  |
 | [La nuit](https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [La nuit](https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP) | 3:41 | 2022-06-03 | 2022-07-16 |
-| [La nuit](https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [La nuit](https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9) | 2:39 | 2022-06-10 |  |
+| [La nuit](https://open.spotify.com/track/3QNCQAYQqhEdv3zwWmBMX6) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [La nuit](https://open.spotify.com/album/1CaTDmBmiYtRJVvfVv0GT9) | 2:39 | 2022-06-10 | 2022-09-10 |
 | [La richesse des pauvres](https://open.spotify.com/track/4jV3QKV40FmtcJikbBpfCf) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO), [Rau Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Échos d'une vie distante: volume 1](https://open.spotify.com/album/4n4gw9wDp29mV0tAYxcFol) | 2:23 | 2022-03-25 | 2022-04-16 |
 | [La Ronde](https://open.spotify.com/track/5mxvBhTdtp8bVxUOg1qjBe) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [La Ronde](https://open.spotify.com/album/44zJbRgjUPe7jlGjXBKUcQ) | 3:40 | 2022-03-25 | 2022-08-27 |
 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-25 |  |

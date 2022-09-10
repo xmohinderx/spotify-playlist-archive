@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 20195,
+  "num_followers": 20284,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDg4NjNlMzMzYTdmNWJjZGJhMjQ5ZDYzYmVmZWQ2NDlj",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDEzM2E5N2QzMjgwNTY5YmEwZjI1ZTRmNzMzODJiNzZi",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Tell Your Mother",
+        "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
+      },
+      "artists": [
+        {
+          "name": "Dr JOE",
+          "url": "https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Tell Your Mother",
+      "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Click Click Domino",
         "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 180706,
       "name": "Get Yourself Some",
       "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Tell Your Mother",
-        "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
-      },
-      "artists": [
-        {
-          "name": "Dr JOE",
-          "url": "https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Tell Your Mother",
-      "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Sand Castles",
-        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
-      },
-      "artists": [
-        {
-          "name": "Rehab",
-          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Them That Matter Don't Mind",
-      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Homemade Disaster",
         "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 194564,
       "name": "Homemade Disaster",
       "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
+      },
+      "artists": [
+        {
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Them That Matter Don't Mind",
+      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
-      },
-      "artists": [
-        {
-          "name": "Swamp",
-          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 212147,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
+      },
+      "artists": [
+        {
+          "name": "Swamp",
+          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE"
     },
     {
       "added_at": "2022-08-31 19:45:43",

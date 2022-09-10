@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems.",
+  "description": "Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems. Cover: Hazel Dickens & Alice Gerrard",
   "name": "Bluegrass Origins",
   "published_playlist_ids": [
     "07yp3lWFtNeOSgqePmPMKz"
@@ -117,6 +117,28 @@
       "duration_ms": 143520,
       "name": "Bury Me Beneath The Weeping Willow",
       "url": "https://open.spotify.com/track/4vhzOZExArTd8p8wBlhr0g"
+    },
+    {
+      "album": {
+        "name": "Childish Love",
+        "url": "https://open.spotify.com/album/3xDpIztajZaXLs3EKoUxc0"
+      },
+      "artists": [
+        {
+          "name": "Hazel Dickens",
+          "url": "https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT"
+        },
+        {
+          "name": "Alice Gerrard",
+          "url": "https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "Childish Love",
+      "url": "https://open.spotify.com/track/7x4Ungw4VU2GMohlcoJCH5"
     },
     {
       "album": {
@@ -323,7 +345,7 @@
       ],
       "date_added": "2018-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 125666,
       "name": "Going Back To Old Kentucky",
       "url": "https://open.spotify.com/track/1LiJvHne4paypOp1CHWQtF"
@@ -873,6 +895,24 @@
       "duration_ms": 153960,
       "name": "Rocky Road Blues",
       "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
+    },
+    {
+      "album": {
+        "name": "From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant",
+        "url": "https://open.spotify.com/album/6O6e7u27FqCw3G0PK4Dcw4"
+      },
+      "artists": [
+        {
+          "name": "The Osborne Brothers",
+          "url": "https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161226,
+      "name": "Rocky Top",
+      "url": "https://open.spotify.com/track/6se4sK4ZbkNgOJUkmszbxX"
     },
     {
       "album": {

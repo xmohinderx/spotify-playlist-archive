@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,719 likes - 148 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,736 likes - 148 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

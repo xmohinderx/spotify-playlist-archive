@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Alzate & Pipe Bueno
 
-75 songs - 3 hr 54 min - not published yet
+75 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/09JnbAwg5RJpS8FdxS2fcC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

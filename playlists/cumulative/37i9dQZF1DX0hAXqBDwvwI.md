@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-574 songs - 1 day 14 hr 7 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
+575 songs - 1 day 14 hr 11 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Good Time \- feat\. SKY\-HI](https://open.spotify.com/track/6M116cTbFxwbv7tJcMiv5G) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Paradox Live Exhibition Show \-cozmez\-](https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30) | 2:48 | 2022-06-24 | 2022-07-13 |
 | [Grand Escape \(Movie Edit\) \[feat\. Toko Miura\]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 3:08 | 2022-06-14 | 2022-07-24 |
 | [Grey](https://open.spotify.com/track/4Ch9TQoFvN7YMb6soOKX71) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Grey](https://open.spotify.com/album/6HHYhpXUe1dd2yyHcs3HLh) | 2:38 | 2022-06-14 | 2022-06-21 |
+| [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 | 2022-09-02 |  |
 | [Hands Up to the Sky](https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [Avid / Hands Up to the Sky](https://open.spotify.com/album/4Uyvexhl7bPlTTrYX5YPAp) | 3:32 | 2022-06-03 | 2022-07-28 |
 | [Happy encount](https://open.spotify.com/track/1sqdTEcr2q6BFjuyxJWIVv) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Happy encount](https://open.spotify.com/album/6nWbs1jAzoWV1xamXEh19Z) | 3:54 | 2022-06-03 | 2022-07-29 |
 | [HATENA](https://open.spotify.com/track/5ZmCWqYmT9Lpa5qM2gSCBF) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/0g7ikkSqZYYjLTA9t9mJUr) | 3:29 | 2022-06-03 | 2022-07-16 |
@@ -256,7 +257,7 @@
 | [Sing My Pleasure](https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg) | [ヴィヴィ\(Vo.八木海莉\)](https://open.spotify.com/artist/0yJlj2EYshHk9BWkEAR15k) | [Sing My Pleasure](https://open.spotify.com/album/2fHdvnc0QMfIFci1rm7MXN) | 4:49 | 2022-06-03 | 2022-07-28 |
 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/66JOk3VWkYDxriXsuYtqDc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLUMP \-Japanese ver.\-](https://open.spotify.com/album/5ny4DPSYvFntWlN0NoCcDC) | 2:17 | 2022-06-14 | 2022-07-27 |
 | [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-03 | 2022-07-25 |
-| [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-03 |  |
+| [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-03 | 2022-09-10 |
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-14 | 2022-06-18 |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 |  |
 | [STORYSEEKER](https://open.spotify.com/track/4eBgSyDDQqKHyxCvkqghs7) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STORYSEEKER](https://open.spotify.com/album/299bR2AB6obbd0Ar2bLhQr) | 3:52 | 2022-06-03 | 2022-07-29 |

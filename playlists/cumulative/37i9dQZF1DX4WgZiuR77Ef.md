@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-168 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+169 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Funk Is My Religion](https://open.spotify.com/track/0MUfqhh2wepeXY3xn9O64O) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/4l1PPZ7MgVuTACORe0vaFz) | 4:50 | 2021-04-30 |  |
 | [Funk Is My Religion](https://open.spotify.com/track/5JfPmqLsOHBFqiMbjVcH5X) | [Nils Landgren Funk Unit](https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0) | [Funk Is My Religion](https://open.spotify.com/album/1ebG6V1lQvLgRhJ2sCwzgN) | 4:50 | 2021-04-30 | 2022-07-29 |
 | [Funky Chick](https://open.spotify.com/track/2fedMEurhK2S48JlKSTaBu) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S), [Tomar Williams](https://open.spotify.com/artist/2fzU2rB7Q6czKOCJ6g79cD) | [Funky Chick](https://open.spotify.com/album/0Y4HFxgJ9AKnKElCC56bVV) | 3:34 | 2021-10-01 |  |
+| [Funky Family](https://open.spotify.com/track/3WVxrFlPRkR7reDUOctOKb) | [Them Vibes](https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664) | [Funky Family](https://open.spotify.com/album/2FeJEOVHMx2oO8s7ZybmeI) | 4:06 | 2022-09-09 |  |
 | [Giving You My Heart](https://open.spotify.com/track/3pBE5lftPP2MxhD2DQRvBm) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Reachin' Up](https://open.spotify.com/album/4Adfft6sCzWvgkr4B7Vjql) | 3:35 | 2022-04-15 |  |
 | [Gonna Get In My Way](https://open.spotify.com/track/6pebyG1lz94gB0qxjTyIs2) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Gonna Get In My Way](https://open.spotify.com/album/70v48r8qwciZ0uyHvsHgST) | 3:55 | 2022-07-01 |  |
 | [Good As It Gets Anymore](https://open.spotify.com/track/3PMcmP6Zc38ZH9tUHjG9ps) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw) | [Good As It Gets Anymore](https://open.spotify.com/album/5vFFSTw2zxCeFE7ebm8qTY) | 3:41 | 2022-04-08 |  |

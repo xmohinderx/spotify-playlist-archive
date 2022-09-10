@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto:  Eladio Carrion.
 
-248 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+249 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Párrafo 8](https://open.spotify.com/track/2rQt1M95thdN1UQ7cfSNNe) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [En La Luna](https://open.spotify.com/album/3dN45Kj9R75Zbj6Xt8Ed9P) | 3:14 | 2021-12-06 | 2022-04-16 |
 | [Que Cojones](https://open.spotify.com/track/22TyikLrwsaXhsL31mewls) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Que Cojones](https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh) | 2:41 | 2022-08-05 |  |
 | [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 | 2022-07-22 |  |
-| [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 | 2022-06-03 |  |
+| [Rangos](https://open.spotify.com/track/0ZeQFWUwICisBLXNFtlsAY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/1cLqKrL2fed5ARiR8qJF3x) | 2:08 | 2022-09-02 |  |
+| [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 | 2022-06-03 | 2022-09-10 |
 | [RICO CUANDO MUERA](https://open.spotify.com/track/20xJvceMXPYkZDZwQ9EcFg) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 3:04 | 2022-03-25 | 2022-06-04 |
 | [RICO POBRE](https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FINALMENTE RICO](https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk) | 3:06 | 2022-08-25 |  |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-08-05 |  |

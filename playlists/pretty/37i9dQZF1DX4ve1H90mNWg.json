@@ -1,13 +1,69 @@
 {
   "description": "Texas music breaking waves. Cover, Teezo Touchdown",
-  "num_followers": 3692,
+  "num_followers": 3695,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY2MDI5MCwwMDAwMDAwMGI4ODFkMDgzMmZkYTU0MmI3MTRiOTFiYmE2ZTkxNmQ3",
+  "snapshot_id": "MTY2Mjc0OTczNCwwMDAwMDAwMGQ5N2ZjODQ3NjIwYTgxYjQ5YTIwZDc0NzA3Mzg5YjQz",
   "tracks": [
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "Luv U Back",
+        "url": "https://open.spotify.com/album/6n4BMT8epRMopMEfyTbOiw"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Luv U Back",
+      "url": "https://open.spotify.com/track/2Srbi3OwVYT4l2MDXxPUGa"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "GasGod 2",
+        "url": "https://open.spotify.com/album/30ZkAc4eDuAOPnlZkpVQKq"
+      },
+      "artists": [
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 213380,
+      "name": "On Me (feat. Future)",
+      "url": "https://open.spotify.com/track/5hhsGclYVu0CDwXL1U68vH"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "PIMP C (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/1hT3P8uN5sCi7uqc5vr2y7"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 206331,
+      "name": "PIMP C (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/47y1GfALUfTX11AscBMqxL"
+    },
     {
       "added_at": "2022-09-02 17:55:50",
       "album": {
@@ -29,20 +85,36 @@
       "url": "https://open.spotify.com/track/44SFX0JI00vMoyIemTQDtN"
     },
     {
-      "added_at": "2022-09-02 17:55:50",
+      "added_at": "2022-09-09 18:55:33",
       "album": {
-        "name": "Sauce Body",
-        "url": "https://open.spotify.com/album/4NbgQYK3taGjeS04mCKjg5"
+        "name": "Teach Her The Game",
+        "url": "https://open.spotify.com/album/4e6FwvLip0QgE6ix2fQjG6"
       },
       "artists": [
         {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
         }
       ],
-      "duration_ms": 145920,
-      "name": "Sauce Body",
-      "url": "https://open.spotify.com/track/01q8fSPaqOHmxFfmGSPxuf"
+      "duration_ms": 138716,
+      "name": "Teach Her The Game",
+      "url": "https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "Big Momma",
+        "url": "https://open.spotify.com/album/0zDDtMRb0cPJQ6RSIlCt5q"
+      },
+      "artists": [
+        {
+          "name": "PRINCESS RICHIE",
+          "url": "https://open.spotify.com/artist/7lYMDQUN09vQKEBSwQCXY4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/6ZPocZfO8kpha6AfptjMi4"
     },
     {
       "added_at": "2022-09-02 17:55:50",
@@ -61,36 +133,180 @@
       "url": "https://open.spotify.com/track/5vdZczJznIbo9IDxzWvgV6"
     },
     {
-      "added_at": "2022-09-02 17:55:50",
+      "added_at": "2022-09-09 18:55:33",
       "album": {
-        "name": "Somethin' Bout You",
-        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+        "name": "Go In",
+        "url": "https://open.spotify.com/album/1AENDTX6JaPVNcGyyyDk9X"
       },
       "artists": [
         {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+          "name": "Hotboy Wes",
+          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Somethin' Bout You",
-      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+      "duration_ms": 139358,
+      "name": "Go In",
+      "url": "https://open.spotify.com/track/5zi3dnuyXnGbtVdfvBKrqL"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "4AM In Charlotte",
+        "url": "https://open.spotify.com/album/0McCjUthWgnZzXepI9f1SU"
+      },
+      "artists": [
+        {
+          "name": "Cico P",
+          "url": "https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "4AM In Charlotte",
+      "url": "https://open.spotify.com/track/70sQaLOrIhlKF0iIS2Gjx0"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "ARP",
+        "url": "https://open.spotify.com/album/7pzvutWtGnyQFEXHM1xfSi"
+      },
+      "artists": [
+        {
+          "name": "TrapboyDre10k",
+          "url": "https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9"
+        },
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "duration_ms": 178392,
+      "name": "ARP",
+      "url": "https://open.spotify.com/track/7D2008TPKN4gJGGYfmvTut"
     },
     {
       "added_at": "2022-09-02 17:55:50",
       "album": {
-        "name": "Lil Summer Pack",
-        "url": "https://open.spotify.com/album/7eYhNZPIG64krR9AGeRvc8"
+        "name": "Sauce Body",
+        "url": "https://open.spotify.com/album/4NbgQYK3taGjeS04mCKjg5"
       },
       "artists": [
         {
-          "name": "Izzar Thomas",
-          "url": "https://open.spotify.com/artist/4gHtSTHXjaYlPbGvnGjyqC"
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 180170,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/0ajkQxUksCtHl5rVcMWjEP"
+      "duration_ms": 145920,
+      "name": "Sauce Body",
+      "url": "https://open.spotify.com/track/01q8fSPaqOHmxFfmGSPxuf"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "THANKZ (CHOPNOTSLOP REMIX)",
+        "url": "https://open.spotify.com/album/5hJDuUxmvHd0VS5KqYpmYu"
+      },
+      "artists": [
+        {
+          "name": "DJ Candlestick",
+          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "name": "TEXAS BOYZ",
+          "url": "https://open.spotify.com/artist/40qj4OBMZQvOZfqhoSE758"
+        },
+        {
+          "name": "Tay Muletti",
+          "url": "https://open.spotify.com/artist/1VfrgiZIcpiZ1Gyt33B4K4"
+        },
+        {
+          "name": "Nick Gee",
+          "url": "https://open.spotify.com/artist/2j4J0aRH03VIVHG31jCUuh"
+        }
+      ],
+      "duration_ms": 251376,
+      "name": "THANKZ (CHOPNOTSLOP REMIX)",
+      "url": "https://open.spotify.com/track/2B4AhNKMnrCCjZ4I0Bak0G"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/0gwN64t5aeuOQwj2o5juHM"
+      },
+      "artists": [
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        }
+      ],
+      "duration_ms": 165383,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6JayjDlHxTSdVj9g85LA1s"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/1uVyGsbbQWIt99zPXCe7Cp"
+      },
+      "artists": [
+        {
+          "name": "Mosa",
+          "url": "https://open.spotify.com/artist/1cyaSULWtI17yYEk4301Pe"
+        }
+      ],
+      "duration_ms": 185182,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/5yHroDKvcyWhxK80rCcQEF"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "Waiting On The World To End",
+        "url": "https://open.spotify.com/album/4cyl6JlVCHr3HL4c8kz8Qs"
+      },
+      "artists": [
+        {
+          "name": "David Saint Val",
+          "url": "https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J"
+        }
+      ],
+      "duration_ms": 213416,
+      "name": "Waiting On The World To End",
+      "url": "https://open.spotify.com/track/7oItnOwxZtvP5HqD1Ckqqg"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/5aPqvKsgrcZ0WeJBE0Gsds"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        }
+      ],
+      "duration_ms": 163815,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1083cYzHbHl9uDlYNNCahU"
     },
     {
       "added_at": "2022-08-26 19:07:50",
@@ -137,6 +353,90 @@
       "url": "https://open.spotify.com/track/67QVeMvttYHbB1Zuvh0cn6"
     },
     {
+      "added_at": "2022-08-12 17:13:35",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Lil\u2019 Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        },
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/7ym7cDCdavUZqNufxIfHwY"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Southside Royalty Freestyle (feat. Sauce Walka, Big Pokey, Lil Keke & Mike D)",
+      "url": "https://open.spotify.com/track/27Wwwbdh9pKL9n23FOJH9z"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "Want Me! (Slowed & Chopped Up)",
+        "url": "https://open.spotify.com/album/0iMIFDJqPCbR6i9uQqaHxn"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        },
+        {
+          "name": "DJ Bubba",
+          "url": "https://open.spotify.com/artist/38hnmRmRWrRibnjmtQQ91Y"
+        }
+      ],
+      "duration_ms": 125309,
+      "name": "Want Me! (Slowed & Chopped Up)",
+      "url": "https://open.spotify.com/track/0iCTx0WhD63yzoDFreU3Uc"
+    },
+    {
+      "added_at": "2022-09-02 17:55:50",
+      "album": {
+        "name": "Lil Summer Pack",
+        "url": "https://open.spotify.com/album/7eYhNZPIG64krR9AGeRvc8"
+      },
+      "artists": [
+        {
+          "name": "Izzar Thomas",
+          "url": "https://open.spotify.com/artist/4gHtSTHXjaYlPbGvnGjyqC"
+        }
+      ],
+      "duration_ms": 180170,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/0ajkQxUksCtHl5rVcMWjEP"
+    },
+    {
+      "added_at": "2022-09-02 17:55:50",
+      "album": {
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+    },
+    {
       "added_at": "2022-08-26 19:07:50",
       "album": {
         "name": "Drop Down (feat. KenTheMan)",
@@ -177,38 +477,6 @@
       "url": "https://open.spotify.com/track/1pmdSzE3yRNcagg7H59Z7X"
     },
     {
-      "added_at": "2022-08-12 17:13:35",
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        },
-        {
-          "name": "Lil\u2019 Keke",
-          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
-        },
-        {
-          "name": "Mike D",
-          "url": "https://open.spotify.com/artist/7ym7cDCdavUZqNufxIfHwY"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Southside Royalty Freestyle (feat. Sauce Walka, Big Pokey, Lil Keke & Mike D)",
-      "url": "https://open.spotify.com/track/27Wwwbdh9pKL9n23FOJH9z"
-    },
-    {
       "added_at": "2022-08-19 19:52:43",
       "album": {
         "name": "Give U Some (feat. Rob49)",
@@ -227,54 +495,6 @@
       "duration_ms": 142895,
       "name": "Give U Some (feat. Rob49)",
       "url": "https://open.spotify.com/track/4zM1EkVk8jfs969NYYSZ9x"
-    },
-    {
-      "added_at": "2022-08-19 19:52:43",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
-    },
-    {
-      "added_at": "2022-08-19 19:52:43",
-      "album": {
-        "name": "God Forgives, I Don\u2019t",
-        "url": "https://open.spotify.com/album/2K7dBRPcV69J1iTyLbwtA2"
-      },
-      "artists": [
-        {
-          "name": "Hotboy Wes",
-          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "God Forgives, I Don\u2019t",
-      "url": "https://open.spotify.com/track/6i0CQdrSlz0KnCtuqk17JS"
-    },
-    {
-      "added_at": "2022-08-19 19:52:43",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/0gwN64t5aeuOQwj2o5juHM"
-      },
-      "artists": [
-        {
-          "name": "Lil Jairmy",
-          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
-        }
-      ],
-      "duration_ms": 165383,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6JayjDlHxTSdVj9g85LA1s"
     },
     {
       "added_at": "2022-08-19 19:52:43",
@@ -311,26 +531,6 @@
       "duration_ms": 181795,
       "name": "Spread The Opps",
       "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
-    },
-    {
-      "added_at": "2022-08-19 19:52:43",
-      "album": {
-        "name": "Sewed Up, Pt. 2 (Back Again)",
-        "url": "https://open.spotify.com/album/3XfsN461GbxSrSNNrbK0gu"
-      },
-      "artists": [
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        },
-        {
-          "name": "Lil 2z",
-          "url": "https://open.spotify.com/artist/3XQ81u1a60R7egDWLKzV88"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "Sewed Up, Pt. 2 (Back Again)",
-      "url": "https://open.spotify.com/track/3B8zvpIlRK7QOuUyqslFkg"
     },
     {
       "added_at": "2022-08-19 19:52:43",
@@ -457,22 +657,6 @@
       "url": "https://open.spotify.com/track/4UeBhUCW6Z7dPEYelWQQ9i"
     },
     {
-      "added_at": "2022-08-12 17:13:35",
-      "album": {
-        "name": "Bad Azz Yella Boy",
-        "url": "https://open.spotify.com/album/4bmDbAXGlnOSJrvVh759Rx"
-      },
-      "artists": [
-        {
-          "name": "Yella Beezy",
-          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
-        }
-      ],
-      "duration_ms": 186409,
-      "name": "DFWM",
-      "url": "https://open.spotify.com/track/7l5Fq0rRW2typ68pMfA5cp"
-    },
-    {
       "added_at": "2022-07-22 19:49:57",
       "album": {
         "name": "THE VISION (feat. Anderson .Paak)",
@@ -553,26 +737,6 @@
       "url": "https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us"
     },
     {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Supercharge (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/07ODE2Qy9EfewM8DVkW7ST"
-      },
-      "artists": [
-        {
-          "name": "Lil Jairmy",
-          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 174021,
-      "name": "Supercharge (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq"
-    },
-    {
       "added_at": "2022-07-29 19:38:06",
       "album": {
         "name": "Make your Move (feat. Slim Thug)",
@@ -591,22 +755,6 @@
       "duration_ms": 151168,
       "name": "Make your Move (feat. Slim Thug)",
       "url": "https://open.spotify.com/track/4KnvPcopYg0heTIn0Ct59R"
-    },
-    {
-      "added_at": "2022-07-29 19:38:06",
-      "album": {
-        "name": "Dont Like Me",
-        "url": "https://open.spotify.com/album/5a9XakjFheiaQNzgjafoFt"
-      },
-      "artists": [
-        {
-          "name": "Kayykilo",
-          "url": "https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Dont Like Me",
-      "url": "https://open.spotify.com/track/3gZVyPO9Pec63WcuvcNefq"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -671,42 +819,6 @@
       "duration_ms": 136224,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6FRIqrtV9CxN1phJNRf5JI"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Just Like That (feat. Talameshia)",
-        "url": "https://open.spotify.com/album/3xKHsIyw0pZ257hZZ0GKNY"
-      },
-      "artists": [
-        {
-          "name": "BeatKing",
-          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
-        },
-        {
-          "name": "Talameshia",
-          "url": "https://open.spotify.com/artist/4n3fpT6Uaodme60eQE0RoG"
-        }
-      ],
-      "duration_ms": 142034,
-      "name": "Just Like That (feat. Talameshia)",
-      "url": "https://open.spotify.com/track/1Xa0tng5IowVZCvPPvYEBx"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Getcha",
-        "url": "https://open.spotify.com/album/3x0xq7i4SVBQvnu1H1k2mb"
-      },
-      "artists": [
-        {
-          "name": "SSGKobe",
-          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
-        }
-      ],
-      "duration_ms": 170672,
-      "name": "Getcha",
-      "url": "https://open.spotify.com/track/30T3caX52HnPa04rmbqdMK"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -787,22 +899,6 @@
       "duration_ms": 119172,
       "name": "Love It Here",
       "url": "https://open.spotify.com/track/2l0OaPp5Mpg20MPGX6g6nE"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Mission",
-        "url": "https://open.spotify.com/album/06qqhGybXN1GvmmqzxcBvv"
-      },
-      "artists": [
-        {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
-        }
-      ],
-      "duration_ms": 122622,
-      "name": "Mission",
-      "url": "https://open.spotify.com/track/4FpM2AkNFjuVcvCcRgkaYd"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -905,38 +1001,6 @@
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/6tPnIgr0GrmGCzjIHmgS9E"
-      },
-      "artists": [
-        {
-          "name": "Sunnitharapper",
-          "url": "https://open.spotify.com/artist/2KpLGbnpFTj3QUUSlB2mQO"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/42QLhW71J48BraP88ko51d"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "TALK2ME",
-        "url": "https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 140373,
-      "name": "TALK2ME",
-      "url": "https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz"
-    },
-    {
       "added_at": "2022-06-07 21:50:40",
       "album": {
         "name": "No Panties",
@@ -951,46 +1015,6 @@
       "duration_ms": 142998,
       "name": "No Panties",
       "url": "https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
-        "name": "Best Of Both Worlds",
-        "url": "https://open.spotify.com/album/5XfSdIe5eQyLW4FCWFuOIn"
-      },
-      "artists": [
-        {
-          "name": "Young Vinchy",
-          "url": "https://open.spotify.com/artist/5OMWgFiL7MlQ6yt3pC9nJG"
-        }
-      ],
-      "duration_ms": 138911,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6RO5atAIBTNXtRNY9IY3vi"
-    },
-    {
-      "added_at": "2022-06-07 21:50:40",
-      "album": {
-        "name": "Awready",
-        "url": "https://open.spotify.com/album/3QfIpWyod9hiAsYFYXA9qt"
-      },
-      "artists": [
-        {
-          "name": "TEXAS BOYZ",
-          "url": "https://open.spotify.com/artist/40qj4OBMZQvOZfqhoSE758"
-        },
-        {
-          "name": "Tay Muletti",
-          "url": "https://open.spotify.com/artist/1VfrgiZIcpiZ1Gyt33B4K4"
-        },
-        {
-          "name": "Nick Gee",
-          "url": "https://open.spotify.com/artist/7D2Vq4xIfvAtBPKGeWlrw2"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Awready",
-      "url": "https://open.spotify.com/track/29Bpg0Agd8i1R9lBoZ9Zbi"
     },
     {
       "added_at": "2022-05-13 20:10:20",
@@ -1015,42 +1039,6 @@
     {
       "added_at": "2022-05-13 20:10:20",
       "album": {
-        "name": "Houston",
-        "url": "https://open.spotify.com/album/74CvpjIheYmmwEqHO9b7kV"
-      },
-      "artists": [
-        {
-          "name": "Cico P",
-          "url": "https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Houston",
-      "url": "https://open.spotify.com/track/5754CiPkCAMNcu9DjkVPlb"
-    },
-    {
-      "added_at": "2022-05-20 08:16:31",
-      "album": {
-        "name": "love.drugs.sex (ChopNotSlop Remix)",
-        "url": "https://open.spotify.com/album/3Br7oJgeKm82O8yFb86Pr2"
-      },
-      "artists": [
-        {
-          "name": "Dree Rivers",
-          "url": "https://open.spotify.com/artist/7b4mZoc055iVGecQZSc2r3"
-        },
-        {
-          "name": "DJ Candlestick",
-          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "love.drugs.sex - ChopNotSlop Remix",
-      "url": "https://open.spotify.com/track/7KwKEpj4tOkDFgvp42lOcS"
-    },
-    {
-      "added_at": "2022-05-13 20:10:20",
-      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/3RM8kNPQMAFj2ygyMQtp5h"
       },
@@ -1063,50 +1051,6 @@
       "duration_ms": 169259,
       "name": "Habits",
       "url": "https://open.spotify.com/track/28aVccxsboUGyBZnkJGkJL"
-    },
-    {
-      "added_at": "2022-04-29 17:04:27",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/3FYzzktY8TFWNCXVGfJZL6"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 193322,
-      "name": "Honest (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/116IS04a18L5lKQADerNeb"
-    },
-    {
-      "added_at": "2022-04-29 17:04:27",
-      "album": {
-        "name": "Hold That Heat (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Hold That Heat (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
     },
     {
       "added_at": "2022-04-15 07:50:00",
@@ -1125,22 +1069,6 @@
       "url": "https://open.spotify.com/track/014PLUZunFPW1EtbcXJLnu"
     },
     {
-      "added_at": "2022-04-15 07:50:00",
-      "album": {
-        "name": "Codependency",
-        "url": "https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB"
-      },
-      "artists": [
-        {
-          "name": "David Saint Val",
-          "url": "https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J"
-        }
-      ],
-      "duration_ms": 200681,
-      "name": "Codependency",
-      "url": "https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf"
-    },
-    {
       "added_at": "2022-04-01 23:54:33",
       "album": {
         "name": "I\u2019m Not Kidding",
@@ -1157,24 +1085,28 @@
       "url": "https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4"
     },
     {
-      "added_at": "2022-09-02 17:55:50",
+      "added_at": "2022-09-09 18:55:33",
       "album": {
-        "name": "Tillweallrich",
-        "url": "https://open.spotify.com/album/7cjlZoAsOPauc8ESRhKJKp"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
-          "name": "Jdagr8",
-          "url": "https://open.spotify.com/artist/6KDSnOUZWVZeerpSkIuOuR"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 298945,
-      "name": "Can I Trust You",
-      "url": "https://open.spotify.com/track/3HY1WtRvQ2m9lveG6P5utl"
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     }
   ],
   "unique_name": "Ripple Effect: Texas",

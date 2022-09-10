@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
   "name": "Retro Soul",
   "published_playlist_ids": [
     "19AFs6pZ8WyCXnrxjl6M3m"
@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "album": {
         "name": "Bury Me",
         "url": "https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb"
       },
@@ -272,7 +290,7 @@
       "artists": [
         {
           "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/08K2541oRBCJGOZpAgF9Jk"
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
         }
       ],
       "date_added": "2021-07-09",
@@ -367,7 +385,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 229042,
       "name": "Closer",
       "url": "https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw"
@@ -758,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "album": {
         "name": "If Words Were Flowers",
         "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
       },
@@ -1000,6 +1036,24 @@
     },
     {
       "album": {
+        "name": "Nothing at All / Good Times",
+        "url": "https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244359,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje"
+    },
+    {
+      "album": {
         "name": "Sorry You Couldn't Make It",
         "url": "https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP"
       },
@@ -1163,7 +1217,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197960,
       "name": "Hear Me Singing (Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA"
@@ -1605,6 +1659,24 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
+    },
+    {
+      "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
     },
     {
       "album": {
@@ -2558,6 +2630,24 @@
     },
     {
       "album": {
+        "name": "Seasons of Trouble",
+        "url": "https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF"
+      },
+      "artists": [
+        {
+          "name": "Stereo League",
+          "url": "https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292737,
+      "name": "Seasons of Trouble",
+      "url": "https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY"
+    },
+    {
+      "album": {
         "name": "Sentimental Fool",
         "url": "https://open.spotify.com/album/1mvLDGAm4xagW3SX03mCNq"
       },
@@ -2977,7 +3067,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 226986,
       "name": "That's How Love Is Made",
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
@@ -3195,7 +3285,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 174586,
       "name": "Trade of Hearts",
       "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
@@ -3383,7 +3473,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 173724,
       "name": "X Boyfriends",
       "url": "https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI"

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Billy Raffoul",
+  "description": "A laid-back trip in the folk scene. Cover: Reuben And The Dark",
   "name": "Folk & Friends",
   "published_playlist_ids": [
     "5U0EeaLNxWf1VoBuo6txNc"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Different Kind of Light",
+        "url": "https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES"
+      },
+      "artists": [
+        {
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263373,
+      "name": "A Different Kind of Light",
+      "url": "https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE"
+    },
     {
       "album": {
         "name": "Past Dawn",
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 255231,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/6X0UL3iw1o9ngNVirhvYqR"
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 265202,
       "name": "Animals",
       "url": "https://open.spotify.com/track/6lcfBmZ4McYR0s2lTKKMKO"
@@ -319,6 +337,24 @@
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "album": {
+        "name": "Buzz Cut",
+        "url": "https://open.spotify.com/album/04QmI7yV5m6I8UtUKjiQMs"
+      },
+      "artists": [
+        {
+          "name": "Parkland",
+          "url": "https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162929,
+      "name": "Buzz Cut",
+      "url": "https://open.spotify.com/track/3BpEI4vjCFvblmJIKj1ygx"
     },
     {
       "album": {
@@ -589,6 +625,24 @@
       "duration_ms": 206171,
       "name": "Curbside Panic Attack",
       "url": "https://open.spotify.com/track/1W6saqdXAZm7QParxRP0zy"
+    },
+    {
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/3VHNsnpYi781v0AVA1716L"
+      },
+      "artists": [
+        {
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283912,
+      "name": "Currents",
+      "url": "https://open.spotify.com/track/4wZlPWevkIrsHo4Wr5oIRt"
     },
     {
       "album": {
@@ -1925,7 +1979,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 264387,
       "name": "North of the Border",
       "url": "https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680"
@@ -1965,6 +2019,24 @@
       "duration_ms": 160000,
       "name": "On the Edge",
       "url": "https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw"
+    },
+    {
+      "album": {
+        "name": "Prospect (Deluxe)",
+        "url": "https://open.spotify.com/album/15utleqV2llYGHYuD72rs8"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188364,
+      "name": "On Your Way - Acoustic",
+      "url": "https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ"
     },
     {
       "album": {
@@ -2116,6 +2188,24 @@
     },
     {
       "album": {
+        "name": "Pools",
+        "url": "https://open.spotify.com/album/5CfxWwzHgJCjGhxweCDeNn"
+      },
+      "artists": [
+        {
+          "name": "Hayley Gene Penner",
+          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229504,
+      "name": "Pools",
+      "url": "https://open.spotify.com/track/10InixTBQl9PbBSpcWw3bL"
+    },
+    {
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -2131,7 +2221,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 250000,
       "name": "Provincetown",
       "url": "https://open.spotify.com/track/5i9Ir9R83xVrIh5PNYmDl8"
@@ -2283,7 +2373,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh"
@@ -2493,6 +2583,24 @@
       "duration_ms": 217059,
       "name": "Someone",
       "url": "https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm"
+    },
+    {
+      "album": {
+        "name": "Song for Boots",
+        "url": "https://open.spotify.com/album/6m8ZUWWGuGmNyUZsTcvsBV"
+      },
+      "artists": [
+        {
+          "name": "Isla Craig",
+          "url": "https://open.spotify.com/artist/2OqiBF0lizFM461HesTifO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256186,
+      "name": "Song for Boots",
+      "url": "https://open.spotify.com/track/0Gxy0gRYz3jhAdbIS4sIX6"
     },
     {
       "album": {
@@ -3096,6 +3204,24 @@
     },
     {
       "album": {
+        "name": "In Lieu Of Light",
+        "url": "https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Reuben And The Dark",
+          "url": "https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256070,
+      "name": "Traveler Of Swords",
+      "url": "https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7"
+    },
+    {
+      "album": {
         "name": "The Window Inn Sessions",
         "url": "https://open.spotify.com/album/5QrNXKz7lvIiz5BQGFsVln"
       },
@@ -3165,7 +3291,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197265,
       "name": "Until You - Acoustic",
       "url": "https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X"
@@ -3273,7 +3399,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 222367,
       "name": "What in the World",
       "url": "https://open.spotify.com/track/6Bt8N0YVzHZsQYqKIGwmEv"

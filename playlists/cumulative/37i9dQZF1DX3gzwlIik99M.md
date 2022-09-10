@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-179 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
+180 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Credo de Darwin](https://open.spotify.com/track/5PV44PZg4Y3YSbahFKLpjB) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3UuKWZcyifQZ2Ucv3hPp92) | 4:28 | 2020-10-24 | 2022-07-28 |
 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 | 2020-10-24 |  |
 | [Crippled Tracker](https://open.spotify.com/track/1bWPnTZJdSdF0TyosNW2oV) | [Coprofago](https://open.spotify.com/artist/3AHOLYbQ4tukuXglzAulxu) | [Unorthodox Creative Criteria](https://open.spotify.com/album/43P3p42pvHNvWGLWSdz17r) | 3:18 | 2020-10-24 | 2022-07-28 |
+| [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 | 2020-10-24 |  |
 | [Culto vacio radical](https://open.spotify.com/track/7iSaJ4LIAMNbU45Rf48PXa) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2roovAXfVmkHsZ0GlGHRPm) | 4:47 | 2020-10-24 | 2022-08-19 |
 | [Cómoda Ceguera](https://open.spotify.com/track/5CbR1akjwCG94lK34D1MF6) | [Tras Las Puas](https://open.spotify.com/artist/5wOaaFlMe84wTSckI8oqPO) | [Muerde el Pavimento](https://open.spotify.com/album/1LUldTtUpQJeWOzsps5KYP) | 3:16 | 2020-10-24 | 2022-07-29 |
 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 | 2020-10-24 |  |
@@ -97,7 +98,7 @@
 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 | 2020-10-24 |  |
 | [Hilera de Cráneos](https://open.spotify.com/track/4KYCAI8Ji8ZjsMnolgoZdC) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [Tzompantli](https://open.spotify.com/album/7GmdWqPEcptcBt89MZwzcH) | 3:49 | 2020-10-24 | 2022-07-21 |
 | [Horrendo](https://open.spotify.com/track/03jPeLdw2Ry6ZtRZCL3VVv) | [Larva](https://open.spotify.com/artist/70fgQkaCL6ITJxg1E8Q9iP) | [Horrendo](https://open.spotify.com/album/2oi69bCo79bJtBJfiEFUOY) | 4:12 | 2020-10-24 | 2022-07-28 |
-| [Hoy Podes Pudrirte](https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [El Sangriento](https://open.spotify.com/album/614yYarWjW9kGJ7HApmS0Y) | 2:40 | 2020-10-24 |  |
+| [Hoy Podes Pudrirte](https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [El Sangriento](https://open.spotify.com/album/614yYarWjW9kGJ7HApmS0Y) | 2:40 | 2020-10-24 | 2022-09-10 |
 | [Hurninki\-sag](https://open.spotify.com/track/7gthjN7FzRmqrYKGdcVtMe) | [Black Hate](https://open.spotify.com/artist/1YK9suOewtPHgPf3DbMbQG) | [Altalith](https://open.spotify.com/album/7vm3mSZ7PFVZPrjBLKVkUw) | 4:32 | 2020-10-24 | 2022-07-18 |
 | [Immanence](https://open.spotify.com/track/6M26Tj2qfh5YfuuPb9s1Ft) | [All Tomorrows](https://open.spotify.com/artist/02zfNolwCUPprPV1hZR7Qo) | [Sol Agnates](https://open.spotify.com/album/3A2Z2mqC7B0vaygu9M0oys) | 4:14 | 2020-10-24 | 2022-07-28 |
 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 | 2020-10-24 |  |

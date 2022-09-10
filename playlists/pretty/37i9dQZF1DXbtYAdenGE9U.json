@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 299988,
+  "num_followers": 300514,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDU3MWMyOGEwZDkwYzhkZTcyZTM4YzQ1NzM0ZGRlZTAz",
+  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDY1MDhjMjdlMWViYmRiNWU2MWM5NzY1MmY3Zjk1YTZm",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "Symsonic",
+        "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Awakening - Radio Edit",
+      "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "Southern Sun / Ready Steady Go",
         "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 584585,
       "name": "Southern Sun - DJ Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1bAHNj6NQQqbRmnlWyOQvC"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Symsonic",
-        "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
-      },
-      "artists": [
-        {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Awakening - Radio Edit",
-      "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -807,42 +807,6 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "The Best Of Chicane 1996 - 2009",
-        "url": "https://open.spotify.com/album/4HA4lHmngXl9auznchWqlf"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Moya Brennan",
-          "url": "https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/4qWKqaTPkpjRmrKjkDuHb4"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "If I Could Fly",
-        "url": "https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66"
-      },
-      "artists": [
-        {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
-        }
-      ],
-      "duration_ms": 361893,
-      "name": "Not Over Yet",
-      "url": "https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
         "name": "The Whiteroom",
         "url": "https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz"
       },
@@ -867,18 +831,38 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Trance Top 1000 - Ibiza Classics",
-        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
+        "name": "If I Could Fly",
+        "url": "https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+          "name": "Grace",
+          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
         }
       ],
-      "duration_ms": 171231,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
+      "duration_ms": 361893,
+      "name": "Not Over Yet",
+      "url": "https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "The Best Of Chicane 1996 - 2009",
+        "url": "https://open.spotify.com/album/4HA4lHmngXl9auznchWqlf"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Moya Brennan",
+          "url": "https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/4qWKqaTPkpjRmrKjkDuHb4"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -911,6 +895,22 @@
       "duration_ms": 233160,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Trance Top 1000 - Ibiza Classics",
+        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "duration_ms": 171231,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
     }
   ],
   "unique_name": "Trance Classics",

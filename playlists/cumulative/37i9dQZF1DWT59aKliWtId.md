@@ -2,9 +2,9 @@
 
 ### [Grade A](https://open.spotify.com/playlist/37i9dQZF1DWT59aKliWtId)
 
-> A quality alternative blend\. Cover: Rayland Baxter
+> A quality alternative blend\. Cover: Madison Cunningham
 
-469 songs - 1 day 4 hr 42 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+471 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-11 | 2022-05-20 |
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-04 | 2022-07-30 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-02-04 | 2022-05-07 |
-| [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-08-26 |  |
+| [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-08-26 | 2022-09-10 |
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-25 | 2022-09-02 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 | 2022-06-11 |
 | [As Innocent Looking As Candy](https://open.spotify.com/track/1UZxXSDDaOABCoYhpi4BCJ) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [The Redaction](https://open.spotify.com/album/7s8s81xhb27Y13HQLx20be) | 1:59 | 2022-07-22 | 2022-08-20 |
@@ -357,8 +357,8 @@
 | [Sidelines \(feat\. Blake Mills\)](https://open.spotify.com/track/2ynhNfkbOlwfTYiaKDgzrq) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Sidelines \(feat\. Blake Mills\)](https://open.spotify.com/album/12Ub6tXqimNCzswd9jY98I) | 3:32 | 2022-03-25 | 2022-07-30 |
 | [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2022-02-04 | 2022-07-29 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-07-22 |  |
-| [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 | 2022-02-04 |  |
-| [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 | 2022-07-29 |  |
+| [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 | 2022-02-04 | 2022-09-10 |
+| [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA), [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 | 2022-07-29 |  |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-04 |  |
 | [Sold Me a Dream \- Terry Tracksuit Edit](https://open.spotify.com/track/05n521uk7tzOpvuQZMtQag) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Sold Me a Dream \(Terry Tracksuit Edit\)](https://open.spotify.com/album/2O4jdVnB7QgVETMA17wQ46) | 2:50 | 2022-04-15 | 2022-06-25 |
 | [Solid Jackson \- Companion Version](https://open.spotify.com/track/6vU6t4UalCVMCzUJKrX3m8) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Collection of Songs Written and Recorded 1995\-1997: A Companion](https://open.spotify.com/album/6vpOt6bD3HmL9bOXdlnCbG) | 4:00 | 2022-05-27 | 2022-06-25 |
@@ -381,6 +381,7 @@
 | [Summer Somewhere](https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Summer Somewhere](https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3) | 3:03 | 2022-06-03 | 2022-07-23 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-12-10 | 2022-03-12 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-20 | 2022-07-30 |
+| [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2022-09-09 |  |
 | [Superstar](https://open.spotify.com/track/6aYG6qnRBbqOMmqh1neJzd) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 6:08 | 2022-04-01 | 2022-08-20 |
 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-19 |  |
 | [Sweet Unknown](https://open.spotify.com/track/0xFHQ72ymUwAN2QneFYjrH) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/0aTcsM65p88W6cw7qwG3EM) | 3:58 | 2021-12-10 | 2022-02-05 |
@@ -462,6 +463,7 @@
 | [What’s Done is Done](https://open.spotify.com/track/4Gnn0gDHzMFRNx5DmX6gK8) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What's Done is Done](https://open.spotify.com/album/2ePmaLxFwdudLmUSj8eMwr) | 3:30 | 2022-03-25 | 2022-08-06 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-02-11 | 2022-06-18 |
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-03-11 | 2022-04-29 |
+| [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 | 2022-09-09 |  |
 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 | 2022-02-11 | 2022-03-12 |
 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 | 2022-03-04 | 2022-07-02 |
 | [Wild Blue](https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:12 | 2021-12-10 | 2022-04-29 |

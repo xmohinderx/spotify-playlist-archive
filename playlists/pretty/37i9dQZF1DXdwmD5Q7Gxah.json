@@ -1,13 +1,45 @@
 {
-  "description": "because a little left of center is best. cover: grandma ",
-  "num_followers": 927910,
+  "description": "because a little left of center is best. cover: magdalena bay ",
+  "num_followers": 927948,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2NjY5MywwMDAwMDAwMGI0OGQ0NDI3NGE5OWE0ZWRmNzBhZDU4ZTVmZDNiNzVj",
+  "snapshot_id": "MTY2Mjc0MzA5MCwwMDAwMDAwMDQ5OTA4MjhiZDY0MmYxODI2NGNmYmYyMDhlNGE5NjI1",
   "tracks": [
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "Kill For Your Love",
+        "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 192170,
+      "name": "Kill For Your Love",
+      "url": "https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU"
+    },
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/2D15Km6lpwSzUnRCYj8sfV"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 190771,
+      "name": "Cartoon Clouds",
+      "url": "https://open.spotify.com/track/4ZgM4aDpo3MuUjxbugBX0G"
+    },
     {
       "added_at": "2022-09-02 04:12:31",
       "album": {
@@ -41,52 +73,40 @@
       "url": "https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-07-15 12:08:06",
       "album": {
-        "name": "LOUIE",
-        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
       },
       "artists": [
         {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 109586,
-      "name": "Last Words",
-      "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
-      "added_at": "2022-08-26 04:40:34",
+      "added_at": "2022-09-09 17:04:50",
       "album": {
-        "name": "YUKON (INTERLUDE)",
-        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
+        "name": "CYBERKISS 2 U*",
+        "url": "https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
-    },
-    {
-      "added_at": "2022-08-24 22:02:20",
-      "album": {
-        "name": "All You Do",
-        "url": "https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd"
-      },
-      "artists": [
+          "name": "BLACKSTARKIDS",
+          "url": "https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E"
+        },
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 268374,
-      "name": "All You Do",
-      "url": "https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ"
+      "duration_ms": 188569,
+      "name": "CYBERKISS 2 U*",
+      "url": "https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf"
     },
     {
       "added_at": "2022-09-07 16:04:53",
@@ -105,6 +125,138 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "you missed the best part",
+        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 124743,
+      "name": "hospital beach",
+      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+    },
+    {
+      "added_at": "2022-08-24 22:02:20",
+      "album": {
+        "name": "All You Do",
+        "url": "https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 268374,
+      "name": "All You Do",
+      "url": "https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ"
+    },
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "First Time Caller",
+        "url": "https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        },
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+        }
+      ],
+      "duration_ms": 317279,
+      "name": "First Time Caller",
+      "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 109586,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
+    },
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "Is It Worth It Now?",
+        "url": "https://open.spotify.com/album/35AXeLXRmbDOlRVrl1AUOV"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Is It Worth It Now?",
+      "url": "https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN"
+    },
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "Host B Sides & Remixes",
+        "url": "https://open.spotify.com/album/4paNaQZ8eB1cUU1ZJh14gJ"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Sleeping Through Sunshine",
+      "url": "https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd"
+    },
+    {
+      "added_at": "2022-08-26 04:40:34",
+      "album": {
+        "name": "YUKON (INTERLUDE)",
+        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "YUKON (INTERLUDE)",
+      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
+    },
+    {
       "added_at": "2022-08-24 19:01:53",
       "album": {
         "name": "Before Dawn",
@@ -119,6 +271,22 @@
       "duration_ms": 257614,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4"
+    },
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "Read Mine",
+        "url": "https://open.spotify.com/album/4kBgigjvgHi8ZVDNUuk7a2"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 192553,
+      "name": "Read Mine",
+      "url": "https://open.spotify.com/track/0rsVGAZYDgvvMBnAgqAamg"
     },
     {
       "added_at": "2022-08-24 19:01:53",
@@ -151,22 +319,6 @@
       "duration_ms": 170793,
       "name": "THREAT",
       "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "you missed the best part",
-        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 124743,
-      "name": "hospital beach",
-      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -541,22 +693,6 @@
       "url": "https://open.spotify.com/track/1XtR9GdwiSbhtaufCeYcTT"
     },
     {
-      "added_at": "2022-07-15 12:08:06",
-      "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "My Friend Mica",
@@ -914,6 +1050,10 @@
         {
           "name": "U.S. Girls",
           "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        },
+        {
+          "name": "Eli Escobar",
+          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
         }
       ],
       "duration_ms": 195804,
@@ -969,26 +1109,6 @@
       "url": "https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq"
     },
     {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Pigeons & Planes presents: See You Next Year",
-        "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
-      },
-      "artists": [
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        },
-        {
-          "name": "Terry Presume",
-          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
-        }
-      ],
-      "duration_ms": 185752,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/04CXlpWb6LtkqrfWoDxDvY"
-    },
-    {
       "added_at": "2022-08-03 16:05:27",
       "album": {
         "name": "Bedside",
@@ -1035,22 +1155,6 @@
       "duration_ms": 164708,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
-    },
-    {
-      "added_at": "2022-08-03 16:05:27",
-      "album": {
-        "name": "safety",
-        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1111,38 +1215,6 @@
       "duration_ms": 152116,
       "name": "Gum",
       "url": "https://open.spotify.com/track/4LEjWglTBWv0YVZ64CepPO"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "All Day I Dream About",
-        "url": "https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn"
-      },
-      "artists": [
-        {
-          "name": "joe p",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 201667,
-      "name": "All Day I Dream About",
-      "url": "https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 245808,
-      "name": "Hold The Girl",
-      "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
     },
     {
       "added_at": "2022-07-21 16:00:00",
@@ -1223,22 +1295,6 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2022-06-09 14:58:29",
@@ -1417,22 +1473,6 @@
       "url": "https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o"
     },
     {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "Juno (Deluxe)",
-        "url": "https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w"
-    },
-    {
       "added_at": "2022-06-22 15:24:45",
       "album": {
         "name": "caroline",
@@ -1463,22 +1503,6 @@
       "duration_ms": 297000,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD"
-    },
-    {
-      "added_at": "2022-07-20 18:22:39",
-      "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1515,22 +1539,6 @@
       "duration_ms": 195546,
       "name": "God Hired You To Be My Baby",
       "url": "https://open.spotify.com/track/1cxMuh5UJhouWUZJQT5SnU"
-    },
-    {
-      "added_at": "2022-07-27 16:18:19",
-      "album": {
-        "name": "Disbeliever",
-        "url": "https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 115879,
-      "name": "Disbeliever",
-      "url": "https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa"
     },
     {
       "added_at": "2022-07-01 04:00:00",

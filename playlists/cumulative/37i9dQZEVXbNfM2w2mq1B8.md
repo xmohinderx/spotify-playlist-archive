@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-805 songs - 1 day 21 hr 11 min - [published](https://open.spotify.com/playlist/4ZKbVsA2MbwcWcasP7Y6xf)
+806 songs - 1 day 21 hr 14 min - [published](https://open.spotify.com/playlist/4ZKbVsA2MbwcWcasP7Y6xf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [Run Rudolph Run \- Single Version](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-12-25 | 2021-12-27 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-15 | 2021-05-23 |
 | [RUNITUP \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/13HsOwrwTA5HgLuoaDHncP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 3:49 | 2021-06-27 | 2021-06-28 |
-| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-09-10 |
 | [S' Agapao](https://open.spotify.com/track/6tfajS9NU9zqfOZdByVbV1) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [S' Agapao](https://open.spotify.com/album/0P23smtf1s0qLKFSEqEaRJ) | 4:00 | 2022-07-25 | 2022-09-09 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-03-11 |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2021-11-20 | 2021-12-10 |
@@ -800,6 +800,7 @@
 | [Само Ако Бях](https://open.spotify.com/track/7HWoshfGrU2PjqAoqCegbt) | [ToTo H](https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP), [Marianoff](https://open.spotify.com/artist/1eEQsoShF5WtugoY65IJ3i) | [Само Ако Бях](https://open.spotify.com/album/1R443d7wgdg3tFO5ruHuMH) | 3:04 | 2021-03-27\* | 2021-07-24 |
 | [Само споко](https://open.spotify.com/track/2pwj1MjlVgRbVcWjk3PEBd) | [Itzo Hazarta](https://open.spotify.com/artist/11TXwr1USRcwyvnGqxF2rC), [Valentina](https://open.spotify.com/artist/6h5eRjXHASXlX5HfsdbgFh) | [Само споко](https://open.spotify.com/album/0RFuMrIdIiQEDaEa2n3HzT) | 3:33 | 2021-05-03 | 2021-05-06 |
 | [Скитник](https://open.spotify.com/track/0RoJ4Ww6wiW0x7LdFScXnd) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Yoana Sashova](https://open.spotify.com/artist/0WFMejgWiqbnkzhp3c3p3L) | [Скитник](https://open.spotify.com/album/57QikCDqxUmigCJu1ZJohH) | 3:15 | 2022-02-15 | 2022-02-19 |
+| [Случки](https://open.spotify.com/track/5yXmtupoVp0GSM1ENKciOX) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Случки](https://open.spotify.com/album/7DHZdQmonqXkeA5Hb1dBtC) | 3:03 | 2022-09-09 |  |
 | [Смърт Преди Позора](https://open.spotify.com/track/6Yv7vIisTRhCtC4svGV4Z3) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Смърт Преди Позора](https://open.spotify.com/album/1oK2OaHitsBeaddlQafUtf) | 2:49 | 2021-03-29 | 2021-04-16 |
 | [Срещата бърза](https://open.spotify.com/track/0O0LhLIImOBeLGYqmLLKqv) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Срещата бърза](https://open.spotify.com/album/1FG1vAD4sw41N076UZBiv4) | 3:52 | 2022-05-06 | 2022-05-22 |
 | [Стрес тест](https://open.spotify.com/track/6i3e7v3Wclce3OJgYD5dy1) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Стрес тест](https://open.spotify.com/album/2AqUpH3QjmsnmY34UDnLed) | 2:53 | 2021-05-03 | 2021-05-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Honey Dijon",
-  "num_followers": 70283,
+  "num_followers": 70308,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTkzOCwwMDAwMDAwMDIzMTFjOGYyNjA5ZWUyZTgzZDFhNzM4YmM4YWI5Mjlk",
+  "snapshot_id": "MTY2MDIzOTkzOCwwMDAwMDAwMDJjOTM5ZjI2YjA1NTQ1MzFkOGYyY2FlYWU2ODA2YzRh",
   "tracks": [
     {
       "added_at": "2022-06-01 20:15:10",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 198625,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
         "name": "Chapter 25: Domonique",
         "url": "https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 187213,
       "name": "Bisexual Anthem",
       "url": "https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
       "added_at": "2021-02-26 05:00:00",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
     },
     {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 183424,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
+    },
+    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "Dirty Computer",
@@ -355,22 +371,6 @@
       "duration_ms": 240426,
       "name": "Pynk (feat. Grimes)",
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 183424,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
+      "added_at": "2021-02-26 05:00:00",
+      "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
+    },
+    {
       "added_at": "2022-05-31 20:14:29",
       "album": {
         "name": "Body Move",
@@ -471,22 +487,6 @@
       "duration_ms": 198058,
       "name": "Slow Down (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY"
-    },
-    {
-      "added_at": "2021-02-26 05:00:00",
-      "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 155758,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
     },
     {
-      "added_at": "2021-07-09 04:00:00",
-      "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
-      },
-      "artists": [
-        {
-          "name": "MK xyz",
-          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
-    },
-    {
       "added_at": "2020-06-01 21:07:43",
       "album": {
         "name": "BUBBA",
@@ -595,6 +579,22 @@
       "duration_ms": 247346,
       "name": "Human",
       "url": "https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN"
+    },
+    {
+      "added_at": "2021-07-09 04:00:00",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
     },
     {
-      "added_at": "2020-06-01 21:09:33",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 198056,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/6BYRHke6jlb81Z6qCTRZ8y"
-    },
-    {
       "added_at": "2022-05-31 20:14:29",
       "album": {
         "name": "Green Line",
@@ -851,6 +835,22 @@
       "duration_ms": 206000,
       "name": "Green Line",
       "url": "https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk"
+    },
+    {
+      "added_at": "2020-06-01 21:09:33",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 198056,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/6BYRHke6jlb81Z6qCTRZ8y"
     },
     {
       "added_at": "2020-07-10 14:36:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:5FnpXrrMdJVZCK54oHWqUa">Makaya McCraven</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,956 likes - 45 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,955 likes - 45 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

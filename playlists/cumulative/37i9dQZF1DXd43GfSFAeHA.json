@@ -2306,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "\u062c\u064a\u0632\u0629",
+        "url": "https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ"
+      },
+      "artists": [
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "\u062c\u064a\u0632\u0629",
+      "url": "https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX"
+    },
+    {
+      "album": {
         "name": "\u062e\u062f \u0648 \u0647\u0627\u062a",
         "url": "https://open.spotify.com/album/3DIpQbx2oJvHuZm37Gctpr"
       },

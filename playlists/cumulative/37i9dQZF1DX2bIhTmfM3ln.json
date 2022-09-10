@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 172098,
       "name": "bAd IntentIons",
       "url": "https://open.spotify.com/track/0UnOyqOuDW8vk4P2mrjPEs"
@@ -2179,6 +2179,28 @@
       "duration_ms": 181832,
       "name": "Wedding Ring",
       "url": "https://open.spotify.com/track/2GTSiA8p1PLsArt4PCJJ5a"
+    },
+    {
+      "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159127,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
     },
     {
       "album": {

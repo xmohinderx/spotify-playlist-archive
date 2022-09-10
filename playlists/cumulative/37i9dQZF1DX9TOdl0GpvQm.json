@@ -858,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
+    },
+    {
+      "album": {
         "name": "The Detective (II)",
         "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
       },
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 213439,
       "name": "The Assistant (Marten)",
       "url": "https://open.spotify.com/track/7uFE0yDqQd5TidEqrqiv6E"

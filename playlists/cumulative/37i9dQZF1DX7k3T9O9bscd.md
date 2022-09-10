@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-234 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+236 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [I Fucked up I Was a Child](https://open.spotify.com/track/3Gv8uENEjjly7JASxPZ0GK) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [I Fucked up I Was a Child](https://open.spotify.com/album/2NqiM1M6rO9YxFFs2jJJgr) | 4:43 | 2021-11-12 | 2022-07-28 |
 | [I teleported to Acapulco](https://open.spotify.com/track/0TZcrDs4cFHR7plX9F0eVu) | [Øresund Space Collective](https://open.spotify.com/artist/2uvfGz1p9D7bj8MnuRPjlC) | [Slip into the Vortex](https://open.spotify.com/album/6qfXssEj5ifrHYiQfHmgYz) | 9:55 | 2021-11-12 | 2022-07-26 |
 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/7fpEayIv2yPcLnbiRLDMWn) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF) | 5:12 | 2021-11-12 |  |
+| [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-09 |  |
 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 | 2021-11-12 |  |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 |  |
 | [Imperio](https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [Imperio](https://open.spotify.com/album/4xSIqrDjct43Ts9y0p2Foj) | 3:39 | 2021-11-12 | 2022-06-13 |
@@ -114,7 +115,7 @@
 | [Jukebox Babe](https://open.spotify.com/track/3KZcO29G6BjqIJbdsRg0Mo) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/6elsYtkFCr0vejWHg9sTG9) | 6:24 | 2021-11-12 | 2022-07-18 |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi) | [Ananda Shankar](https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ) | [Ananda Shankar \(US Internet Release\)](https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3) | 3:35 | 2021-11-12 |  |
 | [kawasemi Ah](https://open.spotify.com/track/1uxhSPG2TZcPWzz2i6HAva) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [kawasemi Ah](https://open.spotify.com/album/7DSgMFaVIJceU7LUSapL43) | 8:24 | 2021-11-12 | 2022-07-28 |
-| [Kepler\-22b](https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Kepler\-22b](https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP) | 3:12 | 2022-04-20 |  |
+| [Kepler\-22b](https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Kepler\-22b](https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP) | 3:12 | 2022-04-20 | 2022-09-10 |
 | [La Trampa](https://open.spotify.com/track/4Ap9BAQ88XsI4aC6BN2Fic) | [Fumaça Preta](https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi) | [Impuros Fanáticos](https://open.spotify.com/album/2ZqLBWbe85F9FH8gHANGWE) | 2:52 | 2021-11-12 | 2022-07-14 |
 | [Lady Rachel](https://open.spotify.com/track/6Fg29nXfSaMbz3o83ky0vk) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/4HqBey3hq7tSerfBANaDLt) | 5:10 | 2021-11-12 | 2022-07-26 |
 | [Lateral Alice \- Cavern of Anti\-Matter Remix](https://open.spotify.com/track/3p3PuntYTsPXM1sejy8M7x) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Lateral Alice \(Cavern of Anti\-Matter Remix\)](https://open.spotify.com/album/5NzQWhPUS4V1Fv4fajmNw6) | 7:39 | 2021-11-12 | 2022-07-29 |
@@ -207,6 +208,7 @@
 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 | 2021-11-12 | 2022-07-26 |
 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 | 2021-11-12 |  |
 | [There is No Care](https://open.spotify.com/track/0XWoQF21tvHWZkYV4jRiqY) | [The Ratel](https://open.spotify.com/artist/2LouoDeijvq31oncLkpWWy) | [There is No Care](https://open.spotify.com/album/1uXySrN2VRWPWyxGZf9kJs) | 8:46 | 2022-06-08 | 2022-07-13 |
+| [Three King Fishers](https://open.spotify.com/track/3DwC6hoFyadRWrLcgZkzDQ) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Bacchanal](https://open.spotify.com/album/1jdyVUfQ7aXgQWTEhamyDS) | 4:43 | 2021-11-12 |  |
 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 | 2021-11-12 | 2022-09-05 |
 | [Through the Hollow](https://open.spotify.com/track/2QjYslScytXqM0MHRbZy7s) | [Molassess](https://open.spotify.com/artist/50gSbi7BDx33WrB58jadSg) | [Through the Hollow](https://open.spotify.com/album/2hV8CGvmqGY83yb2RUEALF) | 11:05 | 2021-11-12 | 2022-07-27 |
 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 | 2022-04-06 |  |
@@ -217,7 +219,7 @@
 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 | 2021-11-12 |  |
 | [Traveler's Code of Conduct](https://open.spotify.com/track/1GPzf66or0QcgpcAXngthP) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 3:58 | 2021-11-12 | 2022-07-21 |
 | [Trees](https://open.spotify.com/track/1NXypJl06i4aiD6Lpi06Sb) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 7:14 | 2021-11-12 | 2022-07-28 |
-| [Trees](https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 7:14 | 2021-11-12 |  |
+| [Trees](https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 7:14 | 2021-11-12 | 2022-09-10 |
 | [Truth](https://open.spotify.com/track/3hS6PyeZEDltwUXCN5UTXU) | [Wax Machine](https://open.spotify.com/artist/6kZ2grSzDSRhZuB4iiw77G) | [Truth](https://open.spotify.com/album/0oLub52R5pVTPVQndadoIu) | 4:15 | 2021-11-12 | 2022-07-29 |
 | [Turn Around](https://open.spotify.com/track/5xUDXchsF1T8g5P3kNszHB) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d), [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Turn Around](https://open.spotify.com/album/5jRLKnu0hpjCUaCpyX7Se7) | 4:03 | 2021-11-12 | 2022-07-21 |
 | [Tītián](https://open.spotify.com/track/4FfM1tpWiGg3xS6myfNAvi) | [Kuunatic](https://open.spotify.com/artist/5uZn75Nrcnvzl4tkgPQlEB) | [Gate of Klüna](https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI) | 4:38 | 2022-04-28 | 2022-07-23 |

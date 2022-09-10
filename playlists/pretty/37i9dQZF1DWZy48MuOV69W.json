@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44383,
+  "num_followers": 44384,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMGIzMTAwNjY0ZDlkY2YyOGEzMTQ5YjY2OGU2ZjQwZDk2",
+  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMGFlYzFkN2Q4MTE0Y2JkNGZlNGNjMzdhMTM3Y2U3ZjA1",
   "tracks": [
     {
       "added_at": "2021-12-21 12:48:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Billy Eckstine Sings",
-        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Songs of December (Anniversary Edition)",
         "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 289786,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Billy Eckstine Sings",
+        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Pretty Swingin' Christmas",
         "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 129042,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 200180,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 262600,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Jazz To The World",
+        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -839,22 +855,6 @@
       "duration_ms": 248746,
       "name": "Rest in Peace",
       "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "Jazz To The World",
-        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
-      },
-      "artists": [
-        {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "The Season",
         "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 166613,
       "name": "Sleighride",
       "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
     },
     {
       "added_at": "2021-12-21 12:48:59",

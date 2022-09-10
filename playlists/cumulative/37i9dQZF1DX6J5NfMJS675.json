@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Bring It On Down",
+        "url": "https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432657,
+      "name": "Bring It On Down",
+      "url": "https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl"
+    },
+    {
+      "album": {
         "name": "Bring Me Up EP",
         "url": "https://open.spotify.com/album/76SdE7SogrA4DjCj15ISHN"
       },
@@ -1535,6 +1553,28 @@
       "duration_ms": 321666,
       "name": "Deine Angst",
       "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
+    },
+    {
+      "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5hpp87ZHVaYJWzM5ysScBN"
+      },
+      "artists": [
+        {
+          "name": "MILLA LOU",
+          "url": "https://open.spotify.com/artist/54SwMmuQHT1ZhCa3LMe3Ng"
+        },
+        {
+          "name": "NoNameLeft",
+          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386666,
+      "name": "Delirium",
+      "url": "https://open.spotify.com/track/19MYFJHlTK4bUn3wYEl3TO"
     },
     {
       "album": {
@@ -2757,7 +2797,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 305538,
       "name": "Hela",
       "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
@@ -4614,6 +4654,24 @@
     },
     {
       "album": {
+        "name": "FJAAK 008",
+        "url": "https://open.spotify.com/album/1ISmPiZjXY199Z8OPQpJv7"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342773,
+      "name": "Plan of Escape",
+      "url": "https://open.spotify.com/track/216VaEa5u8Z90Ql8WrySsZ"
+    },
+    {
+      "album": {
         "name": "Planet X",
         "url": "https://open.spotify.com/album/0gNfR8j6CmCJCbzDDtSMt7"
       },
@@ -5491,7 +5549,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 223384,
       "name": "Speed",
       "url": "https://open.spotify.com/track/2djrfJoMcMkeclcALeYHit"

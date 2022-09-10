@@ -2,9 +2,9 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Ease into these recent hits and new songs from your favorite artists\. Cover: Dermot Kennedy
+> Ease into these recent hits and new songs from your favorite artists\. Cover: John Legend
 
-925 songs - 2 day 2 hr 59 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+928 songs - 2 day 3 hr 8 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,8 +274,10 @@
 | [Follow You](https://open.spotify.com/track/375kzpRydDdOxOSCGMK53b) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 2:55 | 2021-10-30 | 2022-03-12 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-14 | 2021-07-04 |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-09-25 | 2022-04-16 |
+| [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-09 |  |
 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 | 2020-03-13 | 2020-05-30 |
 | [Forget \(About Everyone Else\)](https://open.spotify.com/track/1cAEFdMm3lt3nrFkkfqFw8) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Forget \(About Everyone Else\)](https://open.spotify.com/album/2YwlRSCEoxy65M9eBeJjkj) | 2:57 | 2020-10-30 | 2020-11-28 |
+| [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 |  |
 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 | 2022-02-25 | 2022-04-09 |
 | [FREE](https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [FREE](https://open.spotify.com/album/5Z1rLGZjQPAoqI1YZqVkdq) | 3:42 | 2022-04-08 | 2022-04-23 |
 | [Free Spirit](https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:02 | 2019-05-26\* | 2020-02-07 |
@@ -559,7 +561,7 @@
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-05-22 | 2021-09-25 |
 | [Modern Loneliness](https://open.spotify.com/track/1eyek0KJEh2v5HQ9uQSybb) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 4:12 | 2020-05-01 | 2020-07-03 |
 | [Modern Loneliness](https://open.spotify.com/track/7MZF7YLxOP2to9iblSulLc) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/0YuPbtHpnpGEhyjg0rCyEi) | 4:12 | 2020-02-23 | 2020-03-20 |
-| [Modern Love](https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Modern Love](https://open.spotify.com/album/0GysfkO8T10XaXkAh8i4tn) | 3:40 | 2022-08-26 |  |
+| [Modern Love](https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Modern Love](https://open.spotify.com/album/0GysfkO8T10XaXkAh8i4tn) | 3:40 | 2022-08-26 | 2022-09-10 |
 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2022-01-07 | 2022-05-07 |
 | [Monday](https://open.spotify.com/track/6tvDAC8atHIjyLgvOEK1fK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 3:07 | 2021-09-18 | 2021-10-16 |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-12 |  |
@@ -792,7 +794,7 @@
 | [That’s When \(feat\. Keith Urban\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:09 | 2021-04-10 | 2021-06-16 |
 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 | 2020-07-24 | 2021-02-19 |
 | [The Archer](https://open.spotify.com/track/3Y7MHz19qCg1Pkxridtu1k) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Archer](https://open.spotify.com/album/2mmpvWHLrUjSu5PN763rUu) | 3:31 | 2019-07-27 | 2019-08-20 |
-| [The Best Is Yet To Come](https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Best Is Yet To Come](https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7) | 3:03 | 2022-05-20 |  |
+| [The Best Is Yet To Come](https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Best Is Yet To Come](https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7) | 3:03 | 2022-05-20 | 2022-09-10 |
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-05-26\* | 2019-10-04 |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2021-06-16 | 2021-07-10 |
 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 | 2019-10-04 | 2020-07-03 |
@@ -911,6 +913,7 @@
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-01-21 | 2022-03-12 |
 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 | 2019-05-26\* | 2019-06-15 |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2021-06-16 | 2021-07-04 |
+| [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-09 |  |
 | [Worse for Me](https://open.spotify.com/track/6qMf2bVZy4IuGvxoc6uOPt) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC) | 3:08 | 2021-08-21 | 2021-09-18 |
 | [Would You Still Want Me?](https://open.spotify.com/track/3EkdlLU5KrTTZKRA8fwWGX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Would You Still Want Me?](https://open.spotify.com/album/7rrhgnY7LYTsILg1ryDubb) | 3:15 | 2021-07-17 | 2021-09-18 |
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-06-10 |  |

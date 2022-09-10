@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,984 likes - 29 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,991 likes - 29 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 | 9 | [Presente \(El Momento en Que Estás\)](https://open.spotify.com/track/4bFUkfOd1ZGrCaszcsBP2L) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Caliente](https://open.spotify.com/album/2G0N5Sy48qkoWxCH8t4dIv) | 3:14 |
 | 10 | [Normal 1](https://open.spotify.com/track/1ohGUdXoJ2fjoKtx8iKilK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:00 |
 | 11 | [La Ventana Sin Cancel](https://open.spotify.com/track/1QBxPUkYUzlVaET2jacJbT) | [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Melopea](https://open.spotify.com/album/47F4NhL63vHv6Zesrg3DO6) | 1:59 |
-| 12 | [Instituciones](https://open.spotify.com/track/4lbb8zGHPUwWNQkzBBYrl3) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Sí o Sí \- Diario del Rock Argentino \- Sui Generis](https://open.spotify.com/album/5XBgXYEw2flQFZDW1I8lFS) | 4:48 |
+| 12 | [Instituciones](https://open.spotify.com/track/0RPoVlxtkhJPaeeCNHTy85) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 4:51 |
 | 13 | [Dale Gracias](https://open.spotify.com/track/4YI74GIyptzhi4nt4zuAsA) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Alma de Diamante](https://open.spotify.com/album/08WhOkH7KtcbYzyxfMuV2R) | 5:17 |
 | 14 | [Sandwiches de Miga](https://open.spotify.com/track/004G9E3EZhxxn5aE9yEQqx) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp) | 3:00 |
 | 15 | [Cadáver exquisito](https://open.spotify.com/track/63EdqxrZft3yMVZdHFAQKI) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Euforia](https://open.spotify.com/album/5AhTbUjvm7jfcHh473PtOC) | 5:37 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 | 28 | [Hipercandombe](https://open.spotify.com/track/0h9QE6kspuK23cB8AYwmjZ) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [Peliculas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj) | 4:30 |
 | 29 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 |
 
-Snapshot ID: `MTU3OTA5NTQ5NCwwMDAwMDAwMDdjZjk0YzYxZDQxNzE1NTFkODY4ZDY0YThjZjc5OTFj`
+Snapshot ID: `MTU3OTA5NTQ5NCwwMDAwMDAwMDk1MTRmMGVhMzllNTI0M2I4NDZkYjRjNmI4ZTM0NTNm`

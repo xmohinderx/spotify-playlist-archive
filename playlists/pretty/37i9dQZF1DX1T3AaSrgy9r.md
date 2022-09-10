@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,987 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,051 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 16 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 17 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
 | 18 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
-| 19 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 |
-| 20 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 |
-| 21 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
+| 19 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 |
+| 20 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
+| 21 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 |
 | 22 | [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 |
 | 23 | [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 |
 | 24 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 |
@@ -83,18 +83,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 73 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
 | 74 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 |
 | 75 | [Battleflag](https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7) | [Lo Fidelity Allstars](https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs) | [Battleflag](https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj) | 5:41 |
-| 76 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
+| 76 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 |
 | 77 | [We Have Explosive](https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 6:19 |
-| 78 | [Brown Paper Bag](https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr) | [New Forms](https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ) | 9:02 |
-| 79 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
-| 80 | [Swamp Thing](https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS) | [The Grid](https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo) | [Swamp Thing](https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq) | 3:57 |
-| 81 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
-| 82 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
-| 83 | [Beauty Never Fades \(feat\. Saffron\)](https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN), [Saffron](https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n) | [Radio JXL \- A Broadcast From The Computerhell Cabin](https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy) | 3:48 |
+| 78 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
+| 79 | [Brown Paper Bag](https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr) | [New Forms](https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ) | 9:02 |
+| 80 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
+| 81 | [Swamp Thing](https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS) | [The Grid](https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo) | [Swamp Thing](https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq) | 3:57 |
+| 82 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
+| 83 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
 | 84 | [Gabriel](https://open.spotify.com/track/0x7i1EB5EyFbqWRWiItLFs) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [The Best Of Lamb 1996\-2004 \- Best Kept Secrets](https://open.spotify.com/album/7cgueLeLixSTaOgoRQeR94) | 4:20 |
 | 85 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
 | 86 | [High Noon](https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow \(Deluxe Edition\)](https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN) | 3:58 |
-| 87 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 |
+| 87 | [Beauty Never Fades \(feat\. Saffron\)](https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN), [Saffron](https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n) | [Radio JXL \- A Broadcast From The Computerhell Cabin](https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy) | 3:48 |
 | 88 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
 
-Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMGIwZGNmNmY4ZWNhOWU2NzI0ZjQ5OWUzYjc5MGMyNGY3`
+Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMDAzZjQxMjc0NGYxNmVhMTE2ODA2NDViNGM3MGE4ZDE5`

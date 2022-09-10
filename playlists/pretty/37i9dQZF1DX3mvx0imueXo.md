@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,925 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,983 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 36 | [Cry Cry Blood](https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Cry Cry Blood](https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC) | 3:49 |
 | 37 | [La famille](https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [La famille](https://open.spotify.com/album/0BJBR7bKD0h5vRTX6nE1Jd) | 3:41 |
 | 38 | [A9 Link Up](https://open.spotify.com/track/65vOcHDf6HRHuO94rr56Lo) | [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [A9Ace](https://open.spotify.com/artist/3nVH9A3fJlrtQh1s3Ft2QW), [A9Nikz](https://open.spotify.com/artist/2DLW1xMXGTtdBNwhxXP9oN), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Trapboy](https://open.spotify.com/artist/2BSxtUp2AXy2TI3DAkjLdL), [A9Kebz](https://open.spotify.com/artist/1JoKldB4InGY6KzojY4JcS), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [A9 Link Up](https://open.spotify.com/album/3KWlQxX2YYkKxA1WykEsmh) | 3:44 |
-| 39 | [Stay Woke](https://open.spotify.com/track/6osoYGfqRBZ2QdHo1pBCk5) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L), [Danjah](https://open.spotify.com/artist/2ZyQXz3BsnPPB5bcUYZ6hO), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Stay Woke](https://open.spotify.com/album/34i058rgu3AHHS7IoIy25O) | 3:09 |
-| 40 | [Election Time](https://open.spotify.com/track/5wBauhWmIU3IbThhEl05zg) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Election Time](https://open.spotify.com/album/3QyJ6rtQyRluGQKo8a6lRS) | 2:31 |
+| 39 | [Election Time](https://open.spotify.com/track/5wBauhWmIU3IbThhEl05zg) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Election Time](https://open.spotify.com/album/3QyJ6rtQyRluGQKo8a6lRS) | 2:31 |
+| 40 | [Stay Woke](https://open.spotify.com/track/6osoYGfqRBZ2QdHo1pBCk5) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L), [Danjah](https://open.spotify.com/artist/2ZyQXz3BsnPPB5bcUYZ6hO), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Stay Woke](https://open.spotify.com/album/34i058rgu3AHHS7IoIy25O) | 3:09 |
 | 41 | [Babylon Fallin](https://open.spotify.com/track/2FL8K44Q8e2ICbK3W9NoEo) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [One Time Music](https://open.spotify.com/artist/33me5od0CPHlQtuzgHkF7h) | [Babylon Fallin](https://open.spotify.com/album/1toCcJIyEHFFRYFPxuUOJc) | 3:00 |
 | 42 | [Stop You Coming and Come \- Jam in the Van Live Session](https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Steel Pulse \(Live at Reggae On The Mountain 2019\)](https://open.spotify.com/album/51sbA0X6M2RI6fDfi1kzoB) | 4:36 |
 | 43 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Plastic Smile](https://open.spotify.com/track/55cJxAVdfFkkoavazIsqev) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Bakersteez](https://open.spotify.com/artist/7ME0YHfCVRdZOfApJmHGhh) | [Plastic Smile](https://open.spotify.com/album/75XgUIt3RiQTe9KMFJ8Yns) | 3:43 |
 | 50 | [Do Your Ting](https://open.spotify.com/track/5drUpHQlsBIbHDjIrUBreO) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6GqkxKrqcWZVC2aYhbHx06) | 3:12 |
 
-Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMDFkNDQ5ZmU3NzAxYzUzYTc3ZmZlYmY3OTM1NWMyNGZi`
+Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMGFlNTE1M2UxN2UyOWNmNGU3MTIxNmJkN2JiNjViZTU4`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mayarah Magalhães
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,813 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,823 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 |
 | 2 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 |
 | 3 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 |
-| 4 | [As Faixas](https://open.spotify.com/track/0pXcuV7F9sayTpfICzxKsU) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Letta](https://open.spotify.com/artist/09VbdMjJEPO5Pv5JDyBpHD), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [As Faixas](https://open.spotify.com/album/7lcgZlUhLUzn6Ulerl4pbB) | 3:22 |
+| 4 | [As Faixas](https://open.spotify.com/track/0pXcuV7F9sayTpfICzxKsU) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Letta](https://open.spotify.com/artist/0jyT3a5KlJqq751sfrc9Bn), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [As Faixas](https://open.spotify.com/album/7lcgZlUhLUzn6Ulerl4pbB) | 3:22 |
 | 5 | [Manda Foto](https://open.spotify.com/track/2ZAT9lqhq7sEYtyUsg72QR) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Manda Foto](https://open.spotify.com/album/17yuXJKc5MUKgRg6jAmLLf) | 2:17 |
 | 6 | [Bahamas](https://open.spotify.com/track/7HfiOshF1YAe7rDF7e47XW) | [honeyyvm](https://open.spotify.com/artist/6FRAAq4oJpZ8MVmnzc9Qvw), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Bahamas](https://open.spotify.com/album/5rEUBcuC0pMEaGcH0J5oQ9) | 2:27 |
 | 7 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 |

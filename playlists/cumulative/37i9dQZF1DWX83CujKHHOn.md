@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-314 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+315 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Liar](https://open.spotify.com/track/4BokCZjL92n7h7Q1OaTGPf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Liar](https://open.spotify.com/album/0fsUSRF3oFrbX5KKuuVg9M) | 3:56 | 2021-12-06 | 2022-07-29 |
 | [Life Of The Party](https://open.spotify.com/track/6L6ra9mTlyQPmh7zGw58y1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Life Of The Party](https://open.spotify.com/album/4lAY3liGb0uX8O8pTjZyOl) | 3:34 | 2021-12-06 | 2022-07-29 |
 | [Life Of The Party](https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:34 | 2022-07-08 |  |
-| [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 | 2021-12-06 |  |
+| [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 | 2021-12-06 | 2022-09-10 |
 | [Little Waltz](https://open.spotify.com/track/55hcquIzoHMMS7e9qKYxLy) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Oh, My Darling \(US Standard Edition\)](https://open.spotify.com/album/3QF8mwjOebSxBKTdg9zPDL) | 2:54 | 2022-01-05 | 2022-04-21 |
 | [Loneliness](https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi) | [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd) | [Loneliness](https://open.spotify.com/album/0UJpeok7iX154IgLHvezYa) | 4:46 | 2021-12-06 | 2022-07-28 |
 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 | 2021-12-06 | 2022-07-26 |
@@ -173,6 +173,7 @@
 | [Lost](https://open.spotify.com/track/3nBmy2hAqIDmMOD0VZGB7I) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Horizons](https://open.spotify.com/album/4K3AXbUoyTVE4A6wV50cmB) | 3:18 | 2022-01-05 | 2022-04-20 |
 | [Lost](https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:39 | 2022-01-05 |  |
 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 | 2021-12-06 |  |
+| [Lost On You](https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:17 | 2022-09-09 |  |
 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 | 2021-12-06 | 2022-07-29 |
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2022-07-08 |  |
 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2022-06-03 |  |

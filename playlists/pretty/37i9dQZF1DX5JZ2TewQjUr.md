@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: KALAI 家麗
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,234 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,244 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 8 | [夠鍾 Time's Up](https://open.spotify.com/track/4ua8rMZzLG9ii73SKOiHiq) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [夠鍾 Time's Up](https://open.spotify.com/album/0OsYyEFoWdYb8wAIkktlbW) | 3:24 |
 | 9 | [MK Nose](https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [Qqbbg](https://open.spotify.com/artist/6ZmrXLpXLuqQRvZNvgHg1O) | [MK Nose](https://open.spotify.com/album/7aprLIUrc6j6iq3jtaveA4) | 2:29 |
 | 10 | [新的世界 New World](https://open.spotify.com/track/6a3lZEaqHnRoda9XBON1Ue) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy), [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [新的世界 New World](https://open.spotify.com/album/4RadJm3zCzJkD9D0jObPs0) | 2:41 |
-| 11 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [$THOSAY 皓升](https://open.spotify.com/artist/0rNVUOq9THvx4S4pS4J0SW) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 |
+| 11 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 |
 | 12 | [社交障礙賽](https://open.spotify.com/track/0GDzj9jEbtnpzqURgfiIgd) | [YUTA](https://open.spotify.com/artist/0tUTYTg2i8uEAIaUoLFdYG) | [社交障礙賽](https://open.spotify.com/album/2APs96wcagUJPKbHnYSY0k) | 3:16 |
 | 13 | [Goodbye](https://open.spotify.com/track/0aNKJq3HKyHtC0XTadVJm6) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [日曜日](https://open.spotify.com/album/5wuSotju31MyCj12UnI8iD) | 3:57 |
 | 14 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 39 | [Be You](https://open.spotify.com/track/4YA05pFBqNtqYe9NasRpEm) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Be You](https://open.spotify.com/album/7xwOuaf0bp3EBG9tXpz32a) | 3:32 |
 | 40 | [臭西西女人](https://open.spotify.com/track/6YaK7a44wwHBmoiRbgpW3e) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [臭西西女人](https://open.spotify.com/album/7ozJodyUY4f36OLGKMRSzG) | 2:34 |
 | 41 | [UNDER THE MOUNTAINS 城山之下](https://open.spotify.com/track/0sWVhCX0zRA3a4ZiG0Zlsr) | [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa) | [UNDER THE MOUNTAINS 城山之下](https://open.spotify.com/album/6vItmfW81peOLpCNputAfH) | 3:32 |
-| 42 | [喜歡過傷過的某君](https://open.spotify.com/track/3xzS6BYKXm8NkT3jGq0pHy) | [$THOSAY 皓升](https://open.spotify.com/artist/0rNVUOq9THvx4S4pS4J0SW) | [喜歡過傷過的某君](https://open.spotify.com/album/5XHbsnhxrbvr7ZEoFyqJB4) | 3:36 |
+| 42 | [喜歡過傷過的某君](https://open.spotify.com/track/3xzS6BYKXm8NkT3jGq0pHy) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [喜歡過傷過的某君](https://open.spotify.com/album/5XHbsnhxrbvr7ZEoFyqJB4) | 3:36 |
 | 43 | [Playtime](https://open.spotify.com/track/0JCpK6CF1VryTOWI9izOck) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Playtime](https://open.spotify.com/album/0w84szzB5X5TKUosZJEy61) | 2:41 |
 | 44 | [要怎麼書寫](https://open.spotify.com/track/04lt7lHdDr1rrY4WclNxTp) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 2:29 |
 | 45 | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [世界For Love \(feat\. Luna Is A Bep & CHANKA\)](https://open.spotify.com/album/1zWBngiKyE91gjT0MR0IaV) | 4:00 |

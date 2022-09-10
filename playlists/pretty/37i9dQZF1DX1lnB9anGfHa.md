@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,317 likes - 94 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,448 likes - 94 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 93 | [Normal Is Boring](https://open.spotify.com/track/5V1YHTOjbVAoH4ppT2sI21) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE) | [Normal Is Boring](https://open.spotify.com/album/3ZXO9QaHedT9Nrat9er7Mo) | 4:42 |
 | 94 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
 
-Snapshot ID: `MTY2MjUxMTY0OCwwMDAwMDAwMGUxYTJlNTAyMmRiYjVkOGQ5YzQ4YmY1MzBjYjExMzgw`
+Snapshot ID: `MTY2MjczMTUxNSwwMDAwMDAwMDMyMDZiZGRkMzJlMTYyMGZmZTIwZWY4M2Q1NDM0ZDBi`

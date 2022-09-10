@@ -4,7 +4,7 @@
 
 > Andrekza y más mujeres, a todo volumen.
 
-115 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+116 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Dime \- Salsa](https://open.spotify.com/track/72lcWU4PrmDIVzJLBG5p7C) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Dime \(Salsa\)](https://open.spotify.com/album/6ojbNRqGpAAJVRxq2wxGJf) | 3:51 | 2022-01-05 | 2022-02-03 |
 | [Dime la Verdad](https://open.spotify.com/track/7cQMQQdCE3iz0Tkn6g1ItW) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [iNSIDE](https://open.spotify.com/album/0dqKr4cWZvqqNo7uebgH3s) | 2:39 | 2022-01-05 | 2022-02-03 |
 | [Donde Estas Amor](https://open.spotify.com/track/4AgxR5LREx81UqZBhOO5J9) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy), [Paulo César](https://open.spotify.com/artist/5mQmaELbKAud3BE7nvLTT2) | [Donde Estas Amor](https://open.spotify.com/album/3gJ29gzulIeXVEXyooLoiH) | 3:19 | 2022-03-08 | 2022-04-07 |
-| [duermo sin pijama](https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [duermo sin pijama](https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y) | 2:33 | 2022-03-08 |  |
+| [duermo sin pijama](https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [duermo sin pijama](https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y) | 2:33 | 2022-03-08 | 2022-09-10 |
 | [Déjala](https://open.spotify.com/track/4Aa6TYTI7q9SqnPKVA7Lfq) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [A Fuego](https://open.spotify.com/album/3W7PrpNjJDSFkOpAiITb7m) | 5:22 | 2022-01-05 |  |
 | [Déjenme Sufrir](https://open.spotify.com/track/3kwM3eVq6Eoe64zm3spri2) | [Katy Jara y Banda Mix](https://open.spotify.com/artist/0gQ8SI9XgOALHs21Tcxkdb) | [La Reyna del Sur](https://open.spotify.com/album/2L6syCnwuNfHJuDiFKXBPM) | 3:29 | 2022-01-05 |  |
 | [Elegiste Engañarme](https://open.spotify.com/track/348g4lfzjvOj2IslIqIRx0) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Elegiste Engañarme](https://open.spotify.com/album/6isazqBzKu6cPMfp6UpfPI) | 3:46 | 2022-01-05 | 2022-04-09 |
@@ -118,6 +118,7 @@
 | [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 | 2022-09-07 |  |
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2022-02-02 | 2022-04-07 |
 | [Vivir Contigo](https://open.spotify.com/track/0XB66yNWY2LGLZrurpSkLG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Vivir Contigo](https://open.spotify.com/album/1QGGfBqYnDq2uwlVMDHLjs) | 4:24 | 2022-03-08 |  |
+| [VOLVIÓ A LATIR](https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Chila Jatun](https://open.spotify.com/artist/1pbcskpK1qePXm3sYvYu4o) | [VOLVIÓ A LATIR](https://open.spotify.com/album/0AtMFNvWJk3z2FKnunBUz9) | 3:49 | 2022-09-09 |  |
 | [Vuelve Conmigo](https://open.spotify.com/track/2BC7i4R4VYEpS4Z7n5DnEk) | [Agrupación Lérida](https://open.spotify.com/artist/69G64cEF3dvIU24OpNkDp6) | [Vuelve Conmigo](https://open.spotify.com/album/7MzVUXfTzdZelck07TcVt5) | 3:44 | 2022-01-05 |  |
 | [WARMISITAY](https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [WARMISITAY](https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr) | 3:24 | 2022-08-03 |  |
 | [Ya No Más](https://open.spotify.com/track/7rO7M4ZkvL0Ii9kXldescM) | [Susan Ochoa](https://open.spotify.com/artist/2LZ3j9FcPvimsXU44QgBWW) | [La Dueña Soy Yo](https://open.spotify.com/album/4S4qYoZpw1dfIaFTVii6jj) | 2:50 | 2022-01-05 | 2022-02-03 |

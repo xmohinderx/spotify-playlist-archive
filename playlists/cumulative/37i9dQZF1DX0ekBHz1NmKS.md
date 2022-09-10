@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-536 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+537 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Old Bad Habit](https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL) | [Ella Sandberg](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Old Bad Habit](https://open.spotify.com/album/6D0kdMFXdmHr6Du1WYK6vI) | 3:41 | 2022-05-26 | 2022-07-28 |
 | [Old Love](https://open.spotify.com/track/2LHfTmsBdzIWGE3Cafqpvm) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Overflow](https://open.spotify.com/album/3EJugt4J6YJ4ieReakz5TC) | 2:54 | 2021-12-16 | 2022-03-11 |
 | [Om det ändå räckte att ångra sig](https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Djur och människa](https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd) | 3:03 | 2022-06-09 | 2022-09-05 |
+| [Once in a While \[smile\]](https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Once in a While \[smile\]](https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s) | 2:59 | 2022-09-08 |  |
 | [One More Time](https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [One More Time](https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN) | 2:57 | 2022-04-07 | 2022-07-27 |
 | [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-07-25 |
 | [Oron](https://open.spotify.com/track/50yVZ2s5nmodWAvKGDdnxT) | [O!](https://open.spotify.com/artist/7nza9FCmRyw0Kha7Sqv2K6) | [Oron](https://open.spotify.com/album/4NHcks6sxG0wXXFv7CBjhL) | 2:40 | 2022-04-01 | 2022-04-21 |
@@ -485,7 +486,7 @@
 | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2) | 3:16 | 2022-06-02 |  |
 | [Två steg från helvetet](https://open.spotify.com/track/2Rnovc1XuaXP1yc7X1AqbK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Två steg från helvetet](https://open.spotify.com/album/6tdvSwpWnFTRkpnvX0CP76) | 3:18 | 2022-03-10 |  |
 | [Two Of Us](https://open.spotify.com/track/7GrhW2NtVjt4d7o2QqWg8q) | [Joel Malka](https://open.spotify.com/artist/4m9RAPLbfGzv7pMJJCyOpV), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Tomorrow Forever](https://open.spotify.com/album/6gEE3YMeAfzJXoeck3Jiv2) | 3:16 | 2022-03-24 | 2022-04-20 |
-| [Tänd alla ljus \- Från Benjamin's](https://open.spotify.com/track/06M8KfNJwdqxB9lLuPVt28) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [Tänd alla ljus \(Från Benjamin's\)](https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt) | 2:48 | 2022-04-01 |  |
+| [Tänd alla ljus \- Från Benjamin's](https://open.spotify.com/track/06M8KfNJwdqxB9lLuPVt28) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [Tänd alla ljus \(Från Benjamin's\)](https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt) | 2:48 | 2022-04-01 | 2022-09-10 |
 | [Tänker på dig](https://open.spotify.com/track/3eWemHN8ueP9U8Z2Pvf6A5) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Allt som har en början har ett slut](https://open.spotify.com/album/6WOBxGGztZH591l2orHuQU) | 3:02 | 2021-12-16 | 2022-03-11 |
 | [Tänker på dig](https://open.spotify.com/track/3G1lqnGgPyA5c6fKmY5ljH) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Tänker på dig](https://open.spotify.com/album/06cZ300oGu2R4S94dWqpaG) | 2:50 | 2022-03-03 | 2022-07-29 |
 | [Tärning](https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tärning](https://open.spotify.com/album/7mVP1swmqaWsaTOuWG3268) | 3:46 | 2022-02-13 | 2022-05-13 |

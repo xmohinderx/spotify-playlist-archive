@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Taking it back to the 2010s. Cover: Baby Keem",
+  "description": "Taking it back to the 2010s. Cover: Big Sean",
   "name": "I Love My 2010s Hip-Hop",
   "published_playlist_ids": [
     "0NVnLMZLWX74QAANrVArj1"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 224284,
       "name": "Bartier Cardi (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa"
@@ -3610,6 +3610,32 @@
     },
     {
       "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Chip Tha Ripper",
+          "url": "https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274898,
+      "name": "Experimental (feat. Chip Tha Ripper & Juicy J)",
+      "url": "https://open.spotify.com/track/4zJyzpMY82bUgGIE3VNxUe"
+    },
+    {
+      "album": {
         "name": "Future Hndrxx Presents: The WIZRD",
         "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
       },
@@ -4929,6 +4955,24 @@
       "duration_ms": 224915,
       "name": "How I Move (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/14X1WxiHXdVRJ99cMCBzOE"
+    },
+    {
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219693,
+      "name": "How It Feel",
+      "url": "https://open.spotify.com/track/3ewyalkHgv1riGfwcEMTgg"
     },
     {
       "album": {
@@ -7187,6 +7231,28 @@
       "duration_ms": 142906,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0Fv5N0cHBsl4bzCbollCAS"
+    },
+    {
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246320,
+      "name": "Mula (feat. French Montana)",
+      "url": "https://open.spotify.com/track/58TVklmpOY1envnRmzZJlu"
     },
     {
       "album": {
@@ -11319,7 +11385,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
@@ -11475,7 +11541,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 208026,
       "name": "Where Ya At (feat. Drake)",
       "url": "https://open.spotify.com/track/5nN8BwAQDJDguq7Dpd3JQQ"

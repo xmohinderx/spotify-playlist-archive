@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-544 songs - 1 day 8 hr 13 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+545 songs - 1 day 8 hr 16 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 | 2021-03-27\* | 2021-04-23 |
 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 | 2021-10-23 | 2022-07-13 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-17 | 2022-08-04 |
-| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 |  |
+| [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-09-10 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/6F2r4HgpJnvKDmkN6JEN6J) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:54 | 2021-03-27\* | 2021-03-29 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-06-12 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-07-29 |
@@ -318,7 +318,7 @@
 | [moonchild](https://open.spotify.com/track/4fwYALz7GwmXgS8QTRjDEJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:25 | 2021-12-27 | 2022-05-25 |
 | [Moonlight](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 2:43 | 2021-12-27 | 2021-12-29 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-17 |
-| [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-16 |  |
+| [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-16 | 2022-09-10 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 | 2021-04-11 | 2021-04-13 |
 | [Ms\. May \(feat\. Magazine\)](https://open.spotify.com/track/6NCBemUJvjspFiLuATSUm3) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Magazine](https://open.spotify.com/artist/4rE3q5CrSJBYploWHtAP7Z) | [Qua Khung Cửa Sổ](https://open.spotify.com/album/7FbJRg2IYkVJioqMayEukG) | 3:23 | 2021-05-08 | 2021-05-09 |
 | [Music Box : Reflection](https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:10 | 2022-07-16 | 2022-07-24 |
@@ -350,7 +350,7 @@
 | [No More Dream](https://open.spotify.com/track/6GoFIkTKX9CIGgM9APx5UB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:43 | 2022-06-11 | 2022-06-14 |
 | [Not Today](https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:51 | 2022-02-12 | 2022-02-20 |
 | [Nàng Thơ](https://open.spotify.com/track/6rVaOdWvFaNyVVXda0NPJy) | [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0hKtQOcoXFHvsvRLLnmRVX) | 4:14 | 2021-03-27\* | 2021-09-20 |
-| [Nàng Thơ](https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS) | 4:14 | 2021-09-20 | 2022-08-13 |
+| [Nàng Thơ](https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS) | 4:14 | 2021-09-20 |  |
 | [Ném Câu Yêu Vào Không Trung](https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Yên](https://open.spotify.com/album/5NGMQL0k9iQim4fcGjMnUv) | 3:56 | 2022-08-26 |  |
 | [NẮM ĐÔI BÀN TAY](https://open.spotify.com/track/3kwS7WlPS6NconVfVs6tTZ) | [Kay Trần](https://open.spotify.com/artist/3EPkqJFzEGSJWtGsu1Xwqt) | [NẮM ĐÔI BÀN TAY](https://open.spotify.com/album/3vxerF8w0m4rHFrFeZtVNl) | 3:08 | 2021-07-06 | 2021-07-16 |
 | [nằm ngủ emru](https://open.spotify.com/track/0TTJufXrJgRZUUV7brd2hT) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [nằm ngủ emru](https://open.spotify.com/album/4uig3uMCgVndDQeOw1shgg) | 4:14 | 2021-10-23 | 2021-10-31 |
@@ -551,6 +551,7 @@
 | [Độ Tộc 2](https://open.spotify.com/track/6B4AdZzwagId7wvWeJEkiq) | [Độ Mixi](https://open.spotify.com/artist/0TZKKZG6WHl2aVFPDtND82), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Độ Tộc 2](https://open.spotify.com/album/42eEQcNJgON2LMvp3y2ihK) | 3:21 | 2021-09-25 | 2021-10-18 |
 | [đứa nào làm em buồn?](https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [đứa nào làm em buồn?](https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM) | 4:12 | 2022-08-10 |  |
 | [Đừng Gọi Anh Dậy](https://open.spotify.com/track/788R2DoEe7XIzeZamawv6U) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [1989s Entertainment](https://open.spotify.com/artist/2W8eKncv7oF0lp7KUVxndY) | [Trạm Cảm Xúc](https://open.spotify.com/album/5Jak81S9XSctPmtuVKEXA9) | 3:14 | 2021-06-07 | 2021-06-20 |
+| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-09 |  |
 | [進撃の防弾\(SONPUB REMIX\)](https://open.spotify.com/track/6xlrayjvJpj9nINodZRpOL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Danger \-Japanese Ver.\- 通常盤](https://open.spotify.com/album/3qFmYLvKcogx8DGSphUuXU) | 4:02 | 2022-01-25 | 2022-01-29 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

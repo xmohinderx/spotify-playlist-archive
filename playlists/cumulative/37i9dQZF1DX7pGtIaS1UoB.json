@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 227200,
       "name": "\u4ec0\u4e48\u8ddf\u4ec0\u4e48\u6709\u4ec0\u4e48\u5173\u7cfb",
       "url": "https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6"
@@ -2717,6 +2717,24 @@
       "duration_ms": 228774,
       "name": "\u6162\u6162\u4f86",
       "url": "https://open.spotify.com/track/1yAgPYONWEoQgsOaFqIVGE"
+    },
+    {
+      "album": {
+        "name": "\u6162\u6162\u9760\u8fd1",
+        "url": "https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH"
+      },
+      "artists": [
+        {
+          "name": "\u8463\u53c8\u9716",
+          "url": "https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207371,
+      "name": "\u6162\u6162\u9760\u8fd1",
+      "url": "https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV"
     },
     {
       "album": {

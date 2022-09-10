@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-183 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+184 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 |  |
 | [I'll Be Here](https://open.spotify.com/track/41rBNwBLvu3uxpBOVYac0w) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT), [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP), [Noctilucent](https://open.spotify.com/artist/1HE19EVn5Xs4qlNY4JCuJJ) | [I'll Be Here](https://open.spotify.com/album/3MRc4ibAnktBiUQdgJvUPs) | 2:36 | 2022-02-03 |  |
 | [If You](https://open.spotify.com/track/3h4E7keqAPmuXviymrmDF6) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Evergreen](https://open.spotify.com/album/1IGqbM5ixtd5OSXgkMolWs) | 2:48 | 2022-02-03 | 2022-07-12 |
+| [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 |  |
 | [Incomplete \(Muzzy Remix\)](https://open.spotify.com/track/1S9aNHUvvJQKADcGwidLXO) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU), [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp), [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Incomplete \(Muzzy Remix\)](https://open.spotify.com/album/5icEcceQagZKlAUei5A1IZ) | 4:45 | 2022-02-03 |  |
 | [Into The Light](https://open.spotify.com/track/7r4D1V8MXRtWY4jgGMZzS4) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Into The Light](https://open.spotify.com/album/7FXH7q0kiPMpzQX4JrUYgJ) | 2:27 | 2022-02-03 |  |
 | [Into The Wild](https://open.spotify.com/track/6XJnMQBwnsyADKmYxkI0PW) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [ARCANA](https://open.spotify.com/artist/5TFSful1I8dL9EdpYlsSKc) | [Into The Wild](https://open.spotify.com/album/7gsaMticaQi7bQWGiKM7JA) | 2:53 | 2022-02-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 169980,
+  "num_followers": 170015,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzg4OTUyOCwwMDAwMDAwMGE2MmE3NGUzOTc1YzNhNTVjMGU0ZDMwMDNlOTdkM2Ez",
+  "snapshot_id": "MTY0Nzg4OTUyOCwwMDAwMDAwMDFlOWQ2Yjk0ZWNjNTEyMDYyMjE4NTVhZmUyMTQ3ZWU0",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -351,30 +351,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Bonny Light Horseman",
-        "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
+        "name": "Ash & Stone",
+        "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
       },
       "artists": [
         {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        },
-        {
-          "name": "Eric D. Johnson",
-          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
-        },
-        {
-          "name": "Josh Kaufman",
-          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
         }
       ],
-      "duration_ms": 309072,
-      "name": "Deep In Love",
-      "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+      "duration_ms": 171786,
+      "name": "Behind the Light",
+      "url": "https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -403,18 +391,30 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Ash & Stone",
-        "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
+        "name": "Bonny Light Horseman",
+        "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
       "artists": [
         {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
         }
       ],
-      "duration_ms": 171786,
-      "name": "Behind the Light",
-      "url": "https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ"
+      "duration_ms": 309072,
+      "name": "Deep In Love",
+      "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Lebanon",
-      "url": "https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Lebanon",
+      "url": "https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Under the Pepper Tree",
-        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 131248,
-      "name": "Night Singing",
-      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 202996,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 131248,
+      "name": "Night Singing",
+      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Dressed in Roses",
-        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
-      },
-      "artists": [
-        {
-          "name": "Barbaro",
-          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Barbaro",
-      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Answers (Acoustic)",
         "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 190229,
       "name": "Answers - Acoustic",
       "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 278355,
+      "name": "The Morning Song",
+      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Save My Life (Radio Edit)",
         "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 278355,
-      "name": "The Morning Song",
-      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Quicksand EP",
-        "url": "https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 238453,
-      "name": "Endless Running Out of Time",
-      "url": "https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Quicksand EP",
+        "url": "https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 238453,
+      "name": "Endless Running Out of Time",
+      "url": "https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Arkansas",
         "url": "https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 260000,
       "name": "Arkansas",
       "url": "https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 268660,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Occasionally",
+        "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Occasionally",
-        "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Raise The Roof",
-        "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
+        "name": "White Tiger",
+        "url": "https://open.spotify.com/album/6rnwrfo7Hh006stk2UZuiE"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Ana Egge",
+          "url": "https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch"
         }
       ],
-      "duration_ms": 257920,
-      "name": "You Led Me To The Wrong",
-      "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
+      "duration_ms": 178853,
+      "name": "Dance Around the Room with Me",
+      "url": "https://open.spotify.com/track/60fZwyISk4GPV6p5rs4LHu"
     }
   ],
   "unique_name": "Contemporary Folk",

@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-48 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Edith's Theme](https://open.spotify.com/track/4MQlkQ6U6R2itl3AggPppI) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [What Remains of Edith Finch \(Original Soundtrack\)](https://open.spotify.com/album/0dI3DcRX27ovAqUgSkyxlJ) | 3:16 | 2022-08-05 |  |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-08-05 |  |
 | [Forest](https://open.spotify.com/track/2moMdZAnPvsDXbOY5m9fHf) | [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5) | [The Last Guardian Soundtrack \(Japan Deluxe Edition\)](https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo) | 2:06 | 2022-08-05 |  |
+| [Good Night You Kings \(from "The Cider House Rules", Arr\. for Piano\) \- a calm version](https://open.spotify.com/track/0P3snbkMDVmzfMKaKDuO9b) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Good Night You Kings](https://open.spotify.com/album/2uZVaktrTm54XmeO7w0kbI) | 1:03 | 2022-09-09 |  |
 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-08-05 |  |
 | [It's a Process](https://open.spotify.com/track/0KSwoOoIKqUZhQhmm0NnSP) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Moneyball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3l4qPqECm6fywG03Rwke6r) | 1:52 | 2022-08-05 |  |
 | [Lady Steph and Henry](https://open.spotify.com/track/25CNdDtmkXxnAogRTVQ89P) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 1:55 | 2022-08-05 |  |
@@ -39,6 +40,7 @@
 | [Mandy Love Theme](https://open.spotify.com/track/0sTXvRbRyjFCoUbRo7CJ6S) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mandy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood) | 4:38 | 2022-08-05 |  |
 | [My Sanctuary](https://open.spotify.com/track/6d1NPNNXtUPmqdwg8bEGSo) | [Amelia Warner](https://open.spotify.com/artist/1SSl5N7XDvbNT88DomuDmW) | [Mary Shelley \(Original Motion Picture Score\)](https://open.spotify.com/album/4Bu9CTxnEx079i37tGHlXi) | 3:01 | 2022-08-05 |  |
 | [Nascence](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) | 1:46 | 2022-08-05 |  |
+| [Ocarina of Time](https://open.spotify.com/track/7jgu0nvuW4Xp7e0zQqUKeW) | [Super Piano 64](https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Unplugged](https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M) | [Zelda & Piano – Ocarina of Time](https://open.spotify.com/album/7s7EhzRQESMrsIrq7nJLDI) | 2:27 | 2022-09-09 |  |
 | [Prince Phillip](https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 2:29 | 2022-08-05 |  |
 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 | 2022-08-05 |  |
 | [Romance Suite \(From the Motion Picture "Promising Young Woman"\)](https://open.spotify.com/track/7HYsIVxaKJtbCfaPDj8hMy) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Promising Young Woman \(Original Motion Picture Score\)](https://open.spotify.com/album/5tw3WvlmNGNBACzwUSPbJd) | 3:32 | 2022-08-05 |  |

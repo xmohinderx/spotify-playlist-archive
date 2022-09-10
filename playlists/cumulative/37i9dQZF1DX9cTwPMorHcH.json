@@ -972,6 +972,24 @@
     },
     {
       "album": {
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "date_added": "2021-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
+    },
+    {
+      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1"

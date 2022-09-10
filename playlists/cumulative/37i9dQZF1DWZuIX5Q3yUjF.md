@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Plastica, Missey
 
-166 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+167 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Killer](https://open.spotify.com/track/5YFa84aeqziBwADCiX2i73) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Tuasorellaminore](https://open.spotify.com/artist/5XDbbJ70a1pfPPo4GRWceT) | [Killer](https://open.spotify.com/album/0j5ORtEDEXa4btbGSngtst) | 2:55 | 2022-07-07 |  |
 | [Ku](https://open.spotify.com/track/35Lf2OYrSXe4Dquhd87Djh) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 4:35 | 2022-07-28 |  |
 | [Ku](https://open.spotify.com/track/40I9VS4TKqDHjd4wyFHw2Y) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Ku](https://open.spotify.com/album/4nGcz59HrKCQHjvJVrkwaH) | 4:35 | 2022-05-05 | 2022-07-29 |
+| [L'Italia e la Corsica](https://open.spotify.com/track/2KYs0wAMyb5uauCgkU6Ext) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [L'Italia e la Corsica](https://open.spotify.com/album/1ygYGnX74RVTwKU3mjoNHG) | 3:28 | 2022-09-09 |  |
 | [l'ultima volta](https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3) | [l'ultima volta](https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn) | 2:38 | 2022-06-23 |  |
 | [La più bella](https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [La più bella](https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z) | 3:21 | 2022-05-05 | 2022-09-09 |
 | [La Ruota](https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e) | [OIDA](https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef) | [La Ruota](https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG) | 3:24 | 2022-06-09 | 2022-07-29 |

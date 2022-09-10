@@ -1,13 +1,45 @@
 {
-  "description": "Featuring that new vintage. Cover: Laufey",
-  "num_followers": 399477,
+  "description": "Featuring that new vintage. Cover: Meghan Trainor",
+  "num_followers": 399481,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGZlNDFhMWIwMTEwOTBmZWIwMDUyMDJmMjQ0ZWUzYzA2",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGE2OTRiMTYxNDQ5ODQ3OWJjN2NhMzYwZGI5MDc4NTg4",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Don't I Make It Look Easy",
+        "url": "https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154888,
+      "name": "Don't I Make It Look Easy",
+      "url": "https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "OUT OF CONTEXT",
+        "url": "https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd"
+      },
+      "artists": [
+        {
+          "name": "Devon",
+          "url": "https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "OUT OF CONTEXT",
+      "url": "https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv"
+    },
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
@@ -33,6 +65,30 @@
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Don't Try",
+        "url": "https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk"
+      },
+      "artists": [
+        {
+          "name": "Nina Tonji",
+          "url": "https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q"
+        },
+        {
+          "name": "Jay Adams",
+          "url": "https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8"
+        },
+        {
+          "name": "Ben Molinaro",
+          "url": "https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG"
+        }
+      ],
+      "duration_ms": 175063,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Everything I Know About Love",
@@ -49,36 +105,24 @@
       "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "i'm lost for words",
-        "url": "https://open.spotify.com/album/5jR3X2FNyHgYW0EuIBkYwH"
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
       "artists": [
         {
-          "name": "Gabriel",
-          "url": "https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC"
-        }
-      ],
-      "duration_ms": 137096,
-      "name": "i'm lost for words",
-      "url": "https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+      "duration_ms": 173427,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -97,20 +141,36 @@
       "url": "https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
       "artists": [
         {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 275586,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn"
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -133,76 +193,20 @@
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Someone to Love",
-        "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
+        "name": "i'm lost for words",
+        "url": "https://open.spotify.com/album/5jR3X2FNyHgYW0EuIBkYwH"
       },
       "artists": [
         {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+          "name": "Gabriel",
+          "url": "https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Someone to Love",
-      "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "Diane Warren",
-          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
-        }
-      ],
-      "duration_ms": 158238,
-      "name": "Sweet - Single Edit",
-      "url": "https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
+      "duration_ms": 137096,
+      "name": "i'm lost for words",
+      "url": "https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR"
     },
     {
       "added_at": "2022-05-02 20:03:12",
@@ -367,22 +371,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -395,6 +383,22 @@
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -499,6 +503,22 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -773,24 +793,36 @@
       "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Church (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/7JDhbFzdmdTO3KoBfERYvK"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 228117,
-      "name": "Church (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/6SzbbQUOx85hxpqsesoMfx"
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -809,20 +841,24 @@
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+        "name": "Church (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/7JDhbFzdmdTO3KoBfERYvK"
       },
       "artists": [
         {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
+      "duration_ms": 228117,
+      "name": "Church (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/6SzbbQUOx85hxpqsesoMfx"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -847,6 +883,30 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        }
+      ],
+      "duration_ms": 158238,
+      "name": "Sweet - Single Edit",
+      "url": "https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1003,22 +1063,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dancing Away In Tears",
-      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "The Joy of Music, The Job of Real Estate",
         "url": "https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD"
       },
@@ -1035,6 +1079,22 @@
       "duration_ms": 225665,
       "name": "LAX",
       "url": "https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dancing Away In Tears",
+      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1117,22 +1177,6 @@
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
@@ -1147,6 +1191,22 @@
       "duration_ms": 181535,
       "name": "I Don't Wanna Lie",
       "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1321,22 +1381,6 @@
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Face The River",
-        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Strangers",
@@ -1351,6 +1395,22 @@
       "duration_ms": 193186,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Face The River",
+        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1429,7 +1489,7 @@
       "artists": [
         {
           "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/08K2541oRBCJGOZpAgF9Jk"
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
         }
       ],
       "duration_ms": 187231,
@@ -1501,36 +1561,20 @@
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+        "name": "Someone to Love",
+        "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
         }
       ],
-      "duration_ms": 143386,
-      "name": "Baby I'll Wait",
-      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Moments in Between",
-        "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Sweet Chamomile",
-      "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
+      "duration_ms": 236666,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1557,6 +1601,22 @@
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 143386,
+      "name": "Baby I'll Wait",
+      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
+    },
+    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "comfortably in pain",
@@ -1571,6 +1631,22 @@
       "duration_ms": 153315,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Moments in Between",
+        "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Sweet Chamomile",
+      "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1621,38 +1697,6 @@
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
     },
     {
-      "added_at": "2022-05-17 14:55:58",
-      "album": {
-        "name": "Breaking Myself",
-        "url": "https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb"
-      },
-      "artists": [
-        {
-          "name": "Grace Kinstler",
-          "url": "https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "Breaking Myself",
-      "url": "https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Don't Lose Sight",
-        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 406186,
-      "name": "Don't Lose Sight (Acoustic)",
-      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "KIWANUKA",
@@ -1669,60 +1713,20 @@
       "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/0kGvVheAH35jEukM3elOGu"
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
       },
       "artists": [
         {
-          "name": "CAMPBELL",
-          "url": "https://open.spotify.com/artist/50V8MR39rjDJ9GbtqHHBgk"
-        },
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        },
-        {
-          "name": "Nancy Daines",
-          "url": "https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR"
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
         }
       ],
-      "duration_ms": 230101,
-      "name": "Where the Light Is",
-      "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Italian Ice",
-        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 243769,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
-    },
-    {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "The Good",
-      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     }
   ],
   "unique_name": "Retro Pop",

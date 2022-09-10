@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: 347aidan
 
-715 songs - 1 day 8 hr 37 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+716 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 | 2021-01-23 | 2021-05-29 |
 | [Rocket](https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Rocket](https://open.spotify.com/album/0fPkcy88RYqvj2iHxQ4qZc) | 1:23 | 2022-01-21 | 2022-04-17 |
 | [roddy](https://open.spotify.com/track/7c2FM0OwRpWGyCtOVltvqi) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [roddy](https://open.spotify.com/album/2GtY21uHA56r2XaXS6yRV3) | 1:52 | 2021-04-24 | 2022-04-21 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-09 |  |
 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2021-02-28 | 2021-05-29 |
 | [Run With Me](https://open.spotify.com/track/47sNxyy50TGw36Qi2WN5wo) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Run With Me](https://open.spotify.com/album/3VX82yt0piKMRH4xuNbQjd) | 2:31 | 2020-12-13\* | 2021-02-27 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-01-28 | 2022-02-01 |
@@ -722,6 +723,6 @@
 | [Young Kid](https://open.spotify.com/track/7kXNWZbHd8ojf6H08XMdtC) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/0KCiBDv3FJ2HDEqddm8JK6) | 3:29 | 2021-04-01 |  |
 | [your favorite dress](https://open.spotify.com/track/1i5VGJwl7gFw0hQP4dVDgK) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [CASTLES II](https://open.spotify.com/album/4PBXjrqtjZmYtt37kB7px5) | 2:57 | 2021-07-04 | 2022-08-06 |
 | [YSL](https://open.spotify.com/track/0egYRyGuUQnqOMqf3EYVfC) | [Phazzze](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [YSL](https://open.spotify.com/album/6NcE9p2J2XKC341QzA9kWJ) | 3:07 | 2021-03-26 | 2021-05-29 |
-| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-07-29 |  |
+| [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-07-29 | 2022-09-10 |
 
 \*This playlist was first scraped on 2020-12-13. Prior content cannot be recovered.

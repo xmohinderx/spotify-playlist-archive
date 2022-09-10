@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: BRELAND
 
-181 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
+182 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-12-17 |  |
 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2022-01-07 |  |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-12-17 |  |
-| [Sunday Morning Kinda Saturday Night](https://open.spotify.com/track/4xhnOiqFLxGf3IHqMiOm7C) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/album/5FTBgPGbuzKi2l5IO2pYPc) | 3:32 | 2021-12-17 |  |
+| [Sunday Morning Kinda Saturday Night](https://open.spotify.com/track/4xhnOiqFLxGf3IHqMiOm7C) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/album/5FTBgPGbuzKi2l5IO2pYPc) | 3:32 | 2021-12-17 | 2022-09-10 |
 | [Sunroof](https://open.spotify.com/track/4vEhv7jNjMFozzXWoJ3hve) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Sunroof](https://open.spotify.com/album/6l77h0TCCEIOl49SS3hwT6) | 3:42 | 2021-12-17 | 2022-07-28 |
 | [Sunroof \(feat\. Thomas Rhett\)](https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Sunroof \(Remixes\)](https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj) | 2:43 | 2022-08-26 |  |
 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 | 2022-07-22 |  |
@@ -165,6 +165,7 @@
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-12-17 |  |
 | [The Nights](https://open.spotify.com/track/6luzHTAI6HmHjhm8OCrqX5) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [The Album](https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4) | 3:46 | 2021-12-17 | 2022-01-15 |
 | [The One](https://open.spotify.com/track/1KniGMjv0XijAFK0MnBjZT) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/4tEVSDPcxIQFFZuynRbDVX) | 3:05 | 2022-04-22 |  |
+| [Thick](https://open.spotify.com/track/5F1hlXahXfxgpwcSRpN8ML) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:26 | 2022-09-09 |  |
 | [Thinkin' We're In Love](https://open.spotify.com/track/1dQYswRaULYA9XfPc02FF1) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Thinkin' We're In Love](https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww) | 3:48 | 2022-07-08 |  |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 | 2022-07-22 |  |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-17 | 2022-07-29 |

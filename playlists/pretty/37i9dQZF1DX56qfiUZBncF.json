@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373528,
+  "num_followers": 373537,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDljZWVjYzUyMzg5OTJiMWRhZmI4OTM0M2JkMzBjNDM4",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMGI1Y2NhNTNlN2MxOWRmOWUwNjIwNGE1ZTg1MDQzZjVj",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -607,6 +607,26 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 231625,
       "name": "Ndokulandela",
       "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "The Juice: Vol. I",
         "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 212866,
       "name": "Corners Of My Mind",
       "url": "https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
-      },
-      "artists": [
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Heiress",
         "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 232613,
       "name": "Silvery",
       "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
+      },
+      "artists": [
+        {
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
-      },
-      "artists": [
-        {
-          "name": "Sam Sure",
-          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
-        }
-      ],
-      "duration_ms": 192792,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 197977,
       "name": "Artifice",
       "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
+      },
+      "artists": [
+        {
+          "name": "Sam Sure",
+          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
+        }
+      ],
+      "duration_ms": 192792,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Frail State Of Mind",
         "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
       },
@@ -1259,22 +1243,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Jeanie (feat. Bon Iver)",
-        "url": "https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd"
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
       },
       "artists": [
         {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
         }
       ],
-      "duration_ms": 167636,
-      "name": "Jeanie (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1299,6 +1279,26 @@
       "duration_ms": 207499,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Jeanie (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 167636,
+      "name": "Jeanie (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1447,38 +1447,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Avery",
-        "url": "https://open.spotify.com/album/643Gnd42azlZukIkuTucy6"
-      },
-      "artists": [
-        {
-          "name": "Oscar Welsh",
-          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Avery",
-      "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Trouble to Share",
-        "url": "https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw"
-      },
-      "artists": [
-        {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Trouble to Share",
-      "url": "https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Roses & Revolutions",
         "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
       },
@@ -1507,6 +1475,38 @@
       "duration_ms": 363841,
       "name": "Winter/Fall",
       "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Avery",
+        "url": "https://open.spotify.com/album/643Gnd42azlZukIkuTucy6"
+      },
+      "artists": [
+        {
+          "name": "Oscar Welsh",
+          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Avery",
+      "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Trouble to Share",
+        "url": "https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw"
+      },
+      "artists": [
+        {
+          "name": "Just Jack",
+          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Trouble to Share",
+      "url": "https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Only Two at the Start",
-        "url": "https://open.spotify.com/album/50FSXGpR9OmRhuzEDUpZ3F"
-      },
-      "artists": [
-        {
-          "name": "DD WALKER",
-          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
-        }
-      ],
-      "duration_ms": 259459,
-      "name": "Only Two at the Start",
-      "url": "https://open.spotify.com/track/0DvN8iIWKuuZPmUmqK7Amz"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
       },
@@ -1735,22 +1719,34 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "A Million Times (HONNE remix)",
-        "url": "https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt"
+        "name": "Only Two at the Start",
+        "url": "https://open.spotify.com/album/50FSXGpR9OmRhuzEDUpZ3F"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "DD WALKER",
+          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
         }
       ],
-      "duration_ms": 246409,
-      "name": "A Million Times - HONNE remix",
-      "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
+      "duration_ms": 259459,
+      "name": "Only Two at the Start",
+      "url": "https://open.spotify.com/track/0DvN8iIWKuuZPmUmqK7Amz"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Cold Blood",
+        "url": "https://open.spotify.com/album/0sC0ZuAkEzQcBVbE9tV9ZS"
+      },
+      "artists": [
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+        }
+      ],
+      "duration_ms": 236338,
+      "name": "Cold Blood",
+      "url": "https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK"
     }
   ],
   "unique_name": "Creativity Boost",

@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Dutton Ranch Freestyle",
+        "url": "https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143787,
+      "name": "Dutton Ranch Freestyle",
+      "url": "https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR"
+    },
+    {
+      "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },

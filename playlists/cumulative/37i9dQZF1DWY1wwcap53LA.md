@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Tanner Adell
 
-101 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+102 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 | 2021-12-03 | 2022-01-15 |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-03 |  |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-03 |  |
+| [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-09 |  |
 | [Forgive Me](https://open.spotify.com/track/7E1bYsLt7mW2uKXWPkPTvV) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Forgive Me](https://open.spotify.com/album/4X64MJY6iHzrof50wWz3MZ) | 2:40 | 2022-07-22 |  |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-12-03 | 2022-07-29 |
 | [Found It In You \- Demo](https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:14 | 2022-07-22 |  |
@@ -102,7 +103,7 @@
 | [What The Truck](https://open.spotify.com/track/4HCJcKwRmhDIROAtNMj6K1) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [What The Truck](https://open.spotify.com/album/3OKlwjvdtVkQDfnYZ65FK0) | 2:24 | 2021-12-03 | 2022-07-29 |
 | [What Was I Drinking](https://open.spotify.com/track/05XhhXmBu1aUPNFLlTZ9XJ) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking](https://open.spotify.com/album/6kYGLfvbmgWqOV2spNzb09) | 2:57 | 2022-01-21 |  |
 | [Whiskey River](https://open.spotify.com/track/3lIaJQ9U0l6Bae86e1cZQs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Whiskey River](https://open.spotify.com/album/2Bq8jup1tjO1rxo7YTauaU) | 4:31 | 2021-12-03 |  |
-| [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-01-14 | 2022-03-05 |
+| [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-01-14 |  |
 | [Whiskey When I'm Gone](https://open.spotify.com/track/7EY4WHDf4Csp0gz7urHClf) | [Chauncey Jones](https://open.spotify.com/artist/5Dm8aBxMcG8ORTzv0IJMkt) | [Whiskey When I'm Gone](https://open.spotify.com/album/3VQtuaW3kFENk36ThLmnT7) | 3:18 | 2022-07-08 |  |
 | [Whiskeysippi River](https://open.spotify.com/track/1LPvaOfo7A7fL5L8qMZO8z) | [Tracey Blake](https://open.spotify.com/artist/4Q1l0KvTqvy9SM3XF9n07P) | [Whiskeysippi River](https://open.spotify.com/album/7d0FHNsKz47v9HGgpoSROS) | 3:55 | 2021-12-03 |  |
 | [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-12-03 |  |

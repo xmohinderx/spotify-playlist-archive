@@ -1,12 +1,12 @@
 {
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
-  "num_followers": 98021,
+  "num_followers": 98051,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMDVlYTcxYjA3M2ZlMTg4YThkNWQ1NTY2Y2MxOWY3MmM2",
+  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMDQzMzc3ZmYxOGE0YzU3YmZiOWM0N2M5ODNhZTFlYTA0",
   "tracks": [
     {
       "added_at": "2022-08-01 18:10:09",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "De Mi Para Ti",
-      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "La Pared",
         "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 289762,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
+      },
+      "artists": [
+        {
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "De Mi Para Ti",
+      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Vete Si Quieres",
-        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 228575,
-      "name": "Vete Si Quieres",
-      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "01 - EP",
         "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 209542,
       "name": "Paciencia",
       "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Vete Si Quieres",
+        "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 228575,
+      "name": "Vete Si Quieres",
+      "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "no estabas cerca",
         "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 70465,
       "name": "no estabas cerca",
       "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Amor Insustancial",
         "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 205450,
       "name": "Se que te iras",
       "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "No Estoy",
-      "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "T la Sudo (Demo)",
         "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Dos y Veintid\u00f3s",
-        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 169399,
-      "name": "C\u00f3seme (2:22am)",
-      "url": "https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL"
+      "duration_ms": 141882,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1223,6 +1207,22 @@
       "duration_ms": 239692,
       "name": "Venecia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Dos y Veintid\u00f3s",
+        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 169399,
+      "name": "C\u00f3seme (2:22am)",
+      "url": "https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Bailando Lentos",
-        "url": "https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Bailando Lentos",
-      "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "olas",
         "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Bailando Lentos",
+        "url": "https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Bailando Lentos",
+      "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/4CiBWK8rGcw3MjgOqaAJAf"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Q Tiempos Aquellos",
-        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 109986,
-      "name": "Q Tiempos Aquellos",
-      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Mi Cabeza",
         "url": "https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 162000,
       "name": "Mi Cabeza",
       "url": "https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Q Tiempos Aquellos",
+        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 109986,
+      "name": "Q Tiempos Aquellos",
+      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
     },
     {
       "added_at": "2022-08-01 18:10:09",

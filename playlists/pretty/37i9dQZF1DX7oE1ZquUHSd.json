@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 80356,
+  "num_followers": 80581,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDVkYTkyZTBkZGQ5MzkzMzQwYzEzMjgxMDFhYzhhODgz",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGEzYmQxYjZmNGJmNWNiY2I2NDMyYjlmZGViZDg3ZWNh",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -95,6 +95,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -203,42 +203,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "As\u00ed Soy",
-        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "As\u00ed Soy",
-      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -271,6 +235,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "As\u00ed Soy",
+        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "As\u00ed Soy",
+      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -643,18 +643,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Super Jon-Z (Residente Challenge)",
-        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
+        "name": "C.R.O - Rock",
+        "url": "https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 487011,
-      "name": "Super Jon-Z (Residente Challenge)",
-      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
+      "duration_ms": 208378,
+      "name": "Ciudad Gris",
+      "url": "https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -675,34 +675,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "C.R.O - Rock",
-        "url": "https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu"
+        "name": "Super Jon-Z (Residente Challenge)",
+        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
       },
       "artists": [
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         }
       ],
-      "duration_ms": 208378,
-      "name": "Ciudad Gris",
-      "url": "https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "S\u00faper Sangre Joven",
-        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
+      "duration_ms": 487011,
+      "name": "Super Jon-Z (Residente Challenge)",
+      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -719,6 +703,22 @@
       "duration_ms": 182831,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "S\u00faper Sangre Joven",
+        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Goteo",
+      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -795,58 +795,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/09T8DBQY3aDVDLgWckmNxb"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Nunca Imagin\u00e9",
-      "url": "https://open.spotify.com/track/07XudW9mstFnVTESabbOUu"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Ella Es una G",
         "url": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
       },
@@ -867,6 +815,38 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Sin Culpa (feat. DrefQuila)",
         "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 244771,
       "name": "Sin Culpa (feat.DrefQuila)",
       "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/09T8DBQY3aDVDLgWckmNxb"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Nunca Imagin\u00e9",
+      "url": "https://open.spotify.com/track/07XudW9mstFnVTESabbOUu"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -939,6 +939,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Los Aguacates De Jilquilpan",
+        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 292413,
+      "name": "Anda Y Ve",
+      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 194181,
       "name": "PURPURA",
       "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Los Aguacates De Jilquilpan",
-        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 292413,
-      "name": "Anda Y Ve",
-      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 216024,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
-        "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 177326,
-      "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
-      "url": "https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Rolemos Otro",
         "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 245958,
       "name": "Minotauro",
       "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
+        "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 177326,
+      "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
+      "url": "https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Manos de Anillo",
-        "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 225957,
-      "name": "Manos de Anillo",
-      "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "No Copio",
         "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 205255,
       "name": "No Copio",
       "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Manos de Anillo",
+        "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 225957,
+      "name": "Manos de Anillo",
+      "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
     },
     {
       "added_at": "2021-11-16 20:18:05",

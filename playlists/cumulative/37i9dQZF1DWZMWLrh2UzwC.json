@@ -20686,6 +20686,32 @@
     },
     {
       "album": {
+        "name": "handbook",
+        "url": "https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Nieman",
+          "url": "https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195215,
+      "name": "handbook",
+      "url": "https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9"
+    },
+    {
+      "album": {
         "name": "Handle with Care",
         "url": "https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu"
       },
@@ -28874,6 +28900,24 @@
     },
     {
       "album": {
+        "name": "Let\u2032s Get Together",
+        "url": "https://open.spotify.com/album/1yLFJbEqnzdA4ZD3BfYxXs"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Let\u2032s Get Together",
+      "url": "https://open.spotify.com/track/347dLsTtj0ObCDfspfP3Jy"
+    },
+    {
+      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/0vBR1nw3zDoMA9uFYysphU"
       },
@@ -33450,6 +33494,24 @@
     },
     {
       "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "album": {
         "name": "Mouth Shut",
         "url": "https://open.spotify.com/album/09GOubmt67sIzzVxhBe3VH"
       },
@@ -35353,6 +35415,36 @@
       "duration_ms": 146546,
       "name": "NO HOTEL",
       "url": "https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina"
+    },
+    {
+      "album": {
+        "name": "No Limit (feat. Babyface Ray)",
+        "url": "https://open.spotify.com/album/6ONuoWnIfYq4TV7Dxj9p9V"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "No Limit (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/2Yn7BzHqwHnDw8XaXlZLVi"
     },
     {
       "album": {
@@ -39541,7 +39633,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 162666,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx"
@@ -40817,7 +40909,7 @@
     {
       "album": {
         "name": "I Long To See Your Face",
-        "url": "https://open.spotify.com/album/74DDYn78mnBJRx7RceSUdJ"
+        "url": "https://open.spotify.com/album/7rb3G65p2QMTNnGQlKzXVO"
       },
       "artists": [
         {
@@ -40828,6 +40920,24 @@
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149228,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/0Hb5wXGFUp7UDXb0LW6mmE"
+    },
+    {
+      "album": {
+        "name": "I Long To See Your Face",
+        "url": "https://open.spotify.com/album/74DDYn78mnBJRx7RceSUdJ"
+      },
+      "artists": [
+        {
+          "name": "Celeste Syn",
+          "url": "https://open.spotify.com/artist/5iDUKJ7OHv9qOmvxAbLnHK"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
       "duration_ms": 149228,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/1QOdwKd111lPn91aB88bkk"
@@ -52326,6 +52436,24 @@
     },
     {
       "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
+    },
+    {
+      "album": {
         "name": "Vandalize",
         "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
       },
@@ -52337,7 +52465,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 194695,
       "name": "Vandalize - Japanese Version",
       "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"

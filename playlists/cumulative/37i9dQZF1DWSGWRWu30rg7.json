@@ -5450,6 +5450,24 @@
     },
     {
       "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/1AAkHnnnM4kkNLRD7nj2QR"
+      },
+      "artists": [
+        {
+          "name": "Ave",
+          "url": "https://open.spotify.com/artist/5sDVc67AHtuiZEJh5rmnXE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176027,
+      "name": "Free Soul",
+      "url": "https://open.spotify.com/track/0X2B2kZAz2Kuj763RMg0nO"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/0HNVq2U84jsvqz23rYbvpX"
       },
@@ -10237,6 +10255,28 @@
       "duration_ms": 209777,
       "name": "Mari Kita Coba",
       "url": "https://open.spotify.com/track/6UOp1fqD31dn532qd1L9Ck"
+    },
+    {
+      "album": {
+        "name": "Maroon",
+        "url": "https://open.spotify.com/album/0YlsdSgYkRR7B0Bjn31C2h"
+      },
+      "artists": [
+        {
+          "name": "Abraham",
+          "url": "https://open.spotify.com/artist/4383DM860Hu5PCTjt7lIoa"
+        },
+        {
+          "name": "Daniel Belza",
+          "url": "https://open.spotify.com/artist/3AWO5MwTlsVZNunPDhzFfC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238654,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/3CB898LL2c4pTI1oFg79TK"
     },
     {
       "album": {

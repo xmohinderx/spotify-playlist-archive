@@ -2,9 +2,9 @@
 
 ### [Folk Arc](https://open.spotify.com/playlist/37i9dQZF1DWT9XEOPDgFX3)
 
-> Walk the bridge between indie and folk\. Cover: Tomberlin
+> Walk the bridge between indie and folk\. Cover: Adam Melchor
 
-248 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+249 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Thread to Find](https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 3:48 | 2022-04-29 |  |
 | [A Thread to Find](https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [A Thread to Find](https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua) | 3:48 | 2022-04-13 | 2022-07-28 |
 | [AEIOU](https://open.spotify.com/track/3DfdycOWmEvE3StaotW2vN) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/7vSeR0JZxdfbHvaQ84kJFt) | 4:57 | 2022-04-13 | 2022-07-29 |
-| [AEIOU](https://open.spotify.com/track/5ezRobByzA1eN0bLfGGaeo) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/4S9RG6dliy3NFtEZNP64TI) | 4:57 | 2022-04-29 |  |
+| [AEIOU](https://open.spotify.com/track/5ezRobByzA1eN0bLfGGaeo) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/4S9RG6dliy3NFtEZNP64TI) | 4:57 | 2022-04-29 | 2022-09-10 |
 | [Air Forces](https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn) | 2:58 | 2022-04-29 |  |
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2022-04-13 | 2022-04-21 |
 | [Alice Hyatt](https://open.spotify.com/track/4L6m6KIvCodAtkX8cvFph9) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [What's New, Tomboy?](https://open.spotify.com/album/2AOoaetZMVWczRP2E18Ou7) | 2:42 | 2022-01-21 | 2022-07-25 |
@@ -109,6 +109,7 @@
 | [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:15 | 2022-04-13 |  |
 | [I'll Go Running](https://open.spotify.com/track/7My6AWXvDn8O4SJTU4XXK0) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [I'll Go Running](https://open.spotify.com/album/711beoFfPwGMfvlFGhSnNf) | 3:56 | 2022-04-13 | 2022-07-29 |
 | [I'm not a mother, but I have children](https://open.spotify.com/track/1h8VYKwxdY5Vx8g7jYDJV8) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 3:40 | 2022-04-13 | 2022-07-29 |
+| [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 | 2022-09-09 |  |
 | [If I Told](https://open.spotify.com/track/3AyxUc44BHxbV6niyl438i) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [If I Told](https://open.spotify.com/album/5Vi2zIea4GSb4nxhcRJTqj) | 4:58 | 2022-01-21 | 2022-07-29 |
 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 | 2022-04-29 |  |
 | [Is There Something In The Movies?](https://open.spotify.com/track/38eArj40ijTenXtpbpMPnj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Is There Something In The Movies?](https://open.spotify.com/album/5wRgdU0KVKlPl52TXYloet) | 3:30 | 2022-01-21 | 2022-07-29 |

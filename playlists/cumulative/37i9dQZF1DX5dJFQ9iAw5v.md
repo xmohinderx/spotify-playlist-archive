@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-76 songs - 6 hr 21 min - not published yet
+77 songs - 6 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 | 2022-08-12 |  |
 | [In a Middle Tone](https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu) | [Enrique "Mono" Villegas](https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6) | [Grabaciones Inéditas Vol\. 1](https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA) | 4:14 | 2022-08-12 |  |
 | [Infinite Universe](https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP), [Santiago Deluca](https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ) | [Infinite Universe](https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ) | 4:40 | 2022-08-12 |  |
+| [Juventud](https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [Manto de Carne](https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH) | 5:14 | 2022-09-09 |  |
 | [Kua Nalu](https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 7:16 | 2022-08-12 |  |
 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 | 2022-08-12 |  |
 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 | 2022-08-12 |  |
 | [Latin Bebop](https://open.spotify.com/track/72uwqT49RJQLP8FaQFrV8Z) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 2:55 | 2022-08-12 |  |
 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 | 2022-08-12 |  |
-| [Luna](https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Umbral de Mí](https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR) | 4:56 | 2022-08-12 |  |
+| [Luna](https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Umbral de Mí](https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR) | 4:56 | 2022-08-12 | 2022-09-10 |
 | [Lunfardo](https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Piazzolla Plays Piazzolla](https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv) | 6:22 | 2022-08-12 |  |
 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 | 2022-08-12 |  |
 | [No Fear](https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 5:01 | 2022-08-12 |  |

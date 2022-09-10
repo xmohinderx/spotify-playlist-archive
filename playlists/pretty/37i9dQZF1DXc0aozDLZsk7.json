@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 385527,
+  "num_followers": 385554,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU3NDk2OSwwMDAwMDAwMDI3MzYwYjJlMWU3OWExZWFjMDg2ZGE3YzI3ZDFkY2Qw",
+  "snapshot_id": "MTY1NjU3NDk2OSwwMDAwMDAwMDAzMGZhMzljYzM1ZWRhZmUxYTFmOTBlNDMzYjdiMTBl",
   "tracks": [
     {
       "added_at": "2022-06-30 07:42:49",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-06-30 07:42:49",
       "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2022-06-30 07:42:49",
+      "album": {
         "name": "White Ladder",
         "url": "https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2022-06-30 07:42:49",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+        "name": "evermore (deluxe version)",
+        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+      "duration_ms": 254640,
+      "name": "it\u2019s time to go - bonus track",
+      "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
     },
     {
       "added_at": "2022-06-30 07:42:49",
@@ -507,22 +523,6 @@
       "duration_ms": 233880,
       "name": "Light On",
       "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
-    },
-    {
-      "added_at": "2022-06-30 07:42:49",
-      "album": {
-        "name": "evermore (deluxe version)",
-        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "it\u2019s time to go - bonus track",
-      "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
     },
     {
       "added_at": "2022-06-30 07:42:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-06-30 07:42:49",
       "album": {
-        "name": "Coming Up for Air (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
-    },
-    {
-      "added_at": "2022-06-30 07:42:49",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2022-06-30 07:42:49",
+      "album": {
+        "name": "Coming Up for Air (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
     },
     {
       "added_at": "2022-06-30 07:42:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-30 07:42:49",
       "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4OsBjrJQbPSMAqdjLBaGOt"
-    },
-    {
-      "added_at": "2022-06-30 07:42:49",
-      "album": {
         "name": "Falling Up",
         "url": "https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 206947,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8"
+    },
+    {
+      "added_at": "2022-06-30 07:42:49",
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4OsBjrJQbPSMAqdjLBaGOt"
     },
     {
       "added_at": "2022-06-30 07:42:49",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-06-30 07:42:49",
       "album": {
+        "name": "House With No Mirrors",
+        "url": "https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "House With No Mirrors",
+      "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
+    },
+    {
+      "added_at": "2022-06-30 07:42:49",
+      "album": {
         "name": "Let\u2019s Go Home Together",
         "url": "https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2022-06-30 07:42:49",
       "album": {
-        "name": "House With No Mirrors",
-        "url": "https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj"
+        "name": "Grown-ish",
+        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 227613,
-      "name": "House With No Mirrors",
-      "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
+      "duration_ms": 186732,
+      "name": "Black Converse",
+      "url": "https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD"
     },
     {
       "added_at": "2022-06-30 07:42:49",
@@ -1323,22 +1339,6 @@
       "duration_ms": 211881,
       "name": "Girl - Acoustic",
       "url": "https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY"
-    },
-    {
-      "added_at": "2022-06-30 07:42:49",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     }
   ],
   "unique_name": "No Stress",

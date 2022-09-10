@@ -2064,6 +2064,24 @@
     },
     {
       "album": {
+        "name": "FIRST HELLO",
+        "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197569,
+      "name": "FIRST HELLO",
+      "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
+    },
+    {
+      "album": {
         "name": "fitt (with Amaarae)",
         "url": "https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo"
       },
@@ -3941,7 +3959,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 154636,
       "name": "kim kardashian",
       "url": "https://open.spotify.com/track/1Fsrv7KzrMrRWN02QybpNN"
@@ -4035,7 +4053,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 174718,
       "name": "Lavender Forever",
       "url": "https://open.spotify.com/track/3LlvRrcCyEGfI88ztZQM5r"
@@ -4577,6 +4595,24 @@
       "duration_ms": 200902,
       "name": "Middle of Love",
       "url": "https://open.spotify.com/track/12f5yNRJaFUHWO25n3r9iG"
+    },
+    {
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/0GysfkO8T10XaXkAh8i4tn"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220953,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW"
     },
     {
       "album": {

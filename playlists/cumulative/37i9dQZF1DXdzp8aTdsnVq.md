@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Karen Lizarazo
 
-65 songs - 4 hr 35 min - not published yet
+65 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5DUAgqOUAUpm54q7WTV3qb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

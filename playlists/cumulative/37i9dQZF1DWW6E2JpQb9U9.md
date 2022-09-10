@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-263 songs - 19 hr 20 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
+264 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Panic Show \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 3:38 | 2022-06-24 |  |
 | [Panic Show \- Live](https://open.spotify.com/track/5imJJUpdG3p7VpLNqIb75l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo](https://open.spotify.com/album/7N0ZseL9dDJRCUfLSMDTrK) | 3:38 | 2022-04-01 | 2022-07-29 |
 | [Panorama \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/0GT0Cd39K5Rvbar6QNHRu1) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:03 | 2022-04-01 | 2022-07-28 |
+| [Par Mil \- En Vivo](https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Tilcara: El Recital](https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR) | 4:12 | 2022-09-09 |  |
 | [Para las Almas Sensibles \- En Vivo](https://open.spotify.com/track/53rOvzrY1XciuQh0mPQLMU) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Una Noche en el Ópera \(En Vivo\)](https://open.spotify.com/album/3UABaqEy05y9oRktWZNoB7) | 4:05 | 2022-04-01 | 2022-07-17 |
 | [Paraíso en Retro \- En Vivo](https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 3:28 | 2022-04-01 | 2022-07-10 |
 | [Pasajero en Extinción \- Remasterizado 2020](https://open.spotify.com/track/0uSEEENxLs5IJw6ysujZUJ) | [Cabezones](https://open.spotify.com/artist/7FGAi3mSjLMsq6p8SErsTA) | [20 Años](https://open.spotify.com/album/1kPk2P5D6QHM4pTRAyzk13) | 4:09 | 2022-04-01 | 2022-07-29 |
@@ -251,7 +252,7 @@
 | [Todos Lo Hacen \(En Vivo\)](https://open.spotify.com/track/0bx6LuqWIn8n0WhxS54izM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 3:41 | 2022-04-01 |  |
 | [Toro y Pampa \- En Vivo](https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 3:48 | 2022-04-01 |  |
 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 | 2022-04-01 |  |
-| [Triunfo \- En Vivo All Boys](https://open.spotify.com/track/47QSaeyDgHwaxOJnvXfcz3) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo All Boys](https://open.spotify.com/album/0nmz8GOCgQ2cRHtUPqpH6c) | 3:18 | 2022-06-24 |  |
+| [Triunfo \- En Vivo All Boys](https://open.spotify.com/track/47QSaeyDgHwaxOJnvXfcz3) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo All Boys](https://open.spotify.com/album/0nmz8GOCgQ2cRHtUPqpH6c) | 3:18 | 2022-06-24 | 2022-09-10 |
 | [Tu Papi No Me Quiere \- En Vivo](https://open.spotify.com/track/3iARtvAEyvkoB4Rma8cq7o) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [Brujotecnia \(En Vivo\)](https://open.spotify.com/album/3J2DAjot68DHpD2MXTu6iD) | 3:14 | 2022-06-24 | 2022-07-09 |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2022-04-01 | 2022-07-29 |
 | [Té para Tres \(En Vivo Estadio Vélez Sarsfield\) \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Spinetta y Las Bandas Eternas](https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx) | 3:16 | 2022-04-01 |  |

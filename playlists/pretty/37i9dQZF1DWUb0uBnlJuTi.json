@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Unc D",
-  "num_followers": 206850,
+  "num_followers": 207106,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDkyMzg2YWY0ZTBkZWZkMzkwZjkwY2E2ODhhMGEzN2Ix",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDQzNjcxYzU2ZTQ4NDZlM2Y3NWQ0MjY4YjQ0NWNjYjgw",
   "tracks": [
     {
       "added_at": "2022-09-02 04:02:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Running Away - 12-Inch Long Version",
-      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Blacks And Blues",
         "url": "https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 470640,
       "name": "Harlem River Drive",
       "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Running Away - 12-Inch Long Version",
+      "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
     },
     {
       "added_at": "2021-02-13 05:01:00",
@@ -393,36 +393,20 @@
       "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Toots (Radio Edit)",
-        "url": "https://open.spotify.com/album/2cLQ4mLJR8hqkRD2IYXJIc"
+        "name": "Satin Doll",
+        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
       },
       "artists": [
         {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Michael Miller",
-          "url": "https://open.spotify.com/artist/2SSxS71ODYETIEEsEYfVwL"
-        },
-        {
-          "name": "John Polace",
-          "url": "https://open.spotify.com/artist/4r6OedFsNy518CrCkPIoHl"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Chris Walker",
-          "url": "https://open.spotify.com/artist/7wWrgVcKp70TmEyZVy7cyw"
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
         }
       ],
-      "duration_ms": 352197,
-      "name": "Toots - Radio Edit",
-      "url": "https://open.spotify.com/track/7GPHQaLK0TrkMKIopusoK4"
+      "duration_ms": 413893,
+      "name": "New York Times - Remastered 2002",
+      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -489,20 +473,36 @@
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Satin Doll",
-        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
+        "name": "Toots (Radio Edit)",
+        "url": "https://open.spotify.com/album/2cLQ4mLJR8hqkRD2IYXJIc"
       },
       "artists": [
         {
-          "name": "Bobbi Humphrey",
-          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Michael Miller",
+          "url": "https://open.spotify.com/artist/2SSxS71ODYETIEEsEYfVwL"
+        },
+        {
+          "name": "John Polace",
+          "url": "https://open.spotify.com/artist/4r6OedFsNy518CrCkPIoHl"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Chris Walker",
+          "url": "https://open.spotify.com/artist/7wWrgVcKp70TmEyZVy7cyw"
         }
       ],
-      "duration_ms": 413893,
-      "name": "New York Times - Remastered 2002",
-      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
+      "duration_ms": 352197,
+      "name": "Toots - Radio Edit",
+      "url": "https://open.spotify.com/track/7GPHQaLK0TrkMKIopusoK4"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "Refractions",
+        "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 217118,
+      "name": "Refractions",
+      "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "So Cold",
@@ -603,38 +619,6 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
-    },
-    {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "Refractions",
-        "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        }
-      ],
-      "duration_ms": 217118,
-      "name": "Refractions",
-      "url": "https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "May The Funk Be With You",
-        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "May The Funk Be With You",
-      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -671,6 +655,22 @@
       "duration_ms": 168208,
       "name": "Spare Tire",
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Broasted or Fried",
-      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Placebo Years 1971 - 1974",
         "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Doin' Something",
-        "url": "https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP"
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
       "artists": [
         {
-          "name": "Soulive",
-          "url": "https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 316493,
-      "name": "One In Seven",
-      "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
+      "duration_ms": 235543,
+      "name": "Broasted or Fried",
+      "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -895,6 +879,22 @@
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Doin' Something",
+        "url": "https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP"
+      },
+      "artists": [
+        {
+          "name": "Soulive",
+          "url": "https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "One In Seven",
+      "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1021,26 +1021,6 @@
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Confirmation",
-        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
-      },
-      "artists": [
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
-        },
-        {
-          "name": "re os - REO MATSUMOTO",
-          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
-        }
-      ],
-      "duration_ms": 295176,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Spoon (Mike Casey Remix)",
@@ -1059,6 +1039,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "Linger Lane",
+        "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 320773,
+      "name": "Mountain Caravan",
+      "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Gears",
         "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
       },
@@ -1073,20 +1069,24 @@
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Linger Lane",
-        "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
       },
       "artists": [
         {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        },
+        {
+          "name": "re os - REO MATSUMOTO",
+          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
         }
       ],
-      "duration_ms": 320773,
-      "name": "Mountain Caravan",
-      "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
+      "duration_ms": 295176,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1177,36 +1177,28 @@
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2021-05-07 04:09:00",
       "album": {
-        "name": "Intensity",
-        "url": "https://open.spotify.com/album/0UIDIJWyepSPXNAqLWBPiv"
+        "name": "Spirit of '70",
+        "url": "https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk"
       },
       "artists": [
         {
-          "name": "Charles Earland",
-          "url": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
-        }
-      ],
-      "duration_ms": 675160,
-      "name": "Happy 'Cause I'm Goin' Home",
-      "url": "https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Saturday Night Special",
-        "url": "https://open.spotify.com/album/4bOytFLAaL2AH2nZ0lQvST"
-      },
-      "artists": [
+          "name": "Robert Walter",
+          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
+        },
         {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
         }
       ],
-      "duration_ms": 372946,
-      "name": "Saturday Night Special",
-      "url": "https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9"
+      "duration_ms": 257293,
+      "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
+      "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1227,18 +1219,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Pressure Sensitive",
-        "url": "https://open.spotify.com/album/5mBZFylK3027Vraz0Jnz7G"
+        "name": "Intensity",
+        "url": "https://open.spotify.com/album/0UIDIJWyepSPXNAqLWBPiv"
       },
       "artists": [
         {
-          "name": "Ronnie Laws",
-          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+          "name": "Charles Earland",
+          "url": "https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi"
         }
       ],
-      "duration_ms": 252026,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
+      "duration_ms": 675160,
+      "name": "Happy 'Cause I'm Goin' Home",
+      "url": "https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1267,6 +1259,38 @@
       "duration_ms": 563200,
       "name": "Afrodesia",
       "url": "https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Saturday Night Special",
+        "url": "https://open.spotify.com/album/4bOytFLAaL2AH2nZ0lQvST"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 372946,
+      "name": "Saturday Night Special",
+      "url": "https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Pressure Sensitive",
+        "url": "https://open.spotify.com/album/5mBZFylK3027Vraz0Jnz7G"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Laws",
+          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1309,28 +1333,96 @@
       "url": "https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb"
     },
     {
-      "added_at": "2021-05-07 04:09:00",
+      "added_at": "2021-02-05 05:01:00",
       "album": {
-        "name": "Spirit of '70",
-        "url": "https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk"
+        "name": "Sunray Junonia",
+        "url": "https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9"
       },
       "artists": [
         {
-          "name": "Robert Walter",
-          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
         },
         {
-          "name": "Gary Bartz",
-          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+          "name": "Kosie",
+          "url": "https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb"
         },
         {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+          "name": "Chino Corval\u00e1n",
+          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Tamuz",
+          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
         }
       ],
-      "duration_ms": 257293,
-      "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
-      "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
+      "duration_ms": 300000,
+      "name": "Sunray Junonia",
+      "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "On The Avenue",
+        "url": "https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Foster",
+          "url": "https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ"
+        }
+      ],
+      "duration_ms": 374520,
+      "name": "On The Avenue",
+      "url": "https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Funky Times",
+        "url": "https://open.spotify.com/album/5XZCdlBDZ0CzxBGjU8ZvMX"
+      },
+      "artists": [
+        {
+          "name": "Funky Times",
+          "url": "https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV"
+        },
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        },
+        {
+          "name": "Adrian Bauer",
+          "url": "https://open.spotify.com/artist/0JpuTrgbRjjjuvFj6tCnK1"
+        },
+        {
+          "name": "Andr\u00e9 Haaf",
+          "url": "https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg"
+        }
+      ],
+      "duration_ms": 212263,
+      "name": "Souly",
+      "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
+        "name": "Ay Uh!",
+        "url": "https://open.spotify.com/album/3oQh9kb1PqOGke7qzy25tj"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 123874,
+      "name": "Ay Uh!",
+      "url": "https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1381,54 +1473,6 @@
       "url": "https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "On The Avenue",
-        "url": "https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Foster",
-          "url": "https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ"
-        }
-      ],
-      "duration_ms": 374520,
-      "name": "On The Avenue",
-      "url": "https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt"
-    },
-    {
-      "added_at": "2021-02-05 05:01:00",
-      "album": {
-        "name": "Sunray Junonia",
-        "url": "https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9"
-      },
-      "artists": [
-        {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
-        },
-        {
-          "name": "Kosie",
-          "url": "https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb"
-        },
-        {
-          "name": "Chino Corval\u00e1n",
-          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Tamuz",
-          "url": "https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Sunray Junonia",
-      "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
-    },
-    {
       "added_at": "2021-04-16 04:00:00",
       "album": {
         "name": "Deep: The Baritone Sessions, Vol. 2",
@@ -1451,58 +1495,6 @@
       "duration_ms": 353546,
       "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within",
-        "url": "https://open.spotify.com/album/2Ynmrins1KOecziKB7Hm0V"
-      },
-      "artists": [
-        {
-          "name": "Frank Strazzeri",
-          "url": "https://open.spotify.com/artist/2dwk8DT51a1luYRH1YFLLU"
-        },
-        {
-          "name": "Bobby Shew",
-          "url": "https://open.spotify.com/artist/0bARK3i69D9aD9UVwOQpke"
-        },
-        {
-          "name": "Sam Most",
-          "url": "https://open.spotify.com/artist/6sMhcHW0oL5mjUPEnAHlYy"
-        },
-        {
-          "name": "Harvey Newmark",
-          "url": "https://open.spotify.com/artist/4uJrXxsjaG723m1sCzumQV"
-        },
-        {
-          "name": "Steve Strazzeri",
-          "url": "https://open.spotify.com/artist/714doA9k77jAWpYjmP0HPW"
-        },
-        {
-          "name": "Don Alias",
-          "url": "https://open.spotify.com/artist/7C7gHDXEwGrihpfXqOfV3e"
-        }
-      ],
-      "duration_ms": 594133,
-      "name": "Cloudburst",
-      "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Ay Uh!",
-        "url": "https://open.spotify.com/album/3oQh9kb1PqOGke7qzy25tj"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 123874,
-      "name": "Ay Uh!",
-      "url": "https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh"
     }
   ],
   "unique_name": "Jazz-Funk",

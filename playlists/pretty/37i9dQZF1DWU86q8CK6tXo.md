@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only grooves, with some of  <a href=“spotify:artist:3R80OE4RViOWbnuvqh0j8a”>Thuy's</a> inspirations\. Cover: Thuy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,044 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,148 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 25 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
 | 26 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
 | 27 | [Trending](https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:02 |
-| 28 | [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 |
-| 29 | [Country Can](https://open.spotify.com/track/23h3c9x2ApofnkxHteQJDU) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Country Can](https://open.spotify.com/album/1gDtUrRMMsnPoBNHygmep7) | 2:53 |
-| 30 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 |
+| 28 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 |
+| 29 | [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 |
+| 30 | [Country Can](https://open.spotify.com/track/23h3c9x2ApofnkxHteQJDU) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Country Can](https://open.spotify.com/album/1gDtUrRMMsnPoBNHygmep7) | 2:53 |
 | 31 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 |
 | 32 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:30 |
 | 33 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [FALL BACK](https://open.spotify.com/track/2vbrodbHlus3zzc1Ai3ooO) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [FALL BACK](https://open.spotify.com/album/4Ujy3pnuLg6FpXt8D5L7iS) | 1:51 |
 | 42 | [Woman's Intuition](https://open.spotify.com/track/5ob35mzMNNo72Zy4XkMw3a) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Woman's Intuition](https://open.spotify.com/album/57Dbljkv1NHd9PHGWhWQmh) | 2:29 |
 | 43 | [Summer Love](https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/05mmPNGroDOEiOgo4vpIxh) | 3:55 |
-| 44 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 |
+| 44 | [gurl](https://open.spotify.com/track/2tTTIbAAHYFgulsKMTTUkN) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:36 |
 | 45 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
-| 46 | [gurl](https://open.spotify.com/track/2tTTIbAAHYFgulsKMTTUkN) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:36 |
+| 46 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 |
 | 47 | [Rewind \- VNSSA Remix](https://open.spotify.com/track/0XTmNmJIek7886IJxhE88P) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [infina ad nausea: the remixes](https://open.spotify.com/album/5rYdZ1anFLc0tJFoukAzoY) | 6:22 |
 | 48 | [ONLY ONE](https://open.spotify.com/track/6FCMfT9bWZ8bcrEK7wbjgY) | [Ruby](https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI) | [BEDTIME](https://open.spotify.com/album/5ZWsqSYied2r8qQk1rYdDO) | 2:09 |
 | 49 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 |
 
-Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMDBiNDkyY2RhMmI5NjEzNTJjOTA5NjJiY2E0ZjEwYWI2`
+Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMGZiMTkwYTgzNWEwOWM2ZmQyNDBjYzE5OGFkZDNmOTM0`

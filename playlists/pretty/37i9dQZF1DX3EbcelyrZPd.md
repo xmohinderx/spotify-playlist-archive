@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,603 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,665 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 18 | [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 |
 | 19 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 |
 | 20 | [Dance Like Me](https://open.spotify.com/track/4rJCdNRUWkJKtOUR9veXZx) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Dance Like Me](https://open.spotify.com/album/72ibFZIXbhyXZzceHRqpC3) | 2:35 |
-| 21 | [Tamu](https://open.spotify.com/track/1RQIkjqlcOedo5V3XuVz4p) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Saraphina](https://open.spotify.com/artist/67n6KPvdVDFA9napCE0b6N) | [Tamu](https://open.spotify.com/album/2ECJ66uDhZZ1N7PFPMjblN) | 2:47 |
+| 21 | [Tamu](https://open.spotify.com/track/1RQIkjqlcOedo5V3XuVz4p) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Phina](https://open.spotify.com/artist/0P8iG03KHWTtOIcGUtBZGx) | [Tamu](https://open.spotify.com/album/2ECJ66uDhZZ1N7PFPMjblN) | 2:47 |
 | 22 | [Napendwa](https://open.spotify.com/track/3u6R15tCAq3raSJlIuTorR) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Napendwa](https://open.spotify.com/album/5xrpONTifEME2SshnJEjkZ) | 3:32 |
 | 23 | [Usijichukulie Star](https://open.spotify.com/track/6hisHwCinS4fPRNAzYmrVk) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Usijichukulie Star](https://open.spotify.com/album/0Bp8t9wTlO14CgYfmXJsZY) | 3:07 |
 | 24 | [Banjuka Na Mi](https://open.spotify.com/track/5n6EouwPVmwNBtOwPM8tq4) | [Sonia Singh](https://open.spotify.com/artist/2htASUmjc0Vtw0M7w6JxLU), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Banjuka Na Mi](https://open.spotify.com/album/7C1riYdY4WsBhvMtN2M5qF) | 3:21 |

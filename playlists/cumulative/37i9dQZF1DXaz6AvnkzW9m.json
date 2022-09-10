@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Grupo Diez 4Tro & Los Del Cristo en portada.",
+  "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Calibre 50 & Emanuel Delgado en portada.",
   "name": "Trap Corridos",
   "published_playlist_ids": [
     "1sfh6zrW4xImGR0arizLIx"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 201251,
       "name": "Acelerado",
       "url": "https://open.spotify.com/track/094qJC8pjGy6X6uCRrRNFf"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "Ando Bien Tumbado",
       "url": "https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ"
@@ -215,10 +215,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 135127,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/4YXY87glxNwyzpT3dJ1DyD"
+    },
+    {
+      "album": {
+        "name": "Basado En Hechos Reales",
+        "url": "https://open.spotify.com/album/3PxXtDVhMYpvFnD7gULBXr"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        },
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Conexi\u00f3n Jalisco",
+      "url": "https://open.spotify.com/track/4Efuy6w8IowYUirlwm7zIy"
     },
     {
       "album": {
@@ -303,7 +325,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 197750,
       "name": "Cupcake Quemando",
       "url": "https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv"
@@ -365,7 +387,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 170106,
       "name": "Del Barrio Sali (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/5tRo8lpFkAPXQR3AqxfyeF"
@@ -423,7 +445,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 229738,
       "name": "El Asesino",
       "url": "https://open.spotify.com/track/5U0sPv125CG0y9KgSwxzLl"
@@ -449,6 +471,28 @@
       "duration_ms": 214397,
       "name": "El Belicon",
       "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
+    },
+    {
+      "album": {
+        "name": "El Canelo",
+        "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Emmanuel Delgado",
+          "url": "https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158213,
+      "name": "El Canelo",
+      "url": "https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp"
     },
     {
       "album": {
@@ -545,6 +589,28 @@
       "duration_ms": 237029,
       "name": "El Pasado Est\u00e1 Olvidado",
       "url": "https://open.spotify.com/track/3RfIrOvpmccRC4Z98DlLJm"
+    },
+    {
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "album": {
@@ -667,7 +733,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 121306,
       "name": "Es Pura Envidia",
       "url": "https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX"
@@ -841,7 +907,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 214426,
       "name": "LoLo Felix",
       "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
@@ -957,7 +1023,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 215121,
       "name": "Me Dicen Nini",
       "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
@@ -1045,6 +1111,24 @@
       "duration_ms": 214306,
       "name": "Miren",
       "url": "https://open.spotify.com/track/26QCwwosXJCs9k9XxhVvHv"
+    },
+    {
+      "album": {
+        "name": "Modo Vuelo",
+        "url": "https://open.spotify.com/album/7CVOUsa2OugJkofhEFQUw6"
+      },
+      "artists": [
+        {
+          "name": "La Fase 3",
+          "url": "https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191753,
+      "name": "Modo Vuelo",
+      "url": "https://open.spotify.com/track/0uqNJ3WdaFNHt4KOsK5o5k"
     },
     {
       "album": {
@@ -1243,7 +1327,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 150000,
       "name": "Por La D",
       "url": "https://open.spotify.com/track/1fBtRjcOFPGP90JyRsj8ey"
@@ -1327,7 +1411,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 228853,
       "name": "Radicamos En South Central",
       "url": "https://open.spotify.com/track/1kHpljP6paUsQyZgwFDfxn"
@@ -1451,7 +1535,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 151594,
       "name": "Sentosa",
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"

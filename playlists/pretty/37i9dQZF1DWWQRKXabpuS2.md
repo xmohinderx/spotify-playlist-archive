@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,756 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,772 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Amina Haf](https://open.spotify.com/track/0Vj0ZTyPQIlRwOcbHZW6A4) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Amina Haf](https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0) | 3:04 |
 | 50 | [Sheikh Al Ramak](https://open.spotify.com/track/75bIkFeMymOUWLhtLRg5gX) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sheikh Al Ramak](https://open.spotify.com/album/2kgERNQ27bC262mXWGmyaQ) | 4:26 |
 
-Snapshot ID: `MTY2MjUzOTUzNywwMDAwMDAwMDYwN2JkMzMyMjM0YTk5MWZkN2I0MDdiMGE0YTM1MThj`
+Snapshot ID: `MTY2MjcyODY0MCwwMDAwMDAwMDhlNGZkZDhiOWJiMmQ5NWYwYWZkN2Y4OTBiNWE5MzZh`

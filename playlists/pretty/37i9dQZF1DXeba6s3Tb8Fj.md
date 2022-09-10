@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,221 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,237 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 17 | [Heygana](https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:58 |
 | 18 | [M'Badehou](https://open.spotify.com/track/61AJlCxahP7OhPjYojRvN6) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mali Denhou](https://open.spotify.com/album/0Y3ejNw8PD0839BoDg8N7E) | 6:07 |
 | 19 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
-| 20 | [N'taki](https://open.spotify.com/track/7ieuNryZeYZ4ABp66OjsiP) | [Idrissa Soumaoro](https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F) | [Köte](https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O) | 4:23 |
-| 21 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 |
+| 20 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 |
+| 21 | [N'taki](https://open.spotify.com/track/7ieuNryZeYZ4ABp66OjsiP) | [Idrissa Soumaoro](https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F) | [Köte](https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O) | 4:23 |
 | 22 | [Tar Hani \(My Love\)](https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Agadez](https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3) | 6:30 |
 | 23 | [Catfish Blues](https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 5:29 |
 | 24 | [Yere faga](https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 5:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 49 | [The Lighthouse Keeper](https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [The West African Blues Project](https://open.spotify.com/album/510vDsJUph73WMw4GK1x19) | 4:11 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDBmYzE3OWIzNWU5Y2EyMGFiOGI0OGJmMjEwYjI3YzMy`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDY3MzcxMDZmNTM4YWJmM2VlZTRkYjVhMWQzMzA0MjFj`

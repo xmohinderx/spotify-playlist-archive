@@ -4,7 +4,7 @@
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-96 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/6c1YOrZpM9l4oCxY3cV0I7)
+97 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6c1YOrZpM9l4oCxY3cV0I7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Be My End](https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Be My End](https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0) | 2:38 | 2021-01-16 |  |
 | [Beyond The Veil](https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 2:38 | 2021-01-16 |  |
 | [Black Jack Death Bet](https://open.spotify.com/track/3QGVVYsXDDKMio22eEAvYI) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/6Tc9AZqtsPJLLzLbjyCBfO) | 3:05 | 2021-01-16 | 2022-07-27 |
+| [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 | 2021-01-16 |  |
 | [Bodies in the Basement](https://open.spotify.com/track/3wZXkoUcXsTP3iRf6UIH0C) | [Demented Are Go](https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W) | [Welcome Back To Insanity Hall](https://open.spotify.com/album/5pYc0q0qCPcASzOLi03U9k) | 2:28 | 2021-01-16 |  |
 | [Bodies in the Basement](https://open.spotify.com/track/7K9mpvjH1YfGpn7vVys9nn) | [Demented Are Go](https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W) | [Welcome Back To Insanity Hall](https://open.spotify.com/album/4i5c1RomR4Wby8dpKljvHT) | 2:28 | 2021-01-16 | 2022-07-29 |
 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 | 2021-01-16 |  |
@@ -80,7 +81,7 @@
 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 | 2021-01-16 |  |
 | [Red Sky](https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Red Sky](https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI) | 3:13 | 2021-01-16 |  |
 | [Rock It Off](https://open.spotify.com/track/7qBNIjQuBQx4cM142hnfK5) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Rock It Off](https://open.spotify.com/album/2A9ToaJcObCi6NkUQjyWlA) | 2:59 | 2021-01-16 | 2022-07-27 |
-| [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 | 2021-01-16 |  |
+| [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 | 2021-01-16 | 2022-09-10 |
 | [Saturday Night](https://open.spotify.com/track/3jXptpf8Z3aU9O1Bj6YCl0) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:28 | 2021-01-16 |  |
 | [She's a Ghost](https://open.spotify.com/track/3tKoGCW6e2JExbv8QmyG6E) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [She's a Ghost](https://open.spotify.com/album/5k9IJ7EoaD0nNv431G01Fp) | 3:44 | 2021-01-16 | 2022-07-29 |
 | [Stars Are Falling](https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii) | [The Rosedales](https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU) | [Stereoghost](https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l) | 4:03 | 2021-01-16 |  |

@@ -1364,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244531,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
+    },
+    {
+      "album": {
         "name": "Reimagined. Volume 1, Chapter 1",
         "url": "https://open.spotify.com/album/3BOArV9ude9rgHwqhMWqO3"
       },
@@ -2497,7 +2515,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 195719,
       "name": "Mishkin",
       "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"

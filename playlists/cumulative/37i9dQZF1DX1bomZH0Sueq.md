@@ -4,7 +4,7 @@
 
 > Upbeat piano for stepping out
 
-255 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
+256 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-06-07 |  |
 | [Muriwai](https://open.spotify.com/track/4u3ZZLGtq6bYi1ZKK7c3BW) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Muriwai](https://open.spotify.com/album/4EH4mxXX6T9RegNa5us3rs) | 2:01 | 2022-06-07 |  |
 | [Muse \(Single\)](https://open.spotify.com/track/0KFDSdhoFkTA9dpavEGpp6) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Muse \(Single\)](https://open.spotify.com/album/6GUw5VAhzMvOlGcqSmcl9b) | 2:06 | 2022-06-07 | 2022-07-29 |
-| [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2022-06-07 |  |
+| [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2022-06-07 | 2022-09-10 |
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2022-06-07 |  |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2022-06-07 |  |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-06-07 |  |
@@ -245,6 +245,7 @@
 | [Unless you leave now](https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Unless you leave now](https://open.spotify.com/album/0ArXH6DflLbNkfl8NAOyl0) | 2:30 | 2022-06-07 |  |
 | [Unspoken Declarations](https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Unspoken Declarations](https://open.spotify.com/album/5n8PoAzYh537L5XWWGvfz8) | 3:08 | 2022-06-07 | 2022-07-28 |
 | [Vaguely Reminiscent](https://open.spotify.com/track/3PJLOitvkwc2NXlqOYmd4C) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Vaguely Reminiscent](https://open.spotify.com/album/2pnqRa2Xk7YBNGiqlM5xvQ) | 3:18 | 2022-06-07 | 2022-08-23 |
+| [Vaguely Reminiscent](https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Kraal Total](https://open.spotify.com/album/10TgvyPmbBmRjNA2j2w4jU) | 3:18 | 2022-08-09 |  |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-06-07 |  |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2022-06-07 |  |
 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2022-06-07 |  |

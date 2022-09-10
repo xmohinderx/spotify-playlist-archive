@@ -446,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3tQpiK5vHivN7VhfIapYtu"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158362,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1XL8fZojG1rIr6TDBJi6lH"
+    },
+    {
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 152208,
       "name": "Bounce Out",
       "url": "https://open.spotify.com/track/6CHTMNKnNwENCYBggfWNrs"
@@ -1435,6 +1453,28 @@
       "duration_ms": 154853,
       "name": "Brazy",
       "url": "https://open.spotify.com/track/4DemjvC5EuJkJ3Lg4wpIFX"
+    },
+    {
+      "album": {
+        "name": "Break The Bank",
+        "url": "https://open.spotify.com/album/6NrVcT7xgCnmhmJU64IKCW"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Chris O'Bannon",
+          "url": "https://open.spotify.com/artist/0x3uLrfIo751mWzFlyVEn9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139994,
+      "name": "Break The Bank",
+      "url": "https://open.spotify.com/track/6kjHsT8N41dt02MqE6R7Zc"
     },
     {
       "album": {
@@ -1773,6 +1813,28 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
+      "album": {
+        "name": "C BOTH SIDES",
+        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155351,
+      "name": "CENTIPEDE (with KENNY MASON)",
+      "url": "https://open.spotify.com/track/2JiDnbh3HRC6WekbH2gpXI"
     },
     {
       "album": {
@@ -2152,6 +2214,24 @@
     },
     {
       "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+    },
+    {
+      "album": {
         "name": "Overly Dedicated",
         "url": "https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC"
       },
@@ -2203,10 +2283,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 129882,
       "name": "CYCLOPS",
       "url": "https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p"
+    },
+    {
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/42zG2fJAyTeTJaTfSDq0Xd"
+      },
+      "artists": [
+        {
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/4RPxNhKx7KOJoOSZdKC3NM"
+        },
+        {
+          "name": "Your Grandparents",
+          "url": "https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213163,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/3L4Z1OrliUmNUcZzmpYZSZ"
     },
     {
       "album": {
@@ -3578,6 +3680,32 @@
     },
     {
       "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "album": {
         "name": "Not A Pissing Contest/Go Getta",
         "url": "https://open.spotify.com/album/611wDTLbLNlAw0ayHfMoi0"
       },
@@ -4030,6 +4158,24 @@
     },
     {
       "album": {
+        "name": "Yam Grier",
+        "url": "https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Holding on (feat. Jay Wile, Aj Claire)",
+      "url": "https://open.spotify.com/track/5PGDQCjwoCz54WmjUljz6j"
+    },
+    {
+      "album": {
         "name": "Hollandaise",
         "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
       },
@@ -4295,7 +4441,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
@@ -4689,7 +4835,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 207157,
       "name": "Judas",
       "url": "https://open.spotify.com/track/5aRH0KZKnFoOgJHKLahuXh"
@@ -5045,7 +5191,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 148695,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/7FomypRpFKzSIBOX338U4P"
@@ -5067,7 +5213,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 168510,
       "name": "LET ME KNO SUM",
       "url": "https://open.spotify.com/track/3TzOCLcooFojGEQoysyM7i"
@@ -5252,6 +5398,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5tBLuFQ37bt5wonj67qS4R"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222573,
+      "name": "Livin' In",
+      "url": "https://open.spotify.com/track/0w8UhQLpo6lF3qME0dDpeO"
+    },
+    {
+      "album": {
         "name": "living off the land",
         "url": "https://open.spotify.com/album/4q3llmOQBWP84R5J88TjjP"
       },
@@ -5431,7 +5595,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 247413,
       "name": "Lost for Words",
       "url": "https://open.spotify.com/track/2oX07lCkFNLmhQURiN5FTo"
@@ -5953,6 +6117,32 @@
       "duration_ms": 162651,
       "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
       "url": "https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT"
+    },
+    {
+      "album": {
+        "name": "Neybors",
+        "url": "https://open.spotify.com/album/3JfIX9dEtzZ2KD9sZ2QLZu"
+      },
+      "artists": [
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
+        },
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "J.Robb",
+          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Neybors",
+      "url": "https://open.spotify.com/track/17PBGFi8cRuahLFErgN0Cj"
     },
     {
       "album": {
@@ -6685,7 +6875,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 133917,
       "name": "Peace",
       "url": "https://open.spotify.com/track/3gwzoXpZGkDGSo8Y35JeQa"
@@ -6841,7 +7031,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 212867,
       "name": "Pootie Tang (G.T.K.Y)",
       "url": "https://open.spotify.com/track/64cbbJwQHReRmRaXCZO07f"
@@ -7005,7 +7195,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 182823,
       "name": "PRO",
       "url": "https://open.spotify.com/track/2wQTsC2OgmTcgwlH2A79JY"
@@ -7975,7 +8165,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 177480,
       "name": "South Central 2 South East",
       "url": "https://open.spotify.com/track/0VAEHfsdImvle7l66Dl8tf"
@@ -9211,7 +9401,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 165349,
       "name": "Viral (feat. Michael Sneed)",
       "url": "https://open.spotify.com/track/3Iv7bHl15wkhfCQlMRSNcY"
@@ -9471,7 +9661,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 236854,
       "name": "Welcome to the West",
       "url": "https://open.spotify.com/track/4AYi4sFMhgxVkDviECJ3ZE"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,983 likes - 117 songs - 6 hr 28 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,984 likes - 117 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heal the World \- Acoustic](https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Heal the World \(Acoustic\)](https://open.spotify.com/album/6L1r7oNw89x4Sed9Ebxqnk) | 3:58 |
 | 2 | [Walking On Sunshine](https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Walking On Sunshine](https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE) | 2:31 |
 | 3 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4k77p0LNt3affQXC48hQuL) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Just the Two of Us \(Acoustic\)](https://open.spotify.com/album/5ZnOMhHHkpweib0MIYENDw) | 2:28 |
-| 4 | [Just the Way You Are \- Acoustic](https://open.spotify.com/track/6gTiRT3y1IM6hViup2a2zv) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Just the Way You Are \(Acoustic\)](https://open.spotify.com/album/2eKuycoVymgIY5ZOnYS0nW) | 3:26 |
+| 4 | [I Say a Little Prayer \- Acoustic](https://open.spotify.com/track/2WEkCMNRYPjbd2FLgPGF9X) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [I Say a Little Prayer \(Acoustic\)](https://open.spotify.com/album/2i4NA7UAPKB98sVypxJJr8) | 2:06 |
 | 5 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
 | 6 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 |
 | 7 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 116 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 117 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 |
 
-Snapshot ID: `Nzc0LDM4NGY2ODg1MzIxZGQ3YWM3ODZlMTdlOTQ0YjI3MDFlNzM4NzQ4NWQ=`
+Snapshot ID: `Nzc2LDFjNTRjMjMyMzczYzQyYjA5OWVmOTA0Y2I5YjY1Y2EwNWFkYzRkMTk=`

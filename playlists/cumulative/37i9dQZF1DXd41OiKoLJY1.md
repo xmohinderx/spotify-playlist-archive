@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Fateeha, Artwork: Isu Kim
 
-548 songs - 1 day 9 hr 4 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+549 songs - 1 day 9 hr 9 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Reasons](https://open.spotify.com/track/0mhq0NkWdy5rMHd7JbYpS2) | [Rose Lovingco](https://open.spotify.com/artist/2s9k75SID9Jn6T64W8K3Sg) | [Few Feet Wide](https://open.spotify.com/album/7vBFU9Rp5GTSl3EH6jqPRc) | 3:53 | 2022-09-08 |  |
 | [Reyna](https://open.spotify.com/track/6u8AEUICbMfg3kGt6PtaD2) | [The Kin Serotonin Geeks](https://open.spotify.com/artist/2FMOMbrklxqTwAtUvp19YA) | [Reyna](https://open.spotify.com/album/6lHI7OpN21Zw3n9lakneYf) | 3:30 | 2022-03-10 | 2022-04-01 |
 | [Rhythms](https://open.spotify.com/track/32CwzxEmCEK3bTxOyxHK9t) | [Signalgiant](https://open.spotify.com/artist/44Nu5YNDuInA3q27ilTQwC) | [Rhythms](https://open.spotify.com/album/5mJtK2Lqfrt46phaeA1JNM) | 4:48 | 2022-02-10 | 2022-04-01 |
+| [Rigodon](https://open.spotify.com/track/5cF02vAZUK8nCpGx9U1F2G) | [Run Silas](https://open.spotify.com/artist/2n8RvsyGbpluYSEwtlX4Mk), [Hans Dimayuga](https://open.spotify.com/artist/56p3ilIEBlYgDzOKA1HFQk) | [Rigodon](https://open.spotify.com/album/6vhaYjAI6XP5x6RkklfnKm) | 5:23 | 2022-09-08 |  |
 | [RISK IT ALL](https://open.spotify.com/track/2j25R1ZfY6JQzCydKfrj3M) | [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc) | [RISK IT ALL](https://open.spotify.com/album/3Ec3t1idJXWgLYGM7HHK0a) | 3:23 | 2022-04-21 | 2022-05-06 |
 | [Road Trip](https://open.spotify.com/track/4GWih9yhw3J7B5rYHWWisq) | [BLUE BANDANA](https://open.spotify.com/artist/1yTVYN3sXOBXmXWqXvgWSA), [One Flow](https://open.spotify.com/artist/0c4D2x4WZXiPHrejIovH2B), [Jsphere](https://open.spotify.com/artist/0NXUODLOlNMQdvZnqHQgHW), [Zetsu](https://open.spotify.com/artist/6K1jZ0auOWYLEx4FA9KD7n) | [Road Trip](https://open.spotify.com/album/1cjZxcMkrSRTjtEFwoOdYT) | 4:07 | 2022-05-19 | 2022-07-29 |
 | [Rosas](https://open.spotify.com/track/6IYiOv0NKP6xxVPwdTIWXR) | [157](https://open.spotify.com/artist/6PNmbg0JGERC4758Q1cl37) | [Rosas](https://open.spotify.com/album/32fSn5fl89wg7WDDdzU8h9) | 4:27 | 2022-02-24 | 2022-04-01 |

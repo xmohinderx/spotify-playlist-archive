@@ -636,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189672,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+    },
+    {
+      "album": {
         "name": "Without Fear (The Complete Edition)",
         "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
       },
@@ -1956,6 +1974,28 @@
     },
     {
       "album": {
+        "name": "these words are all for you too",
+        "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        },
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266219,
+      "name": "london",
+      "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
+    },
+    {
+      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -2275,7 +2315,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
@@ -2459,7 +2499,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
@@ -2561,6 +2601,24 @@
       "duration_ms": 302880,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ"
+    },
+    {
+      "album": {
+        "name": "Paper Airplanes (from the Netflix Film A Jazzman's Blues)",
+        "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257493,
+      "name": "Paper Airplanes - from the Netflix Film A Jazzman's Blues",
+      "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
     },
     {
       "album": {
@@ -3229,7 +3287,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 206599,
       "name": "supercuts",
       "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
@@ -3247,7 +3305,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 196634,
       "name": "Surviving",
       "url": "https://open.spotify.com/track/0rYn41pw6HzBTT0hqWxbb2"
@@ -3312,6 +3370,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201881,
+      "name": "Thank You - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aZYmiZWN7BNsvDX4f1qmn"
+    },
+    {
+      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -3323,7 +3399,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 175026,
       "name": "that way",
       "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
@@ -3641,7 +3717,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"

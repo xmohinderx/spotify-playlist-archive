@@ -4,7 +4,7 @@
 
 > Cerchi energie e buona musica? Prova con la nostra playlist!
 
-157 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
+158 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Home To You](https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Home To You](https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah) | 3:23 | 2022-05-06 | 2022-07-28 |
 | [Horizon](https://open.spotify.com/track/5TYxn30EokgCbHXdr0fp8M) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Horizon](https://open.spotify.com/album/6YXuJbuPH2EODwWt5LSWQa) | 3:00 | 2022-05-06 | 2022-07-29 |
 | [Hot Air Balloon](https://open.spotify.com/track/3l2Wb3OzxiuJnMIK0Bdb5z) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [FORΞVΞR](https://open.spotify.com/album/2bFEI0FZ688BlTpclN88VX) | 2:53 | 2022-05-06 | 2022-07-29 |
+| [Hot Air Balloon](https://open.spotify.com/track/67p96tIoC4ESrod9kW331R) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [FORΞVΞR \(DΞLUXΞ ΞDITION\)](https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2) | 2:53 | 2022-09-09 |  |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2022-05-06 |  |
 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 | 2022-05-06 |  |
 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 | 2022-06-10 |  |
@@ -89,7 +90,7 @@
 | [Lava](https://open.spotify.com/track/3Lrytq52nbeRcUQKSqLNbz) | [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs) | [Lava](https://open.spotify.com/album/0P3KcEXiGgvhsQlj4rEBep) | 3:00 | 2022-05-06 | 2022-06-11 |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-05-06 |  |
 | [Let's Get Moving](https://open.spotify.com/track/3e6bwbG31nFSmSYnUHxGCr) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Let's Get Moving](https://open.spotify.com/album/72nUHtTFPqEPMTRjCkvFGS) | 2:53 | 2022-05-13 | 2022-05-17 |
-| [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 | 2022-05-06 |  |
+| [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 | 2022-05-06 | 2022-09-10 |
 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 | 2022-07-26 |  |
 | [Lipstick](https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Lipstick](https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l) | 3:00 | 2022-07-26 |  |
 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 | 2022-07-26 |  |

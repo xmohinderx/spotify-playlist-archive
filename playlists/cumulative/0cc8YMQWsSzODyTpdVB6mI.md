@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-80 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+81 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 | 2022-08-06 |
 | [Alleviate](https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Alleviate](https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD) | 3:31 | 2022-08-05 |  |
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 |  |
+| [Azibi](https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c) | [Record Club](https://open.spotify.com/artist/4cArYfwQ0BrfSEhaDwhVYQ) | [Azibi](https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL) | 3:52 | 2022-09-09 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 |  |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |
 | [Child](https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG), [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [Child](https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj) | 2:48 | 2022-08-08 |  |
@@ -61,7 +62,7 @@
 | [PALM SPRINGS](https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO) | [Distance Learning](https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd) | [PALM SPRINGS](https://open.spotify.com/album/2TbX2nyWZdxlyMI9CgUmRn) | 2:51 | 2022-05-09 | 2022-07-14 |
 | [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 | 2022-09-09 |
 | [R A B O N A](https://open.spotify.com/track/2S369D2uttM1uwlfqtHhUw) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [R A B O N A](https://open.spotify.com/album/18mWb3oJws5PhyH8aETKZs) | 2:50 | 2022-06-08 | 2022-08-23 |
-| [Recall \(Young Man\)](https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Omolola](https://open.spotify.com/artist/2oiwI74vU7D2J3F8bNqf0Z) | [Recall \(Young Man\)](https://open.spotify.com/album/2A787Mr8PzkjC2lUjwOxAb) | 5:17 | 2022-06-23 |  |
+| [Recall \(Young Man\)](https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Omolola](https://open.spotify.com/artist/2oiwI74vU7D2J3F8bNqf0Z) | [Recall \(Young Man\)](https://open.spotify.com/album/2A787Mr8PzkjC2lUjwOxAb) | 5:17 | 2022-06-23 | 2022-09-10 |
 | [Recharge](https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Recharge](https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR) | 2:40 | 2022-06-06 | 2022-08-13 |
 | [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2022-04-06 | 2022-06-16 |
 | [Reflection](https://open.spotify.com/track/1WMAmiHJjj3jiQlPMFFdGi) | [Hi Frisco](https://open.spotify.com/artist/6ifRAgjl7vu0M5DsSbtp2i), [CHERITON](https://open.spotify.com/artist/31RwGrkcLmgHGRSOK2gIKB) | [Reflection](https://open.spotify.com/album/6hRNO6aIMwgR1WIdvyCqk5) | 4:15 | 2022-05-11 | 2022-07-21 |

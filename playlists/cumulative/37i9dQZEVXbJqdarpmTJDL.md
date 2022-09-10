@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-868 songs - 1 day 23 hr 3 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+869 songs - 1 day 23 hr 6 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,7 @@
 | [Mama Dukes](https://open.spotify.com/track/05hQCNWONOgCc0VDxEgp5M) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:24 | 2022-04-29 | 2022-05-15 |
 | [Mamacita](https://open.spotify.com/track/4lBnnKUVT4sN5hnAhm7ZYk) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [BOSSIDONAS](https://open.spotify.com/album/7xpeeJKLPPbfvrKPjSYkHz) | 3:42 | 2022-07-02 | 2022-07-06 |
 | [Mamacita](https://open.spotify.com/track/6yX6XrUgaES6HDOYRbQIOc) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Mamacita](https://open.spotify.com/album/6gtVR30UwdVsyLEvavxg8n) | 3:42 | 2022-07-05 | 2022-08-02 |
-| [Mamacita](https://open.spotify.com/track/4Wsom89nrtQXcK8xPGoViM) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:37 | 2022-07-08 |  |
+| [Mamacita](https://open.spotify.com/track/4Wsom89nrtQXcK8xPGoViM) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:37 | 2022-07-08 | 2022-09-10 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-11 |
 | [Man Down](https://open.spotify.com/track/6CG4hzdavLVJYrLq8MfH7i) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX) | [Man Down](https://open.spotify.com/album/6SaiSfMdWrFV9d5rbo3Tp5) | 3:39 | 2021-04-01 | 2021-04-02 |
 | [Mana Signomi](https://open.spotify.com/track/443zjmQbb2w0s0hg6WnQUj) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [IAMSTRONG](https://open.spotify.com/artist/0IFfGEYUge1S0WGqCZmFrM) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 2:14 | 2021-05-21 | 2021-06-20 |
@@ -853,6 +853,7 @@
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-11 | 2021-10-27 |
 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 | 2021-07-18 | 2021-07-19 |
 | [Woo Walk](https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 2:44 | 2021-06-05 | 2022-02-16 |
+| [Work Out](https://open.spotify.com/track/1ABRIGG2YqY5uLDLLfIBgx) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Work Out](https://open.spotify.com/album/7iC4EGxvV937UOLMODZnTy) | 2:35 | 2022-09-09 |  |
 | [Workaholic](https://open.spotify.com/track/1sZDCdJHc2RdIpGE2fF5sg) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 2:59 | 2022-02-26 | 2022-02-28 |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-14 | 2022-05-16 |
 | [X\-RATED](https://open.spotify.com/track/47oIBbFCqMVRD7r7fQdhvg) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 2:58 | 2022-04-23 | 2022-04-30 |

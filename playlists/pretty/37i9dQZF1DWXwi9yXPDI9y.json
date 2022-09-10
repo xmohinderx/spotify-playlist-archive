@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 15782,
+  "num_followers": 15882,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyMDU2MSwwMDAwMDAwMGQ0NzIwN2JmM2I0ZDA2MTM0YThiOTM1N2IwMzZhMTQ4",
+  "snapshot_id": "MTY2MjYyMDU2MSwwMDAwMDAwMGYxNWZjOTI3MzEyMmM1MThlM2MwNjJmYzk1MDk3MDgy",
   "tracks": [
     {
       "added_at": "2022-09-08 07:02:41",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 245200,
       "name": "I Just Dropped By To Say Hello",
       "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "Trav'lin' Light",
-        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 155689,
       "name": "They Didn't Believe Me",
       "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
+        "name": "Trav'lin' Light",
+        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
         "name": "The Total - Vol. 1",
         "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 192506,
       "name": "Oh Look At Me Now - Studio",
       "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+        "name": "After Hours At The London House",
+        "url": "https://open.spotify.com/album/2U3o34rb3OPW4WTdjqAWQz"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 237800,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
+      "duration_ms": 291693,
+      "name": "Speak Low - Live At The London House, Chicago, 1958",
+      "url": "https://open.spotify.com/track/0DM4kZSysGsa2fKCmupIT0"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Make The Man Love Me",
-      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
         "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
         "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 180306,
       "name": "Your Love Has Faded",
       "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Make The Man Love Me",
+      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
         "name": "Anita Sings The Most",
         "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 223893,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "Dinah Jams (Live)",
-        "url": "https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Darn That Dream - Live In Los Angeles, 1954",
-      "url": "https://open.spotify.com/track/6BLqrmuRTePFJEbmSNCilF"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 330800,
       "name": "Dear Lord",
       "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
+        "name": "Dinah Jams (Live)",
+        "url": "https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Darn That Dream - Live In Los Angeles, 1954",
+      "url": "https://open.spotify.com/track/6BLqrmuRTePFJEbmSNCilF"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Blue Gardenia",
-      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 141866,
       "name": "Three And Six",
       "url": "https://open.spotify.com/track/1rDSvUCDcz2KOoQVIPrQ9z"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 371960,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Blue Gardenia",
+      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
         "name": "The Astaire Story",
         "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 340813,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/3L31NjRiEzd7Vn1mrEnEFI"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 371960,
-      "name": "Where Or When",
-      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
     },
     {
       "added_at": "2022-09-08 07:02:41",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-09-08 07:02:41",
       "album": {
-        "name": "Duke's In Bed",
-        "url": "https://open.spotify.com/album/39Q7MYB7Mlx4I6JW3Sjuqu"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Ballade For Very Tired And Very Sad Lotus Eaters",
-      "url": "https://open.spotify.com/track/0blYAolw9V5F0EmOqt94VX"
-    },
-    {
-      "added_at": "2022-09-08 07:02:41",
-      "album": {
         "name": "The Complete Blue Hour Sessions",
         "url": "https://open.spotify.com/album/3M2YVdtyjEDrnO6zuAOVSz"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 324106,
       "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
       "url": "https://open.spotify.com/track/5VT0WgAxTEPowUywwuObwZ"
+    },
+    {
+      "added_at": "2022-09-08 07:02:41",
+      "album": {
+        "name": "Duke's In Bed",
+        "url": "https://open.spotify.com/album/39Q7MYB7Mlx4I6JW3Sjuqu"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Ballade For Very Tired And Very Sad Lotus Eaters",
+      "url": "https://open.spotify.com/track/0blYAolw9V5F0EmOqt94VX"
     },
     {
       "added_at": "2022-09-08 07:02:41",

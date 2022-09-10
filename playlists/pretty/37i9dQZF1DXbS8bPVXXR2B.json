@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 168517,
+  "num_followers": 168626,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDEwMjk2YTkxN2Y5NjI2MDk4MzkzM2M4Y2QxMjY2MDI3",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDg5NzYxOWI4ZDk3MDc5Yjk1MDZmMGVkODU4N2EzZTFh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 316266,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get as Much Love as You Can",
         "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 279800,
       "name": "Nights Over Egypt",
       "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 316266,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Private Life: The Compass Point Sessions",
-        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 498840,
-      "name": "Slave To The Rhythm - Hot Blooded Version",
-      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Conquers All (Expanded Edition)",
         "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 320280,
       "name": "Looking Up to You",
       "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Private Life: The Compass Point Sessions",
+        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 498840,
+      "name": "Slave To The Rhythm - Hot Blooded Version",
+      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Jazz",
-        "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
-      },
-      "artists": [
-        {
-          "name": "Rupa",
-          "url": "https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh"
-        }
-      ],
-      "duration_ms": 479629,
-      "name": "Aaj Shanibar",
-      "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 414000,
       "name": "Running Away - 12-Inch Long Version",
       "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Jazz",
+        "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
+      },
+      "artists": [
+        {
+          "name": "Rupa",
+          "url": "https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh"
+        }
+      ],
+      "duration_ms": 479629,
+      "name": "Aaj Shanibar",
+      "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
-      },
-      "artists": [
-        {
-          "name": "The System",
-          "url": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
-        }
-      ],
-      "duration_ms": 357812,
-      "name": "You Are in My System",
-      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "First True Love Affair",
         "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 428026,
       "name": "First True Love Affair - Larry Levan Remix",
       "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
+      },
+      "artists": [
+        {
+          "name": "The System",
+          "url": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
+        }
+      ],
+      "duration_ms": 357812,
+      "name": "You Are in My System",
+      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "M.V.P. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 300826,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "I Want to Feel Your Love",
         "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Hi-Life",
-        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
+        "name": "M.V.P. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
       },
       "artists": [
         {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
         }
       ],
-      "duration_ms": 540986,
-      "name": "Disco Hi - Life",
-      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
+      "duration_ms": 300826,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1075,6 +1059,22 @@
       "duration_ms": 427990,
       "name": "Is It All Over My Face? - Female Version",
       "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "duration_ms": 540986,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love in a Black Dimension",
-        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
-      },
-      "artists": [
-        {
-          "name": "Jestofunk",
-          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
-        }
-      ],
-      "duration_ms": 338426,
-      "name": "For Your Precious Love",
-      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Watchin' Out",
         "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 195114,
       "name": "Watchin' Out",
       "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love in a Black Dimension",
+        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
+      },
+      "artists": [
+        {
+          "name": "Jestofunk",
+          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
+        }
+      ],
+      "duration_ms": 338426,
+      "name": "For Your Precious Love",
+      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Chicago Service",
-        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
-      },
-      "artists": [
-        {
-          "name": "Rahaan",
-          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
-        }
-      ],
-      "duration_ms": 328858,
-      "name": "Disco Fantasy",
-      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Agb'oju L'ogun",
         "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 702167,
       "name": "Agb'oju L'ogun - Original 12\" Version",
       "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Chicago Service",
+        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
+      },
+      "artists": [
+        {
+          "name": "Rahaan",
+          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
+        }
+      ],
+      "duration_ms": 328858,
+      "name": "Disco Fantasy",
+      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
     },
     {
       "added_at": "2022-09-05 16:54:43",

@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-389 songs - 1 day 3 hr 29 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
+390 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [4'33''](https://open.spotify.com/track/2bNCdW4rLnCTzgqUXTTDO1) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s) | [4'33''](https://open.spotify.com/album/6UCnARt06DDqBASaO8sBaz) | 4:33 | 2021-02-06 | 2021-02-12 |
 | [90 Miles](https://open.spotify.com/track/58jTBCpkqF7iALAQZTupaG) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [90 Miles](https://open.spotify.com/album/0aPL4jQVkcwiU5u1OipYbf) | 3:43 | 2020-10-20\* | 2021-10-13 |
 | [A](https://open.spotify.com/track/1kHETSWzScobcs0K5JsVc0) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/6YCWEBR0SIdFS80qukpVHI) | 3:52 | 2020-10-20\* | 2022-04-21 |
-| [A](https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf) | 3:52 | 2022-07-22 |  |
+| [A](https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf) | 3:52 | 2022-07-22 | 2022-09-10 |
 | [A Collective Destiny](https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Collective Destiny](https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL) | 4:22 | 2021-11-24 |  |
 | [A Good Day](https://open.spotify.com/track/0A9tIbyIOMnwS4eX5Euznh) | [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Honey Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/610pt4TZf8kqG2zdiJ3ZnR) | 3:05 | 2020-12-10 | 2020-12-11 |
 | [A Great Divide](https://open.spotify.com/track/0qVVhm46OVA2emNlWfzzoF) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Lumiere](https://open.spotify.com/album/5M4N10EsvkK8DRxMzRZJ6t) | 6:22 | 2021-02-06 | 2021-02-12 |
@@ -207,6 +207,7 @@
 | [Liquidity](https://open.spotify.com/track/1IrW2h8n4mWLvNhbgwDQij) | [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc), [Kjartan Sveinsson](https://open.spotify.com/artist/1yNnmCrLBExyTTvdYKy1bb) | [Epicycle II](https://open.spotify.com/album/4uhtsy7BxJm8GoIw2wuNWs) | 6:42 | 2020-12-04 | 2020-12-11 |
 | [Little Orc](https://open.spotify.com/track/2U7TnzD7vRwTIaNOZhE9Ns) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Little Orc](https://open.spotify.com/album/78StS44pxjUQDB6cQZ1fFv) | 2:55 | 2020-10-20\* | 2022-04-21 |
 | [Llŷr \- Tom Paul Soetaert Rework](https://open.spotify.com/track/0xflu1zYGTDOkY5B0HxxzS) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Tom Paul Soetaert](https://open.spotify.com/artist/6dhUICf4bs6Vu7DrHO2JpG), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Dear, Piano \#2](https://open.spotify.com/album/5KP9x3xuAhtIeDxvCNJWAG) | 3:32 | 2022-07-22 | 2022-07-25 |
+| [lodges](https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [lodges](https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5) | 3:51 | 2022-09-09 |  |
 | [Longhope \- Edit](https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Longhope](https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0) | 3:31 | 2021-01-16 |  |
 | [Lost Time \- Strings Version](https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Lost Time \- Strings Version](https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9) | 2:21 | 2022-07-15 | 2022-07-22 |
 | [Love](https://open.spotify.com/track/4Tni0eZOEBwZ7Dd1Q4izKL) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Mirage](https://open.spotify.com/album/6cDsArOrAhLmf6zDWEdRjQ) | 6:18 | 2020-10-20\* | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 388368,
+  "num_followers": 388470,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk0NCwwMDAwMDAwMDVkMGQzYTJjN2E3ZGIwZjFmMTU1ODdjMWRiZjFkNDk5",
+  "snapshot_id": "MTY2MjE0MTk0NCwwMDAwMDAwMDM0OTE2ZjEwYjE5ZWZmZGNiMzczMzk4MTc3YTc0ZDQz",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:44",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 132360,
+      "name": "DO IT",
+      "url": "https://open.spotify.com/track/73IdeGI8Gt1XxcaQ6vBsyD"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
         "name": "816 To Nunhead",
         "url": "https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 333772,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 132360,
-      "name": "DO IT",
-      "url": "https://open.spotify.com/track/73IdeGI8Gt1XxcaQ6vBsyD"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "Intimate Fantasy",
-        "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
         }
       ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
+      "duration_ms": 146949,
+      "name": "SEX IS GOOD BUT HAVE U EVER",
+      "url": "https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx"
+        "name": "Intimate Fantasy",
+        "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
       },
       "artists": [
         {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
         }
       ],
-      "duration_ms": 146949,
-      "name": "SEX IS GOOD BUT HAVE U EVER",
-      "url": "https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH"
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "elope",
-        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
-      },
-      "artists": [
-        {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
-        }
-      ],
-      "duration_ms": 293999,
-      "name": "elope",
-      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "elope",
+        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
+      },
+      "artists": [
+        {
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        }
+      ],
+      "duration_ms": 293999,
+      "name": "elope",
+      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "lo-fi_house.zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
-      },
-      "artists": [
-        {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
         "name": "Late Night Basix Vol. 2",
         "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 359793,
       "name": "Deep -N- Dirty",
       "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "lo-fi_house.zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+      },
+      "artists": [
+        {
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
-        "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 287767,
-      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
-      "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
+        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
+        "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 287767,
+      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
+      "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 210000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 373974,
-      "name": "008A1",
-      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -687,6 +671,22 @@
       "duration_ms": 235125,
       "name": "Can't see me",
       "url": "https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 373974,
+      "name": "008A1",
+      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "The Sinner \u2014 Time Traveller",
-        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
         "name": "14 Joints in a Spaceship",
         "url": "https://open.spotify.com/album/2V1zCLSKzlgVPk4Ax0ZS45"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 340645,
       "name": "14 Joints in a Spaceship",
       "url": "https://open.spotify.com/track/43cNetCz4Hs4Y8SQ7ZHYUs"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "The Sinner \u2014 Time Traveller",
+        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
+        "name": "Carlito Archives",
+        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
+      },
+      "artists": [
+        {
+          "name": "Carlo",
+          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
+        }
+      ],
+      "duration_ms": 363960,
+      "name": "Anything Else Feat. Alix Edwards",
+      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
         "name": "I Gotta Cry",
         "url": "https://open.spotify.com/album/5psitNv3hl8WEoZY7Z2tx1"
       },
@@ -839,38 +855,6 @@
       "duration_ms": 312000,
       "name": "I Gotta Cry",
       "url": "https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
-      },
-      "artists": [
-        {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
-        "name": "Carlito Archives",
-        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
-      },
-      "artists": [
-        {
-          "name": "Carlo",
-          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
-        }
-      ],
-      "duration_ms": 363960,
-      "name": "Anything Else Feat. Alix Edwards",
-      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
         "name": "Mellow Mornings",
         "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 154814,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -959,18 +975,18 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+        "name": "Alone Girl",
+        "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
       },
       "artists": [
         {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
         }
       ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+      "duration_ms": 188852,
+      "name": "Alone Girl",
+      "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -999,22 +1015,6 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
-        "name": "Alone Girl",
-        "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Alone Girl",
-      "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
     }
   ],
   "unique_name": "Lo-Fi House",

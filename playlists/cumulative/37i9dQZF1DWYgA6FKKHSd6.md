@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-194 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+195 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [It's Too Late](https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Song For You](https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil) | 4:41 | 2021-07-12 |  |
 | [Journey To Love](https://open.spotify.com/track/30rvDFEEfSt3NU9SFGw5kl) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Journey to Love](https://open.spotify.com/album/5oQEHixbXzFBDWHIMgI6KE) | 4:40 | 2022-07-15 | 2022-07-29 |
 | [Journey To Love](https://open.spotify.com/track/4RBYqegYxDPp6J7hPC70oS) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Journey To Love](https://open.spotify.com/album/6Aiv4objMa8nWGJxf83ht8) | 4:40 | 2022-07-15 | 2022-08-18 |
+| [Juicy](https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Juicy](https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp) | 3:26 | 2022-09-09 |  |
 | [Just a Taste](https://open.spotify.com/track/7JGBzcii3TqDSv1JQOtui6) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [HERO](https://open.spotify.com/album/3ZRYpCfUbMbwHPA39R2CJ1) | 4:00 | 2021-07-12 | 2022-07-28 |
 | [Just Like Heaven](https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy) | [Antonio Jackson](https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5) | [Just Like Heaven](https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6) | 5:47 | 2021-07-12 |  |
 | [Just Once \(Radio Edit\)](https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Just Once \(Radio Edit\)](https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t) | 4:04 | 2021-07-12 |  |
@@ -149,7 +150,7 @@
 | [Shake It](https://open.spotify.com/track/3xKJKfGApC1yoX2qk17bqA) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0OVCEpYRo8LwltB5256P9r) | 4:37 | 2021-07-12 | 2022-07-29 |
 | [Sharon's Groove](https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK) | [Lookin' Up](https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk) | 4:11 | 2021-08-06 |  |
 | [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 | 2021-07-12 |  |
-| [Side by Side](https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Fly Away](https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv) | 5:04 | 2021-07-12 |  |
+| [Side by Side](https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Fly Away](https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv) | 5:04 | 2021-07-12 | 2022-09-10 |
 | [Skinny Dippin'](https://open.spotify.com/track/5pzOW4Bw5BKWx3I5yYiY0I) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 4:33 | 2021-07-12 | 2022-07-25 |
 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 | 2021-07-12 | 2022-07-28 |
 | [Sleekness \(feat\. Marcus Anderson\)](https://open.spotify.com/track/4a1hR376exZ81yDV5ur2fa) | [Player A](https://open.spotify.com/artist/5S29QBEiZBpT5GNjeilq9P) | [Our Own Devices](https://open.spotify.com/album/4E3gw8wXJHOoWmhBS38uLO) | 3:58 | 2021-07-12 | 2022-07-26 |

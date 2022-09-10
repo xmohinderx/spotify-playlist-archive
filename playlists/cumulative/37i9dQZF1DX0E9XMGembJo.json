@@ -514,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166927,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 164848,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
@@ -3817,7 +3835,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
@@ -7677,6 +7695,24 @@
       "duration_ms": 223278,
       "name": "Toothache",
       "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
+    },
+    {
+      "album": {
+        "name": "Tripping Over Air",
+        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182382,
+      "name": "Tripping Over Air",
+      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
     },
     {
       "album": {

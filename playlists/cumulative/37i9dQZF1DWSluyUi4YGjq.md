@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-193 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+194 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Aurora](https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:50 | 2021-10-19 |  |
 | [Avec Lui](https://open.spotify.com/track/4zWpQKHzdbGNkRP00xAIbe) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/61LPJuFRFHtLf0rily6iKz) | [Balloons of Memories](https://open.spotify.com/album/0fUR7LZcSVYO8nDywl12Z9) | 5:14 | 2022-03-03 | 2022-07-26 |
 | [Ayisha Abyss](https://open.spotify.com/track/4372hjN43SwPpKhQWvRuXI) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 7:46 | 2021-10-19 | 2022-07-26 |
-| [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-03-04 |  |
+| [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-03-04 | 2022-09-10 |
 | [Blank](https://open.spotify.com/track/0GlxeLd0z8FFsTFyIAyB1X) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/1ZMLm0d2t919CO7VnSpyQC) | 3:36 | 2021-10-19 | 2022-07-28 |
 | [Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2) | 3:36 | 2021-10-19 |  |
 | [Blankenship](https://open.spotify.com/track/07lCR9uSVrL5G08R3zn0yi) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 3:56 | 2021-10-19 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [In Love with Useless \(The Timeless Geometry in the Tradition of Passing\)](https://open.spotify.com/track/6X9uwtzTwsJ58lgcqa3Vmz) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Sea When Absent](https://open.spotify.com/album/6V15ZxQvFbfbajjXEetZrL) | 5:07 | 2021-10-19 | 2022-07-13 |
 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 | 2021-10-19 | 2022-07-28 |
 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 | 2021-10-19 |  |
+| [Inevitable](https://open.spotify.com/track/0uBBAHfiu4Rxzr8smE36ly) | [Puesta De Sol](https://open.spotify.com/artist/0S84S0DTAsJYag1dSMDd1Z) | [Inevitable / Abrazo](https://open.spotify.com/album/0nxikgaZCaac69akWTGbeR) | 3:46 | 2022-09-09 |  |
 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 | 2022-08-06 |
 | [Into Black](https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk) | 3:28 | 2021-10-19 |  |
 | [Into Black](https://open.spotify.com/track/5d8pKJxoDlYX2SoFR6RCsm) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/7lzbyS6nNLF27Cw9zgrijG) | 3:28 | 2021-10-19 | 2022-07-29 |

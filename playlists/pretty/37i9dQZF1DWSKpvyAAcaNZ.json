@@ -1,12 +1,12 @@
 {
   "description": "It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues. Cover: Ben Harper",
-  "num_followers": 576229,
+  "num_followers": 576336,
   "original_name": "Blues & Roots Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGYxNmFjZDc5ZGRmODAzYjVlZmRlY2VmNmY3NDJhMGYz",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDRkODIzMjY3ZWJmM2U1MjA3MTc2NDQwZTAwNzAwNzFj",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 152626,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2487,22 +2503,6 @@
       "duration_ms": 212876,
       "name": "So Long Gone",
       "url": "https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/4ARJnUBRQn9Ld3HhFzlfAU"
-      },
-      "artists": [
-        {
-          "name": "Moreland & Arbuckle",
-          "url": "https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "18 Counties",
-      "url": "https://open.spotify.com/track/664KAVcBrTyYzF8IosgDlh"
     }
   ],
   "unique_name": "Blues & Roots Rock",

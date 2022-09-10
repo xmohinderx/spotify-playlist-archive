@@ -410,7 +410,7 @@
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2022-04-13 |  |
 | [U.F.Orb](https://open.spotify.com/track/7FSFWlgDvExyvuVfjzhc9B) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 6:08 | 2022-04-13 |  |
 | [U.F.Orb](https://open.spotify.com/track/7M7UsilKcShcDMcuuU4ylD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 6:09 | 2022-04-13 | 2022-07-29 |
-| [Untangle](https://open.spotify.com/track/5KRX86qetsjapmhlYOaeeF) | [Yarck](https://open.spotify.com/artist/7xVcw3S86azsJnq0UVpaJA) | [Untangle](https://open.spotify.com/album/6Y3WH8I67ItomKlIdYL9km) | 5:32 | 2022-04-13 | 2022-09-06 |
+| [Untangle](https://open.spotify.com/track/5KRX86qetsjapmhlYOaeeF) | [Yarck](https://open.spotify.com/artist/7xVcw3S86azsJnq0UVpaJA) | [Untangle](https://open.spotify.com/album/6Y3WH8I67ItomKlIdYL9km) | 5:32 | 2022-04-13 |  |
 | [Untitled 3](https://open.spotify.com/track/6ANjGaPMsJMk6ZksJ2SZME) | [Richard Devine](https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv) | [Richard Coleman Devine EP](https://open.spotify.com/album/5964or0Bf3moPpXJPzIsSY) | 5:06 | 2022-04-13 |  |
 | [UT1\-Dot](https://open.spotify.com/track/1xzOQV6h5kTUjSFJyKQRfp) | [Polygon Window](https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w) | [Surfing On Sine Waves](https://open.spotify.com/album/5ZINPXbRLusUuS4olqRFR0) | 5:20 | 2022-04-13 |  |
 | [Utuba](https://open.spotify.com/track/2xKwuAoNOAQ71dRYDT1mhB) | [Beaumont Hannant](https://open.spotify.com/artist/6DvcKNW1Fs3B4aAktmpb2S) | [Artificial Intelligence II](https://open.spotify.com/album/76RSvTjwI1rjqnqBb2TUXq) | 8:12 | 2022-04-13 |  |
@@ -453,7 +453,7 @@
 | [Zebra](https://open.spotify.com/track/7JyR9WAhTfrVMjBqUZt4Zq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 6:44 | 2022-04-13 |  |
 | [Zenus Aphalon](https://open.spotify.com/track/0vVRtPyxwUZ2FfDkIsyNsk) | [Roel Funcken](https://open.spotify.com/artist/7lKLBnxOkHjFtF5emELEnp) | [Hexavalent](https://open.spotify.com/album/1jUo9Q5w0rbX2CmJk6MLxc) | 4:54 | 2022-05-10 |  |
 | [Zip Left, Zip Right](https://open.spotify.com/track/3oGa7UEICaO8EcA7tlVJ8d) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Digitalis](https://open.spotify.com/album/6SwEpgSxk3oRekFjMl69Oo) | 5:55 | 2022-04-13 | 2022-07-29 |
-| [µ\-Ziq Theme](https://open.spotify.com/track/1fwH44zNWFYUc1OAwSIbkd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/0SV8Fc8l7S3tRNUBUTgkqy) | 4:36 | 2022-04-13 |  |
+| [µ\-Ziq Theme](https://open.spotify.com/track/1fwH44zNWFYUc1OAwSIbkd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/0SV8Fc8l7S3tRNUBUTgkqy) | 4:36 | 2022-04-13 | 2022-09-10 |
 | [µ\-Ziq Theme](https://open.spotify.com/track/71SdX5avHceBTkacN935ri) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:36 | 2022-04-13 | 2022-07-28 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

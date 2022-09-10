@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-913 songs - 2 day 1 hr 12 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+914 songs - 2 day 1 hr 15 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-26 | 2021-06-27 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-06 |
 | [Kongolais mauvais \(feat\. Ninho\)](https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 3:49 | 2022-04-02 | 2022-04-08 |
+| [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-09 |  |
 | [L'immortale](https://open.spotify.com/track/6cNYlucWa8j36Md5WZvJHZ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [L'immortale](https://open.spotify.com/album/5n0MyCjuYp05LEpWXPidyy) | 3:04 | 2021-09-26 | 2021-09-27 |
 | [L'odeur de l'essence](https://open.spotify.com/track/4c3TC1eWvz6BgOqSlOAKdT) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:42 | 2021-11-21 | 2022-02-16 |
 | [L'odeur de l'essence](https://open.spotify.com/track/5BBs3RhjLk4PB3LMz6k6AW) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [L'odeur de l'essence](https://open.spotify.com/album/5DxTpZ7X4e9cFXbRkyeaw0) | 4:42 | 2021-11-19 | 2021-11-21 |
@@ -461,7 +462,7 @@
 | [La solassitude](https://open.spotify.com/track/09IE6tsb0tL0VLGH4GxCOO) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:02 | 2022-03-05 | 2022-03-14 |
 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 | 2021-12-12 | 2022-05-22 |
 | [La vie d’après](https://open.spotify.com/track/0VVUKYAmACrTR3vYwc9tqz) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 6:48 | 2022-06-25 | 2022-06-27 |
-| [La vie qu'on mène](https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Destin](https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k) | 3:13 | 2021-10-16 |  |
+| [La vie qu'on mène](https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Destin](https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k) | 3:13 | 2021-10-16 | 2022-09-10 |
 | [La zalousie \(Interlude\)](https://open.spotify.com/track/59bW1eaRMxhMQlGvDhCTPW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 0:47 | 2021-11-14 | 2021-11-14 |
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |
 | [Lampadaire, Pt\. 2](https://open.spotify.com/track/2cPgZizcWA8NkBTnXv68gL) | [Osirus Jack](https://open.spotify.com/artist/3p6dh3Zn4fVXJatMy3Xqzq), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Nouvelle Ère](https://open.spotify.com/album/3oQyml9risLFydUdMy9Ixf) | 3:26 | 2022-02-23 | 2022-02-25 |

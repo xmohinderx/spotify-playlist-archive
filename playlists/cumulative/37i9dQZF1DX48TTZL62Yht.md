@@ -4,7 +4,7 @@
 
 > The songs you just keep coming back to\. Cover: Nicki Minaj
 
-595 songs - 1 day 6 hr 26 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
+596 songs - 1 day 6 hr 29 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Camelot](https://open.spotify.com/track/4sWuPniHClkInYAnzXAYUF) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Camelot](https://open.spotify.com/album/5tdGgaiW18D6bjHFLhtblL) | 2:28 | 2022-04-01 | 2022-04-17 |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2022-02-04 | 2022-07-29 |
 | [Canada Breeze \(feat\. Pressa\)](https://open.spotify.com/track/2JhgWdWYaK81My49mZLTTE) | [Dough\-Boy](https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Canada Breeze \(feat\. Pressa\)](https://open.spotify.com/album/6Tu0YQHZmWUW0RtxoIPqFc) | 2:37 | 2022-01-07 | 2022-03-06 |
-| [Candy \(feat\. Trippie Redd\)](https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:36 | 2022-01-07 |  |
+| [Candy \(feat\. Trippie Redd\)](https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:36 | 2022-01-07 | 2022-09-10 |
 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 | 2022-07-28 | 2022-08-05 |
 | [Caroline](https://open.spotify.com/track/5GFDrUTLGJix84sNhjCG0g) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Caroline](https://open.spotify.com/album/2RnntA0TeD1mVGMxxbOPms) | 3:29 | 2022-04-01 | 2022-04-11 |
 | [Case Closed](https://open.spotify.com/track/3RvLAm0ESbUOUZOD7sF4xn) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer 2](https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv) | 3:47 | 2022-02-08 | 2022-07-19 |
@@ -131,6 +131,7 @@
 | [Dennis Rodman \(feat\. Tyga\)](https://open.spotify.com/track/0E72UaOjGEOHJliDjq6Ivw) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Floor Seats II](https://open.spotify.com/album/7o1zifwaRKlcJ7gmmXCyNW) | 3:18 | 2022-01-07 | 2022-07-27 |
 | [DFFRNT](https://open.spotify.com/track/3UyTGlly5MuILHn2bnOLZk) | [Lavi$h](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [DFFRNT](https://open.spotify.com/album/15Oa8UANcXA3a80piR1Wue) | 2:33 | 2022-04-01 | 2022-04-21 |
 | [Diamonds Drippin \(feat\. Young Smoke & Jay Whiss\)](https://open.spotify.com/track/47XrIknBWgyaBuwgLFcI1m) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD), [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Struggle Before Glory \(Deluxe\)](https://open.spotify.com/album/05JVSEWNfUVFdP35gOKDBE) | 3:10 | 2022-01-14 | 2022-03-09 |
+| [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-09-09 |  |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-04-08 | 2022-07-25 |
 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 | 2022-04-01 | 2022-04-20 |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-05-20 |  |

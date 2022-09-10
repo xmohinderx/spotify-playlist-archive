@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-101 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/21ZJXOfGM4gKgydddrz1Vq)
+102 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/21ZJXOfGM4gKgydddrz1Vq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [I Wish \- Raw](https://open.spotify.com/track/2U110D3cv4pWCi04QMQcF1) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/7KUycbr4gbHJnpW4RmoC2B) | 2:55 | 2022-02-24 | 2022-07-29 |
 | [Issa Snack](https://open.spotify.com/track/5YpSruBBOaIHNGu5aNDeT9) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT) | [Do This Riddim](https://open.spotify.com/album/1cvkRbxgIbpekbmOoxbrYh) | 3:03 | 2020-09-25 |  |
 | [It Ain't Me](https://open.spotify.com/track/4VCNJoI3aRQevBrvu6WRIo) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2020](https://open.spotify.com/album/6n7s47MvtPNdP5l4IxVVKH) | 2:22 | 2020-09-25 | 2022-07-29 |
-| [Kiss](https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 2:31 | 2022-02-24 |  |
+| [Kiss](https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 2:31 | 2022-02-24 | 2022-09-10 |
 | [Kiss](https://open.spotify.com/track/0MxxWHbOpqdF9f1O9jCw8L) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/7aBnHH25YAEGR3y2tuEfDv) | 2:31 | 2020-09-25 | 2022-07-28 |
 | [Like Dat](https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/5l7lnLGSa1TFfpKQioDPI0) | 2:16 | 2022-02-24 |  |
 | [Lookin' for China](https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Lookin' for China](https://open.spotify.com/album/6md8CnJ0pfv57rx9QFhdK4) | 3:08 | 2020-09-25 | 2022-07-25 |
@@ -73,6 +73,7 @@
 | [Rough Wine](https://open.spotify.com/track/1ocvBpgOHbD0vtnhD0cJSM) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Physique Riddim \(Soca 2018 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/1sd4esKKoH3QuUgHt5Pvz1) | 3:23 | 2020-09-25 | 2022-07-27 |
 | [Rough Wine](https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Physique Riddim \(Soca 2018 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG) | 3:23 | 2022-02-24 |  |
 | [Run Wid It](https://open.spotify.com/track/11GMCyq17gZQn82crt0HTb) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/7CYbS4gvsMilj7IxwKvgpC) | 3:11 | 2020-09-25 | 2022-07-29 |
+| [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 | 2022-02-24 |  |
 | [Run Wid It](https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq) | 3:11 | 2022-02-24 | 2022-08-31 |
 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 | 2020-09-25 |  |
 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 | 2022-02-24 |  |

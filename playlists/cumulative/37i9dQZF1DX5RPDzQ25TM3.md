@@ -4,7 +4,7 @@
 
 > Make like it's 2009 \#SpotifyTBT
 
-69 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/4FcT5R3jukWGTpwlxw1INW)
+70 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/4FcT5R3jukWGTpwlxw1INW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Womanizer](https://open.spotify.com/track/7aE1vrBiMH5CNQj7uvt3X3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Womanizer](https://open.spotify.com/album/3E8wLbIjZxnKxWR9RAFSpS) | 3:43 | 2021-11-23 | 2022-07-29 |
 | [Womanizer](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:44 | 2021-11-23 |  |
 | [You Belong With Me](https://open.spotify.com/track/6mqdunuFFSODHKcpDTFvAj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2s9WRNoIFC7gxnorPhbQQA) | 3:50 | 2021-11-23 | 2022-07-29 |
-| [You Belong With Me](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:51 | 2021-11-23 |  |
+| [You Belong With Me](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:51 | 2021-11-23 | 2022-09-10 |
+| [You Belong With Me](https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:52 | 2021-11-23 |  |
 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 | 2021-11-23 |  |
 | [You Found Me](https://open.spotify.com/track/2zjDv3FWXNdGEmXmIYf1yV) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [You Found Me](https://open.spotify.com/album/2bE8GcQ4FpUrYaPwZpg9QL) | 4:03 | 2021-11-23 | 2022-07-29 |
 

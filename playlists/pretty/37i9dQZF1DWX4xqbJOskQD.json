@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1211,
+  "num_followers": 1213,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDdjYWE3ZDI0NmVlNzY0MzhjYmNhOWZhNzFkMjE4NTQ4",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMGI1ODdkMzc4NTViMTM4ZTE0ZWI5YTE3MTBiMTU0YWE3",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Hits Singles: Collectors Series",
+        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "duration_ms": 151768,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
+    },
+    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
@@ -279,22 +295,6 @@
       "duration_ms": 191306,
       "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Hits Singles: Collectors Series",
-        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 151768,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -695,18 +695,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
-        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
+        "name": "Best Of The Four Coins",
+        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
       },
       "artists": [
         {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+          "name": "The Four Coins",
+          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Ain't Gonna Worry 'Bout a Soul",
-      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+      "duration_ms": 139520,
+      "name": "My One Sin",
+      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Best Of The Four Coins",
-        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
+        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
+        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
       },
       "artists": [
         {
-          "name": "The Four Coins",
-          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
         }
       ],
-      "duration_ms": 139520,
-      "name": "My One Sin",
-      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
+      "duration_ms": 157826,
+      "name": "Ain't Gonna Worry 'Bout a Soul",
+      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
     },
     {
       "added_at": "2020-08-17 22:49:59",

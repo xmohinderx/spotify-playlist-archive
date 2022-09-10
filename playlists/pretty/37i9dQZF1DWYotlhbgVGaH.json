@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 101068,
+  "num_followers": 101097,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDlhNTc2ZTU0ZTY0N2JmNzg2NGQ2NjlmYjM3YWJlNWVi",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDUzMWM0ZGZjYThjNTBlN2QzNDdlZWFjMTliYWYyZmZm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Come Out Swingin'",
-        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
-      },
-      "artists": [
-        {
-          "name": "Steve Lucky & The Rhumba Bums",
-          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
-        }
-      ],
-      "duration_ms": 280493,
-      "name": "Jumptown",
-      "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "The Romper Room",
         "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 135146,
       "name": "Hey Se\u00f1orita",
       "url": "https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Come Out Swingin'",
+        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
+      },
+      "artists": [
+        {
+          "name": "Steve Lucky & The Rhumba Bums",
+          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "Jumptown",
+      "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "I Dare You!",
-        "url": "https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2"
-      },
-      "artists": [
-        {
-          "name": "Blue Harlem",
-          "url": "https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "I Dare You Baby",
-      "url": "https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Superhero Swinger Undercover",
         "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 238306,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "I Dare You!",
+        "url": "https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2"
+      },
+      "artists": [
+        {
+          "name": "Blue Harlem",
+          "url": "https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "I Dare You Baby",
+      "url": "https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw"
     },
     {
       "added_at": "2022-03-28 19:13:18",

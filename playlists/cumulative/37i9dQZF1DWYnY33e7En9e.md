@@ -4,7 +4,7 @@
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-428 songs - 1 day 5 hr 51 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
+429 songs - 1 day 5 hr 54 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Fox on the Run \- Single Version](https://open.spotify.com/track/2fpKkOzGcJ1tnBDnu8kJmp) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Sweet Best](https://open.spotify.com/album/710mrF7sQJjTraiDVjVE49) | 3:22 | 2021-05-19 | 2022-07-25 |
 | [Free Bird](https://open.spotify.com/track/4qsAYBCJnu2OkTKUVbbOF1) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [\(Pronounced 'Leh\-'Nérd 'Skin\-'Nérd\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 9:18 | 2021-05-19 | 2022-06-15 |
 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 | 2021-05-19 |  |
-| [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2021-05-19 |  |
+| [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2021-05-19 | 2022-09-10 |
 | [Fresh Is the Word](https://open.spotify.com/track/3xXqAG8sqWUIutBUvizuXJ) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [Classic Hip Hop Jams](https://open.spotify.com/album/0B4gaSpND6QLt8uPnoeG8m) | 5:17 | 2021-05-19 | 2022-03-09 |
 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 | 2021-05-19 | 2022-07-22 |
 | [Game of Pricks](https://open.spotify.com/track/0IOsyajRwGLKRpbIBEsTdm) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/0d72ueyZJ4Hiplg0jebzGM) | 1:33 | 2021-05-19 | 2022-07-17 |
@@ -299,6 +299,7 @@
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2021-05-19 | 2022-06-27 |
 | [Rich Girl](https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 2:24 | 2021-05-19 | 2022-04-26 |
 | [Rock And Roll All Nite](https://open.spotify.com/track/7990Xs9HQx7FXVIDVPEwj9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(Remastered Version\)](https://open.spotify.com/album/2hMjDSywkwY2HxjmWObpoI) | 2:48 | 2021-05-19 | 2022-07-29 |
+| [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2021-05-19 |  |
 | [Rock Lobster](https://open.spotify.com/track/0rme3FLbw5o1KLXpJzivjS) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [B\-52's](https://open.spotify.com/album/4VcKXOCUzcrxltYt0Jyqfk) | 6:52 | 2021-05-19 | 2022-07-24 |
 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2021-05-19 | 2022-07-22 |
 | [Rock the Night](https://open.spotify.com/track/4NffXDmI70vw19P5Efoe0T) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Playlist: The Very Best Of Europe](https://open.spotify.com/album/305Ae8uvs0wDqSGGOyBq1Z) | 4:07 | 2021-05-19 | 2022-07-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 96356,
+  "num_followers": 96445,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDFlN2JlYWQxMzBhMzA4MmQxM2JmMDY3ZjlmZTQ1MGE2",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGNjNDBmNjQ0ZDI2NGQxZTY1NzNiNjc0ZDYwNTlmODFh",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/0AdeVqrnbX2SeC9RGVgJWm"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Typical of Me EP",
-        "url": "https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "James",
-      "url": "https://open.spotify.com/track/0crjAWE1C7tHdQArfhSMut"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
@@ -387,6 +371,22 @@
       "duration_ms": 207000,
       "name": "Come Away With Me - Alternate Version",
       "url": "https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "James",
+      "url": "https://open.spotify.com/track/0crjAWE1C7tHdQArfhSMut"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -913,20 +913,40 @@
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
     },
     {
-      "added_at": "2022-07-18 12:24:10",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "It Could Happen to You",
-        "url": "https://open.spotify.com/album/5eLzriz99PfQs49eCfHAZ6"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
       },
       "artists": [
         {
-          "name": "Judy Whitmore",
-          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+        },
+        {
+          "name": "Seamus Blake",
+          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
+        },
+        {
+          "name": "M\u00e5rten Lundgren",
+          "url": "https://open.spotify.com/artist/0SnwpOHFkjrgXRZ0QBRfUU"
+        },
+        {
+          "name": "Martin Sj\u00d6stedt",
+          "url": "https://open.spotify.com/artist/6bdkZsFJke5IhwIe7MEK8Y"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
         }
       ],
-      "duration_ms": 212906,
-      "name": "It Could Happen to You",
-      "url": "https://open.spotify.com/track/6rZWAzKugoYcEqlhPN9DWv"
+      "duration_ms": 364506,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -973,42 +993,6 @@
       "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
-      },
-      "artists": [
-        {
-          "name": "Vivian Buczek",
-          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
-        },
-        {
-          "name": "Seamus Blake",
-          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
-        },
-        {
-          "name": "M\u00e5rten Lundgren",
-          "url": "https://open.spotify.com/artist/0SnwpOHFkjrgXRZ0QBRfUU"
-        },
-        {
-          "name": "Martin Sj\u00d6stedt",
-          "url": "https://open.spotify.com/artist/6bdkZsFJke5IhwIe7MEK8Y"
-        },
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 364506,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
@@ -1027,6 +1011,22 @@
       "duration_ms": 371170,
       "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
       "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
+    },
+    {
+      "added_at": "2022-07-18 12:24:10",
+      "album": {
+        "name": "It Could Happen to You",
+        "url": "https://open.spotify.com/album/5eLzriz99PfQs49eCfHAZ6"
+      },
+      "artists": [
+        {
+          "name": "Judy Whitmore",
+          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/6rZWAzKugoYcEqlhPN9DWv"
     },
     {
       "added_at": "2021-11-12 04:00:00",
@@ -1059,22 +1059,6 @@
       "duration_ms": 248469,
       "name": "Language of Love (Version with Orchestra)",
       "url": "https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8"
-    },
-    {
-      "added_at": "2022-06-06 13:59:05",
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -1113,6 +1097,22 @@
       "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
     },
     {
+      "added_at": "2022-06-06 13:59:05",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
+    },
+    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "Love Tastes Like Strawberries",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/3vYbPjjemMP62On3l9bgwp"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "I Feel Foolish",
-        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Feel Foolish",
-      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Some Other Time",
@@ -1193,24 +1177,20 @@
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "C\u2019est Magnifique",
-        "url": "https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN"
+        "name": "I Feel Foolish",
+        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Ant\u00f3nio Zambujo",
-          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 292146,
-      "name": "C\u2019est Magnifique",
-      "url": "https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ"
+      "duration_ms": 189186,
+      "name": "I Feel Foolish",
+      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
     },
     {
       "added_at": "2022-07-29 15:21:35",
@@ -1261,6 +1241,42 @@
       "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "C\u2019est Magnifique",
+        "url": "https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        }
+      ],
+      "duration_ms": 292146,
+      "name": "C\u2019est Magnifique",
+      "url": "https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Be My Valentine",
+        "url": "https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 216469,
+      "name": "Be My Valentine",
+      "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "That's All",
@@ -1287,22 +1303,6 @@
       "duration_ms": 247208,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fccK8WxSPWlt9lolJqM6u"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Be My Valentine",
-        "url": "https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 216469,
-      "name": "Be My Valentine",
-      "url": "https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e"
     },
     {
+      "added_at": "2022-03-04 05:02:00",
+      "album": {
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 163997,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD"
+    },
+    {
       "added_at": "2022-07-29 15:21:35",
       "album": {
         "name": "Crazy He Calls Me",
@@ -1405,22 +1421,6 @@
       "url": "https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "A Nightingale Sang in Berkeley Square",
-        "url": "https://open.spotify.com/album/61WnLVI6BAd9DcsVOVXaF5"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 185531,
-      "name": "A Nightingale Sang in Berkeley Square",
-      "url": "https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Laura Goes East",
@@ -1435,38 +1435,6 @@
       "duration_ms": 169046,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn"
-    },
-    {
-      "added_at": "2022-03-04 05:02:00",
-      "album": {
-        "name": "Ghost Song",
-        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 163997,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "What a Difference a Day Makes - Cuando Vuelva a Tu Lado",
-        "url": "https://open.spotify.com/album/08bzhXxdKoTByzUietI8DR"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 162144,
-      "name": "What a Difference a Day Makes - Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/37xXP9RkGODzUmzBVPAh41"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1493,48 +1461,20 @@
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
     },
     {
-      "added_at": "2022-06-10 04:01:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Strange Harbors",
-        "url": "https://open.spotify.com/album/3kQVjBANhSLpIWnQr7SuKN"
+        "name": "A Nightingale Sang in Berkeley Square",
+        "url": "https://open.spotify.com/album/61WnLVI6BAd9DcsVOVXaF5"
       },
       "artists": [
         {
-          "name": "Matt Block",
-          "url": "https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP"
-        },
-        {
-          "name": "Morton Block",
-          "url": "https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 298958,
-      "name": "Strange Harbors",
-      "url": "https://open.spotify.com/track/5B3pTFpdqvMwku6ysdXGJp"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Broadway By Day",
-        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
-      },
-      "artists": [
-        {
-          "name": "Spencer Day",
-          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "If I Loved You",
-      "url": "https://open.spotify.com/track/6mMaZQLLPCMxOWhTjBpRkW"
+      "duration_ms": 185531,
+      "name": "A Nightingale Sang in Berkeley Square",
+      "url": "https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1565,6 +1505,66 @@
       "url": "https://open.spotify.com/track/7yrPfSmKX8q8y2DWgmmzOM"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "What a Difference a Day Makes - Cuando Vuelva a Tu Lado",
+        "url": "https://open.spotify.com/album/08bzhXxdKoTByzUietI8DR"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 162144,
+      "name": "What a Difference a Day Makes - Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/37xXP9RkGODzUmzBVPAh41"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+      },
+      "artists": [
+        {
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "If I Loved You",
+      "url": "https://open.spotify.com/track/6mMaZQLLPCMxOWhTjBpRkW"
+    },
+    {
+      "added_at": "2022-06-10 04:01:00",
+      "album": {
+        "name": "Strange Harbors",
+        "url": "https://open.spotify.com/album/3kQVjBANhSLpIWnQr7SuKN"
+      },
+      "artists": [
+        {
+          "name": "Matt Block",
+          "url": "https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP"
+        },
+        {
+          "name": "Morton Block",
+          "url": "https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 298958,
+      "name": "Strange Harbors",
+      "url": "https://open.spotify.com/track/5B3pTFpdqvMwku6ysdXGJp"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Make It Last",
@@ -1579,22 +1579,6 @@
       "duration_ms": 281533,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Barth",
-          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
-        }
-      ],
-      "duration_ms": 266138,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
     },
     {
       "added_at": "2021-06-01 17:36:12",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
       },
       "artists": [
         {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+          "name": "Jocelyn Barth",
+          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
         }
       ],
-      "duration_ms": 334933,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
+      "duration_ms": 266138,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1647,6 +1631,50 @@
       "duration_ms": 225806,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 334933,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "The Show Must Go On",
+        "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
+      },
+      "artists": [
+        {
+          "name": "Johanna Pettersson",
+          "url": "https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0"
+        },
+        {
+          "name": "Filip Ekestubbe",
+          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
+        },
+        {
+          "name": "Tomas Sj\u00f6dell",
+          "url": "https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv"
+        },
+        {
+          "name": "Adam Ross",
+          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
+        }
+      ],
+      "duration_ms": 309426,
+      "name": "Too Late Now",
+      "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1685,34 +1713,6 @@
       "url": "https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "The Show Must Go On",
-        "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
-      },
-      "artists": [
-        {
-          "name": "Johanna Pettersson",
-          "url": "https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0"
-        },
-        {
-          "name": "Filip Ekestubbe",
-          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
-        },
-        {
-          "name": "Tomas Sj\u00f6dell",
-          "url": "https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv"
-        },
-        {
-          "name": "Adam Ross",
-          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
-        }
-      ],
-      "duration_ms": 309426,
-      "name": "Too Late Now",
-      "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
-    },
-    {
       "added_at": "2022-05-27 04:02:00",
       "album": {
         "name": "Twinkle Twinkle",
@@ -1739,6 +1739,22 @@
       "duration_ms": 267993,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Postcards from Rome",
+        "url": "https://open.spotify.com/album/1qLqMbPRWYzAnayDAPrgP1"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "duration_ms": 135815,
+      "name": "Postcards from Rome",
+      "url": "https://open.spotify.com/track/4rSmfAclQdk1yKjwxXLtMQ"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1785,22 +1801,6 @@
       "url": "https://open.spotify.com/track/1KTaQ86FXc2K1yQg6aSWeq"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Postcards from Rome",
-        "url": "https://open.spotify.com/album/1qLqMbPRWYzAnayDAPrgP1"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        }
-      ],
-      "duration_ms": 135815,
-      "name": "Postcards from Rome",
-      "url": "https://open.spotify.com/track/4rSmfAclQdk1yKjwxXLtMQ"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Indigo",
@@ -1827,22 +1827,6 @@
       "duration_ms": 448640,
       "name": "From a Mother to a Child",
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Ghost Song",
-        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 202792,
-      "name": "Ghost Song",
-      "url": "https://open.spotify.com/track/1xmDUGW9kpDCSlifhKJO7G"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1879,6 +1863,38 @@
       "duration_ms": 307600,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "I Get A Kick Out Of You",
+        "url": "https://open.spotify.com/album/5XPgqAzI6atpfpxdzK17p0"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 202792,
+      "name": "Ghost Song",
+      "url": "https://open.spotify.com/track/1xmDUGW9kpDCSlifhKJO7G"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1929,20 +1945,28 @@
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
     },
     {
-      "added_at": "2022-05-02 15:27:28",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Blossom's Blues",
-        "url": "https://open.spotify.com/album/0G07A2zQJ41n8kRJdMw24w"
+        "name": "KARNEVAL",
+        "url": "https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL"
       },
       "artists": [
         {
-          "name": "Judith Owen",
-          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "STS",
+          "url": "https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB"
+        },
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6"
         }
       ],
-      "duration_ms": 207682,
-      "name": "Blossom's Blues",
-      "url": "https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx"
+      "duration_ms": 104998,
+      "name": "My Parade",
+      "url": "https://open.spotify.com/track/72C3qcVhTWmaN8K2ijM3I5"
     },
     {
       "added_at": "2022-06-06 13:59:05",
@@ -1963,6 +1987,22 @@
       "duration_ms": 174066,
       "name": "I'm in a Mess (feat. Samara Joy)",
       "url": "https://open.spotify.com/track/67EzBKdJSiSZmq9q5Ustyz"
+    },
+    {
+      "added_at": "2022-05-02 15:27:28",
+      "album": {
+        "name": "Blossom's Blues",
+        "url": "https://open.spotify.com/album/0G07A2zQJ41n8kRJdMw24w"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "duration_ms": 207682,
+      "name": "Blossom's Blues",
+      "url": "https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1997,22 +2037,6 @@
       "url": "https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM"
     },
     {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "I Get A Kick Out Of You",
-        "url": "https://open.spotify.com/album/5XPgqAzI6atpfpxdzK17p0"
-      },
-      "artists": [
-        {
-          "name": "Nikki Yanofsky",
-          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Alone Together",
@@ -2027,30 +2051,6 @@
       "duration_ms": 250004,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/4Xvm5OFMhE0iaaBJKPfhcx"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "KARNEVAL",
-        "url": "https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL"
-      },
-      "artists": [
-        {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        },
-        {
-          "name": "STS",
-          "url": "https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB"
-        },
-        {
-          "name": "Jordan Brown",
-          "url": "https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6"
-        }
-      ],
-      "duration_ms": 104998,
-      "name": "My Parade",
-      "url": "https://open.spotify.com/track/72C3qcVhTWmaN8K2ijM3I5"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -2105,6 +2105,22 @@
       "url": "https://open.spotify.com/track/4LFtCJkH995aMpERGP7jxf"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
+        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
+      },
+      "artists": [
+        {
+          "name": "Sara Colman",
+          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
+        }
+      ],
+      "duration_ms": 232522,
+      "name": "Chelsea Morning",
+      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
+    },
+    {
       "added_at": "2022-06-06 13:59:05",
       "album": {
         "name": "Delta Lady",
@@ -2123,18 +2139,18 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Ink on a Pin - A Celebration of Joni Mitchell",
-        "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
       },
       "artists": [
         {
-          "name": "Sara Colman",
-          "url": "https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 232522,
-      "name": "Chelsea Morning",
-      "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
+      "duration_ms": 238266,
+      "name": "Jim",
+      "url": "https://open.spotify.com/track/78B0mMslheydwHR5BDyz2l"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -2153,22 +2169,6 @@
       "url": "https://open.spotify.com/track/1NENHY9ZNId9QP2NFs97xN"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Jim",
-      "url": "https://open.spotify.com/track/78B0mMslheydwHR5BDyz2l"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Come Fly with Me",
@@ -2183,26 +2183,6 @@
       "duration_ms": 211813,
       "name": "Come Fly with Me",
       "url": "https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP"
-    },
-    {
-      "added_at": "2022-07-29 15:21:35",
-      "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/0Oxzmmp66dQWm1NH2A3OCc"
-      },
-      "artists": [
-        {
-          "name": "Monty Alexander",
-          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
-        },
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 296739,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/52VpkOqWWNzWNGgxJhsyYT"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -2233,20 +2213,24 @@
       "url": "https://open.spotify.com/track/5UmSpoIcHl74x58dleXMul"
     },
     {
-      "added_at": "2022-07-08 04:01:00",
+      "added_at": "2022-07-29 15:21:35",
       "album": {
-        "name": "Soul Sister",
-        "url": "https://open.spotify.com/album/2gGrZXCH7xxE7bLguOKf7c"
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/0Oxzmmp66dQWm1NH2A3OCc"
       },
       "artists": [
         {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
         }
       ],
-      "duration_ms": 252546,
-      "name": "Soul Sister",
-      "url": "https://open.spotify.com/track/4P9mSalhiDdgYmuEUwVT7h"
+      "duration_ms": 296739,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/52VpkOqWWNzWNGgxJhsyYT"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -2283,6 +2267,26 @@
       "duration_ms": 256685,
       "name": "There You Are",
       "url": "https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "89",
+        "url": "https://open.spotify.com/album/0Xb3mBi85rwbCZPRRMqaCy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Gabriel",
+          "url": "https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 372226,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/3Oc5cC5x5dNFyyc3wDDXe2"
     }
   ],
   "unique_name": "Vocal Jazz",

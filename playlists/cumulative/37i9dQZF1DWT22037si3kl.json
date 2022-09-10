@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: BIN, MC Ryan SP",
+  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Brand\u00e3o85",
   "name": "O Drip",
   "published_playlist_ids": [
     "5jkslhwBFHauhbdOEgkwD4"
@@ -1622,6 +1622,28 @@
     },
     {
       "album": {
+        "name": "Longe",
+        "url": "https://open.spotify.com/album/7ITDtj5kpJ2BfVYSAwGPkZ"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154818,
+      "name": "Longe",
+      "url": "https://open.spotify.com/track/4ZublBKLDU0UFxmfOXJECf"
+    },
+    {
+      "album": {
         "name": "Luisa Sonza",
         "url": "https://open.spotify.com/album/7DKaKvHaWIr1jsQOT5csOq"
       },
@@ -1807,6 +1829,24 @@
       "duration_ms": 208031,
       "name": "Money Rain",
       "url": "https://open.spotify.com/track/43xN94U5MAyfDOFdqwGxWw"
+    },
+    {
+      "album": {
+        "name": "Monza Drift 2",
+        "url": "https://open.spotify.com/album/5XkMNAzloX0jsHw0R33fTK"
+      },
+      "artists": [
+        {
+          "name": "Denov",
+          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141200,
+      "name": "Monza Drift 2",
+      "url": "https://open.spotify.com/track/4pq4nXtpCEJgkh7T1D1Y1R"
     },
     {
       "album": {
@@ -2369,7 +2409,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 146938,
       "name": "Pe\u00e7a na Cintura",
       "url": "https://open.spotify.com/track/3GqvAQfTgJHUKvYGr4wU5e"
@@ -2479,7 +2519,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 125405,
       "name": "Polo",
       "url": "https://open.spotify.com/track/0qZCXSCeZZB238Vmk28XMC"
@@ -2571,10 +2611,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 156521,
       "name": "Quadriciclo",
       "url": "https://open.spotify.com/track/0J8LV0mKp1a2mBeiJTv1xZ"
+    },
+    {
+      "album": {
+        "name": "Refletor",
+        "url": "https://open.spotify.com/album/3fwhdNxed1L9zxTluWonv8"
+      },
+      "artists": [
+        {
+          "name": "Leo Square",
+          "url": "https://open.spotify.com/artist/57CgCHg9tluOxlrr7G9ycz"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184325,
+      "name": "Refletor",
+      "url": "https://open.spotify.com/track/4louDiBCcamUQV5cmFtOpQ"
     },
     {
       "album": {

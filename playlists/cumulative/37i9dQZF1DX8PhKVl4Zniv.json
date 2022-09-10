@@ -1168,6 +1168,36 @@
     },
     {
       "album": {
+        "name": "Wait A Minute",
+        "url": "https://open.spotify.com/album/0bafe91fdkJPbIG8netbca"
+      },
+      "artists": [
+        {
+          "name": "Sputacular Musik",
+          "url": "https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V"
+        },
+        {
+          "name": "Ghost-Note",
+          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+        },
+        {
+          "name": "Nathan Myers",
+          "url": "https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L"
+        },
+        {
+          "name": "Ash Soan",
+          "url": "https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323386,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/6TqbMfB2VZZV7lYVvZ9Svz"
+    },
+    {
+      "album": {
         "name": "Multiplicity",
         "url": "https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG"
       },

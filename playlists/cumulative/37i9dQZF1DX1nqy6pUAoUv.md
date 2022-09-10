@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-219 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
+220 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Cycle](https://open.spotify.com/track/1HtbUYSTOQI8rSenhstELT) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Like The River Loves The Sea](https://open.spotify.com/album/17gQSZgGgvXMme3fqktfKT) | 3:50 | 2022-02-25 | 2022-08-19 |
 | [Cycle](https://open.spotify.com/track/4D6HO32tlBCeot00dXQxFA) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Like The River Loves The Sea](https://open.spotify.com/album/3zeMqL25WJ0yDzqNHO73DV) | 3:50 | 2021-10-13 | 2022-07-27 |
 | [Dance Around the Room with Me](https://open.spotify.com/track/3L1qEsuYOplV9bDFpuCMOq) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Dance Around the Room with Me](https://open.spotify.com/album/7EqXhW9ViNXbBFKMr8Urqb) | 2:58 | 2021-10-13 | 2022-07-29 |
+| [Dance Around the Room with Me](https://open.spotify.com/track/60fZwyISk4GPV6p5rs4LHu) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/6rnwrfo7Hh006stk2UZuiE) | 2:58 | 2022-02-25 |  |
 | [Debtors' Prison](https://open.spotify.com/track/5dyQtYRxhnBUs9rwuGCcGi) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Dustbowl Revival](https://open.spotify.com/album/1xfVWzbjzbpDLq9d4jXsH4) | 4:53 | 2021-10-13 | 2022-07-28 |
 | [Deep In Love](https://open.spotify.com/track/2ehQ2UuXplkqly0XBBAPud) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 5:09 | 2021-10-13 | 2022-07-29 |
 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 | 2022-02-25 |  |
@@ -225,7 +226,7 @@
 | [Workin's Too Hard](https://open.spotify.com/track/6Xsh0TEobnRSRkt2UAbAxc) | [Rayna Gellert](https://open.spotify.com/artist/5hdTooIsiN2OmvS449nJNd) | [Workin's Too Hard](https://open.spotify.com/album/3XQvByuWbdN8KxETcTQPZY) | 3:36 | 2021-10-13 | 2022-07-29 |
 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 | 2021-10-13 | 2022-07-29 |
 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 | 2021-10-13 |  |
-| [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 | 2022-02-25 |  |
+| [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 | 2022-02-25 | 2022-09-10 |
 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2021-10-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

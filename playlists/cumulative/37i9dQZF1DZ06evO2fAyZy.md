@@ -4,7 +4,7 @@
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 41 min - not published yet
+33 songs - 1 hr 44 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Love Song to the Earth](https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Johnny Rzeznik](https://open.spotify.com/artist/6VZlYTq8lqmm4EFmZwK2fQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Christina Grimmie](https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Q'orianka Kilcher](https://open.spotify.com/artist/1tHm53NBBuFigo0RrjqDfe) | [Love Song to the Earth](https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl) | 3:51 | 2022-09-08 |  |
 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 | 2022-09-08 |  |
 | [Music](https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:23 | 2022-09-08 |  |
-| [overshare](https://open.spotify.com/track/7exnPa3Da17WUEVuZwO3xp) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:50 | 2022-09-08 |  |
+| [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 | 2022-09-09 |  |
+| [overshare](https://open.spotify.com/track/7exnPa3Da17WUEVuZwO3xp) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:50 | 2022-09-08 | 2022-09-10 |
 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 | 2022-09-08 |  |
 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 | 2022-09-08 |  |
 | [THE LITTLE THINGS](https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [THE LITTLE THINGS](https://open.spotify.com/album/2ZMQtJp9Slw5uKYWnCgpSV) | 2:57 | 2022-09-08 |  |

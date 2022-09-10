@@ -4,11 +4,12 @@
 
 > beautiful beats for beautiful moments.
 
-214 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+215 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 | 2022-05-27 |  |
+| [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 | 2022-05-27 | 2022-09-10 |
+| [.Like a fool](https://open.spotify.com/track/7n87Oi2j5Us4eWhHu8zmpp) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/6VOj1qdMD9IwgeSnyhM54l) | 1:43 | 2022-09-09 |  |
 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 | 2022-05-27 |  |
 | [A Life of Joy](https://open.spotify.com/track/7J7t21e5SpLxm1yYJZeeZF) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/3ub5GRV9cYvsOhsSC3c3dS) | 3:15 | 2022-07-15 |  |
 | [A Love Note](https://open.spotify.com/track/3esFgJFazYY26i5YwOekDi) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1) | [A Love Note](https://open.spotify.com/album/0kzIwPWumx68D5eshhDX4D) | 2:06 | 2022-08-19 |  |

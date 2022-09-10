@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-63 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+64 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Can't Stop Thinkin' About You](https://open.spotify.com/track/4UIvHuPvd9r96KSE3boALB) | [Eli Teplin](https://open.spotify.com/artist/0WcAIG4jcHAwMBbCgk63F4), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Can't Stop Thinkin' About You](https://open.spotify.com/album/4Lv2KGGJpcF8Jnawi2reoa) | 3:01 | 2021-09-08 |  |
 | [Cars and Girls](https://open.spotify.com/track/1BbICvFlL56R0CUeckUYLg) | [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [So Much Light](https://open.spotify.com/artist/5YBaMP0Pkww9ZGvkVcrpTz) | [Cars and Girls](https://open.spotify.com/album/0pI6Cl27r0xlAkRYClymzF) | 4:32 | 2021-09-08 |  |
 | [Coasting](https://open.spotify.com/track/21htf4tYB35v8pn1bcpeUh) | [Stan Lodge](https://open.spotify.com/artist/7D0FwzVKkBBbFTaQuHkBtP), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Coasting](https://open.spotify.com/album/6hI5z9O39W1TFCUvnGARLM) | 3:27 | 2021-09-08 |  |
+| [Daygrooves](https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Equilibrium](https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt) | 1:59 | 2022-09-09 |  |
 | [Finding Home](https://open.spotify.com/track/2Eq4vwSxJrDsnl05zrFUPY) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Soul Feather](https://open.spotify.com/album/3X4BkDqWNOyXOIqYUBIlVx) | 2:14 | 2021-09-08 |  |
 | [Flamingo](https://open.spotify.com/track/0tosIMpbs0c3D026bob94l) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 2:56 | 2021-09-08 |  |
 | [Flamingo](https://open.spotify.com/track/4mH0YkiHRu0LF5hvx86ME9) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flutter](https://open.spotify.com/album/0AIhIiAotftWvQlP0qXyuu) | 2:56 | 2021-09-08 | 2022-07-29 |

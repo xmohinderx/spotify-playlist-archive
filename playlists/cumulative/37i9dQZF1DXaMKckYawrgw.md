@@ -4,7 +4,7 @@
 
 > Ska con cuadritos blancos, negros, y tricolores\. La Tremenda Korte en portada.
 
-136 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/7o4h9V9vhPDNT8jAt3VvIq)
+137 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/7o4h9V9vhPDNT8jAt3VvIq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 | 2022-03-18 | 2022-08-13 |
 | [Amnesia](https://open.spotify.com/track/4Uies5Apye1sR2TnH5pqhV) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Puro Rock \(CD3\)](https://open.spotify.com/album/6ILmoBtbVnAxn4U7ixVz3m) | 3:59 | 2022-03-18 | 2022-07-28 |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2022-03-18 |  |
+| [Amor Regresa \- Ska](https://open.spotify.com/track/3EttA2xMqB72QD0QKfdNFR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi), [La Carlota](https://open.spotify.com/artist/2vAqVndpW6XjSNHwNr1mIS) | [Amor Regresa \(Ska\)](https://open.spotify.com/album/4JyL7lepDPnxaVkZBY22mO) | 3:17 | 2022-09-09 |  |
 | [Amor tóxico](https://open.spotify.com/track/75GSBXTLE2TCAOvttgl3vf) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [New Lion Ska](https://open.spotify.com/artist/6wlAS7ETMMuzJiwEIHzFII) | [Amor tóxico](https://open.spotify.com/album/1rxsQtHulC55OUfd74A0nq) | 3:29 | 2022-04-23 |  |
 | [Arréglame el Alma \(feat\. Maria Barracuda\) \- En Vivo](https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 4:40 | 2022-03-18 |  |
 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 | 2022-03-18 |  |

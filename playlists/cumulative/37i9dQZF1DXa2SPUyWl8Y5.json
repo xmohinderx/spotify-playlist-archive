@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 358144,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
@@ -3122,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "Mars Express",
+        "url": "https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d"
+      },
+      "artists": [
+        {
+          "name": "Coeus",
+          "url": "https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411178,
+      "name": "Mars Express",
+      "url": "https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6"
+    },
+    {
+      "album": {
         "name": "Mascotte / Welmoed",
         "url": "https://open.spotify.com/album/3M2E7mItLFaYEBhJaVpfg5"
       },
@@ -4496,6 +4514,24 @@
     },
     {
       "album": {
+        "name": "Lift Off | Rewind",
+        "url": "https://open.spotify.com/album/2SaZPpZHSmLERdrpusWBhe"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429371,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/58pubss8RvyvlqQpElXt3c"
+    },
+    {
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/1aK3aNjgOdywDMZ1vBbrRo"
       },
@@ -4565,7 +4601,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 308000,
       "name": "Run",
       "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
@@ -4667,7 +4703,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 433564,
       "name": "Seige",
       "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
@@ -5355,6 +5391,24 @@
       "duration_ms": 438640,
       "name": "Test Tubes - Mind Against Celestial Dub",
       "url": "https://open.spotify.com/track/57AJBbhiC6du02a9wCPwws"
+    },
+    {
+      "album": {
+        "name": "The Elder",
+        "url": "https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD"
+      },
+      "artists": [
+        {
+          "name": "Light Below",
+          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "The Elder",
+      "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
     },
     {
       "album": {

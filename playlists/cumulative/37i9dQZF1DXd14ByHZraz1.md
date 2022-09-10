@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Alok
 
-88 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+89 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Come With Me](https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Come With Me](https://open.spotify.com/album/290BpL6mrDRNMUCEACrPeC) | 2:08 | 2022-01-21 |  |
 | [Commotion](https://open.spotify.com/track/2qf9Ad1hgLF5oM9SdMJdDU) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Commotion](https://open.spotify.com/album/5ohHaX4VvILtG1nOLh76uj) | 3:35 | 2022-04-08 |  |
 | [DANCE](https://open.spotify.com/track/5GCM43WZSWNxVh7JD6XN6b) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [DANCE](https://open.spotify.com/album/4T3lheq92o9cUCB7bnNQ6Q) | 2:28 | 2021-12-24 |  |
+| [Dancing](https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z) | [Dancing](https://open.spotify.com/album/10racGxkbniYEwyKcajmba) | 2:42 | 2022-09-09 |  |
 | [Delusional](https://open.spotify.com/track/1thWqWBc3uujDYspY1XxcL) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Rhōden](https://open.spotify.com/artist/0tMqOIq4kYn7jXmzL1fRss), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Delusional](https://open.spotify.com/album/2JpeFmcaX5PZKTpDQ3Yvjb) | 3:23 | 2021-12-24 |  |
 | [Desande](https://open.spotify.com/track/0Vch9aVnZkKXOYQfrvfFx3) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Desande](https://open.spotify.com/album/4NhkoRKK62JrNS0eznTYkU) | 3:42 | 2021-12-24 |  |
 | [Domino \(feat\. Oxia\)](https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino \(feat\. Oxia\)](https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl) | 2:38 | 2021-12-24 | 2022-07-30 |

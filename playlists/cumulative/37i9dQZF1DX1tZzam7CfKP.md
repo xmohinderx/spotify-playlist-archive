@@ -4,7 +4,7 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-53 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
+54 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cosmic Sans \(Syncopate & Motivate Live\)](https://open.spotify.com/track/2ANnYIAJOzJWJWOLvL2Y1y) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Syncopate & Motivate Tour \(Set 1\)](https://open.spotify.com/album/4e3jwkTC8elSXhuAItnuLy) | 3:31 | 2021-11-12 |  |
 | [Dance To The Music \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/1ONoh5Aag3erFA42iiqYO4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 4:28 | 2021-11-12 |  |
 | [Dr\. Funkenstein's Supergroovalisticprosifunkstication Medley \- Live/1977](https://open.spotify.com/track/3ZuK6t3vXaJ0BXZKtG77BZ) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Live: P Funk Earth Tour](https://open.spotify.com/album/4IXQ7jxYm9gUoGAccnDEAY) | 4:58 | 2021-11-12 |  |
+| [Fast Lane \- Live \(Remastered\)](https://open.spotify.com/track/1PdBabuRpBR8P3QiQf3Oow) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Hold Onto Your Dreams \[Live \(Remastered\)\]](https://open.spotify.com/album/1vnnqR8Vt3X8ynTC5SIIV1) | 4:51 | 2022-09-09 |  |
 | [Fencewalk](https://open.spotify.com/track/3y2ajMJw4VAsJOzoz5JhYX) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Live At Montreux Jazz Festival \- 2002](https://open.spotify.com/album/2RogfuDuOWjacuVLiIDJjt) | 5:15 | 2021-11-12 |  |
 | [Fight the Power \- Live](https://open.spotify.com/track/2Ypb73l8jpPQsfwsfHNa9y) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Live!](https://open.spotify.com/album/2mzfhtB3Rd81uxdvOKik76) | 5:14 | 2021-11-12 |  |
 | [Fire On the Bayou \- Live](https://open.spotify.com/track/1bczSibAGPsGL98oOqtLvf) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Uptown Rulers! Live on the Queen Mary](https://open.spotify.com/album/4OFlpfoLF5FRjF8EGNt98T) | 7:09 | 2021-11-12 |  |

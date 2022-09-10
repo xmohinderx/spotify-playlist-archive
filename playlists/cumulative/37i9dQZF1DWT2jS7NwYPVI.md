@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Cassyette
 
-766 songs - 1 day 16 hr 59 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+767 songs - 1 day 17 hr 2 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,8 @@
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 | 2022-04-02 |
 | [Validation](https://open.spotify.com/track/1I1inSPAYCKKyi8CUk36DG) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Validation](https://open.spotify.com/album/02qo5nqVims1IsSJMjXXXb) | 2:43 | 2021-12-10 | 2022-02-19 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-07-02 |
-| [Wait For Me](https://open.spotify.com/track/1Ma2hJZri3KLUr8Cc3foD9) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/6ObW1p8RsxkWN5MiphT43Z) | 2:57 | 2022-09-08 |  |
+| [Wait For Me](https://open.spotify.com/track/1Ma2hJZri3KLUr8Cc3foD9) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/6ObW1p8RsxkWN5MiphT43Z) | 2:57 | 2022-09-08 | 2022-09-10 |
+| [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2022-09-08 |  |
 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 | 2022-04-08 | 2022-05-07 |
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-05-06 | 2022-06-25 |
 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 | 2022-06-03 | 2022-08-06 |

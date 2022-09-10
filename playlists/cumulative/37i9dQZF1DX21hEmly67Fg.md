@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-71 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
+72 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bad Habits \- Piano Version](https://open.spotify.com/track/5J4NcyOSEjvKjOaJTPtYn3) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [Bad Habits \(Piano Version\)](https://open.spotify.com/album/7qmcWjavQC8OlHP6D8IGvP) | 3:23 | 2022-02-04 |  |
 | [Barbara / Arr Tharaud for Piano: J'ai tué l'amour](https://open.spotify.com/track/6lvsVdP4KobNe6WqZKqOyh) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Barbara](https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds) | 3:03 | 2021-11-25 |  |
 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 | 2021-11-25 |  |
-| [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-02-18 |  |
+| [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-02-18 |  |
 | [Beneath Your Beautiful](https://open.spotify.com/track/2VbY7KIocmOnyESMFJkvnk) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Floritatura](https://open.spotify.com/album/5XLiLgTWItJ7c7PHr8cpEk) | 3:58 | 2021-11-25 |  |
 | [Blackbird](https://open.spotify.com/track/2ZyU8CQHDDiI8MPfJh9k6R) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/4fJbW2aN9c9zSN8qWVEcWe) | 2:32 | 2022-07-15 |  |
 | [Blackbird](https://open.spotify.com/track/3gGtHBS7wV3oP9KEClHd4i) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/3VIL0T0cLNHDcNGO0WPNhh) | 2:32 | 2021-11-25 | 2022-07-29 |
@@ -55,6 +55,7 @@
 | [Life on Mars?](https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv) | [Mike Garson](https://open.spotify.com/artist/1BKXfC7Sr2gN3PlWcPBzX8) | [The Bowie Variations](https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR) | 5:28 | 2021-11-25 |  |
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2021-11-25 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Make You Feel My Love](https://open.spotify.com/album/60MO7vPyBBFzhsL7UBcxAJ) | 3:11 | 2021-11-25 |  |
+| [My Favorite Things](https://open.spotify.com/track/2sO7nF36wGywzAlM8mNsjM) | [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [My Favorite Things](https://open.spotify.com/album/0ssAbPbkdrAfNPMySXK3Xv) | 2:42 | 2022-09-09 |  |
 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 | 2021-11-25 |  |
 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 | 2021-11-25 |  |
 | [Nothing Compares To You](https://open.spotify.com/track/2tZw7jaxDXM7klb1lEL3u2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Nothing Compares To You](https://open.spotify.com/album/6pfu6QZu1gPxpzUXr73HzN) | 2:25 | 2021-11-25 |  |

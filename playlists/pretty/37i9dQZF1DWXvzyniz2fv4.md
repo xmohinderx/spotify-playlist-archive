@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,454 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,585 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 |
 | 2 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
 | 3 | [Idas e Vindas](https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Meucci](https://open.spotify.com/artist/7q5inmN8Sb3wfNtaLYZf8G), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Idas e Vindas](https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6) | 3:58 |
-| 4 | [O Último Xote do Ano](https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe), [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [O Último Xote do Ano](https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s) | 3:12 |
+| 4 | [De Manhã](https://open.spotify.com/track/73Er6bXtcym9mAJKqUuuP9) | [ProBeats](https://open.spotify.com/artist/590XVk6EtJK8V6G8S3ByVP), [Pedro Oldi](https://open.spotify.com/artist/0oqXUq2U1sd2ssSVYVwOgC), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [De Manhã](https://open.spotify.com/album/2AaLrOFuY9h2Rir8SU56nm) | 2:16 |
 | 5 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
 | 6 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 |
 | 7 | [Reggaezin Do LotHzin](https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a) | [Reggaezin Do LotHzin](https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy) | 2:47 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 64 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 |
 | 65 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 
-Snapshot ID: `MTY2MDc1NDU2NCwwMDAwMDAwMDI3MmMwYTBmNjI5M2I3Mzc5NWE1YjA0YjU1MzBlZjE3`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGU1OWNmMzY4ZmVjNmRlNTg0MjQxZWZmNzcyNTdhYjYx`

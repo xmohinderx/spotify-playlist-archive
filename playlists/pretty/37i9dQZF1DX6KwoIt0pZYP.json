@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 117025,
+  "num_followers": 117172,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzMDM3NSwwMDAwMDAwMGUyNWUxZTQwZGFhY2I3NDJkYzYyMGFkZTM2Mzg5NjAw",
+  "snapshot_id": "MTY2MjEzMDM3NSwwMDAwMDAwMDhhYjM5NzEzZDdjNzUyMWM3NDc1NTdlYTc0ZTY1ZWVm",
   "tracks": [
     {
       "added_at": "2022-09-02 14:52:55",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-09-02 14:52:55",
       "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+    },
+    {
+      "added_at": "2022-09-02 14:52:55",
+      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2022-09-02 14:52:55",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
         }
       ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2022-09-02 14:52:55",
@@ -903,22 +919,6 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
-    },
-    {
-      "added_at": "2022-09-02 14:52:55",
-      "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2022-09-02 14:52:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-02 14:52:55",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
-    },
-    {
-      "added_at": "2022-09-02 14:52:55",
-      "album": {
         "name": "Things I Could Never Say to You",
         "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 198466,
       "name": "Things I Could Never Say to You",
       "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
+    },
+    {
+      "added_at": "2022-09-02 14:52:55",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2022-09-02 14:52:55",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2022-09-02 14:52:55",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+        "name": "Two Bottles of Wine",
+        "url": "https://open.spotify.com/album/4JlWr9FBZx00tINFKzxixh"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Dead Bachelors",
+          "url": "https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+      "duration_ms": 206330,
+      "name": "Two Bottles of Wine",
+      "url": "https://open.spotify.com/track/3cqTlp6msJpd6iaGrp3UTs"
     },
     {
       "added_at": "2022-09-02 14:52:55",
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2022-09-02 14:52:55",
       "album": {
-        "name": "Two Bottles of Wine",
-        "url": "https://open.spotify.com/album/4JlWr9FBZx00tINFKzxixh"
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
       "artists": [
         {
-          "name": "Dead Bachelors",
-          "url": "https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6"
-        },
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 206330,
-      "name": "Two Bottles of Wine",
-      "url": "https://open.spotify.com/track/3cqTlp6msJpd6iaGrp3UTs"
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2022-09-02 14:52:55",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-09-02 14:52:55",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+    },
+    {
+      "added_at": "2022-09-02 14:52:55",
+      "album": {
         "name": "Binibini (Last Day On Earth)",
         "url": "https://open.spotify.com/album/0MsGCH9D7oBrAO9QrwZGXs"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 219692,
       "name": "Binibini (Last Day On Earth) (feat. James TW)",
       "url": "https://open.spotify.com/track/6j9kSGlYLZdZ9sZkY9DjzY"
-    },
-    {
-      "added_at": "2022-09-02 14:52:55",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2022-09-02 14:52:55",
@@ -1647,42 +1647,6 @@
     {
       "added_at": "2022-09-02 14:52:55",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF"
-      },
-      "artists": [
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP"
-    },
-    {
-      "added_at": "2022-09-02 14:52:55",
-      "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/6Y7fCc18cmVYNCs4wHpPpc"
-      },
-      "artists": [
-        {
-          "name": "Stamp",
-          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
-        },
-        {
-          "name": "Christopher Chu",
-          "url": "https://open.spotify.com/artist/1Qy8AVuvIVgC27FXE8Nvhl"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/45qZ8r4atGNjdFhhBy2Cvw"
-    },
-    {
-      "added_at": "2022-09-02 14:52:55",
-      "album": {
         "name": "the boy",
         "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
@@ -1695,6 +1659,42 @@
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+    },
+    {
+      "added_at": "2022-09-02 14:52:55",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2"
+    },
+    {
+      "added_at": "2022-09-02 14:52:55",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP"
     }
   ],
   "unique_name": "tapioca",

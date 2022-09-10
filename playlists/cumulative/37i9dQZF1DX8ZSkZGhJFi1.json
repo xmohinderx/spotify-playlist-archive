@@ -2357,10 +2357,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 192000,
       "name": "Track Smack",
       "url": "https://open.spotify.com/track/2ExGfjMMr5PDTicSk65xQd"
+    },
+    {
+      "album": {
+        "name": "VIBES",
+        "url": "https://open.spotify.com/album/3OACGrVtxvKdMLki5HDRyZ"
+      },
+      "artists": [
+        {
+          "name": "RICE / DJ Bucket",
+          "url": "https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Track Smack",
+      "url": "https://open.spotify.com/track/3eD2mfu97RybLSHMBzkVQN"
     },
     {
       "album": {

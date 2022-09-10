@@ -4,7 +4,7 @@
 
 > Marvvila e mais mulheres para serem ouvidas no máximo volume.
 
-407 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/5s7ZVpE0nPPM8ZlUIQWHHa)
+408 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/5s7ZVpE0nPPM8ZlUIQWHHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [As Forças da Natureza](https://open.spotify.com/track/1BsODykGZ6HPqitFa5Gzh2) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Sambabook João Nogueira, 1](https://open.spotify.com/album/1umdScdFpe3iYjKTddPRlb) | 3:24 | 2022-09-01 |  |
 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 | 2022-01-11 | 2022-08-04 |
 | [Açaí](https://open.spotify.com/track/6qkA0ra8EIW8eDNSbGQq61) | [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1) | [Açaí](https://open.spotify.com/album/3325Lnj3QGnNs1JnH4Qwq6) | 2:22 | 2022-04-06 | 2022-05-05 |
-| [Bangu](https://open.spotify.com/track/1GxDo7Fi4Kn2m9Bktkz20k) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Jojo Como Você Nunca Viu](https://open.spotify.com/album/5JIWAscQ13DjD2wNOkK3In) | 2:58 | 2022-09-01 |  |
+| [Bangu](https://open.spotify.com/track/1GxDo7Fi4Kn2m9Bktkz20k) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Jojo Como Você Nunca Viu](https://open.spotify.com/album/5JIWAscQ13DjD2wNOkK3In) | 2:58 | 2022-09-01 | 2022-09-10 |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-02-03 | 2022-08-04 |
 | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT) | 2:49 | 2022-06-01 | 2022-07-07 |
 | [Barzin da Vida \- Ao Vivo](https://open.spotify.com/track/6NRInHOn1adlOAJWkAsJSM) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Barzin da Vida \(Ao Vivo\)](https://open.spotify.com/album/3rXQ3nM0ooFhb6IyW18tHv) | 2:55 | 2022-01-11 | 2022-02-04 |
@@ -398,6 +398,7 @@
 | [Vento de Beirada](https://open.spotify.com/track/6JWcbPcdza77RdTS77nmsi) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Vento de Beirada](https://open.spotify.com/album/4xQXimlGlCJk56oyFF0KKa) | 3:03 | 2022-05-04 | 2022-06-01 |
 | [versace](https://open.spotify.com/track/5oabi3qmfZ6t7AMlRj5jqZ) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [versace](https://open.spotify.com/album/6JSaYPs983BY4E7I7VENjB) | 2:31 | 2022-03-08 | 2022-04-07 |
 | [Vi de Relance a Coroa](https://open.spotify.com/track/3yjLzfffXM1Vru4LWOtUzM) | [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Delta Estácio Blues](https://open.spotify.com/album/54Tpakfx5cDasE9X9EHOu3) | 3:33 | 2022-02-03 | 2022-03-09 |
+| [Video Caseiro](https://open.spotify.com/track/3hB1WZbng6mDmFnGt7EUYC) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Video Caseiro](https://open.spotify.com/album/74eq2PIoEW59ZhxEQ2CBry) | 2:06 | 2022-09-09 |  |
 | [Vitoriosa](https://open.spotify.com/track/5iZcFNrK1dqcLb2AXPaZ8U) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 4:51 | 2022-05-04 | 2022-06-01 |
 | [Você Me Vira A Cabeça \(Me Tira Do Sério\)](https://open.spotify.com/track/4RGRfGjhTxsCkLaHFF90Bq) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Paixão Tem Memória](https://open.spotify.com/album/0RHOy2yMiGSIctpV7ediQl) | 4:42 | 2022-09-01 |  |
 | [Você Não Sabe O Que É Ser Preto](https://open.spotify.com/track/7vYFysVfdzduikrVBdgibA) | [Elisa Fernandes](https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ) | [Você Não Sabe O Que É Ser Preto](https://open.spotify.com/album/4B2skCRNrwYRr0JCaM6gLx) | 3:17 | 2022-02-03 | 2022-03-09 |

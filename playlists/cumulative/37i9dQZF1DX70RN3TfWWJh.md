@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh.
 
-446 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/0oNDHtHD4l8OJ21wgmsuip)
+447 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/0oNDHtHD4l8OJ21wgmsuip)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Hell and High Water \(feat\. Alessia Cara\)](https://open.spotify.com/track/5C2ry6OWozoqrEDyBz7MOX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:25 | 2022-03-25 | 2022-04-04 |
 | [Hero](https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Hero](https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Hey Now \(Iko Iko\)](https://open.spotify.com/track/2wlfIduuDwZiAha3auaztw) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg), [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb), [Altur Santos](https://open.spotify.com/artist/022RWmmEi2RWjL5RsOPOqR) | [Hey Now \(Iko Iko\)](https://open.spotify.com/album/2QxD1CV4r9sJmtO8ogFd5u) | 2:49 | 2022-04-01 | 2022-04-19 |
-| [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-09-02 |  |
+| [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-09-02 | 2022-09-10 |
 | [High](https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:55 | 2022-05-13 | 2022-08-17 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-05-14 |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2022-03-25 | 2022-04-15 |
@@ -251,6 +251,7 @@
 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 | 2022-03-25 |  |
 | [Midnight Sky](https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Midnight Sky](https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51) | 3:43 | 2021-12-17 | 2022-04-19 |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2022-07-28 |  |
+| [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 |  |
 | [Mine](https://open.spotify.com/track/0lPZ8UNB5bmvhn7ba8faJi) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Mine](https://open.spotify.com/album/4eIMzMjOqP5xYIdH0NGAV3) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2021-12-17 | 2022-07-29 |
 | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/track/7s61Kg0qZhhFj5MQW7DDIB) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/album/2bl8B6G1wit5BFNtAwkX51) | 2:36 | 2021-12-17 | 2022-06-08 |

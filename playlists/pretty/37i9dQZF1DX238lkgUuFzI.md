@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,342 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,406 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 18 | [Katrina](https://open.spotify.com/track/7yrjPMQ4uRjV7cRYQczK2J) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:19 |
 | 19 | [Paparazzi](https://open.spotify.com/track/47enw9R1hdkfuxeSjoDQ0N) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Paparazzi](https://open.spotify.com/album/1NGhUyA2dieBwXzzCK4yye) | 3:12 |
 | 20 | [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 |
-| 21 | [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 |
+| 21 | [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 |
 | 22 | [REVIVED](https://open.spotify.com/track/2Cqr74oA90iffydKmgjwhp) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Records of the SMP](https://open.spotify.com/album/2DwYcQ2DCT7qvG67mM5KLN) | 2:33 |
 | 23 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 |
 | 24 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 |
 | 50 | [White Lie](https://open.spotify.com/track/6lZRybpY3OTgnufOBR91dg) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/5D2svNFAKRNgAOW1Tys68z) | 3:33 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDE2MmNlYjY0YzU5ZmVlNDI1OWQyN2I4ZDgzMDE2OGQw`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDgyMDczODM1ODViOWZmYzkxMWQyOWY4ODdhOGY0ODY5`

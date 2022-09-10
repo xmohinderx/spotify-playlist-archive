@@ -1,12 +1,12 @@
 {
   "description": "Keep on skating to the groovy boogie ",
-  "num_followers": 232398,
+  "num_followers": 232627,
   "original_name": "The Roller Rink ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODIwNiwwMDAwMDAwMGE4MTkwNDdiYjAwNzgzOTJlNTliYjI5YzMyMGU4YTNj",
+  "snapshot_id": "MTY2MDIzODIwNiwwMDAwMDAwMDhiN2RlZGQzMjc5NmMyZGY2MWYwZmJjMTc2MGQ3NDA0",
   "tracks": [
     {
       "added_at": "2022-07-27 21:04:47",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2022-07-27 21:04:47",
+      "album": {
         "name": "Check Out",
         "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
-    },
-    {
-      "added_at": "2022-07-27 21:04:47",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2022-07-27 21:04:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186181,
-      "name": "Your Teeth In My Neck",
-      "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"
-    },
-    {
-      "added_at": "2022-07-27 21:04:47",
-      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2022-07-27 21:04:47",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Your Teeth In My Neck",
+      "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"
     },
     {
       "added_at": "2022-07-27 21:04:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
-        "name": "Disco Essentials",
-        "url": "https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Get Down Saturday Night",
-      "url": "https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3"
-    },
-    {
-      "added_at": "2022-07-27 21:04:47",
-      "album": {
         "name": "Every 1's a Winner",
         "url": "https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 289266,
       "name": "Every 1's a Winner - Single Version",
       "url": "https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R"
+    },
+    {
+      "added_at": "2022-07-27 21:04:47",
+      "album": {
+        "name": "Disco Essentials",
+        "url": "https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3"
     },
     {
       "added_at": "2022-07-27 21:04:47",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
+        "name": "Toothache / Zoom",
+        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
+      },
+      "artists": [
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
+    },
+    {
+      "added_at": "2022-07-27 21:04:47",
+      "album": {
         "name": "Don't Start Now (Remixes)",
         "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
-        "name": "Toothache / Zoom",
-        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/2qqVy8a4qk9FCt00hal9vl"
       },
       "artists": [
         {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 223278,
-      "name": "Toothache",
-      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
+      "duration_ms": 227086,
+      "name": "Oh Sheit it's X",
+      "url": "https://open.spotify.com/track/6EidGY4S6hkU6fwNdSSabg"
     },
     {
       "added_at": "2022-07-27 21:04:47",
@@ -1267,22 +1283,6 @@
       "duration_ms": 272000,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
-    },
-    {
-      "added_at": "2022-07-27 21:04:47",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/2qqVy8a4qk9FCt00hal9vl"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 227086,
-      "name": "Oh Sheit it's X",
-      "url": "https://open.spotify.com/track/6EidGY4S6hkU6fwNdSSabg"
     },
     {
       "added_at": "2022-07-27 21:04:47",

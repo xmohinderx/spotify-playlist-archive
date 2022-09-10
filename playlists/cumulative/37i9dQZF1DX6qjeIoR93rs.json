@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Amrat \u0623\u0645\u0631\u0627\u062a",
+        "url": "https://open.spotify.com/album/4E3PiyTvavqOG19JrRJ3F2"
+      },
+      "artists": [
+        {
+          "name": "Rasha Nahas",
+          "url": "https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185125,
+      "name": "Amrat \u0623\u0645\u0631\u0627\u062a",
+      "url": "https://open.spotify.com/track/7kGE2CNVtLp4fnbG6aYgGI"
+    },
+    {
+      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 292413,
       "name": "Yalah Yalah Ramallah",
       "url": "https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4"

@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 71873,
+  "num_followers": 71899,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDUzZTJlNGZhODBiNWU1MjcxZjNkMDAxY2EzZmZmYjgz",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDczY2NiZGNmNzI4NTY3OGRjNWQ3MTY5MDI4NTg0ZDNk",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 510600,
-      "name": "A Damsel In Distress: A Foggy Day",
-      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -532,29 +532,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 366960,
-      "name": "Rosalie: How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
-        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 199421,
-      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
-      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
+      "duration_ms": 510600,
+      "name": "A Damsel In Distress: A Foggy Day",
+      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -579,6 +559,26 @@
       "duration_ms": 186400,
       "name": "Walking the Dog",
       "url": "https://open.spotify.com/track/0phdb9laifEUNBfe5fO1jp"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
+        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
+      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
-        "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 299253,
-      "name": "Someone to Watch over Me (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3lsjf6k1z9HAlHDdab0KpR"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
         "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 417640,
       "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
       "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
+        "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 299253,
+      "name": "Someone to Watch over Me (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3lsjf6k1z9HAlHDdab0KpR"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 949253,
-      "name": "Second Rhapsody",
-      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Andante con moto",
+      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Andante con moto",
-      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
+      "duration_ms": 949253,
+      "name": "Second Rhapsody",
+      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1083,34 +1083,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
-        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Peter Jablonski",
-          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 799826,
-      "name": "Piano Concerto in F: 2. Adagio",
-      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -1139,6 +1111,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
+        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 799826,
+      "name": "Piano Concerto in F: 2. Adagio",
+      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
         "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
@@ -1159,6 +1159,34 @@
       "duration_ms": 79226,
       "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
+      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1191,34 +1219,6 @@
       "duration_ms": 187826,
       "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
       "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
-      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2022-08-05 04:02:00",

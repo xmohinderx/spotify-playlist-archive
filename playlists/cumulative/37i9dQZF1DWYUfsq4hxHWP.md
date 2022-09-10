@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: David Unlayao, Artwork: Fanélie Muselier
 
-849 songs - 1 day 22 hr 23 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+853 songs - 1 day 22 hr 35 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [22 Red Flags](https://open.spotify.com/track/5PZYR79HGE6k3giI384I7w) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [22 Red Flags](https://open.spotify.com/album/7pS5QcODadoyl9Y05FKAl7) | 2:51 | 2021-12-01 | 2022-01-13 |
 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 | 2021-12-01 | 2022-01-13 |
 | [4 Real](https://open.spotify.com/track/7teglbxzIoSAAVUptXThzh) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [BRAEDNLANCE](https://open.spotify.com/artist/6cw2NVW7boBwPRUp6vlqFC) | [4 Real](https://open.spotify.com/album/61Ng0yrgvgwoEkLIpjG71g) | 3:00 | 2022-06-15 | 2022-07-21 |
+| [4WD](https://open.spotify.com/track/5CodiNhSM75LFL8KgEkJ29) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [4WD](https://open.spotify.com/album/2Xx452Iq8dQPIqAxlH1tfi) | 2:38 | 2022-09-09 |  |
 | [5:00 in the Country](https://open.spotify.com/track/0ZihIYlSAKxKr0etrivKlt) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [5:00 in the Country](https://open.spotify.com/album/56XLLVVP1ZYOSa3TOcsDKg) | 2:55 | 2022-08-03 |  |
 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 | 2022-05-18 | 2022-06-30 |
 | [95](https://open.spotify.com/track/2KWZ5ibr0mf52qt6pHE0X3) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [95](https://open.spotify.com/album/1IUot86839Cw5BSN8YDK7G) | 3:36 | 2022-01-12 | 2022-01-27 |
@@ -40,6 +41,7 @@
 | [Another Heartbreak](https://open.spotify.com/track/5ZocGptvi6QR0Fgm53d15v) | [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Another Heartbreak](https://open.spotify.com/album/4bJSEX8K69B3F4oYX52rQo) | 3:02 | 2022-08-26 |  |
 | [Another Man's Treasure](https://open.spotify.com/track/2YDq00OI1WubK6HWWlURnk) | [Josh Bricker](https://open.spotify.com/artist/1P4Sq4Ga7dr8CKoydgVpHP) | [Another Man's Treasure](https://open.spotify.com/album/53P5lnqKrA9aZyELFHvRKr) | 3:17 | 2022-02-02 | 2022-03-17 |
 | [Another Whiskey](https://open.spotify.com/track/24DOHRr8IX1npa2cRxMZ1l) | [Junez](https://open.spotify.com/artist/3jdd1dE8PUWOXfGvh7tIRT) | [Another Whiskey](https://open.spotify.com/album/2uRrE8Nkm3xhua8m0c5RUk) | 4:02 | 2022-02-09 | 2022-03-24 |
+| [Anything](https://open.spotify.com/track/2yLeH1jQv6yc5EKvZFKE2F) | [Bryan Lanning](https://open.spotify.com/artist/4lBpdC0ZU9G6dm05V1XAq7) | [Anything](https://open.spotify.com/album/7mNvU7idxh84Uy8vnQyV9e) | 3:11 | 2022-09-09 |  |
 | [Anything Like Me](https://open.spotify.com/track/0SGE1VMFh2awhorrDvEMwk) | [Jasper Charles](https://open.spotify.com/artist/0UTVJdMvmqc0JyDOPD6zcN) | [Anything Like Me](https://open.spotify.com/album/3Wn9TjBJ0KhmJL6ks4JCSn) | 3:26 | 2022-06-09 | 2022-07-21 |
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-16 | 2022-04-02 |
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-01-26 | 2022-03-10 |
@@ -758,6 +760,7 @@
 | [U or Nothing](https://open.spotify.com/track/4EJyH12rmUPiDC6SE8qtpA) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [U or Nothing](https://open.spotify.com/album/7bEKfVZthfXnmiLxuObQYw) | 3:01 | 2022-03-16 | 2022-04-27 |
 | [Under the Hood](https://open.spotify.com/track/48baBz6quKSLZ3AmsYsXTd) | [Michael Leatherman](https://open.spotify.com/artist/2LfxrmeFI84EVs3Lnn3Iw1) | [Under the Hood](https://open.spotify.com/album/0FXlc7dXBcMBz2BcwMP7IW) | 3:13 | 2022-04-27 | 2022-06-08 |
 | [Underdog](https://open.spotify.com/track/4hcplEwl2V4hVAkQzyYMM4) | [Devin Cooper](https://open.spotify.com/artist/4K4kyd2OMMEhkCW6nYtCP2) | [Underdog](https://open.spotify.com/album/5POtZmCf5LX5tLNZGzj1JA) | 3:24 | 2022-09-07 |  |
+| [Underpaid & Overserved](https://open.spotify.com/track/3yx5vXMP4lDd2Uqve4uiS7) | [Southerland](https://open.spotify.com/artist/5Fft88xB3YSwSWzdS42xyf) | [Underpaid & Overserved](https://open.spotify.com/album/3lnzFSZCKxZG9meTfZZEzf) | 3:18 | 2022-09-09 |  |
 | [Unforgettable](https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Unforgettable](https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD) | 3:30 | 2022-02-02 | 2022-03-17 |
 | [Unlove You](https://open.spotify.com/track/0q50Qs3bD2IyMr683uPLrP) | [High Dive Heart](https://open.spotify.com/artist/3JUsjiDq2ybY2zHQsMFTkb) | [Unlove You](https://open.spotify.com/album/2P7g0xCKc121lnYxPlzBUm) | 3:52 | 2022-09-07 |  |
 | [Up for Anything](https://open.spotify.com/track/4NRNJjWZQgWe4k22zpLfuq) | [Landon Parker](https://open.spotify.com/artist/521JXQZX3YA67xdLe42Byy) | [Up for Anything](https://open.spotify.com/album/7AJ3hmhd1cpn4ra44tc2Tf) | 2:54 | 2022-06-29 |  |
@@ -840,6 +843,7 @@
 | [Wrong](https://open.spotify.com/track/34DfmGZ7YUMc9TRWnpgjx5) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Wrong](https://open.spotify.com/album/4Au3DCA42NLqYYLpYzjNdA) | 3:18 | 2022-06-15 | 2022-07-21 |
 | [Wrong Hands](https://open.spotify.com/track/3zNHrGi03X6QI7qFERky9v) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Wrong Hands](https://open.spotify.com/album/6d57jr3PycPxvxe0jmDMtB) | 2:54 | 2022-04-27 | 2022-05-26 |
 | [Wrong Side Of Heaven](https://open.spotify.com/track/7MX5MqDm8CBiCzvwUoUu0k) | [Sean Williams](https://open.spotify.com/artist/6tECOHwuesPtQJvJdZ8gs7) | [Wrong Side Of Heaven](https://open.spotify.com/album/4TIDDEepZwxAPYOKcyUAXA) | 5:38 | 2022-06-09 | 2022-07-21 |
+| [XANAX & CHAMPAGNE](https://open.spotify.com/track/2PwO2Le2ExxYWbwMScVBti) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [XANAX & CHAMPAGNE](https://open.spotify.com/album/43msAeuWOzOYtoGF3Ts2qT) | 2:51 | 2022-09-09 |  |
 | [You](https://open.spotify.com/track/41TKkyOhJJB2zEWHpdodmf) | [Britt Wilder](https://open.spotify.com/artist/3FVBIjspPmkOpbWYmSjx3N) | [You](https://open.spotify.com/album/1Wmj9d4aohyQF6k9G7QbKZ) | 2:26 | 2021-12-01 | 2022-01-13 |
 | [You & Me](https://open.spotify.com/track/3XBbAZIIxZAs3Hvmqnwb7w) | [Jon Wayne Hatfield](https://open.spotify.com/artist/5gzO6m2kswPvKeW2hGCTmp) | [You & Me](https://open.spotify.com/album/0b9JMhjHTNBTMlMUDglyRb) | 3:11 | 2022-06-08 | 2022-07-21 |
 | [You Again](https://open.spotify.com/track/0Wphntao32r6k57fTV4Fra) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [You Again](https://open.spotify.com/album/2QatDqAmgXmE4binBoY6fO) | 2:42 | 2022-05-25 | 2022-07-07 |

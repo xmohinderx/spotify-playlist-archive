@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-439 songs - 1 day 1 hr 44 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+440 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-07-26 | 2021-12-04 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-09-13 | 2021-09-14 |
 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 | 2021-10-07 | 2021-10-08 |
-| [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2022-06-15 | 2022-09-09 |
+| [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2022-06-15 |  |
 | [Magic Carpet Ride](https://open.spotify.com/track/6F2wRUS8oe71Hs9O58dMKb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:38 | 2021-09-19 | 2021-09-20 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-25 | 2022-03-27 |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2021-03-27\* | 2022-02-05 |
@@ -313,6 +313,7 @@
 | [คงต้องบอกลาแล้ว](https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [คงต้องบอกลาแล้ว](https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B) | 4:30 | 2022-04-09 |  |
 | [คนแบบไหน \- เพลงประกอบซีรีส์ ปลาบนฟ้า](https://open.spotify.com/track/44ymejne8Roi7uT4lhiwCR) | [มิกซ์ สหภาพ](https://open.spotify.com/artist/30n00Uv6L35W9JEgPJb3Yr) | [เพลงประกอบซีรีส์ ปลาบนฟ้า](https://open.spotify.com/album/3cRf2Xcq2d6dPSUv5r0yeR) | 3:51 | 2021-05-03 | 2021-06-09 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2021-11-21 |  |
+| [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 | 2022-09-09 |  |
 | [คำตอบ](https://open.spotify.com/track/1lD1Pjy7rNDOny7nFqmUHJ) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Safeboys](https://open.spotify.com/album/31PTsm7KH7Ad8ZXLXaJR2g) | 5:19 | 2021-07-13 | 2021-08-22 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2021-10-13 | 2022-07-30 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/0JStm1Ns9Ya2zQhbqMDYEU) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv) | 4:26 | 2021-03-27\* | 2022-04-13 |
@@ -399,7 +400,7 @@
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2022-01-28 | 2022-07-03 |
 | [อีกนิดเดียว](https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [อีกนิดเดียว](https://open.spotify.com/album/3YcZNdrjPP6AeFhazOcSab) | 3:41 | 2022-05-23 | 2022-05-31 |
 | [อ๋อค่ะ](https://open.spotify.com/track/1XlaKSyICVO45By6Gf1CjM) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [อ๋อค่ะ](https://open.spotify.com/album/7CEY36trH9lWieeGRzTOgb) | 4:12 | 2022-07-22 | 2022-08-09 |
-| [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2022-07-11 |  |
+| [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2022-07-11 | 2022-09-10 |
 | [เกินปุยมุ้ย!](https://open.spotify.com/track/2nhI5HdE2iZ39rgJjHOQvG) | [เอ้ย จิรัช](https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY) | [เกินปุยมุ้ย!](https://open.spotify.com/album/2VuEAib3nbCqK58hcIaKSV) | 3:11 | 2022-07-16 |  |
 | [เก็บไว้ในใจไม่พอ](https://open.spotify.com/track/0hdVaCnCS5d5puPAN2tQ25) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [Popstar](https://open.spotify.com/album/46bPZgDz1psyr7QOgu36lE) | 4:26 | 2021-04-14 | 2021-05-11 |
 | [เก่งแต่เรื่องคนอื่น \(EXPERT\) Feat\. Sprite](https://open.spotify.com/track/0N5DeGdC258DI3DZEn2SEI) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เก่งแต่เรื่องคนอื่น \(EXPERT\) Feat\. Sprite](https://open.spotify.com/album/5kfR9VRQUjC5y0dFWmQdcU) | 3:06 | 2021-10-06 | 2022-02-05 |
@@ -435,7 +436,7 @@
 | [โต๊ะริม \- melt](https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 4:07 | 2022-08-02 |  |
 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 | 2022-05-15 |  |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 | 2022-07-26 |
-| [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 |  |
+| [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 | 2022-09-10 |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-07-11 | 2022-07-17 |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/3ewJNxY8tVHvX94CAUtg89) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:24 | 2022-07-11 |  |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 | 2022-02-04 | 2022-07-12 |

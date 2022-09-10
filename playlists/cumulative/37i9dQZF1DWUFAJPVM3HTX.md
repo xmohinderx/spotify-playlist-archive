@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> New R&B/Soul from independent artists & labels every Wednesday\. Cover: Arima Ederra
+> New R&B/Soul from independent artists & labels every Wednesday\. Cover: Sebastian Mikael
 
-667 songs - 1 day 11 hr 5 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+670 songs - 1 day 11 hr 13 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [I Hate It Here \- Live](https://open.spotify.com/track/66E7IrBV9rd5YNR6xCQJsy) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Live From the Pit](https://open.spotify.com/album/7Jwxk8laLKJF5gWLWIamVj) | 2:30 | 2022-03-23 | 2022-04-28 |
 | [I Just Think](https://open.spotify.com/track/62YR1nGRTdCWQYzfeb3Ck9) | [NEL](https://open.spotify.com/artist/37Lfj8dsuyCiHcXj9SyVy9) | [Lucky](https://open.spotify.com/album/1JDkzuh3dAeEWkldLgT3qs) | 2:56 | 2021-12-01 | 2022-01-13 |
 | [I MISS YOU GIRL](https://open.spotify.com/track/7pxMEYy2qwHkWoydHwwlgF) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pain Pack 5](https://open.spotify.com/album/1uFA5iORLhr87nFJWjpTiM) | 2:56 | 2022-03-02 | 2022-03-12 |
+| [I Need a Man](https://open.spotify.com/track/0H6tQF3utjC4olH20goN1e) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [I Need a Man](https://open.spotify.com/album/7hdcL7uo2Zj6vjjA8TrjHi) | 2:18 | 2022-09-09 |  |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 | 2022-01-12 | 2022-02-10 |
 | [I Want You](https://open.spotify.com/track/0Xk5Tc61jtbwYhEn8tfYXj) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [I Want You](https://open.spotify.com/album/7m8BVFA0i1OU39aSQ3oxbB) | 3:11 | 2022-05-20 | 2022-08-27 |
 | [I Won't Fall To Your Love](https://open.spotify.com/track/17qHPhUy9pzTQtB4jBYKjM) | [Nick Moore](https://open.spotify.com/artist/7ukZgEvzF0YdF9vw8axy5h) | [I Won't Fall To Your Love](https://open.spotify.com/album/20knLZluvaF9ogIjJeBEsX) | 3:16 | 2022-06-16 | 2022-08-27 |
@@ -450,6 +451,7 @@
 | [Out the Way](https://open.spotify.com/track/4gT03zyHBC3ushZZ16gGFK) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA) | 2:35 | 2021-12-01 | 2022-01-13 |
 | [Over U](https://open.spotify.com/track/2c1xEMyAW0Y9wGiWvvNRws) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Over U](https://open.spotify.com/album/7xqNjgPEQFQmlKKCxdUZEB) | 2:49 | 2022-04-27 | 2022-07-02 |
 | [Over You](https://open.spotify.com/track/1TU2FUSp6Yq72aOLMNosZr) | [Maya Mor](https://open.spotify.com/artist/3ErltUmjiO9wBatFNJbv3V) | [Over You](https://open.spotify.com/album/4aMa2Q0nbmILQRwLvbJ4VH) | 2:21 | 2022-01-12 | 2022-02-03 |
+| [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-09 |  |
 | [Palo Santo](https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Palo Santo](https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8) | 2:55 | 2022-02-02 | 2022-04-07 |
 | [Pandemia](https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Pandemia](https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy) | 1:49 | 2022-01-19 | 2022-03-03 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2022-05-12 |
@@ -482,6 +484,7 @@
 | [Queen St](https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Queen St](https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls) | 3:04 | 2022-08-10 |  |
 | [Questions](https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Questions](https://open.spotify.com/album/5L42oPqaQXz45v2Buz3x5W) | 3:15 | 2022-07-01 | 2022-08-27 |
 | [RAGGA](https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RAGGA](https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld) | 2:42 | 2022-09-01 |  |
+| [Rain Falls](https://open.spotify.com/track/4IZKu1dmdvjKE6gUpvfx5Z) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Rain Falls](https://open.spotify.com/album/58bZzAN7pWB0IKuhVaSCLA) | 2:09 | 2022-09-09 |  |
 | [raindrops](https://open.spotify.com/track/0opAHADyfECeBJIjIHj429) | [gab • brie](https://open.spotify.com/artist/2R9d5jPXwo9Soa0LhWPhVk) | [raindrops](https://open.spotify.com/album/6NgXWw9WPijXal0q72Y0rA) | 2:59 | 2022-02-09 | 2022-03-12 |
 | [Rearrange](https://open.spotify.com/track/1APcu1K9e8tT6gqcxZ8PZS) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 4:26 | 2022-05-27 | 2022-09-03 |
 | [Reasons](https://open.spotify.com/track/0nBLIgXhmJQLyd9dzydod3) | [WATERS](https://open.spotify.com/artist/131TscYap0HoOu1UIUsg2b), [Sally Boss Madam](https://open.spotify.com/artist/6In9ka2pHaYYLkSqRptrqq) | [Grey](https://open.spotify.com/album/6eVB1GbcIIcDZf8Gm7zOex) | 2:42 | 2022-01-12 | 2022-02-03 |

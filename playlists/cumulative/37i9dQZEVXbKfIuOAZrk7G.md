@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-745 songs - 1 day 16 hr 18 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
+746 songs - 1 day 16 hr 21 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,7 +641,7 @@
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-03-08 | 2022-04-07 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2022-06-07 | 2022-06-29 |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2021-12-31 | 2022-01-07 |
-| [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-09 |  |
+| [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-09 | 2022-09-10 |
 | [The Prayer](https://open.spotify.com/track/1SkzK37qLSi7Sp6PwYTC0A) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 3:39 | 2022-07-18 | 2022-07-25 |
 | [The Race Freestyle](https://open.spotify.com/track/7J31Lvi451GXq9HxdfIEOR) | [Quandale Dingle](https://open.spotify.com/artist/0yNWMfKE4IB7XboYGR0YK1) | [The Race Freestyle](https://open.spotify.com/album/2Z9UHGOdtOroR9Liyu2Y2L) | 1:54 | 2022-05-31 | 2022-06-09 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-03-01 | 2022-04-20 |
@@ -730,6 +730,7 @@
 | [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-29 | 2022-05-23 |
 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 | 2022-07-18 | 2022-07-27 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-17 | 2022-06-01 |
+| [woo x I was never there \(sped up\)](https://open.spotify.com/track/5blNYiYukMsdhIr7lL2g4b) | [sped up music](https://open.spotify.com/artist/50sc0WpYjnxRpg5n9MJAGq) | [woo x I was never there \(sped up\)](https://open.spotify.com/album/1ytuwWRu2E3b0yHzKYV0mB) | 2:58 | 2022-09-09 |  |
 | [Word to the Wise](https://open.spotify.com/track/2dFz5ravSFl9FL82ujab6y) | [Matt Corman](https://open.spotify.com/artist/2AqMgLvl1EKuvpjFQIIX0U) | [Word to the Wise](https://open.spotify.com/album/1CZseWUGDh5jamHTp6lThC) | 3:12 | 2022-09-03 |  |
 | [World's Smallest Violin](https://open.spotify.com/track/68EkhVWIeULhHxcbi1QhzK) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/7rbdgYKz1DI4gXMWveqS5T) | 3:00 | 2022-05-21 | 2022-05-31 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2) | 2:58 | 2022-08-02 | 2022-08-31 |

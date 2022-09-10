@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: ONE OK ROCK",
-  "num_followers": 235047,
+  "num_followers": 235121,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMDNhMzQ3NzY1MzQzMmQ2MTRlNzE0ZjM1ZTE1NmVkM2Uw",
+  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMDU2MjVmYmY2MTNiODdjMjVhNTAwNjBmZmEyNDIzMDgw",
   "tracks": [
     {
       "added_at": "2022-09-08 15:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
         "name": "Entertain",
         "url": "https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX"
       },
@@ -43,8 +59,8 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "Light it up",
-        "url": "https://open.spotify.com/album/4sVEnfI07lxARCXUyTtZ6q"
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd"
       },
       "artists": [
         {
@@ -53,8 +69,8 @@
         }
       ],
       "duration_ms": 190280,
-      "name": "Light it up",
-      "url": "https://open.spotify.com/track/2vMoL8XqftPhCFE38Z8abj"
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/27H9AHFWDxMjxbUzIAzqwg"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -391,18 +407,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
+        "name": "SLEEPLESS",
+        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
       },
       "artists": [
         {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
         }
       ],
-      "duration_ms": 278840,
-      "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik"
+      "duration_ms": 218866,
+      "name": "SLEEPLESS",
+      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -423,18 +439,34 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "SLEEPLESS",
-        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
+        "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
       },
       "artists": [
         {
-          "name": "B'z",
-          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 218866,
-      "name": "SLEEPLESS",
-      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
+      "duration_ms": 278840,
+      "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "Vandalize",
+        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -559,6 +591,22 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
+        "name": "Papersky",
+        "url": "https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "duration_ms": 256720,
+      "name": "Papersky",
+      "url": "https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
         "name": "ODORO!(feat.MIHO FUKUHARA)",
         "url": "https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc"
       },
@@ -579,22 +627,6 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "Papersky",
-        "url": "https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Papersky",
-      "url": "https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
         "name": "More Than Words",
         "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
       },
@@ -607,6 +639,22 @@
       "duration_ms": 230542,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 246612,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -627,22 +675,6 @@
       "duration_ms": 232106,
       "name": "Future Tone Bender",
       "url": "https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 246612,
-      "name": "Before I Go",
-      "url": "https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -715,22 +747,6 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "yoake",
-        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "yoake",
-      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
         "name": "\u9583\u5149",
         "url": "https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "\u97f3\u697d",
-        "url": "https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "\u7dd1\u9152",
-      "url": "https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
         "name": "Tear Down",
         "url": "https://open.spotify.com/album/1vpH5sFlWAf0JnXEhsDWkt"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 232959,
       "name": "Tear Down",
       "url": "https://open.spotify.com/track/03gSWDA9k6VJD6IJRMVjyB"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "yoake",
+        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "yoake",
+      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
     },
     {
       "added_at": "2022-09-08 15:00:00",

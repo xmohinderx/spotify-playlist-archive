@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,184 songs - 2 day 14 hr 26 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,185 songs - 2 day 14 hr 30 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,7 @@
 | [I Still Have Faith In You](https://open.spotify.com/track/3D9TYPbNo1nnTwE4eLKxnJ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 5:09 | 2021-11-07 | 2021-11-10 |
 | [I Still Have Faith In You](https://open.spotify.com/track/3ddxe0WYUpNPtSnHgQOad5) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 5:10 | 2021-09-05 | 2021-09-07 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-27 | 2021-10-30 |
-| [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-09-08 |  |
+| [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-09-08 | 2022-09-10 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 | 2021-12-25 | 2021-12-27 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 |  |
 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 | 2022-07-30 | 2022-08-01 |
@@ -662,6 +662,7 @@
 | [Magia](https://open.spotify.com/track/3KJ1QkwWObfuq54pgwTRyW) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/1x676W6ARASsW9BR4txWeK) | 3:12 | 2021-06-18 | 2021-07-11 |
 | [MAHALLE](https://open.spotify.com/track/7eXnaPqRon4nlnRRdaNubB) | [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [MAHALLE](https://open.spotify.com/album/2L4WMQ4RUasE6fiOiGZT74) | 2:56 | 2021-06-27 | 2021-07-01 |
 | [Majestic](https://open.spotify.com/track/1Y2zqkMEu3mJPBBMBdkIsD) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Majestic](https://open.spotify.com/album/4CZgcx76lE1b3VIVLiZjCG) | 3:26 | 2022-03-20 | 2022-03-31 |
+| [Malena](https://open.spotify.com/track/24Kc0Kx0MKFWIBbYVTg52w) | [Francesco Giglio](https://open.spotify.com/artist/5Ah51IbdpFTEZVBYiTKCyI), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Elisa Gold](https://open.spotify.com/artist/6Lu0XdMBPAbHIbFjLMQEFp) | [Malena](https://open.spotify.com/album/1A2cD8dEM0HmMaoh64jP6R) | 3:46 | 2022-09-09 |  |
 | [malibu](https://open.spotify.com/track/01hEpx8jnOG4q7nDK14Rhi) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4fEIBZaOmbxZnzAJ9SEx4v) | 2:46 | 2021-06-18 | 2021-06-26 |
 | [Mami Freestyle](https://open.spotify.com/track/0xdTwXMHYli9KaAvGtw9fA) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [Mami Freestyle](https://open.spotify.com/album/5ChgMD1RdTdXZjB664PwXU) | 2:20 | 2022-08-20 | 2022-08-28 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-17 | 2022-05-15 |

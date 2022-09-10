@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Ian Munsick
 
-142 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+145 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Changed](https://open.spotify.com/track/7ClZTubD4KudpEuBysLMUI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Changed](https://open.spotify.com/album/3UFdvzvKR3spzlCkVpcqKb) | 4:22 | 2022-07-15 |  |
 | [Chase Me Down \(feat\. RaeLynn\)](https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:28 | 2021-12-10 |  |
 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 | 2021-12-10 |  |
+| [Churches and Bars](https://open.spotify.com/track/5rdrGT068PeZfY1J32mcDn) | [Bear Bailey](https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz) | [Churches and Bars](https://open.spotify.com/album/5TcFStrKOcmhxwrqihFBqa) | 3:18 | 2022-09-09 |  |
 | [Country Boy's Prayer](https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:44 | 2022-08-26 |  |
 | [Craig](https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:10 | 2022-05-06 |  |
 | [Day with Jesus](https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Day with Jesus](https://open.spotify.com/album/3KGAeln42pur213kCU0iHH) | 4:02 | 2021-12-10 |  |
@@ -81,6 +82,7 @@
 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 | 2021-12-10 |  |
 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 | 2022-07-15 |  |
 | [Long Black Train](https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT) | 4:10 | 2021-12-10 | 2022-07-29 |
+| [Lookin' for You](https://open.spotify.com/track/7nDImE3NrWzpmOb3r2oV50) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Lookin' for You](https://open.spotify.com/album/4RKHZ5tvicbNXz4EXbiARq) | 3:45 | 2022-09-09 |  |
 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 |  |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |
 | [Made For Me To Love \- Demo](https://open.spotify.com/track/06ksFBqRI5cSghYy0ix1de) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Made For Me To Love \(Demo\)](https://open.spotify.com/album/6IVFgta0BGd8IGVwLRPb71) | 3:05 | 2021-12-10 |  |
@@ -113,6 +115,7 @@
 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 | 2022-07-15 |  |
 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 | 2022-02-25 |  |
 | [Talking To God](https://open.spotify.com/track/1lNiLFaSGw8AFdp4zfMvuf) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Talking To God](https://open.spotify.com/album/7JgroVcKnQavSOJ0xzu2CA) | 3:07 | 2021-12-10 |  |
+| [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-09 |  |
 | [That Old King James](https://open.spotify.com/track/5NacrWDvEXJzqO2FyT3Wpe) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 3:28 | 2021-12-10 |  |
 | [That's What I Love About Sunday](https://open.spotify.com/track/7vxRD4BOqSU2Lh7QAoE5ru) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [The Journey \(Livin' Hits\)](https://open.spotify.com/album/3q3vQKnkRSqCjjTAc6I5ai) | 3:17 | 2021-12-10 |  |
 | [That’s God](https://open.spotify.com/track/32RsPGjvELIqW3TjPKVF3a) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Unmistakable Inspiration](https://open.spotify.com/album/4TyigJCY5sR7QXp7xo1MJ1) | 4:42 | 2022-03-04 |  |

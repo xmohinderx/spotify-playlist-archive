@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-285 songs - 19 hr 26 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+287 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Demand It](https://open.spotify.com/track/2AuugcWwwlDCjUU5JcbDcD) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wildly Idle \(Humble Before the Void\)](https://open.spotify.com/album/6U8MP9A9MF2fTdFRf0RTr1) | 5:01 | 2020-08-30 | 2020-09-11 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2020-10-14 | 2022-04-10 |
 | [Dick Cheney](https://open.spotify.com/track/1WXWUnvXJreNdQjydRoD7H) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [Skitter On Take\-Off](https://open.spotify.com/album/0mIKLkym8IE6zoJmuk4Y9N) | 3:18 | 2020-08-30 | 2020-09-11 |
+| [Different Kind of World](https://open.spotify.com/track/0drAsTHCEB3polistcpT1T) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 2:45 | 2022-09-09 |  |
 | [Dinosaur](https://open.spotify.com/track/5dLVPZd9DTpd17UlKrOWa1) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Captain](https://open.spotify.com/album/5Eo5kqv5ZyxjCOsLizMoB9) | 3:14 | 2019-09-29\* | 2020-10-15 |
 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-08-26 |  |
 | [Don't Miss It](https://open.spotify.com/track/5VYCCPct242jtbidE13EKK) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/3VpbXPsAOhcp3duHhkye8g) | 4:59 | 2020-03-21 |  |
@@ -149,6 +150,7 @@
 | [Ludlow St.](https://open.spotify.com/track/0kxQTfplg7tjX5aOCrGDns) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:42 | 2020-08-30 | 2020-09-11 |
 | [Mean Old World](https://open.spotify.com/track/1v4BpOiU0WuSwiNbdYvdWd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:45 | 2020-08-30 | 2020-09-11 |
 | [Milk](https://open.spotify.com/track/7qbQiDc6OZgw8p91UTy2fE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Milk](https://open.spotify.com/album/4RgHhQQ1Q0UPrDyqsJCMfE) | 3:54 | 2019-09-29\* | 2022-08-27 |
+| [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-09 |  |
 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 | 2019-09-29\* | 2022-04-10 |
 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-08-12 |  |
 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2022-08-26 |  |
@@ -176,7 +178,7 @@
 | [parties](https://open.spotify.com/track/0IhH5cuZdOg3eELZe4yVtk) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [parties](https://open.spotify.com/album/1ttmwVJTn3ZRVLKoUzSVJm) | 3:30 | 2019-09-29\* | 2022-04-10 |
 | [Patricia](https://open.spotify.com/track/2mk1lFzxG6TDKEh4s2ICW6) | [Jaws of Love.](https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq) | [Patricia](https://open.spotify.com/album/1kC28hf2isOaIvIDJawZ8k) | 3:51 | 2022-05-20 | 2022-06-18 |
 | [People, I've been sad](https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [People, I've been sad](https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA) | 4:20 | 2020-02-14 | 2022-07-29 |
-| [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 | 2022-07-15 |  |
+| [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 | 2022-07-15 | 2022-09-10 |
 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 | 2019-09-29\* | 2020-10-15 |
 | [Persona Non Grata](https://open.spotify.com/track/0itutKZrGEzQtFWJp4xoUK) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Persona Non Grata](https://open.spotify.com/album/4KDfRBLtCz3ts1PCLf3E28) | 3:32 | 2020-03-25 | 2022-05-26 |
 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 | 2019-09-29\* | 2020-01-17 |
@@ -240,7 +242,7 @@
 | [The Past And Pending](https://open.spotify.com/track/1eCQLMdAwweBZUWjd0Qrck) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/6tMeipxbqiKnp7F368cwsi) | 5:23 | 2019-09-29\* | 2022-07-29 |
 | [The Past and Pending \- 2021 Remaster](https://open.spotify.com/track/4Omfr1OV4e0eaLcPe5JFRa) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 5:25 | 2022-07-15 |  |
 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 | 2022-08-26 |  |
-| [Thinking About You](https://open.spotify.com/track/46tfxn5lP7Qsbz7NHsj9iu) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 2:41 | 2022-08-26 |  |
+| [Thinking About You](https://open.spotify.com/track/46tfxn5lP7Qsbz7NHsj9iu) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 2:41 | 2022-08-26 | 2022-09-10 |
 | [This Time Around](https://open.spotify.com/track/6No9HJxqxDASXaxph5ceNh) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [This Time Around](https://open.spotify.com/album/5kGAQi6p4p7w62cQyvhsqj) | 3:37 | 2019-09-29\* | 2022-04-10 |
 | [Those Girls](https://open.spotify.com/track/06RG1TU7sRnyxB85XSdbHz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 3:22 | 2020-08-30 | 2020-09-11 |
 | [Tiger Mountain Peasant Song](https://open.spotify.com/track/1YZBmsCYf8gKSCwYKu6l5U) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | 3:28 | 2019-09-29\* | 2022-07-29 |

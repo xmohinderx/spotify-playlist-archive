@@ -304,6 +304,28 @@
     },
     {
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3"
+      },
+      "artists": [
+        {
+          "name": "Terapia",
+          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274597,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N"
+    },
+    {
+      "album": {
         "name": "Blanco & Negro",
         "url": "https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO"
       },
@@ -485,6 +507,24 @@
       "duration_ms": 170514,
       "name": "COMO SI FUERA",
       "url": "https://open.spotify.com/track/2ExiAhtleheHlq9MtG0mxI"
+    },
+    {
+      "album": {
+        "name": "Como Vos",
+        "url": "https://open.spotify.com/album/4MtXhW68YIgZlt5alIbYT2"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204953,
+      "name": "Como Vos",
+      "url": "https://open.spotify.com/track/0EYTcO3KhYOq8R1MVv447o"
     },
     {
       "album": {
@@ -944,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Los Movimientos",
+        "url": "https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp"
+      },
+      "artists": [
+        {
+          "name": "La Suma de Todos los Tiempos",
+          "url": "https://open.spotify.com/artist/53iCTwxdVd83Bdxv30rdJe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170189,
+      "name": "El Once Ideal",
+      "url": "https://open.spotify.com/track/4gemRfX6vbxbxaOp1aejF4"
+    },
+    {
+      "album": {
         "name": "El Perro",
         "url": "https://open.spotify.com/album/7LQhpkeiSTpddvT0isF8zL"
       },
@@ -973,7 +1031,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 269705,
       "name": "El Pr\u00f3ximo Verano",
       "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
@@ -1188,6 +1246,24 @@
     },
     {
       "album": {
+        "name": "Frontera",
+        "url": "https://open.spotify.com/album/0EdNh6GwvHJViNFEXdVOBA"
+      },
+      "artists": [
+        {
+          "name": "A\u00f1os Luz",
+          "url": "https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181635,
+      "name": "Frontera",
+      "url": "https://open.spotify.com/track/1Do9XJmrqphuNTk3XJ37ah"
+    },
+    {
+      "album": {
         "name": "El Show del Fin del Mundo, Vol. 1",
         "url": "https://open.spotify.com/album/1NwffYreHko6QEXjoAdSmq"
       },
@@ -1199,7 +1275,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 196363,
       "name": "Fuera de Foco",
       "url": "https://open.spotify.com/track/3HBuXMWVqplKX6GXaQCyrS"
@@ -1513,7 +1589,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/1LRCYh4SN2EtRZD3zMcbWe"
@@ -1715,10 +1791,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197385,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/1hyvKvFYdsqNAyjiV9EgXg"
+    },
+    {
+      "album": {
+        "name": "Las Malas Memorias",
+        "url": "https://open.spotify.com/album/0rQINXwCm2jPWHwwqCZdY2"
+      },
+      "artists": [
+        {
+          "name": "Martes 13",
+          "url": "https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182279,
+      "name": "Las Malas Memorias",
+      "url": "https://open.spotify.com/track/0lkwAvd25lzmH3bhz19vw2"
     },
     {
       "album": {
@@ -2309,7 +2403,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 148750,
       "name": "Perro Agonizante",
       "url": "https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt"
@@ -2443,6 +2537,28 @@
       "duration_ms": 201218,
       "name": "Relajar",
       "url": "https://open.spotify.com/track/1kwQdi5SzOveKrlgEEfDnR"
+    },
+    {
+      "album": {
+        "name": "Remera",
+        "url": "https://open.spotify.com/album/0K4fJa7MxlrX46oCOymaxY"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        },
+        {
+          "name": "Francisco Lago",
+          "url": "https://open.spotify.com/artist/3vBvFZBnjjDdjV35dDvL9L"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213216,
+      "name": "Remera",
+      "url": "https://open.spotify.com/track/0TRuSKE4Bg12qdFi2oZVHG"
     },
     {
       "album": {
@@ -2667,7 +2783,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 182217,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu"

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-479 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+480 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [ANSWERS](https://open.spotify.com/track/6bm9OoERWQ8zfnIcN0pykg) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TAPE 2/FOMALHAUT](https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD) | 4:05 | 2021-10-26 | 2022-07-19 |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2021-04-02 |  |
 | [Are You Okay?](https://open.spotify.com/track/2U8tH2LXMh5EQvI6oBhSHJ) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Are You Okay?](https://open.spotify.com/album/3V6haIpi9uc0pnaApwlYPe) | 3:40 | 2021-04-02 | 2022-07-14 |
-| [argyle](https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [argyle](https://open.spotify.com/album/3urZZqZs16FNxBfyRZj2HU) | 2:45 | 2021-10-08 |  |
+| [argyle](https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [argyle](https://open.spotify.com/album/3urZZqZs16FNxBfyRZj2HU) | 2:45 | 2021-10-08 | 2022-09-10 |
 | [As a Child](https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [As a Child](https://open.spotify.com/album/49PschqwWD3K9b8vrWzuAb) | 3:10 | 2021-04-02 | 2022-07-29 |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2021-06-01 | 2022-05-25 |
 | [Baby](https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Baby](https://open.spotify.com/album/7qnpbQkt7O7CVy7cgu1g6k) | 1:51 | 2021-04-02 | 2022-04-11 |
@@ -214,6 +214,7 @@
 | [I'm Not Enough and I'm Sorry](https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [I'm Not Enough and I'm Sorry](https://open.spotify.com/album/55el5L9WQeGe5LUm73cWL7) | 2:00 | 2022-05-25 |  |
 | [i'm not free](https://open.spotify.com/track/5kIAHgmsJfeUbdWb3rzu8T) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [i'm not free](https://open.spotify.com/album/4NZsTk7cBmcU9toTfLKOAJ) | 2:26 | 2021-11-19 | 2022-06-13 |
 | [I'm Okay Now](https://open.spotify.com/track/6xcfvAdi2nPQVRJG8eSHzE) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [I'm Okay Now](https://open.spotify.com/album/2uXRre7XIdxKDtNXbTsDfu) | 3:02 | 2021-04-02 | 2022-07-29 |
+| [I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [What's Wrong](https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse) | 3:34 | 2022-09-09 |  |
 | [i'm sorry](https://open.spotify.com/track/3HufazUeAftEKnvZUsvHGi) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [i'm sorry](https://open.spotify.com/album/3K2wwoTpNyPa6VSO9UCqJp) | 2:40 | 2021-04-02 | 2022-04-17 |
 | [I'm Sorry](https://open.spotify.com/track/6jPUxIR9fs2goSay9egLxz) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [I'm Sorry](https://open.spotify.com/album/64GxNIJkBn5FZ0J493bID0) | 3:00 | 2021-09-10 | 2022-04-17 |
 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 | 2022-03-23 |  |

@@ -1,13 +1,37 @@
 {
   "description": "Midwest music breaking waves. Ohana Bam",
-  "num_followers": 2278,
+  "num_followers": 2277,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0OTMyMCwwMDAwMDAwMGI4MTBjODc0NDNmMzAxNTVhZThiNGU1Y2Y5YmNjYjdj",
+  "snapshot_id": "MTY2Mjc0OTkwMywwMDAwMDAwMDZkZWZhYjE4NGI3OTMwMmY4ODk1NDQ3YWU5NDgzOTk0",
   "tracks": [
+    {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
     {
       "added_at": "2022-08-26 19:10:56",
       "album": {
@@ -87,6 +111,26 @@
       "duration_ms": 197052,
       "name": "No Sombrero",
       "url": "https://open.spotify.com/track/2opW6xGI3lD8wlc8j3EGtd"
+    },
+    {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 221468,
+      "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
     },
     {
       "added_at": "2022-08-01 14:28:10",
@@ -189,26 +233,6 @@
       "url": "https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw"
     },
     {
-      "added_at": "2022-07-18 21:46:49",
-      "album": {
-        "name": "Switch Music",
-        "url": "https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7"
-      },
-      "artists": [
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Waddup (Swervo Mix) (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4i1LWSslhvIyS9IKBWcxl5"
-    },
-    {
       "added_at": "2022-08-26 19:10:56",
       "album": {
         "name": "Real Bitch (feat. Gloss Up)",
@@ -251,6 +275,26 @@
       "duration_ms": 235500,
       "name": "U-Digg (feat. 42 Dugg & Veeze)",
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
+    },
+    {
+      "added_at": "2022-07-18 21:46:49",
+      "album": {
+        "name": "Switch Music",
+        "url": "https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Waddup (Swervo Mix) (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4i1LWSslhvIyS9IKBWcxl5"
     },
     {
       "added_at": "2022-08-12 17:16:26",
@@ -299,22 +343,6 @@
     {
       "added_at": "2022-06-07 21:57:42",
       "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
-    },
-    {
-      "added_at": "2022-06-07 21:57:42",
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -353,6 +381,34 @@
       "url": "https://open.spotify.com/track/3Lr9J0UuPrnTVlmA5wosqi"
     },
     {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "WYO (feat. PGF Nuk)",
+        "url": "https://open.spotify.com/album/5MTkjTQASZLLnrAze7GC90"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        },
+        {
+          "name": "DCG Shun",
+          "url": "https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11"
+        },
+        {
+          "name": "DCG Bsavv",
+          "url": "https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL"
+        },
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "WYO (feat. PGF Nuk)",
+      "url": "https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC"
+    },
+    {
       "added_at": "2022-09-02 20:08:40",
       "album": {
         "name": "GO GO GO!",
@@ -383,22 +439,6 @@
       "duration_ms": 156543,
       "name": "FOOT ON NECK",
       "url": "https://open.spotify.com/track/3MJ3z0VOd9pzRXbQIA4Lmf"
-    },
-    {
-      "added_at": "2022-08-12 17:16:26",
-      "album": {
-        "name": "Money Got Wings",
-        "url": "https://open.spotify.com/album/4l9Ypxth4ONS53vpbVfAJZ"
-      },
-      "artists": [
-        {
-          "name": "Fat Money",
-          "url": "https://open.spotify.com/artist/0vN8FecyEFbVIlauLaqByt"
-        }
-      ],
-      "duration_ms": 113972,
-      "name": "400 Degrees",
-      "url": "https://open.spotify.com/track/66nv9uIm7uFfLWoD2hRRfR"
     },
     {
       "added_at": "2022-09-02 20:08:40",
@@ -441,20 +481,44 @@
       "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
     },
     {
-      "added_at": "2022-07-18 21:46:49",
+      "added_at": "2022-09-09 18:58:22",
       "album": {
-        "name": "DRILL MUSIC IN ZION",
-        "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE"
+        "name": "BACK IN ACTION 3.0",
+        "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
-      "duration_ms": 271883,
-      "name": "DRILL MUSIC IN ZION",
-      "url": "https://open.spotify.com/track/3GrHP2CwUNecBc1SdVMTJ8"
+      "duration_ms": 136312,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/5SDPFTr7SZtmQhVsa5kXhv"
+    },
+    {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "Xo",
+        "url": "https://open.spotify.com/album/1tsVSAVNbWyaTgcM1yZCul"
+      },
+      "artists": [
+        {
+          "name": "Smba",
+          "url": "https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj"
+        },
+        {
+          "name": "WASTEDJU",
+          "url": "https://open.spotify.com/artist/1RIpyIAigzmJ4fPdTrgnhy"
+        },
+        {
+          "name": "Lucas Lex",
+          "url": "https://open.spotify.com/artist/28Uv1faP5J3s97NkhCyKWU"
+        }
+      ],
+      "duration_ms": 210410,
+      "name": "Xo",
+      "url": "https://open.spotify.com/track/5YucInFTnFthEkJi7MY4y7"
     },
     {
       "added_at": "2022-09-02 20:08:40",
@@ -593,52 +657,20 @@
       "url": "https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd"
     },
     {
-      "added_at": "2022-08-12 17:16:26",
+      "added_at": "2022-09-09 18:58:22",
       "album": {
-        "name": "Exactly",
-        "url": "https://open.spotify.com/album/4oyCS9APPeoU2Lc5mckmey"
+        "name": "College Town",
+        "url": "https://open.spotify.com/album/05q1lDI2tbjZ655zeq7jkr"
       },
       "artists": [
         {
-          "name": "SkyLar Blatt",
-          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Midwest Milly",
-          "url": "https://open.spotify.com/artist/5VivYlld21I4csd3DmowrA"
+          "name": "Bj",
+          "url": "https://open.spotify.com/artist/2Z5XtkutMYyA8gt14mLANU"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Exactly",
-      "url": "https://open.spotify.com/track/5GalM5LBAjZrWcKfTcS7ZV"
-    },
-    {
-      "added_at": "2022-06-07 21:57:42",
-      "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+      "duration_ms": 139020,
+      "name": "College Town",
+      "url": "https://open.spotify.com/track/7HL1udj0yd0YKj2FOjCjeU"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -699,54 +731,6 @@
       "duration_ms": 171078,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/0vRhfvw60myrUaWEOqt6kB"
-    },
-    {
-      "added_at": "2022-06-07 21:57:42",
-      "album": {
-        "name": "ABOW",
-        "url": "https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b"
-      },
-      "artists": [
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        },
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        },
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        },
-        {
-          "name": "ShantiiP",
-          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
-        }
-      ],
-      "duration_ms": 134184,
-      "name": "ABOW",
-      "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
-    },
-    {
-      "added_at": "2022-09-02 20:08:40",
-      "album": {
-        "name": "Q-Pid",
-        "url": "https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz"
-      },
-      "artists": [
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 131868,
-      "name": "Q-Pid",
-      "url": "https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -825,26 +809,6 @@
       "url": "https://open.spotify.com/track/6FQrsqNNyWbRAn4pIpcjPG"
     },
     {
-      "added_at": "2022-06-07 21:57:42",
-      "album": {
-        "name": "Detroit Raised Me",
-        "url": "https://open.spotify.com/album/1VSgHchOjhzuYMR9HdV3SC"
-      },
-      "artists": [
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        }
-      ],
-      "duration_ms": 196078,
-      "name": "EBT",
-      "url": "https://open.spotify.com/track/0gWNq0lLP0C10Fv059l6Yn"
-    },
-    {
       "added_at": "2022-07-01 03:55:56",
       "album": {
         "name": "Praise & Worship",
@@ -865,6 +829,26 @@
       "url": "https://open.spotify.com/track/7CG8yhP3ybtiNsZjfyjOv0"
     },
     {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "Black Heart",
+        "url": "https://open.spotify.com/album/2csQIiTU3v9xEQKsKIfv1z"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 202325,
+      "name": "Step Alone (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/5amg9B9k21LslaY7Eb50l7"
+    },
+    {
       "added_at": "2022-08-12 17:16:26",
       "album": {
         "name": "As I Am",
@@ -879,22 +863,6 @@
       "duration_ms": 182693,
       "name": "4Real",
       "url": "https://open.spotify.com/track/5BITVk0U3V7Q8DRaQSJTCr"
-    },
-    {
-      "added_at": "2022-07-18 21:46:49",
-      "album": {
-        "name": "broken",
-        "url": "https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 154885,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja"
     },
     {
       "added_at": "2022-08-12 17:16:26",
@@ -955,6 +923,22 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "Feel Like Somebody",
+        "url": "https://open.spotify.com/album/0JImc5bbj65Uk2LRYGdNLo"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Feel Like Somebody",
+      "url": "https://open.spotify.com/track/2dFqGqBSDSGPwIBp40VaLf"
     },
     {
       "added_at": "2022-08-26 19:10:56",

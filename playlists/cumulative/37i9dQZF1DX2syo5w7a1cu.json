@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234813,
+      "name": "Almost Unreal",
+      "url": "https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd"
+    },
+    {
+      "album": {
         "name": "Crash! Boom! Bang! (2009 Version)",
         "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
       },
@@ -3275,7 +3293,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 293586,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/0bw1li9y32rw40HGodRShs"

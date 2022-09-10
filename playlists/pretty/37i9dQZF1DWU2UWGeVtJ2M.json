@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 134609,
+  "num_followers": 134652,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM0NzAwMSwwMDAwMDAwMDQ4ODJmN2FhMWQ4OTMxNjQ0YTBjOWUzYWQxMzg1NmVh",
+  "snapshot_id": "MTY2MjM0NzAwMSwwMDAwMDAwMDcwMTgyZTY5NGNmMjY3Y2UxOGQ5OWY5MjExZDk2MGY4",
   "tracks": [
     {
       "added_at": "2022-09-05 03:03:21",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 245840,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -343,22 +343,22 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "fue mejor (feat. SZA)",
-        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 230964,
-      "name": "fue mejor (feat. SZA)",
-      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -383,22 +383,22 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "fue mejor (feat. SZA)",
+        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 158726,
       "name": "R.I.P. (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Lost In Space",
         "url": "https://open.spotify.com/album/3mS5pfJvDStk99v0QRIsJH"
       },
@@ -891,18 +871,22 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 204400,
-      "name": "Sorry - Original Demo",
-      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -927,22 +911,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sorry - Original Demo",
+      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Oasis Sky",
         "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 202991,
       "name": "Inkeri",
       "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
         "name": "only in the night (feat. Sarcastic Sounds)",
         "url": "https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 130369,
       "name": "only in the night (feat. Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
-      },
-      "artists": [
-        {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -1315,42 +1315,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Oceansize",
-      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
-        "name": "Trying Not To Cry (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 142310,
-      "name": "Trying Not To Cry (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
       },
@@ -1363,6 +1327,22 @@
       "duration_ms": 163146,
       "name": "Real",
       "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Oceansize",
+      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -1411,6 +1391,26 @@
       "duration_ms": 195952,
       "name": "2021",
       "url": "https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Trying Not To Cry (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 142310,
+      "name": "Trying Not To Cry (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 238215,
-      "name": "Dearest Alfred",
-      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Some Place Else",
         "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 214885,
       "name": "Some Place Else",
       "url": "https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 238215,
+      "name": "Dearest Alfred",
+      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
     },
     {
       "added_at": "2022-09-05 03:03:21",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Island of the Sun",
-        "url": "https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 210906,
-      "name": "He Don't Love Me",
-      "url": "https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1675,22 +1659,6 @@
     {
       "added_at": "2022-09-05 03:03:21",
       "album": {
-        "name": "Don't Give In",
-        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 209749,
-      "name": "Don't Give In",
-      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
-    },
-    {
-      "added_at": "2022-09-05 03:03:21",
-      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/11UumVLKD0DqPUpxA4udNX"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 190075,
       "name": "Heat",
       "url": "https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Island of the Sun",
+        "url": "https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 210906,
+      "name": "He Don't Love Me",
+      "url": "https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl"
+    },
+    {
+      "added_at": "2022-09-05 03:03:21",
+      "album": {
+        "name": "Don't Give In",
+        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 209749,
+      "name": "Don't Give In",
+      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
     },
     {
       "added_at": "2022-09-05 03:03:21",

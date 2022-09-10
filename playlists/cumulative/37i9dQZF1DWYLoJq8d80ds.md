@@ -4,13 +4,14 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera
 
-124 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+125 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adios Que Te Vaya Bien](https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 2:37 | 2021-12-31 |  |
 | [Agüita De Carnaval](https://open.spotify.com/track/0iKcUJQHO1EKpZa8KxYNki) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:50 | 2021-12-31 | 2022-03-12 |
-| [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/2AuJnv5bb33UTKDD2FSyqD) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/album/4ovvjgPLDp5pRu2bjCSCXw) | 3:27 | 2021-12-31 |  |
+| [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/039sYU2RhmRRZpvkqe7s1O) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Kuntur](https://open.spotify.com/album/6bXTAQzf8QjtXoWdUMbMfe) | 3:27 | 2022-09-02 |  |
+| [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/2AuJnv5bb33UTKDD2FSyqD) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/album/4ovvjgPLDp5pRu2bjCSCXw) | 3:27 | 2021-12-31 | 2022-09-10 |
 | [Almas Gemelas](https://open.spotify.com/track/0pjfGKSK7ldTGFvljFACFr) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Almas Gemelas](https://open.spotify.com/album/7v99j12qHvc2Fc6HOqxetg) | 3:19 | 2021-12-31 |  |
 | [Amiga Tierra Querida](https://open.spotify.com/track/1UhHkegLYWH4PujKSPpCFX) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Demi Carabajal](https://open.spotify.com/artist/5CQzGDENGT9jsefa285qId) | [La Niña de los Andamios](https://open.spotify.com/album/1BfmPrhw2FwVfd45GYrJPI) | 3:18 | 2021-12-31 |  |
 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 | 2021-12-31 |  |

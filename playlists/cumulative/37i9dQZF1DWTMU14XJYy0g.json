@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Babas\u00f3nicos.",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Estelares.",
   "name": "Rock Nacional",
   "published_playlist_ids": [
     "1BEgfZL9U1ltwJb00J2hJ4"
@@ -554,6 +554,28 @@
     },
     {
       "album": {
+        "name": "Un Mar de Soles Rojos",
+        "url": "https://open.spotify.com/album/6QglGhUVduN4MC8BFzBP6O"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243766,
+      "name": "Encantan",
+      "url": "https://open.spotify.com/track/4GrxCRx9CbGqTGqXqUfG8X"
+    },
+    {
+      "album": {
         "name": "Encuentro Con un \u00c1ngel Amateur (En Vivo)",
         "url": "https://open.spotify.com/album/4gt3JKDF9BbTsJb1Np8PSp"
       },
@@ -1082,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258651,
+      "name": "La Otra Ciudad",
+      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
+    },
+    {
+      "album": {
         "name": "La Otra Ciudad",
         "url": "https://open.spotify.com/album/3HoP4nyRkJSN1ZDesiuM7z"
       },
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 258651,
       "name": "La Otra Ciudad",
       "url": "https://open.spotify.com/track/7isif6McdOOOtdcOsmQI8g"
@@ -2075,7 +2115,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 195290,
       "name": "Tiempos Dorados",
       "url": "https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS"

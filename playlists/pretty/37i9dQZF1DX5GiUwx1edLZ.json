@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 272257,
+  "num_followers": 272271,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDhlMTQ2NWU3NjYyNWYyNzBhMzZjOGMyZDkwODM3ZjNj",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGUyYmQxZmUwN2U0NzM0NjliM2Q0OTk5ZjA2NTFlNTAz",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 184815,
-      "name": "Take Me Home (feat. Bebe Rexha) - Acoustic",
-      "url": "https://open.spotify.com/track/3j9AY9emI5H45iMxTpT4TJ"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
         "url": "https://open.spotify.com/album/7AXMTCR9Ufyj64Q02H8xFa"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/1LcxOZGMdAuScNbIN2Fvcq"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 184815,
+      "name": "Take Me Home (feat. Bebe Rexha) - Acoustic",
+      "url": "https://open.spotify.com/track/3j9AY9emI5H45iMxTpT4TJ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Where Did You Go? (Acoustic)",
-        "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Where Did You Go? - Acoustic",
-      "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Lift Your Spirit",
         "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 177656,
       "name": "Drink About - Acoustic Version",
       "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Where Did You Go? (Acoustic)",
+        "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Where Did You Go? - Acoustic",
+      "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Tri-State",
+        "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Tri-State",
+      "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Tell Me You Love Me (Deluxe)",
         "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 232066,
       "name": "No Promises - Acoustic",
       "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Tri-State",
-        "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "Tri-State",
-      "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "You Don't Know Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+        "name": "Regardless (Acoustic)",
+        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
       },
       "artists": [
         {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
+      "duration_ms": 224053,
+      "name": "Regardless - Acoustic",
+      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Regardless (Acoustic)",
-        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Regardless - Acoustic",
-      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Clarity (Remixes)",
         "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 207960,
       "name": "Clarity - Zedd Union Mix",
       "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Ferrari (Acoustic)",
+        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "Ferrari - Acoustic",
+      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1071,6 +1087,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
       },
@@ -1087,22 +1119,6 @@
       "duration_ms": 293946,
       "name": "Looking For Your Name",
       "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1151,26 +1167,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Better Half Of Me",
-        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 212846,
-      "name": "Better Half Of Me - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Paradise (The Acoustics)",
         "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
       },
@@ -1187,6 +1183,26 @@
       "duration_ms": 158830,
       "name": "Paradise - Piano Version",
       "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Better Half Of Me",
+        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 212846,
+      "name": "Better Half Of Me - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1277,22 +1293,6 @@
       "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Ferrari (Acoustic)",
-        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "Ferrari - Acoustic",
-      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Good Luck (Acoustic)",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
-        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
-      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "I Wish (feat. Mabel) [Acoustic]",
         "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 184000,
       "name": "I Wish (feat. Mabel) - Acoustic",
       "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
+        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
+      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 364392,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/0csgmo2EUovO4VB21Jgc37"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Melody (Acoustic)",
         "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
       },
@@ -1447,22 +1431,6 @@
       "duration_ms": 169106,
       "name": "Melody - Acoustic",
       "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Old Friend / Capricorn (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 172756,
-      "name": "Old Friend - Live Acoustic",
-      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1495,18 +1463,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
       },
       "artists": [
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+      "duration_ms": 364392,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/0csgmo2EUovO4VB21Jgc37"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1527,6 +1495,38 @@
       "duration_ms": 209000,
       "name": "Lost - Acoustic",
       "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Old Friend / Capricorn (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 172756,
+      "name": "Old Friend - Live Acoustic",
+      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Synchronize (VIP / Acoustic)",
+        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+      },
+      "artists": [
+        {
+          "name": "Hellberg",
+          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+        },
+        {
+          "name": "Aaron Richards",
+          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+        }
+      ],
+      "duration_ms": 228095,
+      "name": "Synchronize - Acoustic",
+      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Looking For Me (Remixes)",
         "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
       },
@@ -1611,22 +1631,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Synchronize (VIP / Acoustic)",
-        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+        "name": "No Time For Tears (Acoustic)",
+        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
       "artists": [
         {
-          "name": "Hellberg",
-          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         },
         {
-          "name": "Aaron Richards",
-          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         }
       ],
-      "duration_ms": 228095,
-      "name": "Synchronize - Acoustic",
-      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+      "duration_ms": 205305,
+      "name": "No Time For Tears - Acoustic",
+      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1671,26 +1691,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "No Time For Tears (Acoustic)",
-        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "No Time For Tears - Acoustic",
-      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Spectrum EP",
         "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
       },
@@ -1727,6 +1727,26 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Sound Advice (Chapter One)",
+        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Audrey Gallagher",
+          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "There Will Be Angels - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1771,26 +1791,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Sound Advice (Chapter One)",
-        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
-      },
-      "artists": [
-        {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
-        },
-        {
-          "name": "Audrey Gallagher",
-          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "There Will Be Angels - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1807,6 +1807,26 @@
       "duration_ms": 201748,
       "name": "Fears - Acoustic Version",
       "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "End Of The World (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "End Of The World - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1843,26 +1863,6 @@
       "duration_ms": 211068,
       "name": "Hypnotized - Acoustic",
       "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "End Of The World (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "End Of The World - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Mad World (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Jake Reese",
+          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Mad World - Acoustic Version",
+      "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "BED (The BEDtime Mixes)",
         "url": "https://open.spotify.com/album/6N5kkUQ8tqA7EMwtdjFjDT"
       },
@@ -1927,22 +1947,6 @@
       "duration_ms": 177364,
       "name": "BED - Acoustic",
       "url": "https://open.spotify.com/track/6tIc4TnrcyqILXEyx8QKAm"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
-        }
-      ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     }
   ],
   "unique_name": "mint Acoustic",

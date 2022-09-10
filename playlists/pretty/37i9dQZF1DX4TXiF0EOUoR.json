@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 94728,
+  "num_followers": 94839,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMDcyYWZjODdmYjc5N2ZiYjlhM2Q1ZTNlNmYxZmEwMWI1",
+  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMGU2MmI0YzA2YmZjNDMzZmI4ZTVmNzMzYzFiMzRmZjY0",
   "tracks": [
     {
       "added_at": "2022-01-25 23:50:43",
@@ -275,18 +275,18 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+        "name": "El Viej\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
         }
       ],
-      "duration_ms": 113306,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
+      "duration_ms": 225410,
+      "name": "El Pistolero Huapango",
+      "url": "https://open.spotify.com/track/4XLp4L49gGB5RGlPYPj86s"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "El Viej\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
       },
       "artists": [
         {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 225410,
-      "name": "El Pistolero Huapango",
-      "url": "https://open.spotify.com/track/4XLp4L49gGB5RGlPYPj86s"
+      "duration_ms": 113306,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Que Bonito Es Lo Bonito",
-        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Me Hac\u00edan Falta Huevos",
         "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 120240,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Que Bonito Es Lo Bonito",
+        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -743,18 +743,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Aquel Amor (Desde Tingambato Michoacan)",
-        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
+        "name": "De Nueva Cuenta",
+        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
       "artists": [
         {
-          "name": "Banda los Chirimoyos",
-          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
+          "name": "Marcos Flores",
+          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
+        },
+        {
+          "name": "Banda Jerez",
+          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
         }
       ],
-      "duration_ms": 246903,
-      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+      "duration_ms": 178933,
+      "name": "Por Una Lagrima",
+      "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -811,22 +815,18 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "De Nueva Cuenta",
-        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
+        "name": "Aquel Amor (Desde Tingambato Michoacan)",
+        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
       },
       "artists": [
         {
-          "name": "Marcos Flores",
-          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
-        },
-        {
-          "name": "Banda Jerez",
-          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
+          "name": "Banda los Chirimoyos",
+          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
         }
       ],
-      "duration_ms": 178933,
-      "name": "Por Una Lagrima",
-      "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+      "duration_ms": 246903,
+      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "El Guapo",
+        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 188696,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Homenaje a un Grande",
         "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "El Guapo",
-        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 188696,
-      "name": "El Guapo",
-      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
-        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274064,
-      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
-      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Celebrando mi cumpleanos",
         "url": "https://open.spotify.com/album/7dyC6w6h7Ri3LlfCEmocVe"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 152894,
       "name": "La Vaquilla Colorada",
       "url": "https://open.spotify.com/track/4HmFMFun84yRMfTgr8sAM6"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
+        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274064,
+      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
+      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
-        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274038,
-      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
-      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 180197,
       "name": "La Amachona - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
+        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274038,
+      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
+      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
     },
     {
       "added_at": "2022-01-25 23:50:43",

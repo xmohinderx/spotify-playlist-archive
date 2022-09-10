@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Que viva el amor!",
-  "num_followers": 1939576,
+  "num_followers": 1939683,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDRmOTBlOTVjYzExNmMxZDFkOTMwMTdkM2EwNjA1Njk4",
+  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDA3M2M5MjgwOTY4YWI1MzE5ZTNmNDQ3YTE4NTRmYzgz",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:51",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 289866,
       "name": "Tan enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -591,6 +591,26 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "M\u00e1s + Coraz\u00f3n Profundo",
+        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "WOW BB",
         "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 191250,
       "name": "WOW BB",
       "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "M\u00e1s + Coraz\u00f3n Profundo",
-        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -687,6 +687,26 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/4JFLZE2lAjETtE7uvms4Fo"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 205369,
+      "name": "Mejores Amigos",
+      "url": "https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 220480,
       "name": "Odio Que No Te Odio",
       "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/4JFLZE2lAjETtE7uvms4Fo"
-      },
-      "artists": [
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 205369,
-      "name": "Mejores Amigos",
-      "url": "https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Deja Que Te Bese",
         "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 244353,
       "name": "Deja Que Te Bese",
       "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Circo Soledad",
+        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 183362,
       "name": "Primer Avi\u00f3n",
       "url": "https://open.spotify.com/track/7uQ9KzntzNaenXNb7JCrwH"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Circo Soledad",
-        "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Los Besos",
+        "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Los Besos",
+      "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Los Besos",
-        "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Los Besos",
-      "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Contigo Siempre",
         "url": "https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 201440,
       "name": "Contigo Siempre",
       "url": "https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1459,6 +1443,22 @@
       "duration_ms": 201226,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "A Un Mil\u00edmetro De Ti Y Cada Vez M\u00e1s Cerca (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx"
       },
@@ -1767,18 +1783,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 244040,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
+      "duration_ms": 241013,
+      "name": "Por fin",
+      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Por fin",
-      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Subt\u00edtulos",
         "url": "https://open.spotify.com/album/4EtYCMy3pSjOkSNpeZjOUs"
       },
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "En Tus Planes",
-        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
+        "name": "A Un Beso",
+        "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 292760,
-      "name": "Si T\u00fa La Quieres - Versi\u00f3n Balada",
-      "url": "https://open.spotify.com/track/3c5KjQlxwrWBf7oBN8nU2k"
+      "duration_ms": 217000,
+      "name": "A Un Beso",
+      "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1871,34 +1871,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "A Un Beso",
-        "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
+        "name": "En Tus Planes",
+        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 217000,
-      "name": "A Un Beso",
-      "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "La Mujer Perfecta",
-        "url": "https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "La Mujer Perfecta",
-      "url": "https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR"
+      "duration_ms": 292760,
+      "name": "Si T\u00fa La Quieres - Versi\u00f3n Balada",
+      "url": "https://open.spotify.com/track/3c5KjQlxwrWBf7oBN8nU2k"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1919,6 +1903,38 @@
       "duration_ms": 232331,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "La Mujer Perfecta",
+        "url": "https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1951,22 +1967,6 @@
       "duration_ms": 203693,
       "name": "Hasta Ese D\u00eda",
       "url": "https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Si t\u00fa no vuelves - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "No Te Olvido",
         "url": "https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 185253,
       "name": "No Te Olvido",
       "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Si t\u00fa no vuelves - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y"
       },
@@ -2195,22 +2215,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/4fayUUgBEU2UgwsgBzheST"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/3LCdO528GxAl5pRvaQgOZd"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "2:50",
         "url": "https://open.spotify.com/album/2mRxKQgVJXjIz7YNu7E7re"
       },
@@ -2223,6 +2227,22 @@
       "duration_ms": 185142,
       "name": "2:50",
       "url": "https://open.spotify.com/track/5xlxSHnvXwT66JWYwDkEFE"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/4fayUUgBEU2UgwsgBzheST"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/3LCdO528GxAl5pRvaQgOZd"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2243,26 +2263,6 @@
       "duration_ms": 200570,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/03RnNDKXiggdQwuWHbCmvW"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Con Las Ganas",
-        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
     },
     {
       "added_at": "2022-08-05 16:40:51",

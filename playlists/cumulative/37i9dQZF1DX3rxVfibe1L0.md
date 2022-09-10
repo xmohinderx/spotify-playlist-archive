@@ -4,7 +4,7 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-382 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
+383 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Do Si Do \(feat\. Blanco Brown\)](https://open.spotify.com/track/4vAvloma2hNHnD2M9vLSH0) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Do Si Do](https://open.spotify.com/album/5ztLxyZw32EKfv0Kw5ZLRj) | 2:18 | 2020-04-18 | 2020-05-08 |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2021-09-06 | 2021-09-21 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-07-24 | 2021-11-27 |
+| [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 | 2022-09-09 |  |
 | [Don't Let It Break Your Heart \- Single Edit](https://open.spotify.com/track/00Z0GIRi0l7WqQnQJCo5S2) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Don't Let It Break Your Heart](https://open.spotify.com/album/5u9HZPF2dVu38Ly2Ftje7S) | 3:16 | 2019-12-07 | 2020-05-08 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-11-01 | 2020-07-31 |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2021-08-03 | 2021-08-07 |
@@ -219,7 +220,7 @@
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) | [ME!](https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy) | 3:13 | 2019-07-29\* | 2019-08-30 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-10-17 |  |
 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 | 2019-09-20 | 2021-01-15 |
-| [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6PdCbJwSOeovMX7kfwiAxb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:45 | 2021-11-20 |  |
+| [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6PdCbJwSOeovMX7kfwiAxb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:45 | 2021-11-20 | 2022-09-10 |
 | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG) | 3:40 | 2020-04-10 | 2022-01-08 |
 | [Midnight Sky](https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Midnight Sky](https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51) | 3:43 | 2020-08-21 | 2020-11-20 |
 | [Missing Piece](https://open.spotify.com/track/0YYg6U1Yrd4UjnG5iVhiXh) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6HQ54O9WPAWQS5gNtS1YOw) | 3:37 | 2021-07-04 | 2022-04-09 |

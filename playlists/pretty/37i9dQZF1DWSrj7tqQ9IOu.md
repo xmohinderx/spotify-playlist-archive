@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Jeanne Added
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,043 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,131 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 44 | [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 |
 | 45 | [Dessus\-dessous](https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x) | [Mado](https://open.spotify.com/artist/2FDZzdKv337dodxZfRgvXT), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:48 |
 | 46 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 |
-| 47 | [sunny face](https://open.spotify.com/track/4gTNHEwcUaCmHRUQi5n6Cn) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [sunny face](https://open.spotify.com/album/0hEPMULhG0Jt96XKWIPnC4) | 2:52 |
-| 48 | [Ma plus belle aventure](https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Ma plus belle aventure](https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO) | 3:17 |
-| 49 | [J'aime les filles](https://open.spotify.com/track/3N6mpmEgjqRIMNDkucHMJz) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [J'aime les filles](https://open.spotify.com/album/15KiBmF3enU5CukG3mO6gy) | 3:17 |
-| 50 | [lighthouse](https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from NYC](https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR) | 2:18 |
+| 47 | [Ma plus belle aventure](https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Ma plus belle aventure](https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO) | 3:17 |
+| 48 | [J'aime les filles](https://open.spotify.com/track/3N6mpmEgjqRIMNDkucHMJz) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [J'aime les filles](https://open.spotify.com/album/15KiBmF3enU5CukG3mO6gy) | 3:17 |
+| 49 | [lighthouse](https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from NYC](https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR) | 2:18 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDU3M2FlMDU5OWEyOTBiMDk2MjAzMTJhNTJiZWQ0NmRl`
+Snapshot ID: `MTY2MjcxNTY3OSwwMDAwMDAwMDBmYjJhMDdkNmU3Yzk5ODFmOWM5OWVkMzdjNTdmNjdh`

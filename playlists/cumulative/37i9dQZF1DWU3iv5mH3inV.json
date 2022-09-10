@@ -620,6 +620,56 @@
     },
     {
       "album": {
+        "name": "CHOKOO",
+        "url": "https://open.spotify.com/album/0y7057hiNC84dqOOynn21D"
+      },
+      "artists": [
+        {
+          "name": "Barbero Ex\u00f3tico",
+          "url": "https://open.spotify.com/artist/6gZdHi1lsLWRkZ0wCA4RL6"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/1VTIE59lfCiRMabvY2kh5R"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/1Td02zP5HTyISudbfoQOVB"
+        },
+        {
+          "name": "Germanini",
+          "url": "https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR"
+        },
+        {
+          "name": "Keylon",
+          "url": "https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5"
+        },
+        {
+          "name": "Tame",
+          "url": "https://open.spotify.com/artist/7Co6WvefHtyoHzV91qDK9x"
+        },
+        {
+          "name": "Yohancito",
+          "url": "https://open.spotify.com/artist/5h3snNTJSuYLpsdORqRy0A"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337339,
+      "name": "CHOKOO",
+      "url": "https://open.spotify.com/track/2FsQB3Gu39JwQUiR2TBaHa"
+    },
+    {
+      "album": {
         "name": "El Hijo de Dania la Banquera",
         "url": "https://open.spotify.com/album/34Wel1dz0rG9iWC3k0JPrl"
       },
@@ -2315,7 +2365,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 218487,
       "name": "La Gente Ta' Loca - Remix",
       "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"

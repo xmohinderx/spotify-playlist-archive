@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-350 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+351 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Death Dance](https://open.spotify.com/track/46F4PTfODcLma9gb87yPlf) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Kill The Flaw](https://open.spotify.com/album/78alVDSStZleCxiVOzyn3J) | 3:39 | 2022-07-13 | 2022-07-28 |
 | [Death Is Not Defeat](https://open.spotify.com/track/7xpfgUe2sxoBx7CFygbTPg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 3:45 | 2022-07-13 | 2022-07-27 |
 | [Deep Six](https://open.spotify.com/track/3XCgVhWfwWYo1vxKYaeFOe) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Pale Emperor](https://open.spotify.com/album/0F9brQbQ3vLDYyTElx9f9n) | 5:02 | 2022-01-03 | 2022-07-29 |
+| [Deliver Us](https://open.spotify.com/track/24fWeFwEJQlce7B3grrgR1) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Sounds Of A Playground Fading](https://open.spotify.com/album/12WYGQwbMFAVdVBFmXT4ny) | 3:29 | 2022-04-24 |  |
 | [Deliver Us](https://open.spotify.com/track/0n4P0Jb7OSNvaVrtV0oZTH) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Sounds of a Playground Fading](https://open.spotify.com/album/5sntGYi5etQESPeKSa89JR) | 3:30 | 2022-01-03 | 2022-07-25 |
 | [Deluge](https://open.spotify.com/track/0nY6t7Y8RbUbFgzVokUSyz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:25 | 2022-07-13 | 2022-07-25 |
 | [Delusions of Saviour](https://open.spotify.com/track/06WUUNf7q18NZfjIsQFsfa) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 1:55 | 2022-07-13 |  |
@@ -116,7 +117,7 @@
 | [Forward Momentum](https://open.spotify.com/track/6W138hHyE3DpxiZ7120zfS) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Atoma](https://open.spotify.com/album/3N5vYy8vIFgpvtrIbFtvvG) | 3:40 | 2022-07-13 | 2022-07-27 |
 | [Fury](https://open.spotify.com/track/4bSepF6LUd6Vw4yfh4cpr4) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MAXIMALISM](https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh) | 2:58 | 2022-07-13 | 2022-07-27 |
 | [Ghost Walking](https://open.spotify.com/track/52lWFbQaG8VajS7y41hafF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/73k8aD6VzabLHfwIdiasdS) | 4:30 | 2022-01-03 | 2022-07-29 |
-| [Ghost Walking](https://open.spotify.com/track/6pej2azEjNp6pEFpYPmCNi) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:30 | 2022-04-24 |  |
+| [Ghost Walking](https://open.spotify.com/track/6pej2azEjNp6pEFpYPmCNi) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:30 | 2022-04-24 | 2022-09-10 |
 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 | 2022-07-13 | 2022-07-27 |
 | [God = Dog](https://open.spotify.com/track/2P3YmNhaaZXrLrI3qYy5SD) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [I Loved You at Your Darkest](https://open.spotify.com/album/7FY3UoY2F1mdvptEBkHiZb) | 3:58 | 2022-07-13 | 2022-07-29 |
 | [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 | 2022-01-03 |  |

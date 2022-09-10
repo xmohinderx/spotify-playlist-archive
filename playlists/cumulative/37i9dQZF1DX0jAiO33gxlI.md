@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rashid
 
-215 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/07w2QUeYfgvUJ366SKbIpZ)
+217 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/07w2QUeYfgvUJ366SKbIpZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [To Voando](https://open.spotify.com/track/6dNRYCyf0zhhkzwi8fIDsK) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [To Voando](https://open.spotify.com/album/1d8FneRPVUqMetfMf5SYsA) | 2:55 | 2022-03-22 |  |
 | [Tudo a Ver](https://open.spotify.com/track/4W8fL1zgl1xseEMvdfx7YL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Tudo a Ver](https://open.spotify.com/album/4lc2xfAgl1JuL1CTM71fzj) | 5:00 | 2022-06-10 | 2022-07-09 |
 | [Tudo Bem](https://open.spotify.com/track/7uBvXVse2YVcfQ65jp9u8m) | [Cesao Mc](https://open.spotify.com/artist/2vBTP2mlmqzuPQ4ksP6h4e), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [mc FG](https://open.spotify.com/artist/2DDCXXBNJssP3uaqOJ1VNz) | [Tudo Bem](https://open.spotify.com/album/0KBkmVYqYR7QWyYQDozIIT) | 3:37 | 2022-03-22 | 2022-04-09 |
+| [Universo em Crise](https://open.spotify.com/track/7c8G1aVO7PdNu5Vr5Y3jh8) | [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2) | [Universo em Crise](https://open.spotify.com/album/62qbK6sa8X2XSxsNAs8uab) | 3:36 | 2022-09-09 |  |
 | [Vai Vai](https://open.spotify.com/track/6BGTyTmiKSUDnNcxJCAfh7) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV) | [Vai Vai](https://open.spotify.com/album/3iLJmhqL41TddX9Tij7UJs) | 2:18 | 2022-05-27 | 2022-06-04 |
 | [Vida Bandida](https://open.spotify.com/track/7o5OacQ8i8FqtGilIlp4QE) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3) | [Vida Bandida](https://open.spotify.com/album/7kGGVSJHr8xgmB7u3SlPHt) | 5:33 | 2022-06-03 | 2022-06-18 |
 | [Vida Cara](https://open.spotify.com/track/0nsZQbNadjW37QgtXUeyBZ) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Vida Cara](https://open.spotify.com/album/2YPVbzizhoMyACc5VbpKQw) | 2:12 | 2022-03-22 |  |
@@ -222,6 +223,7 @@
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-27 | 2022-07-30 |
 | [X da questão](https://open.spotify.com/track/3Z8eJFFoYhHaDCn8DwPsqD) | [Hudson Xavier](https://open.spotify.com/artist/2P6nLjzOmgOrDJWgiUzuq6), [Dj Samu AKA Sunguiura](https://open.spotify.com/artist/7ydvW5TQvgfHLt5XGOju9L), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx) | [X da questão](https://open.spotify.com/album/0UHv4QlVLmNUiijrvVU6Qs) | 3:25 | 2022-09-05 |  |
 | [Zero Um \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/track/5UpXpV7YS9pdqlkMwRRH4a) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Zero Um \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/album/4oQQi6joZh7xaNCWjouYO7) | 3:25 | 2022-03-22 |  |
+| [É o Zulu](https://open.spotify.com/track/4vqlyDSA3wl9Z2J7OveyXb) | [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [É o Zulu](https://open.spotify.com/album/3fMc4eYLykh3ZbvHr4KW1X) | 2:48 | 2022-09-09 |  |
 | [É Verdade Esse Bilete](https://open.spotify.com/track/3KtQHdub9wOOGGNcC68nHr) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [É Verdade Esse Bilete](https://open.spotify.com/album/1CEstB0kyjgFBdu7kGDWJu) | 3:13 | 2022-08-26 | 2022-09-03 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

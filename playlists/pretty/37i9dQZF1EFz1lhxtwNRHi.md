@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,273 likes - 140 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,274 likes - 140 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 92 | [Zombie](https://open.spotify.com/track/4bhepnvYedYqxy51vCVEfU) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/7JpCGs5WcyjXotan0fIIW4) | 2:55 |
 | 93 | [Happier?](https://open.spotify.com/track/1akmlqMKOnItATjfnolfXO) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:31 |
 | 94 | [Express Myself](https://open.spotify.com/track/4UisKEOzb1R6Yu95k7UF0E) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Express Myself](https://open.spotify.com/album/5fKJd9WRNCvI8RYct7oWUP) | 3:30 |
-| 95 | [Be the 1](https://open.spotify.com/track/1dT6bzRblpd5ALByN95ScG) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Be the 1](https://open.spotify.com/album/7FTULKxxmfN9biaXculBGb) | 3:01 |
-| 96 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
+| 95 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
+| 96 | [Be the 1](https://open.spotify.com/track/1dT6bzRblpd5ALByN95ScG) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Be the 1](https://open.spotify.com/album/7FTULKxxmfN9biaXculBGb) | 3:01 |
 | 97 | [Sudden Death \(OMG\)](https://open.spotify.com/track/19TH3RUU4RFCJXOMCNHfZM) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Excommunication](https://open.spotify.com/album/6Wy2fOHFH90riocdTcRtkq) | 3:18 |
 | 98 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 |
 | 99 | [Room for One More](https://open.spotify.com/track/6RpvIV4chwtjirAA6DiNzz) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 4:07 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 122 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 |
 | 123 | [Slash My Tire](https://open.spotify.com/track/6T1ecdzhoLQUe9gdAiCerw) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:24 |
 | 124 | [California](https://open.spotify.com/track/5zJ7etJ3xJnS4ccMRUIOCH) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:40 |
-| 125 | [Shots with Mariah](https://open.spotify.com/track/2epbEmDaCITnKflZGluswL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:20 |
-| 126 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
+| 125 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
+| 126 | [Shots with Mariah](https://open.spotify.com/track/2epbEmDaCITnKflZGluswL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:20 |
 | 127 | [My Whole Life](https://open.spotify.com/track/3oo8W1b5umFaPXQELkhe3I) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:14 |
 | 128 | [Human Zoo](https://open.spotify.com/track/4pEjumrldjTclOXsrHp4x7) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:23 |
 | 129 | [Jump In](https://open.spotify.com/track/1CnFkCmCEQWgixlEZ85EUN) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:10 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 139 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 140 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc3MTE0MjksMDAwMDAwMDAxOTRhYzczOWM4NDZlMDA2MmQwNWEwOWZiYzMzYzZlMg==`
+Snapshot ID: `Mjc3MTI4NjksMDAwMDAwMDAwYTkxOTZhZjM3Zjg1ZDBmNTZiYTc2ZDdmYjY3NTY4Nw==`

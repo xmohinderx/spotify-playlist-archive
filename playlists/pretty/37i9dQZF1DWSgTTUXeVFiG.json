@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 7626,
+  "num_followers": 7654,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGFhZWUyYmQ0Mzc3NjJjMGM1MWJiNzFhNDQ3Y2Y0N2Ex",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDNjZTg5NWZiMGU4NzM1YTUyOTgyNDQ0MjkxNTBmNjE4",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 435640,
-      "name": "Anacaona - Live",
-      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+      "duration_ms": 517666,
+      "name": "Vivir Sin Ella - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -479,18 +475,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 517666,
-      "name": "Vivir Sin Ella - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj"
+      "duration_ms": 435640,
+      "name": "Anacaona - Live",
+      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -623,6 +623,38 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros Y Los Titanez De La Salsa",
+          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Tu Amor Me Hace Bien - Live Version",
+      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Red Garter, Vol. 1",
         "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
@@ -647,38 +679,6 @@
       "duration_ms": 497080,
       "name": "Me Gusta El Son - Live",
       "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 321200,
-      "name": "Tu Amor Me Hace Bien - Live Version",
-      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
-      },
-      "artists": [
-        {
-          "name": "Alberto Barros Y Los Titanez De La Salsa",
-          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
-        }
-      ],
-      "duration_ms": 280493,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 392933,
+      "name": "Hazme Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "30 A\u00f1os de Power",
         "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 422280,
       "name": "La Murga - Live",
       "url": "https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 392933,
-      "name": "Hazme Olvidarla - En Vivo",
-      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
     },
     {
       "added_at": "2022-03-18 05:00:00",

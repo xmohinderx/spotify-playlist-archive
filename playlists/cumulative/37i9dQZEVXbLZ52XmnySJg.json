@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-22",
+      "date_removed": null,
       "duration_ms": 207309,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
@@ -1763,6 +1763,28 @@
       "duration_ms": 336511,
       "name": "Champagne Poetry",
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "name": "Channa Ve (From \"Bhoot - Part One: The Haunted Ship\")",
+        "url": "https://open.spotify.com/album/5GpRdYZzZdQuau6MpH5MWH"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Mansheel Gujral",
+          "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "Channa Ve",
+      "url": "https://open.spotify.com/track/58ynJq9eLLDChA3GNFJcDL"
     },
     {
       "album": {
@@ -4045,7 +4067,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 258857,
       "name": "Ik Lamha",
       "url": "https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT"
@@ -6237,7 +6259,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 213750,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH"

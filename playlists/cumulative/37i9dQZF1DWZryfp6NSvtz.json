@@ -12687,7 +12687,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 207898,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/3a7mYW114lffQ7Rgq2j82n"
@@ -21563,7 +21563,7 @@
     {
       "album": {
         "name": "One Big Mess",
-        "url": "https://open.spotify.com/album/0Kzj9Krv9V5pXLSTbUyaMf"
+        "url": "https://open.spotify.com/album/2xedPu8DQ9EXvYl8KTmV75"
       },
       "artists": [
         {
@@ -21574,6 +21574,24 @@
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236868,
+      "name": "One Big Mess",
+      "url": "https://open.spotify.com/track/07Xx6slqgQ5BNuWqj8oncw"
+    },
+    {
+      "album": {
+        "name": "One Big Mess",
+        "url": "https://open.spotify.com/album/0Kzj9Krv9V5pXLSTbUyaMf"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
       "duration_ms": 236868,
       "name": "One Big Mess",
       "url": "https://open.spotify.com/track/1xJI08hQGSIzMPnObYbdh3"
@@ -32425,10 +32443,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 177866,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/1Ma2hJZri3KLUr8Cc3foD9"
+    },
+    {
+      "album": {
+        "name": "How Will I Know If Heaven Will Find Me?",
+        "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"
     },
     {
       "album": {

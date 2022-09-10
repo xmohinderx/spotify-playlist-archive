@@ -4,7 +4,7 @@
 
 > 125%
 
-69 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+71 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,10 @@
 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 | 2022-06-09 |  |
 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-08 |  |
 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 | 2022-06-09 |  |
+| [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 | 2022-09-09 |  |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 | 2022-06-09 | 2022-07-29 |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 | 2022-06-24 |  |
+| [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 | 2022-09-09 |  |
 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2022-06-09 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-06-09 |  |
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-06-09 |  |

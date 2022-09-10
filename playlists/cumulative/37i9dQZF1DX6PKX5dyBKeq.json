@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: Yung Fume",
+  "description": "The best of UK Rap & Drill.  Cover: Central Cee",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -1769,7 +1769,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 166930,
       "name": "Andale",
       "url": "https://open.spotify.com/track/6tcQvNr83sZVgkLXJbUPW6"
@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 148316,
       "name": "BATTY & BENCH - Freestyle pt. II",
       "url": "https://open.spotify.com/track/0V9pELwsLI9FrjrbZbjH9n"
@@ -3567,7 +3567,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 185112,
       "name": "BLOCK & DELETE",
       "url": "https://open.spotify.com/track/4Iv0Km4TarzZM3WbVfTzd0"
@@ -5701,7 +5701,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 195651,
       "name": "Contingency",
       "url": "https://open.spotify.com/track/0lm6nVlFyjRBuAHGzb94hB"
@@ -5825,7 +5825,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 144000,
       "name": "Cramp Dat",
       "url": "https://open.spotify.com/track/1GW8akHmq7EAopSihp7axF"
@@ -9134,6 +9134,48 @@
     },
     {
       "album": {
+        "name": "FRONTLINE",
+        "url": "https://open.spotify.com/album/2zPaGmf7ZCGiBfH2NSstXG"
+      },
+      "artists": [
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        },
+        {
+          "name": "OFB",
+          "url": "https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm"
+        },
+        {
+          "name": "Dezzie",
+          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
+        },
+        {
+          "name": "Akz",
+          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
+        },
+        {
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/0P1CKlruhcbhbq7yA5oh83"
+        },
+        {
+          "name": "Blitty",
+          "url": "https://open.spotify.com/artist/4ufdIafKHwh8RZjR60Vctx"
+        },
+        {
+          "name": "Kash One7",
+          "url": "https://open.spotify.com/artist/3dHuYvlVZ1Ew0Q2h1IpCjq"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257071,
+      "name": "FRONTLINE",
+      "url": "https://open.spotify.com/track/7FcmDFLl13OqyhF6fNM3Op"
+    },
+    {
+      "album": {
         "name": "Pier Pressure",
         "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
       },
@@ -11992,6 +12034,24 @@
     },
     {
       "album": {
+        "name": "LA Leakers Freestyle",
+        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "LA Leakers Freestyle",
+      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
+    },
+    {
+      "album": {
         "name": "Lagga",
         "url": "https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog"
       },
@@ -12291,7 +12351,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 180413,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
@@ -13001,6 +13061,28 @@
       "duration_ms": 134709,
       "name": "LSW",
       "url": "https://open.spotify.com/track/4HYYvnNZg3sZCGr0NkS8S1"
+    },
+    {
+      "album": {
+        "name": "Lucious",
+        "url": "https://open.spotify.com/album/73UXINJanT7sabQxcbL2Am"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198900,
+      "name": "Lucious",
+      "url": "https://open.spotify.com/track/1c90f63JrnaQZxKBdJdbPn"
     },
     {
       "album": {
@@ -14648,6 +14730,24 @@
     },
     {
       "album": {
+        "name": "Never Me",
+        "url": "https://open.spotify.com/album/28LgYl7Chg2wvwCrQ2msxo"
+      },
+      "artists": [
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172867,
+      "name": "Never Me",
+      "url": "https://open.spotify.com/track/12vCqqXtZxPnYyB98o9ben"
+    },
+    {
+      "album": {
         "name": "New Kid On The Block",
         "url": "https://open.spotify.com/album/6I5Jn8CvPhZU3QsgMn9Kw8"
       },
@@ -15935,7 +16035,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 193714,
       "name": "Outplayed",
       "url": "https://open.spotify.com/track/2C5uNQSSIMwwzRel5pPgha"
@@ -17453,7 +17553,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 186181,
       "name": "Pure Filth",
       "url": "https://open.spotify.com/track/4UpfEY1QgZUerJ2lAWUyuL"
@@ -20543,7 +20643,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 176227,
       "name": "Streets Don't Love You",
       "url": "https://open.spotify.com/track/6bhqJ5yX9hVb3S6teuds0p"

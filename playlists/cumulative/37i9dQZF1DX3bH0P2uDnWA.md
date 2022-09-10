@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-183 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+184 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 | 2020-10-30 |  |
 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 | 2022-05-13 |  |
 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 | 2020-10-30 |  |
-| [Butterfly \- Wolfgang Lohr Remix](https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Butterfly \(Remixes\)](https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX) | 5:50 | 2020-10-30 |  |
+| [Butterfly \- Wolfgang Lohr Remix](https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Butterfly \(Remixes\)](https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX) | 5:50 | 2020-10-30 | 2022-09-10 |
 | [Butterfly \- Wolfgang Lohr Remix](https://open.spotify.com/track/38y2r6F9E3VutUPgBlcnpc) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Butterfly \(Remixes\)](https://open.spotify.com/album/0th963bxkj9SxqaoBT2tXT) | 5:50 | 2020-10-30 | 2022-07-29 |
 | [Button Up](https://open.spotify.com/track/0yFu8XNnKr0ium4NrmWCtB) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Vintage Jukebox EP](https://open.spotify.com/album/7rA6iTmGOEzJNtKGjh41Hl) | 3:23 | 2020-10-30 | 2022-07-25 |
 | [Candy Girl](https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Vallemarie](https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g) | [Candy Girl](https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1) | 2:42 | 2022-01-21 |  |
@@ -135,6 +135,7 @@
 | [Scruffy](https://open.spotify.com/track/1mMFvnyJ3kjfq0PvUklgoM) | [Dutty Moonshine](https://open.spotify.com/artist/6suC1lu4yyFjKekdrdYvQQ), [Charlie D](https://open.spotify.com/artist/2XeFMwO0MinTqakpkaLrcY), [Fiona Hamilton](https://open.spotify.com/artist/6s1rrIhnIhlLyoUyYxHERv) | [Scruffy EP](https://open.spotify.com/album/7LHG1Q13Jp80EL5FJgC521) | 3:31 | 2020-10-30 | 2022-05-15 |
 | [Seven Million Faces](https://open.spotify.com/track/1MewhvBPNpnx9CarLQgdPq) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Seven Million Faces](https://open.spotify.com/album/6jBDYSqnFCcDSc2o4ZElcv) | 3:39 | 2020-10-30 | 2022-05-14 |
 | [Shotgun Swing](https://open.spotify.com/track/4qitoWab2HSAZ9wFKkz1QZ) | [K.D.S](https://open.spotify.com/artist/5QscINCpyJkmsKEH5GBl88), [Stabfinger](https://open.spotify.com/artist/3neJn3rp5j5QGQqMxeK2Be), [Moonanga](https://open.spotify.com/artist/35onpfN6LssILnF0NE7Yg1), [Amina Annabi](https://open.spotify.com/artist/0syaepUD5LLHaIp2Kx1jJI) | [Shotgun Swing](https://open.spotify.com/album/1DBIMv3HoBhboUOZgEgdaR) | 4:37 | 2021-05-21 |  |
+| [Sie Will](https://open.spotify.com/track/24arxHaSUQgzHjEEVNdVGb) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [78plus](https://open.spotify.com/artist/2rpPv0F6zJgyrhJuKpJDIo) | [Sie Will \(Electro Swing Version\)](https://open.spotify.com/album/12RZ8MMnyLsja8NUCIr6Nu) | 2:52 | 2022-09-09 |  |
 | [Silent Movie](https://open.spotify.com/track/2mIU73YWa7iBLOgGjJ4b41) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Silent Movie](https://open.spotify.com/album/3ZDrWmzwxaEOTarv1X2Od9) | 3:17 | 2020-10-30 | 2022-07-29 |
 | [Sing It Back](https://open.spotify.com/track/7GOXkO5vEGyZWGgja0qXSb) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Mo' Electro Swing Republic \- Let's Misbehave](https://open.spotify.com/album/1FSv5rsUfplkb2KBhg3aX0) | 3:31 | 2020-10-30 | 2022-05-14 |
 | [Sinister Piffle](https://open.spotify.com/track/6vY2FbKVYwrBjCIf3j8gZU) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [Frenzy](https://open.spotify.com/album/0SPLYbew3ug08fLlrCqZk1) | 4:08 | 2020-10-30 | 2022-05-14 |

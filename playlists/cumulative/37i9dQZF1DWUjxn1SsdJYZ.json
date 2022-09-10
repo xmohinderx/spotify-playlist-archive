@@ -1400,6 +1400,24 @@
     },
     {
       "album": {
+        "name": "Go Gettaz",
+        "url": "https://open.spotify.com/album/28TaD1I7rQBkBKxKWGNQJK"
+      },
+      "artists": [
+        {
+          "name": "Shely210",
+          "url": "https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152880,
+      "name": "Go Gettaz",
+      "url": "https://open.spotify.com/track/34Kt6A0kctf8J65iOwJbZs"
+    },
+    {
+      "album": {
         "name": "GO!",
         "url": "https://open.spotify.com/album/2kWGAs4zrCzMPofbzKs46W"
       },

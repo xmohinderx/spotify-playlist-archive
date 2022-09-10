@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: Grimes
 
-285 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+286 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 2:50 | 2021-11-15 | 2022-07-29 |
 | [Class Historian](https://open.spotify.com/track/34PidhtYDeDR2K4iHzLO2g) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Just Enough Hip To Be Woman](https://open.spotify.com/album/1bM7YCtDmITctjVq1BSyAo) | 3:32 | 2021-11-15 | 2022-07-25 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-02-21 |  |
-| [Come Down](https://open.spotify.com/track/276zciJ7Fg7Jk6Ta6QuLkp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 2:49 | 2022-02-21 |  |
+| [Come Down](https://open.spotify.com/track/276zciJ7Fg7Jk6Ta6QuLkp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 2:49 | 2022-02-21 | 2022-09-10 |
 | [Come For Me](https://open.spotify.com/track/0p3Gm7ZEqV4jdsMKWsPJ8O) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Come For Me](https://open.spotify.com/album/0qqSJYvt8rtJlF1GMkRhKc) | 3:29 | 2021-11-15 | 2022-07-28 |
 | [Comeback Kid](https://open.spotify.com/track/4uwpFuqYn5wON8iRg2mnhp) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Comeback Kid](https://open.spotify.com/album/6gnT7IIyHL2nYYPsF9teBw) | 3:02 | 2021-11-15 | 2022-07-19 |
 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2021-11-15 |  |
@@ -97,6 +97,7 @@
 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2021-11-15 | 2022-07-29 |
 | [Garden](https://open.spotify.com/track/5xcTXsQCDfyT5fHwrzPgzW) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Leave Me Alone](https://open.spotify.com/album/2ILzlgDg3yqPT1xxf1f52I) | 4:07 | 2021-11-15 | 2022-07-20 |
 | [Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:15 | 2022-02-21 | 2022-07-29 |
+| [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2022-02-21 |  |
 | [Good Grief](https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:26 | 2022-02-21 |  |
 | [Gooey](https://open.spotify.com/track/68ClfNyV71AjdTfGIyu4Gx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA \(Deluxe\)](https://open.spotify.com/album/0dd6bX3CRdybDCgltyoItP) | 4:49 | 2021-11-15 | 2022-07-27 |
 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2022-02-21 |  |

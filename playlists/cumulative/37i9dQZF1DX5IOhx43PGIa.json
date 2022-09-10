@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "MAGIC MAN",
+        "url": "https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159927,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
+    },
+    {
+      "album": {
         "name": "Blue (feat. msftz)",
         "url": "https://open.spotify.com/album/00adV4zPSUtZJQkko7t0Wc"
       },
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 178726,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 148205,
       "name": "Day Like This",
       "url": "https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu"
@@ -2386,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "the other side",
+        "url": "https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147786,
+      "name": "imysm",
+      "url": "https://open.spotify.com/track/7dr94wicpFwDjPyPDV0UIB"
+    },
+    {
+      "album": {
         "name": "in june",
         "url": "https://open.spotify.com/album/7luewqzvLdxzYrJWiwSafI"
       },
@@ -3445,6 +3481,24 @@
       "duration_ms": 195161,
       "name": "Need A Moment",
       "url": "https://open.spotify.com/track/54dfyiqH4Q8FQAyASqJNyt"
+    },
+    {
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/0bkNnBx5lLhRT1xXELdBYC"
+      },
+      "artists": [
+        {
+          "name": "MANILA GREY",
+          "url": "https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175533,
+      "name": "NEED IT FROM YOU",
+      "url": "https://open.spotify.com/track/79bPtuYBpnNJTwCJEVzECO"
     },
     {
       "album": {
@@ -5020,6 +5074,28 @@
     },
     {
       "album": {
+        "name": "We Are (\uc6b0\ub9ac\ub294)",
+        "url": "https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226036,
+      "name": "We Are (\uc6b0\ub9ac\ub294)",
+      "url": "https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu"
+    },
+    {
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },
@@ -5221,7 +5297,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 164723,
       "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"
@@ -5275,7 +5351,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 213000,
       "name": "You",
       "url": "https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94"

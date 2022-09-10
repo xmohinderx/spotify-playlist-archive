@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 206000,
       "name": "20:37",
       "url": "https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP"
@@ -2495,7 +2495,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 169767,
       "name": "i hate u",
       "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
@@ -5738,6 +5738,24 @@
     },
     {
       "album": {
+        "name": "Trouble Is An Enemy",
+        "url": "https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9"
+      },
+      "artists": [
+        {
+          "name": "Alec Orachi",
+          "url": "https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170795,
+      "name": "Trouble Is An Enemy",
+      "url": "https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG"
+    },
+    {
+      "album": {
         "name": "Trust Me With This (Mama)",
         "url": "https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO"
       },
@@ -5985,6 +6003,28 @@
       "duration_ms": 175531,
       "name": "walk away",
       "url": "https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi"
+    },
+    {
+      "album": {
+        "name": "We Are (\uc6b0\ub9ac\ub294)",
+        "url": "https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226036,
+      "name": "We Are (\uc6b0\ub9ac\ub294)",
+      "url": "https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu"
     },
     {
       "album": {
@@ -6332,7 +6372,7 @@
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 306907,
+      "duration_ms": 306602,
       "name": "World's End (feat. Julia Wu, 5lack)",
       "url": "https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ"
     },

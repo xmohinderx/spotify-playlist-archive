@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica: Foto: LIT killah.",
+  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica: Foto: Feid, Totoy El Frio",
   "name": "Hits Urbanos",
   "published_playlist_ids": [
     "2GQMqIHn6mzjfv4YUbCfpS"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 171690,
       "name": "2010",
       "url": "https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH"
@@ -1246,6 +1246,32 @@
     },
     {
       "album": {
+        "name": "CXO (A Qui\u00e9n No Le Gusta)",
+        "url": "https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236156,
+      "name": "CXO (A Qui\u00e9n No Le Gusta)",
+      "url": "https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY"
+    },
+    {
+      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
@@ -2197,6 +2223,24 @@
       "duration_ms": 190564,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138510,
+      "name": "ESCALOFR\u00cdOS",
+      "url": "https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7"
     },
     {
       "album": {
@@ -3983,7 +4027,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 232000,
       "name": "Me Arrepent\u00ed",
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"
@@ -4437,7 +4481,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 180674,
       "name": "M\u00edrate Bien",
       "url": "https://open.spotify.com/track/7yQVxpEIfgUJZJLoucfbs3"
@@ -5249,6 +5293,28 @@
       "duration_ms": 258540,
       "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
       "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
+    },
+    {
+      "album": {
+        "name": "Pensandote",
+        "url": "https://open.spotify.com/album/4DUR6SSSfdxqBbekrfKsDE"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Pensandote",
+      "url": "https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1"
     },
     {
       "album": {
@@ -6341,7 +6407,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 191628,
       "name": "Tapate (with Ak4:20)",
       "url": "https://open.spotify.com/track/4tckYfU2DJXdCqBlLWdiEX"
@@ -6909,7 +6975,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"

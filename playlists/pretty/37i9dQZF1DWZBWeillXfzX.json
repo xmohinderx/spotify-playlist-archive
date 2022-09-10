@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13501,
+  "num_followers": 13522,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGVkMDFlODJjOGU1YzhhZjhmOWNiYWIyNTU1NjlkMzY4",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDhhMWRjM2M3NGUxOTI1OGVhYzExNzg0NjUwZTM0NDY1",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -347,6 +347,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Anything But Time",
+        "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
+      },
+      "artists": [
+        {
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Anything But Time",
+      "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Ashes & Dust",
         "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Anything But Time",
-        "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
-      },
-      "artists": [
-        {
-          "name": "Matt Schofield",
-          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Anything But Time",
-      "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
     },
     {
       "added_at": "2020-10-21 17:37:12",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 130751,
+  "num_followers": 130774,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYzNTEwNCwwMDAwMDAwMDI5YWUwZWFjNTY3N2IyZjZiMjU0NGQ3YzczNjkwZDYw",
+  "snapshot_id": "MTY2MjYzNTEwNCwwMDAwMDAwMGFmMjYwZTQ1MTZkMTRjYTFlMjgwNWQxZjQzNzk1ZGVk",
   "tracks": [
     {
       "added_at": "2022-09-08 11:05:04",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/11mioDjgfPQDIAXUV47ZJl"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 234986,
       "name": "The Hill of Yearning",
       "url": "https://open.spotify.com/track/7wx0FTZNpicjRvEQwYzxZm"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Woh Din Yaad Aande Ne (From \"Code M\")",
         "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 232083,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "yours, sincerely",
-        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 271191,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/0oSL02PWnFYXRDY9ShDCH1"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 222329,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/7edEUxDTzj9pbHSIVHDyJ5"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "yours, sincerely",
+        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 271191,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
-      },
-      "artists": [
-        {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
-        }
-      ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Bla Bik",
         "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 175384,
       "name": "Bla Bik",
       "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+      },
+      "artists": [
+        {
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+        }
+      ],
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2319,38 +2319,6 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
-      },
-      "artists": [
-        {
-          "name": "Hansol",
-          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
-        "name": "DOCUMENTARY",
-        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
-    },
-    {
-      "added_at": "2022-09-08 11:05:04",
-      "album": {
         "name": "Maghihintay",
         "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
       },
@@ -2363,6 +2331,22 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
+      },
+      "artists": [
+        {
+          "name": "Hansol",
+          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2022-09-08 11:05:04",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+        "name": "DOCUMENTARY",
+        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
       "artists": [
         {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
         }
       ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+      "duration_ms": 249545,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
     },
     {
       "added_at": "2022-09-08 11:05:04",
@@ -2415,6 +2399,22 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
+    },
+    {
+      "added_at": "2022-09-08 11:05:04",
+      "album": {
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+      },
+      "artists": [
+        {
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+        }
+      ],
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
     },
     {
       "added_at": "2022-09-08 11:05:04",

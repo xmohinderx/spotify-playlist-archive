@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Funky Family",
+        "url": "https://open.spotify.com/album/2FeJEOVHMx2oO8s7ZybmeI"
+      },
+      "artists": [
+        {
+          "name": "Them Vibes",
+          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246641,
+      "name": "Funky Family",
+      "url": "https://open.spotify.com/track/3WVxrFlPRkR7reDUOctOKb"
+    },
+    {
+      "album": {
         "name": "Reachin' Up",
         "url": "https://open.spotify.com/album/4Adfft6sCzWvgkr4B7Vjql"
       },

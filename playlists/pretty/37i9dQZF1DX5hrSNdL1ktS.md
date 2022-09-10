@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,156 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,158 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 29 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 |
 | 30 | [hebilla](https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:43 |
 | 31 | [Webcam](https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Webcam](https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3) | 3:00 |
-| 32 | [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 |
-| 33 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 |
+| 32 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 |
+| 33 | [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 |
 | 34 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 |
 | 35 | [Morena Mía](https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Morena Mía](https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0) | 2:43 |
 | 36 | [La Duda](https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [La Duda](https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm) | 3:21 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Loquera](https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK), [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Loquera](https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev) | 3:14 |
 | 55 | [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDk0ZDY2ZTE0NzI2NGM1NjI5NzhjODA0MGJkMmZhMjRk`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGVjODg0YWY2YmMzMDVkNTgzNmU5NDE1OThjYzQ2M2Jl`

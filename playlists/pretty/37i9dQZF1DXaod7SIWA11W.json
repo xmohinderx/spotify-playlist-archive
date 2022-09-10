@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Jonathan McReynolds",
-  "num_followers": 22111,
+  "num_followers": 22241,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE2Nzg5MiwwMDAwMDAwMDkyYzIzMTJjMTlkYTVkMTFiNTVhMWUwYzQ3N2JjZDY5",
+  "snapshot_id": "MTY2MjE2Nzg5MiwwMDAwMDAwMGYzZWZmOTY2Y2M3MWM3MmQxMjA3NjgzMjAxNGNmMjU4",
   "tracks": [
     {
       "added_at": "2022-09-03 01:18:12",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
+        "name": "ONE WAY",
+        "url": "https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 131317,
+      "name": "ONE WAY",
+      "url": "https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 189009,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
-        "name": "ONE WAY",
-        "url": "https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 131317,
-      "name": "ONE WAY",
-      "url": "https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/1iItuJVyvs7hpvhsShybhv"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 133053,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "E6 (Hot Mix)",
         "url": "https://open.spotify.com/album/3VWh2UjLcYbic1FFmkzL9B"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 210679,
       "name": "E6 - Hot Mix",
       "url": "https://open.spotify.com/track/5wQMXr2mmNfnMUtgR7A8hi"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/1iItuJVyvs7hpvhsShybhv"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 133053,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "GREAT IS YOUR FAITHFULNESS",
-        "url": "https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 251206,
-      "name": "GREAT IS YOUR FAITHFULNESS",
-      "url": "https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 186337,
       "name": "You",
       "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "GREAT IS YOUR FAITHFULNESS",
+        "url": "https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 251206,
+      "name": "GREAT IS YOUR FAITHFULNESS",
+      "url": "https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -779,42 +779,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
-        "name": "World On Fire (feat. Ryan Avery)",
-        "url": "https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Ryan Avery",
-          "url": "https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS"
-        }
-      ],
-      "duration_ms": 183098,
-      "name": "World On Fire (feat. Ryan Avery)",
-      "url": "https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw"
       },
@@ -835,6 +799,22 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
         "name": "The End.",
         "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 140554,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "World On Fire (feat. Ryan Avery)",
+        "url": "https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Ryan Avery",
+          "url": "https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS"
+        }
+      ],
+      "duration_ms": 183098,
+      "name": "World On Fire (feat. Ryan Avery)",
+      "url": "https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Black As Heaven",
-        "url": "https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp"
+        "name": "GOD'S LOVE",
+        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
       },
       "artists": [
         {
-          "name": "Sho Baraka",
-          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
         },
         {
-          "name": "Mag44",
-          "url": "https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Black As Heaven",
-      "url": "https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo"
+      "duration_ms": 137064,
+      "name": "GOD'S LOVE",
+      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "GOD'S LOVE",
-        "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
+        "name": "Black As Heaven",
+        "url": "https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp"
       },
       "artists": [
         {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
         },
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Mag44",
+          "url": "https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU"
         }
       ],
-      "duration_ms": 137064,
-      "name": "GOD'S LOVE",
-      "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
+      "duration_ms": 217600,
+      "name": "Black As Heaven",
+      "url": "https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/1TskaKoRAEdH7vsxINxS9o"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/6mL8VhVRDTW0KBByMD0TTo"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
-        "name": "God of Dreams",
-        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
       },
@@ -1415,6 +1383,22 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/1TskaKoRAEdH7vsxINxS9o"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/6mL8VhVRDTW0KBByMD0TTo"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "God of Dreams",
+        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
     },
     {
       "added_at": "2022-09-03 01:18:12",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-03 01:18:12",
       "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
-      },
-      "artists": [
-        {
-          "name": "Sho Baraka",
-          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
-    },
-    {
-      "added_at": "2022-09-03 01:18:12",
-      "album": {
         "name": "This Is What It Looks Like (Live)",
         "url": "https://open.spotify.com/album/6K0yaMEK51VrgHwVgXCaUk"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 627926,
       "name": "This Is What It Looks Like - Live",
       "url": "https://open.spotify.com/track/4b7YOF5Pe8YaQ7ReIPf3gk"
+    },
+    {
+      "added_at": "2022-09-03 01:18:12",
+      "album": {
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
+      },
+      "artists": [
+        {
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
     },
     {
       "added_at": "2022-09-03 01:18:12",

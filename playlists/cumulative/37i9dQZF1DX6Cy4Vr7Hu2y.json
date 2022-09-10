@@ -3406,6 +3406,24 @@
     },
     {
       "album": {
+        "name": "the Billage of perception: chapter two",
+        "url": "https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206717,
+      "name": "RING ma Bell (what a wonderful world)",
+      "url": "https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv"
+    },
+    {
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm"
       },
@@ -4103,7 +4121,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 238133,
       "name": "THE GIRLS (Can\u2019t turn me down)",
       "url": "https://open.spotify.com/track/5bZ8iEjZ0iLq6Hr6GPWsUR"

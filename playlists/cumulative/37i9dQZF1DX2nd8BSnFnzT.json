@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Alerta",
+        "url": "https://open.spotify.com/album/60BEBdhWozkZlmna9QmwZS"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200645,
+      "name": "Alerta",
+      "url": "https://open.spotify.com/track/4lnTk0oPt5GLSzwrs1mjAX"
+    },
+    {
+      "album": {
         "name": "No Paiz das Amazonas",
         "url": "https://open.spotify.com/album/13IzBp3bHJcpF0Eh1cA33g"
       },
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 200651,
       "name": "Fauna Abisal - Ale Zastras Remix",
       "url": "https://open.spotify.com/track/7Cz8xM8YGkVr2Xyug1bbE4"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 183065,
       "name": "Hipnose",
       "url": "https://open.spotify.com/track/7FeR0yVfu44pb0AzaCjep6"
@@ -2252,7 +2270,7 @@
     },
     {
       "album": {
-        "name": "Paulo Netto Canta Belchior (Live In Vip)",
+        "name": "Paulo Netto Canta Belchior",
         "url": "https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp"
       },
       "artists": [
@@ -2269,7 +2287,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 359140,
-      "name": "Na Hora Do Almo\u00e7o / A Palo Seco - Live In Vip",
+      "name": "Na Hora Do Almo\u00e7o / A Palo Seco",
       "url": "https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby"
     },
     {
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 193000,
       "name": "O Infinito que Existe em Mim",
       "url": "https://open.spotify.com/track/4AlwQo9vrbB9yTL5KqdhQ2"
@@ -2945,6 +2963,28 @@
       "duration_ms": 214125,
       "name": "Por Quem os Sinos Dobram",
       "url": "https://open.spotify.com/track/5IIFSYPhm5CwzFGOVlob6R"
+    },
+    {
+      "album": {
+        "name": "Bar\u00e3o 40 (Sucessos)",
+        "url": "https://open.spotify.com/album/1hY5slKrrcJ3WsQ6IF3rCm"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316057,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/2eS2ehUejP0cvXId8hRPNN"
     },
     {
       "album": {
@@ -3773,6 +3813,24 @@
       "duration_ms": 205735,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/0E7v3buDNbZrb5oZiDYjnB"
+    },
+    {
+      "album": {
+        "name": "Vai Saber",
+        "url": "https://open.spotify.com/album/42ObjQ6VVIqs1NFSQ8vVeo"
+      },
+      "artists": [
+        {
+          "name": "Dazaranha",
+          "url": "https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Vai Saber",
+      "url": "https://open.spotify.com/track/3saLejtlN4SwXdMsgraD81"
     },
     {
       "album": {

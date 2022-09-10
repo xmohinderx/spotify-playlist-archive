@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 71 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 71 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 14 | [Don't You Worry](https://open.spotify.com/track/5PLh9vLtiBe3uTmMCOaFVZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:31 |
 | 15 | [K.](https://open.spotify.com/track/1n4ngnAbnYsfvMRuDB6du3) | [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [K.](https://open.spotify.com/album/13cjffeJAT5ITEH07iWsP5) | 3:06 |
 | 16 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 |
-| 17 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 |
-| 18 | [lovesick \(feat\. ellise\)](https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:43 |
+| 17 | [lovesick \(feat\. ellise\)](https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:43 |
+| 18 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 |
 | 19 | [Like You](https://open.spotify.com/track/7p5MI2KnFzTmY31nrGWxki) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Like You](https://open.spotify.com/album/0HzVZc17Up2e3QR7dB3yHD) | 2:45 |
 | 20 | [mess without u](https://open.spotify.com/track/6jrdQDuG6OiLvbBU7zL1b8) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [mess without u](https://open.spotify.com/album/4cGO1Zt2uM6G97rUIcQIJI) | 3:14 |
 | 21 | [Give It All](https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/6dCdUkSiLM2H6zsWzu0wUa) | 3:12 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 70 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 71 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc3MTE0NDAsMDAwMDAwMDA0NjU2NzFiY2Y3ZDM1ZTE0NzcyZWIzZDg2MjIzYjM4Nw==`
+Snapshot ID: `Mjc3MTI4ODAsMDAwMDAwMDAyMjljM2RmYzdmODNmNzI5NmU4ZDQ5NzVlZWNhZGZiNQ==`

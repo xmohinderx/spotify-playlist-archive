@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 138260,
       "name": "Action",
       "url": "https://open.spotify.com/track/6GynhMpLIO4E0LtjIVyFWI"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 237391,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 224866,
       "name": "Come Through",
       "url": "https://open.spotify.com/track/6ThtG8gsdgTSMeJ0kOz47B"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 185999,
       "name": "Confam",
       "url": "https://open.spotify.com/track/5DBDVCBlR9o20XdEj6RBv7"
@@ -2530,6 +2530,32 @@
     },
     {
       "album": {
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
+    },
+    {
+      "album": {
         "name": "less is more",
         "url": "https://open.spotify.com/album/2YRR2wZ8cz6nDHeUUfW5BI"
       },
@@ -3605,7 +3631,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 209363,
       "name": "RaRa",
       "url": "https://open.spotify.com/track/2HxmPKh7dpMI8GZgWLXuRI"
@@ -3981,6 +4007,24 @@
       "duration_ms": 180159,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW"
+    },
+    {
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/6ou78tufapX7uj4wawzjJy"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169608,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/529UbUitoTJqEO5do3znnW"
     },
     {
       "album": {
@@ -4734,6 +4778,24 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6tThUvsa9NTLfdkFV2S7I3"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86076,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6lymDMoeOs8GHutXElZTSn"
+    },
+    {
+      "album": {
         "name": "Love Letters II",
         "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
       },
@@ -4767,6 +4829,24 @@
       "duration_ms": 178217,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC"
+    },
+    {
+      "album": {
+        "name": "What To Expect When Expecting",
+        "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "What To Expect When Expecting",
+      "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
     },
     {
       "album": {

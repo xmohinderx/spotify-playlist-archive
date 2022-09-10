@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,667 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,693 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 11 | [Cumbia del Monstruo](https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Nada en Su Lugar](https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ) | 3:27 |
 | 12 | [No Importa la Distancia \(Go the Distance\)](https://open.spotify.com/track/4QKkCh2wn5iTdws70W9XaR) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:51 |
 | 13 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 |
-| 14 | [Baby Shark](https://open.spotify.com/track/5k71IudErIAnPklwCbgbgR) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Baby Shark](https://open.spotify.com/album/2a6Jc7yO9JJw870sjR8dbq) | 1:37 |
-| 15 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
+| 14 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
+| 15 | [Baby Shark](https://open.spotify.com/track/5k71IudErIAnPklwCbgbgR) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Baby Shark](https://open.spotify.com/album/2a6Jc7yO9JJw870sjR8dbq) | 1:37 |
 | 16 | [Agua](https://open.spotify.com/track/7tBhKomsIxF7pTkVDnh6sa) | [Magdalena Fleitas](https://open.spotify.com/artist/7vUHOeU5ADsenylCCvlaQV) | [Risas Del Sol](https://open.spotify.com/album/1PxnhW7McgHUjAUlF8q9md) | 3:04 |
 | 17 | [Duerme negrito](https://open.spotify.com/track/7HMHqxqrr1exm1O5QuyPI0) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:36 |
 | 18 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Get Up, Stand Up](https://open.spotify.com/track/36jJo5n5etzL8cjDZPzvkZ) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 2:12 |
 | 50 | [Nube de Algodón](https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe) | [Nube de Algodón](https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom) | 2:16 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDE0ODQ0MTk1NGRkMDdiZWRjYzgwMTQxOTM5OTk1YWZm`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDhlN2E2YmM4YjU3YjAyN2E5MGIwOGIyMWZhZjJjOTg1`

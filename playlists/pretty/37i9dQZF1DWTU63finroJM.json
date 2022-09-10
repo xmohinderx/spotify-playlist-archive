@@ -1,12 +1,12 @@
 {
   "description": "From across the globe. New artists on the horizon.",
-  "num_followers": 30901,
+  "num_followers": 30982,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDQ1Zjc2ZDA0MGY5NTcxOTIyM2Y3OTM4ODNhYTYzMTM3",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGY2Y2UzMjViZDdiN2QwMzRlMzMxN2VkMmEzMTk4YzY2",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -403,42 +403,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "El Mensaje",
-        "url": "https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Mensaje",
-      "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Rangi Saari",
-        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
-      },
-      "artists": [
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Rangi Saari",
-      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Ligaya",
         "url": "https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH"
       },
@@ -487,18 +451,38 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+        "name": "El Mensaje",
+        "url": "https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+      "duration_ms": 182000,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Rangi Saari",
+        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Rangi Saari",
+      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -539,18 +523,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
       "artists": [
         {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 225714,
-      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -567,6 +551,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Letters Never Sent",
         "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 216774,
       "name": "Binhi",
       "url": "https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Alma Vac\u00eda",
+        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 261855,
+      "name": "Llamadas Perdidas",
+      "url": "https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Volando",
         "url": "https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Alma Vac\u00eda",
-        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 261855,
-      "name": "Llamadas Perdidas",
-      "url": "https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Altbau",
         "url": "https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA"
       },
@@ -967,22 +967,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "vaicaunoicokhiennguoithaydoi",
-        "url": "https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok"
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
       },
       "artists": [
         {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
         },
         {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
         }
       ],
-      "duration_ms": 225862,
-      "name": "vaicaunoicokhiennguoithaydoi",
-      "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
+      "duration_ms": 141541,
+      "name": "Centraal Station",
+      "url": "https://open.spotify.com/track/7KRLuW6FGjcT0erRP4SLfW"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Hallo",
-        "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
+        "name": "vaicaunoicokhiennguoithaydoi",
+        "url": "https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok"
       },
       "artists": [
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 132274,
-      "name": "Hallo",
-      "url": "https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr"
+      "duration_ms": 225862,
+      "name": "vaicaunoicokhiennguoithaydoi",
+      "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1083,42 +1087,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Tu Y Yo (feat. Los del Control)",
-        "url": "https://open.spotify.com/album/3K56iZrJa7zer37xBgSSoE"
-      },
-      "artists": [
-        {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        },
-        {
-          "name": "Los del Control",
-          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
-        }
-      ],
-      "duration_ms": 178297,
-      "name": "Tu Y Yo (feat. Los del Control)",
-      "url": "https://open.spotify.com/track/5pVEORKrVAtcWOEMJlZCFB"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
       },
       "artists": [
         {
           "name": "Antoon",
           "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
         }
       ],
-      "duration_ms": 141541,
-      "name": "Centraal Station",
-      "url": "https://open.spotify.com/track/7KRLuW6FGjcT0erRP4SLfW"
+      "duration_ms": 132274,
+      "name": "Hallo",
+      "url": "https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1135,6 +1115,26 @@
       "duration_ms": 167280,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Tu Y Yo (feat. Los del Control)",
+        "url": "https://open.spotify.com/album/3K56iZrJa7zer37xBgSSoE"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "duration_ms": 178297,
+      "name": "Tu Y Yo (feat. Los del Control)",
+      "url": "https://open.spotify.com/track/5pVEORKrVAtcWOEMJlZCFB"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Lovers Fevers",
+        "url": "https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "duration_ms": 211744,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "O Justo N\u00e3o Treme",
         "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Lovers Fevers",
-        "url": "https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB"
-      },
-      "artists": [
-        {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
-        }
-      ],
-      "duration_ms": 211744,
-      "name": "I Wish I Never Met You",
-      "url": "https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Las Dos Caras Del Amor",
         "url": "https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Kelede",
         "url": "https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb"
       },
@@ -1255,6 +1239,38 @@
       "duration_ms": 159306,
       "name": "Kelede",
       "url": "https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+        "name": "Hanggang sa Huli",
+        "url": "https://open.spotify.com/album/4Yjs5ZMEZVyMxivzPfjjsl"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
         }
       ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+      "duration_ms": 289090,
+      "name": "Hanggang sa Huli",
+      "url": "https://open.spotify.com/track/3FGbfm2NLfCgdDXZTyUDVp"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 180581,
       "name": "Little Bit of This",
       "url": "https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Hanggang sa Huli",
-        "url": "https://open.spotify.com/album/4Yjs5ZMEZVyMxivzPfjjsl"
-      },
-      "artists": [
-        {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
-        }
-      ],
-      "duration_ms": 289090,
-      "name": "Hanggang sa Huli",
-      "url": "https://open.spotify.com/track/3FGbfm2NLfCgdDXZTyUDVp"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Meant 2 Be",
         "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 277359,
       "name": "Meant 2 Be",
       "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
         "url": "https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Ulap",
+        "url": "https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 405738,
+      "name": "Ulap",
+      "url": "https://open.spotify.com/track/0yBycfuTYOoDrvfP5wY2Ux"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
         "url": "https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Ulap",
-        "url": "https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf"
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 405738,
-      "name": "Ulap",
-      "url": "https://open.spotify.com/track/0yBycfuTYOoDrvfP5wY2Ux"
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Junto A T\u00ed",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A T\u00ed",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Matkhafesh Yamma",
         "url": "https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 216000,
       "name": "\u0e41\u0e1f\u0e19\u0e40\u0e01\u0e48\u0e32\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14",
       "url": "https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Junto A T\u00ed",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A T\u00ed",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     }
   ],
   "unique_name": "RADAR Global",

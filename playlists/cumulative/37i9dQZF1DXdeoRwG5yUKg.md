@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-123 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+124 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cryin In The Rain](https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv) | 3:30 | 2022-09-02 |  |
 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 | 2022-03-15 |  |
 | [Drown in My Own Tears](https://open.spotify.com/track/0FntDGdy2Kgd75xCSO6eZ3) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Drown in My Own Tears](https://open.spotify.com/album/2jXFprFNbuaBkZPkWj7Zrp) | 4:35 | 2021-10-22 |  |
+| [Emmaline](https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 3:35 | 2022-09-09 |  |
 | [Everybody Loves a Winner](https://open.spotify.com/track/2EUDthXhUTD7M40VSkWDq1) | [Lisa Mills](https://open.spotify.com/artist/5qjvtl7sQsjMEFadXXdEvE) | [The Triangle \(Expanded Edition\)](https://open.spotify.com/album/6ziGDbVoEO24tCewCBejrK) | 3:15 | 2021-07-30 |  |
 | [Fall Apart](https://open.spotify.com/track/1QCxnFbOnDiR1Ynd3cME4k) | [Jeff Jensen](https://open.spotify.com/artist/0GJFspOyGpSZJfFyH9EY3A) | [Morose Elephant](https://open.spotify.com/album/2x2Ot46HRi9VT9i5q9l5ZQ) | 4:27 | 2020-11-05 |  |
 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2020-11-05 |  |
@@ -127,7 +128,7 @@
 | [Who Will Come for Me](https://open.spotify.com/track/3dItRGOkWJkuNEsyEl4DmZ) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/3u5xHMTxsYnDpOGpckM8lv) | 4:38 | 2020-11-05 | 2022-07-29 |
 | [Who Will Come for Me](https://open.spotify.com/track/7hEsiIvB2jg0BI3Xe8F4eg) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/5koT5jFcF9Iy0iZjG09rBT) | 4:38 | 2020-11-05 |  |
 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 | 2020-11-05 |  |
-| [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-11-05 |  |
+| [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-11-05 | 2022-09-10 |
 | [You Ruined That Song For Me](https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [You Ruined That Song For Me](https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV) | 3:19 | 2022-09-02 |  |
 | [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 | 2020-11-05 |  |
 | [You Were Mine](https://open.spotify.com/track/6VFbrvnjVfrSRPIwEf7ept) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/0qZHzQ6plJgW7SqP1fDF1A) | 3:43 | 2020-11-05 | 2022-07-29 |

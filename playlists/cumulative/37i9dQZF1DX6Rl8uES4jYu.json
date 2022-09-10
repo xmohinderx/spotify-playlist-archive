@@ -186,6 +186,32 @@
     },
     {
       "album": {
+        "name": "Don't Try",
+        "url": "https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk"
+      },
+      "artists": [
+        {
+          "name": "Nina Tonji",
+          "url": "https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q"
+        },
+        {
+          "name": "Jay Adams",
+          "url": "https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8"
+        },
+        {
+          "name": "Ben Molinaro",
+          "url": "https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175063,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/3gpgKKDq1a8E4zTgV7rwjC"
       },
@@ -1633,7 +1659,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 173031,
       "name": "Electric",
       "url": "https://open.spotify.com/track/1ixBWXSofFhf5Oa9GdoF4O"
@@ -2209,7 +2235,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 166888,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
@@ -2569,7 +2595,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 193767,
       "name": "If Perfect Was Real",
       "url": "https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt"
@@ -3249,6 +3275,24 @@
       "duration_ms": 243373,
       "name": "Mama Please Don't Worry",
       "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
+    },
+    {
+      "album": {
+        "name": "Disco Submarine",
+        "url": "https://open.spotify.com/album/4RnBik4PFGy2POnDbeS6p5"
+      },
+      "artists": [
+        {
+          "name": "Karmic",
+          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166334,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN"
     },
     {
       "album": {
@@ -4613,6 +4657,36 @@
       "duration_ms": 203316,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3OZ812Wywu349zAw9zaYKh"
+    },
+    {
+      "album": {
+        "name": "SNOW",
+        "url": "https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc"
+      },
+      "artists": [
+        {
+          "name": "FLY BOY JACK",
+          "url": "https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        },
+        {
+          "name": "JUJO",
+          "url": "https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF"
+        },
+        {
+          "name": "Dallas Woods",
+          "url": "https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177735,
+      "name": "SNOW",
+      "url": "https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf"
     },
     {
       "album": {

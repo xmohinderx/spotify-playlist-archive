@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP?si=NaJDI\_pHQECBlpgJXnVeew" > DJ SPINALL </a>, <a href="https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS?si=bJ2TZa94RU6jOaD1\_cMXOw" > Summer Walker </a>, <a href="https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4?si=lUxQHOVXTRG46eKg5fegwg" > DJ Snake</a> and <a href="https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD?si=6zAUGYp8SgCoMFzUav6Zag" > Ayanna </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,857 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,900 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

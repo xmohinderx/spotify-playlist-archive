@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421451,
+  "num_followers": 421463,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDYyNDdkMDgzYzExYzlmOGVmY2FhN2VkMTc0ZGZhNTlh",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMGEyYTg5YWI0M2MzM2ZiNjhkODhhNDEyZWQxZmY1YWQ3",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "aff...",
+        "url": "https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 164471,
+      "name": "aff...",
+      "url": "https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Garrafa Colorida",
         "url": "https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 164000,
       "name": "Garrafa Colorida",
       "url": "https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "aff...",
-        "url": "https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 164471,
-      "name": "aff...",
-      "url": "https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Capa de Revista",
+        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Capa de Revista",
+      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Capa de Revista",
-        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
+        "name": "Comum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
         }
       ],
-      "duration_ms": 174314,
-      "name": "Capa de Revista",
-      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
+      "duration_ms": 211428,
+      "name": "Comum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -667,22 +683,6 @@
       "duration_ms": 228223,
       "name": "Quente e Colorido",
       "url": "https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Comum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Comum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "poderia ser pior",
-        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
-      },
-      "artists": [
-        {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
-        }
-      ],
-      "duration_ms": 172414,
-      "name": "poderia ser pior",
-      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Sextou BB 4 Completo (Ao Vivo em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Bendito Rol\u00ea",
-        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
+        "name": "poderia ser pior",
+        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
       },
       "artists": [
         {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
         }
       ],
-      "duration_ms": 185749,
-      "name": "Eu Fico",
-      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
+      "duration_ms": 172414,
+      "name": "poderia ser pior",
+      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -995,6 +979,22 @@
       "duration_ms": 139644,
       "name": "Festa do Pijama",
       "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Bendito Rol\u00ea",
+        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Eu Fico",
+      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
+        "name": "Jogo de Aposta",
+        "url": "https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Jecy",
+          "url": "https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv"
         }
       ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
+      "duration_ms": 166987,
+      "name": "Jogo de Aposta",
+      "url": "https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy"
     }
   ],
   "unique_name": "RADAR Brasil",

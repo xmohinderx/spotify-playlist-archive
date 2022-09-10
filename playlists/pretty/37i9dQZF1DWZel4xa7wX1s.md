@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,335 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,338 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 27 | [Blind Leading the Blind](https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X) | 3:44 |
 | 28 | [Tomorrow](https://open.spotify.com/track/7I9BiCs8uTFfGkj02W1gxZ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:49 |
 | 29 | [Wintertime](https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:48 |
-| 30 | [Pretty Bitchin'](https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:31 |
+| 30 | [The Story We Used To Tell](https://open.spotify.com/track/5Sr9l180RmszDrCueohy3x) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [The Story We Used To Tell](https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s) | 3:38 |
 | 31 | [Friends](https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Still on My Mind](https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn) | 3:23 |
-| 32 | [The Story We Used To Tell](https://open.spotify.com/track/5Sr9l180RmszDrCueohy3x) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [The Story We Used To Tell](https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s) | 3:38 |
+| 32 | [Pretty Bitchin'](https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:31 |
 | 33 | [Sanremo](https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:24 |
 | 34 | [There Goes My Miracle](https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 4:03 |
 | 35 | [Didn't I](https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Bridget Cady](https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z) | [Blood Red Roses \(Deluxe Version\)](https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa) | 4:00 |
-| 36 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
-| 37 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
+| 36 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
+| 37 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
 | 38 | [Over The Hump](https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [25 Years Later](https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8) | 3:47 |
 | 39 | [Good Thing Gone](https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Good Thing Gone](https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV) | 4:52 |
 | 40 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
 | 60 | [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDA2Y2M5ZDcwZDJkOTU0Mzg1OWY2ZWYwOGIxNzlkMmQ3`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDJmOGFlMzU1MjgyYmIyYTE1YzllODAyNGJhODY3Njkz`

@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Mavi",
+        "url": "https://open.spotify.com/album/592PD7BO3MG7TLFV30sImZ"
+      },
+      "artists": [
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170166,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/56wMtsglhlddfHVEHH2kYc"
+    },
+    {
+      "album": {
         "name": "Real Down Tropical",
         "url": "https://open.spotify.com/album/3xEqVBh6H0vw0HBXOloHvu"
       },

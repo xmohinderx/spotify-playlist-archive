@@ -3269,7 +3269,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 256699,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92"
@@ -4411,7 +4411,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 186136,
       "name": "Let You Down - Chris Schweizer Remix",
       "url": "https://open.spotify.com/track/5uHEofIJPJaU01HuZ9R1Yw"
@@ -6912,6 +6912,28 @@
     },
     {
       "album": {
+        "name": "Revive My Light",
+        "url": "https://open.spotify.com/album/3lSbXDlj7WdVMElYAfFxh8"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Alexandra Badoi",
+          "url": "https://open.spotify.com/artist/4HoXJ3c9TIwcRwnEjIj4a7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243478,
+      "name": "Revive My Light",
+      "url": "https://open.spotify.com/track/2v5Us4Zi4EbZ2taztKbl1i"
+    },
+    {
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3pwLh2SdpUcVOXV8YiGVJS"
       },
@@ -9339,7 +9361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 185468,
       "name": "Wouldn\u2019t Be Mine",
       "url": "https://open.spotify.com/track/0BLdhHmtdxd3BGR8nSNEI1"

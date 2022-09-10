@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shakila Anjani\. Artwork: Isu Kim.
 
-1,033 songs - 2 day 15 hr 12 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+1,035 songs - 2 day 15 hr 19 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Forget Love](https://open.spotify.com/track/0gLZiJTW2VBkeoUBlT3e7h) | [Pop Kota](https://open.spotify.com/artist/24AJh8Kl7ae9WtzkME40ch) | [Forget Love](https://open.spotify.com/album/42ZihKynqn7cJqZyCvK0b7) | 3:52 | 2022-07-28 | 2022-08-12 |
 | [Forgot That We're Once](https://open.spotify.com/track/3mguOTnxR0SjzKdZOwKSSZ) | [ease](https://open.spotify.com/artist/0DufYQJcuM2V7MfRShf9xY) | [Forgot That We're Once](https://open.spotify.com/album/1qeHfDPOKFX0koGq2oE7RJ) | 6:10 | 2022-06-02 | 2022-06-24 |
 | [Forgotten Home](https://open.spotify.com/track/73uz5Ydl6UYWbpdQP73TkZ) | [Old Polaroid](https://open.spotify.com/artist/3qwiP6NgwG5DFU071XHqGT) | [Forgotten Home](https://open.spotify.com/album/6QApw7e4bXvobnTySe9hB5) | 3:36 | 2022-03-31 | 2022-04-15 |
+| [Free Soul](https://open.spotify.com/track/0X2B2kZAz2Kuj763RMg0nO) | [Ave](https://open.spotify.com/artist/5sDVc67AHtuiZEJh5rmnXE) | [Free Soul](https://open.spotify.com/album/1AAkHnnnM4kkNLRD7nj2QR) | 2:56 | 2022-09-09 |  |
 | [Friends](https://open.spotify.com/track/2SXFNiHZNePEV6B4GlWu7J) | [axbry](https://open.spotify.com/artist/42zAoP6oH0z5HTaMvTH1CO) | [Friends](https://open.spotify.com/album/0HNVq2U84jsvqz23rYbvpX) | 2:16 | 2022-01-06 | 2022-01-21 |
 | [Friends](https://open.spotify.com/track/1Bvcyo9FoKnzBfTWsHrasD) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED) | [Friends](https://open.spotify.com/album/5dkTs0CQUs1urQb40yZ2r7) | 3:25 | 2022-06-02 | 2022-06-24 |
 | [FRIENDS](https://open.spotify.com/track/7MO4YgX6ijdUuTCcxQyEnv) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [FRIENDS](https://open.spotify.com/album/4GPpoc1NWMrcBqltE4480o) | 3:34 | 2022-01-27 | 2022-02-11 |
@@ -552,6 +553,7 @@
 | [Mantra](https://open.spotify.com/track/3zMMKjozCjTc71WKE1Tgsg) | [Broddyfae](https://open.spotify.com/artist/2EwwnpXBQjTc4e9KkPWfLx) | [Mantra](https://open.spotify.com/album/21dKVgTTuvonxjjKm2p2ay) | 3:20 | 2022-02-17 | 2022-03-05 |
 | [Manusia Hebat](https://open.spotify.com/track/6zvPZlB3Br8cHczLKFjwJO) | [OLAV](https://open.spotify.com/artist/3afuZq6KLvsZdaRlOcwBFf), [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Manusia Hebat](https://open.spotify.com/album/2LrhR1ODSENMR8RFEYGrVH) | 4:04 | 2022-05-19 | 2022-06-03 |
 | [Mari Kita Coba](https://open.spotify.com/track/6UOp1fqD31dn532qd1L9Ck) | [Sisca Kohl](https://open.spotify.com/artist/50hwMGm97Lv2cIZkFcB3Gj) | [Mari Kita Coba](https://open.spotify.com/album/27so2A3vDcEW54GCumDgyT) | 3:29 | 2022-01-06 | 2022-01-14 |
+| [Maroon](https://open.spotify.com/track/3CB898LL2c4pTI1oFg79TK) | [Abraham](https://open.spotify.com/artist/4383DM860Hu5PCTjt7lIoa), [Daniel Belza](https://open.spotify.com/artist/3AWO5MwTlsVZNunPDhzFfC) | [Maroon](https://open.spotify.com/album/0YlsdSgYkRR7B0Bjn31C2h) | 3:58 | 2022-09-09 |  |
 | [Mary Jane](https://open.spotify.com/track/4rLPpOYx8Iu9iygLpvHLEG) | [DIMAS MEGA](https://open.spotify.com/artist/3DAU1m5nEAUhlEm78NmP82) | [Mary Jane](https://open.spotify.com/album/1XnaxNxchM5LUit7U0qMRp) | 3:20 | 2022-02-17 | 2022-03-05 |
 | [Masa Lalu, Masa Depan](https://open.spotify.com/track/3YzxXyd4LMNtB1fGnqPDKt) | [Fabian Winandi](https://open.spotify.com/artist/1rCVSCQOOZTnZpRyEV1svR), [I\-Kid](https://open.spotify.com/artist/0tze2A3u7mzO9c04CUZ5nR) | [Masa Lalu, Masa Depan](https://open.spotify.com/album/5RDBhuSNflf3VLIvYTKO2t) | 3:42 | 2022-03-04 | 2022-03-18 |
 | [MASA MUDA](https://open.spotify.com/track/062c9e6gPoq2NSv3mT9gwX) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [MASA MUDA](https://open.spotify.com/album/5jaKRPwdvwcwKgRXVky49X) | 4:38 | 2022-01-06 | 2022-01-14 |

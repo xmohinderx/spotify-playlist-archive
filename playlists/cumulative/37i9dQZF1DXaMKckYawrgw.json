@@ -156,6 +156,28 @@
     },
     {
       "album": {
+        "name": "Amor Regresa (Ska)",
+        "url": "https://open.spotify.com/album/4JyL7lepDPnxaVkZBY22mO"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        },
+        {
+          "name": "La Carlota",
+          "url": "https://open.spotify.com/artist/2vAqVndpW6XjSNHwNr1mIS"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197998,
+      "name": "Amor Regresa - Ska",
+      "url": "https://open.spotify.com/track/3EttA2xMqB72QD0QKfdNFR"
+    },
+    {
+      "album": {
         "name": "Amor t\u00f3xico",
         "url": "https://open.spotify.com/album/1rxsQtHulC55OUfd74A0nq"
       },

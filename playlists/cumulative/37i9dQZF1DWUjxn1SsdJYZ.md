@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Srirachi
 
-238 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+239 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [FRIDAY](https://open.spotify.com/track/1qBbrjiU5ZWIA5NJUAV8b7) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [FRIDAY](https://open.spotify.com/album/0zQvIfYMosxDoCVap48SkU) | 3:41 | 2022-03-21 | 2022-07-15 |
 | [Game Day Ritual](https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ) | [OTEEZY](https://open.spotify.com/artist/1xM0fxmeNse4TvBV5RsuwO) | [Game Day Ritual](https://open.spotify.com/album/7dw7qyNIQiJ2nTpU5acc39) | 3:00 | 2022-03-21 |  |
 | [Gimme the Loot](https://open.spotify.com/track/1GQbMAJgzPani9PABvKOeE) | [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL) | [Gimme the Loot](https://open.spotify.com/album/3YEtjnabazF7WyW0k1wbtM) | 3:14 | 2022-03-21 | 2022-03-25 |
+| [Go Gettaz](https://open.spotify.com/track/34Kt6A0kctf8J65iOwJbZs) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [Go Gettaz](https://open.spotify.com/album/28TaD1I7rQBkBKxKWGNQJK) | 2:32 | 2022-09-09 |  |
 | [GO!](https://open.spotify.com/track/0gYE4nGUXwlzNBwxW5SSiX) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [GO!](https://open.spotify.com/album/2kWGAs4zrCzMPofbzKs46W) | 2:37 | 2022-03-21 |  |
 | [Going Back](https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [Going Back](https://open.spotify.com/album/0NTtjYRlK8beG6UUsynAHP) | 2:26 | 2022-05-02 |  |
 | [GOTTA GET IT](https://open.spotify.com/track/17NTiRYELek2oBy1O8itwV) | [Txmmy](https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2) | [GOTTA GET IT](https://open.spotify.com/album/3PDam9SE8QxMjI5uqlLWiE) | 2:37 | 2022-07-28 |  |

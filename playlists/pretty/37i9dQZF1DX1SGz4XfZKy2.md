@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,739 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,764 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 22 | [Inner Sunrise](https://open.spotify.com/track/7vjMcuIdXBeGF3SlutzwiU) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Mahmood Shalabi](https://open.spotify.com/artist/6n4DKEPdku0s6YtnIXFzZX) | [Inner Sunrise](https://open.spotify.com/album/0rXmkmKUzX4hcAZVpwHZZ5) | 3:51 |
 | 23 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 |
 | 24 | [Apology](https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI) | [Koorosh Behrad](https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5) | [Shenididar](https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4) | 4:20 |
-| 25 | [Faragh](https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM) | [Hawa Dafi](https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0) | [Our Story](https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f) | 3:27 |
-| 26 | [Dance Layan Dance](https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds of Mirrors](https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg) | 4:36 |
-| 27 | [Dubai Midnight](https://open.spotify.com/track/6BxL9ykgqQUPJucdZSqQ7j) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Romantic Arabic Moon Journey: Middle Eastern Love, Oasis of Passion, Oriental Lovers, Tantric Lesson](https://open.spotify.com/album/3hzekYvCfScgreyPMdVD18) | 3:33 |
+| 25 | [Dubai Midnight](https://open.spotify.com/track/6BxL9ykgqQUPJucdZSqQ7j) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Romantic Arabic Moon Journey: Middle Eastern Love, Oasis of Passion, Oriental Lovers, Tantric Lesson](https://open.spotify.com/album/3hzekYvCfScgreyPMdVD18) | 3:33 |
+| 26 | [Humankind](https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds of Mirrors](https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg) | 7:17 |
+| 27 | [Faragh](https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM) | [Hawa Dafi](https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0) | [Our Story](https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f) | 3:27 |
 | 28 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 |
 | 29 | [432hz Desert Pulse](https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 4:28 |
 | 30 | [Aseman](https://open.spotify.com/track/01cKqNr7bXthzoZg39sklw) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 5:04 |
-| 31 | [Humankind](https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds of Mirrors](https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg) | 7:17 |
+| 31 | [Dance Layan Dance](https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds of Mirrors](https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg) | 4:36 |
 | 32 | [Rain Drops](https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf) | [Shardad Rohani](https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW), [Scheherazade Quartet](https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD) | [Scheherazade Quartet](https://open.spotify.com/album/6Z6dWvnag0xnNSw1XArZLD) | 3:31 |
 | 33 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
 | 34 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 39 | [Ordibehesht](https://open.spotify.com/track/3wiiMG6DzG3B88FFfjpNbA) | [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm) | [Dorouj](https://open.spotify.com/album/60II2iJkFzrfi5E5b2Mfrj) | 5:52 |
 | 40 | [Raghsan](https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 3:39 |
 | 41 | [Jnan \(Interlude\)](https://open.spotify.com/track/5eIBJPx2AAeB4CzQOoViJ5) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Daba](https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R) | 0:46 |
-| 42 | [Daramad](https://open.spotify.com/track/4eaYuQ4GWnkKQinHhDfgNi) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP) | [Nava Concert](https://open.spotify.com/album/0Wqh8kAeal14fka66mR0RL) | 3:49 |
-| 43 | [Negâr](https://open.spotify.com/track/4TENTrKfnaEOsWHCG43Q8E) | [Ali Samadpour](https://open.spotify.com/artist/5ZP6McaPyj1lHUDWymntv1) | [Among the Clouds / Dar Miyan e Abrha \(Original Score\)](https://open.spotify.com/album/4k77fSLa2sPePBPt1Wg9Oj) | 2:20 |
+| 42 | [Negâr](https://open.spotify.com/track/4TENTrKfnaEOsWHCG43Q8E) | [Ali Samadpour](https://open.spotify.com/artist/5ZP6McaPyj1lHUDWymntv1) | [Among the Clouds / Dar Miyan e Abrha \(Original Score\)](https://open.spotify.com/album/4k77fSLa2sPePBPt1Wg9Oj) | 2:20 |
+| 43 | [Daramad](https://open.spotify.com/track/4eaYuQ4GWnkKQinHhDfgNi) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP) | [Nava Concert](https://open.spotify.com/album/0Wqh8kAeal14fka66mR0RL) | 3:49 |
 | 44 | [Lullaby](https://open.spotify.com/track/0qOmbTmCOZNVo3QqifYcZf) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [On Fire](https://open.spotify.com/album/3OyFbJ01WwQw2lD31iytqC) | 5:01 |
 | 45 | [Longing](https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa) | [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow), [Diwan Café](https://open.spotify.com/artist/33LAvkMX74zhQhtOskFavN), [Ousso Lotfy](https://open.spotify.com/artist/4DRl1RJuxljaIX29rTLDCg) | [Longing](https://open.spotify.com/album/6LcJnJHschmyhydB6AgpOI) | 3:13 |
 | 46 | [Noor \(Light\)](https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb) | [Hosein Behroozinia](https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4) | [From Stone Till Diamond \(Az Sang Ta Almas\) \-Iranian Barbat\(Oud\) Solo](https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG) | 5:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Can You Think a Solution?](https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea) | [Rasool Poursangari](https://open.spotify.com/artist/0NWX3Qjs9lAXo3dpuB2mlz) | [The Landscapes That Escape the Frame](https://open.spotify.com/album/7HRySZGFrRZzm6g0IXnus9) | 3:14 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMGIxZmRjNjFkOGNiNmNmYjFhNDJkOWJiNjk0ZTRhMzdi`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDU4ZWU0Yzg4NGViNTk3MDYwYWNmY2IwNzNhZDJjOWVm`

@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 98119,
+  "num_followers": 98551,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjMwNjQ3MywwMDAwMDAwMDA5YjUzZDIyZjQyNGM2YjU1ZTI5ZGQwNmI0MzBhMGVl",
+  "snapshot_id": "MTY2MjMwNjQ3MywwMDAwMDAwMGFlNTYyZjI4ZjBlMGIwZjViYzMwMjQxOTMxZjg1MjNj",
   "tracks": [
     {
       "added_at": "2022-08-29 05:25:00",
@@ -232,12 +232,8 @@
       },
       "artists": [
         {
-          "name": "Joey Valence",
-          "url": "https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu"
-        },
-        {
-          "name": "Brae",
-          "url": "https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp"
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
         }
       ],
       "duration_ms": 143552,
@@ -651,6 +647,38 @@
     {
       "added_at": "2022-08-29 05:25:00",
       "album": {
+        "name": "Red Teenage Melody",
+        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Still Cold / Pathway Private",
+      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
+      "added_at": "2022-08-29 05:25:00",
+      "album": {
+        "name": "Chaxsthexry",
+        "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
+    },
+    {
+      "added_at": "2022-08-29 05:25:00",
+      "album": {
         "name": "Gospel",
         "url": "https://open.spotify.com/album/7hjdykF03ChWqjN7sI928O"
       },
@@ -675,54 +703,6 @@
     {
       "added_at": "2022-08-29 05:25:00",
       "album": {
-        "name": "Summertime '06",
-        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Norf Norf",
-      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
-    },
-    {
-      "added_at": "2022-08-29 05:25:00",
-      "album": {
-        "name": "Chaxsthexry",
-        "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
-    },
-    {
-      "added_at": "2022-08-29 05:25:00",
-      "album": {
-        "name": "Red Teenage Melody",
-        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 271413,
-      "name": "Still Cold / Pathway Private",
-      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
-    },
-    {
-      "added_at": "2022-08-29 05:25:00",
-      "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
@@ -739,6 +719,22 @@
       "duration_ms": 108013,
       "name": "Want (feat. prodby668)",
       "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
+      "added_at": "2022-08-29 05:25:00",
+      "album": {
+        "name": "Summertime '06",
+        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Norf Norf",
+      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
     },
     {
       "added_at": "2022-08-29 05:25:00",
@@ -791,22 +787,6 @@
     {
       "added_at": "2022-08-29 05:25:00",
       "album": {
-        "name": "Dat $tick",
-        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "Dat $tick",
-      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
-    },
-    {
-      "added_at": "2022-08-29 05:25:00",
-      "album": {
         "name": "IN DIMES WE TRUST",
         "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
       },
@@ -819,6 +799,22 @@
       "duration_ms": 155744,
       "name": "BACKROOM",
       "url": "https://open.spotify.com/track/6pEk4bPOrJb77cH8noJLaR"
+    },
+    {
+      "added_at": "2022-08-29 05:25:00",
+      "album": {
+        "name": "Veteran",
+        "url": "https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 157258,
+      "name": "1539 N. Calvert",
+      "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
     },
     {
       "added_at": "2022-08-29 05:25:00",
@@ -839,18 +835,34 @@
     {
       "added_at": "2022-08-29 05:25:00",
       "album": {
-        "name": "Veteran",
-        "url": "https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco"
+        "name": "Dat $tick",
+        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
       },
       "artists": [
         {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
         }
       ],
-      "duration_ms": 157258,
-      "name": "1539 N. Calvert",
-      "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
+      "duration_ms": 126666,
+      "name": "Dat $tick",
+      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
+    },
+    {
+      "added_at": "2022-08-29 05:25:00",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
     },
     {
       "added_at": "2022-08-29 05:25:00",
@@ -875,22 +887,6 @@
       "duration_ms": 180000,
       "name": "SIMP",
       "url": "https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX"
-    },
-    {
-      "added_at": "2022-08-29 05:25:00",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
     },
     {
       "added_at": "2022-08-29 05:25:00",

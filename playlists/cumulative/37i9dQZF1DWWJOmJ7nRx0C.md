@@ -2,9 +2,9 @@
 
 ### [Rock Hard](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The hardest songs, loud\. Very loud\. Cover:  Pierce The Veil
+> The hardest songs, loud\. Very loud\. Cover:  ONE OK ROCK
 
-452 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+454 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Die With Me](https://open.spotify.com/track/3isuMKUaFNJknycyjBJig2) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Die With Me](https://open.spotify.com/album/7ne0tB1p9UJL6phUW2tX3L) | 3:21 | 2021-08-20 | 2022-07-09 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-09-17 | 2022-06-11 |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2021-10-31 | 2022-04-23 |
-| [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 | 2022-06-17 |  |
+| [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 | 2022-06-17 | 2022-09-10 |
 | [Divided](https://open.spotify.com/track/4X5wQ6IHdm37cOR7ZBBozz) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Divided](https://open.spotify.com/album/1BTfhcdGakBLSOOHejwqnT) | 4:12 | 2022-07-22 |  |
 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 | 2021-11-26 | 2022-03-26 |
 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 | 2021-08-06 | 2022-02-26 |
@@ -131,6 +131,7 @@
 | [EARTHRISE](https://open.spotify.com/track/7slyqv1VP7r8293rf7wUMK) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [HORIZONS](https://open.spotify.com/album/0tJI0EBOHEcxov6V1ddIo7) | 4:56 | 2022-07-22 | 2022-08-13 |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2021-11-26 | 2022-07-29 |
 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 | 2022-07-22 | 2022-07-30 |
+| [Echolocate Your Love](https://open.spotify.com/track/5P37xjNwr4ZgXG4JbsiXqT) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Echolocate Your Love](https://open.spotify.com/album/6mLQgWO8DFzqT9H8pYVIOu) | 3:24 | 2022-09-09 |  |
 | [Empty](https://open.spotify.com/track/6gw8oHxB3u5naUO7tc7Zmg) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Empty](https://open.spotify.com/album/6LYx5a9siqqFpj7ztRGLxv) | 3:34 | 2022-01-14 | 2022-06-25 |
 | [End of Me \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/6bC2FzdU7MnmMpB8jnM0RV) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:45 | 2022-01-21 | 2022-02-05 |
 | [Enemy](https://open.spotify.com/track/7uaiPrc6DpJpLXcvVSW32M) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Enemy](https://open.spotify.com/album/4AZCeQb0Lo4JAkLr5jVA4C) | 3:40 | 2021-08-27 | 2022-04-09 |
@@ -327,7 +328,7 @@
 | [Saturation \(Strange Love\)](https://open.spotify.com/track/3USDxKVLG1hbnAnY3zGXL4) | [Grey Daze](https://open.spotify.com/artist/1OPyWvWWkx18pqGjugyxrl) | [Saturation \(Strange Love\)](https://open.spotify.com/album/6IxQJ1qcKfSmDWVZ4Nniox) | 3:55 | 2022-04-15 | 2022-08-27 |
 | [Saturday Night](https://open.spotify.com/track/7BssDn6I8fEzYms6FlkXtC) | [The Black Moods](https://open.spotify.com/artist/3SMJIplWXJ4qwuuGRHZyJH) | [Into the Night](https://open.spotify.com/album/2H1et6Vfi611cTyK1mRykH) | 3:45 | 2022-06-10 | 2022-07-23 |
 | [Save Me](https://open.spotify.com/track/7pTRGbXC1DLFJblKPmd2o7) | [True North](https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155) | [Save Me](https://open.spotify.com/album/4TgfR1ulMIoVLI6xXjPpf9) | 2:42 | 2021-09-03 | 2022-06-04 |
-| [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-25 |  |
+| [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-25 | 2022-09-10 |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 | 2022-06-11 |
 | [Say Something](https://open.spotify.com/track/2RDIy0A9tcA4WUiRNuRlJ9) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Say Something](https://open.spotify.com/album/3Wh43fDW2Yssfm8dTKmOmr) | 2:01 | 2022-03-04 | 2022-04-09 |
 | [Scarlet Cross](https://open.spotify.com/track/6FfSelhMMRoigvtAlYPmBd) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/5GMs2D82ElHRpVGbtUod3J) | 3:37 | 2022-03-04 |  |
@@ -418,6 +419,7 @@
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-11-12 | 2022-04-16 |
 | [Untouchable](https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 3:05 | 2021-10-25 | 2022-05-07 |
 | [Up](https://open.spotify.com/track/2wzNQYX6veNM0AJncAV75v) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Up](https://open.spotify.com/album/7KkBf3sycZA0JKnxOXEktz) | 2:49 | 2022-03-18 |  |
+| [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2022-09-09 |  |
 | [Victory \(Feat\. Matt B\. of From Ashes To New\)](https://open.spotify.com/track/7BF2ldGXrlGf9hRQWPeSc6) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Victory \(Feat\. Matt B\. of From Ashes To New\)](https://open.spotify.com/album/1fRGTgUynPbZkBzB969cyb) | 3:43 | 2021-08-27 | 2022-04-02 |
 | [Virus](https://open.spotify.com/track/1Yqx7WwyNUuZ96GqpxL2J8) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [Shayley Bourget](https://open.spotify.com/artist/3yb7c2d4ksZZSdIPbK7Rd3) | [GlitchGang](https://open.spotify.com/album/3aCmgbuJABpDD03b4ixC5B) | 3:04 | 2021-06-11 | 2022-01-29 |
 | [Voices](https://open.spotify.com/track/0SnvI0twJ1Mnh0rJlBRrf0) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Graveyard Shift](https://open.spotify.com/album/5ucBd1GYFRg0uVhP4a4AY6) | 3:44 | 2021-05-14 | 2022-03-18 |

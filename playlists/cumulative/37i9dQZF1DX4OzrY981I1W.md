@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-306 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+307 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 | 2021-03-26 | 2022-04-16 |
 | [I Saw the Light \- 2015 Remaster](https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3zNPrWuTPDQeqdj2Y8UjO1) | 3:00 | 2022-02-20 | 2022-04-21 |
 | [I'll Be Here in the Morning](https://open.spotify.com/track/0HLBLRkkTOlAmjonShicD0) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 3:00 | 2022-02-03 | 2022-04-21 |
+| [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-09 |  |
 | [I'm Looking Through You \- Remastered 2009](https://open.spotify.com/track/5E3BVY66TEDexFutOO5GeS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2021-08-06 | 2022-04-20 |
 | [I'm Okay and So Are You](https://open.spotify.com/track/7MHfxkcirk7bNH8joJ4BMr) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I'm Okay and So Are You](https://open.spotify.com/album/6wnJkhdodbHIibvtTPdkce) | 4:15 | 2021-03-26 | 2022-07-29 |
 | [If I Didn't Have You](https://open.spotify.com/track/10UrwRvVbNsHiw1UGBiMjV) | [Vista Kicks](https://open.spotify.com/artist/6wnSPJpmVKFcn1TpRl5Uli) | [Twenty Something Nightmare](https://open.spotify.com/album/3bhDxtrmKnr6bF5Avj5JNR) | 4:02 | 2021-03-26 | 2022-07-29 |
@@ -271,7 +272,7 @@
 | [The Subway Song](https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Subway Song](https://open.spotify.com/album/1duvX5yMywtvx6k1JAC3iX) | 4:01 | 2021-03-26 | 2022-07-29 |
 | [The Sway](https://open.spotify.com/track/40dIRHeWIhQNWflZKIemQI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:35 | 2021-10-01 | 2022-06-27 |
 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 | 2022-02-20 | 2022-04-13 |
-| [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 | 2021-09-17 |  |
+| [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 | 2021-09-17 | 2022-09-10 |
 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 | 2021-03-26 | 2022-04-20 |
 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 | 2021-03-26 |  |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2022-02-20 |  |

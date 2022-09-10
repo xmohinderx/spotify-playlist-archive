@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 521529,
+  "num_followers": 521790,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDk1NmE5NTk2MDA4OGNmYjJlYmYwYTE3YTU1ODIwMjk4",
+  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMGEyZjI3ZGQ3MTg5M2NlMTJiYmUzNWM5NGQ0NzRjNWI2",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:19",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -667,18 +667,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+        "name": "Trojan Love (Original Club Mix)",
+        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
       "artists": [
         {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
         }
       ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+      "duration_ms": 357283,
+      "name": "Trojan Love - Original Club Mix",
+      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -695,6 +699,38 @@
       "duration_ms": 232194,
       "name": "Night Jaguars",
       "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -743,42 +779,6 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Trojan Love (Original Club Mix)",
-        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 357283,
-      "name": "Trojan Love - Original Club Mix",
-      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "St Claire",
-        "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        }
-      ],
-      "duration_ms": 214337,
-      "name": "St Claire",
-      "url": "https://open.spotify.com/track/7qrch7xVClA6bB299puPoz"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "St Claire",
+        "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "duration_ms": 214337,
+      "name": "St Claire",
+      "url": "https://open.spotify.com/track/7qrch7xVClA6bB299puPoz"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Kami EP",
-        "url": "https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "NOSTALGIA*",
         "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Kami EP",
+        "url": "https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "alone with you (feat. Didi Han)",
         "url": "https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 210607,
       "name": "alone with you (feat. Didi Han)",
       "url": "https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1147,6 +1147,42 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Oxygen (Klangkarussell Remix)",
+        "url": "https://open.spotify.com/album/23cEdoCOAqdRGdLoQZsTR5"
+      },
+      "artists": [
+        {
+          "name": "SIN",
+          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
+        },
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "duration_ms": 739700,
+      "name": "Oxygen - Klangkarussell Remix",
+      "url": "https://open.spotify.com/track/6EukA3G83UulqI7NzpEEtG"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -1179,42 +1215,6 @@
       "duration_ms": 345489,
       "name": "Unity",
       "url": "https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Oxygen (Klangkarussell Remix)",
-        "url": "https://open.spotify.com/album/23cEdoCOAqdRGdLoQZsTR5"
-      },
-      "artists": [
-        {
-          "name": "SIN",
-          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
-        },
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        }
-      ],
-      "duration_ms": 739700,
-      "name": "Oxygen - Klangkarussell Remix",
-      "url": "https://open.spotify.com/track/6EukA3G83UulqI7NzpEEtG"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
-        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
-      },
-      "artists": [
-        {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
-        }
-      ],
-      "duration_ms": 446079,
-      "name": "ut i rommet",
-      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Temperament of the Beat",
-        "url": "https://open.spotify.com/album/6dSMmjwuLDTbGrbOJHXysy"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Cari Golden",
-          "url": "https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp"
-        }
-      ],
-      "duration_ms": 388783,
-      "name": "Temperament of the Beat",
-      "url": "https://open.spotify.com/track/2d7TJXGNI2nvyWF51CLFkJ"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1303,18 +1283,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "WAIRUNGA",
-        "url": "https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk"
+        "name": "Temperament of the Beat",
+        "url": "https://open.spotify.com/album/6dSMmjwuLDTbGrbOJHXysy"
       },
       "artists": [
         {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Cari Golden",
+          "url": "https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp"
         }
       ],
-      "duration_ms": 630336,
-      "name": "Dig Deep",
-      "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
+      "duration_ms": 388783,
+      "name": "Temperament of the Beat",
+      "url": "https://open.spotify.com/track/2d7TJXGNI2nvyWF51CLFkJ"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1335,6 +1319,22 @@
       "duration_ms": 280806,
       "name": "megapunk - TSHA Remix",
       "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "WAIRUNGA",
+        "url": "https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 630336,
+      "name": "Dig Deep",
+      "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Studio A Pt.1",
-        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 367578,
-      "name": "Basic Juno",
-      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Gotta Do This, Gurl",
         "url": "https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3"
       },
@@ -1403,50 +1387,34 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "What We Think The Remixes Part One",
-        "url": "https://open.spotify.com/album/0T3d2ot5iBrIbkKkoTqsvG"
+        "name": "Studio A Pt.1",
+        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        },
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        },
-        {
-          "name": "Lunar Plane",
-          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
         }
       ],
-      "duration_ms": 376585,
-      "name": "What We Think - Lunar Plane Remix",
-      "url": "https://open.spotify.com/track/1M7tO5JDHxDK4TPtG8swNL"
+      "duration_ms": 367578,
+      "name": "Basic Juno",
+      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
     },
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/0A2coDWKmkpUwguAUbQe2O"
+        "name": "Deepest Thoughts",
+        "url": "https://open.spotify.com/album/35OypZ3uJ5qR1OCX4Z3dtI"
       },
       "artists": [
         {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Andrew Pololos",
-          "url": "https://open.spotify.com/artist/4L4Ztz8S7RAQxrFgEZS5dm"
-        },
-        {
-          "name": "Mopao Mumu",
-          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+          "name": "Mantu",
+          "url": "https://open.spotify.com/artist/2LNmyvEklvUDN27ArD6PRK"
         }
       ],
-      "duration_ms": 214167,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/7FlEC4iKF51DIiQ6G2Lj1q"
+      "duration_ms": 203749,
+      "name": "Deepest Thoughts",
+      "url": "https://open.spotify.com/track/0xYiTAId8EDuHg9RSiP1QR"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1491,6 +1459,30 @@
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/0A2coDWKmkpUwguAUbQe2O"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Andrew Pololos",
+          "url": "https://open.spotify.com/artist/4L4Ztz8S7RAQxrFgEZS5dm"
+        },
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "duration_ms": 214167,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/7FlEC4iKF51DIiQ6G2Lj1q"
     },
     {
       "added_at": "2022-09-02 18:05:19",

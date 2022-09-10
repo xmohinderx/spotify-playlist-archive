@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 48426,
+  "num_followers": 48439,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDlhNjQyODVkNjliNjFlMWFlYjk3YTlhNDY1MDU3NjE1",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDUyODYxMTE0YWYxNDJjZWM2YTFhZmY0NjI2NWEyMzIy",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Steal My Sunshine (Remixes, Vol. 1)",
-        "url": "https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 211863,
-      "name": "Steal My Sunshine - Remastered Version",
-      "url": "https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Amanda Marshall",
         "url": "https://open.spotify.com/album/0HEvHFESNJMTERnF6zpjnz"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 271960,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/6B02MufyAO1pPsWYRespCr"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Steal My Sunshine (Remixes, Vol. 1)",
+        "url": "https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 211863,
+      "name": "Steal My Sunshine - Remastered Version",
+      "url": "https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn"
-      },
-      "artists": [
-        {
-          "name": "Moist",
-          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Hot Show",
         "url": "https://open.spotify.com/album/586yBJiBN0KyDLAJFqPGwC"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Public",
-        "url": "https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn"
       },
       "artists": [
         {
-          "name": "Emm Gryner",
-          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
+          "name": "Moist",
+          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Summerlong",
-      "url": "https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz"
+      "duration_ms": 230426,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -791,6 +775,22 @@
       "duration_ms": 338026,
       "name": "12 Years Old",
       "url": "https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Public",
+        "url": "https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj"
+      },
+      "artists": [
+        {
+          "name": "Emm Gryner",
+          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Summerlong",
+      "url": "https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz"
     },
     {
       "added_at": "2021-09-21 20:57:50",

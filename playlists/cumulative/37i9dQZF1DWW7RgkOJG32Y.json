@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "album": {
         "name": "717 Tapes, Vol. 2",
         "url": "https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6"
       },
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 184746,
       "name": "Long Live Cowgirls (with Cody Johnson)",
       "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
@@ -2283,6 +2301,24 @@
       "duration_ms": 183296,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW"
+    },
+    {
+      "album": {
+        "name": "More Than Me",
+        "url": "https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "More Than Me",
+      "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
     },
     {
       "album": {
@@ -3564,6 +3600,28 @@
     },
     {
       "album": {
+        "name": "wait in the truck (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277659,
+      "name": "wait in the truck (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP"
+    },
+    {
+      "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
@@ -3629,7 +3687,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 204120,
       "name": "What Are You Drinking",
       "url": "https://open.spotify.com/track/6G2hBL1ttQuXbCvXV6c6F3"
@@ -3705,6 +3763,24 @@
       "duration_ms": 213784,
       "name": "When You Don't",
       "url": "https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3"
+    },
+    {
+      "album": {
+        "name": "Where It Ends",
+        "url": "https://open.spotify.com/album/7bLUJsXoEiVopKhg1syj2l"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179294,
+      "name": "Where It Ends",
+      "url": "https://open.spotify.com/track/7lNezbnIXBbgNmFOa9dt1c"
     },
     {
       "album": {
@@ -3975,7 +4051,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 157290,
       "name": "Your Momma Still Does",
       "url": "https://open.spotify.com/track/0F7Kxrd27Q1jYhnKVoWnUa"

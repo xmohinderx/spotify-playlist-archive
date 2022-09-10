@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/6J5g8rg1KJag4xQ08F53AR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129373,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K"
+    },
+    {
+      "album": {
         "name": "Auspex EP",
         "url": "https://open.spotify.com/album/6yOb0ocejs7jg4yrQh3FeC"
       },
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 213750,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit"
@@ -4244,6 +4262,24 @@
     },
     {
       "album": {
+        "name": "No Competition",
+        "url": "https://open.spotify.com/album/3lumULelHlXz11q1Vlr5sE"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204487,
+      "name": "No Competition",
+      "url": "https://open.spotify.com/track/5jSeCIT2DxHiiuYlBHj5uL"
+    },
+    {
+      "album": {
         "name": "No Stoppin",
         "url": "https://open.spotify.com/album/5xws8aUsScDLDQ0isFesjS"
       },
@@ -4778,6 +4814,32 @@
     },
     {
       "album": {
+        "name": "Pump This",
+        "url": "https://open.spotify.com/album/4XtL60LoQJLrPQfzINSTSV"
+      },
+      "artists": [
+        {
+          "name": "Juicy M",
+          "url": "https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6"
+        },
+        {
+          "name": "Willy Van Florence",
+          "url": "https://open.spotify.com/artist/3MuCvAOi83QVZOjVbvOHnM"
+        },
+        {
+          "name": "Amyss",
+          "url": "https://open.spotify.com/artist/3r2XXA4lGV0vzbcSuh3lm6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "Pump This",
+      "url": "https://open.spotify.com/track/4EweZdJGV0nKkuhBO5jJoO"
+    },
+    {
+      "album": {
         "name": "Punch Box",
         "url": "https://open.spotify.com/album/11GcRnHzjCeZADwURMaac8"
       },
@@ -4925,7 +4987,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 222857,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo"
@@ -5815,7 +5877,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 180480,
       "name": "The Afterhour Waltz",
       "url": "https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti"

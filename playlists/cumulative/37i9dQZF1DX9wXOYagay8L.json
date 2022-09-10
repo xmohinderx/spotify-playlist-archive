@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=bkx2peGYR4qozFyQFcKufA\">Aubrey Qwana</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60?si=w4u2Bt6dTM-ZcjbUd8HQrw\">MusiholiQ</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 330124,
       "name": "Bayakhala",
       "url": "https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 309916,
       "name": "Bekumnand' Izolo",
       "url": "https://open.spotify.com/track/1ACUFWyRCJRIzQx494j471"
@@ -1004,6 +1004,28 @@
     },
     {
       "album": {
+        "name": "GERMANDER II",
+        "url": "https://open.spotify.com/album/4Y0fBFvHUd7WKJnduASVUN"
+      },
+      "artists": [
+        {
+          "name": "FLVME",
+          "url": "https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r"
+        },
+        {
+          "name": "DaVionne",
+          "url": "https://open.spotify.com/artist/0kQVtbYXplOdbRNlQ3RBOE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "FALL THRU",
+      "url": "https://open.spotify.com/track/1R8gbq85RP1JPVslccj3g9"
+    },
+    {
+      "album": {
         "name": "Falling Down",
         "url": "https://open.spotify.com/album/2IkncK5hJ3uwUEjEnkwS3b"
       },
@@ -1015,7 +1037,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 259114,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/0bcBHB3JTd529JBubx2ZLr"
@@ -1383,7 +1405,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 258000,
       "name": "Imali",
       "url": "https://open.spotify.com/track/7GX1WWRjoDGeYTOLASuEnq"
@@ -1629,7 +1651,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 335359,
       "name": "Iphupho Lam",
       "url": "https://open.spotify.com/track/15OYu5BpZyMARsGX8e2wM0"
@@ -1903,7 +1925,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 288000,
       "name": "Jumaima (feat. Ishmael)",
       "url": "https://open.spotify.com/track/6gHvVv7eOr3h4YVhE8VTR2"
@@ -2903,7 +2925,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 273793,
       "name": "Ndibuze Bani",
       "url": "https://open.spotify.com/track/14kJZzn6aoCZ15zaW2elWu"
@@ -3081,6 +3103,32 @@
       "duration_ms": 296750,
       "name": "Ngentombi (feat. Vernotile)",
       "url": "https://open.spotify.com/track/6uvWChTYALlp152oBW7Zq1"
+    },
+    {
+      "album": {
+        "name": "Uzuka",
+        "url": "https://open.spotify.com/album/58GJD0Zy1H4cA6FLC0RFhk"
+      },
+      "artists": [
+        {
+          "name": "MusiholiQ",
+          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
+        },
+        {
+          "name": "nolly m",
+          "url": "https://open.spotify.com/artist/1TL9pBRVj4qKOszCfIoyVZ"
+        },
+        {
+          "name": "Inkosi Yamagcokama",
+          "url": "https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260909,
+      "name": "Ngifuna Ukuba",
+      "url": "https://open.spotify.com/track/1XW3hfd2u94eSgetTjjO5h"
     },
     {
       "album": {
@@ -3623,7 +3671,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
@@ -3918,6 +3966,24 @@
     },
     {
       "album": {
+        "name": "Shuma Shuma",
+        "url": "https://open.spotify.com/album/76FTZWwGQu3yaqULg1Q2Cy"
+      },
+      "artists": [
+        {
+          "name": "Mukololo",
+          "url": "https://open.spotify.com/artist/3PjUsqUK9807lMGiWKIQoT"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327183,
+      "name": "Shuma Shuma",
+      "url": "https://open.spotify.com/track/2MkGcObAssTlQ8KAo54XkM"
+    },
+    {
+      "album": {
         "name": "Sis'Undenzani",
         "url": "https://open.spotify.com/album/39VO1hwswv8QlwZmQHwGhK"
       },
@@ -4110,6 +4176,24 @@
     },
     {
       "album": {
+        "name": "Amagama",
+        "url": "https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248424,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw"
+    },
+    {
+      "album": {
         "name": "Sondela",
         "url": "https://open.spotify.com/album/4YpgSQZCYVdDxC6hcUcWWi"
       },
@@ -4253,6 +4337,32 @@
       "duration_ms": 205731,
       "name": "Themba Lami (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/3DYKpGOFY06AONuqytJlya"
+    },
+    {
+      "album": {
+        "name": "There's Music in the Air",
+        "url": "https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS"
+      },
+      "artists": [
+        {
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234673,
+      "name": "There's Music in the Air",
+      "url": "https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK"
     },
     {
       "album": {
@@ -4455,7 +4565,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 221552,
       "name": "Ujabule",
       "url": "https://open.spotify.com/track/7mylOtThjvTXs7MbNFfgrG"
@@ -4701,7 +4811,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 250434,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/4eGBrIPFNNILwvHU5THfQj"

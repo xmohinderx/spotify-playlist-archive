@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 44069,
+  "num_followers": 44097,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDE3MjFhYzUzNDVkYWM0NDFjNDQ4YmYxNDk5YWM3ZDkx",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGY2MTRjMjMwNWIwZTE1ODg1OTQwZTY0NGI2MDFmMmZi",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
+      },
+      "artists": [
+        {
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
+        }
+      ],
+      "duration_ms": 439160,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -267,34 +283,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
       },
       "artists": [
         {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 439160,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Epoch",
-        "url": "https://open.spotify.com/album/2hgVjzYQb3Yb5FHT8smg4T"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 345387,
-      "name": "Epoch",
-      "url": "https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY"
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+        "name": "Epoch",
+        "url": "https://open.spotify.com/album/2hgVjzYQb3Yb5FHT8smg4T"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
+      "duration_ms": 345387,
+      "name": "Epoch",
+      "url": "https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Caturne V - EP",
-        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
-      },
-      "artists": [
-        {
-          "name": "Aemone",
-          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Caturne V - EP",
+        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
+      },
+      "artists": [
+        {
+          "name": "Aemone",
+          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Sarita Colonia",
-        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 227317,
-      "name": "Sarita Colonia - Edit",
-      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Arterial",
         "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 254962,
       "name": "Arterial",
       "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "Sarita Colonia - Edit",
+      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Science Is Science",
-        "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
-      },
-      "artists": [
-        {
-          "name": "Jesse Bru",
-          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
-        }
-      ],
-      "duration_ms": 423445,
-      "name": "Bassment Dweller - Original Mix",
-      "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Patterns & Light",
         "url": "https://open.spotify.com/album/6r1CzWzBp0qus1DQqIbnwV"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 295049,
       "name": "Red Giant",
       "url": "https://open.spotify.com/track/3sRshuQLy538LS16Ot3Ld4"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Science Is Science",
+        "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bru",
+          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
+        }
+      ],
+      "duration_ms": 423445,
+      "name": "Bassment Dweller - Original Mix",
+      "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Warped",
-        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
-      },
-      "artists": [
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 450457,
-      "name": "Warped",
-      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "WWDKF",
         "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 344470,
       "name": "Archive Seven",
       "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Warped",
+        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 450457,
+      "name": "Warped",
+      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Moons",
-        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
-      },
-      "artists": [
-        {
-          "name": "Embee",
-          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Moons",
-      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Miracle Of The Rose EP",
         "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 331486,
       "name": "Miracle Of The Rose",
       "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Moons",
+        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
+      },
+      "artists": [
+        {
+          "name": "Embee",
+          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Moons",
+      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Ibb & Obb (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
+        "name": "Foans",
+        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
       },
       "artists": [
         {
-          "name": "Kettel",
-          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
+          "name": "Foans",
+          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
         }
       ],
-      "duration_ms": 154781,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
+      "duration_ms": 276115,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Foans",
-        "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
-      },
-      "artists": [
-        {
-          "name": "Foans",
-          "url": "https://open.spotify.com/artist/5MZSJngIq1ppTHcmoLS2zb"
-        }
-      ],
-      "duration_ms": 276115,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Mellowdramatic",
         "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 478373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Ibb & Obb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
+      },
+      "artists": [
+        {
+          "name": "Kettel",
+          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
+        }
+      ],
+      "duration_ms": 154781,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Ring EP",
-        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
-      },
-      "artists": [
-        {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
-        }
-      ],
-      "duration_ms": 391680,
-      "name": "Take Your Place",
-      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Reachy Prints",
         "url": "https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z"
       },
@@ -1299,22 +1283,38 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+        "name": "The Ring EP",
+        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
       },
       "artists": [
         {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
-        },
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
         }
       ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+      "duration_ms": 391680,
+      "name": "Take Your Place",
+      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Occasional Magic Remixes EP",
+        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
+      },
+      "artists": [
+        {
+          "name": "Yppah",
+          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 330145,
+      "name": "Occasional Magic - Ulrich Schnauss Remix",
+      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Frekk EP",
         "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 474009,
       "name": "Deepart 8.0",
       "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Occasional Magic Remixes EP",
-        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
-      },
-      "artists": [
-        {
-          "name": "Yppah",
-          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
-        },
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 330145,
-      "name": "Occasional Magic - Ulrich Schnauss Remix",
-      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     }
   ],
   "unique_name": "Deep Study",

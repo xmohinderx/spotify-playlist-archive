@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-367 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
+368 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Can't Help It](https://open.spotify.com/track/1p3USs9Ncsr07bRWhVzc8l) | [Hopeful Romantics](https://open.spotify.com/artist/0czxPZ6C9lrClg4WOMaft4) | [Can't Help It](https://open.spotify.com/album/3FiwoHDxDFhU3hfTnMV3cw) | 3:16 | 2022-01-26 | 2022-04-19 |
 | [carats](https://open.spotify.com/track/7tHv5CC9ugGB6NT85jz1Hs) | [ber.nell](https://open.spotify.com/artist/4KNk6gDEWeAGr3ILBq2SI6) | [carats](https://open.spotify.com/album/62zdbui0FzDuHNbHsGL4Yz) | 2:30 | 2022-07-15 | 2022-08-14 |
 | [Carrie Bradshaw](https://open.spotify.com/track/2azLsNFfIPtxNU4QmJzPow) | [Runners Club 95](https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z) | [No Sugar Added](https://open.spotify.com/album/2qcJjLbDDZ0of1pzHNrL1L) | 2:42 | 2021-12-08 | 2022-07-24 |
+| [Carrie Bradshaw](https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY) | [Runners Club 95](https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z) | [No Sugar Added](https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX) | 2:42 | 2022-08-12 |  |
 | [Casino](https://open.spotify.com/track/3EXRThFH4uBHhlf5h0Z09k) | [LensCorp™ International](https://open.spotify.com/artist/5lmw1MJ22ttKw0PP7MZWyy) | [Online™](https://open.spotify.com/album/3uf2QyucWw4m50xMahNoTV) | 1:02 | 2022-04-12 | 2022-04-21 |
 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 | 2022-07-15 |  |
 | [Clarity](https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [24Hrs.](https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI) | 2:25 | 2021-12-08 |  |
@@ -228,7 +229,7 @@
 | [On the Promenade](https://open.spotify.com/track/4dlCKHP7YzgKoVh9X27hKf) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [On the Promenade](https://open.spotify.com/album/7uzedVpcTqvncbJdeXKibS) | 3:29 | 2022-07-15 |  |
 | [On the Promenade \(George Clanton Remix\)](https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [On the Promenade \(George Clanton Remix\)](https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0) | 3:16 | 2022-08-12 |  |
 | [One Of These Nights](https://open.spotify.com/track/5juwMwopZwXSoOud8lIrhy) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [One Of These Nights](https://open.spotify.com/album/6o1FDhVYOXE1lbs5atNGd0) | 5:36 | 2022-01-26 | 2022-07-26 |
-| [Oneirataxia](https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Aeris](https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047) | 3:46 | 2021-12-08 |  |
+| [Oneirataxia](https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Aeris](https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047) | 3:46 | 2021-12-08 | 2022-09-10 |
 | [Only With You](https://open.spotify.com/track/62kPP0WriNYSFtM58bp53M) | [Oliver Hoss](https://open.spotify.com/artist/3lRJQCJDxYHStBeaQDMFl5) | [Only With You](https://open.spotify.com/album/68VPIn1sgIxTNXZS7aPpSo) | 3:53 | 2021-12-08 | 2022-06-18 |
 | [Opacity Field \- FM Skyline Remix](https://open.spotify.com/track/0Niy78VGaKEv64l2fAsv15) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt), [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Opacity Field](https://open.spotify.com/album/2lryRtYpsopk6DHG0WMtpf) | 4:07 | 2021-12-08 | 2022-07-26 |
 | [Open Fields](https://open.spotify.com/track/6ck9CkaS3rxz5eGi5Z5gyf) | [SPORTSGIRL](https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Open Tournament 27XX](https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL) | 5:43 | 2021-12-08 | 2022-06-17 |

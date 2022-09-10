@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-145 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
+146 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Marijuana](https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks](https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr) | 3:01 | 2019-12-16 | 2022-09-01 |
 | [Melanine](https://open.spotify.com/track/18rXOovmohAMcFwUPAUAN2) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 2:53 | 2019-12-16 | 2022-07-29 |
 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 | 2019-12-16 |  |
-| [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 | 2022-09-02 |  |
+| [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 | 2022-09-02 | 2022-09-10 |
 | [Midnight In A Perfect World](https://open.spotify.com/track/48Dz1HTWoMLpT5voht8igk) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow](https://open.spotify.com/album/4sYfLmgzqy0enDlFDHo9Ih) | 4:59 | 2019-12-16 | 2022-09-01 |
 | [Minecraft](https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:14 | 2022-08-31 | 2022-09-03 |
 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 | 2022-08-31 |  |
@@ -104,6 +104,7 @@
 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 | 2022-08-31 |  |
 | [Pleasure Centre](https://open.spotify.com/track/331tP1ALdrmjioH4RznvwC) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [On Vacation](https://open.spotify.com/album/5glo8zTL4koRq4BmOCdapU) | 5:47 | 2019-12-16 | 2022-09-01 |
 | [Preferences](https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Preferences](https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA) | 2:19 | 2022-09-02 |  |
+| [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 |  |
 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 | 2019-12-16 | 2022-09-01 |
 | [Redwood Colonnade](https://open.spotify.com/track/05vvHWyv10tbLT7IPOxBEC) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Redwood Colonnade](https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL) | 5:57 | 2022-08-31 |  |
 | [Remember Me As A Time Of Day](https://open.spotify.com/track/3o6RpCtAPejVvTckcd5JVt) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [How Strange, Innocence](https://open.spotify.com/album/2SAI7bmJDf4ExmzaAgXctd) | 5:18 | 2019-12-16 | 2022-07-28 |

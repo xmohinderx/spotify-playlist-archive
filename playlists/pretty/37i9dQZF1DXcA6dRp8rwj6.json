@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world.  (Cover:  Big Sean)",
-  "num_followers": 404169,
+  "num_followers": 404240,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -80,9 +80,33 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 200597,
+      "duration_ms": 200958,
       "name": "Good On Love (with Future)",
       "url": "https://open.spotify.com/track/4aPjhAeHtS0eturdD1dk78"
+    },
+    {
+      "added_at": "2022-09-08 16:07:27",
+      "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     },
     {
       "added_at": "2022-09-08 16:07:27",
@@ -171,6 +195,54 @@
       "duration_ms": 147426,
       "name": "New thing (Prod. ZICO) (Feat. Homies)",
       "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
+    },
+    {
+      "added_at": "2022-09-08 16:07:27",
+      "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
+    },
+    {
+      "added_at": "2022-09-08 16:07:27",
+      "album": {
+        "name": "No Limit (feat. Babyface Ray)",
+        "url": "https://open.spotify.com/album/6ONuoWnIfYq4TV7Dxj9p9V"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "No Limit (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/2Yn7BzHqwHnDw8XaXlZLVi"
     },
     {
       "added_at": "2022-09-08 16:07:27",

@@ -272,6 +272,28 @@
     },
     {
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/5YFuPF7T8Qf1Mln3HJydpX"
+      },
+      "artists": [
+        {
+          "name": "Palpal",
+          "url": "https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb"
+        },
+        {
+          "name": "Danny Ghost",
+          "url": "https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167124,
+      "name": "Before Summer",
+      "url": "https://open.spotify.com/track/1jnWjDA9rRION0bHhA6N51"
+    },
+    {
+      "album": {
         "name": "belief tree",
         "url": "https://open.spotify.com/album/0BgIDqOrGPMFtBQW7N2LWS"
       },
@@ -425,10 +447,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 144279,
       "name": "Blueberry Crunchy Pie",
       "url": "https://open.spotify.com/track/4qPTD9PEuRmaW8ejft4IiB"
+    },
+    {
+      "album": {
+        "name": "Kung-Fu 2",
+        "url": "https://open.spotify.com/album/4pNj1lV8PoL7j5QPLcPpp0"
+      },
+      "artists": [
+        {
+          "name": "ndls404",
+          "url": "https://open.spotify.com/artist/00akCKiA7RtISgpomfD3ZH"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112394,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/7rvQvyyX5oGr1Oup47FEcv"
     },
     {
       "album": {
@@ -733,7 +773,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 127945,
       "name": "Decluttering",
       "url": "https://open.spotify.com/track/5EMDuw7MrMMxuWBCbuLFlH"
@@ -1319,7 +1359,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 138837,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140"
@@ -1537,7 +1577,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 203180,
       "name": "Hot End",
       "url": "https://open.spotify.com/track/6uxlDRHd9HS6zdpQo1cqP8"
@@ -2489,7 +2529,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 155133,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/1NAllfYf8F5ncZL2GcLsbC"
@@ -3647,6 +3687,24 @@
       "duration_ms": 117333,
       "name": "Wax Poetry",
       "url": "https://open.spotify.com/track/2CEKenDIPepmr8rdOhfilr"
+    },
+    {
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/6tSUcBr3i85gAHGCmDSpbC"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/5WzRXholxaxwcH3v1bpCTu"
     },
     {
       "album": {

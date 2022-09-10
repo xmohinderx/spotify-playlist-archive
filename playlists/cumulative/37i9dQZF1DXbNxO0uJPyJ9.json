@@ -1022,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "All Or Nothing US Remix Album",
+        "url": "https://open.spotify.com/album/19oRih1H1X1QJtIJDB2Yiq"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388426,
+      "name": "Girl You Know It's True (Maxi Version) - Super Club Mix",
+      "url": "https://open.spotify.com/track/47fGEnnyxCNZfrPf8LXm7z"
+    },
+    {
+      "album": {
         "name": "80s 12'' Summer",
         "url": "https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn"
       },
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 346160,
       "name": "I Feel Love / Johnny Remember Me",
       "url": "https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc"

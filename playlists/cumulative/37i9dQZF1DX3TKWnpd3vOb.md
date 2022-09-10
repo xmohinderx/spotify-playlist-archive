@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-206 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+207 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Flores de cartón \- Radio Edit](https://open.spotify.com/track/5SpqY1Aqv6hFt7QbiiHqm2) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Flores de cartón \(Radio Edit\)](https://open.spotify.com/album/5VIQuT9iAnVQQs5CYOBzJq) | 3:27 | 2022-04-08 | 2022-07-29 |
 | [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 | 2022-04-08 | 2022-07-18 |
 | [Fuegos de Artificio 2.0](https://open.spotify.com/track/5CX7s2RUcpCwZg9XWTR5qM) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Fuegos de Artificio 2.0](https://open.spotify.com/album/4apeFsL6k0TlfFVJi90zQz) | 2:44 | 2022-04-08 | 2022-07-19 |
+| [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 | 2022-09-05 |  |
 | [Gol de Caszely](https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj) | [Daniel Guerrero](https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma) | [Gol de Caszely](https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj) | 3:48 | 2022-04-08 |  |
 | [Gris](https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe) | [Carga4](https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM) | [Gris](https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm) | 3:32 | 2022-04-08 | 2022-07-27 |
 | [Hacia una Nueva Dimensión](https://open.spotify.com/track/12jmlcbiaDefKxYcoZ69uc) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Hacia una Nueva Dimensión](https://open.spotify.com/album/1ozLu3pQzjBDO0WGdsDvke) | 4:58 | 2022-04-08 | 2022-07-19 |
@@ -85,7 +86,7 @@
 | [He Barrido el Sol](https://open.spotify.com/track/4d4JNtg5fvLenZVXK3JJfT) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 3:44 | 2022-04-08 |  |
 | [Humedad](https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 4:13 | 2022-04-08 |  |
 | [Indirectas](https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Indirectas](https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf) | 3:10 | 2022-04-08 | 2022-07-27 |
-| [Invisible](https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71) | [Candy66](https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ), [Nk Profeta](https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5) | [Invisible](https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q) | 5:42 | 2022-04-08 |  |
+| [Invisible](https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71) | [Candy66](https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ), [Nk Profeta](https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5) | [Invisible](https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q) | 5:42 | 2022-04-08 | 2022-09-10 |
 | [Karma](https://open.spotify.com/track/2juLvR1lacT8XUDAcVACya) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Karma](https://open.spotify.com/album/2JJj4A7fDjXbSvWD3pGBvj) | 3:10 | 2022-04-08 | 2022-07-29 |
 | [Kumbagüe](https://open.spotify.com/track/1FaKFinuCoWMuViMMZNscl) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Kollong](https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN) | 4:02 | 2022-04-08 |  |
 | [La Culebra](https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [La Culebra](https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1) | 4:57 | 2022-04-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,227 likes - 120 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,491 likes - 120 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 93 | [Karklö](https://open.spotify.com/track/1sQXPggcslG3Yf2wmCxJHk) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [Karklö](https://open.spotify.com/album/5JqDLYV1Dn7Tlsx720pFxd) | 3:15 |
 | 94 | [Don't Mind The Night](https://open.spotify.com/track/4hzBvlIQsTi5ZuD6WF3Chl) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Don't Mind The Night](https://open.spotify.com/album/5EP22HSNHSHYWce0HYzRl4) | 2:27 |
 | 95 | [Trumpet Dreams](https://open.spotify.com/track/07WunvGo91QLO0MkONvAv2) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg), [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt) | [Trumpet Dreams](https://open.spotify.com/album/44UjmvsyC4folq7CtdEROw) | 2:12 |
-| 96 | [Luna's Room](https://open.spotify.com/track/7y5yQbnZau6RGvrbNtBe8Q) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Luna's Room](https://open.spotify.com/album/5maaezf8bjRFduUW2ozZFF) | 2:15 |
+| 96 | [Luna's Room](https://open.spotify.com/track/7y5yQbnZau6RGvrbNtBe8Q) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [slow luna](https://open.spotify.com/artist/3MW5fdqmiIb1rKXccPjEID) | [Luna's Room](https://open.spotify.com/album/5maaezf8bjRFduUW2ozZFF) | 2:15 |
 | 97 | [Let the Sun Shine](https://open.spotify.com/track/655ljuz0PjkhBKh2EGcNNU) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Let the Sun Shine](https://open.spotify.com/album/1bBRrIz34wCbzyEoQJKU1Z) | 2:14 |
 | 98 | [after diner](https://open.spotify.com/track/3Ex8PXxB8xvF3LhICLm3KO) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [after dinner](https://open.spotify.com/album/2VfKcBtw3AluUKzW3zNgRa) | 2:46 |
 | 99 | [Hot Air](https://open.spotify.com/track/68NisFKk0tXGGZPOuARYtz) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Hot Air](https://open.spotify.com/album/3QQ6ANFfAwdg54eKjI3BrJ) | 2:22 |

@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 8747,
+  "num_followers": 8916,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDAyNGNiODk5YzVmYjI0ZjIxM2Y3MTE1MTc2Yjg3NjA1",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMGY5NzJiMDg1MzRmOGZjMGYzODM3YzliNWExOTZhODY4",
   "tracks": [
     {
       "added_at": "2022-04-01 16:27:04",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 208688,
-      "name": "Bad Listener",
-      "url": "https://open.spotify.com/track/5pq9GrHjnWjLkKDBxqe8UQ"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Like Love",
         "url": "https://open.spotify.com/album/4uZciTpxmFZ6lpovVv8l6E"
       },
@@ -227,18 +211,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "I'm Not",
-        "url": "https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov"
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
       "artists": [
         {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 163263,
-      "name": "I'm Not",
-      "url": "https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb"
+      "duration_ms": 208688,
+      "name": "Bad Listener",
+      "url": "https://open.spotify.com/track/5pq9GrHjnWjLkKDBxqe8UQ"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -259,6 +243,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "I'm Not",
+        "url": "https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "I'm Not",
+      "url": "https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Here Comes The Boom",
-      "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Yenta",
         "url": "https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 189998,
       "name": "Yenta",
       "url": "https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Here Comes The Boom",
+      "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Radical",
-        "url": "https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO"
+        "name": "Malicious Intent",
+        "url": "https://open.spotify.com/album/2UrIRTSZwemmXp0vDwBrlw"
       },
       "artists": [
         {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
         }
       ],
-      "duration_ms": 236533,
-      "name": "Planet Shit",
-      "url": "https://open.spotify.com/track/7GLg6mpa868wvquWv4O3ja"
+      "duration_ms": 197242,
+      "name": "Life Sentence",
+      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Malicious Intent",
-        "url": "https://open.spotify.com/album/2UrIRTSZwemmXp0vDwBrlw"
+        "name": "Radical",
+        "url": "https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO"
       },
       "artists": [
         {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 197242,
-      "name": "Life Sentence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa"
+      "duration_ms": 236533,
+      "name": "Planet Shit",
+      "url": "https://open.spotify.com/track/7GLg6mpa868wvquWv4O3ja"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "grayout",
+        "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120155,
+      "name": "grayout",
+      "url": "https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Wake Up Dead (feat. Dave Mustaine)",
         "url": "https://open.spotify.com/album/2Vh56LgTE6JXm5lo0GGAHL"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 223413,
       "name": "Wake Up Dead (feat. Dave Mustaine)",
       "url": "https://open.spotify.com/track/64rFzne9SQbMWmsVtSll0H"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "grayout",
-        "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 120155,
-      "name": "grayout",
-      "url": "https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "fast forward",
+        "url": "https://open.spotify.com/album/1emDcZj0GpkjOnJJRpgHXn"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120022,
+      "name": "fast forward",
+      "url": "https://open.spotify.com/track/69ohjiZNbPd0SjJFV0FwgU"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Pain Again",
         "url": "https://open.spotify.com/album/7fTow6HHIe3a4HxTfVYnOa"
       },
@@ -683,6 +699,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 176110,
+      "name": "Wings of Nightmares",
+      "url": "https://open.spotify.com/track/4SCNgSASITJ4D07x08xjjc"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "R\u014dnin",
         "url": "https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc"
       },
@@ -703,22 +735,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "fast forward",
-        "url": "https://open.spotify.com/album/1emDcZj0GpkjOnJJRpgHXn"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 120022,
-      "name": "fast forward",
-      "url": "https://open.spotify.com/track/69ohjiZNbPd0SjJFV0FwgU"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Bankrupt",
         "url": "https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 200800,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 176110,
-      "name": "Wings of Nightmares",
-      "url": "https://open.spotify.com/track/4SCNgSASITJ4D07x08xjjc"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "For the Cause",
-        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 140560,
-      "name": "Rev. Up",
-      "url": "https://open.spotify.com/track/7splB6KZq3eDtRTgDfMRyj"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Private Room",
         "url": "https://open.spotify.com/album/7vRLQapPrGyF7H6Wfkp7wk"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 110811,
       "name": "Monument",
       "url": "https://open.spotify.com/track/3wAvZs9WFYK8elxJmt1CVy"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "For the Cause",
+        "url": "https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 140560,
+      "name": "Rev. Up",
+      "url": "https://open.spotify.com/track/7splB6KZq3eDtRTgDfMRyj"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "I'm Sorry Mr. Salesman",
+        "url": "https://open.spotify.com/album/6omJhzmBxjnH4JpFVc7Lvn"
+      },
+      "artists": [
+        {
+          "name": "MouthBreather",
+          "url": "https://open.spotify.com/artist/7m6SeA1czZq8q7tkzRa20m"
+        }
+      ],
+      "duration_ms": 129873,
+      "name": "Cotton Shot",
+      "url": "https://open.spotify.com/track/4daCEx8HgBFwVLaeB4W1Y4"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "Foreign Language",
         "url": "https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "I'm Sorry Mr. Salesman",
-        "url": "https://open.spotify.com/album/6omJhzmBxjnH4JpFVc7Lvn"
+        "name": "With Regret",
+        "url": "https://open.spotify.com/album/4gWglmUCblMZDWEnzJgibF"
       },
       "artists": [
         {
-          "name": "MouthBreather",
-          "url": "https://open.spotify.com/artist/7m6SeA1czZq8q7tkzRa20m"
+          "name": "Expire",
+          "url": "https://open.spotify.com/artist/4AfTOzBubFP6STibJPTxwt"
         }
       ],
-      "duration_ms": 129873,
-      "name": "Cotton Shot",
-      "url": "https://open.spotify.com/track/4daCEx8HgBFwVLaeB4W1Y4"
+      "duration_ms": 89733,
+      "name": "Fighting The Slip",
+      "url": "https://open.spotify.com/track/6aqRjOiAvUfB3QGLxQ0oxD"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "With Regret",
-        "url": "https://open.spotify.com/album/4gWglmUCblMZDWEnzJgibF"
+        "name": "Never Asked For Heaven",
+        "url": "https://open.spotify.com/album/5awzgVHH13IKKD2WdS8aUM"
       },
       "artists": [
         {
-          "name": "Expire",
-          "url": "https://open.spotify.com/artist/4AfTOzBubFP6STibJPTxwt"
+          "name": "Bent Life",
+          "url": "https://open.spotify.com/artist/1Je5yTaCj3lKVnYUZx7OgD"
         }
       ],
-      "duration_ms": 89733,
-      "name": "Fighting The Slip",
-      "url": "https://open.spotify.com/track/6aqRjOiAvUfB3QGLxQ0oxD"
+      "duration_ms": 153293,
+      "name": "Thanks For Nothing",
+      "url": "https://open.spotify.com/track/1397WZ49cHvrfYP0iYsJft"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1167,22 +1183,6 @@
       "duration_ms": 193946,
       "name": "Collages & Collagen",
       "url": "https://open.spotify.com/track/14SJHx2N9R26OvzXxSj09K"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Never Asked For Heaven",
-        "url": "https://open.spotify.com/album/5awzgVHH13IKKD2WdS8aUM"
-      },
-      "artists": [
-        {
-          "name": "Bent Life",
-          "url": "https://open.spotify.com/artist/1Je5yTaCj3lKVnYUZx7OgD"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Thanks For Nothing",
-      "url": "https://open.spotify.com/track/1397WZ49cHvrfYP0iYsJft"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/76PZTUklDOYoHolig8UwAM"
+      },
+      "artists": [
+        {
+          "name": "END",
+          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+        }
+      ],
+      "duration_ms": 209940,
+      "name": "Pariah",
+      "url": "https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 223744,
       "name": "Reincarnate",
       "url": "https://open.spotify.com/track/5T0kdOTi4ThnKjq2nIPbzS"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/76PZTUklDOYoHolig8UwAM"
-      },
-      "artists": [
-        {
-          "name": "END",
-          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
-        }
-      ],
-      "duration_ms": 209940,
-      "name": "Pariah",
-      "url": "https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
+        "name": "Purer Form of Pain",
+        "url": "https://open.spotify.com/album/3XOjyLgd2Kl1aMUXHokmXH"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Purer Form of Pain",
+      "url": "https://open.spotify.com/track/7MnPWScnDukczlLP6s9mb2"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
         "name": "When Fear Turns to Confidence",
         "url": "https://open.spotify.com/album/7rSGxM0cgXirJVuQqK06Yl"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 206245,
       "name": "Jump!! (Or Get Jumped!!!)((by the future))",
       "url": "https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Purer Form of Pain",
-        "url": "https://open.spotify.com/album/3XOjyLgd2Kl1aMUXHokmXH"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Purer Form of Pain",
-      "url": "https://open.spotify.com/track/7MnPWScnDukczlLP6s9mb2"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/783kZteHLIgz6XNTQeT32k"
+        "name": "Party\u2019s Over",
+        "url": "https://open.spotify.com/album/1Rkng3v3oITAzhBfXlKYTI"
       },
       "artists": [
         {
-          "name": "BillyBio",
-          "url": "https://open.spotify.com/artist/3swoi52Bhrv25GWOIWYGWF"
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
         }
       ],
-      "duration_ms": 134293,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/20td2JEpu9ZvpniMmgaj5m"
+      "duration_ms": 229000,
+      "name": "Party\u2019s Over",
+      "url": "https://open.spotify.com/track/0cYhDSEGwA0pUtuXf6hGDk"
     },
     {
       "added_at": "2022-04-01 16:27:04",

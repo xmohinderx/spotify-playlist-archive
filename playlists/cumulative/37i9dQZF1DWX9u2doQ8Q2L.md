@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-267 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+268 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,10 +195,11 @@
 | [Troche](https://open.spotify.com/track/55npd4x5aJgUxgcfuuedSA) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Troche](https://open.spotify.com/album/664yPpos9jz8ONXwcAY84t) | 4:06 | 2022-07-28 | 2022-09-09 |
 | [Utopia](https://open.spotify.com/track/3T0M0Q9hf9zwDtxICrnnHF) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp) | [Utopia](https://open.spotify.com/album/30iuWckM7sIRzKGkQ6iWDZ) | 2:53 | 2022-08-18 | 2022-08-26 |
 | [Vacilando](https://open.spotify.com/track/5hrfHXeMWo5AOdJQZ9o0SO) | [Baku Furukawa](https://open.spotify.com/artist/2em1oRhLgRPKX9yBh9HjR9) | [Vacilando](https://open.spotify.com/album/5rs9U3cLeyrZoRXzHjqN7p) | 4:36 | 2022-06-07 | 2022-07-06 |
-| [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-06 |  |
+| [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 |  |
+| [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-06 | 2022-09-10 |
 | [VIBRATION \(feat\. Kotetsu Shoichiro\)](https://open.spotify.com/track/1rZnfqsyxBLLUDVZMg914F) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Kotetsu Shoichiro](https://open.spotify.com/artist/1kKllcBgRqk8eBwcCGWVzc) | [REFLECTION](https://open.spotify.com/album/3YLJWusLf7BKhZU5Wmff1I) | 4:01 | 2022-05-26 | 2022-07-06 |
 | [Void Time](https://open.spotify.com/track/5RaIXJmfqymo3v1IMKFs7W) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Void Time](https://open.spotify.com/album/60hE7KIjUdQEFZNEh4iEfE) | 3:36 | 2022-05-26 | 2022-06-15 |
-| [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:26 | 2022-09-06 |  |
+| [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 | 2022-09-06 |  |
 | [Waving](https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Waving](https://open.spotify.com/album/6gIiOFp2XCgsVrQNEeFPtz) | 3:45 | 2022-05-26 | 2022-06-29 |
 | [Whiskey](https://open.spotify.com/track/1oIZe3U574XwPSHCKw1CuX) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Whiskey](https://open.spotify.com/album/4vDnDGOvWhIXdRBB3B8IFW) | 3:54 | 2022-07-05 | 2022-07-27 |
 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2022-07-21 |  |

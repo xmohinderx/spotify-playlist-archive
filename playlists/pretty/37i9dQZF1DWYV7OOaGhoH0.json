@@ -1,13 +1,77 @@
 {
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 1831652,
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Katie Pruitt",
+  "num_followers": 1831660,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDMyMDE3YjVhNTMxYjFmNmRhYzIzOWEwZjZhMzkxODIy",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGU4NDk2YTRiNDY3ZmM2OTVkNGEyMWM4YTFiMWY0MTkw",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Something About What Happens When We Talk",
+        "url": "https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Something About What Happens When We Talk",
+      "url": "https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Better Off High",
+        "url": "https://open.spotify.com/album/5nMgnAmu8DnEHS1FVlsrB7"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Better Off High",
+      "url": "https://open.spotify.com/track/4qErRQ7XZCogsJDzyvWTLY"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
@@ -27,6 +91,42 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Lost Myself",
+        "url": "https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Lost Myself",
+      "url": "https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -81,26 +181,6 @@
       "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
     },
     {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Tres Hermanos",
-        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "You and Me On The Rock (In The Canyon Haze)",
@@ -119,18 +199,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "I'm Just a Clown",
-        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
+        "name": "Until You (Acoustic)",
+        "url": "https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
         }
       ],
-      "duration_ms": 253920,
-      "name": "I'm Just a Clown",
-      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
+      "duration_ms": 197265,
+      "name": "Until You - Acoustic",
+      "url": "https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -157,22 +237,6 @@
       "url": "https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "That's How I Got To Memphis",
@@ -191,6 +255,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "I'm Just a Clown",
+        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "I'm Just a Clown",
+      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -203,6 +283,22 @@
       "duration_ms": 214000,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -223,22 +319,6 @@
       "duration_ms": 301506,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -303,6 +383,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Pitseleh",
         "url": "https://open.spotify.com/album/2gjEpvBQsiQ0kFb0o7BTnh"
       },
@@ -351,38 +447,6 @@
       "duration_ms": 330653,
       "name": "Comes In Waves",
       "url": "https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -823,22 +887,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "In The Pines",
-        "url": "https://open.spotify.com/album/4J4zam9BmBnrGSzrI7SrMp"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "In The Pines",
-      "url": "https://open.spotify.com/track/4gOHmHKTn63012ROseKHvR"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -871,38 +919,6 @@
       "duration_ms": 335859,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Hospital",
-        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Until You (Acoustic)",
-        "url": "https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 197265,
-      "name": "Until You - Acoustic",
-      "url": "https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 178786,
       "name": "Collecting Dust",
       "url": "https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 209126,
-      "name": "All My Love Is Coming Back To Me",
-      "url": "https://open.spotify.com/track/3fJiva7a51oL1HfZ11gLiW"
     },
     {
       "added_at": "2022-08-19 04:00:00",

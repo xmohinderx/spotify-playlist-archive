@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth",
-  "num_followers": 2302072,
+  "num_followers": 2303051,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MDE1OCwwMDAwMDAwMDAzZTgxMzAwOGMwMmVlOTU1YTQ3NTcyMGEwZjFjNTJl",
+  "snapshot_id": "MTY2MjY1MDE1OCwwMDAwMDAwMDlhNTM1YzI2YTNiM2JjMWQ0ZGE4NTgyYjExNWRkNzhi",
   "tracks": [
     {
       "added_at": "2022-09-08 15:15:58",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-08 15:15:58",
       "album": {
-        "name": "Creatures Of The Night",
-        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "I Love It Loud",
-      "url": "https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7"
-    },
-    {
-      "added_at": "2022-09-08 15:15:58",
-      "album": {
         "name": "Reign In Blood",
         "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 254400,
       "name": "Raining Blood",
       "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
+    },
+    {
+      "added_at": "2022-09-08 15:15:58",
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "I Love It Loud",
+      "url": "https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7"
     },
     {
       "added_at": "2022-09-08 15:15:58",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-09-08 15:15:58",
       "album": {
+        "name": "South Of Heaven",
+        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "South Of Heaven",
+      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
+    },
+    {
+      "added_at": "2022-09-08 15:15:58",
+      "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 353786,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
-    },
-    {
-      "added_at": "2022-09-08 15:15:58",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Strutter",
-      "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
     },
     {
       "added_at": "2022-09-08 15:15:58",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-09-08 15:15:58",
       "album": {
-        "name": "South Of Heaven",
-        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 298533,
-      "name": "South Of Heaven",
-      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
+      "duration_ms": 190866,
+      "name": "Strutter",
+      "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
     },
     {
       "added_at": "2022-09-08 15:15:58",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2022-09-08 15:15:58",
       "album": {
-        "name": "Among The Living",
-        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
       "artists": [
         {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
         }
       ],
-      "duration_ms": 341333,
-      "name": "Indians",
-      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
+      "duration_ms": 187493,
+      "name": "Animal (Fuck Like A Beast)",
+      "url": "https://open.spotify.com/track/22KezdnLpayPKz4aTDt899"
     },
     {
       "added_at": "2022-09-08 15:15:58",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-09-08 15:15:58",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+        "name": "Among The Living",
+        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
       },
       "artists": [
         {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
         }
       ],
-      "duration_ms": 187493,
-      "name": "Animal (Fuck Like A Beast)",
-      "url": "https://open.spotify.com/track/22KezdnLpayPKz4aTDt899"
+      "duration_ms": 341333,
+      "name": "Indians",
+      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
     },
     {
       "added_at": "2022-09-08 15:15:58",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-09-08 15:15:58",
       "album": {
-        "name": "Among The Living (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 300093,
-      "name": "Caught In A Mosh",
-      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
-    },
-    {
-      "added_at": "2022-09-08 15:15:58",
-      "album": {
         "name": "Fabulous Disaster",
         "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 284960,
       "name": "Evil",
       "url": "https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn"
+    },
+    {
+      "added_at": "2022-09-08 15:15:58",
+      "album": {
+        "name": "Among The Living (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 300093,
+      "name": "Caught In A Mosh",
+      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
     },
     {
       "added_at": "2022-09-08 15:15:58",

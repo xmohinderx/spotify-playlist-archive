@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Dermot Kennedy",
+  "description": "Ease into these recent hits and new songs from your favorite artists. Cover: John Legend",
   "name": "Just Good Music",
   "published_playlist_ids": [
     "4ml5qGm3jWvLjOnBVMhlu7"
@@ -5132,6 +5132,24 @@
     },
     {
       "album": {
+        "name": "Cross Country",
+        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175212,
+      "name": "For What It\u2019s Worth",
+      "url": "https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o"
       },
@@ -5165,6 +5183,24 @@
       "duration_ms": 177760,
       "name": "Forget (About Everyone Else)",
       "url": "https://open.spotify.com/track/1cAEFdMm3lt3nrFkkfqFw8"
+    },
+    {
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
     },
     {
       "album": {
@@ -10569,7 +10605,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 220953,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW"
@@ -15027,7 +15063,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 183066,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD"
@@ -17299,6 +17335,24 @@
       "duration_ms": 172692,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "album": {

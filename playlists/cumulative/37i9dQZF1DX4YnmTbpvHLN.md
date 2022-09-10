@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-186 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+187 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Estrellita](https://open.spotify.com/track/230SRIeY6sOIr0jhks11Xz) | [Christian Warner Band](https://open.spotify.com/artist/33v9UFXH7pCXb4kmEz91SF) | [Estrellita](https://open.spotify.com/album/5nam9UDpTq9AqnwtSSBUdj) | 4:52 | 2022-06-29 | 2022-07-29 |
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/6gbFiQFCNFB3py3W7TtpbP) | [Charlie Wilder Band](https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV) | [Ev'rytime We Say Goodbye](https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG) | 4:15 | 2022-06-29 |  |
 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-29 |  |
-| [Everything I Have Is Yours](https://open.spotify.com/track/27IKNDm0VrpWOxW89GwxUZ) | [Oliver Richardson Quartet](https://open.spotify.com/artist/2IX0mWVO2XmeKTFJtSUJMv) | [A Time for Love](https://open.spotify.com/album/2ftEGm2HzSzFCnNP6MZJYd) | 4:54 | 2022-06-29 |  |
+| [Everything I Have Is Yours](https://open.spotify.com/track/27IKNDm0VrpWOxW89GwxUZ) | [Oliver Richardson Quartet](https://open.spotify.com/artist/2IX0mWVO2XmeKTFJtSUJMv) | [A Time for Love](https://open.spotify.com/album/2ftEGm2HzSzFCnNP6MZJYd) | 4:54 | 2022-06-29 | 2022-09-10 |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-06-29 |  |
 | [Familiarity](https://open.spotify.com/track/2rkMiWiaO1iPWjb5Lko8Lu) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Familiarity](https://open.spotify.com/album/1u7G8TW6rs86xYf5nVTeac) | 3:00 | 2022-06-29 |  |
 | [For a While](https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [For a While](https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj) | 3:55 | 2022-06-29 | 2022-07-29 |
@@ -164,6 +164,7 @@
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-06-29 |  |
 | [The Gypsy](https://open.spotify.com/track/5dPPpDUQvbMpJHsGVXtI1U) | [Blue Moon Jazz Quartet](https://open.spotify.com/artist/5bEcIQVnNBtnMr8CTW4RO2) | [Ask Me Now](https://open.spotify.com/album/6cNda0ASJOFEoMPrAhFW5z) | 5:01 | 2022-06-29 | 2022-07-29 |
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-06-29 |  |
+| [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-08 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/6kFK16v4TcZK6KFfca5aMw) | [Best Jazz Quartet](https://open.spotify.com/artist/4GdQHzIr5TLdjSBeLvSJNz) | [The More I See You](https://open.spotify.com/album/5p4G6qfKL7b5m5dCGbTe7g) | 6:24 | 2022-06-29 | 2022-08-11 |
 | [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-29 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/7l4tE0xjccA4ZLl8pDOJ83) | [The Blue Phone Trio](https://open.spotify.com/artist/1PVrO6XKRJbrZdtuxVk1E9) | [Tenor Madness](https://open.spotify.com/album/40vcqBldcf88vO77OOPgQC) | 5:35 | 2022-06-29 | 2022-07-29 |

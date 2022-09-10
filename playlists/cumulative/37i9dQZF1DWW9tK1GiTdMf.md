@@ -4,7 +4,7 @@
 
 > canzoni da gridare ❤️‍🩹 Sethu in cover
 
-244 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+245 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-05-06 | 2022-06-03 |
 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 | 2022-05-06 |  |
 | [Basta](https://open.spotify.com/track/2A76lNgorxfhOnG0yLSOvu) | [Holy](https://open.spotify.com/artist/7rKhniAoTGdu1IFQFxEajZ) | [Basta](https://open.spotify.com/album/5kJUJ5naCgnRONx5ROtZkz) | 2:44 | 2022-05-26 | 2022-09-09 |
-| [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2022-08-18 |  |
+| [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2022-08-18 | 2022-09-10 |
 | [BELLA E CATTIVA](https://open.spotify.com/track/0kcbXArgh2BA7jnl36m1Ra) | [LACRAY](https://open.spotify.com/artist/4xpU5TueW8UPyRCpwnXwbo), [demoncandy](https://open.spotify.com/artist/68SYpEb4cmSAjA4k3B8npz) | [BELLA E CATTIVA](https://open.spotify.com/album/2ZQk4UNmyL5ALrc8YcRMW7) | 2:29 | 2022-05-06 | 2022-05-27 |
 | [Bimbi sperduti](https://open.spotify.com/track/2cbhjonbV2YPffUoaliMvW) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Bimbi sperduti](https://open.spotify.com/album/71Hni2mOJAUVC9ll9fpvdo) | 2:47 | 2022-05-06 | 2022-06-10 |
 | [Blister](https://open.spotify.com/track/5CE7zszvQTyd0PseSB7DZm) | [Jamie](https://open.spotify.com/artist/2oFwHkgGUfPxgKymSenwez), [Echoes](https://open.spotify.com/artist/1LnJgDU9cwWDuVOkxkrxnj), [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5) | [Blister](https://open.spotify.com/album/2H1wPKc196H0cdrUa9mDqM) | 3:17 | 2022-05-06 | 2022-06-17 |
@@ -169,6 +169,7 @@
 | [Parlami](https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Parlami](https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N) | 2:49 | 2022-06-27 |  |
 | [party](https://open.spotify.com/track/0hX5PHXFZUlgDdo3275riV) | [SATURNO](https://open.spotify.com/artist/6bp6WFXZIwaQTCyYcIwnSL), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [party](https://open.spotify.com/album/4korbCXYCK2jdAUykA7Q2r) | 2:33 | 2022-06-09 | 2022-06-29 |
 | [PASTA](https://open.spotify.com/track/5s7DyFhIKaE6ZLpjbZ1VNL) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [PASTA](https://open.spotify.com/album/6lF2HCEX19Y13ki6n3DnZ2) | 2:09 | 2022-06-30 | 2022-08-05 |
+| [Per te](https://open.spotify.com/track/0QRls3tUqyFiJ91HYeNDzK) | [Rcode](https://open.spotify.com/artist/3CqesCrl4ZiZznwKhlR1UO) | [DOVREI SMETTERLA](https://open.spotify.com/album/5hAJBqhDbifamw6HP2Imxz) | 2:38 | 2022-09-09 |  |
 | [PETTING](https://open.spotify.com/track/7uUdvQni4C3rj7DOduNAuQ) | [Dígame](https://open.spotify.com/artist/6duVD4tvbuGfGwK7qJBzMD), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [PETTING](https://open.spotify.com/album/1ZWMERMXrRI2C2d6gPnqD2) | 2:36 | 2022-05-06 | 2022-05-13 |
 | [Placeholder](https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Placeholder](https://open.spotify.com/album/0fjn5aDzYjBnWctsHplKAG) | 2:39 | 2022-07-14 | 2022-07-29 |
 | [POETA](https://open.spotify.com/track/51H0PcK5YZBgGxJrrFRpr4) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [FALLIRÒ](https://open.spotify.com/album/0fI4IMCqKyYblhpZABJahV) | 3:03 | 2022-05-06 | 2022-06-03 |

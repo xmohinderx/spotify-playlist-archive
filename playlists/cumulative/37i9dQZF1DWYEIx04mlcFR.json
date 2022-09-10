@@ -1206,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "Intenciones",
+        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "Intenciones",
+      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
+    },
+    {
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy"
       },
@@ -1271,7 +1293,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 210560,
       "name": "la que calla",
       "url": "https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx"
@@ -1336,6 +1358,24 @@
     },
     {
       "album": {
+        "name": "Los d\u00edas grises",
+        "url": "https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139489,
+      "name": "Los d\u00edas grises",
+      "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
+    },
+    {
+      "album": {
         "name": "LSNC",
         "url": "https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh"
       },
@@ -1347,7 +1387,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 153711,
       "name": "LSNC",
       "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
@@ -1597,6 +1637,24 @@
       "duration_ms": 173424,
       "name": "mi canci\u00f3n favorita",
       "url": "https://open.spotify.com/track/0rDBd5DzUJoJMfBlko7WcK"
+    },
+    {
+      "album": {
+        "name": "Mi Cumbia",
+        "url": "https://open.spotify.com/album/2Mjka8OhoXINOkGI6zglhU"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207775,
+      "name": "Mi Cumbia",
+      "url": "https://open.spotify.com/track/6opYzmDIzG3uGln1BM2MtT"
     },
     {
       "album": {
@@ -2665,7 +2723,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 165674,
       "name": "qu\u00e9 voy a hacer conmigo???",
       "url": "https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS"

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1990s.
 
-335 songs - 1 day 1 hr 7 min - [published](https://open.spotify.com/playlist/3Y9Hoox8bVt84gpOCnK26g)
+336 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/3Y9Hoox8bVt84gpOCnK26g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 | 2021-02-02 |  |
 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 | 2021-02-02 |  |
 | [All That I Need \- Edit](https://open.spotify.com/track/2ZXJFFf0bisA3TtGUP0hZ9) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS), [Rude Boy](https://open.spotify.com/artist/7KIa6BEXjk29IxNNeANzXq), [Andy Bradfield](https://open.spotify.com/artist/5RdqlEgTX8i8kUM5x3EDX1) | [Where We Belong](https://open.spotify.com/album/0CIOLuLFn9fzEltziUqJyz) | 3:40 | 2021-02-02 | 2022-07-29 |
+| [Almost Unreal](https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 3:54 | 2022-03-21 |  |
 | [Almost Unreal](https://open.spotify.com/track/7rllLeuHbB59OQOILbNqF8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 3:54 | 2021-02-02 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 | 2022-03-21 |  |
 | [Always](https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm) | 5:53 | 2021-02-02 | 2022-07-29 |
@@ -182,7 +183,7 @@
 | [Love Is](https://open.spotify.com/track/7Fz04HFxIlqYm5vMq1cmZS) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Brian McKnight](https://open.spotify.com/album/1qukyoLvQxVVjXTVZeCLzD) | 4:46 | 2021-02-02 | 2022-07-29 |
 | [Love Is All Around \- From "Four Weddings And A Funeral"](https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This \(20th Anniversary Edition\)](https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY) | 4:06 | 2021-02-02 |  |
 | [Love Me For A Reason](https://open.spotify.com/track/2GBoo6ufWtMy1s6lqgbjJ8) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Said And Done](https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4) | 3:38 | 2021-02-02 |  |
-| [Lucky Man](https://open.spotify.com/track/0bw1li9y32rw40HGodRShs) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:53 | 2022-03-21 |  |
+| [Lucky Man](https://open.spotify.com/track/0bw1li9y32rw40HGodRShs) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:53 | 2022-03-21 | 2022-09-10 |
 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 | 2021-02-02 |  |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2022-03-21 |  |
 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Legacy Edition\)](https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH) | 4:21 | 2022-03-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 408594,
+  "num_followers": 408670,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NzIxNiwwMDAwMDAwMDhjZDA0M2U5Y2U3ZjFiMGQxZDIyYWU5NTY5Zjk3OTFh",
+  "snapshot_id": "MTY1OTQ1NzIxNiwwMDAwMDAwMDY3NTQ2ZDY4Yzc1ZTVlOGZlZDFiOWU0ODg4MTZiODU1",
   "tracks": [
     {
       "added_at": "2022-08-02 16:20:16",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -735,18 +735,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "If You Ever Change Your Mind",
-        "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
+        "name": "Trouble (from \u2018Three Months\u2019)",
+        "url": "https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
         }
       ],
-      "duration_ms": 205994,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
+      "duration_ms": 203466,
+      "name": "Trouble - from \u2018Three Months\u2019",
+      "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -767,22 +771,18 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "Trouble (from \u2018Three Months\u2019)",
-        "url": "https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8"
+        "name": "If You Ever Change Your Mind",
+        "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Trouble - from \u2018Three Months\u2019",
-      "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"
+      "duration_ms": 205994,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "For Those Who Can't Be Here",
-        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 183079,
-      "name": "For Those Who Can't Be Here",
-      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
         "name": "Box of Regrets",
         "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
+        "name": "For Those Who Can't Be Here",
+        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
+      "duration_ms": 183079,
+      "name": "For Those Who Can't Be Here",
+      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
+        "name": "Call Me A Dreamer",
+        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 228798,
+      "name": "Call Me A Dreamer",
+      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
         "name": "Sad Anymore",
         "url": "https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 130042,
       "name": "Sad Anymore",
       "url": "https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
-        "name": "To Love A Man",
-        "url": "https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 161140,
-      "name": "To Love A Man",
-      "url": "https://open.spotify.com/track/659179UI47crJGFp0RrCwU"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+        "name": "To Love A Man",
+        "url": "https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+      "duration_ms": 161140,
+      "name": "To Love A Man",
+      "url": "https://open.spotify.com/track/659179UI47crJGFp0RrCwU"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1175,6 +1159,22 @@
       "duration_ms": 146810,
       "name": "Margaux",
       "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
     },
     {
       "added_at": "2022-08-02 16:20:16",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-08-02 16:20:16",
       "album": {
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4"
+    },
+    {
+      "added_at": "2022-08-02 16:20:16",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 234057,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ"
-    },
-    {
-      "added_at": "2022-08-02 16:20:16",
-      "album": {
-        "name": "Give You Love",
-        "url": "https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Give You Love",
-      "url": "https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4"
     },
     {
       "added_at": "2022-08-02 16:20:16",

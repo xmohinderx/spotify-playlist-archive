@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: HALIENE.
 
-238 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+239 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,15 +115,16 @@
 | [Hypnotize](https://open.spotify.com/track/1UWYmWcYtNeoVfI05gL05Z) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Hypnotize](https://open.spotify.com/album/3FTumF4XnugewlfCek5Rs8) | 3:07 | 2022-07-08 |  |
 | [I Can Feel](https://open.spotify.com/track/6vAghAitNFHoGUEbhJPI6n) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel) | [I Can Feel](https://open.spotify.com/album/57l0rDfB4jXEepSeuuE56H) | 2:31 | 2022-07-08 | 2022-09-03 |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-08 |  |
-| [I Know](https://open.spotify.com/track/0fSEQCnHfXZIu5j7qJMjZD) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 3:44 | 2022-07-29 |  |
+| [I Know](https://open.spotify.com/track/0fSEQCnHfXZIu5j7qJMjZD) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 3:44 | 2022-07-29 | 2022-09-10 |
 | [I Know](https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Know](https://open.spotify.com/album/20U0SiZh9ofVxSOlvPVLBV) | 3:44 | 2022-07-08 | 2022-08-26 |
 | [I Miss You](https://open.spotify.com/track/1wFIzp2i41BqnKauWxWrrs) | [Pushing Daizies](https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf), [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [I Miss You](https://open.spotify.com/album/4nXQGh8Jute5gySw8X9oIy) | 2:20 | 2022-07-08 | 2022-07-29 |
 | [I Tried](https://open.spotify.com/track/2Cx1hvG8fHTaiaYqX9yRnC) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [I Tried](https://open.spotify.com/album/6kMJ2eO1OCzzCNf8ZMw2e2) | 3:23 | 2022-07-08 | 2022-07-28 |
 | [I Would Never](https://open.spotify.com/track/326nNqs0vqJ96Tr4FZBSt1) | [Pushing Daizies](https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf) | [Initium](https://open.spotify.com/album/7a7YloJDEqVN6sSGmZqgdV) | 3:22 | 2022-07-08 |  |
 | [In the Dark](https://open.spotify.com/track/7650fasilpmWpFW7QX47pi) | [My Bad](https://open.spotify.com/artist/63L7fapgmG0gsJPlsMr6ui), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [In the Dark](https://open.spotify.com/album/3KOoU1YstjcVaim2qpz9oX) | 3:39 | 2022-07-08 | 2022-08-27 |
 | [In Too Deep](https://open.spotify.com/track/5p4xlfn5rNUXAfGo8x6dUS) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [TRØVES](https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg) | [In Too Deep](https://open.spotify.com/album/7f4Sd37SBX6FadBa2YmmAa) | 4:24 | 2022-07-08 |  |
-| [It's Not Too Late](https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 4:34 | 2022-08-12 |  |
-| [Just A Dream](https://open.spotify.com/track/0FpXOnJP3OtKU5zGKUtrdu) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Just A Dream](https://open.spotify.com/album/3HGlp8bSoomAkZKQl67fqx) | 2:48 | 2022-07-08 | 2022-08-30 |
+| [It's Not Too Late](https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 4:34 | 2022-08-12 |  |
+| [It's Not Too Late](https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 4:34 | 2022-08-12 | 2022-09-10 |
+| [Just A Dream](https://open.spotify.com/track/0FpXOnJP3OtKU5zGKUtrdu) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Just A Dream](https://open.spotify.com/album/3HGlp8bSoomAkZKQl67fqx) | 2:48 | 2022-07-08 |  |
 | [Just Be Honest](https://open.spotify.com/track/71KO4zAbFDtx8oDQx7qtka) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Just Be Honest](https://open.spotify.com/album/66LWQi0GbFve8X4IFpOiiG) | 3:33 | 2022-07-08 | 2022-07-29 |
 | [Just Like You](https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Just Like You](https://open.spotify.com/album/4PPUdNjkbbVWrdby0AamEx) | 4:28 | 2022-07-08 |  |
 | [Knock On Wood](https://open.spotify.com/track/1dqt7PgZm65K8Ctm7nOimH) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Lousy](https://open.spotify.com/artist/2KbWUA7pMd5ZpNdj5LPp3s) | [Knock On Wood](https://open.spotify.com/album/7mhsD3T9IWt5pkP90a1In3) | 3:08 | 2022-07-08 | 2022-08-06 |

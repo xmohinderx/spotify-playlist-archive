@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 194023,
       "name": "Caja de Cart\u00f3n",
       "url": "https://open.spotify.com/track/5gbYdVq1gpExyakimfFINk"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 218640,
       "name": "Chango",
       "url": "https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 254024,
       "name": "La Plegaria de la Noche",
       "url": "https://open.spotify.com/track/4CHnu9MmiPITxzCmQ5W1R2"
@@ -1993,6 +1993,24 @@
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "album": {
+        "name": "Los d\u00edas grises",
+        "url": "https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139489,
+      "name": "Los d\u00edas grises",
+      "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
     },
     {
       "album": {
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 219746,
       "name": "No Imagin\u00e9",
       "url": "https://open.spotify.com/track/5zaF0iCebg0hYK5B16SVi3"
@@ -2843,7 +2861,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 166933,
       "name": "Soltarlo",
       "url": "https://open.spotify.com/track/6fC5Xz6sRIAgnOIbZbuP5h"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 160306,
       "name": "Sonido Amazonico",
       "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"

@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Jackson Wang",
-  "num_followers": 156142,
+  "num_followers": 156222,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1NjQwMCwwMDAwMDAwMGZhZjkwMGIyMWQ4ZGE3MTVkNWI4OTk5OTg2MThjYmNk",
+  "snapshot_id": "MTY2MjY5ODEwOCwwMDAwMDAwMGNkYjBkY2VlNTIxZTRkMjg4MTNhODIzZmVmZGMzZDhk",
   "tracks": [
     {
       "added_at": "2022-09-08 17:00:00",
@@ -39,26 +39,6 @@
       "duration_ms": 198386,
       "name": "Sehari Lagi",
       "url": "https://open.spotify.com/track/52wsSoTvPT6dl7oNtVSDbo"
-    },
-    {
-      "added_at": "2022-09-08 17:00:00",
-      "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx"
     },
     {
       "added_at": "2022-09-08 17:00:00",
@@ -303,6 +283,22 @@
       "duration_ms": 163180,
       "name": "Ignoring Me",
       "url": "https://open.spotify.com/track/6pHX5Rv6js63VsYLz5AuDi"
+    },
+    {
+      "added_at": "2022-09-08 17:00:00",
+      "album": {
+        "name": "Let\u2032s Get Together",
+        "url": "https://open.spotify.com/album/1yLFJbEqnzdA4ZD3BfYxXs"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Let\u2032s Get Together",
+      "url": "https://open.spotify.com/track/347dLsTtj0ObCDfspfP3Jy"
     },
     {
       "added_at": "2022-09-08 17:00:00",
@@ -711,8 +707,8 @@
     {
       "added_at": "2022-09-08 17:00:00",
       "album": {
-        "name": "Vandalize",
-        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
       "artists": [
         {
@@ -721,8 +717,8 @@
         }
       ],
       "duration_ms": 194695,
-      "name": "Vandalize - Japanese Version",
-      "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
     },
     {
       "added_at": "2022-09-08 17:00:00",
@@ -1239,6 +1235,22 @@
     {
       "added_at": "2022-09-08 17:00:00",
       "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2022-09-08 17:00:00",
+      "album": {
         "name": "Lucky (feat. Noa Kirel)",
         "url": "https://open.spotify.com/album/4xjq8iP9OYWK7g6JhIMv2v"
       },
@@ -1255,6 +1267,34 @@
       "duration_ms": 142038,
       "name": "Lucky (feat. Noa Kirel)",
       "url": "https://open.spotify.com/track/1JMDsOUPflzsNN62KEBaH9"
+    },
+    {
+      "added_at": "2022-09-08 17:00:00",
+      "album": {
+        "name": "No Limit (feat. Babyface Ray)",
+        "url": "https://open.spotify.com/album/6ONuoWnIfYq4TV7Dxj9p9V"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "No Limit (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/2Yn7BzHqwHnDw8XaXlZLVi"
     },
     {
       "added_at": "2022-09-08 17:00:00",
@@ -1296,7 +1336,7 @@
       "added_at": "2022-09-08 17:00:00",
       "album": {
         "name": "I Long To See Your Face",
-        "url": "https://open.spotify.com/album/74DDYn78mnBJRx7RceSUdJ"
+        "url": "https://open.spotify.com/album/7rb3G65p2QMTNnGQlKzXVO"
       },
       "artists": [
         {
@@ -1306,7 +1346,7 @@
       ],
       "duration_ms": 149228,
       "name": "Remember Me",
-      "url": "https://open.spotify.com/track/1QOdwKd111lPn91aB88bkk"
+      "url": "https://open.spotify.com/track/0Hb5wXGFUp7UDXb0LW6mmE"
     },
     {
       "added_at": "2022-09-08 17:00:00",
@@ -1391,6 +1431,30 @@
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "added_at": "2022-09-08 17:00:00",
+      "album": {
+        "name": "handbook",
+        "url": "https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Nieman",
+          "url": "https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 195215,
+      "name": "handbook",
+      "url": "https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9"
     },
     {
       "added_at": "2022-09-08 17:00:00",

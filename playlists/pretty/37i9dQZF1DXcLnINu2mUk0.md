@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Kappa Jotta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,355 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,372 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 48 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 |
 | 49 | [Say Yeah](https://open.spotify.com/track/1ctGMBEia7oXjiIwceNT9m) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Say Yeah](https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid) | 2:50 |
 | 50 | [sedado](https://open.spotify.com/track/1oYeXvfELrtwfIj43N5hej) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [sedado / baby](https://open.spotify.com/album/0ULlsgcy21IBSWhskJ9pOs) | 3:03 |
-| 51 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 |
+| 51 | [Só Tu](https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W) | [Mkmike](https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe) | [Fragmentos](https://open.spotify.com/album/3NAaDjmd63oPTVBQBI7Psc) | 3:45 |
 | 52 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
-| 53 | [Só Tu](https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W) | [Mkmike](https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe) | [Fragmentos](https://open.spotify.com/album/3NAaDjmd63oPTVBQBI7Psc) | 3:45 |
+| 53 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 |
 | 54 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 |
 | 55 | [Aguardent](https://open.spotify.com/track/4B0JlP1HWrPFcmidHLVEB9) | [Jay Yo](https://open.spotify.com/artist/1wH7vQKdmZtKSI4r1YF33A), [Pucci Jr](https://open.spotify.com/artist/5frmw57upraPDcl8cEtISs) | [Aguardent](https://open.spotify.com/album/1bnfGUqWM2rUSUMnxCDBY1) | 3:28 |
 | 56 | [Pára](https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Pára](https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq) | 2:56 |
-| 57 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 |
-| 58 | [Antes e Depois](https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [Antes e Depois](https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb) | 2:36 |
+| 57 | [Antes e Depois](https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [Antes e Depois](https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb) | 2:36 |
+| 58 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 |
 | 59 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 |
 | 60 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDQ0NDRhNWE0ZjJkNTdmZTQ0ZDdjMzUzOWMwYzBlNWY1`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMGU1MGVkNWU1ODc4NzhlZGIzOWNkYmI3NDU3YmQwZTcw`

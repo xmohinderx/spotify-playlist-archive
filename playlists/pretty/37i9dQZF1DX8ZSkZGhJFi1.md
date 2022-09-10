@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,556 likes - 139 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,571 likes - 139 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 118 | [Solid](https://open.spotify.com/track/0LpiwukL1mYqhW35DKgunw) | [HILLS](https://open.spotify.com/artist/7buTljnUmlZ6w4D2ZOV16U) | [Solid](https://open.spotify.com/album/04h26C6KKA6vjp5pPevXkB) | 1:53 |
 | 119 | [Hontoni Tasukete](https://open.spotify.com/track/4Fq3pTVdkofsmLhCRnfgZN) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Hontoni Tasukete](https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE) | 1:42 |
 | 120 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 |
-| 121 | [Track Smack](https://open.spotify.com/track/2ExGfjMMr5PDTicSk65xQd) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/1SYa5Vd1APzOiSiOQREnkW) | 3:12 |
+| 121 | [Track Smack](https://open.spotify.com/track/3eD2mfu97RybLSHMBzkVQN) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/3OACGrVtxvKdMLki5HDRyZ) | 3:12 |
 | 122 | [Summer Stained](https://open.spotify.com/track/3HiLkwp0J0uDr2aiEfRHcW) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Summer Stained](https://open.spotify.com/album/3E4UO3JT5jSozGAwiFLpJF) | 2:40 |
 | 123 | [The Riddle of the Record](https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:18 |
 | 124 | [OneTwo](https://open.spotify.com/track/0BzXb43npjCoedlPHH3W2X) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [OneTwo](https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn) | 2:54 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 138 | [Final Call](https://open.spotify.com/track/1gyxf3SMn2fTGb1NjAkjCi) | [Nololom](https://open.spotify.com/artist/4WrAPVebfnZwW9udoZNoIp) | [Final Call](https://open.spotify.com/album/7dCOeRY0GBW5x1VTDYfGiM) | 1:36 |
 | 139 | [Frosty Dream](https://open.spotify.com/track/5D8QxnbmmXyPnniROQJU83) | [Axavex](https://open.spotify.com/artist/5WvBaMDSgK2VYklEpiASej) | [Frosty Dream](https://open.spotify.com/album/1SU8RKCQpX6uYlws5IwRJz) | 3:09 |
 
-Snapshot ID: `MTY1NjY3MDc0NSwwMDAwMDAwMGNmNDFmNzAyYjZlYzA1ZWE1OTk3ZWYxYjgzYmY4ZmVm`
+Snapshot ID: `MTY1NjY3MDc0NSwwMDAwMDAwMGUzYzFjZTM1NjUyOTU1N2Q5Mjk1NjU2ZTI5MjVmNmI0`

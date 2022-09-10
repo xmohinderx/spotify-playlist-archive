@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-605 songs - 1 day 13 hr 22 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+606 songs - 1 day 13 hr 26 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [I See Fire, Burn \- Acoustic Mashup](https://open.spotify.com/track/0xk5evjL1C5DQS0ewDkh3L) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [I See Fire, Burn \(Acoustic Mashup\)](https://open.spotify.com/album/16vSfOd36884YFz49arrAY) | 4:21 | 2021-10-20 | 2022-06-10 |
 | [I Shall Be Released](https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 3:53 | 2022-06-10 |  |
 | [I Shall Be Released \(with Fleet Foxes\) \- Live](https://open.spotify.com/track/4gIYdTW0oUC3jnCHbDUl65) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Alpha Mike Foxtrot: Rare Tracks 1994 \- 2014](https://open.spotify.com/album/71CIpjzqwqHxnUxL1FDS0M) | 3:33 | 2021-10-20 | 2022-07-29 |
-| [I Should Have Known Better \- Mono / Remastered 2001](https://open.spotify.com/track/1LzqCMbpcz5edctDsq45pR) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Beach Boys Party! \(Remastered\)](https://open.spotify.com/album/0TfICuUVNoaytFJ7oahGO2) | 1:40 | 2022-04-29 |  |
+| [I Should Have Known Better \- Mono / Remastered 2001](https://open.spotify.com/track/1LzqCMbpcz5edctDsq45pR) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Beach Boys Party! \(Remastered\)](https://open.spotify.com/album/0TfICuUVNoaytFJ7oahGO2) | 1:40 | 2022-04-29 | 2022-09-10 |
 | [I Touch Myself \- Live in NYC](https://open.spotify.com/track/7aJEEuTo97fpMSiFPsbbSA) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Spotify Sessions](https://open.spotify.com/album/5Y0CjOQAbTBEx131DYLJs5) | 4:33 | 2022-02-11 | 2022-02-18 |
 | [I Try](https://open.spotify.com/track/7Irvj5Fb079b3efPypVShO) | [Karizma Duo](https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg) | [Acoustic 80s and 90s Covers](https://open.spotify.com/album/1byy5XYlIUUcBfW8G9PY23) | 3:56 | 2021-10-20 | 2022-07-29 |
 | [I Wanna Dance With Somebody](https://open.spotify.com/track/1oKk34AkV6CxhaXHgZHduM) | [Matt Alber](https://open.spotify.com/artist/3v2p34eAq6fINTEyJ1w2vK), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Acoustic Covers: The Album](https://open.spotify.com/album/2YavnI3XojV5n6kWYFo4L6) | 4:09 | 2021-10-20 | 2022-07-29 |
@@ -587,6 +587,7 @@
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2021-10-20 |  |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2021-10-20 |  |
 | [Yellow](https://open.spotify.com/track/0MSa5b2zYrXQPr2Ty4xFCe) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [From Cover to Cover: 30 Years at Nettwerk](https://open.spotify.com/album/5fsRQdOv7jlG7V26kmKRvd) | 3:52 | 2021-10-20 | 2022-07-29 |
+| [Yellow](https://open.spotify.com/track/2v5tqzWV8VpEQ7VfGSHDSJ) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [From Cover to Cover: 30 Years at Nettwerk](https://open.spotify.com/album/3Jb74PX0KbKAgBvJwe9Qf9) | 3:52 | 2022-06-10 |  |
 | [Yellow](https://open.spotify.com/track/0V3U7zeVUEOqbiYzzXnw0a) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/6tr7N2OwQIVJvb2eKykcUx) | 4:17 | 2021-10-20 | 2022-07-29 |
 | [Yes It Is \- Live](https://open.spotify.com/track/5ooRLYGe1WiqSDxVAsrAd5) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [BRIDGE SCHOOL CONCERTS, VOL\. ONE](https://open.spotify.com/album/2vcDnqv787PE1q1ym6qvjN) | 2:45 | 2022-04-29 | 2022-07-29 |
 | [Yesterday](https://open.spotify.com/track/1UdSYzD1LoJDjMItD0b9S7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Yesterday](https://open.spotify.com/album/1BO3Inze7ruR55Qf10PRw6) | 2:36 | 2021-10-20 | 2022-07-29 |

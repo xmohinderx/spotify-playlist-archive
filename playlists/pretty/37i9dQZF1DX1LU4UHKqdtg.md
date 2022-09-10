@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Kep1er
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,915 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,405 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 39 | [Romeo and Juliet](https://open.spotify.com/track/7zHLLOTZTAexqKsyi3etd5) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Romeo and Juliet](https://open.spotify.com/album/1YA2MGjNMvXk3wkY8z49Eh) | 4:27 |
 | 40 | [Drive](https://open.spotify.com/track/0TNYF3NLy6FgYs8jM10mwi) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/5NvK8EDgRXrTNhYbSDKQ5j) | 3:05 |
 | 41 | [Don't hesitate](https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Don't hesitate](https://open.spotify.com/album/05g8jnH2x9k8Lj25jFznyC) | 3:23 |
-| 42 | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/track/5j1RXSJl3JiLJSfdywh5Q4) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/album/4dnuuFbQXWiBa6EWKyB8IN) | 3:34 |
+| 42 | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/track/5j1RXSJl3JiLJSfdywh5Q4) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/album/4dnuuFbQXWiBa6EWKyB8IN) | 3:37 |
 | 43 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 |
 | 44 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 |
 | 45 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |

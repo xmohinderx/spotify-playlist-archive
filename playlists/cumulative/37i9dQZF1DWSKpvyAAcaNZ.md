@@ -4,13 +4,13 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-233 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+234 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13th Century Metal](https://open.spotify.com/track/7xbCwXU4pVledUQUJogaGX) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Jaime \(The Remixes\)](https://open.spotify.com/album/1VvJaOcHEAjlEAeyZ14gBC) | 5:02 | 2021-12-17 |  |
 | [18 Counties](https://open.spotify.com/track/4V5bPnH3eQ2BmP68CZR6bF) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/0Quj0gczb9Cb7Wgu2DHJYm) | 3:59 | 2021-12-17 | 2022-07-30 |
-| [18 Counties](https://open.spotify.com/track/664KAVcBrTyYzF8IosgDlh) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/4ARJnUBRQn9Ld3HhFzlfAU) | 3:59 | 2022-07-22 |  |
+| [18 Counties](https://open.spotify.com/track/664KAVcBrTyYzF8IosgDlh) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/4ARJnUBRQn9Ld3HhFzlfAU) | 3:59 | 2022-07-22 | 2022-09-10 |
 | [662](https://open.spotify.com/track/7lM1cf3zZuish0TjRnn5MB) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/7vKItws7UGBfZpWG5mlqqn) | 3:17 | 2021-12-17 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 | 2021-12-17 |  |
 | [Ain't Nothing Wrong with That](https://open.spotify.com/track/4a8mshDjwAIwNcgDvCtMMa) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Colorblind \(U.S\. Version\)](https://open.spotify.com/album/7lsD2fAcYKfTe4FKbeZIbj) | 3:30 | 2021-12-17 |  |
@@ -207,6 +207,7 @@
 | [Thousand Mile Night](https://open.spotify.com/track/5yeM63cXgGvSN2VrcHbv6x) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night \- Single](https://open.spotify.com/album/3ARIeQHdKOLeGnSqGi1g40) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Trinity Lane](https://open.spotify.com/track/3eMvfFDFlcsXRenA2L3LjK) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Trinity Lane](https://open.spotify.com/album/5uXp0MRb9zy9GGopCca1RD) | 3:53 | 2021-12-17 | 2022-03-12 |
 | [Trouble](https://open.spotify.com/track/7F4ZG0eN04nviV7Ry1kQGo) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/5fUwKOu6jtaJHM9GKjSj9H) | 4:07 | 2021-12-17 |  |
+| [Trouble](https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Trouble](https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb) | 2:32 | 2022-09-09 |  |
 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 | 2021-12-17 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/4txC9c27Rw0GNtZzDKn1wW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:31 | 2022-07-22 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6290tINYizQ2bc3QF6p8gA) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Twinkle Twinkle](https://open.spotify.com/album/4PqwdolF10E6xogoo5OeKT) | 3:31 | 2021-12-17 | 2022-07-29 |

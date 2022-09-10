@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-59 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
+61 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 | 2021-12-06 |  |
 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 | 2021-12-06 |  |
 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 | 2021-12-06 |  |
+| [Pahadi](https://open.spotify.com/track/65ctZ5wpladHzbFFHM64ag) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Satyajit Talwalkar](https://open.spotify.com/artist/12i115642dNlreloDOzrtK) | [Saath Saath](https://open.spotify.com/album/1x1NLTjnFDodYTn31ida5k) | 17:53 | 2022-09-09 |  |
 | [Raag Bhairavi \- Dadra \- Rab Tohe Bhoole Nahi Bane](https://open.spotify.com/track/7e8fqBJhN0n5tkfmZTvZFa) | [Shubha Joshi](https://open.spotify.com/artist/3x8HJIi4joDofxR76HbYaC) | [Surmayi](https://open.spotify.com/album/3cLkuIZQzvGn1aFUrohEpE) | 6:17 | 2021-12-06 |  |
 | [Raag Jhinjhoti Alaap Jod](https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 19:54 | 2022-04-13 |  |
 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 | 2021-12-06 |  |
@@ -67,5 +68,6 @@
 | [Taaron Bhari Raat \- Raga Malkauns \- Raga Malkauns \- Drut Ektala](https://open.spotify.com/track/0DtWXjhnx8FMJhj8uTsZWB) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx) | [Taaron Bhari Raat \- Raga Malkauns](https://open.spotify.com/album/7pAJD1ZAIiHkkwYxQQazQI) | 10:25 | 2021-12-06 |  |
 | [Tabla Solo In Ektal \- Live](https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 6:19 | 2021-12-06 |  |
 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 | 2021-12-06 |  |
+| [Yaman Madhya Laya](https://open.spotify.com/track/0L0aaQxlUcRR7Yq62X9tnG) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Satyajit Talwalkar](https://open.spotify.com/artist/12i115642dNlreloDOzrtK), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Yaman Madhya Laya](https://open.spotify.com/album/7LYdyUiJp5MeO0l2Krp0zl) | 16:27 | 2022-09-09 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

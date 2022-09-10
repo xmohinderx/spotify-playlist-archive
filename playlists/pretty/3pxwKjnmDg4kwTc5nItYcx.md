@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,585 likes - 282 songs - 15 hr 15 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,589 likes - 282 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 61 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 |
 | 62 | [Before It Started](https://open.spotify.com/track/5gWSR9TZ6txeyTzENxOq0O) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Before It Started](https://open.spotify.com/album/2S05xv4jp1GyRdeCvcze8r) | 2:51 |
 | 63 | [Owe You](https://open.spotify.com/track/5qK7CtN5w415aLjYuHAVI3) | [Annie Bass](https://open.spotify.com/artist/7jt6O4aHVS6GCoBHmPOR0V) | [Owe You](https://open.spotify.com/album/2s8ZMiw07tVOg4qLS7iXgR) | 3:12 |
-| 64 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 |
+| 64 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:24 |
 | 65 | [Higher Love](https://open.spotify.com/track/1yf7KpJKsDEWtBdznkkGAH) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Queen Of Turbulent Hearts](https://open.spotify.com/album/1Djbaj0U3owtsuQSY7Q2Ly) | 3:04 |
 | 66 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 |
 | 67 | [dose](https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [dose](https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD) | 3:00 |

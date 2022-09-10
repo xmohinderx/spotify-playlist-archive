@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157195,
+  "num_followers": 157186,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDE5YjliZTc5ODFhODJhNzRiNTAxYTYxNTk3YTEwNGE5",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGRkYmZjNWJjOTNlNzJlNDY2MjNmN2I5Mzc1ZjE4Nzg5",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Fight Dirty",
-        "url": "https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Fight Dirty",
-      "url": "https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
         "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 152672,
       "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Fight Dirty",
+        "url": "https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Fight Dirty",
+      "url": "https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Release Me (feat. Kalhaader)",
+        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
+      },
+      "artists": [
+        {
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
+        },
+        {
+          "name": "Kalhaader",
+          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Release Me (feat. Kalhaader)",
+      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Release Me (feat. Kalhaader)",
-        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
-      },
-      "artists": [
-        {
-          "name": "Twelve",
-          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
-        },
-        {
-          "name": "Kalhaader",
-          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Release Me (feat. Kalhaader)",
-      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Return of the Mack (feat. Afrojack)",
         "url": "https://open.spotify.com/album/4diHNC5rT08L3YWmTSY5Wm"
       },
@@ -1331,42 +1347,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
       },
       "artists": [
         {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Wanna Go",
-        "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
-      },
-      "artists": [
-        {
-          "name": "Le Boeuf",
-          "url": "https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH"
+          "name": "Steerner",
+          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
         },
         {
-          "name": "Teddy Beats",
-          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
-        },
-        {
-          "name": "Jolee Nikoal",
-          "url": "https://open.spotify.com/artist/6pblNcR2U2LEi5QpbC92ui"
+          "name": "Buster Moe",
+          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
         }
       ],
-      "duration_ms": 148200,
-      "name": "Wanna Go",
-      "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
+      "duration_ms": 198693,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1395,22 +1391,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
+        "name": "Wanna Go",
+        "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
       },
       "artists": [
         {
-          "name": "Steerner",
-          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+          "name": "Le Boeuf",
+          "url": "https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH"
         },
         {
-          "name": "Buster Moe",
-          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
+          "name": "Teddy Beats",
+          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
+        },
+        {
+          "name": "Jolee Nikoal",
+          "url": "https://open.spotify.com/artist/6pblNcR2U2LEi5QpbC92ui"
         }
       ],
-      "duration_ms": 198693,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
+      "duration_ms": 148200,
+      "name": "Wanna Go",
+      "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Always Feels Like (MOTi Remix)",
-        "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
-      },
-      "artists": [
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 139922,
-      "name": "Always Feels Like - MOTi Remix",
-      "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
       },
@@ -1591,6 +1567,30 @@
       "duration_ms": 202968,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Always Feels Like (MOTi Remix)",
+        "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 139922,
+      "name": "Always Feels Like - MOTi Remix",
+      "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn) [Topic Remix]",
         "url": "https://open.spotify.com/album/4ymy3CNtwCS2eCKMa4G88C"
       },
@@ -1683,6 +1663,42 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Fast Forward",
+        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
+      },
+      "artists": [
+        {
+          "name": "Danny Avila",
+          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
+        }
+      ],
+      "duration_ms": 158854,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "How Can I Forget Her",
         "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 168216,
       "name": "How Can I Forget Her",
       "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Fast Forward",
-        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
-      },
-      "artists": [
-        {
-          "name": "Danny Avila",
-          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
-        }
-      ],
-      "duration_ms": 158854,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1831,30 +1831,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Wave (feat. Mike Sabath) [The Remixes]",
-        "url": "https://open.spotify.com/album/72EUZdCcIBmbtn9uydakvF"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Mike Sabath",
-          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Wave (feat. Mike Sabath) - R3HAB Remix",
-      "url": "https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Kiss My (Uh Oh) [Billen Ted Remix]",
         "url": "https://open.spotify.com/album/1usw2Ln7GF9WsAtIwTiZ2w"
       },
@@ -1879,6 +1855,30 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Wave (feat. Mike Sabath) [The Remixes]",
+        "url": "https://open.spotify.com/album/72EUZdCcIBmbtn9uydakvF"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Mike Sabath",
+          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Wave (feat. Mike Sabath) - R3HAB Remix",
+      "url": "https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
       },
@@ -1899,8 +1899,8 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
       },
       "artists": [
         {
@@ -1908,13 +1908,13 @@
           "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         },
         {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
+      "duration_ms": 179756,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Party To Survive",
-        "url": "https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH"
-      },
-      "artists": [
-        {
-          "name": "TADROS",
-          "url": "https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN"
-        }
-      ],
-      "duration_ms": 144761,
-      "name": "Party To Survive",
-      "url": "https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 123870,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Party To Survive",
+        "url": "https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH"
+      },
+      "artists": [
+        {
+          "name": "TADROS",
+          "url": "https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN"
+        }
+      ],
+      "duration_ms": 144761,
+      "name": "Party To Survive",
+      "url": "https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2107,8 +2107,8 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
       },
       "artists": [
         {
@@ -2116,13 +2116,13 @@
           "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         },
         {
-          "name": "Sara Sangfelt",
-          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
         }
       ],
-      "duration_ms": 179756,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     }
   ],
   "unique_name": "Tr\u00e4ning",

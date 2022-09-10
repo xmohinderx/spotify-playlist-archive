@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 62232,
+  "num_followers": 62245,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM0ODMzMywwMDAwMDAwMDg4NTM0YmFkNDk2MDZmNTk4NDM2MmU4ZTIyYzQzYWMx",
+  "snapshot_id": "MTY2MjM0ODMzMywwMDAwMDAwMDNiYWEyYmQ1ZWFjZTVlNmJjMTI4ZmM5YzFhMWJkM2Zh",
   "tracks": [
     {
       "added_at": "2022-09-05 03:25:33",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Fool's Gold - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
         "name": "Mariposa (Acoustic)",
         "url": "https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 216612,
       "name": "Mariposa - Acoustic",
       "url": "https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "we",
-        "url": "https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v"
-      },
-      "artists": [
-        {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        }
-      ],
-      "duration_ms": 184694,
-      "name": "the broken hearts club",
-      "url": "https://open.spotify.com/track/3Uu6pcfL9xsdfsKRx3DXRf"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
         "name": "Love Adolescent",
         "url": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 263633,
       "name": "The Simple Things",
       "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "we",
+        "url": "https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "duration_ms": 184694,
+      "name": "the broken hearts club",
+      "url": "https://open.spotify.com/track/3Uu6pcfL9xsdfsKRx3DXRf"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
         "name": "CLAPCLAPCLAP!",
         "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
       },
@@ -692,22 +708,6 @@
       "added_at": "2022-09-05 03:25:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
       "artists": [
@@ -719,6 +719,22 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -787,22 +803,6 @@
       "duration_ms": 223560,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "\u2014star.",
-        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 153885,
-      "name": "\u2014star.",
-      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 196067,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "\u2014star.",
+        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 153885,
+      "name": "\u2014star.",
+      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 186334,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
         "name": "Secret (Acoustic)",
         "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 190000,
       "name": "Secret - Acoustic",
       "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 186334,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
         "name": "Here With Me (Acoustic)",
         "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
       },
@@ -1015,34 +999,18 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 191953,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3"
+      "duration_ms": 240426,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -1063,34 +1031,18 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue"
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
+      "duration_ms": 144830,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -1111,6 +1063,54 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 191953,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "Small Town Boy (Deluxe)",
-        "url": "https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0"
-    },
-    {
-      "added_at": "2022-09-05 03:25:33",
-      "album": {
         "name": "the boy",
         "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+    },
+    {
+      "added_at": "2022-09-05 03:25:33",
+      "album": {
+        "name": "Small Town Boy (Deluxe)",
+        "url": "https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0"
     },
     {
       "added_at": "2022-09-05 03:25:33",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-09-05 03:25:33",
       "album": {
-        "name": "Two Punks In Love",
-        "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV"
       },
       "artists": [
         {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+          "name": "Leanne & Naara",
+          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Two Punks In Love",
-      "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"
+      "duration_ms": 259665,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

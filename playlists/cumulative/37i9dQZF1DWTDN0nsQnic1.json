@@ -184,6 +184,28 @@
     },
     {
       "album": {
+        "name": "Equilibrium",
+        "url": "https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt"
+      },
+      "artists": [
+        {
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119935,
+      "name": "Daygrooves",
+      "url": "https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB"
+    },
+    {
+      "album": {
         "name": "Soul Feather",
         "url": "https://open.spotify.com/album/3X4BkDqWNOyXOIqYUBIlVx"
       },

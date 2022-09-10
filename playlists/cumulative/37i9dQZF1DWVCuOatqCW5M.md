@@ -2,7 +2,7 @@
 
 ### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- Ankit Tewari
+> New music from popular Hindi artists\. Cover\- Ankit Tiwari
 
 213 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 

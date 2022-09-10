@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 414634,
+  "num_followers": 414696,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MDc1MSwwMDAwMDAwMDliY2ZhMTkxZjk3MTBkYzcwN2ExZDkzYjk4MmMwNjYx",
+  "snapshot_id": "MTY2MDc3MDc1MSwwMDAwMDAwMGYwOGVkNTI2ZDYwZjhhYTQxOTk1YzIyZDI1MTgyNzgy",
   "tracks": [
     {
       "added_at": "2022-08-17 21:12:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 241119,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Indigo Puff",
-        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
+        "name": "Black Bear",
+        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 231721,
-      "name": "Indigo Puff",
-      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+      "duration_ms": 241119,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -607,6 +591,22 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Indigo Puff",
+        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 231721,
+      "name": "Indigo Puff",
+      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Pilot EP",
         "url": "https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Blossom (Deluxe)",
-        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 221039,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1KDPWUuA213r6M2WbWUauE"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Blossom (Deluxe)",
+        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Puffer",
-        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Puffer",
-      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "A Celebration Of Endings",
         "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Desert Snow / Hourglass",
-        "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Desert Snow",
-      "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -779,6 +763,22 @@
       "duration_ms": 237746,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Desert Snow / Hourglass",
+        "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Desert Snow",
+      "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 202694,
-      "name": "Astronaut (Something About Your Love)",
-      "url": "https://open.spotify.com/track/1XXqmnOgL9k9lcRT3hncTf"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Your Touch",
         "url": "https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 202694,
+      "name": "Astronaut (Something About Your Love)",
+      "url": "https://open.spotify.com/track/1XXqmnOgL9k9lcRT3hncTf"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Lewis Del Mar",
         "url": "https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 243413,
       "name": "Painting (Masterpiece)",
       "url": "https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -911,22 +927,6 @@
       "duration_ms": 289165,
       "name": "Spinning the Truth Around",
       "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Pastlife",
         "url": "https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 270053,
-      "name": "The World Ender",
-      "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "basketball",
         "url": "https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+      "duration_ms": 270053,
+      "name": "The World Ender",
+      "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1267,6 +1251,22 @@
       "duration_ms": 213515,
       "name": "Violet City",
       "url": "https://open.spotify.com/track/4VPHxAtloVdaRWrzHJUtCA"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Jungle (Radio Edit)",
-        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 236876,
-      "name": "Jungle (Radio Edit)",
-      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Jungle (Radio Edit)",
+        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 236876,
+      "name": "Jungle (Radio Edit)",
+      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Help Me to Feel Again",
-        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 262383,
-      "name": "Help Me to Feel Again",
-      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Draw Down The Moon",
         "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 195706,
       "name": "Go Down Together",
       "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Help Me to Feel Again",
+        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 262383,
+      "name": "Help Me to Feel Again",
+      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Shadow Boxing",
+        "url": "https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Broods",
         "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 189080,
       "name": "Taking You There",
       "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Fountain Of Youth",
-      "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Fountain Of Youth",
+      "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -1511,6 +1527,22 @@
       "duration_ms": 155000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "IFK (i fucking know)",
+        "url": "https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 195038,
+      "name": "IFK (i fucking know)",
+      "url": "https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1547,18 +1579,18 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "IFK (i fucking know)",
-        "url": "https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66"
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
       },
       "artists": [
         {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 195038,
-      "name": "IFK (i fucking know)",
-      "url": "https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD"
+      "duration_ms": 251872,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1575,22 +1607,6 @@
       "duration_ms": 157546,
       "name": "As We Are Now",
       "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1639,22 +1655,6 @@
       "duration_ms": 223493,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Shadow Boxing",
-        "url": "https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Painting of a Panic Attack (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Dear Me",
         "url": "https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 274148,
       "name": "Too Young to Fall in Love",
       "url": "https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Painting of a Panic Attack (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Method to the Madness",
-        "url": "https://open.spotify.com/album/2BfgmQ3MxlmFV0lIYCTf4Q"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 273671,
-      "name": "Method to the Madness",
-      "url": "https://open.spotify.com/track/5ICD9s4DNvkv7vgDZIc0TZ"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Here's To Moving On",
         "url": "https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 225277,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Method to the Madness",
+        "url": "https://open.spotify.com/album/2BfgmQ3MxlmFV0lIYCTf4Q"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 273671,
+      "name": "Method to the Madness",
+      "url": "https://open.spotify.com/track/5ICD9s4DNvkv7vgDZIc0TZ"
     },
     {
       "added_at": "2022-08-17 21:12:30",

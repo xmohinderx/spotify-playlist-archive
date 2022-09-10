@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+    },
+    {
+      "album": {
         "name": "2nd Round / FFBH",
         "url": "https://open.spotify.com/album/7nreaITfEOxOavaPVm16an"
       },
@@ -675,6 +693,32 @@
       "duration_ms": 319005,
       "name": "Ego Rave D",
       "url": "https://open.spotify.com/track/0lS9dFaFRWNlYne6AGUCYt"
+    },
+    {
+      "album": {
+        "name": "Eternal September",
+        "url": "https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        },
+        {
+          "name": "Anunaku",
+          "url": "https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ"
+        },
+        {
+          "name": "A+A",
+          "url": "https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333853,
+      "name": "Eternal September",
+      "url": "https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh"
     },
     {
       "album": {
@@ -1693,7 +1737,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 524705,
       "name": "M-type",
       "url": "https://open.spotify.com/track/0bHco4SUI1EJmxtcRohKIn"
@@ -1747,7 +1791,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 389060,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1XMU0yZQK8jy2rRtr2yQXJ"
@@ -2057,7 +2101,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 387730,
       "name": "Novella",
       "url": "https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC"
@@ -2209,6 +2253,24 @@
       "duration_ms": 289445,
       "name": "Polymer Pyramid",
       "url": "https://open.spotify.com/track/4YbA9ObYEjFPvqYbOPCYPJ"
+    },
+    {
+      "album": {
+        "name": "Proton",
+        "url": "https://open.spotify.com/album/1lgtdQcPe6E04NS1y4krXH"
+      },
+      "artists": [
+        {
+          "name": "Carlo Ruetz",
+          "url": "https://open.spotify.com/artist/5vDqopi7jF9kQoL6xg696f"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370393,
+      "name": "Proton",
+      "url": "https://open.spotify.com/track/7qYLpCBd3QTlCJY1BXpzCQ"
     },
     {
       "album": {
@@ -2898,6 +2960,24 @@
     },
     {
       "album": {
+        "name": "Volca",
+        "url": "https://open.spotify.com/album/3mbTIUXfzrkP1frqjZbjY8"
+      },
+      "artists": [
+        {
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396238,
+      "name": "Volca",
+      "url": "https://open.spotify.com/track/28NpDrD2786HAM55WX21ux"
+    },
+    {
+      "album": {
         "name": "We Live We Die",
         "url": "https://open.spotify.com/album/7keFRmq9qc36S7pEWBUwG9"
       },
@@ -3011,7 +3091,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 202089,
       "name": "You",
       "url": "https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v"

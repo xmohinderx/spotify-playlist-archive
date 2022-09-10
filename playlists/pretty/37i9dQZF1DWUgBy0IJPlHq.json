@@ -1,13 +1,29 @@
 {
-  "description": "A new shade of Country. Cover: Remembering Luke Bell",
-  "num_followers": 394969,
+  "description": "A new shade of Country. Cover: Charley Crockett",
+  "num_followers": 395122,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMGQxYWIxODc1MWU2NTVhYjQzZWE4MjEzYmM1ZWE2YmUx",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGQ4NDYxZmVlMDQ0MGQ0MmU3ODFjZWY1MmU0MGQ5NjI3",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "I'm Just a Clown",
+        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "I'm Just a Clown",
+      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
+    },
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
@@ -23,6 +39,70 @@
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 211739,
+      "name": "Oklahoma Smokeshow",
+      "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Angel Band",
+        "url": "https://open.spotify.com/album/0UITnXFaup7lHYV1WcQSFT"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 372160,
+      "name": "Angel Band - Jubilee Version",
+      "url": "https://open.spotify.com/track/2phdhdIaCUVJgxuRVP2N18"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "One Hell of an Angel",
+        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "One Hell of an Angel",
+      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "A Couple 2, 3\u2026",
+        "url": "https://open.spotify.com/album/3YQ6xNhgt6j3VlxZRN0Yyg"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 208472,
+      "name": "Place Out Back",
+      "url": "https://open.spotify.com/track/6lBbIMJnQ7uuCyBFHOXFEW"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -49,36 +129,20 @@
       "url": "https://open.spotify.com/track/2xi9KMyT6acK7kDkdpptfN"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "Ain't a Day Goes By",
+        "url": "https://open.spotify.com/album/1JTRsrFrlm39gUqQMvhJNJ"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
         }
       ],
-      "duration_ms": 211739,
-      "name": "Oklahoma Smokeshow",
-      "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "One Hell of an Angel",
-        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "One Hell of an Angel",
-      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
+      "duration_ms": 212613,
+      "name": "Ain't a Day Goes By",
+      "url": "https://open.spotify.com/track/5QvCKK52a348z920a2fH3X"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -113,20 +177,20 @@
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
-      "added_at": "2022-08-26 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Born Tough",
-        "url": "https://open.spotify.com/album/4evgvJle8aN0wyy5K5plu6"
+        "name": "Can Chaser",
+        "url": "https://open.spotify.com/album/7KPaPo5P7LK3TkyHc9SQ1A"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
         }
       ],
-      "duration_ms": 231132,
-      "name": "Born Tough",
-      "url": "https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n"
+      "duration_ms": 207866,
+      "name": "Can Chaser",
+      "url": "https://open.spotify.com/track/2DJ2K0q0S0xuKJEC1SAJgy"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -147,6 +211,22 @@
       "duration_ms": 180135,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Born Tough",
+        "url": "https://open.spotify.com/album/4evgvJle8aN0wyy5K5plu6"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 231132,
+      "name": "Born Tough",
+      "url": "https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -655,22 +735,6 @@
       "duration_ms": 183420,
       "name": "Common Law",
       "url": "https://open.spotify.com/track/5aImc0JnM01Y2LYNbdAx5T"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "I'm Just a Clown",
-        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "I'm Just a Clown",
-      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1487,22 +1551,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "\"I'll Tell You What's Gonna Happen\"",
-        "url": "https://open.spotify.com/album/5H6WsuIbCm7xkRkDEmDTxN"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Kelly",
-          "url": "https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc"
-        }
-      ],
-      "duration_ms": 217965,
-      "name": "Don't Blame It on Me",
-      "url": "https://open.spotify.com/track/1XVLwPLqU18l5DRqNQS7m7"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
@@ -1631,22 +1679,6 @@
       "duration_ms": 255880,
       "name": "Scale These Walls",
       "url": "https://open.spotify.com/track/06nuTL9QddAcOzMd4S2497"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Work All Day",
-        "url": "https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP"
-      },
-      "artists": [
-        {
-          "name": "Matt Koziol",
-          "url": "https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Work All Day",
-      "url": "https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1931,22 +1963,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Wave Dancer",
         "url": "https://open.spotify.com/album/78UZgsGs4m8Q8HD63Beglg"
       },
@@ -2123,26 +2139,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "State Of Mind (feat. Margo Price)",
-        "url": "https://open.spotify.com/album/2SPR1ILQhgDjoSw1j92uMo"
-      },
-      "artists": [
-        {
-          "name": "Mike Campbell & The Dirty Knobs",
-          "url": "https://open.spotify.com/artist/1pBQqdeHHjEdCtjSUAdu0G"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 258061,
-      "name": "State Of Mind (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/3xbafuZ0aEPeHSwb1qxIpV"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -2255,22 +2251,6 @@
       "duration_ms": 275686,
       "name": "Silver Valley",
       "url": "https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Arm in Arm",
-        "url": "https://open.spotify.com/album/7jEF37NiNtivZbr5Ues3QF"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Honey on My Tongue",
-      "url": "https://open.spotify.com/track/3gyGu4q61wFw4gSPBkkU1P"
     }
   ],
   "unique_name": "Indigo",

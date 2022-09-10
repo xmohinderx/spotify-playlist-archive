@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-191 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+193 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 | 2022-06-03 |  |
 | [King Of Kings](https://open.spotify.com/track/0b8hSEwhZKE59lSaT4ZqsA) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake \(Deluxe\)](https://open.spotify.com/album/3845kDbcFRDDUHI0yVd8Km) | 4:25 | 2022-02-17 |  |
 | [Know You Will](https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Know You Will](https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H) | 3:37 | 2022-02-17 | 2022-04-02 |
+| [Lay It All Down](https://open.spotify.com/track/6pk4msiL2Igg3KlRqMYwjo) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/0NrENMCYUG5l6wAgYiGQxB) | 7:04 | 2022-09-09 |  |
 | [Let The Light In \- Live](https://open.spotify.com/track/7uEho9WLsvWHQyd3jwqI2Q) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 7:29 | 2022-02-17 | 2022-04-05 |
 | [Living Hope](https://open.spotify.com/track/7o24sKRAGXOfX2BWhO7oqU) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Top 25 Praise Songs – The Blessing](https://open.spotify.com/album/3Ip0l3AjSDjpv6hn2THc3Z) | 5:18 | 2022-02-17 | 2022-07-14 |
 | [Living Testimony \- Live](https://open.spotify.com/track/6vPwxeqTKT8n2qikFTgoyR) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Jaden Moody](https://open.spotify.com/artist/25e3ch9pW8wgAIvuzhQY6t) | [Living Testimony \(Live\)](https://open.spotify.com/album/30TIWXHZeHq1PILquB1CKh) | 6:26 | 2022-08-19 |  |
@@ -159,6 +160,7 @@
 | [Still God \- Live](https://open.spotify.com/track/6CY4YjEDsar3g1BLRkIwKK) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace: The Album \(Deluxe\)](https://open.spotify.com/album/6arAbdsYCdQZqMYHEzIQ9W) | 7:15 | 2022-02-17 | 2022-03-16 |
 | [Sure Thing](https://open.spotify.com/track/4X44EQ7MFjs0aXSydakBQr) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Sure Thing](https://open.spotify.com/album/5VbdE3Lxdzna1g8CG6lBX7) | 5:48 | 2022-02-17 | 2022-04-02 |
 | [Surrender](https://open.spotify.com/track/4CDA2cAPCUI1TYNTDgsXkH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Surrender](https://open.spotify.com/album/5fSZMYUOCFOBKvBmO27uJs) | 5:40 | 2022-08-03 |  |
+| [Surrendered](https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Surrendered](https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj) | 9:19 | 2022-09-09 |  |
 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 | 2022-04-29 |  |
 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 | 2022-06-07 | 2022-07-02 |
 | [That's The Power \- Live](https://open.spotify.com/track/5Q8Pc97E3IItIbQW40WlnP) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [That's The Power \(Live\)](https://open.spotify.com/album/3p6PZYsFKgz6sc2OadiY7q) | 4:34 | 2022-02-17 | 2022-03-12 |

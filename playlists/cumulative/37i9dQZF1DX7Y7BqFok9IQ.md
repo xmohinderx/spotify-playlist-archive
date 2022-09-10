@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Anthony Gomes
 
-120 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+122 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 | 2021-04-16 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-04-16 | 2022-07-29 |
 | [Creeper](https://open.spotify.com/track/3DI0Ko7hmK2uh8INSXFnkb) | [Lincoln Durham](https://open.spotify.com/artist/1Zngx1vu4ARlsOn5MwvOVo) | [Revelations of a Mind Unraveling](https://open.spotify.com/album/1LnaYr79OQ3ZjfwjLmts6w) | 3:41 | 2020-10-16 | 2022-07-29 |
+| [Destination Unknown](https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Destination Unknown](https://open.spotify.com/album/11HPOujLHHqTCpAbVNnBd5) | 4:50 | 2022-09-09 |  |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 |  |
 | [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 | 2022-07-26 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 |  |
@@ -45,14 +46,15 @@
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-24 |  |
 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 |  |
 | [Gotta Be Movin’](https://open.spotify.com/track/6n9CPTtFd6DeOpWnP57O9i) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Gotta Be Movin'](https://open.spotify.com/album/2JWnNwLCTdvnMH081yhjAz) | 3:35 | 2021-09-10 | 2022-07-29 |
-| [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 |  |
-| [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 | 2021-03-26 |  |
+| [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 | 2022-09-10 |
+| [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 | 2021-03-26 | 2022-09-10 |
 | [Hard Times](https://open.spotify.com/track/7zdR9mlXoyrrw9eqE2sNgV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Hard Times](https://open.spotify.com/album/6OplYWUMxvkCi7WtiS5RRj) | 3:26 | 2021-03-26 | 2022-07-29 |
 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 | 2022-06-07 |
 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 | 2020-10-16 | 2022-06-09 |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 |  |
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2022-02-25 | 2022-07-26 |
 | [I Know Who You Are](https://open.spotify.com/track/0VIcEmhGQ13EnZoIKlw89a) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Gold](https://open.spotify.com/album/4aRBy6eobn9arGrtDGDcj0) | 3:11 | 2020-10-16 | 2022-07-27 |
+| [I Need To Be](https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X) | [The Cassaday Concoction](https://open.spotify.com/artist/39jwyTOAsOtp0yMWtcxkbi) | [I Need To Be](https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp) | 4:49 | 2022-09-09 |  |
 | [I See You](https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:47 | 2020-10-16 | 2022-07-29 |
 | [I Want You](https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 2:26 | 2020-10-16 |  |
 | [I'm Comin' Home](https://open.spotify.com/track/5CJMgqgSVEtnKGIyWsbpPt) | [Royal Southern Brotherhood](https://open.spotify.com/artist/6vcUagbhY6zVVU71BnnURP) | [The Royal Gospel](https://open.spotify.com/album/4GSi5GCPkxsshu27jVQZLn) | 4:25 | 2020-10-16 | 2022-07-26 |

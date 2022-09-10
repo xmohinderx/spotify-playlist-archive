@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 844,
+  "num_followers": 847,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2NTk0MCwwMDAwMDAwMGM3OTViMjY0N2IyNWFlZmI2MWE2NGU1ODUyM2U1ZTJm",
+  "snapshot_id": "MTY2MjcwMTIzMCwwMDAwMDAwMDRmY2Y1ZjA5YTk3ZDQzMTQ1YzZmMjYyYjM4M2ZjZjQ5",
   "tracks": [
     {
       "added_at": "2022-05-12 20:59:00",
@@ -23,6 +23,30 @@
       "duration_ms": 215757,
       "name": "Riri",
       "url": "https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ"
+    },
+    {
+      "added_at": "2022-09-09 05:27:10",
+      "album": {
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2022-09-01 20:59:00",
@@ -81,20 +105,40 @@
       "url": "https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp"
     },
     {
-      "added_at": "2022-09-01 20:59:00",
+      "added_at": "2022-09-09 05:27:10",
       "album": {
-        "name": "Mpakasa",
-        "url": "https://open.spotify.com/album/0IJXotvomhn59wnb0g7u3v"
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
       },
       "artists": [
         {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
         }
       ],
-      "duration_ms": 186462,
-      "name": "Mpakasa",
-      "url": "https://open.spotify.com/track/3pwBAkk0rCwXl2nDmcY9es"
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
+    },
+    {
+      "added_at": "2022-09-09 05:27:10",
+      "album": {
+        "name": "Dorah",
+        "url": "https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Care Fahim",
+          "url": "https://open.spotify.com/artist/2SMKkx0HYuo4xf3YiX08k5"
+        }
+      ],
+      "duration_ms": 209978,
+      "name": "Dorah",
+      "url": "https://open.spotify.com/track/4mta6obIQ4j7hkyVFscBwn"
     },
     {
       "added_at": "2022-07-29 06:02:59",
@@ -111,26 +155,6 @@
       "duration_ms": 210000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
-    },
-    {
-      "added_at": "2022-07-29 16:01:32",
-      "album": {
-        "name": "CHERRY SWEET",
-        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "CHERRY SWEET",
-      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
       "added_at": "2022-09-01 20:59:00",
@@ -231,6 +255,26 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2022-07-29 16:01:32",
+      "album": {
+        "name": "CHERRY SWEET",
+        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "CHERRY SWEET",
+      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
       "added_at": "2022-07-29 06:02:59",
@@ -637,6 +681,22 @@
       "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
     },
     {
+      "added_at": "2022-07-08 09:58:41",
+      "album": {
+        "name": "Thc ( Too High to Concentrate )",
+        "url": "https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q"
+      },
+      "artists": [
+        {
+          "name": "Blaqface",
+          "url": "https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Thc ( Too High to Concentrate )",
+      "url": "https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9"
+    },
+    {
       "added_at": "2022-05-27 05:50:49",
       "album": {
         "name": "I Need Your Love",
@@ -701,22 +761,6 @@
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
-      "added_at": "2022-07-08 09:58:41",
-      "album": {
-        "name": "Thc ( Too High to Concentrate )",
-        "url": "https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q"
-      },
-      "artists": [
-        {
-          "name": "Blaqface",
-          "url": "https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Thc ( Too High to Concentrate )",
-      "url": "https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9"
-    },
-    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "Change the World",
@@ -731,30 +775,6 @@
       "duration_ms": 230650,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/25AXVpk13te2q8PEG1lR4u"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Bless Up (Give Thanks in Everything)",
-        "url": "https://open.spotify.com/album/6iMy2lnKKg017BdqLNz341"
-      },
-      "artists": [
-        {
-          "name": "Myko Truth",
-          "url": "https://open.spotify.com/artist/5laGyrSWJnEz06EFsz6AqC"
-        },
-        {
-          "name": "Orleave",
-          "url": "https://open.spotify.com/artist/5rrZRrHWRPq7H4ZYE8qqvf"
-        },
-        {
-          "name": "Nico 10",
-          "url": "https://open.spotify.com/artist/517xqwgPEYB8QV3dJ0DIwQ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Bless Up (Give Thanks in Everything)",
-      "url": "https://open.spotify.com/track/5K8KK1uPcyQJauOik4lQWX"
     },
     {
       "added_at": "2022-03-17 20:59:00",
@@ -791,38 +811,6 @@
       "duration_ms": 185392,
       "name": "Mbipambana",
       "url": "https://open.spotify.com/track/03Oa6GiBpDJSpazfZixZKy"
-    },
-    {
-      "added_at": "2022-05-12 20:59:00",
-      "album": {
-        "name": "It's OK",
-        "url": "https://open.spotify.com/album/4PWYKui3UPV0qKRErAh8qX"
-      },
-      "artists": [
-        {
-          "name": "Uthman Music",
-          "url": "https://open.spotify.com/artist/7buCEVAcbogrYQk2ygdJtz"
-        }
-      ],
-      "duration_ms": 69407,
-      "name": "It's OK",
-      "url": "https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9"
-    },
-    {
-      "added_at": "2022-05-12 20:59:00",
-      "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
     },
     {
       "added_at": "2022-05-12 20:59:00",
@@ -895,6 +883,22 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2022-05-12 20:59:00",
+      "album": {
+        "name": "It's OK",
+        "url": "https://open.spotify.com/album/4PWYKui3UPV0qKRErAh8qX"
+      },
+      "artists": [
+        {
+          "name": "Uthman Music",
+          "url": "https://open.spotify.com/artist/7buCEVAcbogrYQk2ygdJtz"
+        }
+      ],
+      "duration_ms": 69407,
+      "name": "It's OK",
+      "url": "https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9"
     }
   ],
   "unique_name": "Made In Uganda",

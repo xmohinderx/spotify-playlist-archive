@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 
 > It's a Midwest thing\. Cover: Common
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,637 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,756 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

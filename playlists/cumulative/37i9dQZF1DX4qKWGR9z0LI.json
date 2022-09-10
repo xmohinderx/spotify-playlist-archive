@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Figueroa ",
+  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
   "name": "Salsa Nation",
   "published_playlist_ids": [
     "4IbPQ76hDBnvYgVTXtYV8M"
@@ -272,6 +272,24 @@
     },
     {
       "album": {
+        "name": "Debut y Segunda Tanda, Vol.1",
+        "url": "https://open.spotify.com/album/1m8xBkNoOgnAPnHL5VLdem"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276186,
+      "name": "Bailando A Tu Son",
+      "url": "https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6"
+    },
+    {
+      "album": {
         "name": "Besos de Amor",
         "url": "https://open.spotify.com/album/7uopsqM4qKfK7M8TwLqqm7"
       },
@@ -363,6 +381,24 @@
       "duration_ms": 297386,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
+    },
+    {
+      "album": {
+        "name": "Siendo Yo",
+        "url": "https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG"
+      },
+      "artists": [
+        {
+          "name": "Willy Garcia",
+          "url": "https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245537,
+      "name": "Cada D\u00eda",
+      "url": "https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka"
     },
     {
       "album": {
@@ -743,6 +779,24 @@
       "duration_ms": 260632,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "album": {
+        "name": "Creo En Amor",
+        "url": "https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK"
+      },
+      "artists": [
+        {
+          "name": "Mandinga",
+          "url": "https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210300,
+      "name": "Creo en amor",
+      "url": "https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j"
     },
     {
       "album": {
@@ -2099,7 +2153,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
@@ -2117,7 +2171,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 258786,
       "name": "Mis Ojos Lloran por T\u00ed",
       "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
@@ -2175,7 +2229,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 245163,
       "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
       "url": "https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG"
@@ -2259,6 +2313,28 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "album": {
+        "name": "Nubes Negras",
+        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246224,
+      "name": "Nubes Negras",
+      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
     },
     {
       "album": {
@@ -2513,7 +2589,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 304946,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
@@ -3052,6 +3128,24 @@
     },
     {
       "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/4XQDD2iAavRQ9caGWBfHqc"
       },
@@ -3475,7 +3569,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 335360,
       "name": "Ven a Medell\u00edn",
       "url": "https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk"

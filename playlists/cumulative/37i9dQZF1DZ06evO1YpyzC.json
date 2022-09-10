@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 187786,
       "name": "Didn't Know What Love Was",
       "url": "https://open.spotify.com/track/7bPTaamEBQi5J5hvfsIZvf"
@@ -275,6 +275,24 @@
       "duration_ms": 223922,
       "name": "For My Daughter",
       "url": "https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236923,
+      "name": "Forgetting Is the Hardest Part",
+      "url": "https://open.spotify.com/track/3aTjHMTpp8LQwFQk0cSfdZ"
     },
     {
       "album": {
@@ -731,7 +749,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 179320,
       "name": "Pull It Off",
       "url": "https://open.spotify.com/track/3jyc4v8gMVYOmNaG6aiKvu"
@@ -757,6 +775,28 @@
       "duration_ms": 211102,
       "name": "Saturday Nights REMIX",
       "url": "https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Setting the Night On Fire (with Chris Young)",
+      "url": "https://open.spotify.com/track/2OeyphE568es62xmmJTt1z"
     },
     {
       "album": {

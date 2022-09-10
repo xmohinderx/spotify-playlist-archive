@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  \~\~\~ cover: hope tala 🌏
 
-938 songs - 2 day 0 hr 1 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+943 songs - 2 day 0 hr 19 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [123](https://open.spotify.com/track/7dcYzQESWxba1b2Y794gYI) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [123](https://open.spotify.com/album/0HPec1mbtwFvsoBBUX2UbY) | 2:36 | 2021-07-04 | 2021-10-02 |
 | [19](https://open.spotify.com/track/708hXPrY8mxgKSvAZUq4Yz) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:04 | 2021-04-30 | 2021-08-28 |
 | [19](https://open.spotify.com/track/10EdVzRkRir2KJe6N8ws65) | [Wander All Winter.](https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm), [Alexa Cirri](https://open.spotify.com/artist/7F0YTBNcxOtJz1YhGiU6xu) | [17\-19](https://open.spotify.com/album/4g5AmD1gJ0RAhEZBZUSRmt) | 3:22 | 2021-05-29 | 2021-06-12 |
+| [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-09 |  |
 | [1998](https://open.spotify.com/track/3OVVy7tgErHyYP80fHBXyC) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [1998](https://open.spotify.com/album/2lwy8j9xnoBFAHuKZ2onna) | 2:22 | 2021-10-23 | 2021-11-13 |
 | [2 MUCH](https://open.spotify.com/track/5rStXNNkYIN1GMq8OIWrOy) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [2 MUCH](https://open.spotify.com/album/6Y76D62j01Kux6tcG60yyR) | 2:12 | 2021-07-31 | 2021-10-16 |
 | [2003](https://open.spotify.com/track/7HjVMDiXcG6bHC9FHGE428) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [2003](https://open.spotify.com/album/1W4pzoxMqrY1RgxV7wHs8m) | 3:39 | 2020-11-28 | 2021-03-06 |
@@ -70,6 +71,7 @@
 | [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 | 2022-05-06 |  |
 | [BABY TEETH](https://open.spotify.com/track/4JFSa5x1YClkVCfCOQn3YQ) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BABY TEETH](https://open.spotify.com/album/6qNsRmwJoIyJaAlmFAqtr9) | 2:44 | 2021-07-24 | 2021-11-20 |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2020-10-29\* | 2021-02-06 |
+| [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2022-09-09 |  |
 | [Backyard Boy](https://open.spotify.com/track/0y9fkzOaaQy4Up22BGUbIp) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/49iY1LaAv4G5dXAs6eyeml) | 2:09 | 2020-10-29\* | 2021-02-27 |
 | [BAD KIDS](https://open.spotify.com/track/3s4WVKaSU112SfRBjvyXKp) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [BAD KIDS](https://open.spotify.com/album/3EN3hLzUkJuBTbu14HvZIz) | 1:47 | 2022-02-18 | 2022-05-20 |
 | [badminton](https://open.spotify.com/track/4XqleYOoFiphJKUtyKsImd) | [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [badminton](https://open.spotify.com/album/2yg9DBd0p0M0yfTMoeU4CN) | 3:08 | 2021-01-23 | 2021-02-13 |
@@ -113,6 +115,7 @@
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-09-11 | 2021-12-11 |
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 | 2022-06-04 |
+| [Broken Lips](https://open.spotify.com/track/6F5cfxHDlMAfQdAQ8KF0JZ) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Broken Lips](https://open.spotify.com/album/6qDqkwfYuiG4wSOP1oXM4c) | 4:42 | 2022-09-09 |  |
 | [bubblegum](https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bubblegum](https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY) | 3:08 | 2021-07-17 | 2021-08-28 |
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2020-12-19 | 2021-02-20 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-21 | 2021-01-15 |
@@ -367,6 +370,7 @@
 | [Hide](https://open.spotify.com/track/7GXG38022Aw5g67p1HTpOp) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Hide](https://open.spotify.com/album/0rrvnWE3Wr2I8twUu80PX1) | 1:51 | 2020-10-29\* | 2020-11-14 |
 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 | 2022-02-04 | 2022-07-16 |
 | [High Waist Jeans](https://open.spotify.com/track/49emERhPJDiHe5DWRxgn3y) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [High Waist Jeans](https://open.spotify.com/album/6kZYFhRnNp3yJBRKjzwjts) | 2:53 | 2020-12-07 | 2021-02-13 |
+| [Himalayas](https://open.spotify.com/track/0msnlSoBXzmrHWgJ00VIh5) | [Elijah Blond](https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt), [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Himalayas](https://open.spotify.com/album/47W2kTtdyTFgNxOeG0jNE4) | 3:04 | 2022-09-09 |  |
 | [Hold Me Down](https://open.spotify.com/track/7j3F83W8dkm10ujNwC0wRJ) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Hold Me Down](https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA) | 3:23 | 2022-02-04 | 2022-04-09 |
 | [Hold No Grudge \- Bonus Track](https://open.spotify.com/track/188rKyWMsC4WsKKZ85lnUO) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 4:28 | 2021-11-06 | 2021-11-27 |
 | [HOLD ON](https://open.spotify.com/track/21yOc5i6QFilcX7I3e5uQT) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/00fxoc0ZvTu44iL61RE7Cx) | 3:50 | 2022-07-22 | 2022-08-06 |
@@ -384,6 +388,7 @@
 | [How Are You](https://open.spotify.com/track/0qEHThgZt3tBipnvHL5PYt) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [How Are You](https://open.spotify.com/album/3Pm1iQG3ktEPMacNr1Qqu1) | 4:33 | 2021-03-27 | 2021-06-12 |
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-01-09 | 2021-03-14 |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 | 2022-06-25 |
+| [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 | 2022-09-09 |  |
 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 | 2022-07-08 |  |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-23 | 2021-11-13 |
 | [hurts 2 hate somebody](https://open.spotify.com/track/4kogvO1p1DILtlDNyQtIYN) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [hurts 2 hate somebody](https://open.spotify.com/album/1qRPUP3VBOSdZcHfR6VfN8) | 3:03 | 2020-11-07 | 2021-01-23 |

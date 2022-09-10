@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2022. Codiciado en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2022. Grupo Recluta en portada.",
   "name": "Corridos Nuevos 2022",
   "published_playlist_ids": [
     "3NcL9qMtEpCLAYx2RQtV9b"
@@ -23,6 +23,42 @@
       "duration_ms": 173500,
       "name": "12 Rifles",
       "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
+    },
+    {
+      "album": {
+        "name": "50 Pesos",
+        "url": "https://open.spotify.com/album/3ZA0P6yWdgfSg92lF3hAeB"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191168,
+      "name": "50 Pesos",
+      "url": "https://open.spotify.com/track/3R2TtSkWnYsUmhvZFjiM7f"
+    },
+    {
+      "album": {
+        "name": "6 impactos",
+        "url": "https://open.spotify.com/album/40llY7qNHPo4sGkcvdthRX"
+      },
+      "artists": [
+        {
+          "name": "Bocho Ramos",
+          "url": "https://open.spotify.com/artist/45aWiKy36SDBTyqsU3lt1R"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "6 impactos",
+      "url": "https://open.spotify.com/track/5n2E8f03RUn95MhFGi6Vc9"
     },
     {
       "album": {
@@ -263,7 +299,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 187833,
       "name": "Cabr\u00f3n Yo Puedo",
       "url": "https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL"
@@ -365,7 +401,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 131573,
       "name": "Cuidando La Capi",
       "url": "https://open.spotify.com/track/2KoM8pyhfITi9axbXnWL0V"
@@ -405,7 +441,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 216841,
       "name": "De Aqu\u00ed Para All\u00e1",
       "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
@@ -582,6 +618,46 @@
     },
     {
       "album": {
+        "name": "El Avi\u00f3n De La Muerte (En Vivo)",
+        "url": "https://open.spotify.com/album/5awVunZVBUM4cQMFl0KqAl"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        },
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281733,
+      "name": "El Avi\u00f3n De La Muerte - En Vivo",
+      "url": "https://open.spotify.com/track/4ojiOiglCkMrRIvMDxOSBB"
+    },
+    {
+      "album": {
+        "name": "El Bocho",
+        "url": "https://open.spotify.com/album/0xijF7ucciqXG1zcZaeZY7"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227928,
+      "name": "El Bocho",
+      "url": "https://open.spotify.com/track/5hDxqnbV7FDIgA35IjLZF6"
+    },
+    {
+      "album": {
         "name": "El Borre",
         "url": "https://open.spotify.com/album/2IPoriM5ZN0devfwGxx5J7"
       },
@@ -611,7 +687,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 274812,
       "name": "El Calaveras",
       "url": "https://open.spotify.com/track/3qqW4RnjtFPDegDOaI2B2T"
@@ -655,6 +731,28 @@
       "duration_ms": 174254,
       "name": "El Calorcito (En Vivo)",
       "url": "https://open.spotify.com/track/4htlay50ggoEUbctmllJs9"
+    },
+    {
+      "album": {
+        "name": "El Canelo",
+        "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Emmanuel Delgado",
+          "url": "https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158213,
+      "name": "El Canelo",
+      "url": "https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp"
     },
     {
       "album": {
@@ -789,7 +887,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 139301,
       "name": "El Corrido Del SL",
       "url": "https://open.spotify.com/track/0vVo0VPCAqT6nO8WuQhTAI"
@@ -872,6 +970,28 @@
     },
     {
       "album": {
+        "name": "El Doble R (En Vivo)",
+        "url": "https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144871,
+      "name": "El Doble R - En Vivo",
+      "url": "https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ"
+    },
+    {
+      "album": {
         "name": "El Empresario",
         "url": "https://open.spotify.com/album/4igdrkDmBw03UUw6TmOLly"
       },
@@ -887,6 +1007,24 @@
       "duration_ms": 220055,
       "name": "El Empresario",
       "url": "https://open.spotify.com/track/50475dQbOPSa8CpLi8UIfe"
+    },
+    {
+      "album": {
+        "name": "El Empresario",
+        "url": "https://open.spotify.com/album/09kVR9QOJTC4ovmTT2gWdy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "El Empresario",
+      "url": "https://open.spotify.com/track/3lhGbEZKlA0zVZ3RpYRO8a"
     },
     {
       "album": {
@@ -1094,6 +1232,28 @@
     },
     {
       "album": {
+        "name": "El Puma (En Vivo)",
+        "url": "https://open.spotify.com/album/5SaNgrhOaoAvGzjUzUrKIo"
+      },
+      "artists": [
+        {
+          "name": "Compa Steve",
+          "url": "https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "El Puma (En Vivo)",
+      "url": "https://open.spotify.com/track/0qddY6DAKM1hynXicYJsEi"
+    },
+    {
+      "album": {
         "name": "El Recado del Ni\u00f1o",
         "url": "https://open.spotify.com/album/3DWNxcnPxQGjxVqfoiaQQg"
       },
@@ -1215,7 +1375,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 163333,
       "name": "El Traka",
       "url": "https://open.spotify.com/track/7eoDwvhrJBi0pqM5pfbMHT"
@@ -1259,7 +1419,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
@@ -1387,7 +1547,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 168700,
       "name": "Guerra Sin Cuartel",
       "url": "https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ"
@@ -1641,7 +1801,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 211278,
       "name": "La Lista",
       "url": "https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL"
@@ -1819,7 +1979,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
@@ -1841,6 +2001,24 @@
       "duration_ms": 115539,
       "name": "Manuelito - En Vivo",
       "url": "https://open.spotify.com/track/3gpaPs2ZRE0gxKTksaF6CG"
+    },
+    {
+      "album": {
+        "name": "Martin el Chiqueado",
+        "url": "https://open.spotify.com/album/36xGPL4XaGf9m4YCG49GfA"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204064,
+      "name": "Martin el Chiqueado",
+      "url": "https://open.spotify.com/track/5UAB8FdiznbbCCYNFv63ue"
     },
     {
       "album": {
@@ -1877,6 +2055,24 @@
       "duration_ms": 172903,
       "name": "Mentor",
       "url": "https://open.spotify.com/track/2TUuL881pKjKxhxJAjuxcm"
+    },
+    {
+      "album": {
+        "name": "Mi Equipo \u00c9lite",
+        "url": "https://open.spotify.com/album/144RNlXuAIpkGbIINBzU9N"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226574,
+      "name": "Mi Equipo \u00c9lite",
+      "url": "https://open.spotify.com/track/7bHDIq9B8xNjfOlyau8qXR"
     },
     {
       "album": {
@@ -1949,7 +2145,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 256799,
       "name": "Miguel El Michoacano",
       "url": "https://open.spotify.com/track/5AZX2szCxeWGlozJ5kIZwV"
@@ -1967,7 +2163,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 167000,
       "name": "Muy Criticado",
       "url": "https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9"
@@ -2588,6 +2784,24 @@
     },
     {
       "album": {
+        "name": "Voy a Guardar la Super",
+        "url": "https://open.spotify.com/album/4Mzypdy0gtu3eAiOy3eOPg"
+      },
+      "artists": [
+        {
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132717,
+      "name": "Voy a Guardar la Super",
+      "url": "https://open.spotify.com/track/4T2Ysf49vdgGcsxF6P8fvj"
+    },
+    {
+      "album": {
         "name": "Vuela y Vuela",
         "url": "https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l"
       },
@@ -2639,6 +2853,28 @@
       "duration_ms": 197037,
       "name": "Yo Fui El Plebe (Con Guitarras)",
       "url": "https://open.spotify.com/track/48Jm7073qMrtoThTqHvdD7"
+    },
+    {
+      "album": {
+        "name": "Yo Soy el Bueno",
+        "url": "https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "Yo Soy el Bueno",
+      "url": "https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI"
     },
     {
       "album": {

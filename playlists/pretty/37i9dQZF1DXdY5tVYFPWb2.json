@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 119807,
+  "num_followers": 119890,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMDA5ODlmYmE5OGE1ODIyMDNmNjE0YmMyYjUxZGIzNTVj",
+  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMDVhMGNiYTM2OWNiMzE2NmMzYzE5OGNjZDkzZTZmY2U1",
   "tracks": [
     {
       "added_at": "2022-09-08 15:00:00",
@@ -567,22 +567,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "Last Train",
-        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
+        "name": "yugi",
+        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        },
-        {
-          "name": "THREE1989",
-          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Last Train",
-      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
+      "duration_ms": 201617,
+      "name": "yugi",
+      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -603,18 +599,22 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "yugi",
-        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
         }
       ],
-      "duration_ms": 201617,
-      "name": "yugi",
-      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+      "duration_ms": 217000,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "IMA",
-        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 217400,
-      "name": "IMA",
-      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
+      "duration_ms": 272657,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+        "name": "IMA",
+        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         }
       ],
-      "duration_ms": 272657,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+      "duration_ms": 217400,
+      "name": "IMA",
+      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -807,42 +807,6 @@
       "duration_ms": 289517,
       "name": "Tokyo Tower",
       "url": "https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 190633,
-      "name": "CHASE",
-      "url": "https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -871,18 +835,38 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "Perfect Vacation",
-        "url": "https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n"
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
         }
       ],
-      "duration_ms": 219227,
-      "name": "Perfect Vacation",
-      "url": "https://open.spotify.com/track/3Ur58a9oYjMMhYvbTDfujQ"
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 190633,
+      "name": "CHASE",
+      "url": "https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -907,82 +891,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "Grow apart",
-        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
+        "name": "Perfect Vacation",
+        "url": "https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 192000,
-      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
-      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "Change My Life",
-        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
-      },
-      "artists": [
-        {
-          "name": "THE RAMPAGE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "Change My Life",
-      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "TICKETS",
-        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
-      },
-      "artists": [
-        {
-          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
-          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "YOU+ME=",
-      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239745,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 207006,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
+      "duration_ms": 219227,
+      "name": "Perfect Vacation",
+      "url": "https://open.spotify.com/track/3Ur58a9oYjMMhYvbTDfujQ"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -1003,6 +923,86 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
+        "name": "Change My Life",
+        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Change My Life",
+      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "Grow apart",
+        "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "TICKETS",
+        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
+      },
+      "artists": [
+        {
+          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
+          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "YOU+ME=",
+      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 207006,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 239745,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "ADVENTURE",
-        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
       "artists": [
         {
-          "name": "Momoko Kikuchi",
-          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 279240,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

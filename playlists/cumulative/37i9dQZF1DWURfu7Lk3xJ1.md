@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-160 songs - 6 hr 2 min - not published yet
+161 songs - 6 hr 5 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [against the tide](https://open.spotify.com/track/0IPf9wes4r5NA1xwX5FxKb) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [against the tide](https://open.spotify.com/album/3lecFA5VmUcLe8T3vD1f2A) | 2:22 | 2022-09-09 |  |
 | [Amazone](https://open.spotify.com/track/5R0vZ0UWfjfyXoOpi1Er3T) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Amazone](https://open.spotify.com/album/2NPK0ag9hT3jqYNmevyMNQ) | 1:52 | 2022-09-09 |  |
 | [among the trees](https://open.spotify.com/track/1kze18Zwl4jO9aA2cdUMRC) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [among the trees](https://open.spotify.com/album/26ZrsWBB0KUEWcGJ3qIVhV) | 2:38 | 2022-09-09 |  |
+| [Aquamarine](https://open.spotify.com/track/56wMtsglhlddfHVEHH2kYc) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Mavi](https://open.spotify.com/album/592PD7BO3MG7TLFV30sImZ) | 2:50 | 2022-09-09 |  |
 | [As a Friend](https://open.spotify.com/track/30rfKLLYkq4OtrRWTYAu2c) | [Eamon Lee](https://open.spotify.com/artist/48L5RaQhOrbyJQg3ZC0lo9) | [Real Down Tropical](https://open.spotify.com/album/3xEqVBh6H0vw0HBXOloHvu) | 1:59 | 2022-09-09 |  |
 | [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 | 2022-09-09 |  |
 | [ataraxy](https://open.spotify.com/track/1Me9xmon6ukRkMTW84tqc6) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Transcendence](https://open.spotify.com/album/5Dh4GgreJtAgCBFPbq0qyB) | 2:54 | 2022-09-09 |  |

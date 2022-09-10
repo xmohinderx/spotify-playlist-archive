@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 45560,
+  "num_followers": 45697,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDA4ZTZhMWY5YmRjODEwZWFkM2MwNWMyOGMzYzIwMDI3",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDM4MTlhNjljM2UwMTc0ZGZhNmJiMTE5Yzc1ZTFkNDk4",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Discamore",
         "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Dancing on Townsquare",
-        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
-      },
-      "artists": [
-        {
-          "name": "The Chaplin Band",
-          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Il Veliero - Single Version",
-      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Bambina c/o Bye Bye Mi Amor",
         "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 331200,
       "name": "Bambina (Original 12-Inch Version)",
       "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Dancing on Townsquare",
+        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
+      },
+      "artists": [
+        {
+          "name": "The Chaplin Band",
+          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Il Veliero - Single Version",
+      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Phazerdelique",
-        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
-      },
-      "artists": [
-        {
-          "name": "Kim And Buran",
-          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Phazerdelique - Extended Mix",
-      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "The Night (Original Remastered Version 2020)",
         "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Pictures Old Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
+        "name": "Phazerdelique",
+        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
       },
       "artists": [
         {
-          "name": "Scotch",
-          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
+          "name": "Kim And Buran",
+          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
+      "duration_ms": 448000,
+      "name": "Phazerdelique - Extended Mix",
+      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 300773,
       "name": "Baila Bolero - Marc Hartman Remix",
       "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Pictures Old Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
+      },
+      "artists": [
+        {
+          "name": "Scotch",
+          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
     },
     {
       "added_at": "2022-09-08 22:01:00",

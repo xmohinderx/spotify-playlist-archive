@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-92 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
+93 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Acende o Isqueiro](https://open.spotify.com/track/1DdEU9f7uXklMx6Dm0Mdwq) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Acende o Isqueiro](https://open.spotify.com/album/141vLpxhW08k1udBJoTW1r) | 3:27 | 2022-03-18 |  |
 | [Amor Bandido 2](https://open.spotify.com/track/68oLX8URC7McGqhuZZej6q) | [Dan Lellis](https://open.spotify.com/artist/7Jp5Nw7cNZTkwFgJX06Cqk) | [DDD61 \(Despedida do Dan\)](https://open.spotify.com/album/5WQEMD9nJazCJ7xEUAhtv5) | 3:35 | 2022-03-18 | 2022-05-28 |
 | [Andar Mais Alto](https://open.spotify.com/track/1xXARLOEv8vgkRhPsarK8Q) | [Igão Spliff](https://open.spotify.com/artist/5JK0D8vobAenISPqlnWa2A), [Rugal](https://open.spotify.com/artist/2rI145bvCczreyC9mvk9hy), [ZeroUM](https://open.spotify.com/artist/6iMqvz6RouFq1o4IHJ7HVy) | [Andar Mais Alto](https://open.spotify.com/album/29zijHe0AMBIQDEQGS7vMS) | 2:11 | 2022-08-12 |  |
-| [Apaga a Luz](https://open.spotify.com/track/7kvIWyx7Jun0uEzTtQlLPj) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Jayy](https://open.spotify.com/artist/2YXlo4oLmS4JhncjEDHNdc) | [Apaga a Luz](https://open.spotify.com/album/2bx5mPk3d2GT4QzaiB9Cg0) | 2:34 | 2022-03-18 |  |
+| [Apaga a Luz](https://open.spotify.com/track/7kvIWyx7Jun0uEzTtQlLPj) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Jayy](https://open.spotify.com/artist/2YXlo4oLmS4JhncjEDHNdc) | [Apaga a Luz](https://open.spotify.com/album/2bx5mPk3d2GT4QzaiB9Cg0) | 2:34 | 2022-03-18 | 2022-09-10 |
 | [Baby Girl](https://open.spotify.com/track/1QtxuHsQEJVdudwdubcMns) | [drocke](https://open.spotify.com/artist/2Vxj17qIRPH1Q6e7M1Sj8a), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti) | [Baby Girl](https://open.spotify.com/album/55sAyVRP8wgp4YWsETCkeB) | 3:46 | 2022-07-08 |  |
 | [Balenciaga](https://open.spotify.com/track/44pxIel1S788sDSV1nNr8H) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Balenciaga](https://open.spotify.com/album/1zyn9LMk3IWuNk108dZ3vg) | 2:48 | 2022-03-18 |  |
 | [Band](https://open.spotify.com/track/0l8PZI7jwq4Jozn3Uncaej) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Confissões de um Tralha Romântico](https://open.spotify.com/album/7qeOVwWc7R1BL5yKXkdccV) | 3:04 | 2022-07-08 | 2022-08-27 |
@@ -99,6 +99,7 @@
 | [Vai Q Cê Gosta](https://open.spotify.com/track/4FHHQROCezycCRq3fLPiLH) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Vai Q Cê Gosta](https://open.spotify.com/album/2ZoyH1PRf8CiVoBFH0mitA) | 2:20 | 2022-03-18 | 2022-06-18 |
 | [VAMPIRA](https://open.spotify.com/track/1vUf2pQNYT0EEEU5RLxO4h) | [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [VAMPIRA](https://open.spotify.com/album/4dv5Yl0t9ZKRA5GTKntuuj) | 2:48 | 2022-08-05 |  |
 | [Vinho & Sexo \- Prod\. Papatinho](https://open.spotify.com/track/0Lou5GSyISEjhtmbCgKGVI) | [Rany Money](https://open.spotify.com/artist/44P449nprZUercBnuts1o0) | [Vinho & Sexo \(Prod\. Papatinho\)](https://open.spotify.com/album/0ruRPIoTVV03Iaj3qxiaTs) | 3:16 | 2022-03-18 |  |
+| [Visconde](https://open.spotify.com/track/7oQ1T06MueIr7JcxrKv2qa) | [Itinn086](https://open.spotify.com/artist/3E0XZ7RrFpI5jVamigv02T), [LF](https://open.spotify.com/artist/4XTEaGrwzx4f87DfPztViW), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Visconde](https://open.spotify.com/album/2Xbh3EeiqJE3BCUP1DRGk0) | 2:44 | 2022-09-09 |  |
 | [Êxtase](https://open.spotify.com/track/0Y2AIey9vc10pW3chF299p) | [Jessica Cohen](https://open.spotify.com/artist/4SCIsnmp2qakseMlpuVz3S), [Jxkv](https://open.spotify.com/artist/1AHZJJ0sL4G0KotB0owI28) | [Êxtase](https://open.spotify.com/album/4fvPRFq9LALC8QMx0nDb0i) | 3:26 | 2022-03-18 | 2022-08-13 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

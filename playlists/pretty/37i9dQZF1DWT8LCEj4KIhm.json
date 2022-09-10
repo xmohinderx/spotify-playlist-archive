@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMGUxMmM5YjE0ZmEyZDFmZDUwNzMyMDRjM2NlYjVhMjky",
+  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDExNGIwOTdkZGI1NzA0MjA0MjgyMThiOTYxNTY1ZDg4",
   "tracks": [
     {
       "added_at": "2021-10-08 04:01:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
+        "name": "Purple Hat",
+        "url": "https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 178369,
+      "name": "Purple Hat",
+      "url": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 159535,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Purple Hat",
-        "url": "https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 178369,
-      "name": "Purple Hat",
-      "url": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/3w6gpFZnwljc37HpVlr3WB"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        }
+      ],
+      "duration_ms": 151989,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 169910,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/3w6gpFZnwljc37HpVlr3WB"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        }
-      ],
-      "duration_ms": 151989,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Wrong About You",
-        "url": "https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Wrong About You",
-      "url": "https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "Irr\u00e9versible",
         "url": "https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 257544,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Wrong About You",
+        "url": "https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Wrong About You",
+      "url": "https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Le tournant (Deluxe)",
-        "url": "https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW"
+        "name": "Comme dans les films",
+        "url": "https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv"
       },
       "artists": [
         {
-          "name": "Amay Laoni",
-          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
-        },
-        {
-          "name": "Marie-Mai",
-          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+          "name": "Alexe",
+          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
         }
       ],
-      "duration_ms": 218616,
-      "name": "Sous les rivi\u00e8res",
-      "url": "https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4"
+      "duration_ms": 183130,
+      "name": "Comme dans les films",
+      "url": "https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69"
     }
   ],
   "unique_name": "Donne-to\u00e9",

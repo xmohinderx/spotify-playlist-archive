@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en summer vibes! Cover: Kleine John
 
-162 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+163 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 | 2022-07-14 |  |
 | [Anders Doet \(feat\. Jayh\)](https://open.spotify.com/track/3Vv17RtSLI7x4yNYWvFrnf) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Anders Doet \(feat\. Jayh\)](https://open.spotify.com/album/7t8phcsa3My41H39G8Dwa5) | 2:52 | 2022-08-25 |  |
 | [Back It Up](https://open.spotify.com/track/3aWMxZQoBKQStdtc3nD514) | [DJ Quinna](https://open.spotify.com/artist/57aTfJMHZkUZjg9PSkI0gr), [Bandolien](https://open.spotify.com/artist/4kyQDKuSR4BvnxcQQqyu6d) | [Back It Up](https://open.spotify.com/album/2wFD5x3z9UNYrlYfgZlhlf) | 3:04 | 2022-07-28 | 2022-08-26 |
+| [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-09-09 |  |
 | [BALANCE](https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [BALANCE](https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub) | 3:20 | 2022-08-25 |  |
 | [Banana](https://open.spotify.com/track/7Mish8vZYeOPFHizC3pnpE) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Banana](https://open.spotify.com/album/0CidSPfyHc1IogMn39b8fv) | 3:15 | 2022-07-14 | 2022-09-02 |
 | [Bebeğim](https://open.spotify.com/track/3LHEkrzQf5Von16auXW10H) | [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Bebeğim](https://open.spotify.com/album/6RUSOUecDOBsdjSL1Q6mw5) | 2:41 | 2022-07-28 |  |

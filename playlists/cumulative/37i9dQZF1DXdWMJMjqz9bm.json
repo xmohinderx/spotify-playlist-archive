@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap. Cover: anees",
+  "description": "A little bit of pop, a little bit of rap. Cover: Aidan Bissett",
   "name": "Varsity Bars",
   "published_playlist_ids": [
     "2Nwo9aiDgjWV2FZ832hzzr"
@@ -189,6 +189,24 @@
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
+    },
+    {
+      "album": {
+        "name": "95 DEGREES",
+        "url": "https://open.spotify.com/album/3RyBiLA0PeYZvz8IGU5ffO"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hall",
+          "url": "https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182318,
+      "name": "95 DEGREES",
+      "url": "https://open.spotify.com/track/55BJoJzQuogFLeqihumlm9"
     },
     {
       "album": {
@@ -545,6 +563,24 @@
       "duration_ms": 147031,
       "name": "be alright",
       "url": "https://open.spotify.com/track/7HaPFrLUDAzTJuIo0M1i8X"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166927,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
     },
     {
       "album": {
@@ -1500,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "Dead Inside",
+        "url": "https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115695,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY"
+    },
+    {
+      "album": {
         "name": "Desert Sun",
         "url": "https://open.spotify.com/album/1SgsIlnJvwMSWJLjjAQwiS"
       },
@@ -2315,7 +2369,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 217560,
       "name": "Full Monarch",
       "url": "https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB"
@@ -3021,6 +3075,24 @@
       "duration_ms": 183514,
       "name": "I Don't Like",
       "url": "https://open.spotify.com/track/18EarjJzm91TbgHH7yjyZc"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Know",
+        "url": "https://open.spotify.com/album/684CYr1q739L7EVd4bjdhO"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180555,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/5QuoJpaWSzbjnIF5ESnQfg"
     },
     {
       "album": {
@@ -3972,6 +4044,24 @@
     },
     {
       "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/2C4Q3GT9PHp3UYIgSNJSVq"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186815,
+      "name": "Manners",
+      "url": "https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC"
+    },
+    {
+      "album": {
         "name": "Matador",
         "url": "https://open.spotify.com/album/40ulnbYUwlXLzlgV6wDYyE"
       },
@@ -4299,7 +4389,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 159724,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5EuDiFKa6RYAKOUz9XznSv"
@@ -5031,7 +5121,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 138680,
       "name": "Psychotic",
       "url": "https://open.spotify.com/track/7LqROURBlbHtu5Is8uIqEG"
@@ -6460,6 +6550,24 @@
     },
     {
       "album": {
+        "name": "Tripping Over Air",
+        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182382,
+      "name": "Tripping Over Air",
+      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
+    },
+    {
+      "album": {
         "name": "trouble / tonight",
         "url": "https://open.spotify.com/album/6ywTWDiKJUO33pyQ9cwFmT"
       },
@@ -6493,7 +6601,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 171071,
       "name": "true american (feat. Kyle Lux)",
       "url": "https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2"

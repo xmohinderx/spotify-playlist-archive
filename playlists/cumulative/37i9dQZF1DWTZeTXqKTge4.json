@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Taktika",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Shreez",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -67,6 +67,24 @@
       "duration_ms": 160400,
       "name": "16-5-0",
       "url": "https://open.spotify.com/track/5tbnrWKJIK1RnmEyWPhh6b"
+    },
+    {
+      "album": {
+        "name": "20%",
+        "url": "https://open.spotify.com/album/09oPfLAESBKfPHQhAigjKr"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "20%",
+      "url": "https://open.spotify.com/track/3eNdWF2JQPP4usNDmU2k4D"
     },
     {
       "album": {
@@ -313,6 +331,24 @@
       "duration_ms": 162909,
       "name": "Al\u00e9atoire",
       "url": "https://open.spotify.com/track/4WnPcLYxgBuJvDUnYKFC5K"
+    },
+    {
+      "album": {
+        "name": "Andale",
+        "url": "https://open.spotify.com/album/3ADUouvgyG92CLvC8rzua5"
+      },
+      "artists": [
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166060,
+      "name": "Andale",
+      "url": "https://open.spotify.com/track/1bOqJaCP7MMxJJ2oGRX0jS"
     },
     {
       "album": {
@@ -752,6 +788,24 @@
     },
     {
       "album": {
+        "name": "Black Card",
+        "url": "https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226389,
+      "name": "Black Card",
+      "url": "https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd"
+    },
+    {
+      "album": {
         "name": "Blackberry",
         "url": "https://open.spotify.com/album/2BovtlOMMEiA3fjLQwrHe3"
       },
@@ -883,7 +937,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 172137,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/3ym3QmdWVeugFq99ml1lt5"
@@ -1013,6 +1067,28 @@
       "duration_ms": 246000,
       "name": "Ce n'\u00e9tait pas voulu",
       "url": "https://open.spotify.com/track/27TaTa6MW6qf4Tsm85z4m3"
+    },
+    {
+      "album": {
+        "name": "Cercle Vicieux",
+        "url": "https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222170,
+      "name": "Cercle Vicieux",
+      "url": "https://open.spotify.com/track/2Wsp91MjyvE6fypPKmW3U4"
     },
     {
       "album": {
@@ -2608,6 +2684,24 @@
     },
     {
       "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/4VR3RBzYwMY1WnpiUsfaWt"
+      },
+      "artists": [
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/7w1RLxc7gA8EBcRsWgSOUu"
+    },
+    {
+      "album": {
         "name": "The North Face",
         "url": "https://open.spotify.com/album/15YCCs039nN4n8wrV7ZBPT"
       },
@@ -2783,7 +2877,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 175600,
       "name": "La Presse (Baby Girl)",
       "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
@@ -3197,6 +3291,24 @@
       "duration_ms": 149549,
       "name": "Mon Chaw",
       "url": "https://open.spotify.com/track/5TOn3TDdaQhx9MAFJsw2dx"
+    },
+    {
+      "album": {
+        "name": "PETiTOM",
+        "url": "https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r"
+      },
+      "artists": [
+        {
+          "name": "PETiTOM",
+          "url": "https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149003,
+      "name": "Monnaie",
+      "url": "https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W"
     },
     {
       "album": {
@@ -4251,7 +4363,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 153846,
       "name": "Roi",
       "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
@@ -4793,7 +4905,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197446,
       "name": "Tout c'que j'connais",
       "url": "https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr"
@@ -4815,7 +4927,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 219193,
       "name": "Tout le monde a raison",
       "url": "https://open.spotify.com/track/5Rm2XSJvhHdx7remj1ZUNQ"
@@ -4981,7 +5093,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 172534,
       "name": "VISA",
       "url": "https://open.spotify.com/track/17KVmrxWh2gvFSrrC1yRBW"

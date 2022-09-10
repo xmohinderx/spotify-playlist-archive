@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Can Do This",
+        "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276695,
+      "name": "Can Do This",
+      "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
+    },
+    {
+      "album": {
         "name": "Can We Still Be Friends?",
         "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
       },
@@ -567,6 +585,24 @@
       "duration_ms": 244130,
       "name": "Consciousness - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
+    },
+    {
+      "album": {
+        "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
     },
     {
       "album": {
@@ -709,6 +745,32 @@
       "duration_ms": 199651,
       "name": "DoNe WIth U",
       "url": "https://open.spotify.com/track/0eLSVeBu5fdxT4W0k316OK"
+    },
+    {
+      "album": {
+        "name": "Knock Knock Remixes",
+        "url": "https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546471,
+      "name": "Drone Me Up, Flashy - &ME Remix",
+      "url": "https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4"
     },
     {
       "album": {
@@ -1121,7 +1183,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 255000,
       "name": "Human Shape - warner case Remix",
       "url": "https://open.spotify.com/track/6JlDfotRZUlQ61TQSMfA1A"
@@ -1889,7 +1951,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 235132,
       "name": "Organic Cold Brewed Hipster Funk",
       "url": "https://open.spotify.com/track/3phBxj9avtQDkWblVg7s02"
@@ -2031,7 +2093,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 216848,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW"

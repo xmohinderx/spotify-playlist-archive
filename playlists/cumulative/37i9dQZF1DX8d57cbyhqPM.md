@@ -4,7 +4,7 @@
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Serge Ibaka
 
-111 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+112 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Kin\-Brazza](https://open.spotify.com/track/58v78PuisC6mzn7SUnEAjw) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Bill Clinton](https://open.spotify.com/artist/1Fi0mPF1fjcFrIhm6yhln9), [Tidiane Mario](https://open.spotify.com/artist/7BwDIRZ2sBBVDSrTDQ9Wq4), [Afara Tsena](https://open.spotify.com/artist/2e3NRawiBjPk6tzLO33Axu) | [ART](https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW) | 3:36 | 2022-08-26 |  |
 | [Kita](https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO) | [Djako](https://open.spotify.com/artist/6hJcwkxbYVPFDRZYFDuJv9), [Dé Panama](https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca), [Gettss](https://open.spotify.com/artist/4bkTZCzXEVVHQ1cLmaYd1e) | [Kita](https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge) | 3:36 | 2022-08-05 |  |
 | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/album/2Jis4aVlVx87Xc6Lmd3G1U) | 2:27 | 2022-07-15 |  |
+| [Libanda](https://open.spotify.com/track/7lxzDgpOgHd8CETw86oXIg) | [Agressivo Nyandoro](https://open.spotify.com/artist/1E09SS6iKT5r8lDG0VdJOn) | [Libanda](https://open.spotify.com/album/5pZQrDVvODszoYNI2jtoZ2) | 2:14 | 2022-09-09 |  |
 | [Liberté](https://open.spotify.com/track/5sLWCgrKYYNuWfMgu8krCu) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Liberté](https://open.spotify.com/album/3C7SlGR3xxHxftI4UxPmC2) | 6:00 | 2022-09-02 |  |
 | [Like This](https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Like This](https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR) | 2:44 | 2022-06-30 | 2022-08-27 |
 | [Likolo \(feat\. Ninho\)](https://open.spotify.com/track/7kGG67A0QDHqcrhLFvvOZX) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tokooos II](https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M) | 3:15 | 2022-06-30 |  |
@@ -117,7 +118,7 @@
 | [Yolele](https://open.spotify.com/track/4pkk2GgNZIWhqQpz39439P) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:23 | 2022-06-30 |  |
 | [Zaïre](https://open.spotify.com/track/5BPFqMBU5oZr3LM6Vq8XTA) | [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Zaïre](https://open.spotify.com/album/5JaqWswOjsCJsfMOMYwtFu) | 3:35 | 2022-09-02 |  |
 | [Zigida](https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k) | [Light Music Villa Nova](https://open.spotify.com/artist/0MP7DZOrBSfEEhLHz1dG2r), [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Cursus, Vol\. 2](https://open.spotify.com/album/7JyPd01Qu6N2dvj6PTYfSe) | 3:36 | 2022-06-30 |  |
-| [Élengui](https://open.spotify.com/track/3xAoNXwkn6sRB5SjYqtQvc) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [A\-T1](https://open.spotify.com/album/0LbmKrpTR7TE6VUN8nTpRs) | 2:52 | 2022-06-30 |  |
+| [Élengui](https://open.spotify.com/track/3xAoNXwkn6sRB5SjYqtQvc) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [A\-T1](https://open.spotify.com/album/0LbmKrpTR7TE6VUN8nTpRs) | 2:52 | 2022-06-30 | 2022-09-10 |
 | [Κ\. Kin la belle](https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:20 | 2022-07-08 |  |
 
 \*This playlist was first scraped on 2022-07-01. Prior content cannot be recovered.

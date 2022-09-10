@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "A Bitter Pill",
+        "url": "https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr"
+      },
+      "artists": [
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "A Bitter Pill",
+      "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
+    },
+    {
+      "album": {
         "name": "Bonded by Blood",
         "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
       },
@@ -3059,7 +3077,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 192266,
       "name": "Legion of the Damned",
       "url": "https://open.spotify.com/track/6evNLVJzdRcBoXgA8Bn56f"
@@ -3135,6 +3153,24 @@
       "duration_ms": 261560,
       "name": "Living Weapon",
       "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
+    },
+    {
+      "album": {
+        "name": "Lockdown Forever",
+        "url": "https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM"
+      },
+      "artists": [
+        {
+          "name": "Tankard",
+          "url": "https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246552,
+      "name": "Lockdown Forever",
+      "url": "https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg"
     },
     {
       "album": {
@@ -3603,7 +3639,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 254143,
       "name": "New World Beyond",
       "url": "https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84"
@@ -4089,7 +4125,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 300266,
       "name": "Possessed by Fire",
       "url": "https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy"
@@ -5239,7 +5275,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 237508,
       "name": "The Black Hand Reaches Out",
       "url": "https://open.spotify.com/track/0Sd8D0bpbOBlFo6dZz4OiH"

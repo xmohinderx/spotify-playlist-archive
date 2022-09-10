@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 157138,
       "name": "10 Things I Hate About You",
       "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
@@ -1932,6 +1932,32 @@
     },
     {
       "album": {
+        "name": "It's Corn",
+        "url": "https://open.spotify.com/album/6UA672BEiCeihRReCCnlPb"
+      },
+      "artists": [
+        {
+          "name": "Tariq",
+          "url": "https://open.spotify.com/artist/2knWnzQWhtUg9J3zVsEYm8"
+        },
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        },
+        {
+          "name": "Recess Therapy",
+          "url": "https://open.spotify.com/artist/0WSxLJRrB4L65JhNxIajE2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170588,
+      "name": "It's Corn",
+      "url": "https://open.spotify.com/track/58WiMFVLbAfmS7k4T0qKtG"
+    },
+    {
+      "album": {
         "name": "Jenny (I Wanna Ruin Our Friendship)",
         "url": "https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD"
       },
@@ -3021,7 +3047,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
@@ -3482,6 +3508,24 @@
     },
     {
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156506,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -3685,7 +3729,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"

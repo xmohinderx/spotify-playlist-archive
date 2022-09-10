@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: EST Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,564 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,890 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 9 | [Why Would I Lack? \(feat\. SPMB Bills\)](https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [SPMB Bills](https://open.spotify.com/artist/1PZWTOZpsAoK6tyNDPziOa) | [Why Would I Lack? \(feat\. SPMB Bills\)](https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T) | 2:56 |
 | 10 | [IDGAF](https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [IDGAF](https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI) | 2:18 |
 | 11 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 |
-| 12 | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Set Da Trend](https://open.spotify.com/artist/5ddDAriaVx3eQpQ57o2cH1) | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql) | 1:48 |
+| 12 | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB) | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql) | 1:48 |
 | 13 | [BIG TIME \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:53 |
 | 14 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 |
 | 15 | [712PM](https://open.spotify.com/track/1YWE7cMqo4iVNdPTpH4Khj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:53 |

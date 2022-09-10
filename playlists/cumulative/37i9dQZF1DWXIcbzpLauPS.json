@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new Core at its finest. Cover: Bleed From Within",
+  "description": "This is the new Core at its finest. Cover: Motionless In White",
   "name": "The Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -7508,6 +7508,24 @@
     },
     {
       "album": {
+        "name": "RE-Animate",
+        "url": "https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ"
+      },
+      "artists": [
+        {
+          "name": "For The Fallen Dreams",
+          "url": "https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199846,
+      "name": "RE-Animate",
+      "url": "https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw"
+    },
+    {
+      "album": {
         "name": "Realistic Flesh Mask",
         "url": "https://open.spotify.com/album/6iAmG9xNEvyadpWjgficUO"
       },
@@ -10301,7 +10319,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 316599,
       "name": "Walk With Me In Hell",
       "url": "https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7"

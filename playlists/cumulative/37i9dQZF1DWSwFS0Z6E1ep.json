@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 172140,
       "name": "I Need a Man",
       "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
@@ -3235,6 +3235,24 @@
       "duration_ms": 153533,
       "name": "Rebel Rouser",
       "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
+        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149584,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
     },
     {
       "album": {

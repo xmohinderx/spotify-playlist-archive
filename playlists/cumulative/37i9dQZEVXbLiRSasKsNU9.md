@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-778 songs - 1 day 18 hr 25 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+779 songs - 1 day 18 hr 28 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Disko](https://open.spotify.com/track/5bx4DPSuvBUn6luswgF7Ez) | [LPS](https://open.spotify.com/artist/3R4uNy42CP2VFBRVS8oQYg) | [Disko](https://open.spotify.com/album/1jvIu5RH2i2YjNYqdV0jNB) | 2:59 | 2022-05-16 | 2022-05-29 |
 | [DIVE IN!](https://open.spotify.com/track/2I8EDARURigigunOxtg7oi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN!](https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD) | 1:40 | 2022-02-18 | 2022-03-19 |
 | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/152sJgmftB46Q6IsDTUDLN) | [Sam Concepcion](https://open.spotify.com/artist/2P3aLwJ41aRYkyFFw2FRM7) | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/45ZolRka5exOabNpGPfbTo) | 3:30 | 2022-02-26 | 2022-03-05 |
-| [Diğer Yarım](https://open.spotify.com/track/38QSynLcDBfbETORhSsssH) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Diğer Yarım](https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj) | 2:22 | 2022-08-02 |  |
+| [Diğer Yarım](https://open.spotify.com/track/38QSynLcDBfbETORhSsssH) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Diğer Yarım](https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj) | 2:22 | 2022-08-02 | 2022-09-10 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-12-27 | 2022-01-07 |
 | [Do Ya Wanna Taste It](https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N) | [Wig Wam](https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60) | [Non Stop Rock'n Roll](https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T) | 2:56 | 2022-02-21 | 2022-03-09 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-08-16 | 2022-08-31 |
@@ -778,6 +778,7 @@
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-18 | 2022-02-16 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-10 | 2022-05-16 |
 | [Złote Tarasy](https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Abel de Jong](https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt) | [Złote Tarasy](https://open.spotify.com/album/7zmwRrJPhyxLiVgtMtJlW1) | 2:26 | 2022-05-03 | 2022-05-08 |
+| [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 | 2022-09-09 |  |
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf) | 2:13 | 2022-02-17 | 2022-03-06 |
 | [Łyk i buch](https://open.spotify.com/track/4gUKSmeJ7TNcVzHcsGxRKK) | [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [GOMBAO 33](https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [Hotel Maffija 2](https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk) | 2:45 | 2022-02-15 | 2022-02-20 |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-07-16 | 2022-07-23 |

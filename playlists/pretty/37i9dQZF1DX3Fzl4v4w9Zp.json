@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Heartless Bastards",
-  "num_followers": 590398,
+  "num_followers": 590451,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDFhYmFiNjcyYTJkMGYyMTdlMzJkM2E1MDAzNGY5NGY3",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGJjZDZhNmQ0YTRlODQ4NDgzODIzMDlhYTA3YjkyMjg1",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "I'm Just a Clown",
+        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "I'm Just a Clown",
+      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -47,22 +63,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "I'm Just a Clown",
-        "url": "https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "I'm Just a Clown",
-      "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Parted Ways (Acoustic Version)",
         "url": "https://open.spotify.com/album/7gKmiv8ycRmJMpgSGv9Ye4"
       },
@@ -75,6 +75,26 @@
       "duration_ms": 303836,
       "name": "Parted Ways (Acoustic Version)",
       "url": "https://open.spotify.com/track/4Xt5uvZALmrSKxcKNySPag"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Married Alone (feat. Vince Gill)",
+        "url": "https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 254033,
+      "name": "Married Alone (feat. Vince Gill)",
+      "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -91,6 +111,122 @@
       "duration_ms": 220961,
       "name": "Miles And Miles - Single Version",
       "url": "https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Inside Problems",
+        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Make a Picture",
+      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Cabin in the Woods",
+        "url": "https://open.spotify.com/album/0qD8FKdjC8frmDcrCPc0Hm"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Cabin in the Woods",
+      "url": "https://open.spotify.com/track/4RdguY01mI6MQsmCxCHwYs"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/6BSPlPR4Pxz6WnUIBlrWWQ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "The Downward Road",
+        "url": "https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        },
+        {
+          "name": "Demeanor",
+          "url": "https://open.spotify.com/artist/4HlLzCWkEJQvvWRkjt5J0r"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "The Downward Road",
+      "url": "https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Tumble and Fall",
+        "url": "https://open.spotify.com/album/6PNfy7JIdJWbw8XXIETapU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tashian",
+          "url": "https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Tumble and Fall",
+      "url": "https://open.spotify.com/track/2Uh4NCdcI7sWNbWfhxw73Q"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -111,18 +247,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
-        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+        "name": "All I Needed",
+        "url": "https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
         }
       ],
-      "duration_ms": 179013,
-      "name": "Years",
-      "url": "https://open.spotify.com/track/6BSPlPR4Pxz6WnUIBlrWWQ"
+      "duration_ms": 179288,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -227,22 +363,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Inside Problems",
-        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Make a Picture",
-      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Take to Begin",
         "url": "https://open.spotify.com/album/0KpRspsX54aoDKRlW3wdxS"
       },
@@ -255,22 +375,6 @@
       "duration_ms": 267644,
       "name": "Take to Begin",
       "url": "https://open.spotify.com/track/3eTdCMvLkIBpcKKbjPfDAE"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "All I Needed",
-        "url": "https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U"
-      },
-      "artists": [
-        {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
-        }
-      ],
-      "duration_ms": 179288,
-      "name": "All I Needed",
-      "url": "https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -679,38 +783,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "12th of June",
-        "url": "https://open.spotify.com/album/5szOii0PaRjMwUqV1VJpfH"
-      },
-      "artists": [
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "12th of June",
-      "url": "https://open.spotify.com/track/0TUcn0qBz7kS0VtPyKviPm"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Paddle to the Stars",
         "url": "https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU"
       },
@@ -863,22 +935,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Hospital",
-        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
         "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
       },
@@ -999,22 +1055,6 @@
       "duration_ms": 217960,
       "name": "It's So Hard to Hold On",
       "url": "https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2303,26 +2343,6 @@
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 220976,
-      "name": "Juanita",
-      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
     },
     {
       "added_at": "2022-08-19 04:00:00",

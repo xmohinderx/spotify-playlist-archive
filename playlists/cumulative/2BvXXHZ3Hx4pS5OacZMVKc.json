@@ -1548,6 +1548,28 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Crunr",
+          "url": "https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P"
+    },
+    {
+      "album": {
         "name": "Incomplete (Muzzy Remix)",
         "url": "https://open.spotify.com/album/5icEcceQagZKlAUei5A1IZ"
       },

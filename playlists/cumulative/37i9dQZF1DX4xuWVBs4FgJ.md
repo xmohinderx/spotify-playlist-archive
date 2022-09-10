@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-253 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+255 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 | 2022-07-22 |  |
 | [Bulletproof](https://open.spotify.com/track/0X3Csp5UBxXNqfnzkngOvN) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Bulletproof](https://open.spotify.com/album/6Q00Gzzny7qxgppvHiIEX9) | 3:31 | 2021-06-22 | 2022-05-28 |
 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 | 2021-06-22 | 2022-07-29 |
+| [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2022-09-09 |  |
 | [By Your Side](https://open.spotify.com/track/3tR6P9ZbmAv9rqtUBEEIbY) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/64q8FVttuqM8sKaUB1WyfV) | 2:46 | 2021-06-22 | 2022-07-29 |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2021-06-22 |  |
 | [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 | 2022-08-18 |  |
@@ -69,7 +70,7 @@
 | [Dreamers Of The Shore](https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5) | [Volcan Peaks](https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Dreamers of The Shore](https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV) | 2:51 | 2021-06-22 | 2022-07-01 |
 | [Dust](https://open.spotify.com/track/7gKB72lW18lE0pfo9GMzMJ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [After The Landslide](https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D) | 3:18 | 2021-06-22 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/1pfYIi1N0t9g7WWZNLsde3) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/3etfw3EWe274S5SyajP8eW) | 3:08 | 2021-06-22 | 2022-07-29 |
-| [Eleven](https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eleven](https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4) | 3:26 | 2022-07-22 |  |
+| [Eleven](https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eleven](https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4) | 3:26 | 2022-07-22 | 2022-09-10 |
 | [Endless Sadness](https://open.spotify.com/track/4A8EEoQq4MQt1NbcRQPMwf) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Endless Sadness](https://open.spotify.com/album/1R26FnkTe3zQVrlQFomYiz) | 3:17 | 2021-06-22 | 2022-05-28 |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-06-22 |  |
 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 | 2022-07-22 |  |
@@ -199,7 +200,7 @@
 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 | 2021-06-22 |  |
 | [Smoke](https://open.spotify.com/track/1WVTi93gt1EofX4H7pmxTP) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Smoke](https://open.spotify.com/album/6iglrA3fJHVvRdXqQExRZx) | 3:35 | 2022-05-27 | 2022-07-28 |
 | [So Beautiful](https://open.spotify.com/track/1g9EdqVk89cz27yERaxSK2) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You're Stronger Than You Know](https://open.spotify.com/album/5MSaKdet5kiMdSczHYxEmg) | 4:03 | 2021-06-22 | 2022-07-29 |
-| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-22 |  |
+| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-22 | 2022-09-10 |
 | [Song Beneath the Song](https://open.spotify.com/track/49ykaqGBrhQ6FSriy2ZBaF) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Song Beneath the Song](https://open.spotify.com/album/68oxfceV08SzsvYbJ0DEyj) | 3:11 | 2022-07-08 | 2022-07-29 |
 | [Songbird](https://open.spotify.com/track/2IR5Q9IBbWMcE0XsKdlv6b) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Songbird](https://open.spotify.com/album/5py1BCxqkt5migoJTVMUKh) | 3:33 | 2022-06-22 | 2022-07-29 |
 | [Sorrow](https://open.spotify.com/track/33ry67NZycIR011igWIFD3) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P) | 3:12 | 2021-06-22 | 2022-05-18 |
@@ -229,6 +230,7 @@
 | [Tomorrow](https://open.spotify.com/track/728NYU4I8VfuQsySPd0i3S) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Tomorrow](https://open.spotify.com/album/0r9RJfAp7wHOlNPXBp4BSn) | 3:05 | 2021-06-22 | 2022-07-29 |
 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 | 2022-05-17 | 2022-05-22 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |
+| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-09-09 |  |
 | [Vincent](https://open.spotify.com/track/4FSUtZs7mH9V6eWB2EBXdH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/1wfAzSF0uPCOu8yngdcKsY) | 3:43 | 2021-06-22 | 2022-07-29 |
 | [Walls \- Naked Edition](https://open.spotify.com/track/4jIEgyvK3AbptWjps8IDXR) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Walls \(Naked Edition\)](https://open.spotify.com/album/2j7PeOrfX7XPhIwduGyK60) | 2:59 | 2021-06-22 | 2022-06-14 |
 | [Want You Back \- Acoustic](https://open.spotify.com/track/4twiC6FAkanyFLXMRoMhwf) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Want You Back \(Acoustic\)](https://open.spotify.com/album/6aKAnlTkHozKsnwwdWJIDZ) | 2:59 | 2022-05-17 | 2022-07-20 |

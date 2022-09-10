@@ -1608,6 +1608,24 @@
     },
     {
       "album": {
+        "name": "What Christmas Means to Me",
+        "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
+    },
+    {
+      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },

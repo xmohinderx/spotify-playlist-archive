@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 572585,
+  "num_followers": 572732,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjA2OCwwMDAwMDAwMDU2Mzg5Y2E5MmFlZDYwNjkwNmQ1YjZiOTEwMmQzMGU1",
+  "snapshot_id": "MTY2MjY1MjA2OCwwMDAwMDAwMDY5Mzg1NzhiMWQyZTVmZDNkNWQ4YWQ2Y2FjMGQxZmRm",
   "tracks": [
     {
       "added_at": "2022-09-08 15:47:48",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-08 15:47:48",
       "album": {
-        "name": "Raop +5",
-        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
-    },
-    {
-      "added_at": "2022-09-08 15:47:48",
-      "album": {
         "name": "Bossaura",
         "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 364720,
       "name": "Bossaura",
       "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
+    },
+    {
+      "added_at": "2022-09-08 15:47:48",
+      "album": {
+        "name": "Raop +5",
+        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
     },
     {
       "added_at": "2022-09-08 15:47:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 31 | [Ahora Soy Libre](https://open.spotify.com/track/6DTXxggEkmEJallW8qMrIm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:45 |
 | 32 | [Through The Eyes Of A Child](https://open.spotify.com/track/4Edf9rMWf3diUWQ7dVVXLC) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:51 |
 | 33 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 |
-| 34 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 |
-| 35 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 34 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 35 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 |
 | 36 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 |
 | 37 | [Toma De Mí](https://open.spotify.com/track/6eoJG3PqstEA7nj1bYncBd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/7vAvh5KAMBz324wybwqxYG) | 4:29 |
 | 38 | [Hoy](https://open.spotify.com/track/7Lr4gFCiSMCyESWoGxjW6W) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:17 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 57 | [Options](https://open.spotify.com/track/5kOGb28zbN5xUDgJDtUsBa) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:55 |
 | 58 | [Tetris](https://open.spotify.com/track/0IlAsqh0LgLEDWwSYDXd3D) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:26 |
 | 59 | [Silencio](https://open.spotify.com/track/3UKaVPFrRiebiMaFj657eG) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:34 |
-| 60 | [Por Arriesgarnos](https://open.spotify.com/track/1SpKiWdhcYnDt6eeFy4coA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 3:31 |
-| 61 | [Ahora o Nunca](https://open.spotify.com/track/4maAZ4ZhPD4izQtL7lFlom) | [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Aliados](https://open.spotify.com/album/7xjf7xLTk3tePpkIq0OQJR) | 3:34 |
+| 60 | [Ahora o Nunca](https://open.spotify.com/track/4maAZ4ZhPD4izQtL7lFlom) | [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Aliados](https://open.spotify.com/album/7xjf7xLTk3tePpkIq0OQJR) | 3:34 |
+| 61 | [Por Arriesgarnos](https://open.spotify.com/track/1SpKiWdhcYnDt6eeFy4coA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 3:31 |
 | 62 | [Lo Que Yo Diga](https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lo Que Yo Diga](https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4) | 2:32 |
 | 63 | [El Último Tango](https://open.spotify.com/track/0s9r2e3sxNETMDZYrkIvzR) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [El Último Tango](https://open.spotify.com/album/5VCIQWVghqtSmsjv9lc5WB) | 3:14 |
 | 64 | [Tu](https://open.spotify.com/track/0i7OAQ584l2Gmp29a7Mj0z) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 4:09 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 85 | [I Am](https://open.spotify.com/track/1lFXDLZ7kGEZsAodmVmQi7) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:01 |
 | 86 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
 | 87 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
-| 88 | [Crazy 4.10.14](https://open.spotify.com/track/6XdOucBLdN0JAd2fRuUDq1) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:02 |
-| 89 | [Veneno](https://open.spotify.com/track/1IN2Ufuu1Ojs5Twb6ASmRt) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 3:06 |
-| 90 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 88 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 89 | [Crazy 4.10.14](https://open.spotify.com/track/6XdOucBLdN0JAd2fRuUDq1) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:02 |
+| 90 | [Veneno](https://open.spotify.com/track/1IN2Ufuu1Ojs5Twb6ASmRt) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 3:06 |
 | 91 | [Go](https://open.spotify.com/track/4frROcrrwj4vrUs1USFvj2) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:53 |
 | 92 | [Diciembre Sin Ti](https://open.spotify.com/track/4RS4SB4CcZybf1kGz993ds) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Diciembre Sin Ti](https://open.spotify.com/album/4Fer79sUn0C5roLh5GaO9i) | 3:27 |
 | 93 | [Blinded](https://open.spotify.com/track/239chagYycSREsWq5wGq97) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju) | 3:52 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 104 | [Goodbyes](https://open.spotify.com/track/7G0ID99OrcsW7zG4sOGHiE) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:55 |
 | 105 | [Wav.](https://open.spotify.com/track/1L7mmz2j14aDbGBSfvRABE) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Wav.](https://open.spotify.com/album/4mDFF1P7O3cFWY57CPycRE) | 3:15 |
 | 106 | [Soy Lo Que Soy](https://open.spotify.com/track/24w6O9gs7felE9pcmOjf3g) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Soy Lo Que Soy](https://open.spotify.com/album/7orMhgDujvSpM5DPbI2RVT) | 3:06 |
-| 107 | [Colores](https://open.spotify.com/track/5T742t8RYXAETzzhn7LwW4) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:15 |
-| 108 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
+| 107 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
+| 108 | [Colores](https://open.spotify.com/track/5T742t8RYXAETzzhn7LwW4) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:15 |
 | 109 | [3.7.12](https://open.spotify.com/track/0nwMXPiB4IA5LPKD2G3cHq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 0:39 |
 | 110 | [Não Te Vás](https://open.spotify.com/track/5aYttVgTTca2bZ5MnIjqjH) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU) | [Viver a Vida](https://open.spotify.com/album/05BzsUFyawyKNBosofEOSR) | 4:24 |
 | 111 | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/track/3tZTh6f27UzbXNtBbrHZdb) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/album/3oxNpMIIlibXjmi7EZBskJ) | 3:07 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc3MTE0MjQsMDAwMDAwMDAyYmYwMTBlMGVkMjE5MzAxZTNiNGM5MmEwYzVmZGU0Ng==`
+Snapshot ID: `Mjc3MTI4NjQsMDAwMDAwMDBjOTEzOTc5MzEwMzhhMTJkMDFmY2I3ZGNjMjk0MjkwYg==`

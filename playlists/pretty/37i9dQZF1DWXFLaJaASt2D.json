@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 17223,
+  "num_followers": 17320,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMGRmM2JlZGU0YWM0MTk5NGE5ZWI4OTlmMDE5OWZhMzRm",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDlkYTFhMDEyNTdkYThmOWUxM2Q2YzAxZjc4ZmU2MzQ2",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "The Best Of Goldfinger",
-        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "All Hallows EP",
         "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 185360,
       "name": "The Boy Who Destroyed The World",
       "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Beelzebubba",
-        "url": "https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH"
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
       },
       "artists": [
         {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
         }
       ],
-      "duration_ms": 158333,
-      "name": "Punk Rock Girl",
-      "url": "https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i"
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -683,34 +683,18 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+        "name": "Beelzebubba",
+        "url": "https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH"
       },
       "artists": [
         {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
         }
       ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Let's Talk About Feelings",
-        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
-      },
-      "artists": [
-        {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "May 16",
-      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
+      "duration_ms": 158333,
+      "name": "Punk Rock Girl",
+      "url": "https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -727,6 +711,22 @@
       "duration_ms": 201293,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Let's Talk About Feelings",
+        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
+      },
+      "artists": [
+        {
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "May 16",
+      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Fury of the Aquabats!",
         "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 182800,
       "name": "Super Rad!",
       "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
     },
     {
       "added_at": "2021-04-20 17:48:20",

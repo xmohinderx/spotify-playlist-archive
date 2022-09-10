@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Kweller, Enzo Cello
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,755 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,634 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 20 | [Teto Solar](https://open.spotify.com/track/0LL0f65AL3cYEopGZYPnuC) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Teto Solar](https://open.spotify.com/album/6ft3PwbypxEq9WycNgLRGR) | 3:04 |
 | 21 | [Sonho Dos Cria](https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:23 |
 | 22 | [E Se Eu Falasse o Que Sinto?](https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:36 |
-| 23 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [MVK](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
+| 23 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
 | 24 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
 | 25 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 |
 | 26 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |

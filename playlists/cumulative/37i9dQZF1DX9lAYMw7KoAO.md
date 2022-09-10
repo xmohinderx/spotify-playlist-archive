@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-92 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+93 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-03-11 |  |
 | [Love My Home](https://open.spotify.com/track/1SyNzhVnaVz7bZjFn5LVrK) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Love My Home](https://open.spotify.com/album/1PjvBnYQv9XMS2CIlnuH89) | 5:47 | 2021-03-12 |  |
 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 | 2019-11-06 |  |
-| [Ma K'oja Mi Olugbala](https://open.spotify.com/track/0H5CRzT7bk1Ib5f5Lw5xEU) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Hymns: Songs of Worship](https://open.spotify.com/album/1febHiKvpndkCYiyA4LwSn) | 4:24 | 2018-10-01 |  |
+| [Ma K'oja Mi Olugbala](https://open.spotify.com/track/0H5CRzT7bk1Ib5f5Lw5xEU) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Hymns: Songs of Worship](https://open.spotify.com/album/1febHiKvpndkCYiyA4LwSn) | 4:24 | 2018-10-01 | 2022-09-10 |
 | [Made Whole](https://open.spotify.com/track/0Nr91BKQvJE4usT6fKWY5t) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Made Whole](https://open.spotify.com/album/33GubIN9pcunkmkg2A1j6U) | 4:19 | 2020-01-31 |  |
 | [Make a Way \- Live](https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 4:38 | 2019-11-06 |  |
 | [Make a Way \- Live](https://open.spotify.com/track/1DrlNnjjp7VBaJRfBOqqK3) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/13ytrQ0CS9ipmq1UdlwhfD) | 4:38 | 2019-11-06 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Yahweh: Song of Moses](https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Yahweh: Song of Moses](https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj) | 7:44 | 2021-12-09 |  |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2020-07-10 |  |
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2019-11-06 |  |
+| [Yhwh](https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Yhwh](https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a) | 9:43 | 2022-09-09 |  |
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2020-07-14 |  |
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2018-10-01 |  |
 | [You Make Us Whole \- The Gathering Of Worshippers / Live At Loftus Stadium](https://open.spotify.com/track/3xeFcJt2THRyLTsk5uJLeH) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [You Make Us Whole \(The Gathering Of Worshippers / Live At Loftus Stadium\)](https://open.spotify.com/album/6oy0EXRb3vpMDfonoCY2yz) | 8:20 | 2020-01-31 |  |

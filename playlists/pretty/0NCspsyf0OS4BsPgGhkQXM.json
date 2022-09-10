@@ -1,13 +1,37 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2030165,
+  "num_followers": 2030159,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTIyOTMsOTZjY2U3MzNhOGMwMTFhYjgzMzZlNTFhMGU0ZTYyMzliYWU5YzY0ZA==",
+  "snapshot_id": "MTIzNDUsOWFhYzc5MmRlZWQyOWM5ZmFmYjUwYTgyNjhlMWUxYWZhMmNjNjM5NQ==",
   "tracks": [
+    {
+      "added_at": "2022-09-09 17:52:49",
+      "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Tori Levett",
+          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "SHADY INTENSIONS",
+      "url": "https://open.spotify.com/track/27HkM93H2GcOyYUV50W2tu"
+    },
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
@@ -23,6 +47,22 @@
       "duration_ms": 274285,
       "name": "It's Not Too Late",
       "url": "https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Story Prologue EP",
+        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
+      },
+      "artists": [
+        {
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+        }
+      ],
+      "duration_ms": 249612,
+      "name": "Miyako",
+      "url": "https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -79,22 +119,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Story Prologue EP",
-        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
-      },
-      "artists": [
-        {
-          "name": "Juche",
-          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
-        }
-      ],
-      "duration_ms": 249612,
-      "name": "Miyako",
-      "url": "https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Daydreaming!",
         "url": "https://open.spotify.com/album/58frgUFNqkmg5TFkRimvRZ"
       },
@@ -107,6 +131,30 @@
       "duration_ms": 295652,
       "name": "Daydreaming!",
       "url": "https://open.spotify.com/track/7LEo06cGJyKFwhpSuiGzBC"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Rando",
+          "url": "https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 193865,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/0JN3OE3SSJdzi3KvUx0xiS"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -145,6 +193,42 @@
       "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Story Prologue EP",
+        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
+      },
+      "artists": [
+        {
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+        }
+      ],
+      "duration_ms": 212584,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/5GW3F4v5PJr4A9l2Fbs40G"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "Animadrop",
+          "url": "https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 376800,
+      "name": "Fragile Self",
+      "url": "https://open.spotify.com/track/4Kb8imzv3qKW11smbXrXkt"
+    },
+    {
       "added_at": "2022-09-08 15:06:36",
       "album": {
         "name": "The Moment I Met You",
@@ -163,6 +247,26 @@
       "duration_ms": 240400,
       "name": "The Moment I Met You",
       "url": "https://open.spotify.com/track/0sq8PLkApwedg1W9Qwam8F"
+    },
+    {
+      "added_at": "2022-09-09 17:53:02",
+      "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Nothing's Perfect",
+      "url": "https://open.spotify.com/track/4lYIlQcx8vWpKQAHLNwKdE"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -185,6 +289,46 @@
       "url": "https://open.spotify.com/track/5iYouPpXrtpelj5SzsqBXi"
     },
     {
+      "added_at": "2022-09-09 20:30:35",
+      "album": {
+        "name": "XO Tour Llif3",
+        "url": "https://open.spotify.com/album/28dINuwG3JE6RPxTkbZ2Q7"
+      },
+      "artists": [
+        {
+          "name": "Dyzphoria",
+          "url": "https://open.spotify.com/artist/6SehYBqIfg08SBrc7Ydreg"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7mBXbW1sDFjhAgvDcSp0MD"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "T-Mass",
+          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
+        },
+        {
+          "name": "Krysta Youngs",
+          "url": "https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Regret It",
+      "url": "https://open.spotify.com/track/4B0jh5LyfWZQLvtEzFDQyr"
+    },
+    {
       "added_at": "2022-09-07 18:21:02",
       "album": {
         "name": "Kingdom",
@@ -199,30 +343,6 @@
       "duration_ms": 138352,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/11DBes9epIJZpSHCJToG9i"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Rando",
-          "url": "https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 193865,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/0JN3OE3SSJdzi3KvUx0xiS"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -243,18 +363,18 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx"
+        "name": "Story Prologue EP",
+        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
       },
       "artists": [
         {
-          "name": "Sidewalks and Skeletons",
-          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
         }
       ],
-      "duration_ms": 172048,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM"
+      "duration_ms": 236325,
+      "name": "Looking For Us",
+      "url": "https://open.spotify.com/track/0GSZ8cs7lQvV0FeY4VlLOB"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -275,6 +395,46 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "duration_ms": 172048,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM"
+    },
+    {
+      "added_at": "2022-09-09 17:56:30",
+      "album": {
+        "name": "Chemicals (Remix)",
+        "url": "https://open.spotify.com/album/4YwQ3ECvPNLVBWjvv6KE81"
+      },
+      "artists": [
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 154434,
+      "name": "Chemicals - Remix",
+      "url": "https://open.spotify.com/track/7b0s7YrkrtOuGPODdOOSc4"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
         "name": "Story Prologue EP",
         "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
       },
@@ -284,9 +444,29 @@
           "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
         }
       ],
-      "duration_ms": 212584,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/5GW3F4v5PJr4A9l2Fbs40G"
+      "duration_ms": 171178,
+      "name": "SPAM",
+      "url": "https://open.spotify.com/track/20I6rSlG7vXp1FQn5EuWQD"
+    },
+    {
+      "added_at": "2022-09-09 17:54:04",
+      "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 152335,
+      "name": "ATMOSPHERE",
+      "url": "https://open.spotify.com/track/6R2BsW0RbFAweX384j5hqa"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -327,6 +507,26 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "Matstubs",
+          "url": "https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Golden Ticket",
+      "url": "https://open.spotify.com/track/66Uf5wWeuWHCodwoFy1uXX"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT"
       },
@@ -363,6 +563,22 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0QCWRcBWvAqXjAHh0tFQkP"
+      },
+      "artists": [
+        {
+          "name": "Aekae",
+          "url": "https://open.spotify.com/artist/2YXVRXrYHVJrC5P1eTGYSu"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/00QctTgvparNNWBckHPy6b"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/7iFsrrfHiePDh8GK5T2upj"
       },
@@ -395,22 +611,6 @@
       "duration_ms": 146400,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/2n117fBCTe4gj22OdvuQcf"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Story Prologue EP",
-        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
-      },
-      "artists": [
-        {
-          "name": "Juche",
-          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
-        }
-      ],
-      "duration_ms": 236325,
-      "name": "Looking For Us",
-      "url": "https://open.spotify.com/track/0GSZ8cs7lQvV0FeY4VlLOB"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -495,58 +695,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Story Prologue EP",
-        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
-      },
-      "artists": [
-        {
-          "name": "Juche",
-          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
-        }
-      ],
-      "duration_ms": 171178,
-      "name": "SPAM",
-      "url": "https://open.spotify.com/track/20I6rSlG7vXp1FQn5EuWQD"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2"
-      },
-      "artists": [
-        {
-          "name": "Jake Daniels",
-          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "Animadrop",
-          "url": "https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 376800,
-      "name": "Fragile Self",
-      "url": "https://open.spotify.com/track/4Kb8imzv3qKW11smbXrXkt"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT"
       },
@@ -559,30 +707,6 @@
       "duration_ms": 166400,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/6TwqoMt1hWWBZ06YNqQU3n"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Science (feat. Sarah de Warren)",
-        "url": "https://open.spotify.com/album/5CAaKTXlne0ArJvvI0MI5C"
-      },
-      "artists": [
-        {
-          "name": "Player1",
-          "url": "https://open.spotify.com/artist/531qdIZUdxxz8LQ4j63zTP"
-        },
-        {
-          "name": "ELYX",
-          "url": "https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 144461,
-      "name": "Science (feat. Sarah de Warren)",
-      "url": "https://open.spotify.com/track/2onWmDFkZxBrOHC8q0kmJN"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -623,6 +747,22 @@
       "duration_ms": 136562,
       "name": "Not The One",
       "url": "https://open.spotify.com/track/77KHZgfInRZq2FJcDOBkKx"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Story Prologue EP",
+        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
+      },
+      "artists": [
+        {
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+        }
+      ],
+      "duration_ms": 222622,
+      "name": "Now Infinity",
+      "url": "https://open.spotify.com/track/68hrk6khCIlJTFKgsr1sCN"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -691,22 +831,6 @@
       "duration_ms": 303882,
       "name": "Walk Me Home - Blanke Remix",
       "url": "https://open.spotify.com/track/3DWH2ElS137GfWMzGcXVp2"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Story Prologue EP",
-        "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
-      },
-      "artists": [
-        {
-          "name": "Juche",
-          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
-        }
-      ],
-      "duration_ms": 222622,
-      "name": "Now Infinity",
-      "url": "https://open.spotify.com/track/68hrk6khCIlJTFKgsr1sCN"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -787,26 +911,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "O.G.",
-        "url": "https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Foramic",
-          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "O.G.",
-      "url": "https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/7okjJhBfyej0TyzxbZRqXg"
       },
@@ -871,26 +975,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "Matstubs",
-          "url": "https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Golden Ticket",
-      "url": "https://open.spotify.com/track/66Uf5wWeuWHCodwoFy1uXX"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Story Prologue EP",
         "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
       },
@@ -903,6 +987,30 @@
       "duration_ms": 233156,
       "name": "Call For Liberty",
       "url": "https://open.spotify.com/track/0cdXb2pnXT6H4Sjl8clMjJ"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        },
+        {
+          "name": "Pryzms",
+          "url": "https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 166821,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/6oGDyyUzQzTa1JtInKONav"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -951,30 +1059,6 @@
       "duration_ms": 138305,
       "name": "Pissed Off",
       "url": "https://open.spotify.com/track/6cGqGZTaZWEA4uCTy2fadR"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "T-Mass",
-          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
-        },
-        {
-          "name": "Krysta Youngs",
-          "url": "https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Regret It",
-      "url": "https://open.spotify.com/track/4B0jh5LyfWZQLvtEzFDQyr"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -1079,6 +1163,26 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "Haterade",
+          "url": "https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 185473,
+      "name": "Go Off",
+      "url": "https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
         "name": "Sentiment (The Remixes)",
         "url": "https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V"
       },
@@ -1163,30 +1267,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        },
-        {
-          "name": "Pryzms",
-          "url": "https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 166821,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/6oGDyyUzQzTa1JtInKONav"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Sentiment (The Remixes)",
         "url": "https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V"
       },
@@ -1247,26 +1327,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/1Y9OYsH0h1h0tw5fHoVqSf"
-      },
-      "artists": [
-        {
-          "name": "NO-VA",
-          "url": "https://open.spotify.com/artist/2xHpcZJHhiVAvhoHa1ANrI"
-        },
-        {
-          "name": "UNDY",
-          "url": "https://open.spotify.com/artist/3WblVrC43yUgW8cVFeVEuQ"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/7x9wHXfhDr63mFJJC0efxw"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Cravin' (Remixed)",
         "url": "https://open.spotify.com/album/6738nMdDfyV8pkCqIzByN2"
       },
@@ -1283,6 +1343,30 @@
       "duration_ms": 204000,
       "name": "Cravin' (Remixed)",
       "url": "https://open.spotify.com/track/52r9wJvMNhueIKRKDqNLr9"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "Osias",
+          "url": "https://open.spotify.com/artist/7j1BTr4Qn3umJ2xK15ZFtn"
+        },
+        {
+          "name": "Ivoryghost",
+          "url": "https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 210824,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -1379,66 +1463,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "Haterade",
-          "url": "https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 185473,
-      "name": "Go Off",
-      "url": "https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Pariseo",
-        "url": "https://open.spotify.com/album/5KOp4m9QBrWAAs0PIGdz5I"
-      },
-      "artists": [
-        {
-          "name": "Reggio",
-          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
-        },
-        {
-          "name": "Bonavita",
-          "url": "https://open.spotify.com/artist/4e4QDiHynCIDhrNa6b7aSu"
-        }
-      ],
-      "duration_ms": 165794,
-      "name": "Pariseo",
-      "url": "https://open.spotify.com/track/4xtZX2sfj6BtWtP69Hs3SV"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "UNIVERSE",
-        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "Courtney Paige Nelson",
-          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
-        }
-      ],
-      "duration_ms": 245828,
-      "name": "See You Go",
-      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k"
       },
@@ -1475,6 +1499,26 @@
       "duration_ms": 197735,
       "name": "The Uprising",
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
+    },
+    {
+      "added_at": "2022-09-07 18:21:02",
+      "album": {
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
+      },
+      "artists": [
+        {
+          "name": "onumi",
+          "url": "https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 280902,
+      "name": "LimitBreaker",
+      "url": "https://open.spotify.com/track/1Fx6Ho3ucWViV1Tbi8twjJ"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -1527,34 +1571,30 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Got Me Feeling",
-        "url": "https://open.spotify.com/album/1taoqWNz3N5zFkfxZWoWFe"
+        "name": "Dime A Dozen",
+        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
       },
       "artists": [
         {
-          "name": "JAIDPIT",
-          "url": "https://open.spotify.com/artist/7K5XMvoNRHcieSixBJIQ9G"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Got Me Feeling",
-      "url": "https://open.spotify.com/track/50xpT0nYSH9p0viSZBLDv1"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/0QCWRcBWvAqXjAHh0tFQkP"
-      },
-      "artists": [
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU"
+        },
         {
-          "name": "Aekae",
-          "url": "https://open.spotify.com/artist/2YXVRXrYHVJrC5P1eTGYSu"
+          "name": "SL!DE",
+          "url": "https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc"
+        },
+        {
+          "name": "MCTR",
+          "url": "https://open.spotify.com/artist/2VpQ8zzDQwLxYQw5F2HaWk"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
         }
       ],
-      "duration_ms": 198857,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/00QctTgvparNNWBckHPy6b"
+      "duration_ms": 140307,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/5Tv8R4UVY2mtlm5YC4CTCK"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -1599,30 +1639,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "Osias",
-          "url": "https://open.spotify.com/artist/7j1BTr4Qn3umJ2xK15ZFtn"
-        },
-        {
-          "name": "Ivoryghost",
-          "url": "https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 210824,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Sentiment (The Remixes)",
         "url": "https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V"
       },
@@ -1643,6 +1659,26 @@
       "duration_ms": 209500,
       "name": "Blue Eternal - Skybreak Remix",
       "url": "https://open.spotify.com/track/223miAuvPglxMglcSJdUxo"
+    },
+    {
+      "added_at": "2022-09-09 18:13:32",
+      "album": {
+        "name": "Need You Back",
+        "url": "https://open.spotify.com/album/6bgSbajtMejBA4yHlbb8HA"
+      },
+      "artists": [
+        {
+          "name": "2nd Life",
+          "url": "https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab"
+        },
+        {
+          "name": "ben haydn",
+          "url": "https://open.spotify.com/artist/6hhSMFSre2tzsoKtm3slxB"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "Need You Back",
+      "url": "https://open.spotify.com/track/1KwIrJg96RHokyebJ0cn5i"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -1679,26 +1715,6 @@
       "duration_ms": 144000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/1zTFhJgWMORxvvRyTywWqX"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "onumi",
-          "url": "https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 280902,
-      "name": "LimitBreaker",
-      "url": "https://open.spotify.com/track/1Fx6Ho3ucWViV1Tbi8twjJ"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -1811,58 +1827,6 @@
       "duration_ms": 188764,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "Lenny",
-          "url": "https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU"
-        },
-        {
-          "name": "SL!DE",
-          "url": "https://open.spotify.com/artist/1lKzr6x82kX0Rb7t3Slskc"
-        },
-        {
-          "name": "MCTR",
-          "url": "https://open.spotify.com/artist/2VpQ8zzDQwLxYQw5F2HaWk"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/5Tv8R4UVY2mtlm5YC4CTCK"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Sentiment (The Remixes)",
-        "url": "https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        },
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Legacy - Mazare Remix",
-      "url": "https://open.spotify.com/track/4hk26xhwCDy09hxv5Pt60Y"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -2163,22 +2127,6 @@
     {
       "added_at": "2022-09-07 18:21:02",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Fuck U Love U",
-      "url": "https://open.spotify.com/track/33JtWDrMyTFRQTioosQwtg"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/4x9hFPLf32q0J3kMHpOFLy"
       },
@@ -2215,22 +2163,6 @@
       "duration_ms": 224000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a"
-    },
-    {
-      "added_at": "2022-09-07 18:21:02",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/0jQFksbr0abnIxMJFxSitd"
-      },
-      "artists": [
-        {
-          "name": "Bloom Line",
-          "url": "https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/2xwOqFwANa6Emye6KlkgHT"
     },
     {
       "added_at": "2022-09-07 18:21:02",

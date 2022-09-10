@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,254 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,326 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 13 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
 | 14 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 |
 | 15 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
-| 16 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
-| 17 | [Shake Your Body \(Down to the Ground\) \- 7" Version](https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny \(Expanded Version\)](https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy) | 3:47 |
+| 16 | [Shake Your Body \(Down to the Ground\) \- 7" Version](https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny \(Expanded Version\)](https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy) | 3:47 |
+| 17 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
 | 18 | [A Night to Remember](https://open.spotify.com/track/2xsXNMfcKLQxL5sQq4v7gH) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [The 12 Inch Collection](https://open.spotify.com/album/3sY9MPqUb0mSj1sujVdLZc) | 4:59 |
 | 19 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 |
 | 20 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 33 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 5:34 |
 | 34 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
 | 35 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
-| 36 | [Friends](https://open.spotify.com/track/6TzkJUYcxbSHMiVYz3HpKl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 5:00 |
-| 37 | [Ojah Awake](https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 4:52 |
+| 36 | [Ojah Awake](https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 4:52 |
+| 37 | [Friends](https://open.spotify.com/track/6TzkJUYcxbSHMiVYz3HpKl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 5:00 |
 | 38 | [Don't Let My Rainbow Pass Me By](https://open.spotify.com/track/5F030QnPpy1nMh8UmlHdKD) | [Cloud One](https://open.spotify.com/artist/2B9FE4FTPCJ7W8DrF5wkve), [Margo Williams](https://open.spotify.com/artist/1EzQ066WkkULCd4TByuEqd) | [Spaced Out: The Very Best of Cloud One](https://open.spotify.com/album/3rPJAH1VcOILbQIwfy7Rfz) | 4:40 |
 | 39 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
 | 40 | [Sugar Cnane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 42 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
 | 43 | [Desires](https://open.spotify.com/track/1BWnAnHrIjRsOb4F9xC0P7) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/0h58dYQtgHRiW9GQbBhmKY) | 6:51 |
 | 44 | [Love for the Sake of Love](https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku) | [Claudia Barry](https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:27 |
-| 45 | [Going Back to My Roots](https://open.spotify.com/track/3Ls5qhpvs46HkG12xCh3bD) | [Lamont Dozier](https://open.spotify.com/artist/6Dpx8fRtNa9CEORHIiBQTG) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:38 |
-| 46 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 |
+| 45 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 |
+| 46 | [Going Back to My Roots](https://open.spotify.com/track/3Ls5qhpvs46HkG12xCh3bD) | [Lamont Dozier](https://open.spotify.com/artist/6Dpx8fRtNa9CEORHIiBQTG) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:38 |
 | 47 | [Jingo](https://open.spotify.com/track/1C9XAjzr0pd1yE76TD3FM3) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 6:12 |
 | 48 | [The Hustle \- Original Mix](https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:10 |
 | 49 | [Let Me Love You](https://open.spotify.com/track/2omcm8YdAMlVWcxhJo9tQG) | [Bunny Mack](https://open.spotify.com/artist/2JZu13wsOrKnWcYukpE1pQ) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 7:49 |
 | 50 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 
-Snapshot ID: `MTU2MTc0MDc2OCwwMDAwMDAwMDFiMzlmY2M4MWQ3MzM3ZTFhYzI0ZWQ2NWE1ZmE2MWVl`
+Snapshot ID: `MTU2MTc0MDc2OCwwMDAwMDAwMDIzMTU0ZDgwMTFiZDkwZWZhNTExZGY2NGQ1ZGU1NjAz`

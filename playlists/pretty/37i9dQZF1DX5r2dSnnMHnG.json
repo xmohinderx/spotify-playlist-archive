@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2854,
+  "num_followers": 2858,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDdlOWNiODdmZWNlNjExNDJhZTlhODllMTE3ZWNhMmI2",
+  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDkzMWU3MGQyZDZlZjFlMTQ0ZWM3OWNmMzA3YzIyMjUz",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Reason (Vocal by Kim Seonho)",
-        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
-      },
-      "artists": [
-        {
-          "name": "Epitone Project",
-          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Reason (Vocal by Kim Seonho)",
-      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "I'LL BE YOUR SPRING",
         "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 189664,
       "name": "I'LL BE YOUR SPRING",
       "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Reason (Vocal by Kim Seonho)",
+        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Reason (Vocal by Kim Seonho)",
+      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "re:",
-        "url": "https://open.spotify.com/album/1TyUFUPamqpfCRft1ktNEo"
+        "name": "AFTER THE LIGHT",
+        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
         }
       ],
-      "duration_ms": 226817,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/21JDHGLBvy8ufJXVtaDkPq"
+      "duration_ms": 194453,
+      "name": "AFTER THE LIGHT",
+      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "AFTER THE LIGHT",
-        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+        "name": "re:",
+        "url": "https://open.spotify.com/album/1TyUFUPamqpfCRft1ktNEo"
       },
       "artists": [
         {
-          "name": "Kang Butter",
-          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 194453,
-      "name": "AFTER THE LIGHT",
-      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+      "duration_ms": 226817,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/21JDHGLBvy8ufJXVtaDkPq"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Fling at Convenience Store (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "A daily adventurer",
-        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Where the Wind Rises",
-      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
+        "name": "A daily adventurer",
+        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
       },
       "artists": [
         {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
         }
       ],
-      "duration_ms": 173880,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+      "duration_ms": 204053,
+      "name": "Where the Wind Rises",
+      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "blooming",
+        "url": "https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3"
+      },
+      "artists": [
+        {
+          "name": "Kim Marie",
+          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "blooming",
+      "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "blooming",
-        "url": "https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3"
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd"
       },
       "artists": [
         {
-          "name": "Kim Marie",
-          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
         }
       ],
-      "duration_ms": 239880,
-      "name": "blooming",
-      "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
+      "duration_ms": 215981,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1255,22 +1271,6 @@
       "duration_ms": 181680,
       "name": "OH NONONO",
       "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd"
-      },
-      "artists": [
-        {
-          "name": "Motte",
-          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
     },
     {
       "added_at": "2022-09-05 15:56:48",

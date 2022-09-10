@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: John Legend
 
-164 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+165 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-06-08 | 2022-07-15 |
 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-06-08 |  |
 | [Great Things](https://open.spotify.com/track/5ROfDn4KzIvbXdRj8BTGB8) | [Van Siian](https://open.spotify.com/artist/0SwcwKadddF2A0gHCeyJMQ) | [Great Things](https://open.spotify.com/album/5h4H2dJGRfGLy0CZc3ZDag) | 3:20 | 2022-08-25 |  |
+| [handbook](https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [handbook](https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC) | 3:15 | 2022-09-08 |  |
 | [Handle Me Gently](https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4) | 3:01 | 2022-07-21 | 2022-08-05 |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-21 | 2022-08-19 |
 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 | 2022-06-08 |  |

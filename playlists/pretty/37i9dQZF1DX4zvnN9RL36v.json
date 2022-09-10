@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2511,
+  "num_followers": 2539,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDg1OGM5MDg2OGI5NGQ5NWFmNGU4MjJkYzg1Mjg3Zjc5",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDg0ZjIzZTU4YjI5NDQzNTZiYTEwYzk2YTA1ZTNkZDMw",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
+        "name": "Stand alone",
+        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "please love her",
+      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Stand alone",
-        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+        "name": "I hope I cross your mind",
+        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
       },
       "artists": [
         {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
         }
       ],
-      "duration_ms": 259213,
-      "name": "please love her",
-      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+      "duration_ms": 216066,
+      "name": "I hope I cross your mind",
+      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -299,22 +315,6 @@
       "duration_ms": 320055,
       "name": "Druken Truth",
       "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "I hope I cross your mind",
-        "url": "https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I hope I cross your mind",
-      "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -383,22 +383,18 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Da Capo",
-        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "Toy",
-          "url": "https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 267640,
-      "name": "She Said (With Kwon Jin Ah)",
-      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
+      "duration_ms": 243037,
+      "name": "mistaken",
+      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -419,18 +415,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "Toy",
+          "url": "https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 243037,
-      "name": "mistaken",
-      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
+      "duration_ms": 267640,
+      "name": "She Said (With Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -615,22 +615,18 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Jewel (feat. KURO)",
-        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
+        "name": "19to20",
+        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
       },
       "artists": [
         {
-          "name": "Sumsher",
-          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
-        },
-        {
-          "name": "KURO",
-          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 181377,
-      "name": "Jewel (feat. KURO)",
-      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
+      "duration_ms": 219440,
+      "name": "to him",
+      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -651,18 +647,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "19to20",
-        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
+        "name": "Jewel (feat. KURO)",
+        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
         }
       ],
-      "duration_ms": 219440,
-      "name": "to him",
-      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
+      "duration_ms": 181377,
+      "name": "Jewel (feat. KURO)",
+      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Fit Me",
-        "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
-      },
-      "artists": [
-        {
-          "name": "Vanilla Acoustic",
-          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
-        }
-      ],
-      "duration_ms": 250495,
-      "name": "I Ain't Over",
-      "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Subtitle",
         "url": "https://open.spotify.com/album/3b7lh3a4DfFxPCCKm7baGT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194563,
       "name": "Zzack sarang",
       "url": "https://open.spotify.com/track/3mvnSG5sJLUTHiyXap5xgo"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Fit Me",
+        "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        }
+      ],
+      "duration_ms": 250495,
+      "name": "I Ain't Over",
+      "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
     },
     {
       "added_at": "2022-08-18 14:25:32",

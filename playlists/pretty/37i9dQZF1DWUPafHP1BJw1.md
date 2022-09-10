@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,119 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,381 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 45 | [Believer](https://open.spotify.com/track/6Vnejeh0h9zCY0qrLAxKal) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Believer](https://open.spotify.com/album/0WC1s9ctdfec7tGbp2fuCN) | 3:40 |
 | 46 | [Break My Heart \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1dTjB9y2xJke2FwVCCVEwa) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Break My Heart \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/1jUuXQfOc3JjZrsEidfGOH) | 3:35 |
 | 47 | [ROCKSTAR](https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ROCKSTAR](https://open.spotify.com/album/320h3om9QXkhhX05vDU5T6) | 3:04 |
-| 48 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 |
+| 48 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 |
 | 49 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 |
 | 50 | [Shallow \- Piano Version](https://open.spotify.com/track/2TVtbMZR9r2nxI7XAnhxbF) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Shallow \(Piano Version\)](https://open.spotify.com/album/0VmNjm95rxyjhzwJiT3bhE) | 4:18 |
 | 51 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 |

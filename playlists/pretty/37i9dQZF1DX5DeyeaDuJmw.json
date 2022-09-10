@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 111256,
+  "num_followers": 111459,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDhhY2NlYTZlYzY3NjFmOGFiZWM2MDczN2IxYTZjMWE4",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDNhY2E3ZTcyYzkyYjFjYjAzYWM1MmRlNjYwOGUyODk1",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "En El Jacuzzi",
-        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "En El Jacuzzi",
-      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Gargolas 3",
         "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 170004,
       "name": "Donde Estan las Gatas",
       "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "En El Jacuzzi",
+        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "En El Jacuzzi",
+      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -983,26 +983,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Cu4tro",
-        "url": "https://open.spotify.com/album/20Eimnv9BdL7PQ1WGnbQX3"
+        "name": "Tussi",
+        "url": "https://open.spotify.com/album/4PCoivnY82jomNXqvOkEhC"
       },
       "artists": [
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "ARON",
-          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 249854,
-      "name": "Cu4tro",
-      "url": "https://open.spotify.com/track/68V31zQa7VOH4P99PMeBna"
+      "duration_ms": 189466,
+      "name": "Tussi",
+      "url": "https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1071,30 +1075,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Tussi",
-        "url": "https://open.spotify.com/album/4PCoivnY82jomNXqvOkEhC"
+        "name": "Cu4tro",
+        "url": "https://open.spotify.com/album/20Eimnv9BdL7PQ1WGnbQX3"
       },
       "artists": [
         {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "ARON",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Tussi",
-      "url": "https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn"
+      "duration_ms": 249854,
+      "name": "Cu4tro",
+      "url": "https://open.spotify.com/track/68V31zQa7VOH4P99PMeBna"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Christian Dior",
+        "url": "https://open.spotify.com/album/4qLn9tjRhGQLjImUMTjOMz"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/4jOBQxq4Ffd8DDrsN4wPOR"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "INMORTALES",
         "url": "https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 155000,
       "name": "TOTA",
       "url": "https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Christian Dior",
-        "url": "https://open.spotify.com/album/4qLn9tjRhGQLjImUMTjOMz"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Christian Dior",
-      "url": "https://open.spotify.com/track/4jOBQxq4Ffd8DDrsN4wPOR"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
+        "name": "Sola & Vac\u00eda",
+        "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
       },
       "artists": [
         {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
         },
         {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 217263,
-      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
+      "duration_ms": 182675,
+      "name": "Sola & Vac\u00eda",
+      "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Sola & Vac\u00eda",
-        "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
+        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
       },
       "artists": [
         {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
         }
       ],
-      "duration_ms": 182675,
-      "name": "Sola & Vac\u00eda",
-      "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
+      "duration_ms": 217263,
+      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Tussi Code Mari",
+        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Crismj",
+          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
+        }
+      ],
+      "duration_ms": 172390,
+      "name": "Tussi Code Mari",
+      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 220310,
       "name": "It's a Vibe",
       "url": "https://open.spotify.com/track/6HvD8JhIe9Mq6gyql32rYb"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Tussi Code Mari",
-        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Crismj",
-          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
-        }
-      ],
-      "duration_ms": 172390,
-      "name": "Tussi Code Mari",
-      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Pikete",
-        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "Pikete",
-      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Pa\u00b4 Mi Casa",
         "url": "https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Pikete",
+        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "Pikete",
+      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1991,6 +1991,30 @@
       "duration_ms": 184535,
       "name": "XULITA (feat. Kaydy Cain)",
       "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Baby Drip",
+        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Baby Drip",
+      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2099,30 +2123,6 @@
       "duration_ms": 172054,
       "name": "Coraz\u00f3n Ego\u00edsta",
       "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Baby Drip",
-        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Baby Drip",
-      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
     },
     {
       "added_at": "2022-08-26 04:01:00",

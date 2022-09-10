@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 3885,
+  "num_followers": 3890,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMGQxNWMzMDA1NTIzMmEyNzNjODEyMjViMTEzZGM5Yzdm",
+  "snapshot_id": "MTY2MjcxNTE3MiwwMDAwMDAwMDM5NmQwNTlhZGRkMmIxODQwNWRmZDU2NTMxN2I3NGNh",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -83,6 +83,26 @@
       "duration_ms": 190557,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
+    },
+    {
+      "added_at": "2022-09-09 09:19:32",
+      "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/2W90ihxyThRpceuy94iejV"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -361,42 +381,6 @@
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
     },
     {
-      "added_at": "2022-02-11 00:00:00",
-      "album": {
-        "name": "Worst Day",
-        "url": "https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Worst Day",
-      "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
-    },
-    {
-      "added_at": "2021-10-01 05:37:36",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
       "added_at": "2021-08-13 00:00:00",
       "album": {
         "name": "We're All Alone In This Together",
@@ -415,6 +399,22 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+    },
+    {
+      "added_at": "2022-02-11 00:00:00",
+      "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
     },
     {
       "added_at": "2021-08-20 00:00:00",
@@ -437,24 +437,44 @@
       "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
     },
     {
-      "added_at": "2021-12-09 23:01:00",
+      "added_at": "2021-10-01 05:37:36",
       "album": {
-        "name": "Second Sermon (Remix)",
-        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2022-08-05 07:55:34",
@@ -481,24 +501,24 @@
       "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2021-12-09 23:01:00",
       "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+        "name": "Second Sermon (Remix)",
+        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
           "name": "Black Sherif",
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
       "added_at": "2021-10-01 05:37:36",
@@ -561,6 +581,22 @@
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
+      "added_at": "2022-02-11 00:00:00",
+      "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Bigger Than Life",
@@ -579,22 +615,6 @@
       "duration_ms": 160106,
       "name": "Bigger Than Life",
       "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
-    },
-    {
-      "added_at": "2022-02-11 00:00:00",
-      "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
     },
     {
       "added_at": "2021-09-09 23:00:00",
@@ -745,26 +765,6 @@
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
-    },
-    {
       "added_at": "2022-04-07 23:00:00",
       "album": {
         "name": "Neck & Wrist",
@@ -787,6 +787,26 @@
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
+    },
+    {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
     },
     {
       "added_at": "2021-06-25 00:00:00",
@@ -823,22 +843,6 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB"
-    },
-    {
-      "added_at": "2021-06-07 14:17:55",
-      "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -881,24 +885,20 @@
       "url": "https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2021-06-07 14:17:55",
       "album": {
-        "name": "Unload",
-        "url": "https://open.spotify.com/album/7iY32OXu7HCehUpG7lC7jP"
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
       },
       "artists": [
         {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 230059,
-      "name": "Unload",
-      "url": "https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE"
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2021-09-17 04:29:51",
@@ -919,6 +919,26 @@
       "duration_ms": 258950,
       "name": "Loyal (feat. NSG)",
       "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Unload",
+        "url": "https://open.spotify.com/album/7iY32OXu7HCehUpG7lC7jP"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "duration_ms": 230059,
+      "name": "Unload",
+      "url": "https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE"
     },
     {
       "added_at": "2021-12-02 23:01:00",
@@ -991,30 +1011,6 @@
       "duration_ms": 154285,
       "name": "SKI",
       "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
-    },
-    {
-      "added_at": "2022-04-07 23:00:00",
-      "album": {
-        "name": "Go German",
-        "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Go German",
-      "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
     }
   ],
   "unique_name": "Pump it Up ",

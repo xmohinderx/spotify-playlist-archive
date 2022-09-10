@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-831 songs - 1 day 21 hr 9 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+832 songs - 1 day 21 hr 11 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Rockstarai](https://open.spotify.com/track/1HBVbK5I2u0ZenTQfR8ikY) | [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Rockstarai](https://open.spotify.com/album/3eG60ZtevSxP4suerADKDu) | 2:18 | 2022-02-04 | 2022-02-09 |
 | [Rockstars](https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Anonymous Colonist \(Rockstars Edition\)](https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2) | 2:59 | 2022-05-16 | 2022-05-22 |
 | [Rojaus Obuoliukai](https://open.spotify.com/track/7J5J0RjBq1rz9vV2iBqDqd) | [Zoliukas](https://open.spotify.com/artist/5UMBDbfFBWCn8pNXjuJFco), [Saules Berniukas](https://open.spotify.com/artist/2BjNbf0PD04vy1UohantXO) | [Rojaus Obuoliukai](https://open.spotify.com/album/38k7fvht8IiZg8U86hZjWJ) | 3:31 | 2022-04-11 | 2022-06-17 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-09 |  |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2021-03-27\* | 2021-05-18 |
 | [ROY](https://open.spotify.com/track/6LNh8bS8eDpNw5SKxTDFEJ) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:52 | 2022-08-27 | 2022-09-05 |
 | [Rugpjūtis](https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Rugpjūtis](https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO) | 2:42 | 2021-07-11 |  |
@@ -699,7 +700,7 @@
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-06-27 | 2021-06-28 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-06-23 |
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool \- EP](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:27 | 2021-11-30 | 2022-01-20 |
-| [SYPSENA VEIDE \(feat\. Proflame\)](https://open.spotify.com/track/64pRdXe9ySW0N0Pgd3nGQJ) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:48 | 2022-08-26 |  |
+| [SYPSENA VEIDE \(feat\. Proflame\)](https://open.spotify.com/track/64pRdXe9ySW0N0Pgd3nGQJ) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:48 | 2022-08-26 | 2022-09-10 |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 | 2021-05-16 | 2021-05-17 |
 | [Taip Jau Gavosi](https://open.spotify.com/track/6lBIEqVATQY9RbEHl0uHCr) | [Sisters On Wire](https://open.spotify.com/artist/5qrcz3CEizRZbHHqWomu9O) | [Taip Jau Gavosi](https://open.spotify.com/album/4JSMfg9oPo3lqbDqjA1AYM) | 3:10 | 2021-03-29 | 2021-07-29 |
 | [Take Me Out \- Live](https://open.spotify.com/track/3t8zZT7wYJKel10HgAE6tg) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [X Factor 2017 Live Show \#5](https://open.spotify.com/album/5XOF2hdAFZc6c68hA3PYhc) | 1:31 | 2021-05-27 | 2021-06-06 |

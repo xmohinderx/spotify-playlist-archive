@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop!
 
-476 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
+477 songs - 1 day 0 hr 33 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [Tequila Sunrise](https://open.spotify.com/track/0al81Dn0GProyhQ9gO2v2I) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Tequila Sunrise](https://open.spotify.com/album/2q5lFLZBtlwQb7L3sVa6wM) | 2:59 | 2022-04-04 | 2022-04-13 |
 | [TG4M \- Spotify Studios Recording](https://open.spotify.com/track/4A8UGOAh2OYM6hn6tTI95H) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Studio It's Hits](https://open.spotify.com/album/1qneSSXVWC2tIkueGNbHp3) | 2:23 | 2022-03-25 | 2022-04-20 |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2022-06-24 |  |
-| [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-08 |  |
+| [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:24 | 2022-04-08 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-02-18 |  |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2022-03-25 | 2022-04-18 |
 | [The Difference](https://open.spotify.com/track/5Cbc3v4DKzrwQAv3hlA9Hn) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [The Difference](https://open.spotify.com/album/6xgSmmAAK2Yd0kLYUelbYk) | 3:30 | 2022-03-25 | 2022-04-20 |
@@ -430,6 +430,7 @@
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2022-03-25 | 2022-04-20 |
 | [this is growing up](https://open.spotify.com/track/7svLJ45Nbmhpa1MbVFyZ70) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [this is growing up](https://open.spotify.com/album/7kuxPRsE5lNZhVE2ERfLjL) | 3:04 | 2022-03-25 | 2022-04-17 |
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2022-03-25 |  |
+| [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 | 2022-08-24 |  |
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-04-04 | 2022-04-21 |
 | [Time I Love To Waste](https://open.spotify.com/track/0yQj6jvxjDYWkjZor9UezX) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love To Waste](https://open.spotify.com/album/6xS2tk8vwMQeCGZ8s8VJdV) | 3:17 | 2022-04-04 | 2022-04-11 |
 | [Time Machine](https://open.spotify.com/track/4vP1DbZq2mVdP5y3lI886c) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Greatest Hits Vol\. 1](https://open.spotify.com/album/30WNa86MJsrzTlki1YHI6A) | 2:46 | 2022-03-25 | 2022-04-19 |
@@ -464,7 +465,7 @@
 | [WhoWho](https://open.spotify.com/track/68sThwPwwfp0Fb6zZ1ssWz) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [WhoWho](https://open.spotify.com/album/5DEOw8SSYtZGG3dbYEbLlJ) | 2:11 | 2022-03-25 | 2022-04-19 |
 | [Winter Rain](https://open.spotify.com/track/13PrnJqkkjRXXH6IExfR0W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Winter Rain](https://open.spotify.com/album/47KEaFmPWnIBlxVQzilSKO) | 4:18 | 2022-03-25 | 2022-04-18 |
 | [wisdom teeth](https://open.spotify.com/track/0eEcs8LmGk1TKfGgUiYosw) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [wisdom teeth](https://open.spotify.com/album/27HcSfqPn8Vrdy3Kjp0Or0) | 3:01 | 2022-03-25 | 2022-04-07 |
-| [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2022-04-04 |  |
+| [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2022-04-04 | 2022-09-10 |
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2022-02-18 | 2022-07-29 |
 | [Won't Sleep](https://open.spotify.com/track/3DBT2ar4v5DW6Dg1sLVb3Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Won't Sleep](https://open.spotify.com/album/1ca9Xo8Wl7zjHcBtjQ4Ugc) | 3:17 | 2022-03-25 | 2022-04-19 |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2022-02-18 | 2022-07-29 |

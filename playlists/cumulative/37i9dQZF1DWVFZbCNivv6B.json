@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 254000,
       "name": "Fe",
       "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 285500,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum"
@@ -2500,6 +2500,28 @@
     },
     {
       "album": {
+        "name": "Never Die",
+        "url": "https://open.spotify.com/album/69du1b7FFM6IdhbBW1M3zk"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158229,
+      "name": "Never Die",
+      "url": "https://open.spotify.com/track/4omKvTBmle0hUJ8rJTBhCh"
+    },
+    {
+      "album": {
         "name": "Ni Una M\u00e1s",
         "url": "https://open.spotify.com/album/6HHssxh9vYSne3MSswniGs"
       },
@@ -2808,6 +2830,24 @@
     },
     {
       "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201952,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
+    },
+    {
+      "album": {
         "name": "Perro Solitario",
         "url": "https://open.spotify.com/album/3xsYDHWlBi4XUvlR7Nfwjo"
       },
@@ -2927,7 +2967,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 269714,
       "name": "Polvo Blanco",
       "url": "https://open.spotify.com/track/5LuH2MoN2dsA3PAZvIJ6So"
@@ -3179,6 +3219,24 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bonita",
+        "url": "https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230416,
+      "name": "Qu\u00e9 Bonita",
+      "url": "https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F"
     },
     {
       "album": {

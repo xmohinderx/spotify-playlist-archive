@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto: Niko Eme",
+  "description": "Las mejores nuevas canciones cristianas.  Foto: Shammai",
   "name": "Novedades Cristianas",
   "published_playlist_ids": [
     "1KUPUNIHlkycouwTjzbQCF"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 316361,
       "name": "100K",
       "url": "https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A"
@@ -280,6 +280,24 @@
     },
     {
       "album": {
+        "name": "Acepta",
+        "url": "https://open.spotify.com/album/0VHRc2YBKViwWXQffw7Qpb"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473254,
+      "name": "Acepta",
+      "url": "https://open.spotify.com/track/5XJIavEw1BuKXzuOVNr944"
+    },
+    {
+      "album": {
         "name": "Ad\u00e1n y Eva",
         "url": "https://open.spotify.com/album/15WV6ls3yG94AQiaJvKDQt"
       },
@@ -299,6 +317,24 @@
       "duration_ms": 210739,
       "name": "Ad\u00e1n y Eva",
       "url": "https://open.spotify.com/track/3mB5zDZiCOexbIJ2USyNtI"
+    },
+    {
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/0PYYtz2EVulnRpGwRgY1uw"
+      },
+      "artists": [
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151094,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/7oXKYJXag5vjyZRuBXidpB"
     },
     {
       "album": {
@@ -1720,6 +1756,32 @@
     },
     {
       "album": {
+        "name": "Da\u00f1ar El Jangueo (Remix)",
+        "url": "https://open.spotify.com/album/6Zs8pHYSaQt64xXXQmJ3ZF"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Xerran",
+          "url": "https://open.spotify.com/artist/448V6RH5Nck3bpjG1l2EBS"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Da\u00f1ar El Jangueo (Remix)",
+      "url": "https://open.spotify.com/track/0I8zKI6mn3HrjoVXrPtvgN"
+    },
+    {
+      "album": {
         "name": "De Vuelta al Primer Amor",
         "url": "https://open.spotify.com/album/14skBuKMgi5MOfEISFnDhE"
       },
@@ -1851,7 +1913,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 212276,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/3u4jkJRTMTWvXBAPmUB9Zc"
@@ -2497,7 +2559,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 228150,
       "name": "El Se\u00f1or es mi Rey",
       "url": "https://open.spotify.com/track/1Q1wdUTQhCbngy0yq1KM1E"
@@ -2674,6 +2736,32 @@
     },
     {
       "album": {
+        "name": "Encontr\u00e9",
+        "url": "https://open.spotify.com/album/0GVj0pvjPLGkEygQkKOAY4"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475893,
+      "name": "Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2WlXjfsY2mZQxnMcKmHuAI"
+    },
+    {
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6dCJb6nxqhzSrNX8qL5QdB"
       },
@@ -2839,7 +2927,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 239063,
       "name": "Este Es Mi Tiempo",
       "url": "https://open.spotify.com/track/3Sge1EEIo3YeYa3SsgNXrw"
@@ -2869,6 +2957,28 @@
       "duration_ms": 201720,
       "name": "Ester",
       "url": "https://open.spotify.com/track/183xN4UmkP3WqyC8V7iFks"
+    },
+    {
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4nlGVkNoXtyBUfKmVxFHig"
+      },
+      "artists": [
+        {
+          "name": "Pablo Castillo",
+          "url": "https://open.spotify.com/artist/5hBGxPMpVMDR18oIFk11ap"
+        },
+        {
+          "name": "CDI RECORDS S.A.",
+          "url": "https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251718,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/2FD0Fsomk1ZfutgJh4U2Ng"
     },
     {
       "album": {
@@ -2913,6 +3023,28 @@
       "duration_ms": 248701,
       "name": "Feo pero Salvo feat. Albert Miliano",
       "url": "https://open.spotify.com/track/2PzVtMzk6wDoUeas8cMsLY"
+    },
+    {
+      "album": {
+        "name": "Fiel",
+        "url": "https://open.spotify.com/album/4zM7OVDuoWnX5PWnh0PTO8"
+      },
+      "artists": [
+        {
+          "name": "NewSpring Worship",
+          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
+        },
+        {
+          "name": "Charlee Buitrago",
+          "url": "https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328623,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7tEFVJ9gz30drRMeMCkvDF"
     },
     {
       "album": {
@@ -3339,7 +3471,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 225500,
       "name": "Gozo",
       "url": "https://open.spotify.com/track/6FGhI4d8FgLeAf1QG8k7Re"
@@ -3397,7 +3529,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 478225,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/72JMyu7H0bZ2nhidXtt1yY"
@@ -3503,7 +3635,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 225290,
       "name": "Grande Y Fuerte (Version Argentina)",
       "url": "https://open.spotify.com/track/4DRFcrsxnDI0PE0dbi6mUD"
@@ -3561,7 +3693,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 444275,
       "name": "Habitante de Tu Presencia",
       "url": "https://open.spotify.com/track/3XtsYXDhQB7IpglQPRVt9W"
@@ -3637,10 +3769,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 704231,
       "name": "Haz Lo Que Quieras",
       "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
+    },
+    {
+      "album": {
+        "name": "Heroe",
+        "url": "https://open.spotify.com/album/2MidMpkWfheBj3Ukql5L4C"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        },
+        {
+          "name": "Bani Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/22nH9EkYNfn8yJDXApp7MZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372437,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/5MR3eNoJ4EG06UzXD2Jikb"
     },
     {
       "album": {
@@ -3761,7 +3915,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 293773,
       "name": "Indescriptible",
       "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
@@ -3779,7 +3933,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 244793,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
@@ -4087,7 +4241,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 183984,
       "name": "La Tierra Clama",
       "url": "https://open.spotify.com/track/4LhABuxG0fOjW2bnR2hLpr"
@@ -4219,7 +4373,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 270388,
       "name": "Llama - Remix",
       "url": "https://open.spotify.com/track/2Vljoc3nf8IoCX1OYUxzIp"
@@ -4241,6 +4395,24 @@
       "duration_ms": 213674,
       "name": "Llamado de Clar\u00edn",
       "url": "https://open.spotify.com/track/3rPdvYXOn2MbeJm4H7rLvK"
+    },
+    {
+      "album": {
+        "name": "A d\u00f3nde ir\u00e9",
+        "url": "https://open.spotify.com/album/6sHr86HOqTRPQ9llNnk6A1"
+      },
+      "artists": [
+        {
+          "name": "Rigoberto Amaya",
+          "url": "https://open.spotify.com/artist/5c4d0pm4eI0no80Sd56d1b"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243565,
+      "name": "Llegaron los aleluyas",
+      "url": "https://open.spotify.com/track/22iHtuqeELsZ04PWkI5sf5"
     },
     {
       "album": {
@@ -4463,7 +4635,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 168493,
       "name": "Lo Que T\u00fa Digas",
       "url": "https://open.spotify.com/track/1IsJQPN3ZYz6C3FbFXTDuN"
@@ -4656,6 +4828,24 @@
     },
     {
       "album": {
+        "name": "Lugar De Rompimiento",
+        "url": "https://open.spotify.com/album/7kr3d8FYpaS7MDjPED8Qcr"
+      },
+      "artists": [
+        {
+          "name": "Yamilka",
+          "url": "https://open.spotify.com/artist/0fpgHrtIeF5g66x4zeI4S0"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 824419,
+      "name": "Lugar De Rompimiento",
+      "url": "https://open.spotify.com/track/7Fc2HpS7I7qHlvztdJCzdR"
+    },
+    {
+      "album": {
         "name": "Lugar Secreto",
         "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
       },
@@ -4667,7 +4857,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 404794,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/1iMCR8Y8cSmPF6SC95pRYJ"
@@ -4754,6 +4944,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1mpara Encendida (En Vivo)",
+        "url": "https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 686780,
+      "name": "L\u00e1mpara Encendida",
+      "url": "https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY"
+    },
+    {
+      "album": {
         "name": "El Hijo del Borracho",
         "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
@@ -4765,7 +4973,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 200636,
       "name": "Ma' Na",
       "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
@@ -4871,7 +5079,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 156190,
       "name": "Me Has Cambiado",
       "url": "https://open.spotify.com/track/0NSKiywwGZyL8dvvljO4Vi"
@@ -4981,7 +5189,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 271018,
       "name": "Me Sedujiste",
       "url": "https://open.spotify.com/track/02QkYuomjiIfpM7xtBKRpw"
@@ -5156,6 +5364,24 @@
     },
     {
       "album": {
+        "name": "Grito (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/61mFyFoNXNcSZ6dQgQMVWc"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/5BgogHj7prlIEJvEoTZhE4"
+    },
+    {
+      "album": {
         "name": "Grito",
         "url": "https://open.spotify.com/album/2tufF0iZC7thvWlhcwQrBG"
       },
@@ -5241,10 +5467,32 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 219878,
       "name": "Mi Eterno Destino - Live Session From Los Angeles",
       "url": "https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB"
+    },
+    {
+      "album": {
+        "name": "Mi Lugar Es Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2HkP8Rq4hiDh7QEuhOSe7r"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Daniel Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/5ddc6O8wLY6VVXCuUhK0ff"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296808,
+      "name": "Mi Lugar Es Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7DKyZ3vvmilx3FXgFAzLXx"
     },
     {
       "album": {
@@ -5611,7 +5859,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 180173,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
@@ -5901,7 +6149,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 186660,
       "name": "NO ME MOVER\u00c9",
       "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
@@ -5919,7 +6167,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 195666,
       "name": "No Me Podr\u00e1n Vencer",
       "url": "https://open.spotify.com/track/3VFTgNHEF5ygBqVOQrOoeO"
@@ -6763,7 +7011,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 261953,
       "name": "Raz\u00f3n de Vivir - Danny Berrios Remix",
       "url": "https://open.spotify.com/track/5RzRPMws04wWYuE0XGqb7Z"
@@ -6865,7 +7113,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 221309,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/4yVfMXqZ6XngfHxc1oQzcX"
@@ -6959,7 +7207,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 282192,
       "name": "Rey Glorioso",
       "url": "https://open.spotify.com/track/5ubB4FVjS9lkvqAe95LBhJ"
@@ -8288,6 +8536,24 @@
     },
     {
       "album": {
+        "name": "Transparente",
+        "url": "https://open.spotify.com/album/7d9ouCkRWJRZgbsaWRLkGs"
+      },
+      "artists": [
+        {
+          "name": "J-Con",
+          "url": "https://open.spotify.com/artist/7yA7E9bMAkStIKoQc6Eu4G"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189622,
+      "name": "Transparente",
+      "url": "https://open.spotify.com/track/5QJBsfM5P9dHR5qSdiBNiR"
+    },
+    {
+      "album": {
         "name": "Tres Tazas",
         "url": "https://open.spotify.com/album/49ffcYz0L6JbDn3IkjD3kt"
       },
@@ -8491,7 +8757,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 647703,
       "name": "Tu Hijo Soy",
       "url": "https://open.spotify.com/track/75mdqXCjsSOblBblD42M9b"
@@ -9269,7 +9535,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 175578,
       "name": "Volver",
       "url": "https://open.spotify.com/track/6vqFg86xvv39aUvZ4I6oLi"

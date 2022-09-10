@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Vory",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Toosii",
   "name": "B.A.E.",
   "published_playlist_ids": [
     "4mX7G5RGhbP5eelSWBD353"
@@ -23,6 +23,24 @@
       "duration_ms": 156040,
       "name": "16",
       "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/6wSipi0TDJMk8YDnFXecGX"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135955,
+      "name": "23",
+      "url": "https://open.spotify.com/track/7L8zGKqHF7IPjpMgXd3s83"
     },
     {
       "album": {
@@ -249,7 +267,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 228278,
       "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
       "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 126653,
       "name": "Blocklist",
       "url": "https://open.spotify.com/track/79cq3PF1wgkDVTAFMlOjNB"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 158350,
       "name": "Can't Stop Won't Stop (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 211973,
       "name": "FACES",
       "url": "https://open.spotify.com/track/3gG3DVG8vhaCRvJrdl802N"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 236766,
       "name": "Hold you up (feat. Annahstasia & Steven Bamidele)",
       "url": "https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb"
@@ -1912,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/1iDbFnOk4j0LweI76Qs01n"
       },
@@ -2080,6 +2116,42 @@
     },
     {
       "album": {
+        "name": "Luv Me Again",
+        "url": "https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127929,
+      "name": "Luv Me Again",
+      "url": "https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli"
+    },
+    {
+      "album": {
+        "name": "Luv U Back",
+        "url": "https://open.spotify.com/album/6n4BMT8epRMopMEfyTbOiw"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Luv U Back",
+      "url": "https://open.spotify.com/track/2Srbi3OwVYT4l2MDXxPUGa"
+    },
+    {
+      "album": {
         "name": "Mad At Her",
         "url": "https://open.spotify.com/album/4nEvGOK5tet14OyE7HKWoH"
       },
@@ -2091,7 +2163,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 180459,
       "name": "Mad At Her",
       "url": "https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA"
@@ -2550,6 +2622,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
+    },
+    {
+      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },
@@ -2835,7 +2925,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 156428,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH"
@@ -2941,7 +3031,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 212639,
       "name": "SHOWING OFF HER BODY (with Davido)",
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
@@ -2989,6 +3079,32 @@
       "duration_ms": 190224,
       "name": "Single & Happy (feat. Wale & Eric Bellinger)",
       "url": "https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     },
     {
       "album": {
@@ -3225,7 +3341,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 159263,
       "name": "Toxic Traits (with KB Mike)",
       "url": "https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ"
@@ -3354,6 +3470,24 @@
     },
     {
       "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
+      "album": {
         "name": "Wasting Time ( feat. Drake & The Neptunes )",
         "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
       },
@@ -3377,6 +3511,24 @@
       "duration_ms": 301304,
       "name": "Wasting Time ( feat. Drake & The Neptunes )",
       "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
+    },
+    {
+      "album": {
+        "name": "WASTING YOUR TIME",
+        "url": "https://open.spotify.com/album/6dV3GhBlS87SkMPfSda9S9"
+      },
+      "artists": [
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149059,
+      "name": "WASTING YOUR TIME",
+      "url": "https://open.spotify.com/track/1HvjQc9BqIQVhQvR8BqkvR"
     },
     {
       "album": {
@@ -3439,7 +3591,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 341307,
       "name": "We Cry Together",
       "url": "https://open.spotify.com/track/67XC51nlZncNpHmZ8rOU9a"
@@ -3487,6 +3639,24 @@
       "duration_ms": 143226,
       "name": "Welcome Back, Dummy",
       "url": "https://open.spotify.com/track/6cm2FXJjs4YtaccHczvN1Y"
+    },
+    {
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176646,
+      "name": "WHAM",
+      "url": "https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V"
     },
     {
       "album": {

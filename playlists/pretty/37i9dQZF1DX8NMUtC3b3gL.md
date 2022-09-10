@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,885 likes - 159 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,948 likes - 159 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 67 | [Pristine](https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Pristine](https://open.spotify.com/album/68CF9yX62mUPcoJbyVcJD4) | 2:44 |
 | 68 | [Bad Habits](https://open.spotify.com/track/3UjtiMq0d84U4XhSnDN5WL) | [b\_piranha](https://open.spotify.com/artist/2wA2YjeXY6LG3dT8Zz2blY) | [Bad Habits](https://open.spotify.com/album/5G9E2WxtFlyKfVpAteBJ6f) | 2:36 |
 | 69 | [Tram](https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys) | [Mbrs Gear](https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30) | [Tram](https://open.spotify.com/album/4XQcFzMnkk5YKugdY9MkHM) | 2:10 |
-| 70 | [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 |
+| 70 | [.Like a fool](https://open.spotify.com/track/7n87Oi2j5Us4eWhHu8zmpp) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/6VOj1qdMD9IwgeSnyhM54l) | 1:43 |
 | 71 | [Chazzed](https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Longings](https://open.spotify.com/album/304bggytiHFgGxQr93ftkm) | 2:17 |
 | 72 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 |
 | 73 | [Paradox Beat](https://open.spotify.com/track/46XrLBGLzfLKpGl4HqEO7h) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Paradox Beat](https://open.spotify.com/album/3rpU9bDYhD0SOJUBxb2hCP) | 2:32 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 158 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 159 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDk2NjNlYTJiZTRjZmFmYTZiYWZhYTM2Y2ZlMmQ0MWMz`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDk0MTY4NjBhZjA0MWYyYTE5NTU5NjdhODMyNzZjODM4`

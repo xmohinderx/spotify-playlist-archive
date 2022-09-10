@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: POORSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,338 likes - 105 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,395 likes - 105 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 76 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 |
 | 77 | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc) | 2:56 |
 | 78 | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU) | 4:07 |
-| 79 | [Undertaker \- FEVER 333 Remix](https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(FEVER 333 Remix\)](https://open.spotify.com/album/4jpumJcPwvLooTIXKMcH4k) | 2:15 |
+| 79 | [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 |
 | 80 | [Pulse Queen](https://open.spotify.com/track/6ObSWTFcmGP4gGCBGKVZE3) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pulse Queen](https://open.spotify.com/album/2v7ohXpdk3Z2WFfEKOfoE2) | 3:28 |
 | 81 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 |
 | 82 | [Last Resort & Spa](https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 4:14 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 104 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 |
 | 105 | [Reset](https://open.spotify.com/track/4vnCxv2cGTYye90giGIddD) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 3:21 |
 
-Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDAwMDQyZGM0ZThlOWEzYTQxNGQ3ZmIyMWNmMTk0MTllODFl`
+Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDAwMDQyYjQ1NDViMzE1YzkwNDliODM3MDUzNTkzZGIxYjQy`

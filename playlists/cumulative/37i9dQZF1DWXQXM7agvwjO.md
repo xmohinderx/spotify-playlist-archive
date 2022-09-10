@@ -4,12 +4,12 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Parekh & Singh  \(India\)
 
-370 songs - 22 hr 10 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+372 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13: 4](https://open.spotify.com/track/0g9QfoNxP3Y1UmCnQ357Y2) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Ryu su a](https://open.spotify.com/artist/2U57dP2hI49nAHcCn6Mpmu), [Park Hyun Seo](https://open.spotify.com/artist/4MqbpF1gPfGwUsQb1R35ba), [Corduroy](https://open.spotify.com/artist/3TrPkBeDdVF0ZESQEkv1zc) | [13: 4](https://open.spotify.com/album/5rvf59OvYzXNxmN9d4nemR) | 2:48 | 2022-04-07 | 2022-04-29 |
-| [20:37](https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Skin](https://open.spotify.com/album/2XEHXx2cRclNP5ThLEqStX) | 3:26 | 2022-08-11 |  |
+| [20:37](https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Skin](https://open.spotify.com/album/2XEHXx2cRclNP5ThLEqStX) | 3:26 | 2022-08-11 | 2022-09-10 |
 | [A GOOD LIFE](https://open.spotify.com/track/01W7dCP5o2mfyUl62Ybz81) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:21 | 2022-08-04 | 2022-08-26 |
 | [A GOOD LIFE](https://open.spotify.com/track/4sU5lJ3OPMgVUsxDtboyAW) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [A GOOD LIFE](https://open.spotify.com/album/4EK9cdwzHswGwCXeuwiRxE) | 1:21 | 2022-07-21 | 2022-08-06 |
 | [A Little of Autumn](https://open.spotify.com/track/3QLpDswqTh1i8uxHPDFlQR) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [A Little of Autumn](https://open.spotify.com/album/6LgekICVsAfC9GV5rIFKPE) | 3:42 | 2022-06-02 | 2022-07-15 |
@@ -136,7 +136,7 @@
 | [I Do Not Bid Farewell](https://open.spotify.com/track/1RG1aEW6QnorfN5Iw1802o) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I Do Not Bid Farewell](https://open.spotify.com/album/3VdbJe4suEWRg2K2hiZFio) | 3:22 | 2022-09-08 |  |
 | [I Forget](https://open.spotify.com/track/4kteUmv5itspdKMNHAMF8A) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [KAYD](https://open.spotify.com/artist/083fVmyz4CEiqzDnLaSpU7) | [I Forget](https://open.spotify.com/album/4KK1XCxSqlQvHAAGto6vIB) | 3:37 | 2022-07-21 | 2022-08-19 |
 | [i hate this city](https://open.spotify.com/track/7obkHjtZHmdVWdDwaLsd93) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i hate this city](https://open.spotify.com/album/4prQxI1y4XRu6Oq8XdQUhr) | 3:15 | 2022-06-09 | 2022-07-16 |
-| [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 |  |
+| [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 | 2022-09-10 |
 | [I Like Me Better Now](https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [I Like Me Better Now](https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR) | 3:56 | 2022-06-09 | 2022-07-23 |
 | [i like u](https://open.spotify.com/track/5UHPob6XgbZw5CXOyHtMhD) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [i like u](https://open.spotify.com/album/0il3XZ7i2T01i0M4Ij9SVZ) | 2:27 | 2022-05-26 | 2022-07-08 |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-09-08 |  |
@@ -307,6 +307,7 @@
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-21 | 2022-05-13 |
 | [Told You So](https://open.spotify.com/track/44oV4Lbj57EoORRzSNWCRX) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Genesis](https://open.spotify.com/album/1uIG9MSyXNBiq3cgH6Und5) | 5:13 | 2022-06-23 | 2022-07-15 |
 | [Tori 2022](https://open.spotify.com/track/1e645b1filW7ajQi19fc5S) | [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Tori 2022](https://open.spotify.com/album/4PPV8jiPVXJdyVjSCjXEb7) | 4:59 | 2022-06-30 | 2022-08-26 |
+| [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 |  |
 | [Trust Me With This \(Mama\)](https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Trust Me With This \(Mama\)](https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO) | 3:44 | 2022-03-24 | 2022-04-22 |
 | [Tsuki \- พระจันทร์](https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Tsuki \(พระจันทร์\)](https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x) | 3:36 | 2022-06-30 |  |
 | [Tu es mon amour](https://open.spotify.com/track/592llxk0B9WPICOjsnx4zl) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR) | [Tu es mon amour](https://open.spotify.com/album/5Rm7mSJ7q0dzTQ3GulFESu) | 3:21 | 2022-07-07 | 2022-08-05 |
@@ -320,6 +321,7 @@
 | [Valdoxan](https://open.spotify.com/track/5NmRjZdzwHvKVrpchBL08F) | [Junva](https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt), [Gong H 3 F](https://open.spotify.com/artist/4AvLJBT9GUw1MAvfe4cALA) | [Valdoxan](https://open.spotify.com/album/4QUv10tacKfmSELFaqzQs0) | 3:28 | 2022-03-24 | 2022-06-10 |
 | [Waiting For You](https://open.spotify.com/track/2ZaAW2MtlN9CNIU3XcPISD) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR) | [SWIRL](https://open.spotify.com/album/00SqzcEovHnynRRQuV2AgE) | 3:00 | 2022-06-02 | 2022-07-22 |
 | [walk away](https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [walk away](https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B) | 2:55 | 2022-08-18 |  |
+| [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-09-09 |  |
 | [We Just Chase The Light](https://open.spotify.com/track/464ZEz02BK62dKMeEkktNW) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Today From Past Days](https://open.spotify.com/album/5pfb32JF2tPT5HTpcX63gu) | 4:45 | 2022-04-14 | 2022-05-27 |
 | [we're gonna die anyway!!!](https://open.spotify.com/track/3dsraaer0toPT5ZpcisxOb) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [we're gonna die anyway!!!](https://open.spotify.com/album/3BZzDyp6uLeAvhFp4XbC5T) | 2:32 | 2022-06-09 | 2022-07-15 |
 | [Weigh me down](https://open.spotify.com/track/2Q5dyUrJK5IpXZEVHdfELv) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Weigh me down](https://open.spotify.com/album/399zSYDYVqJbuSpuCy937C) | 3:24 | 2022-03-24 | 2022-04-01 |

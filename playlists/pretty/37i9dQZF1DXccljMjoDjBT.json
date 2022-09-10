@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 171406,
+  "num_followers": 171695,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDUzYzA2OGM0ZjUwZjU2NTU0ZDMxODU3NmY2MDY5NjE3",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDhjNzE3ZjNkMTExMGMyMzFiYTQwYTc1YjRjZjRmYTE2",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -883,6 +883,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Endless Summer Nights",
+      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 313706,
       "name": "Wrapped Around Your Finger",
       "url": "https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2021-05-06 11:08:15",
@@ -931,18 +931,18 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Endless Summer Nights",
-      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+      "duration_ms": 292800,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Life As We Know It",
-        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 270226,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 317933,
       "name": "Angelia",
       "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Life As We Know It",
+        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF"
     },
     {
-      "added_at": "2022-03-28 14:29:51",
-      "album": {
-        "name": "Above The Clouds - The Collection (Deluxe)",
-        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 352760,
-      "name": "You Belong To The City",
-      "url": "https://open.spotify.com/track/0b8eSsBka9epA2J0wnPMax"
-    },
-    {
       "added_at": "2020-12-08 17:52:17",
       "album": {
         "name": "Richard Marx",
@@ -1215,6 +1199,22 @@
       "duration_ms": 316040,
       "name": "Hold On To The Nights",
       "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
+    },
+    {
+      "added_at": "2022-03-28 14:29:51",
+      "album": {
+        "name": "Above The Clouds - The Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 352760,
+      "name": "You Belong To The City",
+      "url": "https://open.spotify.com/track/0b8eSsBka9epA2J0wnPMax"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Chicago 18 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 253280,
-      "name": "Will You Still Love Me? - Alternate",
-      "url": "https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb"
-    },
-    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Mike + The Mechanics",
@@ -1299,6 +1283,22 @@
       "duration_ms": 252426,
       "name": "All I Need Is a Miracle",
       "url": "https://open.spotify.com/track/1VKXBgsRK7lWDSVbfANlf3"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Chicago 18 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 253280,
+      "name": "Will You Still Love Me? - Alternate",
+      "url": "https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb"
     },
     {
       "added_at": "2020-12-08 17:52:17",

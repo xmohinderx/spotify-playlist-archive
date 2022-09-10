@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,198 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,223 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 83 | [True Believer](https://open.spotify.com/track/7MU641dWQo8zzExfQD7HW0) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [True Believer](https://open.spotify.com/album/5JSL79s5wVIDQeIy2xI05Z) | 3:15 |
 | 84 | [Rise and Shine](https://open.spotify.com/track/0SjIo6BGy7Aq2vuKnEkB4D) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:40 |
 | 85 | [Hindsight](https://open.spotify.com/track/0gPL0UolZWwAYTTLzStqmw) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:01 |
-| 86 | [These Walls](https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu) | 3:13 |
+| 86 | [These Walls](https://open.spotify.com/track/4STGoSPoTjY7ia71t3XdOS) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/5YsYLuzSXAmzuwLaDpEmp8) | 3:13 |
 | 87 | [Rebound](https://open.spotify.com/track/3maqVYkwbQv9bYcOzLN4u7) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Rebound](https://open.spotify.com/album/4tJxnECufcU2cVVsTNsSPG) | 3:37 |
 | 88 | [Never Really Gone](https://open.spotify.com/track/5wabVKcJepqDkkthpTGW76) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/3XyV6DyEqRb8V9tW4YeJLG) | 3:41 |
 | 89 | [Alice](https://open.spotify.com/track/5sjUQ1Yj3ZjjwT3bxMwdkS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Something Lovely](https://open.spotify.com/album/6oWAsxdtL5vHS1isSKuqeA) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 |
 | 100 | [A Few Days](https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [A Few Days](https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV) | 3:07 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDYyMzAzNTJiMTZiOGY5MGI3NDg2ZWRhYmI0YzA0Yzkz`
+Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDUyZjdkODI3OThhMzQ4MzY2MDNiM2QzNTdmYWNlYmY3`

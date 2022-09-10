@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Royce Da 5'9\"",
-  "num_followers": 627811,
+  "num_followers": 628041,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDE1YjBkNGY3NDVmNTkyYzA3ZDg2NDU3YTQ5ZGMxMGY2",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDFlZTdjOTg2ZmVhZWMwNDczYzE1ZTM5YTc4NGI2OGQy",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 172023,
       "name": "Rushmore Pack",
       "url": "https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Never Freestyle",
-        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 266996,
-      "name": "Never Freestyle",
-      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -603,30 +603,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
-        "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
+        "name": "Burden of Proof",
+        "url": "https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3"
       },
       "artists": [
         {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
-      "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
+      "duration_ms": 198998,
+      "name": "One Way Flight (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -663,22 +655,30 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Burden of Proof",
-        "url": "https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3"
+        "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
+        "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
         },
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
         }
       ],
-      "duration_ms": 198998,
-      "name": "One Way Flight (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
+      "duration_ms": 248000,
+      "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
+      "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "29 (Freestyle)",
-        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 142282,
-      "name": "29 (Freestyle)",
-      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Headshots (4r Da Locals)",
         "url": "https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 193208,
       "name": "Headshots (4r Da Locals)",
       "url": "https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "29 (Freestyle)",
+        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 142282,
+      "name": "29 (Freestyle)",
+      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Isis (Remix)",
         "url": "https://open.spotify.com/album/2FKqCFX8YuORASp2wON4iQ"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 296982,
       "name": "Isis - Remix",
       "url": "https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
     }
   ],
   "unique_name": "Spilled Ink",

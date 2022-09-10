@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Sael, el pibe.
+> Argentina en la casa! Foto: Maria Becerra.
 
-135 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+136 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Anoche \(Remix\)](https://open.spotify.com/track/2k6RWRsm2yYD8lOJjer5qa) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Anoche \(Remix\)](https://open.spotify.com/album/0ibOm3Sm7K1o6wG8I9B6QQ) | 3:48 | 2022-05-24 |  |
 | [Atrévete](https://open.spotify.com/track/4HDJzMYiqYxbON1CGa19x4) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Atrévete](https://open.spotify.com/album/2wpVr5x946STGMJKussoXW) | 2:49 | 2022-05-24 |  |
 | [Aunque Ya No Estés Aquí](https://open.spotify.com/track/00sAoxFmsbUSU5Cn0RCxlV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Aunque Ya No Estés Aquí](https://open.spotify.com/album/5DLcKxG9Fs22scFfoEDcmV) | 3:26 | 2022-05-24 |  |
+| [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 | 2022-09-09 |  |
 | [Baby Drip](https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Baby Drip](https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d) | 3:22 | 2022-07-28 |  |
 | [BABY DRIP](https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [BABY DRIP](https://open.spotify.com/album/5PyWxSxtmxTO0F46TrFWZu) | 3:22 | 2022-05-24 | 2022-07-29 |
 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 | 2022-05-24 |  |
@@ -98,7 +99,7 @@
 | [Otra Vez Te Soñé](https://open.spotify.com/track/6X44vrKIdgwBP4I9hFT6US) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Otra Vez Te Soñé](https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE) | 2:45 | 2022-05-27 | 2022-06-18 |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-05-24 |  |
 | [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 | 2022-05-24 |  |
-| [Pa' La Pared](https://open.spotify.com/track/3mdPjtqAHenQdfruvauObB) | [J.Mastermix](https://open.spotify.com/artist/1UvUSpVxlY8KvfNMMNtxSR) | [Pa' La Pared](https://open.spotify.com/album/67ddgcdFLnJfjBCIREBrBx) | 2:58 | 2022-08-05 |  |
+| [Pa' La Pared](https://open.spotify.com/track/3mdPjtqAHenQdfruvauObB) | [J.Mastermix](https://open.spotify.com/artist/1UvUSpVxlY8KvfNMMNtxSR) | [Pa' La Pared](https://open.spotify.com/album/67ddgcdFLnJfjBCIREBrBx) | 2:58 | 2022-08-05 | 2022-09-10 |
 | [Pal Carajo el Amor](https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pal Carajo el Amor](https://open.spotify.com/album/4gpZ0GHKxJitDg4SjosXm5) | 3:16 | 2022-05-24 |  |
 | [Peligrosa](https://open.spotify.com/track/1upN12BuuI00PtPX5RwWQA) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Peligrosa](https://open.spotify.com/album/126iuno9i89GrSPRHDO4Er) | 2:22 | 2022-07-15 | 2022-07-23 |
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2022-05-24 |  |

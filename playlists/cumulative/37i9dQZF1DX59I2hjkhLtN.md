@@ -4,13 +4,14 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK.
 
-141 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+142 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21](https://open.spotify.com/track/3STWflGC4zHY1fxcnIRhkX) | [Gabriel.](https://open.spotify.com/artist/4qjIWAWR3QX57zisdqc2i8) | [Nova Identidade](https://open.spotify.com/album/5pmLFTH7RwVUVAAzmEzH0R) | 3:41 | 2022-08-25 |  |
 | [2k22](https://open.spotify.com/track/0bMb4w8Uo53ANVn9ddxAe5) | [Jorge Pandora](https://open.spotify.com/artist/4xYoLl7zQC7hFDLODIWX5S), [Neezera](https://open.spotify.com/artist/3iB3ABE3L1OedkwYVV9rrF) | [2k22](https://open.spotify.com/album/5p3LXoHKDc1SYkUfZL5UFL) | 3:13 | 2022-09-01 |  |
 | [90's](https://open.spotify.com/track/22WUmpJytsQQzzlM6A1fPb) | [Hevvy x Fukk](https://open.spotify.com/artist/4oKS5QR0v9JXTP3oG78WpJ) | [Transcender](https://open.spotify.com/album/1R5mqyeqYiu8OJPPtrJK4g) | 3:07 | 2022-07-21 |  |
+| [A Peça](https://open.spotify.com/track/2zga0OUlGtaZZqbMMQ83JP) | [Malta](https://open.spotify.com/artist/6D3YG918J8Ee3nyRHELsCC) | [Equilíbrio](https://open.spotify.com/album/7jqkqkTH4gHbQpAFhQE0XI) | 2:38 | 2022-09-08 |  |
 | [ADA](https://open.spotify.com/track/5wMbHVkIKNLOaXrZvS97dw) | [LOUIS DVART](https://open.spotify.com/artist/1TL1qQoaFtWUt2D85hCOIl) | [ADA](https://open.spotify.com/album/2pWlkKORlGzpB4YTzvPp2N) | 2:18 | 2022-09-01 |  |
 | [Agradeço](https://open.spotify.com/track/1eWINvz1NEVXyskFINj5nT) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau), [Uest](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5) | [Agradeço](https://open.spotify.com/album/5vbXuxtOKdySOWQ3kYWy7g) | 2:58 | 2022-07-07 | 2022-08-05 |
 | [Amg](https://open.spotify.com/track/6iQTV3skdpN6cWxtE7m27j) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Amg](https://open.spotify.com/album/4cS4lBMnyhNcvntpKhgDFy) | 3:05 | 2022-07-07 | 2022-09-09 |

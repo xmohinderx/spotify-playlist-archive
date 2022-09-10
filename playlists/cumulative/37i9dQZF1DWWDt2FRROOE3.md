@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-50 songs - 2 hr 53 min - not published yet
+50 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 50037,
+  "num_followers": 50162,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyMTc4OSwwMDAwMDAwMDhkMTc0NmVjMDUwOWUzNGU4NmU2MGM3OGFkZGFmMTk5",
+  "snapshot_id": "MTY2MjYyMTc4OSwwMDAwMDAwMGU2YTQ1OTMyMzk3M2FlY2YyMTcwYjAwNzIyYWNiNmQ0",
   "tracks": [
     {
       "added_at": "2022-09-08 07:23:09",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 395560,
-      "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
+      "duration_ms": 245000,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/2TPRvPvUotVn4tGHAWWcog"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -367,34 +367,18 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 245000,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/2TPRvPvUotVn4tGHAWWcog"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e"
+      "duration_ms": 395560,
+      "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -411,6 +395,22 @@
       "duration_ms": 282666,
       "name": "Until The Real Thing Comes Along",
       "url": "https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Way Out West (OJC Remaster)",
-        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 471173,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "A Swingin' Affair",
         "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 409840,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
       "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Way Out West (OJC Remaster)",
+        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 471173,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "The Boss Is Back!",
-        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 367693,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 422933,
       "name": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "The Boss Is Back!",
+        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 367693,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 317906,
-      "name": "Spring Can Really Hang You Up The Most",
-      "url": "https://open.spotify.com/track/2xnCxYTSqq7qJZupXFO5Lq"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "Blue Lester: The Immortal Lester Young",
         "url": "https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Makes It Happen",
-        "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 166080,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt"
+      "duration_ms": 317906,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/2xnCxYTSqq7qJZupXFO5Lq"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -731,18 +715,34 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Coltrane (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/10wMCm14OKokkMLfrOeF6Z"
+        "name": "Makes It Happen",
+        "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
       },
       "artists": [
         {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 323146,
-      "name": "Soul Eyes",
-      "url": "https://open.spotify.com/track/2h1o6yFR9Gjh8DqHwTy3M9"
+      "duration_ms": 166080,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+        "name": "Coltrane (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/10wMCm14OKokkMLfrOeF6Z"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
         }
       ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+      "duration_ms": 323146,
+      "name": "Soul Eyes",
+      "url": "https://open.spotify.com/track/2h1o6yFR9Gjh8DqHwTy3M9"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
+        "name": "Soultrane",
+        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Theme For Ernie",
+      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 309360,
       "name": "Spring Is Here",
       "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
-        "name": "Soultrane",
-        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Theme For Ernie",
-      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 292573,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
+      "duration_ms": 297880,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1015,18 +1015,34 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+        "name": "Blues In Trinity",
+        "url": "https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
         }
       ],
-      "duration_ms": 297880,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
+      "duration_ms": 185840,
+      "name": "I Had The Craziest Dream",
+      "url": "https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Blues In Trinity",
-        "url": "https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy"
+        "name": "Makes It Happen",
+        "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
       },
       "artists": [
         {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 185840,
-      "name": "I Had The Craziest Dream",
-      "url": "https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O"
+      "duration_ms": 162440,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4j07BaLQsVp1XhIVhkY1ir"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Makes It Happen",
-        "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4j07BaLQsVp1XhIVhkY1ir"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 345266,
       "name": "Everytime We Say Goodbye",
       "url": "https://open.spotify.com/track/7tZDxcJeLzyjBKYc7TWbsr"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
-        "name": "E.S.P.",
-        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 530040,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
+        "name": "E.S.P.",
+        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 530040,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
         "name": "Glad To Be Unhappy",
         "url": "https://open.spotify.com/album/2UAhO873vD6JXgrthqTcEG"
       },
@@ -1219,38 +1219,6 @@
       "duration_ms": 344080,
       "name": "Glad to Be Unhappy",
       "url": "https://open.spotify.com/track/32lOOtajLkCfJLMIXqrkyA"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1271,22 +1239,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "Paul Bley",
         "url": "https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP"
       },
@@ -1303,18 +1255,18 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
+      "duration_ms": 246066,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1335,6 +1287,22 @@
       "duration_ms": 346160,
       "name": "Ballad",
       "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1383,6 +1351,38 @@
       "duration_ms": 165680,
       "name": "It's Easy To Remember",
       "url": "https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Ernie's Tune",
-      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "A Night At The Village Vanguard (Live)",
         "url": "https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 399360,
       "name": "Softly As In A Morning Sunrise - Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7",
       "url": "https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Ernie's Tune",
+      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "Night Hawk",
-        "url": "https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 629733,
-      "name": "Night Hawk",
-      "url": "https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 480333,
       "name": "The Blues In My Flat",
       "url": "https://open.spotify.com/track/3wyvK7ySxD4pR285UTRIEG"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "Night Hawk",
+        "url": "https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 629733,
+      "name": "Night Hawk",
+      "url": "https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG"
     },
     {
       "added_at": "2022-09-08 07:23:09",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-08 07:23:09",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 413640,
-      "name": "House Of Jade - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5"
-    },
-    {
-      "added_at": "2022-09-08 07:23:09",
-      "album": {
         "name": "Stan Getz And The Cool Sounds",
         "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 199440,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+    },
+    {
+      "added_at": "2022-09-08 07:23:09",
+      "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 413640,
+      "name": "House Of Jade - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5"
     },
     {
       "added_at": "2022-09-08 07:23:09",

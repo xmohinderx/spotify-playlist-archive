@@ -4,11 +4,12 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ & LSDREAM.
 
-336 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+339 songs - 20 hr 3 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Never Gonna\) Be Alone](https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [\(Never Gonna\) Be Alone](https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba) | 3:18 | 2022-06-17 |  |
+| [333](https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [333](https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz) | 2:27 | 2022-09-09 |  |
 | [Affliction](https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Affliction](https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs) | 3:19 | 2022-06-17 |  |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-21 | 2022-08-06 |
 | [Alive \- 12th Planet Remix](https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Alive \(Remixes\)](https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo) | 2:40 | 2021-12-17 | 2022-07-16 |
@@ -65,6 +66,7 @@
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-04 |  |
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35) | 3:19 | 2021-12-17 | 2022-03-12 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 |  |
+| [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-09 |  |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2022-09-03 |
 | [DAYTONS](https://open.spotify.com/track/3qOQF98C8xvlpdzD7LZHHu) | [SuperAve.](https://open.spotify.com/artist/1jZuVcvrLxmzjg9K0TU53g) | [The Streets Hear Everything](https://open.spotify.com/album/3QWjr2YbklfsFDTNocoGk3) | 2:55 | 2021-12-17 | 2022-03-12 |
 | [Death of Me](https://open.spotify.com/track/1KUYxwsFpCgpwygaWQu4JL) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Death of Me](https://open.spotify.com/album/4EbiGYs39cMzzpm3U21f50) | 2:48 | 2022-07-01 | 2022-08-06 |
@@ -295,6 +297,7 @@
 | [Terrabot](https://open.spotify.com/track/3VC4xbdEJ6W1RkAQ20Wto1) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Terrabot](https://open.spotify.com/album/4ubvzMcNnsIsYU9S78zb2h) | 3:18 | 2022-03-18 |  |
 | [Tested](https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Tested](https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK) | 2:57 | 2022-05-13 |  |
 | [The Feeling](https://open.spotify.com/track/5XlufuPluY6GRBlXZvnZVJ) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [The Feeling](https://open.spotify.com/album/5wURsb3f8KcLz93oFGWHyX) | 3:22 | 2021-12-17 | 2022-03-12 |
+| [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 |  |
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-12-17 | 2022-02-19 |
 | [The One](https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/1pwdgZDc9u1jeoMNLdaMJk) | 3:06 | 2022-08-12 |  |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-05-13 | 2022-08-27 |

@@ -4,7 +4,7 @@
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Rican Da Menace
 
-85 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/5TALYxdz8KvCUOjfUqx9cT)
+86 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/5TALYxdz8KvCUOjfUqx9cT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Property](https://open.spotify.com/track/1EkEIs8mz3uCzys3sQgabD) | [Bestfriend.](https://open.spotify.com/artist/5inHBQqdO4Oz10vwu8wW2d) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 3:12 | 2020-12-24 | 2022-02-26 |
 | [Pull Ya Gunz Out](https://open.spotify.com/track/2lPTV7ns8zE1EIkr8H3aaj) | [Miss Tony aka Big Tony](https://open.spotify.com/artist/3b9KaliiUtdbwQQYV8xCGM) | [Baltimore Club Music Master of Ceremonies](https://open.spotify.com/album/7EpHnZwpmjVWJBqDBYY2Ws) | 5:32 | 2020-12-24 | 2022-02-26 |
 | [Put Ya Leg Up \(Original\)](https://open.spotify.com/track/0NTuFPMMLXSTUlyW1JKVhI) | [Diamond K](https://open.spotify.com/artist/49EpGlFcfIaIcgPBdOrXOh) | [Rock The Club Baltimore Club \- EP](https://open.spotify.com/album/62i20zgnCWZMbfY6zrHspd) | 3:33 | 2020-12-24 | 2022-02-26 |
+| [Put Your Leg Up \(Like This?\)](https://open.spotify.com/track/0xSxNcwlfeVuvh0y84Z846) | [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0) | [Put Your Leg Up \(Like This?\)](https://open.spotify.com/album/5npPwFmC5lz9myIRVhouOW) | 2:59 | 2022-09-09 |  |
 | [R U Ready \- Original Mix](https://open.spotify.com/track/71kaxsdxJeLJRUmrQlwZ4K) | [Say Wut](https://open.spotify.com/artist/3GBzhIGX4yybQ9JDWasQrj) | [Clarion Bang EP](https://open.spotify.com/album/31zMcV7YGFYeOjSdTfV8Tx) | 3:50 | 2020-12-24 | 2022-06-25 |
 | [Rep Your Set\(Baltimore Club Music\)](https://open.spotify.com/track/3ftmfZNgAOD10H49xV2Hk5) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Bmore Club Gems Volume 1](https://open.spotify.com/album/2xaamk0NOI5bo4yIL4O0He) | 3:34 | 2020-12-24 | 2022-02-26 |
 | [Rider Girl \(feat\. D.O.G.\)](https://open.spotify.com/track/0oeXzDlElu9rFXfc5ioW4T) | [DJ K\-Swift](https://open.spotify.com/artist/4ns7AGltssCJD5p7EebmzS) | [The Club Queen K\-Swift Story](https://open.spotify.com/album/7Cafdih328pdjYfIsnE56P) | 3:57 | 2020-12-24 |  |

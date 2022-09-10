@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: The Backseat Lovers",
-  "num_followers": 80862,
+  "num_followers": 80889,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDFkOTBlNDMwZThiZDdiODQ0NjA0OGZiZjFiNDA5MTE4",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDdjNGIxM2JkMDI0NzVlMzUwMTI5YjU0ZGE0MzI0ZGJj",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "sheluvme",
         "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 150840,
       "name": "sheluvme",
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 167096,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "cross your mind",
         "url": "https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 160783,
       "name": "cross your mind",
       "url": "https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 167096,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "minnesota is a place that exists",
-        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "minnesota is a place that exists",
-      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "FUNERAL GREY",
         "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "minnesota is a place that exists",
+        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "minnesota is a place that exists",
+      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "2am",
-        "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "THREE HEADS*",
         "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Blood Runs Red",
-        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
       "artists": [
         {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 218826,
-      "name": "Blood Runs Red",
-      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "Blood Runs Red",
+        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
         }
       ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+      "duration_ms": 218826,
+      "name": "Blood Runs Red",
+      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Better Now (feat. MARO)",
-        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 194110,
-      "name": "Better Now (feat. MARO)",
-      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+        "name": "Better Now (feat. MARO)",
+        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+      "duration_ms": 194110,
+      "name": "Better Now (feat. MARO)",
+      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
       },
       "artists": [
         {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
         }
       ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+      "duration_ms": 152230,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Baby Don't Go",
-        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 152230,
-      "name": "Baby Don't Go",
-      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Let U Go",
         "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Colour Me Blue",
-        "url": "https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Colour Me Blue",
-      "url": "https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "f**k it, i'm the man",
         "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Colour Me Blue",
+        "url": "https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "dear amelia",
-        "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 173444,
-      "name": "hate the way you love me",
-      "url": "https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Perfectly Imperfect",
         "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "dear amelia",
+        "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 173444,
+      "name": "hate the way you love me",
+      "url": "https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1531,22 +1531,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "I've Never Been To LA",
-        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
+        "name": "High School",
+        "url": "https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh"
       },
       "artists": [
         {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        },
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
         }
       ],
-      "duration_ms": 159129,
-      "name": "I've Never Been To LA (Edit)",
-      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+      "duration_ms": 154280,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1567,18 +1563,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh"
+        "name": "I've Never Been To LA",
+        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
       "artists": [
         {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        },
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 154280,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
+      "duration_ms": 159129,
+      "name": "I've Never Been To LA (Edit)",
+      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
     },
     {
       "added_at": "2022-08-26 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Five Finger Death Punch",
+  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Lamb Of God",
   "name": "Heavy Metal",
   "published_playlist_ids": [
     "6NpBTQ0b3N3b1zdtxQGNsV"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 230680,
       "name": "A Perfect Day to Die",
       "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
@@ -2474,6 +2474,28 @@
     },
     {
       "album": {
+        "name": "Degradation Rules (feat. Tony Iommi)",
+        "url": "https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250274,
+      "name": "Degradation Rules (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
+    },
+    {
+      "album": {
         "name": "Deliver Us From Evil",
         "url": "https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO"
       },
@@ -3867,6 +3889,24 @@
       "duration_ms": 288586,
       "name": "Gordian Naught",
       "url": "https://open.spotify.com/track/6QD6PReeaIZ5iZXVEntcKE"
+    },
+    {
+      "album": {
+        "name": "Grayscale",
+        "url": "https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239940,
+      "name": "Grayscale",
+      "url": "https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ"
     },
     {
       "album": {
@@ -6749,7 +6789,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 330813,
       "name": "Northwards",
       "url": "https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD"
@@ -7211,7 +7251,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
@@ -10031,7 +10071,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 674854,
       "name": "The Raven Child",
       "url": "https://open.spotify.com/track/76zg1a9DvGpEHVVQh7Yuv1"

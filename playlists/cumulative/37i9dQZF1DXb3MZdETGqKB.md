@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Dylan Triplett
 
-152 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+153 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [The City Streets \(Ps.23\)](https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 4:32 | 2021-09-10 |  |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 |  |
 | [The Mess I Made](https://open.spotify.com/track/0jgysibe0XfoEO4QF4txxo) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc), [Sarah Jory](https://open.spotify.com/artist/3vIXE7wvyCjfLhVU4PPs3a) | [The Mess I Made](https://open.spotify.com/album/09N5XzPUjGF2C88j0QWJPc) | 3:02 | 2021-04-16 | 2022-05-07 |
+| [The Message](https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [The Message](https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K) | 4:04 | 2022-09-09 |  |
 | [The Other Side \(feat\. J.R\. & the Allnighters\)](https://open.spotify.com/track/6RA6hnbhyvf6QeLa1q56sj) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc), [J.R\. & the Allnighters](https://open.spotify.com/artist/1lLhuyyaZHDjegxpEhXuk8) | [The Other Side \(feat\. J.R\. & the Allnighters\)](https://open.spotify.com/album/0k4btVrVx2wN9MEhRBaZEh) | 3:12 | 2021-02-05 | 2022-03-26 |
 | [The Search For Happiness](https://open.spotify.com/track/7tq4k2u9kjfJzZlXuV0yGZ) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [The Search For Happiness](https://open.spotify.com/album/4Ffs0ZxpYhLvMv4l19fXmf) | 6:01 | 2021-02-05 | 2022-03-26 |
 | [The Truth](https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG) | [Cory Young](https://open.spotify.com/artist/2Q9hV3hL1afFgz6kRegFEg) | [The Truth](https://open.spotify.com/album/3YBphoBChUZZa490iIB62T) | 2:03 | 2022-02-18 |  |

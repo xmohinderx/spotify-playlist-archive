@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-180 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+181 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 | 2022-05-30 |  |
 | [Dear You \(Act III\)](https://open.spotify.com/track/1Li7RAL8KcNUgLL2DdCuaN) | [shye.](https://open.spotify.com/artist/5SBFpt9Gz53LckT9guA7AS), [Nikita Afonso](https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe) | [Dear You \(Act III\)](https://open.spotify.com/album/56u1zlkOSdeqzWkkTgp75j) | 3:35 | 2022-05-30 | 2022-07-28 |
 | [Derek's Song](https://open.spotify.com/track/7BJSeJ9Y5GTKAVXEliENbd) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Derek's Song](https://open.spotify.com/album/1OidglOWIYDhCy8LTw81y3) | 3:28 | 2022-05-30 | 2022-07-29 |
-| [Did We Miss the Morning?](https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Give Me Something](https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6) | 2:54 | 2022-06-24 |  |
+| [Did We Miss the Morning?](https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Give Me Something](https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6) | 2:54 | 2022-06-24 | 2022-09-10 |
 | [Dig Deep \- Acoustic Version](https://open.spotify.com/track/1L6rZhpvEMnNLPnUYEU6q4) | [Lxandra](https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW) | [Dig Deep \(Acoustic Version\)](https://open.spotify.com/album/7ay5jbQDxnf7Q8DsRue96u) | 3:35 | 2022-05-30 | 2022-07-29 |
 | [droplets \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/3vIIzUU52AKFA19yHA8TCz) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [the morning \(all of the songs\)](https://open.spotify.com/album/4cKBAg2zgjrVF2XefrW4WC) | 3:30 | 2022-05-30 | 2022-07-29 |
 | [Eastside \(with Halsey & Khalid\) \- Acoustic](https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\) \[Acoustic\]](https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk) | 2:53 | 2022-05-30 |  |
@@ -166,6 +166,7 @@
 | [The One I Love](https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [The One I Love](https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol) | 3:11 | 2022-05-30 |  |
 | [Think It Over](https://open.spotify.com/track/7u3rJLxEp9ZsQpSq5Pun79) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [Where the Roses Bloom](https://open.spotify.com/album/1MOwfsFWRW2suEzEnbo19Q) | 3:14 | 2022-05-30 | 2022-07-29 |
 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 | 2022-06-24 |  |
+| [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-09-09 |  |
 | [Time Has Told Me](https://open.spotify.com/track/1NM7DXBpH9LiybTJdGfNYD) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Rivers and Vessels](https://open.spotify.com/album/1AvkJdrOz24uu9i9xQTCNx) | 3:50 | 2022-06-24 | 2022-07-21 |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p) | 3:40 | 2022-05-30 |  |
 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 | 2022-05-30 |  |

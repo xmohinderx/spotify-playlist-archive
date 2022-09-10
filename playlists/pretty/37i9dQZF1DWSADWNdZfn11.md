@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,380 likes - 98 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,739 likes - 98 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 28 | [Boyfriends](https://open.spotify.com/track/2j4pxuqfWJWtUUyGpjwPt0) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Harry's House: Piano Instrumentals](https://open.spotify.com/album/5Pg3AR2MC5SlZyMrCWbj9j) | 3:45 |
 | 29 | [Both Sides Now](https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Both Sides Now](https://open.spotify.com/album/6em41apjqOtmJadQCcmysZ) | 3:48 |
 | 30 | [A Million Dreams](https://open.spotify.com/track/6s8eJYbzaALB1eLP1czQED) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [A Million Dreams](https://open.spotify.com/album/6uWAfzGxbcrppRNsj0LV0A) | 4:31 |
-| 31 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 |
+| 31 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 |
 | 32 | [Ocean Eyes](https://open.spotify.com/track/3szVnSFGkFuiivja0JF7gN) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Ludvig Hall](https://open.spotify.com/artist/3q45GtzDb65xPi6gFO3mMX) | [Ocean Eyes](https://open.spotify.com/album/2cfgNAWC7fuNLYLFTlmaiu) | 2:01 |
 | 33 | [A Thousand Years](https://open.spotify.com/track/5xWD5Oy72pgn54R5ERwyr8) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Anton Goosmann](https://open.spotify.com/artist/1fPzD56OchmMDTv12ZTWpv) | [A Thousand Years](https://open.spotify.com/album/0utb7TeZbh3M2NeXLzCL48) | 1:48 |
 | 34 | [Halo](https://open.spotify.com/track/4lu6zYkghmAlCnDcgKqJcY) | [Mia Carrera](https://open.spotify.com/artist/00zoOzjXViIF4Fs8XQSK9m) | [Halo](https://open.spotify.com/album/0ud9AD3KGlQX1NRLJQpOQ4) | 3:30 |

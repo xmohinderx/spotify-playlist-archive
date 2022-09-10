@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto:  Eladio Carrion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,072 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,587 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 53 | [Como Soy](https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM) | 5:12 |
 | 54 | [FLEXXX](https://open.spotify.com/track/6kmUiXB20EEru6wn39f2Tw) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:14 |
 | 55 | [Ele Uve \- Remix](https://open.spotify.com/track/6n43lawNZSsPHiCostJj9N) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Ele Uve \(Remix\)](https://open.spotify.com/album/73mz0bzy97uQ0jC01pMp0A) | 3:49 |
-| 56 | [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 |
+| 56 | [Rangos](https://open.spotify.com/track/0ZeQFWUwICisBLXNFtlsAY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/1cLqKrL2fed5ARiR8qJF3x) | 2:08 |
 | 57 | [No Soy Yo](https://open.spotify.com/track/64z5CqcwEqEqncSZ1iILQ4) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [No Soy Yo](https://open.spotify.com/album/4kJ0ZhiZJBEcQgULwrKpO8) | 2:56 |
 | 58 | [Krippy Kush](https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 3:50 |
 | 59 | [Jet Lag](https://open.spotify.com/track/4ftH6O3bvfEB4EO04K2xIM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Jet Lag](https://open.spotify.com/album/6FnkMBlsYoeC0RlHukY935) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 99 | [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 |
 | 100 | [SR DE LOS CIELOS](https://open.spotify.com/track/3iug2F7ByIBMVkmLGgt3ir) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:54 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGJkYzI3MTI1NjA4ZTQ5ZjEwOWVjMjZlMWRiODM2OTVl`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDhhY2QwMTI0MWZmOWEwOGJlNTY5YTBjNjlkYTdjYWI5`

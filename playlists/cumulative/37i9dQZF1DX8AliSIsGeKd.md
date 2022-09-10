@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Simina Grigoriu
 
-710 songs - 2 day 17 hr 57 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+711 songs - 2 day 18 hr 3 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,8 @@
 | [The Spice](https://open.spotify.com/track/37x8MCCIK2Epy4yr9JRoet) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [The Spice](https://open.spotify.com/album/1BUDwaGYjSPhdNS6Rh1sjD) | 7:04 | 2022-04-28 | 2022-05-20 |
 | [The Truth](https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH) | 6:24 | 2022-07-14 | 2022-08-05 |
 | [The Truth](https://open.spotify.com/track/0wSTwqyzAnOpwjdYGdmzeJ) | [The Checkup](https://open.spotify.com/artist/2W6wcKjaQ6LbOAEOvGnTwv), [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [The Truth](https://open.spotify.com/album/2BMTj7Ym7JivH0kxpzjAMb) | 7:08 | 2022-08-25 | 2022-09-09 |
-| [These Notes In This Order \- VNSSA Remix](https://open.spotify.com/track/0jjeAVSKajgQgMIAIQFLQ1) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [These Notes In This Order \(VNSSA Remix\)](https://open.spotify.com/album/58T8bp9mchPY7f2wSFQkmn) | 6:02 | 2022-09-08 |  |
+| [These Notes In This Order \- VNSSA Remix](https://open.spotify.com/track/0jjeAVSKajgQgMIAIQFLQ1) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [These Notes In This Order \(VNSSA Remix\)](https://open.spotify.com/album/58T8bp9mchPY7f2wSFQkmn) | 6:02 | 2022-09-08 | 2022-09-10 |
+| [These Notes In This Order \- VNSSA Remix](https://open.spotify.com/track/69CE5CSZR8875610mF339D) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Freaks & Beaks Remixes](https://open.spotify.com/album/4tHKolyGORukhIwpnMseDX) | 6:02 | 2022-09-08 |  |
 | [Think and Drink](https://open.spotify.com/track/7wIe3H1hHRk7Dxnzb15twW) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK) | [Think and Drink](https://open.spotify.com/album/3J1WM1BnR9YGto69iy5Dp3) | 5:51 | 2022-05-26 | 2022-06-17 |
 | [This Is My House \- Club Mix](https://open.spotify.com/track/1U8f8c5K2gRPqzppLoKvfO) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [This Is My House](https://open.spotify.com/album/5JCUhfqgrfrIf71tFdTkAx) | 6:00 | 2022-06-23 | 2022-07-08 |
 | [This Is The Time \- Adana Twins Remix](https://open.spotify.com/track/0emZl55VGZ3321C6AdfUxK) | [Moo Moonster](https://open.spotify.com/artist/1OU5OABDbEYbcSwhVzTnQZ), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Space Phantasy A\-side](https://open.spotify.com/album/2qyPEBwlUSdHNfOWA3SQDE) | 7:39 | 2022-04-14 | 2022-04-22 |

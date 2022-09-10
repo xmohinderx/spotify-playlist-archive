@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: ポルカドットスティングレイ\(POLKADOT STINGRAY\)
 
-573 songs - 1 day 12 hr 53 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+574 songs - 1 day 12 hr 57 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Fool](https://open.spotify.com/track/0NWKnbVeZuKPOmGnl2gh6q) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Fool](https://open.spotify.com/album/5UcrQdw6afVoQqI7tpxTw2) | 2:15 | 2022-05-31 | 2022-07-19 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-07-21 | 2022-07-23 |
 | [FREEDOM!](https://open.spotify.com/track/5YThJeUxwNPrWMCmiZZrIQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [FREEDOM!](https://open.spotify.com/album/2MOk0vG38H1M133hRGIkK3) | 3:57 | 2022-06-07 | 2022-07-06 |
-| [Girl](https://open.spotify.com/track/1M5x3ztSHcQM0OGNc10CAq) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Girl](https://open.spotify.com/album/2BXNNQa9tBXq6ZGvdGNdHo) | 3:40 | 2022-08-17 |  |
+| [Girl](https://open.spotify.com/track/1M5x3ztSHcQM0OGNc10CAq) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Girl](https://open.spotify.com/album/2BXNNQa9tBXq6ZGvdGNdHo) | 3:40 | 2022-08-17 | 2022-09-10 |
+| [Girl](https://open.spotify.com/track/4UxuBBgV1wsv6GIMrYVpTW) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [INNER JOURNEY](https://open.spotify.com/album/01dlkun9ZeuPK7jcTX9Y9v) | 3:40 | 2022-09-08 |  |
 | [girl](https://open.spotify.com/track/3mqeR1acQPMzeX9n3zPoh6) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [girl](https://open.spotify.com/album/1sug5oEX1Zf92dHGoUY9e5) | 4:12 | 2022-06-21 | 2022-06-29 |
 | [Give Me](https://open.spotify.com/track/7KMMwN6c0gOnPcXPhhAcAi) | [LilyClone](https://open.spotify.com/artist/7b9iPPDSz0VFOHu3xmbDDE) | [Give Me](https://open.spotify.com/album/4riCVcsuZNLGs0iqF6kM7T) | 3:10 | 2022-06-02 | 2022-06-07 |
 | [GO](https://open.spotify.com/track/0vk7STMAkAoJW9TksOrYV2) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [GO](https://open.spotify.com/album/4PrNZxvasWytfc6p1VPm8D) | 3:20 | 2022-05-31 | 2022-06-16 |

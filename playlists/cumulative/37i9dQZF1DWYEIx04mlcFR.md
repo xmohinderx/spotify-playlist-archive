@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con Kevin Kaarl en portada\. 🌊✨
 
-206 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+209 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,14 +71,16 @@
 | [Hoy te Dejo de Soñar](https://open.spotify.com/track/6xaPt9l6Uk6i72f10GezEM) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Hoy te Dejo de Soñar](https://open.spotify.com/album/2H7dZJggkMv3MXH7ZKSzQm) | 3:11 | 2021-12-10 | 2022-03-26 |
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2022-02-18 | 2022-07-23 |
 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 | 2022-07-11 |  |
+| [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 | 2022-09-09 |  |
 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 | 2022-06-17 |  |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2022-03-25 | 2022-07-05 |
 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 | 2022-07-01 |  |
-| [la que calla](https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la que calla](https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU) | 3:30 | 2022-03-04 |  |
+| [la que calla](https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la que calla](https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU) | 3:30 | 2022-03-04 | 2022-09-10 |
 | [Lento](https://open.spotify.com/track/4f07s0huRslrHqfO36G8D1) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Lento](https://open.spotify.com/album/2izPga5hTYeQoST4IxzoEE) | 2:48 | 2021-12-10 | 2022-04-14 |
 | [Llámame](https://open.spotify.com/track/6pUOXwDOMBTIsYKP87urb6) | [Axel Olloqui](https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Llámame](https://open.spotify.com/album/0fnmpFDb8x8qUkNgFJRvem) | 2:40 | 2022-02-11 | 2022-07-23 |
 | [lo peor](https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 3:02 | 2021-12-10 | 2022-04-23 |
-| [LSNC](https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [LSNC](https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh) | 2:33 | 2022-03-25 |  |
+| [Los días grises](https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Los días grises](https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8) | 2:19 | 2022-09-09 |  |
+| [LSNC](https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [LSNC](https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh) | 2:33 | 2022-03-25 | 2022-09-10 |
 | [Madrid](https://open.spotify.com/track/2RZBRW0bViEHUgoeagzD7m) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Madrid](https://open.spotify.com/album/5a6ehCg907H8WCa5oSD0HS) | 2:48 | 2022-07-22 |  |
 | [mal hábito](https://open.spotify.com/track/0o9C7uGWMkW4yj79xawR8L) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 2:43 | 2021-12-10 | 2022-04-14 |
 | [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2022-02-25 | 2022-05-28 |
@@ -92,6 +94,7 @@
 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 | 2022-03-11 | 2022-08-20 |
 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 | 2022-04-22 | 2022-06-28 |
 | [mi canción favorita](https://open.spotify.com/track/0rDBd5DzUJoJMfBlko7WcK) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [mi canción favorita](https://open.spotify.com/album/40Vw2SofoKNXM26vPxaKk5) | 2:53 | 2021-12-10 | 2022-02-19 |
+| [Mi Cumbia](https://open.spotify.com/track/6opYzmDIzG3uGln1BM2MtT) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Cumbia](https://open.spotify.com/album/2Mjka8OhoXINOkGI6zglhU) | 3:27 | 2022-09-09 |  |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-01-28 | 2022-08-27 |
 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-13 |  |
 | [Mil Maneras](https://open.spotify.com/track/2MH2Octk42xw891Bilg89D) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mil Maneras](https://open.spotify.com/album/3MqmtXBZYnOoa6ECNKau3i) | 2:21 | 2022-08-19 |  |
@@ -145,7 +148,7 @@
 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2022-04-13 |  |
 | [Qué Jodido](https://open.spotify.com/track/5ILOjHzlwbtGC2mfxh7nHn) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Qué Jodido](https://open.spotify.com/album/3LXfwJbgciZfXUMOLiTpTs) | 4:06 | 2022-02-11 | 2022-03-26 |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2022-02-25 | 2022-08-20 |
-| [qué voy a hacer conmigo???](https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [qué voy a hacer conmigo???](https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg) | 2:45 | 2022-03-25 |  |
+| [qué voy a hacer conmigo???](https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [qué voy a hacer conmigo???](https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg) | 2:45 | 2022-03-25 | 2022-09-10 |
 | [Quédame](https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Quédame](https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14) | 2:49 | 2021-12-10 | 2022-02-26 |
 | [Recaídas](https://open.spotify.com/track/2Cg87BdrAzZpx4SnjpJPar) | [Alex Soto](https://open.spotify.com/artist/5pzb04LnJQrbs8U6qQ6KxC) | [Recaídas](https://open.spotify.com/album/32bUYoMwwEd85f12JyGPuz) | 3:24 | 2022-07-18 |  |
 | [Recuerdo](https://open.spotify.com/track/5nv8yhA2ySKUxofQ3Ei1er) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/0Yyill6hXJgajirOCDuGrT) | 3:29 | 2022-05-09 |  |

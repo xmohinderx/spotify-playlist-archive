@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Hannah Ellis
 
-222 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+224 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Broke It Down \- Remastered](https://open.spotify.com/track/7g3XsZcztJW1i7pD3RacWt) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down \(Remastered\)](https://open.spotify.com/album/4kb0SKbENUF550V4mMo1b3) | 3:21 | 2021-12-31 | 2022-07-29 |
 | [Broke to Brand New](https://open.spotify.com/track/2IsL0pEJRbIrkSATMlMgv8) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Broke to Brand New](https://open.spotify.com/album/0C6wWwlv0Oh6uYc1kJOhDT) | 3:07 | 2022-03-11 | 2022-06-01 |
 | [Buzzkilla](https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Let Love Be Love](https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7) | 2:52 | 2021-12-31 | 2022-07-02 |
+| [By You](https://open.spotify.com/track/0K37EIkIJ4MOAm7vje4Li9) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [By You](https://open.spotify.com/album/7ugbAKwRlYfLsZBnKVSCCk) | 3:01 | 2022-09-09 |  |
 | [California](https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [California](https://open.spotify.com/album/1psx0StZRNxtb6qu08sDip) | 3:37 | 2021-12-31 | 2022-08-02 |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 | 2021-12-31 | 2022-07-02 |
 | [Cartier](https://open.spotify.com/track/5Dg385wbg8UpFsPGF7mKSN) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [Cartier](https://open.spotify.com/album/5KKa4O8V0YmpcKdqDfBNZz) | 3:20 | 2022-04-22 |  |
@@ -119,7 +120,7 @@
 | [Love Child](https://open.spotify.com/track/2IRZm2pbQYoA5Q2gbwE6nU) | [Kalie Shorr](https://open.spotify.com/artist/5l2O3KSyCkTtjwcTLixHi5) | [Love Child](https://open.spotify.com/album/0hSp25ZPUeHmbSeldUqVoR) | 3:04 | 2021-12-31 |  |
 | [Love Takes Time](https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Jonathan Hutcherson](https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh) | 2:39 | 2022-06-04 |  |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2022-07-01 |  |
-| [Love You Now, Love You Later](https://open.spotify.com/track/0o7j1UwXNH88OGQQOwM9Oe) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cruise Control](https://open.spotify.com/album/5tUM4uP2IVeOa5Lh4F0FzS) | 2:26 | 2022-07-22 |  |
+| [Love You Now, Love You Later](https://open.spotify.com/track/0o7j1UwXNH88OGQQOwM9Oe) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cruise Control](https://open.spotify.com/album/5tUM4uP2IVeOa5Lh4F0FzS) | 2:26 | 2022-07-22 | 2022-09-10 |
 | [Love You Now, Love You Later](https://open.spotify.com/track/5IE9hrw4ToKfw2pO08If5j) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Love You Now, Love You Later](https://open.spotify.com/album/7hAYEzQB22bvzQjRZPvxSe) | 2:26 | 2021-12-31 | 2022-07-29 |
 | [LOVERBOY](https://open.spotify.com/track/2QRUzQzXQ7GEZRe9rA9WbL) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [LOVERBOY](https://open.spotify.com/album/2NbqvUAyCV2KaQeE32M41m) | 3:19 | 2021-12-31 | 2022-02-12 |
 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 | 2021-12-31 |  |
@@ -180,7 +181,7 @@
 | [She Broke My Heart](https://open.spotify.com/track/5lyyBTTdB9tlNKvni9VwvZ) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [She Broke My Heart](https://open.spotify.com/album/2FP7BFxp5nnCf8dkkvTJ2k) | 3:00 | 2021-12-31 | 2022-02-12 |
 | [She's a Fire](https://open.spotify.com/track/6DUl9xe5xmSJsqu1XdyiJs) | [JT Harker](https://open.spotify.com/artist/32uxYRmt38L7lp9VyAn3bJ) | [She's a Fire](https://open.spotify.com/album/7sytcojuGjBcPv8C7AN7md) | 3:14 | 2021-12-31 |  |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-31 |  |
-| [Somebody Loves You](https://open.spotify.com/track/4EtlDPVMEapdCaBWDFypFn) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Somebody Loves You](https://open.spotify.com/album/0QEobz2FDq9LU0CDSClIWF) | 2:32 | 2021-12-31 |  |
+| [Somebody Loves You](https://open.spotify.com/track/4EtlDPVMEapdCaBWDFypFn) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Somebody Loves You](https://open.spotify.com/album/0QEobz2FDq9LU0CDSClIWF) | 2:32 | 2021-12-31 | 2022-09-10 |
 | [Somebody with a Broken Heart](https://open.spotify.com/track/7yQJUfSF801AAMjcJcFbvh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Somebody with a Broken Heart](https://open.spotify.com/album/5c8V1funhYDhiuKVajsXa4) | 3:32 | 2021-12-31 | 2022-01-08 |
 | [Somethin' in the Sunshine](https://open.spotify.com/track/1JDRyKJkKgmm8F4m9QSTnk) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Somethin' in the Sunshine](https://open.spotify.com/album/2vZKaE4y1UoVuJboLV0ZHE) | 2:52 | 2021-12-31 | 2022-02-12 |
 | [Something Good To Miss](https://open.spotify.com/track/7sFn9QneuaujkjFOiumatu) | [Juna N Joey](https://open.spotify.com/artist/7sFEaRrD84U9n0GHI4CmO8) | [Something Good To Miss](https://open.spotify.com/album/1li3OPa9nsQHeR0SmtYk3I) | 3:23 | 2021-12-31 |  |
@@ -189,6 +190,7 @@
 | [Speed Limit](https://open.spotify.com/track/6fNDFwpFaWodIX2MYqPbdn) | [Savannah Harmon](https://open.spotify.com/artist/5ohZt1uNprmtf0EkzIQxnU) | [Speed Limit](https://open.spotify.com/album/3WwJuG2JSLkS86vsTOIq3Q) | 4:09 | 2021-12-31 |  |
 | [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 | 2021-12-31 | 2022-09-03 |
 | [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 | 2022-09-02 |  |
+| [Stone Harbor](https://open.spotify.com/track/7gTcD9zdcjHTRBnrpAQwbD) | [Holdyn Barder](https://open.spotify.com/artist/6PIHqwkUR98s655qDrXMeo) | [Stone Harbor](https://open.spotify.com/album/4k95Vi7LSRuJIQJUih6yoV) | 3:46 | 2022-09-09 |  |
 | [Stranger](https://open.spotify.com/track/4DyGan0wxPUZk21B1fF57X) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Stranger](https://open.spotify.com/album/5CnarDYvtOMmdLTnMqtWxY) | 2:30 | 2021-12-31 |  |
 | [Summer Song](https://open.spotify.com/track/22XIMbEUDkzVAJ5Sq74oVr) | [Bryce Mauldin](https://open.spotify.com/artist/5DXpUPIW7ConNwYAjXe5BE) | [Summer Song](https://open.spotify.com/album/16O5t7E56ZZ7TpuIYv7W4h) | 3:05 | 2021-12-31 | 2022-08-02 |
 | [Take It In](https://open.spotify.com/track/79Mi50c5uMHicF4HrS1q47) | [Cat Stone](https://open.spotify.com/artist/5rW38Fh10oQoc0ZUN3WlQi) | [Take It In](https://open.spotify.com/album/70MvUsZkuv2Nn4XMEYsHkg) | 3:35 | 2022-01-07 |  |
@@ -215,7 +217,7 @@
 | [Used To](https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D) | [Natalia Taylar](https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Used To](https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId) | 3:25 | 2021-12-31 |  |
 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 | 2022-07-15 |  |
 | [Ways To Miss You](https://open.spotify.com/track/7tL3FQZW9j7mV0G1Y5CRps) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Ways To Miss You](https://open.spotify.com/album/6TvGzZvJ31VOQYuQf1wXPY) | 3:09 | 2021-12-31 |  |
-| [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-31 |  |
+| [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-31 | 2022-09-10 |
 | [We'll Be](https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [We'll Be](https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI) | 3:47 | 2021-12-31 |  |
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 |  |
 | [What I'm Missing](https://open.spotify.com/track/66GQoMh8QwUD8ogFEX2xxD) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [What I'm Missing](https://open.spotify.com/album/5KBJHtly6fuSycf8Hou4mm) | 4:07 | 2021-12-31 | 2022-02-12 |

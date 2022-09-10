@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 160482,
+  "num_followers": 160512,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGJmZGZjZDRkOWYxMGYyMDRkYTZjZTAyYjdjNmU5ZGU0",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGI0NGYzOWZlNjM0MzAyN2UwODg2MWU0MmNjYjAwZTJj",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -631,22 +631,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Tell That (feat. Mr. Talkbox)",
-        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
       "artists": [
         {
-          "name": "Juan Winans",
-          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 179840,
-      "name": "Tell That (feat. Mr. Talkbox)",
-      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -667,18 +663,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+        "name": "Tell That (feat. Mr. Talkbox)",
+        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Juan Winans",
+          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
         }
       ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
+      "duration_ms": 179840,
+      "name": "Tell That (feat. Mr. Talkbox)",
+      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Be Like You",
         "url": "https://open.spotify.com/album/4xIxK1YMgsgdgV2Xf3PfFA"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 274842,
       "name": "Be Like You",
       "url": "https://open.spotify.com/track/02CSSbF9oGhVBpiWxKxa1v"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -839,22 +839,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         },
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 180678,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
+      "duration_ms": 147604,
+      "name": "Has anyone ever left you high and dry?",
+      "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -875,22 +875,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 147604,
-      "name": "Has anyone ever left you high and dry?",
-      "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
+      "duration_ms": 180678,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Lovely Day",
+        "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 101214,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Lovely Day",
-        "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 101214,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "The Best Friend",
+        "url": "https://open.spotify.com/album/3B9L9agghKNHGI6ulzHnUW"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "duration_ms": 234762,
+      "name": "The Best Friend",
+      "url": "https://open.spotify.com/track/6gndTSB6dxJOz8db35DqFO"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "The Best Friend",
-        "url": "https://open.spotify.com/album/3B9L9agghKNHGI6ulzHnUW"
-      },
-      "artists": [
-        {
-          "name": "Mervin Mayo",
-          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
-        }
-      ],
-      "duration_ms": 234762,
-      "name": "The Best Friend",
-      "url": "https://open.spotify.com/track/6gndTSB6dxJOz8db35DqFO"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "God of Dreams",
-        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "God of Dreams",
+        "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
     },
     {
       "added_at": "2022-07-17 05:38:31",

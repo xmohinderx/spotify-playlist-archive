@@ -1,12 +1,12 @@
 {
   "description": "The sky isn't falling, that's just Ingrid Andress taking over\ud83d\udca7 Her new album 'Good Person' is out now!",
-  "num_followers": 21737,
+  "num_followers": 21873,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGY4YTU1OGU1MDMxYTA1OTk4NGY2Mzc1NmI4ZWFkZDIz",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDk3YTJiMTFlOWE0NTMxYTY1NGVlNjBhOTFkYzU5YThm",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "What Do They Know",
+        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Try Losing One",
+      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "What Do They Know",
-        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Try Losing One",
-      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "If You Have To",
-        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 199493,
-      "name": "If You Have To",
-      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
     }
   ],
   "unique_name": "sad girl country",

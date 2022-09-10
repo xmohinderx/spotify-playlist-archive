@@ -2,9 +2,9 @@
 
 ### [Volume Máximo](https://open.spotify.com/playlist/37i9dQZF1DX4908CEYEdlz)
 
-> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Slipknot
+> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Nickelback
 
-170 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
+173 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2022-01-14 |  |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [Do Ya Wanna Taste It](https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N) | [Wig Wam](https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60) | [Non Stop Rock'n Roll](https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T) | 2:56 | 2022-03-04 | 2022-05-20 |
+| [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 |  |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-04 | 2022-03-26 |
 | [Dulcería](https://open.spotify.com/track/52beyXaBj0xcpTbwMPH8dN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Dulcería / Far Too Near](https://open.spotify.com/album/56AxTub06lzDBhqADOsGD7) | 4:53 | 2022-01-14 | 2022-04-29 |
 | [Dummy \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 2:22 | 2022-07-01 | 2022-08-27 |
@@ -68,6 +69,7 @@
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2022-01-14 |  |
 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 | 2022-03-18 |  |
 | [Fill My World \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3BAI5c9ju2d9BWzoFka2PO) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Fill My World \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/4zBCquAHyZuELJfNx2CJL5) | 5:28 | 2022-01-14 | 2022-01-29 |
+| [First You Jump](https://open.spotify.com/track/0SMl6SNZscGTPAtPUeLjFf) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [First You Jump](https://open.spotify.com/album/38850Wz3F2l5L9qniuXUqz) | 4:23 | 2022-09-09 |  |
 | [Forever Yours](https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Forever Yours](https://open.spotify.com/album/6bhTmeMKYsSgqg7hAaU8KQ) | 3:10 | 2022-04-08 | 2022-04-29 |
 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 | 2022-07-01 |  |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-07-29 |
@@ -84,7 +86,7 @@
 | [I'd Rather Die Than Let You In](https://open.spotify.com/track/1fufYQ0Tz8QOXMGQ3MEyot) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [I'd Rather Die Than Let You In](https://open.spotify.com/album/6u34jktTRXSNEWTJgqU8L9) | 3:10 | 2022-01-14 | 2022-02-19 |
 | [Iconic](https://open.spotify.com/track/7oTImlbBuKpTLi8hokqYR1) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:05 | 2022-05-06 | 2022-07-02 |
 | [In Situ](https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Alpha Games](https://open.spotify.com/album/12I46H1wjhsfOdf8iEETlB) | 2:55 | 2022-04-29 | 2022-06-11 |
-| [Joga No Meio Da Rua](https://open.spotify.com/track/2T0GTIJvjnJZN5uZfx6Fwu) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Sempre Seremos Culpados](https://open.spotify.com/album/3lbtvP29x8hYAP0wbF0fRX) | 2:02 | 2022-08-12 |  |
+| [Joga No Meio Da Rua](https://open.spotify.com/track/2T0GTIJvjnJZN5uZfx6Fwu) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Sempre Seremos Culpados](https://open.spotify.com/album/3lbtvP29x8hYAP0wbF0fRX) | 2:02 | 2022-08-12 | 2022-09-10 |
 | [Judged](https://open.spotify.com/track/5rYYglvkaU6H8RuzTlbVKu) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Judged](https://open.spotify.com/album/1auMaxs0lMueYI8YQktVkG) | 1:39 | 2022-01-14 | 2022-01-29 |
 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 | 2022-01-14 |  |
 | [Kick Me](https://open.spotify.com/track/4G7LvQlEpqqdinVSSfi8Mb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Kick Me](https://open.spotify.com/album/7zcJlkd6eLOiAP2FeMyzOE) | 3:37 | 2022-07-01 | 2022-07-30 |
@@ -128,8 +130,9 @@
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-03-11 | 2022-06-25 |
 | [Roses For You](https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Roses For You](https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa) | 3:20 | 2022-09-02 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 | 2022-08-13 |
+| [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 |  |
 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 | 2022-02-25 | 2022-04-02 |
-| [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 | 2022-09-02 |  |
+| [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 | 2022-09-02 | 2022-09-10 |
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-12 | 2022-09-03 |
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-02-19 |
 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2022-01-14 |  |
@@ -160,7 +163,7 @@
 | [Two Hearts](https://open.spotify.com/track/7b4mcEckMUoFQEa31W93Na) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Two Hearts](https://open.spotify.com/album/0WOSZtMFB1PVF94hoX5hlk) | 3:27 | 2022-03-04 | 2022-05-28 |
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2022-01-14 |  |
 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 | 2022-02-25 |  |
-| [Um Grito de Paz](https://open.spotify.com/track/6yGHySxpWPTPsq0dndxHdo) | [Oitão](https://open.spotify.com/artist/6DcGHTqziCAg4pkFJbJVx3) | [Um Grito de Paz](https://open.spotify.com/album/5uxY7jzlviLy7LYKIO0aeE) | 3:33 | 2022-09-02 |  |
+| [Um Grito de Paz](https://open.spotify.com/track/6yGHySxpWPTPsq0dndxHdo) | [Oitão](https://open.spotify.com/artist/6DcGHTqziCAg4pkFJbJVx3) | [Um Grito de Paz](https://open.spotify.com/album/5uxY7jzlviLy7LYKIO0aeE) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [Valley of Vision](https://open.spotify.com/track/6jse2wNXoAE1zxk9lvZzIB) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Valley of Vision](https://open.spotify.com/album/0cic8h13yxw8lAa92BXXC4) | 2:50 | 2022-04-29 |  |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-06-11 |
 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 | 2022-04-08 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-207 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+210 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,10 @@
 | [Bad For Me \- 49th & Main Remix](https://open.spotify.com/track/38FA5zTDl8fQY0mGoCosxd) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY), [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Bad For Me \(49th & Main Remix\)](https://open.spotify.com/album/5eg2sHsFBcTbHeXsazb8p2) | 2:50 | 2022-05-20 |  |
 | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [ØZMA](https://open.spotify.com/artist/1UsQc0jh5G4xfmXtYWSOpQ) | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr) | 3:10 | 2021-12-03 | 2022-02-12 |
 | [Be Ok](https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Be Ok](https://open.spotify.com/album/1EAYRPaU27CAiKlqf1tSRt) | 3:04 | 2021-12-03 |  |
+| [Better](https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Better](https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM) | 2:55 | 2022-09-09 |  |
 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/0k4yUonDEAqoIw3xL2XMVC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/album/51XyesKizT4PYjYCrGhbEn) | 3:54 | 2021-12-03 | 2022-05-14 |
 | [Beyond Control](https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apnea](https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C) | 5:32 | 2021-12-03 | 2022-05-07 |
+| [Bittersweet Love \(Hey Oh\)](https://open.spotify.com/track/0RVKiAxra7NF8dCugGfYWu) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ) | 4:25 | 2022-09-09 |  |
 | [Black & Blue](https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Black & Blue](https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU) | 2:28 | 2022-05-27 |  |
 | [Blame Myself](https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:50 | 2021-12-03 |  |
 | [Blue](https://open.spotify.com/track/4QOb9hRufjPp9TDdph7Wzh) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Blue](https://open.spotify.com/album/77m2CAzG88DkuYbXZD6VM6) | 3:33 | 2021-12-03 |  |
@@ -215,5 +217,6 @@
 | [You & Me](https://open.spotify.com/track/5nrWWX2fiR6tsoHVuCE73U) | [David Dann](https://open.spotify.com/artist/3ygopWhUuCaY9Vbi2TyX5T), [NICOLAS](https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1) | [You & Me](https://open.spotify.com/album/2C3fRDHwuvINz5t6NuxMYy) | 3:22 | 2021-12-03 | 2022-05-07 |
 | [You Don't Even Know Me](https://open.spotify.com/track/3OsCxc7lvB2u9WZMGO69DF) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Monstercat Uncaged Vol\. 6](https://open.spotify.com/album/5Dt2L9cgGjdeODEkH450QM) | 3:46 | 2021-12-03 | 2022-05-14 |
 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 | 2021-12-03 |  |
+| [You're Not Mine](https://open.spotify.com/track/0hiUJCgkKNkmMSgSCttvyR) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [You're Not Mine](https://open.spotify.com/album/6k8jZ4LIyTBd6YRTEloM4S) | 2:55 | 2022-09-09 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

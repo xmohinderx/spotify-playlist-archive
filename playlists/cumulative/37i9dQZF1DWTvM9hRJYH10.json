@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "By You",
+        "url": "https://open.spotify.com/album/7ugbAKwRlYfLsZBnKVSCCk"
+      },
+      "artists": [
+        {
+          "name": "Temecula Road",
+          "url": "https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181020,
+      "name": "By You",
+      "url": "https://open.spotify.com/track/0K37EIkIJ4MOAm7vje4Li9"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/1psx0StZRNxtb6qu08sDip"
       },
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 146117,
       "name": "Love You Now, Love You Later",
       "url": "https://open.spotify.com/track/0o7j1UwXNH88OGQQOwM9Oe"
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 152706,
       "name": "Somebody Loves You",
       "url": "https://open.spotify.com/track/4EtlDPVMEapdCaBWDFypFn"
@@ -3287,6 +3305,24 @@
       "duration_ms": 165242,
       "name": "Started Right Here",
       "url": "https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT"
+    },
+    {
+      "album": {
+        "name": "Stone Harbor",
+        "url": "https://open.spotify.com/album/4k95Vi7LSRuJIQJUih6yoV"
+      },
+      "artists": [
+        {
+          "name": "Holdyn Barder",
+          "url": "https://open.spotify.com/artist/6PIHqwkUR98s655qDrXMeo"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226851,
+      "name": "Stone Harbor",
+      "url": "https://open.spotify.com/track/7gTcD9zdcjHTRBnrpAQwbD"
     },
     {
       "album": {
@@ -3785,7 +3821,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 250000,
       "name": "We Both Know",
       "url": "https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ"

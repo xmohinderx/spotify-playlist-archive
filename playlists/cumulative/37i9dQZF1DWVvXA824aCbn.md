@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-305 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+307 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2020-10-20\* | 2021-01-07 |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2021-03-27 |  |
 | [Easy To Love](https://open.spotify.com/track/5SAndzGm2VigenSmI1C3TP) | [Johnny Christoff](https://open.spotify.com/artist/2waZtHlhD0EjlIQl5Kpbmo) | [Easy To Love](https://open.spotify.com/album/3AH2fKZ4ERtOrXx4zo01Pw) | 3:28 | 2020-10-20\* | 2021-01-21 |
+| [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-08 |  |
 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 | 2021-01-21 |  |
 | [estate](https://open.spotify.com/track/18NxSIKcBgidhFiY37s9tC) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 4:20 | 2020-10-20\* | 2021-01-21 |
 | [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-10 |  |
@@ -114,11 +115,11 @@
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2021-10-01 |  |
 | [I Only Have Eyes for You](https://open.spotify.com/track/2ripUOoce7Cc9A26fQAoxE) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 3:27 | 2020-10-20\* | 2021-01-21 |
 | [I Remember You \- Remastered](https://open.spotify.com/track/5mXNuN2Mxd8y0i051Dv6uC) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:52 | 2021-01-21 | 2021-03-10 |
-| [I Should Care](https://open.spotify.com/track/1AlVEuRHDTK0ozcFrgF6mf) | [Gregory Silver](https://open.spotify.com/artist/27EDLqLD3ymWe2mcyMNjhw) | [Tea For Two EP](https://open.spotify.com/album/7n96Uwf6DeQkSaG1J4NtzD) | 3:15 | 2020-10-20\* |  |
+| [I Should Care](https://open.spotify.com/track/1AlVEuRHDTK0ozcFrgF6mf) | [Gregory Silver](https://open.spotify.com/artist/27EDLqLD3ymWe2mcyMNjhw) | [Tea For Two EP](https://open.spotify.com/album/7n96Uwf6DeQkSaG1J4NtzD) | 3:15 | 2020-10-20\* | 2022-09-10 |
 | [I Sing This Song for You](https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:38 | 2021-01-21 |  |
 | [I Will Wait For You](https://open.spotify.com/track/0YFqTbYqglQhH2mkj1Cb1z) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [I Will Wait For You](https://open.spotify.com/album/0O6hlZssMqH4QAG1zDoWhH) | 2:16 | 2021-06-18 |  |
 | [I Wish I Knew](https://open.spotify.com/track/6jEtmU0Wssyr3KObLUxFYU) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 4:23 | 2020-10-20\* | 2022-08-19 |
-| [I'd Rather Be Alone](https://open.spotify.com/track/1hvi20elKFkF39L4jIdHRZ) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Someone Who Cares](https://open.spotify.com/album/3283AcxPjIXlPWsWsd4Kx2) | 4:07 | 2020-10-20\* |  |
+| [I'd Rather Be Alone](https://open.spotify.com/track/1hvi20elKFkF39L4jIdHRZ) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Someone Who Cares](https://open.spotify.com/album/3283AcxPjIXlPWsWsd4Kx2) | 4:07 | 2020-10-20\* | 2022-09-10 |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2021-10-29 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/3QU0LuySpN6J3jZUb9XYFv) | [Loretta Scott](https://open.spotify.com/artist/0aqKvHRVIcAor1S7jxLvyx) | [Nardis](https://open.spotify.com/album/1llSYGLKfSsFhHPeBdJTRJ) | 3:48 | 2020-10-20\* | 2020-12-09 |
 | [I'm Old Fashioned](https://open.spotify.com/track/2yOraIy6RgkENDX4Wo2z33) | [Tonya Malone](https://open.spotify.com/artist/3uC9zMR3YcPCLX47MTDq6N) | [All Blues](https://open.spotify.com/album/6fC5AN5GxERt3MSZcie5eB) | 3:59 | 2020-10-20\* | 2021-01-21 |
@@ -270,6 +271,7 @@
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2021-08-09 |  |
 | [the second time around](https://open.spotify.com/track/17anQSgIRc8QnvL4L4toUS) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 4:41 | 2020-10-20\* | 2021-01-21 |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2020-10-20\* | 2021-01-21 |
+| [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-08 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2020-10-20\* |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/7l4tE0xjccA4ZLl8pDOJ83) | [The Blue Phone Trio](https://open.spotify.com/artist/1PVrO6XKRJbrZdtuxVk1E9) | [Tenor Madness](https://open.spotify.com/album/40vcqBldcf88vO77OOPgQC) | 5:35 | 2020-10-20\* | 2020-12-09 |
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-04-01 |  |

@@ -1,13 +1,45 @@
 {
-  "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 139030,
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
+  "num_followers": 139333,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGVlMjc2MjM3MzY3OTcyOTY0N2MzYTM0NTlhZWVkOWU0",
+  "snapshot_id": "MTY2MjczNzM4NiwwMDAwMDAwMGYwODE5YTU0ZGRlNmI3ZWY5MDY0ZTQ4YzQzMjY3ZGVl",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Nothing at All / Good Times",
+        "url": "https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 244359,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje"
+    },
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
@@ -25,52 +57,52 @@
       "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "I Miss You Baby, Pt. 1",
-        "url": "https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF"
+        "name": "Seasons of Trouble",
+        "url": "https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Stereo League",
+          "url": "https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6"
         }
       ],
-      "duration_ms": 244560,
-      "name": "I Miss You Baby, Pt. 1",
-      "url": "https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84"
+      "duration_ms": 292737,
+      "name": "Seasons of Trouble",
+      "url": "https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "That's How Love Is Made",
-        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/6AUK6GoEdBjMN8P1YDJz3F"
       },
       "artists": [
         {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
         }
       ],
-      "duration_ms": 226986,
-      "name": "That's How Love Is Made",
-      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
-    },
-    {
-      "added_at": "2022-08-09 18:24:34",
-      "album": {
-        "name": "Me Or Her",
-        "url": "https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 170005,
-      "name": "Me Or Her",
-      "url": "https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms"
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Sqnq8upurWk6ZS4zOVZvC"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -93,72 +125,36 @@
       "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "X Boyfriends",
-        "url": "https://open.spotify.com/album/0ZEQ4W92SuEoXauwadG1UW"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Ali McGuirk",
-          "url": "https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 173724,
-      "name": "X Boyfriends",
-      "url": "https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI"
+      "duration_ms": 216680,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-09 18:24:34",
       "album": {
-        "name": "Easier Said Than Done",
-        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
+        "name": "Me Or Her",
+        "url": "https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Double Cream",
-        "url": "https://open.spotify.com/album/6QOMBBhNPQUGSbLDLKIoVN"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        },
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Hear Me Singing (Na Na Na Na Na Na Na Na)",
-      "url": "https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/6AUK6GoEdBjMN8P1YDJz3F"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/4Sqnq8upurWk6ZS4zOVZvC"
+      "duration_ms": 170005,
+      "name": "Me Or Her",
+      "url": "https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -175,22 +171,6 @@
       "duration_ms": 225312,
       "name": "By Design [Evel Knievel]",
       "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
-    },
-    {
-      "added_at": "2022-08-09 18:24:34",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh"
-      },
-      "artists": [
-        {
-          "name": "Rainee Blake",
-          "url": "https://open.spotify.com/artist/03PaZ9IYpD0VVrZeUatPC3"
-        }
-      ],
-      "duration_ms": 229042,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -337,30 +317,6 @@
       "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 284870,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "No Time For Dreaming",
@@ -411,6 +367,30 @@
       "duration_ms": 233413,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 284870,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -509,42 +489,6 @@
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
-      "added_at": "2021-12-13 16:49:02",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 218248,
-      "name": "Our Love (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
-    },
-    {
       "added_at": "2021-08-02 16:49:06",
       "album": {
         "name": "Private Space",
@@ -567,18 +511,38 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
       },
       "artists": [
         {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+      "duration_ms": 218613,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
+    },
+    {
+      "added_at": "2021-12-13 16:49:02",
+      "album": {
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 218248,
+      "name": "Our Love (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -595,6 +559,22 @@
       "duration_ms": 209200,
       "name": "Nobody's Clown",
       "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -667,22 +647,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Know",
-      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd"
       },
@@ -695,6 +659,22 @@
       "duration_ms": 251853,
       "name": "Do You Wanna Do Nothing with Me?",
       "url": "https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 200686,
+      "name": "Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -743,6 +723,22 @@
       "duration_ms": 246120,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Easier Said Than Done",
+        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
     },
     {
       "added_at": "2022-04-05 15:36:09",
@@ -875,26 +871,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Human (feat. Vince Harder & Louis Baker)",
-        "url": "https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD"
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
       "artists": [
         {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        },
-        {
-          "name": "Vince Harder",
-          "url": "https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M"
-        },
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 196840,
-      "name": "Human (feat. Vince Harder & Louis Baker)",
-      "url": "https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2"
+      "duration_ms": 204747,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -919,18 +907,26 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+        "name": "Human (feat. Vince Harder & Louis Baker)",
+        "url": "https://open.spotify.com/album/1OR9HNKkrsXXDyY5u98HYD"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        },
+        {
+          "name": "Vince Harder",
+          "url": "https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M"
+        },
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
         }
       ],
-      "duration_ms": 204747,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
+      "duration_ms": 196840,
+      "name": "Human (feat. Vince Harder & Louis Baker)",
+      "url": "https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1041,22 +1037,6 @@
       "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Sage Motel",
@@ -1075,6 +1055,22 @@
       "duration_ms": 232493,
       "name": "Sage Motel",
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1125,6 +1121,22 @@
       "url": "https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "aloha",
@@ -1141,36 +1153,36 @@
       "url": "https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+        "name": "Last Call For Coco",
+        "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
       },
       "artists": [
         {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/08K2541oRBCJGOZpAgF9Jk"
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
         }
       ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+      "duration_ms": 163766,
+      "name": "Love To Last",
+      "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+        "name": "I Miss You Baby, Pt. 1",
+        "url": "https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
         }
       ],
-      "duration_ms": 174586,
-      "name": "Trade of Hearts",
-      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
+      "duration_ms": 244560,
+      "name": "I Miss You Baby, Pt. 1",
+      "url": "https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1187,22 +1199,6 @@
       "duration_ms": 182813,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Last Call For Coco",
-        "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 163766,
-      "name": "Love To Last",
-      "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
     }
   ],
   "unique_name": "Retro Soul",

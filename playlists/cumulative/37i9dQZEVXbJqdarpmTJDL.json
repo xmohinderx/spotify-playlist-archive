@@ -10101,7 +10101,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 217350,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/4Wsom89nrtQXcK8xPGoViM"
@@ -18163,6 +18163,28 @@
       "duration_ms": 164374,
       "name": "Woo Walk",
       "url": "https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13"
+    },
+    {
+      "album": {
+        "name": "Work Out",
+        "url": "https://open.spotify.com/album/7iC4EGxvV937UOLMODZnTy"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/1ABRIGG2YqY5uLDLLfIBgx"
     },
     {
       "album": {

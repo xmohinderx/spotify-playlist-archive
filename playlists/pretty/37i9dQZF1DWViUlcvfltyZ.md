@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre più o meno distorte \(e i Marrano in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,896 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,913 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Canzone 7](https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 7](https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq) | 3:10 |
-| 2 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
-| 3 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
+| 1 | [EKOMOSTRO](https://open.spotify.com/track/1gPkmYuKbTfw5VdPCTpcNB) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [EKOMOSTRO](https://open.spotify.com/album/0ElZoCtcEi1ff0iSFIhG1j) | 3:23 |
+| 2 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
+| 3 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
 | 4 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 |
-| 5 | [EKOMOSTRO](https://open.spotify.com/track/1gPkmYuKbTfw5VdPCTpcNB) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [EKOMOSTRO](https://open.spotify.com/album/0ElZoCtcEi1ff0iSFIhG1j) | 3:23 |
-| 6 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 |
+| 5 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 |
+| 6 | [Canzone 7](https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 7](https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq) | 3:10 |
 | 7 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
 | 8 | [Città foresta](https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Città foresta](https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w) | 3:53 |
 | 9 | [Sunbathing](https://open.spotify.com/track/3zopgb185SC5qGckDEjP6y) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Sunbathing](https://open.spotify.com/album/5ywP1O5PNDuDXQSlb6oj3T) | 1:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 49 | [suitable](https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [suitable](https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez) | 3:18 |
 | 50 | [Love Will Take You from Behind](https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Love Will Take You from Behind](https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg) | 2:45 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGVjNGE5OTIzZGY3M2ZiNjg2OGRiMjU4NjZhODQ0ODNm`
+Snapshot ID: `MTY2MjczMTY4OCwwMDAwMDAwMGQ2YTk4MmI2NWU5MTM3ZjUwMmQwNTA0MGU4MTAwYjUx`

@@ -528,6 +528,32 @@
     },
     {
       "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/10racGxkbniYEwyKcajmba"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Dubdisko",
+          "url": "https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162459,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT"
+    },
+    {
+      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/2JpeFmcaX5PZKTpDQ3Yvjb"
       },

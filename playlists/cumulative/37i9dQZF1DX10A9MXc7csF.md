@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Conexión Divina
 
-216 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+217 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Vida Que Llevo](https://open.spotify.com/track/4S7R9k0FE0rvqfiXRNWtC6) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Vida Que Llevo](https://open.spotify.com/album/3lp3BPybljMlSq6lfQjp6b) | 3:39 | 2022-05-14 | 2022-07-23 |
 | [Voy a Mi Paso](https://open.spotify.com/track/75daErwWpFQEjUqIMFEsOY) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Voy a Mi Paso](https://open.spotify.com/album/7xiQtJCTl2wAOzV3cN8HOk) | 2:58 | 2022-05-14 | 2022-06-04 |
 | [Voy Hasta La Cima \(Vickz Kickz\)](https://open.spotify.com/track/0uSK1wJVLIxPQJaeR4NA2X) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Voy Hasta La Cima \(Vickz Kickz\)](https://open.spotify.com/album/12b9MJ11lXHknBg3q76njX) | 3:32 | 2022-05-14 | 2022-09-09 |
+| [WhatsApp](https://open.spotify.com/track/2dpxmuF4RltdQvh0sg5wcA) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [WhatsApp](https://open.spotify.com/album/27iHl47FNY4y2h4LJLCv98) | 2:38 | 2022-09-09 |  |
 | [XXXXX](https://open.spotify.com/track/6a722MT4feZC2A1ZRVjDI0) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [CRISIS](https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX) | 2:42 | 2022-08-26 |  |
 | [Ya Les Contaron](https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Atrapado En El Papel](https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54) | 2:12 | 2022-05-14 | 2022-08-27 |
 | [Ya Me Va Mejor](https://open.spotify.com/track/2Se8iSCMXXEd6UD0bI4efk) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Ya Me Va Mejor](https://open.spotify.com/album/3RgShSLXoIuOWKEgziNjEx) | 2:35 | 2022-08-26 |  |

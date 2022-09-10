@@ -1050,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "album": {
         "name": "Online\u2122",
         "url": "https://open.spotify.com/album/3uf2QyucWw4m50xMahNoTV"
       },
@@ -4219,7 +4237,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 226500,
       "name": "Oneirataxia",
       "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,325 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,335 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 2 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 |
-| 3 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
-| 4 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 |
+| 3 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 |
+| 4 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
 | 5 | [Touch in the Night \- Radio Version](https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ) | [Silent Circle](https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie) | [No.1 \(Jubiläums Edition\)](https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY) | 3:37 |
 | 6 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
 | 7 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 15 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 16 | [You Goin' Miss Your Candyman](https://open.spotify.com/track/3teQ8pkzhuw4JILPFUADIu) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [What Color Is Love](https://open.spotify.com/album/61YKu9dRRskWOAT3ijKTr2) | 7:19 |
 | 17 | [Can't You See](https://open.spotify.com/track/0QHgoeTQNQmyA1bNoUhZD3) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Players Theme](https://open.spotify.com/album/6Ce256upxpicVQuZCebMlo) | 5:05 |
-| 18 | [The Spirit](https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF) | 2:15 |
-| 19 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 |
+| 18 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 |
+| 19 | [The Spirit](https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF) | 2:15 |
 | 20 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 21 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 |
 | 22 | [Waiting](https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Waiting](https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz) | 6:52 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 29 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 |
 | 30 | [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 |
 | 31 | [Ba:sen \- Pool Party Dub Mix](https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5) | [In Deep We Trust](https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc) | [The Lost Grooves EP](https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El) | 5:49 |
-| 32 | [64 Ways](https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Boxed Out](https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK) | 4:44 |
-| 33 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 |
+| 32 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 |
+| 33 | [64 Ways](https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Boxed Out](https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK) | 4:44 |
 | 34 | [Warm Priority](https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko) | [Priorities](https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X) | 5:48 |
 | 35 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
 | 36 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Gonna Make You Mine](https://open.spotify.com/track/3x59bNHg2OwyaeHChaixaP) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo) | [Zagora](https://open.spotify.com/album/2ev6ZbefgaoveKnaVGJ6oD) | 4:30 |
 | 50 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
 
-Snapshot ID: `MTY0MjEzNjQwMCwwMDAwMDAwMDEyYjI0MjIzZmU2ZGIxNzA5NGYzMmEzY2NlYTY1MTdk`
+Snapshot ID: `MTY0MjEzNjQwMCwwMDAwMDAwMDAzOTU2NDFmYzJlNTg1OTM4NGFiZDgwYjYyNmQ4ZTZm`

@@ -4,11 +4,12 @@
 
 > The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-155 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+156 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10\-4](https://open.spotify.com/track/13JH4T5Vwy9bZ9g2Yene4Y) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [Bad Case of the Good Ole Boy](https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP) | 3:07 | 2021-10-15 |  |
+| [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 | 2022-09-09 |  |
 | [A Million and One](https://open.spotify.com/track/6298i3fOw3l5rmtR462TFe) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [A Million and One](https://open.spotify.com/album/2ITnWh4L3RKZdnQN0R6TcC) | 2:38 | 2021-10-15 |  |
 | [Ain't No Closing Me Down](https://open.spotify.com/track/4kqSHwiAg5Su68ifqjUPNm) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5B0XkXMEc6pdzdoyaDjZM5) | 3:16 | 2021-11-05 |  |
 | [Ain't No Use \- From The Vault](https://open.spotify.com/track/2Mli3VOG5a2j1hraiVFzQ0) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Ain't No Use \(From The Vault\)](https://open.spotify.com/album/3ewze7JxC5pZq68xJMx7gp) | 2:58 | 2021-10-15 | 2022-07-29 |

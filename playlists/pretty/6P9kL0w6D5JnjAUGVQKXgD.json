@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTQxMSxkMjVkMmI1ZjBkNTRmY2E0NTA3YmI2MzRlYWNjNTBiYWU4NDZhM2Zl",
+  "snapshot_id": "MTQxMixhM2M0ZjA1MzcwNWQ0MWUwMmNjZTM3MDMzODk2ODIzMWJmMjQ1ZTg0",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -249,6 +249,26 @@
       "url": "https://open.spotify.com/track/3znXN4Ma03pGJqHUPQn7Jq"
     },
     {
+      "added_at": "2022-09-09 15:41:02",
+      "album": {
+        "name": "All These Lies",
+        "url": "https://open.spotify.com/album/3ahkwuScqgNighnqnF8Ad1"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "duration_ms": 149097,
+      "name": "All These Lies",
+      "url": "https://open.spotify.com/track/1f00MXwSWrqAjsvBnRPzQl"
+    },
+    {
       "added_at": "2022-07-22 15:45:02",
       "album": {
         "name": "Omno",
@@ -363,6 +383,22 @@
       "duration_ms": 133750,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/726WoY8S2x12yGHqdhqTcT"
+    },
+    {
+      "added_at": "2022-09-09 15:41:02",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2kdbr8bwTxVl7e3SCQFcb1"
+      },
+      "artists": [
+        {
+          "name": "Robin Tayger",
+          "url": "https://open.spotify.com/artist/0lM9sKjSzEzcQZZeFlITzy"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/2wvJsZat6AUgMuiw9wLzJi"
     },
     {
       "added_at": "2022-05-06 15:41:01",
@@ -1971,50 +2007,6 @@
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
-    },
-    {
-      "added_at": "2022-09-06 15:41:02",
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
-    },
-    {
-      "added_at": "2022-06-22 15:41:03",
-      "album": {
-        "name": "Wake Up! (feat. Kaleta)",
-        "url": "https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Wake Up! (feat. Kaleta)",
-      "url": "https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1"
     }
   ],
   "unique_name": "EDM Top 100",

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-297 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+298 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [White Honda](https://open.spotify.com/track/57uA9JRQxD9BoEx3N6FC8N) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [White Honda](https://open.spotify.com/album/24ihEz3AzFTqxVH2SfGI0u) | 3:15 | 2022-06-24 |  |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-29 |  |
 | [With You](https://open.spotify.com/track/7xbO9ZKSXeos37wSnKPfSZ) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [infina ad nausea: the remixes \[miami rave pack\]](https://open.spotify.com/album/3AVo3rXPsQirTxXQKCHhmw) | 3:33 | 2022-04-18 |  |
+| [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-09 |  |
 | [Worth My Time](https://open.spotify.com/track/2HBtlBkPLCvb35jcmuTUZF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Clearer Now EP](https://open.spotify.com/album/62jgddV1RnTux5oI7uzuSU) | 4:20 | 2022-03-11 | 2022-03-31 |
 | [Younger \- BARDZ Remix](https://open.spotify.com/track/4RkEXZ8eXEYHzoGuZIOohL) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:22 | 2021-12-01 | 2022-02-05 |
 | [Younger \- Blookah Remix](https://open.spotify.com/track/5bROtKOIFUxZkma5LeFbXa) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:15 | 2021-12-01 | 2022-02-05 |

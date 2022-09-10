@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-209 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+210 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Inner City Blues](https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Inner City Blues](https://open.spotify.com/album/0Tpbm8P52M6OLufUXwKZAY) | 4:53 | 2022-07-14 | 2022-08-12 |
 | [It Was You](https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:30 | 2022-07-14 |  |
 | [It Was You](https://open.spotify.com/track/4erTX3wgD0p4ZvoeXN30Gi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [It Was You](https://open.spotify.com/album/4auJ5nsBrC9i6BKeUTZihy) | 5:30 | 2021-11-19 | 2022-07-29 |
+| [It's Complicated](https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/2wakq28QTH960KEygvzPXl) | 3:28 | 2022-09-09 |  |
 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 | 2021-11-19 | 2022-09-06 |
 | [Just A Little Bit](https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 5:02 | 2022-07-14 |  |
 | [Just A Little Bit](https://open.spotify.com/track/3dIIFugA63qbkvnX9pTgw3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Just A Little Bit](https://open.spotify.com/album/56bhw19Vvl8lJ5A8DAZMm3) | 5:02 | 2021-11-19 | 2022-07-28 |
@@ -121,7 +122,7 @@
 | [Just Like Chet](https://open.spotify.com/track/7MUT6pSYjzAUJYSg3Hva02) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:36 | 2022-08-30 |  |
 | [Kettle](https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Kettle](https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG) | 4:24 | 2022-07-14 |  |
 | [Kettle](https://open.spotify.com/track/1cNgHg7pkufDZRT6A9zgaR) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM), [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy), [R\-Kay](https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2) | [Kettle](https://open.spotify.com/album/0G5T0KwJy5Psa57XIDR7qJ) | 4:24 | 2021-11-19 | 2022-07-29 |
-| [Leave Me Be](https://open.spotify.com/track/2Y7Hj6WOx5yZQgQzPNdowj) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/5xzepLZ4dkvgdr0aJ1T7t0) | 4:41 | 2022-07-14 |  |
+| [Leave Me Be](https://open.spotify.com/track/2Y7Hj6WOx5yZQgQzPNdowj) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/5xzepLZ4dkvgdr0aJ1T7t0) | 4:41 | 2022-07-14 | 2022-09-10 |
 | [Leave Me Be](https://open.spotify.com/track/7gN8Gzui3dHpYHELOZYpza) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/0SiuiSehAPDk7tqX4zdSPE) | 4:41 | 2022-05-20 | 2022-07-31 |
 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 | 2021-11-19 |  |
 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 | 2021-11-19 | 2022-08-12 |

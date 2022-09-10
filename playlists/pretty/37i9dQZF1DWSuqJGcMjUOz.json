@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGMwYzlhYmY0MDQ4NmZhZDMyZjdkNzZjNzBiMTkwZDUy",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDI1NGYxMzE2NmVmNTE3M2MwN2Y1YWYxMTJjNDVhMGFi",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "La lumineuse",
-        "url": "https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "La lumineuse",
-      "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Equilibre",
         "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "La lumineuse",
+        "url": "https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "La lumineuse",
+      "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Soleil '96",
+        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Si je pleure",
+      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Roi",
         "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 188369,
       "name": "Les Rois",
       "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Soleil '96",
-        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Si je pleure",
-      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 323480,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Bo\u00eete aux lettres",
-        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
       },
       "artists": [
         {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
         }
       ],
-      "duration_ms": 210920,
-      "name": "Fontaine \u00e0 v\u0153ux",
-      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
+      "duration_ms": 323480,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "OC\u00c9AN",
-        "url": "https://open.spotify.com/album/49JXCaffV2JxIkhka67PLE"
+        "name": "Bo\u00eete aux lettres",
+        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
       },
       "artists": [
         {
-          "name": "Elia",
-          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
         }
       ],
-      "duration_ms": 165320,
-      "name": "CHOCOLAT",
-      "url": "https://open.spotify.com/track/3TcxLbehznRagEDEmCcMuY"
+      "duration_ms": 210920,
+      "name": "Fontaine \u00e0 v\u0153ux",
+      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "OC\u00c9AN",
+        "url": "https://open.spotify.com/album/49JXCaffV2JxIkhka67PLE"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "CHOCOLAT",
+      "url": "https://open.spotify.com/track/3TcxLbehznRagEDEmCcMuY"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Diorama",
         "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 202959,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Normal de l'Est",
-        "url": "https://open.spotify.com/album/0klnKx0f9LC9KhlqdJThQX"
-      },
-      "artists": [
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La rue m'appelle encore",
-      "url": "https://open.spotify.com/track/1wQgoc9WHfsGVVscR0sJ53"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Haute M\u00e8re",
-        "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
+        "name": "Normal de l'Est",
+        "url": "https://open.spotify.com/album/0klnKx0f9LC9KhlqdJThQX"
       },
       "artists": [
         {
-          "name": "Lynda Lemay",
-          "url": "https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0"
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
         }
       ],
-      "duration_ms": 284653,
-      "name": "Le souhait de Carmen",
-      "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
+      "duration_ms": 210186,
+      "name": "La rue m'appelle encore",
+      "url": "https://open.spotify.com/track/1wQgoc9WHfsGVVscR0sJ53"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 151586,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Haute M\u00e8re",
+        "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
+      },
+      "artists": [
+        {
+          "name": "Lynda Lemay",
+          "url": "https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Le souhait de Carmen",
+      "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sweet Mont\u00e9r\u00e9gie",
-        "url": "https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr"
-      },
-      "artists": [
-        {
-          "name": "Alex Burger",
-          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Sweet Mont\u00e9r\u00e9gie",
-      "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "All\u00f4 Fant\u00f4me",
         "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sweet Mont\u00e9r\u00e9gie",
+        "url": "https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr"
+      },
+      "artists": [
+        {
+          "name": "Alex Burger",
+          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Sweet Mont\u00e9r\u00e9gie",
+      "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
     },
     {
       "added_at": "2022-05-25 18:00:00",

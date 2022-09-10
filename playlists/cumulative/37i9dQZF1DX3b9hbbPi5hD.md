@@ -4,7 +4,7 @@
 
 > Tarantino not only produces great movies, he produces great soundtracks
 
-69 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/4ngwbltwZ10J2jqjWazBLN)
+70 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4ngwbltwZ10J2jqjWazBLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Tennessee Stud](https://open.spotify.com/track/5mRBBpUjXN3jHFT5GYNrrk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/19rYWxZfMdEOxTDODFjLyb) | 2:54 | 2018-08-20 |  |
 | [Tennessee Stud \- Live](https://open.spotify.com/track/5sGPEJx6q4A2CIkvpfKEuQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Jackie Brown \(Music from the Miramax Motion Picture\)](https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8) | 2:54 | 2018-08-20 | 2022-07-29 |
 | [Too Old To Die Young](https://open.spotify.com/track/43JngJ3vMsaTL8SiRwEYQp) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 3:43 | 2018-08-20 |  |
+| [Treat Her Right](https://open.spotify.com/track/2dq2J24oIF67Uvttut4dv7) | [Roy Head And The Traits](https://open.spotify.com/artist/30rTY7YT6tAoAUoGJXQBqQ) | [The Best Of Roy Head](https://open.spotify.com/album/1pY5yYIU9DNm9GTFhCyMTt) | 2:05 | 2022-09-09 |  |
 | [Two Hearts](https://open.spotify.com/track/3qFSNhAr1AnMjFXZZ4pwgq) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [True Romance](https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2) | 3:33 | 2018-08-20 | 2022-07-29 |
 | [Two Hearts](https://open.spotify.com/track/4s33OWdJwxpD4Va3XgAS1K) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [San Francisco Days](https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov) | 3:34 | 2018-08-20 |  |
 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 | 2018-08-20 |  |

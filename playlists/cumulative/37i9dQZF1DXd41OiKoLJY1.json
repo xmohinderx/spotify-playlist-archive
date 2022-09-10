@@ -7846,6 +7846,28 @@
     },
     {
       "album": {
+        "name": "Rigodon",
+        "url": "https://open.spotify.com/album/6vhaYjAI6XP5x6RkklfnKm"
+      },
+      "artists": [
+        {
+          "name": "Run Silas",
+          "url": "https://open.spotify.com/artist/2n8RvsyGbpluYSEwtlX4Mk"
+        },
+        {
+          "name": "Hans Dimayuga",
+          "url": "https://open.spotify.com/artist/56p3ilIEBlYgDzOKA1HFQk"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323696,
+      "name": "Rigodon",
+      "url": "https://open.spotify.com/track/5cF02vAZUK8nCpGx9U1F2G"
+    },
+    {
+      "album": {
         "name": "RISK IT ALL",
         "url": "https://open.spotify.com/album/3Ec3t1idJXWgLYGM7HHK0a"
       },

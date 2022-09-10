@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:1bSPgPv4OyNIMnWqG7TtTf">Carolei</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,291 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,294 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

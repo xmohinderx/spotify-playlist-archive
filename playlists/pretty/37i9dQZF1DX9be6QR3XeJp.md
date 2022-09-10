@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Yazmin Lacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,620 likes - 124 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,603 likes - 124 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

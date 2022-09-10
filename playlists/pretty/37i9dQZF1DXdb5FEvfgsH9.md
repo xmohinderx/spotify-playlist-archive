@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,232 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,271 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

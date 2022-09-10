@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 0am
 
-1,971 songs - 5 day 1 hr 9 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+1,972 songs - 5 day 1 hr 12 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,7 +667,8 @@
 | [Poetry](https://open.spotify.com/track/1s0qg3wm8Mk6zDzISFNXtj) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp), [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn) | [Poetry](https://open.spotify.com/album/6nbq4fTcVTqwYpsanWN0ou) | 4:05 | 2021-12-01 | 2021-12-15 |
 | [POGO!](https://open.spotify.com/track/2hKgJ0aa04ngDPTBmwLhje) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [POGO!](https://open.spotify.com/album/2VQTKI4oPgzNhjS6qPE5Sa) | 2:58 | 2022-03-01 | 2022-03-08 |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-25 | 2022-08-02 |
-| [PolarisSoraris](https://open.spotify.com/track/1eTNZd8otbgJjSHKvYWKMY) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [PolarisSoraris](https://open.spotify.com/album/1shC2RZp0dfL900AwVsoym) | 3:32 | 2022-08-29 |  |
+| [PolarisSoraris](https://open.spotify.com/track/1eTNZd8otbgJjSHKvYWKMY) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [PolarisSoraris](https://open.spotify.com/album/1shC2RZp0dfL900AwVsoym) | 3:32 | 2022-08-29 | 2022-09-10 |
+| [PolarisSoraris](https://open.spotify.com/track/7tt808bp80CZ86plNYRxcR) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [Sign](https://open.spotify.com/album/6QUur9J820mpkKER6SC3Ax) | 3:32 | 2022-09-05 |  |
 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 | 2022-08-29 |  |
 | [Precious](https://open.spotify.com/track/5kn2g75RCLUFj9FEY3aoYh) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [Precious](https://open.spotify.com/album/4XDaGZKHjIe20QW8NQJ978) | 3:11 | 2022-08-01 | 2022-08-16 |
 | [Precious](https://open.spotify.com/track/66P1tXujQ27E8fKXAbgs7d) | [Miu Sakamoto](https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h) | [HATSUKOI](https://open.spotify.com/album/1SM8DeWjbBzT5KRUB1WQ1i) | 4:14 | 2022-08-23 | 2022-08-30 |

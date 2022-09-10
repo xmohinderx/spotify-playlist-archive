@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 47618,
+  "num_followers": 47710,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk4ODMyOSwwMDAwMDAwMDQ3ZWFlZWI3YTJiYTdlYjJiZTcwMGE5OWNkZWNiMDgz",
+  "snapshot_id": "MTY1Mjk4ODMyOSwwMDAwMDAwMDg3Y2NjNTJjOTY4MTkwN2ExZTI5N2Y4MTczZmJmZDdh",
   "tracks": [
     {
       "added_at": "2022-05-19 19:25:29",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
+        "name": "White Hot Blues",
+        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 303520,
+      "name": "Highway 61 Revisited - Live in California - September 1975",
+      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
         "name": "Best - Southern Blues",
         "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 237680,
       "name": "Taylor's Rock",
       "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "White Hot Blues",
-        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 303520,
-      "name": "Highway 61 Revisited - Live in California - September 1975",
-      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
     },
     {
       "added_at": "2022-05-19 19:25:29",

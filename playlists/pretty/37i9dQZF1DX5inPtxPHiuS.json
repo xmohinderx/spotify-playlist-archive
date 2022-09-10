@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 78591,
+  "num_followers": 78627,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGFlMTEzYTk4N2M1NDIxMDUxODI5Mzg4MDY1MGQyYzY2",
+  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGViNDMxYmI0N2VjYzE2NGYyMTk4YzMzYjBkMzdkYmM0",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 240293,
       "name": "Desvanecer",
       "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Apolog\u00eda de una Amigdala Inflamada",
+        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Apolog\u00eda de una Amigdala Inflamada",
+      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Cheap Universe",
         "url": "https://open.spotify.com/album/6pfD8h8RpX8EZPPxb4WsNE"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 194409,
       "name": "Cheap Universe",
       "url": "https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
     },
     {
       "added_at": "2022-06-24 05:15:00",

@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Arriesgado en portada.
 
-155 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+156 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2022-07-01 | 2022-08-06 |
 | [Cuervo Sierra](https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX) | 2:55 | 2022-01-14 | 2022-07-29 |
 | [Cuervo Sierra](https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj) | 2:55 | 2022-01-14 |  |
-| [Cuéntame](https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuéntame](https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4) | 2:46 | 2022-08-05 |  |
+| [Cuéntame](https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuéntame](https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4) | 2:46 | 2022-08-05 | 2022-09-10 |
 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 | 2022-04-15 |  |
 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 | 2022-06-03 |  |
 | [De Rancho Soy](https://open.spotify.com/track/0OU7uk4jZKFJfp4o1xGhql) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [De Rancho Soy](https://open.spotify.com/album/07yxl1Vy4N11B9eYrUhRgV) | 2:39 | 2022-07-01 | 2022-08-25 |
@@ -150,6 +150,7 @@
 | [Soy de Sinaloa](https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Soy de Sinaloa](https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2) | 2:41 | 2022-02-04 |  |
 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 | 2022-07-01 |  |
 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 | 2022-07-01 | 2022-08-06 |
+| [Super Poderes](https://open.spotify.com/track/0pDdSWpGQR3kHsKFU9BPvo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Super Poderes](https://open.spotify.com/album/6KE2wD6wHaePxuegsmPnGP) | 2:53 | 2022-09-02 |  |
 | [Sí Como No](https://open.spotify.com/track/5TOathKIZl0EoGUKUoLpdx) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Sí Como No](https://open.spotify.com/album/1vNqMTlcHfLvcAayh4ZXRK) | 2:35 | 2022-07-01 | 2022-07-28 |
 | [Tan Bella y Tan Presumida](https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida](https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici) | 3:01 | 2021-12-17 |  |
 | [Te Amaré Más](https://open.spotify.com/track/4i7s10avxVqIdMERsS996a) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Te Amaré Más](https://open.spotify.com/album/2d7b3fXbYvWpBDuIyPbAS9) | 3:44 | 2022-08-05 |  |

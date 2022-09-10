@@ -4,12 +4,13 @@
 
 > it's a cinnamon infused kind of mood
 
-166 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
+171 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 | 2021-12-03 |  |
 | [501](https://open.spotify.com/track/5Tp6cM02TFg9K1aLKjbeQO) | [Mehalah Ray](https://open.spotify.com/artist/2FyrB3pGnBmM38dqsu4qXK) | [501](https://open.spotify.com/album/02SQmWh56gUEjYFWJjrzhO) | 3:14 | 2021-12-03 | 2022-08-27 |
+| [A Confident Woman](https://open.spotify.com/track/2RRgYyr0gigaK0ypTmWbFg) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [A Confident Woman](https://open.spotify.com/album/18Bd4WuWFwhMwZSB6oFDQt) | 4:17 | 2022-09-09 |  |
 | [Above The Clouds Of Pompeii](https://open.spotify.com/track/3cnkPRKvkItP5xGfnAPsAg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Above The Clouds Of Pompeii](https://open.spotify.com/album/1tPCZqyFeLgfbb0sY2PFEP) | 4:39 | 2021-12-03 | 2022-07-29 |
 | [Above The Clouds Of Pompeii](https://open.spotify.com/track/723paR6LrVISFCXFPf5z57) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Islands](https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp) | 4:39 | 2022-06-22 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-12-03 | 2022-08-16 |
@@ -62,6 +63,7 @@
 | [end of my street](https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 2:42 | 2021-12-03 | 2022-08-27 |
 | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/track/0In3u56vbH2at3bViAzzwq) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/album/0HLowVrjApBviPxvLWbRKI) | 3:34 | 2021-12-03 | 2022-08-16 |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2021-12-03 | 2022-08-16 |
+| [eyes don't lie](https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don't lie](https://open.spotify.com/album/4QRxLPMrWWw1NCEc1sCVGw) | 3:46 | 2022-09-09 |  |
 | [Face to Face](https://open.spotify.com/track/0RQPktmooLA3TJqQVyR29m) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Face to Face](https://open.spotify.com/album/3vwhtBspoJYUhNjQs47ztR) | 3:39 | 2021-12-03 |  |
 | [Fisher Island Sound](https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Fisher Island Sound](https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s) | 2:44 | 2021-12-03 |  |
 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 | 2021-12-03 | 2022-08-16 |
@@ -74,6 +76,7 @@
 | [Happy Just to Know](https://open.spotify.com/track/3txtCmzzpRv33LqhYllCkA) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [High Moon](https://open.spotify.com/album/4lId9PZ1NyhAb3Tk1NfetV) | 3:24 | 2021-12-03 | 2022-07-29 |
 | [Harsh](https://open.spotify.com/track/4kQ83UaTyWGNW935WsE6xm) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Harsh](https://open.spotify.com/album/6OF83X7IwBRBP3SXQkMUuR) | 2:14 | 2022-08-26 |  |
 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2021-12-03 | 2022-08-27 |
+| [Hearts On Fire](https://open.spotify.com/track/5siZIfq3OhVtW8VjYYOrhL) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Hearts On Fire](https://open.spotify.com/album/69BFhYrz5Synd1tbPnD9e8) | 3:33 | 2022-09-09 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-03 |  |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2021-12-03 |  |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2021-12-03 |  |
@@ -84,6 +87,7 @@
 | [I'll Be There](https://open.spotify.com/track/4fIw0XD56hLGb7MCEqSs0K) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3njJDE85untcXnz7ZEhs4a) | 4:10 | 2021-12-03 | 2022-07-29 |
 | [I'll Be There](https://open.spotify.com/track/7wl10M6WHU8lxW75lUsmqX) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo) | 4:10 | 2022-06-22 | 2022-08-27 |
 | [I'll Never Forget The Time I Spent With You](https://open.spotify.com/track/4fdTYbdskQ3GqivKixQq97) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2r8yXie5ySfYgRuxmceSmf) | 3:13 | 2022-08-15 |  |
+| [In From Japan](https://open.spotify.com/track/0LxU43GrDXaH5EMZdNJDtm) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In From Japan](https://open.spotify.com/album/22svVKvi5msG9GcGcQOPcT) | 4:22 | 2022-09-09 |  |
 | [Inside Your Room](https://open.spotify.com/track/4xKberJEczVzju2uFi1dXQ) | [Jane.](https://open.spotify.com/artist/3RqtsKam6royX9WHYHJJTc) | [Inside Your Room](https://open.spotify.com/album/35FgPV2w580BfiQmJPnlnd) | 4:20 | 2021-12-03 |  |
 | [into the wild](https://open.spotify.com/track/7zKxoK67ddk6i4Oe0lhPh8) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [the morning \(all of the songs\)](https://open.spotify.com/album/4cKBAg2zgjrVF2XefrW4WC) | 3:49 | 2021-12-03 |  |
 | [Jaywalker](https://open.spotify.com/track/64fLnAAnU9oIP42QSUxETp) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Jaywalker](https://open.spotify.com/album/5KZzCLcnzosfkZrNavm3zE) | 3:12 | 2021-12-03 | 2022-08-27 |
@@ -118,6 +122,7 @@
 | [racetrack](https://open.spotify.com/track/48yA757PIMqJsXhP1snqso) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [racetrack](https://open.spotify.com/album/0RuT3dmCkAsXkurFEXAjfV) | 4:12 | 2021-12-03 | 2022-07-29 |
 | [racetrack](https://open.spotify.com/track/6mYLzPdDcGMMRLSPf1tXh6) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [racetrack](https://open.spotify.com/album/7JfaQkDno43r69vsZ3OPYo) | 4:12 | 2022-06-22 | 2022-08-27 |
 | [Salt Lake City](https://open.spotify.com/track/5XUmyG1dSbD4mxWd0iSVXZ) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Salt Lake City](https://open.spotify.com/album/6PWw4C7R39yfPcGPGStZNv) | 3:52 | 2021-12-03 |  |
+| [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-09-09 |  |
 | [Say Yes](https://open.spotify.com/track/4nYxHYLezGh4WWuEEjIoPs) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/4R2L1qKpRFHkpFdDbJlgE2) | 2:21 | 2021-12-03 | 2022-07-29 |
 | [Say Yes](https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/5l4P7N8kapeqHFOysjbj3H) | 2:21 | 2022-06-22 | 2022-08-16 |
 | [Scared of You](https://open.spotify.com/track/4gx8PVEORxGIPw6HG7EYah) | [Bobby, I Miss You](https://open.spotify.com/artist/37UWdRy8Gnj8oW9KvFuDYm) | [Scared of You](https://open.spotify.com/album/6v6qBXp6p4w3yibNqjbXZJ) | 3:19 | 2022-08-15 |  |

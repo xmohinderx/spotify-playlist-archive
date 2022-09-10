@@ -1,13 +1,37 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Vory",
-  "num_followers": 1898670,
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Toosii",
+  "num_followers": 1898838,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwMjMyNiwwMDAwMDAwMDhiMTdmYjVkMTBkNGE3MDEzNjgyMjUxYzVhYzM2OGY5",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGY3ZTU5MWUzMTg0MmNiOThmNTA0MTM5ZWU2ZTYwZGMw",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
     {
       "added_at": "2022-08-26 08:25:26",
       "album": {
@@ -33,64 +57,20 @@
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
+        "name": "Luv Me Again",
+        "url": "https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s"
       },
       "artists": [
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 213288,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
-    },
-    {
-      "added_at": "2022-08-06 19:15:57",
-      "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203917,
-      "name": "My Go To (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
-    },
-    {
-      "added_at": "2022-08-06 19:15:57",
-      "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+      "duration_ms": 127929,
+      "name": "Luv Me Again",
+      "url": "https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli"
     },
     {
       "added_at": "2022-04-29 19:58:09",
@@ -117,6 +97,22 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
       "added_at": "2022-06-03 04:00:00",
       "album": {
         "name": "Lost Souls",
@@ -131,6 +127,178 @@
       "duration_ms": 209185,
       "name": "Lesson Learned",
       "url": "https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 176646,
+      "name": "WHAM",
+      "url": "https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V"
+    },
+    {
+      "added_at": "2022-08-26 08:25:26",
+      "album": {
+        "name": "If I Want You",
+        "url": "https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "If I Want You",
+      "url": "https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 190370,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "WASTING YOUR TIME",
+        "url": "https://open.spotify.com/album/6dV3GhBlS87SkMPfSda9S9"
+      },
+      "artists": [
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "WASTING YOUR TIME",
+      "url": "https://open.spotify.com/track/1HvjQc9BqIQVhQvR8BqkvR"
+    },
+    {
+      "added_at": "2022-08-06 19:15:57",
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203917,
+      "name": "My Go To (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Luv U Back",
+        "url": "https://open.spotify.com/album/6n4BMT8epRMopMEfyTbOiw"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Luv U Back",
+      "url": "https://open.spotify.com/track/2Srbi3OwVYT4l2MDXxPUGa"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Love is\u2026",
+        "url": "https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 230016,
+      "name": "Love is...",
+      "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
+    },
+    {
+      "added_at": "2022-08-06 19:15:57",
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -163,22 +331,6 @@
       "duration_ms": 129479,
       "name": "LOVE YOU BETTER",
       "url": "https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC"
-    },
-    {
-      "added_at": "2022-08-26 08:25:26",
-      "album": {
-        "name": "If I Want You",
-        "url": "https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "If I Want You",
-      "url": "https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -215,26 +367,6 @@
       "duration_ms": 174786,
       "name": "No Mop",
       "url": "https://open.spotify.com/track/74d9XLd9OMpvb4RaXCmeVM"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Can't Stop Won't Stop (feat. Kodak Black)",
-        "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
-      },
-      "artists": [
-        {
-          "name": "King Combs",
-          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Can't Stop Won't Stop (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
     },
     {
       "added_at": "2022-08-06 19:15:57",
@@ -293,22 +425,6 @@
       "url": "https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/1iDbFnOk4j0LweI76Qs01n"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 176728,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6B2Uwx4edHAudfLdL82tlT"
-    },
-    {
       "added_at": "2022-08-26 08:25:26",
       "album": {
         "name": "India Me",
@@ -323,6 +439,22 @@
       "duration_ms": 183829,
       "name": "India Me",
       "url": "https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/1iDbFnOk4j0LweI76Qs01n"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 176728,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6B2Uwx4edHAudfLdL82tlT"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -343,6 +475,22 @@
       "duration_ms": 172725,
       "name": "Self Worth (feat. Lil Perco)",
       "url": "https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/6wSipi0TDJMk8YDnFXecGX"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 135955,
+      "name": "23",
+      "url": "https://open.spotify.com/track/7L8zGKqHF7IPjpMgXd3s83"
     },
     {
       "added_at": "2022-07-29 20:22:55",
@@ -379,22 +527,6 @@
       "duration_ms": 220422,
       "name": "Consistency (feat. Jhene Aiko)",
       "url": "https://open.spotify.com/track/0pA1KdUSZEDAL0swN18Mh8"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Love is\u2026",
-        "url": "https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Love is...",
-      "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
     },
     {
       "added_at": "2022-02-15 20:31:51",
@@ -561,22 +693,6 @@
       "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "FACES",
-        "url": "https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef"
-      },
-      "artists": [
-        {
-          "name": "Swavay",
-          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "FACES",
-      "url": "https://open.spotify.com/track/3gG3DVG8vhaCRvJrdl802N"
-    },
-    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "The Blue Hour",
@@ -621,26 +737,6 @@
       "url": "https://open.spotify.com/track/6lhlzSra6YxSPWw5lzv7hG"
     },
     {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Toxic Traits (with KB Mike)",
-        "url": "https://open.spotify.com/album/4sYNQCQPR4fgNLHtl2hBhp"
-      },
-      "artists": [
-        {
-          "name": "Lul Bob",
-          "url": "https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj"
-        },
-        {
-          "name": "KB Mike",
-          "url": "https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY"
-        }
-      ],
-      "duration_ms": 159263,
-      "name": "Toxic Traits (with KB Mike)",
-      "url": "https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Feelin In Love",
@@ -675,6 +771,26 @@
       "duration_ms": 177627,
       "name": "No Stoppin ft. Blxst",
       "url": "https://open.spotify.com/track/3Jo34FHsqVDp7QLP9Ahw2n"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "OT (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/0fui89rpESfYKoh0e01jdO"
+      },
+      "artists": [
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 184523,
+      "name": "OT (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1GDmorBhnsYZYUU04LiFEm"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -713,50 +829,6 @@
       "url": "https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "SHOWING OFF HER BODY (with Davido)",
-        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 212639,
-      "name": "SHOWING OFF HER BODY (with Davido)",
-      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 228278,
-      "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
-      "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
-    },
-    {
       "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Body Language",
@@ -771,58 +843,6 @@
       "duration_ms": 151238,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/6RouTxJEaWLaleuPFt5JP4"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "OT (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/0fui89rpESfYKoh0e01jdO"
-      },
-      "artists": [
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 184523,
-      "name": "OT (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1GDmorBhnsYZYUU04LiFEm"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Mad At Her",
-        "url": "https://open.spotify.com/album/4nEvGOK5tet14OyE7HKWoH"
-      },
-      "artists": [
-        {
-          "name": "BRS Kash",
-          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
-        }
-      ],
-      "duration_ms": 180459,
-      "name": "Mad At Her",
-      "url": "https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA"
-    },
-    {
-      "added_at": "2022-04-29 19:58:09",
-      "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 126653,
-      "name": "Blocklist",
-      "url": "https://open.spotify.com/track/79cq3PF1wgkDVTAFMlOjNB"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -847,22 +867,6 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Young & Restless Vol. 1 Baby Don",
-        "url": "https://open.spotify.com/album/5Vsv12liWYcEYcX0ryvAaa"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -903,50 +907,6 @@
       "duration_ms": 164280,
       "name": "In Touch",
       "url": "https://open.spotify.com/track/0ZiEInpnUrUD0T3WIFMIW9"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Taylour Paige",
-          "url": "https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo"
-        }
-      ],
-      "duration_ms": 341307,
-      "name": "We Cry Together",
-      "url": "https://open.spotify.com/track/67XC51nlZncNpHmZ8rOU9a"
-    },
-    {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "Get Used To It",
-        "url": "https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        },
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        },
-        {
-          "name": "Steven Bamidele",
-          "url": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
-        }
-      ],
-      "duration_ms": 236766,
-      "name": "Hold you up (feat. Annahstasia & Steven Bamidele)",
-      "url": "https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb"
     }
   ],
   "unique_name": "B.A.E.",

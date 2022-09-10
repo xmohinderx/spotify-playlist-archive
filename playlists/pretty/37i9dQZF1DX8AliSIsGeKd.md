@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Simina Grigoriu
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,145 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,291 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 42 | [Schrei der Wildnis \- Solomun Remix](https://open.spotify.com/track/5ILcjbfquuv3OoOM9GBohB) | [Romano](https://open.spotify.com/artist/7BDYBz0Xa0ZR5HmMb4gDGX), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Schrei der Wildnis \(Solomun Remix\)](https://open.spotify.com/album/5FubHz4ZT7430bQNtUh7E0) | 6:32 |
 | 43 | [Dark Sun](https://open.spotify.com/track/1N3ZXedV7bYmNLnZ5toPaS) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Dark Sun](https://open.spotify.com/album/01u976hEIH1nzhd386t1hO) | 6:46 |
 | 44 | [On the Wire](https://open.spotify.com/track/7j1PrKIG74gMuXlfEZl295) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [On the Wire](https://open.spotify.com/album/7GppjA0l1zP3O92zdKRzoj) | 5:48 |
-| 45 | [These Notes In This Order \- VNSSA Remix](https://open.spotify.com/track/0jjeAVSKajgQgMIAIQFLQ1) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [These Notes In This Order \(VNSSA Remix\)](https://open.spotify.com/album/58T8bp9mchPY7f2wSFQkmn) | 6:02 |
+| 45 | [These Notes In This Order \- VNSSA Remix](https://open.spotify.com/track/69CE5CSZR8875610mF339D) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Freaks & Beaks Remixes](https://open.spotify.com/album/4tHKolyGORukhIwpnMseDX) | 6:02 |
 | 46 | [Collateral](https://open.spotify.com/track/1iUbTARMfF1nnCXqnXjmaY) | [Raphael Mader](https://open.spotify.com/artist/5bHTqDmjxo8or1zMRPFaYM) | [Collateral](https://open.spotify.com/album/3yLeFA73FaK8ZNVs9TSh3S) | 4:23 |
 | 47 | [Solar Drone](https://open.spotify.com/track/0uvAowHNluKM9cnKrTSwgP) | [Dahu](https://open.spotify.com/artist/2O4zaefOvhGmYHo70MBj4P) | [Solar Drone](https://open.spotify.com/album/0Z7Rrndb54ZmI4i3XQt8gi) | 6:23 |
 | 48 | [Explore](https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Explore](https://open.spotify.com/album/2LkepPSBrgwEiLavKjk49L) | 4:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Dose \- Radio Edit](https://open.spotify.com/track/7wpfsMaYTRAn3dVmujG8w4) | [Aiwaska](https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN), [Aquarius Heaven](https://open.spotify.com/artist/0lAjFl20uNiFMWafrHRxea) | [Dose](https://open.spotify.com/album/4GzP0yuQp9QBSJDsIQSMYM) | 3:54 |
 | 80 | [You Got Me](https://open.spotify.com/track/28bBwCM8Uyc10LPYQYdeRU) | [DJ Piper](https://open.spotify.com/artist/5XhDw44AriiKxTl7Q7kIMQ) | [You Got Me](https://open.spotify.com/album/1sb8IuR5crCDL72ICEoCdR) | 2:28 |
 
-Snapshot ID: `MTY2MjY3OTgwMCwwMDAwMDAwMDgyOGE2NmVkMjAyMDgyNjU1YzhmNjE3YTM0NWUzNDc4`
+Snapshot ID: `MTY2MjY3OTgwMCwwMDAwMDAwMGY3MTMyNTU5MzE4MTNiOTMxMTdmNjU1MzEzODMzYzFl`

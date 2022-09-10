@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Cover: Hasan Raheem, Natasha Noorani
+> Explore Pakistan's thriving independent scene\. Cover: Taha G
 
-120 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+121 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Pukaar](https://open.spotify.com/track/0R6PVr0THSFcyEqlNTJ9Bp) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [SHE](https://open.spotify.com/album/21Yinw1VwU6Ych11YSruxC) | 3:46 | 2021-12-06 |  |
 | [pyaar hai asli](https://open.spotify.com/track/1WUUDaIcbhfpT8zOSJSUq7) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [sakuna matata](https://open.spotify.com/album/1uTqbU7ucZyccnXtqtVsOc) | 3:58 | 2022-05-06 |  |
 | [Qadar](https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Qadar](https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1) | 2:36 | 2021-12-06 |  |
+| [Rent Free](https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Rent Free](https://open.spotify.com/album/1pPIHSuDOCRs8mJkYqv6xK) | 2:42 | 2022-09-09 |  |
 | [Risky](https://open.spotify.com/track/17ZXHiyOwcSBpzqK6w1yYP) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks) | [Risky](https://open.spotify.com/album/0RkRTVDy2rPJlvcRkllfvu) | 3:26 | 2021-12-06 |  |
 | [Roshni](https://open.spotify.com/track/3tFVhYNqkUVUbDH2H9KZtS) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Roshni](https://open.spotify.com/album/1wYUhTYNKkHSQRM3Gyb6Fb) | 3:53 | 2022-06-10 |  |
 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 | 2021-12-06 |  |

@@ -74,6 +74,32 @@
     },
     {
       "album": {
+        "name": "Blow The Socket",
+        "url": "https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192068,
+      "name": "Blow The Socket",
+      "url": "https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/0UCf4BfEcqY7uQlpVdFFRQ"
       },
@@ -133,7 +159,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 213517,
       "name": "Bussin Bussin (feat. JV Rhymes)",
       "url": "https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE"
@@ -848,6 +874,32 @@
     },
     {
       "album": {
+        "name": "Mawlee (feat. Young Buck & DJ Afterthought) [RIOT TEN VIP Mix]",
+        "url": "https://open.spotify.com/album/307ezARBk8h7JbrIPvMeSu"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought) - RIOT TEN VIP Mix",
+      "url": "https://open.spotify.com/track/43885roVl0jIEIpWT1yzyP"
+    },
+    {
+      "album": {
         "name": "Ready 2 Rage EP",
         "url": "https://open.spotify.com/album/1qktITvo0MUwhqnN6jD82A"
       },
@@ -1089,7 +1141,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 133168,
       "name": "Oro Negro",
       "url": "https://open.spotify.com/track/47CgO81InO20CWqKR7bfWC"

@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-350 songs - 21 hr 38 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+351 songs - 21 hr 42 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-11-12 |  |
 | [August](https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [August](https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z) | 2:48 | 2022-07-11 |  |
 | [August](https://open.spotify.com/track/2EzlXmONynvb3xIUL5CD2M) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [August](https://open.spotify.com/album/3p8rCayq59uMygGvrl3dUk) | 2:48 | 2021-11-12 | 2022-07-28 |
+| [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-09-09 |  |
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-11-12 |  |
 | [Bad Mind](https://open.spotify.com/track/4K2Ny9ccE7D5pekJaPIyft) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting on Airs](https://open.spotify.com/album/1LK9gWKqJTOSPE0sHYPVBJ) | 5:14 | 2021-11-12 | 2022-07-28 |
 | [Beast For Thee](https://open.spotify.com/track/1lFfq3BypGTRfLZIv3GWVK) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [eighth blackbird](https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz) | [Beast For Thee](https://open.spotify.com/album/0fgzt2Mzv33f6L9UXiosG3) | 5:24 | 2021-11-12 | 2022-07-26 |
@@ -72,7 +73,7 @@
 | [Cigarette \- 7 Layers Session](https://open.spotify.com/track/08Pul3vjCGeOzn0w0Z39yX) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Marika Hackman \(7 Layers Session\)](https://open.spotify.com/album/4pf9ADV26KLtvqn5X19t5j) | 1:56 | 2021-11-12 | 2022-06-01 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2021-11-12 | 2022-07-03 |
 | [Claim Your Prize](https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Claim Your Prize](https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu) | 4:45 | 2022-05-25 | 2022-07-27 |
-| [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 | 2021-11-12 |  |
+| [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 | 2021-11-12 | 2022-09-10 |
 | [Cocaine Cowboys](https://open.spotify.com/track/5ww1cz0HayCtsi9l6j4n84) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Cocaine Cowboys](https://open.spotify.com/album/4MQUsmimNUUuMDtREtyIFw) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [Collar of Fur](https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cala](https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW) | 2:28 | 2021-11-12 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-07-11 |  |

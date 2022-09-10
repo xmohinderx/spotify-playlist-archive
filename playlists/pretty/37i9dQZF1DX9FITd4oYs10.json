@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 13241,
+  "num_followers": 13263,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMGE4NzgxOWU3ZDlkM2RmYmZkYjM4YWQ5OGQ0NjkwNDUz",
+  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMGE4NWRkZWFkNWUxYzA5NzRmYmQxOTA5ZGJiNjg1NGUx",
   "tracks": [
     {
       "added_at": "2022-08-01 21:43:45",
@@ -495,6 +495,26 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
+        "name": "Irm\u00e3o Dqbrada!",
+        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 360559,
+      "name": "Irm\u00e3o DQbrada!",
+      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
-        "name": "Irm\u00e3o Dqbrada!",
-        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 360559,
-      "name": "Irm\u00e3o DQbrada!",
-      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
     },
     {
       "added_at": "2022-08-01 21:43:45",

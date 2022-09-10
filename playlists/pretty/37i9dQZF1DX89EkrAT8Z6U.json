@@ -1,12 +1,12 @@
 {
   "description": "the perfect fight scene",
-  "num_followers": 124478,
+  "num_followers": 125481,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjIyMTgwMCwwMDAwMDAwMDIwMzE4NGZlOTg3NTNmNWEyYzZjZDE5N2QwNTJlMWE4",
+  "snapshot_id": "MTY2MjIyMTgwMCwwMDAwMDAwMDk1NjY1MWQ0MGYzMTdmZjkwMWEyYjQzN2E3ZmMyMTQx",
   "tracks": [
     {
       "added_at": "2022-09-03 16:16:40",
@@ -67,6 +67,22 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 135122,
+      "name": "ILoveUIHateU",
+      "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 139440,
       "name": "HDMI",
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -115,18 +115,18 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
       "artists": [
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 135122,
-      "name": "ILoveUIHateU",
-      "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
         "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 96000,
       "name": "HOT DEMON B!TCHES NEAR U ! ! !",
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -327,22 +327,18 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "Shakira!",
-        "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
+        "name": "Hexada",
+        "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
       "artists": [
         {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "EGOVERT",
-          "url": "https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp"
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 149577,
-      "name": "Shakira!",
-      "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
+      "duration_ms": 124538,
+      "name": "Mercury: Retrograde",
+      "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -371,18 +367,22 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "Hexada",
-        "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
+        "name": "Shakira!",
+        "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
       },
       "artists": [
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "EGOVERT",
+          "url": "https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp"
         }
       ],
-      "duration_ms": 124538,
-      "name": "Mercury: Retrograde",
-      "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+      "duration_ms": 149577,
+      "name": "Shakira!",
+      "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -499,26 +499,6 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "Bunny Girl",
-        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Ciscaux",
-          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Bunny Girl",
-      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
         "name": "BodyPartz",
         "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 125361,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Ciscaux",
+          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "90mh",
-        "url": "https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc"
-      },
-      "artists": [
-        {
-          "name": "Trefuego",
-          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "90mh",
-      "url": "https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
         "name": "I Feel Fantastic",
         "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 215706,
       "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
+        "name": "90mh",
+        "url": "https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc"
+      },
+      "artists": [
+        {
+          "name": "Trefuego",
+          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "90mh",
+      "url": "https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "\u6ab8\u6aac",
-        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
-      },
-      "artists": [
-        {
-          "name": "BURNOUT SYNDROMES",
-          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "FLY HIGH!!",
-      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
         "name": "HOLIDAYS IN THE SUN",
         "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
+        "name": "\u6ab8\u6aac",
+        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "FLY HIGH!!",
+      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
         "name": "Benbow Crescent",
         "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 149145,
       "name": "Hatchback",
       "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
-        "name": "Naruto Bluebird Freestyle",
-        "url": "https://open.spotify.com/album/7keMCtMuSyvoRCnHnofyFz"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 102893,
-      "name": "Naruto Bluebird Freestyle",
-      "url": "https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -947,6 +931,22 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
+        "name": "Naruto Bluebird Freestyle",
+        "url": "https://open.spotify.com/album/7keMCtMuSyvoRCnHnofyFz"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 102893,
+      "name": "Naruto Bluebird Freestyle",
+      "url": "https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
         "name": "Q.E.D",
         "url": "https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "Neon Genesis Evangelion (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa"
-      },
-      "artists": [
-        {
-          "name": "Yoko Takahashi",
-          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "A Cruel Angel's Thesis (Director's Edit Version)",
-      "url": "https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
         "name": "Led",
         "url": "https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 134500,
       "name": "Led",
       "url": "https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
+        "name": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "A Cruel Angel's Thesis (Director's Edit Version)",
+      "url": "https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "She Bad",
-        "url": "https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 105536,
-      "name": "She Bad",
-      "url": "https://open.spotify.com/track/7yF19wC6msoj2cGUEtlm1S"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
         "name": "i know you hate me",
         "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
-        "name": "Baby My Phone",
-        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
+        "name": "She Bad",
+        "url": "https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT"
       },
       "artists": [
         {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
         }
       ],
-      "duration_ms": 215771,
-      "name": "Baby My Phone",
-      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
+      "duration_ms": 105536,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/7yF19wC6msoj2cGUEtlm1S"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -1123,6 +1107,22 @@
       "duration_ms": 131680,
       "name": "chichen itza",
       "url": "https://open.spotify.com/track/7nLbEx8juSAeanLzMjYhpT"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
+        "name": "Baby My Phone",
+        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "duration_ms": 215771,
+      "name": "Baby My Phone",
+      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
     },
     {
       "added_at": "2022-09-03 16:16:40",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-09-03 16:16:40",
       "album": {
+        "name": "I'm Only a Fool for You",
+        "url": "https://open.spotify.com/album/1o4uAS6AObHidkNKFdD81N"
+      },
+      "artists": [
+        {
+          "name": "Dybbukk",
+          "url": "https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH"
+        }
+      ],
+      "duration_ms": 61175,
+      "name": "I'm Only a Fool for You",
+      "url": "https://open.spotify.com/track/05cgRQhps18PBrnIyCFGyH"
+    },
+    {
+      "added_at": "2022-09-03 16:16:40",
+      "album": {
         "name": "OLIVIA",
         "url": "https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 121851,
       "name": "e girl",
       "url": "https://open.spotify.com/track/1Sdf8Z17iHkcJGX2H5q6df"
-    },
-    {
-      "added_at": "2022-09-03 16:16:40",
-      "album": {
-        "name": "I'm Only a Fool for You",
-        "url": "https://open.spotify.com/album/1o4uAS6AObHidkNKFdD81N"
-      },
-      "artists": [
-        {
-          "name": "Dybbukk",
-          "url": "https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH"
-        }
-      ],
-      "duration_ms": 61175,
-      "name": "I'm Only a Fool for You",
-      "url": "https://open.spotify.com/track/05cgRQhps18PBrnIyCFGyH"
     },
     {
       "added_at": "2022-09-03 16:16:40",

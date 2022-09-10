@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Divisi\u00f3n Min\u00fascula en portada.",
-  "num_followers": 130215,
+  "num_followers": 130303,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUxMjE1MSwwMDAwMDAwMDUyZmY4ZjI4NjJmMTk3YjdlM2Y2MGFjNTQ0MDc2YjA1",
+  "snapshot_id": "MTY2MjUxMjE1MSwwMDAwMDAwMDFhOWVlMDM5NmMwNjFlZWI2ZGFlNWNjZTA4NWE4ZjZi",
   "tracks": [
     {
       "added_at": "2022-09-02 05:54:02",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
     },
     {
-      "added_at": "2022-08-19 01:13:45",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3f0U92vNGEpLSvUFVIbVaq"
-      },
-      "artists": [
-        {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
-        }
-      ],
-      "duration_ms": 181704,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/3zN9HAyFx7yrw4wf7mmuD6"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Brillando",
@@ -1081,52 +1065,20 @@
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
     },
     {
-      "added_at": "2022-08-09 02:12:39",
+      "added_at": "2022-08-19 01:13:45",
       "album": {
-        "name": "Ricos",
-        "url": "https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3f0U92vNGEpLSvUFVIbVaq"
       },
       "artists": [
         {
-          "name": "Axel Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH"
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
         }
       ],
-      "duration_ms": 174093,
-      "name": "Ricos",
-      "url": "https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt"
-    },
-    {
-      "added_at": "2022-08-13 00:31:24",
-      "album": {
-        "name": "Cosas Invisibles",
-        "url": "https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "Cosas Invisibles",
-      "url": "https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "La Tregua",
-        "url": "https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 232605,
-      "name": "La Tregua",
-      "url": "https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx"
+      "duration_ms": 181704,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/3zN9HAyFx7yrw4wf7mmuD6"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1147,6 +1099,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "La Tregua",
+        "url": "https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 232605,
+      "name": "La Tregua",
+      "url": "https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "La Final",
         "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 198053,
       "name": "La Final",
       "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
+    },
+    {
+      "added_at": "2022-08-13 00:31:24",
+      "album": {
+        "name": "Cosas Invisibles",
+        "url": "https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "Cosas Invisibles",
+      "url": "https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56"
+    },
+    {
+      "added_at": "2022-08-09 02:12:39",
+      "album": {
+        "name": "Ricos",
+        "url": "https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi"
+      },
+      "artists": [
+        {
+          "name": "Axel Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Ricos",
+      "url": "https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/2mAdouNIqXKRu2lyhRicvY"
     },
     {
-      "added_at": "2022-08-09 02:12:39",
+      "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Demasiado Bien",
-        "url": "https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR"
+        "name": "Empezar de Cero",
+        "url": "https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh"
       },
       "artists": [
         {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
         }
       ],
-      "duration_ms": 219707,
-      "name": "Demasiado Bien",
-      "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
+      "duration_ms": 270114,
+      "name": "Empezar de Cero",
+      "url": "https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

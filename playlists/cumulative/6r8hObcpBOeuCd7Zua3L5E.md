@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
 
-111 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
+112 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 | 2020-03-31 | 2022-07-19 |
 | [Happier \- Sped Up](https://open.spotify.com/track/3g7nyIGI5KepLGdonmWjh7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier \(Slowed + Reverb\)](https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ) | 3:07 | 2022-07-18 |  |
 | [Hey Ya! \- Radio Mix / Club Mix](https://open.spotify.com/track/5WQ1hIc5d2EVbRQ8qsj8Uh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/00XMrHZoOsYLmiyx890axX) | 3:55 | 2020-03-31 | 2022-07-19 |
-| [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 | 2022-07-18 |  |
+| [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 | 2022-07-18 | 2022-09-10 |
 | [Hollaback Girl](https://open.spotify.com/track/6RcQOut9fWL6FSqeIr5M1r) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby](https://open.spotify.com/album/1HduTydfaUY3idi2YgT3mb) | 3:19 | 2020-03-31 | 2022-07-19 |
 | [Hot Mess](https://open.spotify.com/track/18eoNBn1L1li2TvPa2DupB) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 2:52 | 2020-03-31 | 2022-07-19 |
 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-18 |  |
@@ -56,6 +56,7 @@
 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 | 2022-07-18 |  |
 | [I Wish](https://open.spotify.com/track/1EvAHe0K76OnxYCWS5xzYg) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [R&B Classics Collection](https://open.spotify.com/album/2ZZiI4Jg5SYg7suQwGSv4z) | 4:05 | 2020-03-31 | 2022-07-19 |
 | [I'm Legit](https://open.spotify.com/track/11a6GzsfPoLY1bVw3IFeMs) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Pink Friday: Roman Reloaded The Re\-Up](https://open.spotify.com/album/78XjkzI0J1YpzKUPgzWbat) | 3:18 | 2020-03-31 | 2022-07-19 |
+| [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 | 2022-09-09 |  |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 | 2022-07-18 |  |
 | [Ice Ice Baby](https://open.spotify.com/track/11d9oUiwHuYt216EFA2tiz) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [To The Extreme](https://open.spotify.com/album/1LHacvoBTd7o2d7wwQ9EZD) | 4:31 | 2020-03-31 | 2022-07-19 |
 | [Imma Be](https://open.spotify.com/track/5OiLJ8tjUPFiPX2gVM8fxJ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:17 | 2020-03-31 | 2022-07-19 |

@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 452626,
       "name": "Change the World - Live on MTV Unplugged",
       "url": "https://open.spotify.com/track/5k1iTPL7TNm0ZRixGzYvXI"
@@ -107,10 +107,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 234040,
       "name": "End of the Road - Live On MTV Unplugged",
       "url": "https://open.spotify.com/track/2XMT1nApPCDJlhUr6gEYZN"
+    },
+    {
+      "album": {
+        "name": "Partners (Deluxe)",
+        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Evergreen (with Babyface)",
+      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
     },
     {
       "album": {
@@ -176,6 +198,28 @@
     },
     {
       "album": {
+        "name": "HAV PLENTY Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
+    },
+    {
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI"
       },
@@ -187,7 +231,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 299413,
       "name": "Fire And Rain",
       "url": "https://open.spotify.com/track/1EHQIcvBr0kwsWYvVqUMG9"
@@ -267,7 +311,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 243400,
       "name": "Grown & Sexy",
       "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
@@ -449,7 +493,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 259626,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka"
@@ -485,7 +529,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 241493,
       "name": "It's No Crime",
       "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
@@ -627,7 +671,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 179700,
       "name": "No Stoppin' Us",
       "url": "https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm"
@@ -663,7 +707,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 196360,
       "name": "Outside In/Inside Out",
       "url": "https://open.spotify.com/track/0V4SisYseIOCuqIa1jo0Qe"
@@ -681,7 +725,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 257600,
       "name": "Please Come To Boston",
       "url": "https://open.spotify.com/track/11AtoxiDXb1lJaplZEKxx3"
@@ -743,7 +787,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 263066,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz"
@@ -897,7 +941,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 358426,
       "name": "Something Bout You",
       "url": "https://open.spotify.com/track/5r3cGlrATha1Li3bMdJrEQ"
@@ -951,7 +995,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 311533,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
@@ -995,7 +1039,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 245400,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep"
@@ -1013,7 +1057,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 294373,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/13cBk7gbzNHbCP9xdV5pmG"
@@ -1177,7 +1221,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 265533,
       "name": "What I Like About You (feat. Babyface)",
       "url": "https://open.spotify.com/track/6dXihKQBlA4CxPJaoBycPk"
@@ -1307,7 +1351,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 303266,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/216ltaITdAwORMQ9tsblHO"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Marcus Mumford",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Benjamin Dakota Rogers",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -77,6 +77,24 @@
       "duration_ms": 239360,
       "name": "Acre of Land",
       "url": "https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2"
+    },
+    {
+      "album": {
+        "name": "Ain't No Cowboys In Georgia",
+        "url": "https://open.spotify.com/album/1dEnfzdDz54PS5d001smcu"
+      },
+      "artists": [
+        {
+          "name": "Honey Harper",
+          "url": "https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152921,
+      "name": "Ain't No Cowboys In Georgia",
+      "url": "https://open.spotify.com/track/5rBffoltonsi8O6T9TSUuU"
     },
     {
       "album": {
@@ -640,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Contentement",
+        "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
+      },
+      "artists": [
+        {
+          "name": "Julie Aub\u00e9",
+          "url": "https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205786,
+      "name": "Contentement",
+      "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
+    },
+    {
+      "album": {
         "name": "Crucified",
         "url": "https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se"
       },
@@ -857,10 +893,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 210893,
       "name": "Dusty Bottles",
       "url": "https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW"
+    },
+    {
+      "album": {
+        "name": "Edge of Us",
+        "url": "https://open.spotify.com/album/49hhJpCaz9ClqJAWpiZPyT"
+      },
+      "artists": [
+        {
+          "name": "Jaron Chidiac",
+          "url": "https://open.spotify.com/artist/27W3Bt6tacaYmtAMMKxiFX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182411,
+      "name": "Edge of Us",
+      "url": "https://open.spotify.com/track/2dH2QAXL3JphxxZOjjCqCZ"
     },
     {
       "album": {
@@ -1383,7 +1437,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 170000,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl"
@@ -2569,7 +2623,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 113777,
       "name": "The Gathering Chant",
       "url": "https://open.spotify.com/track/7cGZdNlgOh9JFe7MiRyfCF"

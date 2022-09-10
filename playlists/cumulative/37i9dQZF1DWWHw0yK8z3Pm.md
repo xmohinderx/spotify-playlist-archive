@@ -2,9 +2,9 @@
 
 ### [Renegade Folk](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Singer\-songwriters who colour outside the lines\. Cover: Marcus Mumford
+> Singer\-songwriters who colour outside the lines\. Cover: Benjamin Dakota Rogers
 
-164 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+167 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-08-26 |  |
 | [About Your Love](https://open.spotify.com/track/3EOCRq342rJjzkvGicSyvT) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [About Your Love](https://open.spotify.com/album/16Cjat1XXsgM8z2CG6NEYZ) | 2:33 | 2022-05-13 | 2022-06-18 |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 |  |
+| [Ain't No Cowboys In Georgia](https://open.spotify.com/track/5rBffoltonsi8O6T9TSUuU) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/1dEnfzdDz54PS5d001smcu) | 2:32 | 2022-09-09 |  |
 | [Ain't Too Late](https://open.spotify.com/track/4fOJHNZoFxck91tsFf16i5) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Ain't Too Late](https://open.spotify.com/album/4WfruWmBQU43RZMPPUGVWK) | 3:35 | 2022-06-03 | 2022-06-18 |
 | [All Of The Women \[Feat\. Sa\-Roc\] \- dim star remix](https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg), [dim star](https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3) | [All Of The Women \[Feat\. Sa\-Roc\] \(dim star remix\)](https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK) | 4:39 | 2022-05-13 | 2022-06-04 |
 | [All the Good](https://open.spotify.com/track/6XvDPlg2hT9Hg3Z0UUDjr9) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [All the Good](https://open.spotify.com/album/4liE72IwgpudcDG1ob7Adq) | 3:39 | 2022-06-10 |  |
@@ -42,6 +43,7 @@
 | [Church Of Better Daze](https://open.spotify.com/track/6U4jMMusOoHs2XaxVH0qgd) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church Of Better Daze / Eggs Benediction](https://open.spotify.com/album/39nYzS2wKPTEGglVCwOwTd) | 2:53 | 2022-05-13 | 2022-07-23 |
 | [Come Home](https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Come Home](https://open.spotify.com/album/5cGQ4683Wr2nkJeaj1lSzW) | 3:32 | 2022-06-03 |  |
 | [Communion \- Country version](https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Communion \(Country version\)](https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A) | 3:54 | 2022-07-01 |  |
+| [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 |  |
 | [Crucified](https://open.spotify.com/track/6kclw9en3fBEUTjZOjio7c) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Crucified](https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se) | 3:03 | 2022-05-13 | 2022-06-04 |
 | [Danger](https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:25 | 2022-05-13 | 2022-08-27 |
 | [Deadman](https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Deadman](https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa) | 3:44 | 2022-05-13 |  |
@@ -53,7 +55,8 @@
 | [Drips and Drops](https://open.spotify.com/track/3sobW38S1XKJ8RyWeckrW1) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Drips and Drops](https://open.spotify.com/album/1dbuSXkDC1bnfOEd3rzhse) | 4:01 | 2022-06-17 |  |
 | [Driving Around](https://open.spotify.com/track/0UskdLSFEqspr1gMKADP27) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Driving Around](https://open.spotify.com/album/5qOU27Kapl0stO8FTbgClv) | 3:48 | 2022-07-08 | 2022-08-13 |
 | [Dusty Bottles](https://open.spotify.com/track/79eXcwwGDoGby7NxPOW0vw) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dusty Bottles](https://open.spotify.com/album/1O0K1b7OZDchLrM0ifo9d9) | 3:30 | 2022-05-13 | 2022-07-29 |
-| [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 |  |
+| [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 | 2022-09-10 |
+| [Edge of Us](https://open.spotify.com/track/2dH2QAXL3JphxxZOjjCqCZ) | [Jaron Chidiac](https://open.spotify.com/artist/27W3Bt6tacaYmtAMMKxiFX) | [Edge of Us](https://open.spotify.com/album/49hhJpCaz9ClqJAWpiZPyT) | 3:02 | 2022-09-09 |  |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 | 2022-07-23 |
 | [Eyes Wide Open](https://open.spotify.com/track/58QBqc9hUARE3l9L7tCgTq) | [Kane Incognito](https://open.spotify.com/artist/58eTGBAXAD7beyO0btw3z8) | [Eyes Wide Open](https://open.spotify.com/album/5qAvZeaA2vZg69oGfxyNCy) | 3:36 | 2022-05-13 | 2022-08-27 |
 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2022-05-13 | 2022-08-06 |
@@ -82,7 +85,7 @@
 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 | 2022-07-22 |  |
 | [Ink & the Ash](https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR) | [JJ and The Pillars](https://open.spotify.com/artist/79g9vsMMooAco9g2SGq4ja) | [Ink & the Ash](https://open.spotify.com/album/61FTErQNMScnIupkWWDwo7) | 3:38 | 2022-05-13 |  |
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's So Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 |  |
-| [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 |  |
+| [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-09-10 |
 | [Just A Little While](https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Just A Little While](https://open.spotify.com/album/3IOaxvwYaDmoQ36meh2niy) | 2:42 | 2022-05-13 | 2022-06-04 |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2022-05-13 | 2022-06-11 |
 | [Kanituet](https://open.spotify.com/track/2UHg2rEhfGXdMkgdzu8eq2) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Uapen Nuta / Terre de nos aïeux](https://open.spotify.com/album/5utA00dzaUdLDJsAFkPa8N) | 4:07 | 2022-06-24 |  |
@@ -147,7 +150,7 @@
 | [Taking Me Back \(Gently\)](https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:36 | 2022-05-13 |  |
 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 | 2022-05-13 |  |
 | [The Fool](https://open.spotify.com/track/29nN7NsUSHJyz3tyZDESED) | [Jennie Harluk](https://open.spotify.com/artist/2nik10Ty0mtiWMAL6bTFWw) | [The Fool](https://open.spotify.com/album/1TXgB7zlcVS7f1PPP8y88o) | 4:00 | 2022-05-13 | 2022-08-20 |
-| [The Gathering Chant](https://open.spotify.com/track/7cGZdNlgOh9JFe7MiRyfCF) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Hubert Francis](https://open.spotify.com/artist/56G0LkGEL2xPudWV4AUf9e) | [The Gathering Chant](https://open.spotify.com/album/2aiTFD9BrSl6JGkzGe4Fz7) | 1:53 | 2022-06-24 |  |
+| [The Gathering Chant](https://open.spotify.com/track/7cGZdNlgOh9JFe7MiRyfCF) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Hubert Francis](https://open.spotify.com/artist/56G0LkGEL2xPudWV4AUf9e) | [The Gathering Chant](https://open.spotify.com/album/2aiTFD9BrSl6JGkzGe4Fz7) | 1:53 | 2022-06-24 | 2022-09-10 |
 | [The Long Way](https://open.spotify.com/track/5KOJUMQeo8SwT5G0pnaXm4) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Long Way](https://open.spotify.com/album/4wBMQcc5oKOxvL6PYVoVp9) | 3:33 | 2022-05-13 |  |
 | [The Modern Western World](https://open.spotify.com/track/6gJnNQ0HjkpjWNyWb7l263) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/167bm3icDEQTQdFwJnRS2c) | 2:20 | 2022-05-13 | 2022-06-30 |
 | [The Way I Oughta Go](https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Way I Oughta Go](https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7) | 4:10 | 2022-08-05 |  |

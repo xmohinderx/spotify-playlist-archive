@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,980 likes - 75 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,001 likes - 75 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 32 | [Kattorna](https://open.spotify.com/track/2JkLqYx0HQM0fMyfcppV4p) | [Krzysztof Komeda](https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC), [Komeda Quintet](https://open.spotify.com/artist/0EQaqT3oKtxAGR0Y5c1Jme), [Zbigniew Namysłowski](https://open.spotify.com/artist/2W2XGrPdpYqu68NgNgiFlh) | [Astigmatic \(Polish Jazz\)](https://open.spotify.com/album/5AHmsOtE3kyBWr0TRqHyzD) | 7:30 |
 | 33 | [Three Little Words](https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [On Impulse!](https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw) | 6:57 |
 | 34 | [Search For The New Land \- Remastered](https://open.spotify.com/track/3adOstnpR3h59VbfGpOkhf) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 15:45 |
-| 35 | [Out To Lunch \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out To Lunch \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX) | 12:09 |
-| 36 | [The Egg \- Remastered](https://open.spotify.com/track/1Anoc4BwtIQFvUthGe3rao) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 14:01 |
+| 35 | [The Egg \- Remastered](https://open.spotify.com/track/1Anoc4BwtIQFvUthGe3rao) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 14:01 |
+| 36 | [Out To Lunch \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out To Lunch \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX) | 12:09 |
 | 37 | [Birdlike \- Remastered 2004/Rudy Van Gelder Edition](https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 10:15 |
 | 38 | [E's Flat Ah's Flat Too](https://open.spotify.com/track/2uG5erIimWW9wLnz57BFFZ) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Blues & Roots](https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e) | 6:42 |
 | 39 | [Mode For Joe \- Remastered](https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 8:00 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 60 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
 | 61 | [R.J.](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 3:55 |
 | 62 | [Speedball](https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 5:32 |
-| 63 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
+| 63 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
 | 64 | [Siete Ocho \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Judgment \(Remastered 2003 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f) | 8:58 |
 | 65 | [Components \- Remastered 1994](https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 6:25 |
-| 66 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
-| 67 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
-| 68 | [Love Song \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
-| 69 | [Margot](https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 3:42 |
+| 66 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
+| 67 | [Margot](https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 3:42 |
+| 68 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
+| 69 | [Love Song \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
 | 70 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
 | 71 | [Perception \- Remastered](https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 5:42 |
 | 72 | [May Street \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/7EyrwcVkLXemac6DBXxCkO) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(Remastered\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 74 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
 | 75 | [Herzog](https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Total Eclipse](https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM) | 6:36 |
 
-Snapshot ID: `MTY1MTA3MTE0OCwwMDAwMDAwMDVkODE4NmY5MDFjYjI4MzBlMWViZTkyZjRiNTFmMDVl`
+Snapshot ID: `MTY1MTA3MTE0OCwwMDAwMDAwMGZlYzg2ZjA4NWI2YzZiMjI4ZDcyNjAzZmI4OTBmNTMw`

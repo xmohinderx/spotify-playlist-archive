@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "L'Italia e la Corsica",
+        "url": "https://open.spotify.com/album/1ygYGnX74RVTwKU3mjoNHG"
+      },
+      "artists": [
+        {
+          "name": "Orlvndo",
+          "url": "https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208285,
+      "name": "L'Italia e la Corsica",
+      "url": "https://open.spotify.com/track/2KYs0wAMyb5uauCgkU6Ext"
+    },
+    {
+      "album": {
         "name": "l'ultima volta",
         "url": "https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn"
       },

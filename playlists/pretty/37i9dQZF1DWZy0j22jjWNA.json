@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73344,
+  "num_followers": 73343,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGM0N2NlNjViYzU3NmY3MTZlNmQ5MmI4NjgwNDMyNmJm",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGI1NWE3ZTY0YmUzNzdkMjk1ZTc0NDFmNTBmZDQ2N2Vj",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 263372,
+      "name": "Take The World",
+      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "CRAZYTALK",
         "url": "https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 206373,
       "name": "Memorized",
       "url": "https://open.spotify.com/track/38LC7jHjifqs5EnYUv4BgG"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 263372,
-      "name": "Take The World",
-      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Dragons",
         "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 204160,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 268493,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
     },
     {
       "added_at": "2020-09-04 04:02:00",

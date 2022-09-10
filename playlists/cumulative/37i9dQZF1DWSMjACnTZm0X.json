@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW?si=GvVFSOdGRW63e9q6_EcfKg\">Jux</a>",
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=QK8VF93-R-W11oGjqH0PSw\">Asake</a>",
   "name": "Piano to the World",
   "published_playlist_ids": [
     "2VDTulRwwLDleluIc1nZ2E"
@@ -430,6 +430,40 @@
     },
     {
       "album": {
+        "name": "Ekhaya",
+        "url": "https://open.spotify.com/album/1I0NVt2ETbbxHOPsw083zF"
+      },
+      "artists": [
+        {
+          "name": "Iyane Jamdong",
+          "url": "https://open.spotify.com/artist/5GJHtxMt5kp2gfBrnLZO3o"
+        },
+        {
+          "name": "Elzo Jamdong",
+          "url": "https://open.spotify.com/artist/2reG2sYggrEZLUXvRI1yth"
+        },
+        {
+          "name": "Bianca Hester",
+          "url": "https://open.spotify.com/artist/5f7Tf5kiBghcMQGY1idPsJ"
+        },
+        {
+          "name": "Crosswavee",
+          "url": "https://open.spotify.com/artist/6Sq69aTwgyzk6yL6U5mU85"
+        },
+        {
+          "name": "Da Musiqal Prodigy",
+          "url": "https://open.spotify.com/artist/46nnGGk1MsYqz7Yw9EZjxZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381466,
+      "name": "Ekhaya",
+      "url": "https://open.spotify.com/track/1T2pzBmz9yh5ddK8KZbtG7"
+    },
+    {
+      "album": {
         "name": "Etema",
         "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
       },
@@ -599,7 +633,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 482916,
       "name": "Hamon",
       "url": "https://open.spotify.com/track/652CrDGK9rksRHkG7X0rlQ"
@@ -760,6 +794,44 @@
     },
     {
       "album": {
+        "name": "Just Do It",
+        "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Nelcno",
+          "url": "https://open.spotify.com/artist/2zhdw73MF0aMdzngCZ8THY"
+        },
+        {
+          "name": "Sayfar",
+          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
+        },
+        {
+          "name": "Champuru Makhenzo",
+          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322873,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM"
+    },
+    {
+      "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
@@ -852,6 +924,24 @@
     },
     {
       "album": {
+        "name": "Lay It Down (Freeze)",
+        "url": "https://open.spotify.com/album/12vCcwi0rhDDbOhVGVHpuM"
+      },
+      "artists": [
+        {
+          "name": "Jean Feier",
+          "url": "https://open.spotify.com/artist/6WrdVzyxBFJDRB3EZhqh4G"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328829,
+      "name": "Lay It Down - Freeze",
+      "url": "https://open.spotify.com/track/4XUhN77UBA4i0uNa3u0Icz"
+    },
+    {
+      "album": {
         "name": "Lie To Me (Tell Me a Fairy Tale)",
         "url": "https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4"
       },
@@ -867,7 +957,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 198000,
       "name": "Lie To Me (Tell Me a Fairy Tale)",
       "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
@@ -1031,7 +1121,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 195225,
       "name": "ODG - Remix",
       "url": "https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR"
@@ -1097,7 +1187,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 180062,
       "name": "Para",
       "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
@@ -1240,6 +1330,28 @@
     },
     {
       "album": {
+        "name": "SLOW WINE",
+        "url": "https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT"
+      },
+      "artists": [
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223784,
+      "name": "SLOW WINE",
+      "url": "https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM"
+    },
+    {
+      "album": {
         "name": "Softly (Cuppy Remix)",
         "url": "https://open.spotify.com/album/4QJjnkrmYwQ3YypwLENCUQ"
       },
@@ -1315,10 +1427,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 282857,
       "name": "STAMINA",
       "url": "https://open.spotify.com/track/3a8lrjgC8vcx5rzmwMOu7Y"
+    },
+    {
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Sunmomi",
+      "url": "https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M"
     },
     {
       "album": {

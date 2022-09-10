@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 6888,
+  "num_followers": 6971,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGRkMzUzZmIyMWNkZjg3Y2YyYmQwNzY5ZmY0MmU2OTk1",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDcxMWY3NDM0ZmRkMmVhYTFlYTY3MDBkMjY3ZWRjNjZh",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Back To Me",
@@ -387,6 +371,22 @@
       "duration_ms": 206400,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "duration_ms": 263931,
+      "name": "Honey Bee - Edit",
+      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Moody Fuse",
@@ -615,18 +631,18 @@
     {
       "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
       },
       "artists": [
         {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
         }
       ],
-      "duration_ms": 263931,
-      "name": "Honey Bee - Edit",
-      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -643,22 +659,6 @@
       "duration_ms": 204836,
       "name": "Fuck The Regs",
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Welcome EP",
-        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "DJ Lover - Original Mix",
-      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Stutter EP",
@@ -843,6 +827,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Welcome EP",
+        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "DJ Lover - Original Mix",
+      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
     },
     {
       "added_at": "2022-06-03 18:11:27",

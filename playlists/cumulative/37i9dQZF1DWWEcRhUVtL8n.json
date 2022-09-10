@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/3I58KIXmWpkeC4f5QW2IKy"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "123",
+      "url": "https://open.spotify.com/track/6p7ipZgHVyhZZpplPvgW6V"
+    },
+    {
+      "album": {
         "name": "127 Hours",
         "url": "https://open.spotify.com/album/0PTjTUsGj0F6MrmQN3WLUw"
       },
@@ -1760,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "album": {
         "name": "Backyard Boy (Stripped)",
         "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
       },
@@ -1926,6 +1962,24 @@
     },
     {
       "album": {
+        "name": "Bad Juice",
+        "url": "https://open.spotify.com/album/2G1HO3erXavGXFhZUOW0AG"
+      },
+      "artists": [
+        {
+          "name": "Lila Drew",
+          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222215,
+      "name": "Bad Juice",
+      "url": "https://open.spotify.com/track/3zdEqUFjEh8GjEvraSk2aq"
+    },
+    {
+      "album": {
         "name": "Bad Ting",
         "url": "https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8"
       },
@@ -2085,6 +2139,24 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
+    },
+    {
+      "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247327,
+      "name": "Be with You",
+      "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
     },
     {
       "album": {
@@ -7694,6 +7766,24 @@
     },
     {
       "album": {
+        "name": "Forever Is A Charm",
+        "url": "https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl"
+      },
+      "artists": [
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7"
+    },
+    {
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs"
       },
@@ -9805,7 +9895,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 268992,
       "name": "Home By Now",
       "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
@@ -12779,7 +12869,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
@@ -13495,7 +13585,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 231693,
       "name": "Magazine",
       "url": "https://open.spotify.com/track/0Rop7nCpDSuqnuvzWvZIdq"
@@ -15438,6 +15528,24 @@
     },
     {
       "album": {
+        "name": "Nisemono",
+        "url": "https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "Nisemono",
+      "url": "https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef"
+    },
+    {
+      "album": {
         "name": "nite swim",
         "url": "https://open.spotify.com/album/77MsCyezFcOXDwAutRpzQx"
       },
@@ -15901,6 +16009,24 @@
       "duration_ms": 226931,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/7A6K76Ep7yjHtNmRnOQcHj"
+    },
+    {
+      "album": {
+        "name": "Obsessed (Demo)",
+        "url": "https://open.spotify.com/album/585FbTBKq8HAaW7MmOQou0"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "Obsessed (Demo)",
+      "url": "https://open.spotify.com/track/6Hzp6CZ47onhS27yUepksV"
     },
     {
       "album": {
@@ -16633,7 +16759,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 190320,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br"
@@ -17085,7 +17211,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
@@ -17529,7 +17655,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 159417,
       "name": "pretty kids",
       "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
@@ -17717,7 +17843,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
@@ -18547,7 +18673,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 145520,
       "name": "SAN FRANCISCO SIDEWALK",
       "url": "https://open.spotify.com/track/1EgT600glf6aCE9GAQkgm2"
@@ -21823,6 +21949,24 @@
       "duration_ms": 191120,
       "name": "the craziest thing i've ever done",
       "url": "https://open.spotify.com/track/504MLnUGC8qPxtsWmwY3hl"
+    },
+    {
+      "album": {
+        "name": "The Drummer",
+        "url": "https://open.spotify.com/album/1Y1X2eWAXaiYhaG2UXTPXA"
+      },
+      "artists": [
+        {
+          "name": "Petite Meller",
+          "url": "https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "The Drummer",
+      "url": "https://open.spotify.com/track/6hfjUCMCN2uA4PVAek7yU3"
     },
     {
       "album": {

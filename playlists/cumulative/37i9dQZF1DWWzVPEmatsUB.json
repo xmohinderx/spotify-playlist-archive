@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 193047,
       "name": "about time",
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 212680,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "album": {
         "name": "Down The Road Wherever (Deluxe)",
         "url": "https://open.spotify.com/album/50GCIDxmRhgriDpyzmV7qA"
       },
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 233066,
       "name": "For Now",
       "url": "https://open.spotify.com/track/27rRvaQoDLLziMOZZGsACX"
@@ -3520,6 +3538,28 @@
     },
     {
       "album": {
+        "name": "Over My Shoulder",
+        "url": "https://open.spotify.com/album/3FOkLh0X3SGusq9MB7Afhc"
+      },
+      "artists": [
+        {
+          "name": "Victoria Victoria",
+          "url": "https://open.spotify.com/artist/7HCC7kE2A7UW1IGOzajebg"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "Over My Shoulder",
+      "url": "https://open.spotify.com/track/35GhU6oG5RIjjVuFgyb9zn"
+    },
+    {
+      "album": {
         "name": "Paper Airplanes (from the Netflix Film A Jazzman's Blues)",
         "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
       },
@@ -4060,6 +4100,24 @@
     },
     {
       "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159345,
+      "name": "Sky is the Limit",
+      "url": "https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU"
+    },
+    {
+      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY"
       },
@@ -4075,6 +4133,24 @@
       "duration_ms": 187105,
       "name": "Smoke Alarm",
       "url": "https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI"
+    },
+    {
+      "album": {
+        "name": "Fun Machine: The Sequel",
+        "url": "https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1"
     },
     {
       "album": {
@@ -4917,7 +4993,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 197746,
       "name": "Why Don't You Touch Me",
       "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"

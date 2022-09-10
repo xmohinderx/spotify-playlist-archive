@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 228413,
       "name": "Billy",
       "url": "https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy"
@@ -1789,6 +1789,24 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+    },
+    {
+      "album": {
+        "name": "Inevitable / Abrazo",
+        "url": "https://open.spotify.com/album/0nxikgaZCaac69akWTGbeR"
+      },
+      "artists": [
+        {
+          "name": "Puesta De Sol",
+          "url": "https://open.spotify.com/artist/0S84S0DTAsJYag1dSMDd1Z"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226676,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/0uBBAHfiu4Rxzr8smE36ly"
     },
     {
       "album": {

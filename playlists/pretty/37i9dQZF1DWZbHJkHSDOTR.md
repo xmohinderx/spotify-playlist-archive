@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,327 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,331 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 97 | [I Like Dat](https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat](https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3) | 4:02 |
 | 98 | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX) | 3:42 |
 | 99 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 |
-| 100 | [Sugar](https://open.spotify.com/track/2NHlbpWVC7z8S9N14TDRUr) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/48jKW8G7RdJlxRB1COXM8N) | 3:33 |
+| 100 | [Sugar](https://open.spotify.com/track/5XGTYltLDKyl7MW3MzydnL) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/2sf79K9Sr8UC3FYoAwkmys) | 3:33 |
 
-Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMDk4ZjcwNjRjNmM2NjMzOTcwZjcwNzYyNGVhMWU2NGI5`
+Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMGZmMjUwMjQ1NjlmNjllZjhkYzBkNGJmZDQyNzY5NzBl`

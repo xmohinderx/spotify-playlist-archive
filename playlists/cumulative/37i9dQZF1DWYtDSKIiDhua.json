@@ -1016,6 +1016,32 @@
     },
     {
       "album": {
+        "name": "handbook",
+        "url": "https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Nieman",
+          "url": "https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195215,
+      "name": "handbook",
+      "url": "https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9"
+    },
+    {
+      "album": {
         "name": "Self Explanatory",
         "url": "https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4"
       },

@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-127 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+128 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 | 2021-10-11 |  |
 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 | 2022-07-28 |  |
 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 | 2022-06-23 |  |
+| [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-09 |  |
 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 | 2021-10-11 |  |
 | [Logba Logba](https://open.spotify.com/track/2FOtCZz3B6OM4BogE6mavN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:02 | 2022-06-03 |  |
 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2021-10-11 |  |
@@ -123,7 +124,7 @@
 | [Sunset In Batumi](https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands](https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF) | 5:27 | 2022-02-11 | 2022-02-25 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2021-10-15 |  |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-11 |  |
-| [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2021-12-16 |  |
+| [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2021-12-16 | 2022-09-10 |
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-06-03 | 2022-07-15 |
 | [Ubala \(feat\. Sun\-El Musician\)](https://open.spotify.com/track/0n7R3uOg9iZI3vNm7yHSAf) | [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Tugela Fairy](https://open.spotify.com/album/3MlcN8FdjM15IID3d9Jxqk) | 4:08 | 2021-10-11 |  |
 | [Udo](https://open.spotify.com/track/2EBMAyCUrqzPPjzgU76Amw) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 2:57 | 2021-10-28 | 2022-02-25 |

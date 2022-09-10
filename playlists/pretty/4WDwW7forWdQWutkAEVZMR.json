@@ -1,13 +1,129 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Harry Styles &amp; more!",
-  "num_followers": 8317,
+  "num_followers": 8315,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTUzMSw5YTY1NDI1MzVkOWNmMmY4MjZhNTBiNWFjODAwNGJlMzU3MTU2ZjI2",
+  "snapshot_id": "NTU0Nyw3YTI0ZDA2OWQxZTU3MGRkNGM1ZmZlZmIyNmRmYTE1YzNiNWYzNzkz",
   "tracks": [
+    {
+      "added_at": "2022-09-09 13:57:45",
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 120991,
+      "name": "CHIRI",
+      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
+    },
+    {
+      "added_at": "2022-09-09 14:01:14",
+      "album": {
+        "name": "While You're At It",
+        "url": "https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 127293,
+      "name": "While You're At It",
+      "url": "https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq"
+    },
+    {
+      "added_at": "2022-09-09 13:59:10",
+      "album": {
+        "name": "Kill For Your Love",
+        "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 192170,
+      "name": "Kill For Your Love",
+      "url": "https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU"
+    },
+    {
+      "added_at": "2022-09-09 13:57:56",
+      "album": {
+        "name": "caffeine",
+        "url": "https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 198346,
+      "name": "caffeine",
+      "url": "https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO"
+    },
+    {
+      "added_at": "2022-09-09 13:58:55",
+      "album": {
+        "name": "my baby (feat. Emilia Ali)",
+        "url": "https://open.spotify.com/album/0gRckJA3t8HtEMUPpHTQXe"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "my baby (feat. Emilia Ali)",
+      "url": "https://open.spotify.com/track/5mKcwkUfjG9PaQ4KywZxVx"
+    },
+    {
+      "added_at": "2022-09-09 13:59:44",
+      "album": {
+        "name": "Luv U Back",
+        "url": "https://open.spotify.com/album/6n4BMT8epRMopMEfyTbOiw"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Luv U Back",
+      "url": "https://open.spotify.com/track/2Srbi3OwVYT4l2MDXxPUGa"
+    },
+    {
+      "added_at": "2022-09-09 13:59:59",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
     {
       "added_at": "2022-05-20 04:16:34",
       "album": {
@@ -23,122 +139,6 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-09-02 12:43:34",
-      "album": {
-        "name": "less than three",
-        "url": "https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX"
-      },
-      "artists": [
-        {
-          "name": "Foster",
-          "url": "https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "digital gf",
-      "url": "https://open.spotify.com/track/3mOeiCImsneDTJJMVqRJaa"
-    },
-    {
-      "added_at": "2022-09-02 12:46:59",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 171198,
-      "name": "Surprise - Unplugged Remix - Spotify Singles",
-      "url": "https://open.spotify.com/track/3H7qZb4vWMgi7LOUtXeugK"
-    },
-    {
-      "added_at": "2022-09-02 12:44:34",
-      "album": {
-        "name": "Flossin",
-        "url": "https://open.spotify.com/album/4cKaizIpiddKdkAVfCi9rw"
-      },
-      "artists": [
-        {
-          "name": "Onlybino!",
-          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
-        }
-      ],
-      "duration_ms": 147644,
-      "name": "Flossin",
-      "url": "https://open.spotify.com/track/21NMu2aJm3z8oCSPXYY6wo"
-    },
-    {
-      "added_at": "2022-09-02 12:45:30",
-      "album": {
-        "name": "Heart's Done Breakin'",
-        "url": "https://open.spotify.com/album/1w14uCltfdbe7IR6326d0A"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Hart",
-          "url": "https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu"
-        }
-      ],
-      "duration_ms": 176001,
-      "name": "Heart's Done Breakin'",
-      "url": "https://open.spotify.com/track/4iZ5XVGHw4YdGO4etZIPxO"
-    },
-    {
-      "added_at": "2022-09-02 12:44:59",
-      "album": {
-        "name": "HARD",
-        "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Another Broken Heart",
-      "url": "https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR"
-    },
-    {
-      "added_at": "2022-09-02 12:44:13",
-      "album": {
-        "name": "Handle Me (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 167735,
-      "name": "Handle Me (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
-    },
-    {
-      "added_at": "2022-09-02 12:43:56",
-      "album": {
-        "name": "Late Night Talking",
-        "url": "https://open.spotify.com/album/1oakW9zmpF3oSaZ1DzPBw4"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Late Night Talking - Instrumental",
-      "url": "https://open.spotify.com/track/2INabx4FScgmFGSAcsNOKx"
     },
     {
       "added_at": "2022-08-26 14:25:28",

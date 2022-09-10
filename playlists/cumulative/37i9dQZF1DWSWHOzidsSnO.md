@@ -4,7 +4,7 @@
 
 > ¡María Cristina Plata y más mujeres, a todo volumen!
 
-119 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+120 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,9 +85,10 @@
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2022-01-05 |  |
 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 | 2022-09-07 |  |
 | [Niebla](https://open.spotify.com/track/44kB5zEuaAbUxdfruJ6xRL) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q) | [Niebla](https://open.spotify.com/album/2Tl3JRmsdLG1nOg5rOE47x) | 2:46 | 2022-01-05 | 2022-05-07 |
+| [No Dudo](https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [No Dudo](https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA) | 3:20 | 2022-09-09 |  |
 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 | 2022-05-04 |  |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-09-07 |  |
-| [No Hay una Vida Que No Nos Duela](https://open.spotify.com/track/1p0wuVjISHjF45zzjvVBJ5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/album/6In5wZ5nybOTglfJc5740c) | 3:37 | 2022-01-05 |  |
+| [No Hay una Vida Que No Nos Duela](https://open.spotify.com/track/1p0wuVjISHjF45zzjvVBJ5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/album/6In5wZ5nybOTglfJc5740c) | 3:37 | 2022-01-05 | 2022-09-10 |
 | [No Soy de Callar](https://open.spotify.com/track/47U6WT9IaozynJQQn4cfHb) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Amor Profundo](https://open.spotify.com/album/785Bp0IlD9sB1WrXXqI1Jf) | 3:04 | 2022-01-05 |  |
 | [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 | 2022-02-03 |
 | [Noche Humana](https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Noche Humana](https://open.spotify.com/album/1nvhPWn8HYsiOmeJ8OTniK) | 3:20 | 2022-04-06 |  |

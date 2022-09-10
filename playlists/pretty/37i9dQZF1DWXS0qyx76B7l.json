@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGVmZDM0MDZkZGNiODVjMzMwZTdlZTQ0ZGJiNzg0MzIy",
+  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGYxZTIwYTA1ZjhmOTU1YTI0MzQ5OGJlZWU5ZmEwM2Rk",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 190466,
-      "name": "Tenth Avenue Freeze-Out",
-      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
+      "duration_ms": 335480,
+      "name": "New York, I Love You but You're Bringing Me Down",
+      "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 335480,
-      "name": "New York, I Love You but You're Bringing Me Down",
-      "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
+      "duration_ms": 190466,
+      "name": "Tenth Avenue Freeze-Out",
+      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "MASSEDUCTION",
         "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 259706,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     },
     {
       "added_at": "2022-01-24 23:45:18",

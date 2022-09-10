@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 185243,
       "name": "Dancing In The Lightning",
       "url": "https://open.spotify.com/track/4dCdxOWspPkiAydcdEaYQ3"
@@ -1552,6 +1552,32 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR"
+      },
+      "artists": [
+        {
+          "name": "Jewels",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225088,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo"
       },
@@ -1571,6 +1597,24 @@
       "duration_ms": 145250,
       "name": "Human",
       "url": "https://open.spotify.com/track/4TpPSDtJGuD51E66sWrxmd"
+    },
+    {
+      "album": {
+        "name": "I Feel Fine",
+        "url": "https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "I Feel Fine",
+      "url": "https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv"
     },
     {
       "album": {
@@ -1913,7 +1957,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 119217,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr"

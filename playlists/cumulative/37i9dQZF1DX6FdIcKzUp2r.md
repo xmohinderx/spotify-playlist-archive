@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-172 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/2Cgd8hsxaYihdEGXj2hiiD)
+173 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/2Cgd8hsxaYihdEGXj2hiiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,12 +108,13 @@
 | [Old and Wise](https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:55 | 2018-12-12 |  |
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2018-12-12 |  |
 | [Otterley](https://open.spotify.com/track/1DzsFF0bcBcYkZTm1rbprD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 4:04 | 2018-12-12 | 2022-07-26 |
+| [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 | 2018-12-12 |  |
 | [Outside Of This \(Inside Of That\)](https://open.spotify.com/track/1icJsYYbUdQ7xVfsz0YV8r) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mr Cairo](https://open.spotify.com/album/0lBhj4G2lVi5ZOcY8BuTQT) | 5:03 | 2018-12-12 | 2022-07-27 |
 | [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 | 2018-12-12 |  |
 | [Over the Hillside](https://open.spotify.com/track/6T6FEUDoMk5o4MM8Um10Ad) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats \(Deluxe Version\)](https://open.spotify.com/album/5wfkC4wXdkDlKXhJ1BRNN7) | 5:04 | 2018-12-12 | 2022-07-29 |
 | [Par Avion](https://open.spotify.com/track/5uo0mb0iA77V51se5Wl3ti) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/5BrUyKkJIavGjRwYzKrF84) | 3:36 | 2018-12-12 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/3YrCaV9Sv2K2QToEmOB81u) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:51 | 2018-12-12 | 2022-07-27 |
-| [Paris, Texas](https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paris, Texas \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy) | 2:52 | 2018-12-12 |  |
+| [Paris, Texas](https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paris, Texas \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy) | 2:52 | 2018-12-12 | 2022-09-10 |
 | [Polonaise](https://open.spotify.com/track/00g0LMstYkA0WyzDYmseXj) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [Private Collection](https://open.spotify.com/album/1qi65TrtdSDtJMi2qR4yyX) | 5:26 | 2018-12-12 | 2022-07-29 |
 | [Private Investigations](https://open.spotify.com/track/6wBJRGnGOrWy4sACdMekxO) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold \(Remastered\)](https://open.spotify.com/album/4sVMaNrLbkffVgd0CMSibC) | 6:46 | 2018-12-12 | 2022-07-29 |
 | [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 | 2018-12-12 |  |

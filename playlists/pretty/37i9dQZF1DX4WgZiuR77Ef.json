@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 387388,
+  "num_followers": 387419,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGRmZmNjMGQ1ZmU3OGNjMTJjM2E5YjA4M2E2ODliMDhi",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDZiNzNhZjA1NTJhYWUwOGNhZThmM2E5OGI1ZjllNTcz",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Funky Family",
+        "url": "https://open.spotify.com/album/2FeJEOVHMx2oO8s7ZybmeI"
+      },
+      "artists": [
+        {
+          "name": "Them Vibes",
+          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
+        }
+      ],
+      "duration_ms": 246641,
+      "name": "Funky Family",
+      "url": "https://open.spotify.com/track/3WVxrFlPRkR7reDUOctOKb"
+    },
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {

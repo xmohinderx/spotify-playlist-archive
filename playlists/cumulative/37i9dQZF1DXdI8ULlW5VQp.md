@@ -2,9 +2,9 @@
 
 ### [Cantamores](https://open.spotify.com/playlist/37i9dQZF1DXdI8ULlW5VQp)
 
-> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Yuridia y Banda MS en portada.
+> Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Dannylux en portada.
 
-167 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+168 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [No Soy Yo](https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [No Soy Yo](https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09) | 3:13 | 2022-02-04 | 2022-04-19 |
 | [No te echo de menos](https://open.spotify.com/track/0CI9BCWPEd7MK9GM84J65W) | [Dalú](https://open.spotify.com/artist/5KRNxpJy75y6u1jWHs4UYs) | [Rojita](https://open.spotify.com/album/4vMrhTcGO076EweTLl7AbP) | 4:28 | 2022-02-04 | 2022-02-12 |
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2022-02-04 |  |
+| [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-09 |  |
 | [NQSTA](https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [NQSTA](https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0) | 3:04 | 2022-02-04 | 2022-02-19 |
 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 | 2022-03-11 |  |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-06-29 |  |
@@ -122,7 +123,7 @@
 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 | 2022-02-04 | 2022-06-30 |
 | [Pangea](https://open.spotify.com/track/4oI6nz5540UmFqDh4i3yay) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:32 | 2022-07-01 | 2022-07-23 |
 | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/track/55V2INjfekUKprOLzWb9Q1) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/album/6Zg8f2tHcjjs4Fw2c4VNbG) | 2:53 | 2022-08-19 |  |
-| [Paso de Ti](https://open.spotify.com/track/1FteZcmUIFijY4oVL7piy2) | [Miriam Flores](https://open.spotify.com/artist/3nB5huZMjDDJx7XgkT0ptQ) | [Paso de Ti](https://open.spotify.com/album/3wL27cOIC6fwCFKbUDf8b7) | 3:14 | 2022-04-01 |  |
+| [Paso de Ti](https://open.spotify.com/track/1FteZcmUIFijY4oVL7piy2) | [Miriam Flores](https://open.spotify.com/artist/3nB5huZMjDDJx7XgkT0ptQ) | [Paso de Ti](https://open.spotify.com/album/3wL27cOIC6fwCFKbUDf8b7) | 3:14 | 2022-04-01 | 2022-09-10 |
 | [Por Debajo de la Mesa](https://open.spotify.com/track/3KCeHZSB3tN57gIiWj40Nl) | [Diego Boneta](https://open.spotify.com/artist/1Pu2OFhNGOTakxDgxoIXiv) | [Luis Miguel la Serie Temporada Final](https://open.spotify.com/album/6HhpzEOsGl0a0v2ybCaSIh) | 3:05 | 2022-02-04 | 2022-07-02 |
 | [Porfa no te vayas](https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Porfa no te vayas](https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s) | 3:29 | 2022-02-04 | 2022-02-26 |
 | [Que Fuimos](https://open.spotify.com/track/66ffUY3QKH1Nb2wlkDDthB) | [Mane de la Parra](https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck) | [Que Fuimos](https://open.spotify.com/album/6OZCJyAaIAuCVU7XW7iKy4) | 3:43 | 2022-02-04 | 2022-04-19 |

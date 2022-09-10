@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: K\-OS
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Snow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970 likes - 85 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024 likes - 85 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 84 | [Fall From Paradise](https://open.spotify.com/track/0H1OureTxinowEaDHuR3pp) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [While You Were Sleeping](https://open.spotify.com/album/40Ns0bZ8vDcncxeRIfwN6Q) | 4:12 |
 | 85 | [Dear Hip Hop](https://open.spotify.com/track/3qeao3PpYJ2YzRbXta4iE9) | [Dan\-e\-o](https://open.spotify.com/artist/5odWxeNvjPNRoL07Rv9wk6) | [Dear Hip Hop: 20 Years Later](https://open.spotify.com/album/5C9b0q9aIDmsXjk5jHXzun) | 3:27 |
 
-Snapshot ID: `MTY2MjA4NTQ2NSwwMDAwMDAwMDg0YzZjNmI0YTRhMzI3NTIyMjhjYjVhMWIyNWNhOTM4`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGQ3ZWEzNzk3OTYyNDY1NDliZGMwZmNjZmE1YmFiOWMz`

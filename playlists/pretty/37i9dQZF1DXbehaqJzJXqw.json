@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 161708,
+  "num_followers": 162170,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDRlNjdhOWZhOTFlNjE4ZTVmYmMzNGRmMTdkMGM1MmM5",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGVhMmUxMmZkNWVmNmJhZjFkNDk4NDRiYmRjYjEzNzI2",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+        "name": "La fauve",
+        "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Daphn\u00e9",
+          "url": "https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q"
         }
       ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
+      "duration_ms": 227426,
+      "name": "O\u00f9 est la fantaisie ?",
+      "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "La fauve",
-        "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
       "artists": [
         {
-          "name": "Daphn\u00e9",
-          "url": "https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q"
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 227426,
-      "name": "O\u00f9 est la fantaisie ?",
-      "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "Samba de mon c\u0153ur qui bat",
-      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 229226,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/3UuHS1AHJzFeTX0ZG5Nx54"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "Samba de mon c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Bistro Blue",
-        "url": "https://open.spotify.com/album/66RanaCIH8Px0JeEElXZBJ"
-      },
-      "artists": [
-        {
-          "name": "Cyntia M.",
-          "url": "https://open.spotify.com/artist/33QgqCTyg6QmLocI5YEHmk"
-        }
-      ],
-      "duration_ms": 243906,
-      "name": "La mer",
-      "url": "https://open.spotify.com/track/2btsOBBDI1iyEvTgyy0oPC"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Cajueiro",
         "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 201807,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Bistro Blue",
+        "url": "https://open.spotify.com/album/66RanaCIH8Px0JeEElXZBJ"
+      },
+      "artists": [
+        {
+          "name": "Cyntia M.",
+          "url": "https://open.spotify.com/artist/33QgqCTyg6QmLocI5YEHmk"
+        }
+      ],
+      "duration_ms": 243906,
+      "name": "La mer",
+      "url": "https://open.spotify.com/track/2btsOBBDI1iyEvTgyy0oPC"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 140826,
       "name": "Un jour comme un autre",
       "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 203066,
       "name": "Jazz M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 186253,
       "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
       "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Gilbert Becaud (1964-1966) [2011 Remastered] [Deluxe version]",
+        "url": "https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Plein soleil",
+      "url": "https://open.spotify.com/track/3cnjkGxvV25vrx5lewbKfS"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "10 chansons pour l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 169143,
       "name": "Quand on s'balade",
       "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Gilbert Becaud (1964-1966) [2011 Remastered] [Deluxe version]",
-        "url": "https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF"
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
       },
       "artists": [
         {
-          "name": "Gilbert B\u00e9caud",
-          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
         }
       ],
-      "duration_ms": 182773,
-      "name": "Plein soleil",
-      "url": "https://open.spotify.com/track/3cnjkGxvV25vrx5lewbKfS"
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Le voyageur",
-        "url": "https://open.spotify.com/album/78FHh2FBh4UugFnZ2fTsAM"
-      },
-      "artists": [
-        {
-          "name": "Georges Moustaki",
-          "url": "https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Les eaux de Mars",
-      "url": "https://open.spotify.com/track/5m12MQSNBHP3SoIoYTgnyX"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Miss Kitt To You",
         "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 167866,
       "name": "Je Cherche Un Homme",
       "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Le voyageur",
+        "url": "https://open.spotify.com/album/78FHh2FBh4UugFnZ2fTsAM"
+      },
+      "artists": [
+        {
+          "name": "Georges Moustaki",
+          "url": "https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Les eaux de Mars",
+      "url": "https://open.spotify.com/track/5m12MQSNBHP3SoIoYTgnyX"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
         }
       ],
-      "duration_ms": 176133,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp"
+      "duration_ms": 146253,
+      "name": "La fille d'Ipanema",
+      "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
       "artists": [
         {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 146253,
-      "name": "La fille d'Ipanema",
-      "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
+      "duration_ms": 176133,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Soir\u00e9e",
+        "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
+      },
+      "artists": [
+        {
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Vous Qui Passez Sans Me Voir",
+      "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Soir\u00e9e",
-        "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
       "artists": [
         {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Vous Qui Passez Sans Me Voir",
-      "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+      "duration_ms": 179706,
+      "name": "Les eaux de Mars",
+      "url": "https://open.spotify.com/track/3FopnRPK626Fbu4ErKdtUo"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+        "name": "Jeanne Chante Jeanne",
+        "url": "https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7"
       },
       "artists": [
         {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+          "name": "Jeanne Moreau",
+          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
         }
       ],
-      "duration_ms": 179706,
-      "name": "Les eaux de Mars",
-      "url": "https://open.spotify.com/track/3FopnRPK626Fbu4ErKdtUo"
+      "duration_ms": 181600,
+      "name": "Les voyages",
+      "url": "https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1543,22 +1559,6 @@
       "duration_ms": 261093,
       "name": "Mon fant\u00f4me",
       "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Jeanne Chante Jeanne",
-        "url": "https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Moreau",
-          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Les voyages",
-      "url": "https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Ces Petits Riens",
-      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 111626,
       "name": "\u00c7a valait la peine",
       "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 272733,
       "name": "Je m'ennuie",
       "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2022-09-08 22:00:00",

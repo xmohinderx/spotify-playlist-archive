@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,101 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,138 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 4 | [Baby Please Don't Go](https://open.spotify.com/track/5FDGmW9TgycCTVwPnKZ4xC) | [The Amboy Dukes](https://open.spotify.com/artist/5cVLuEqb7aOHuzwssXHzWI) | [Journey To The Center Of The Mind](https://open.spotify.com/album/1C7Z6X7m9uxVP9Jtaoyvj5) | 5:38 |
 | 5 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
 | 6 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
-| 7 | [Evil Woman](https://open.spotify.com/track/5hZHU4ODhJJhB28Q5MdQHa) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Boogie With Canned Heat](https://open.spotify.com/album/4GIv54tOpYbmQ2eGojw4Rr) | 2:57 |
-| 8 | [Unconscious Power](https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Heavy](https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW) | 2:30 |
+| 7 | [Unconscious Power](https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Heavy](https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW) | 2:30 |
+| 8 | [Evil Woman](https://open.spotify.com/track/5hZHU4ODhJJhB28Q5MdQHa) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Boogie With Canned Heat](https://open.spotify.com/album/4GIv54tOpYbmQ2eGojw4Rr) | 2:57 |
 | 9 | [A Child of a Few Hours Is Burning to Death](https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [A Child's Guide To Good And Evil](https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF) | 2:41 |
-| 10 | [Gold And Silver](https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Quicksilver Messenger Service](https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY) | 6:43 |
-| 11 | [Baby Blue](https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc) | [The Chocolate Watchband](https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A) | [Inner Mystique](https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd) | 3:12 |
+| 10 | [Baby Blue](https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc) | [The Chocolate Watchband](https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A) | [Inner Mystique](https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd) | 3:12 |
+| 11 | [Gold And Silver](https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Quicksilver Messenger Service](https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY) | 6:43 |
 | 12 | [Leavin' Trunk](https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H) | [Keef Hartley Band](https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2) | [Halfbreed](https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi) | 5:56 |
 | 13 | [Slip Inside This House \- Stereo LP Version](https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [Easter Everywhere](https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik) | 8:02 |
 | 14 | [Codine](https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 4:32 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 21 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
 | 22 | [Miss Evil](https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Hibernated \- Earth Omen](https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F) | 6:24 |
 | 23 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
-| 24 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
-| 25 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
+| 24 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
+| 25 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
 | 26 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
 | 27 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
 | 28 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 39 | [Mr\. Blues](https://open.spotify.com/track/2ENMAIS4aSOHzqaPIXCHiI) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Listen My Friends! The Best Of Moby Grape](https://open.spotify.com/album/5J7SaPEpEp91QraSb8WkRV) | 1:58 |
 | 40 | [Don't Call Us, We'll Call You \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC) | [Sugarloaf](https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH) | [Don't Call Us, We'll Call You \(Re\-Recorded\)](https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic) | 3:22 |
 | 41 | [Lucille \(1970 BBC Top Gear Radio Broadcast\)](https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP) | [The Pink Fairies](https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE) | [Fuzz Freakout 1970\-1971](https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5) | 2:42 |
-| 42 | [Charlie](https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptoof!](https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr) | 3:58 |
-| 43 | [Big Headed Woman](https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF) | [Speed, Glue & Shinki](https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk) | [Eve](https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k) | 6:15 |
+| 42 | [Big Headed Woman](https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF) | [Speed, Glue & Shinki](https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk) | [Eve](https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k) | 6:15 |
+| 43 | [Charlie](https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptoof!](https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr) | 3:58 |
 | 44 | [It's A Hard Life](https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 2:40 |
 | 45 | [I Put a Spell on You](https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 3:44 |
 | 46 | [Cheshire](https://open.spotify.com/track/4KWLEtCcc13YDp6YogeVMB) | [Frumious Bandersnatch](https://open.spotify.com/artist/6oGriTn7yPNEco3WkbNqS9) | [The Studio Outtakes](https://open.spotify.com/album/0rXM1CIG0xeDoHABrXHACR) | 9:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 | 50 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMGMzZGZmZjMxYWFmMGE0M2M5ZDQwNWJmOTRkNjA3ODdi`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDJmYTM4NzYwNzgyMDdiMzg0Nzc3NWExMTFlZWU1NjEy`

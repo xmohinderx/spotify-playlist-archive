@@ -1,12 +1,12 @@
 {
   "description": "Gorillaz make anti pop.",
-  "num_followers": 661896,
+  "num_followers": 662180,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjM3MiwwMDAwMDAwMDJlYThjMjUzYzc3YzU1ZGU4MjgwMDg5MmU4N2RjYmFh",
+  "snapshot_id": "MTY2MjE0MjM3MiwwMDAwMDAwMGVlZjEyZmMzODYwOGZkOGViMmMyMWRhNGEwMzIzZTBm",
   "tracks": [
     {
       "added_at": "2022-09-02 09:10:00",
@@ -475,18 +475,22 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
       },
       "artists": [
         {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+      "duration_ms": 171425,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -515,22 +519,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
       },
       "artists": [
         {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 171425,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR"
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+        "name": "ZIG ZAGGING",
+        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
         }
       ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+      "duration_ms": 124800,
+      "name": "ZIG ZAGGING",
+      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
         "name": "burbank house",
         "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 101647,
       "name": "burbank house",
       "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "ZIG ZAGGING",
-        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
-      },
-      "artists": [
-        {
-          "name": "Asha Imuno",
-          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "ZIG ZAGGING",
-      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
     },
     {
       "added_at": "2022-08-18 17:22:36",
@@ -747,8 +747,8 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Maybe Not",
-        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
       },
       "artists": [
         {
@@ -756,25 +756,9 @@
           "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
         }
       ],
-      "duration_ms": 170060,
-      "name": "Maybe Not",
-      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
-        "name": "I Did Drugs For You",
-        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
-      },
-      "artists": [
-        {
-          "name": "Rook Monroe",
-          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "I Did Drugs For You",
-      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
+      "duration_ms": 114416,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
       "added_at": "2022-08-13 02:14:30",
@@ -809,6 +793,22 @@
       "url": "https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx"
     },
     {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
+        "name": "I Did Drugs For You",
+        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
+      },
+      "artists": [
+        {
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "I Did Drugs For You",
+      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
+    },
+    {
       "added_at": "2022-08-27 14:54:03",
       "album": {
         "name": "Psychedelic Views (feat. IDK)",
@@ -831,8 +831,8 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
+        "name": "Maybe Not",
+        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
         }
       ],
-      "duration_ms": 114416,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
+      "duration_ms": 170060,
+      "name": "Maybe Not",
+      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
     },
     {
       "added_at": "2022-08-13 02:14:30",

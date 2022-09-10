@@ -4,7 +4,7 @@
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-31 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/3q7UsHyJJBn4WNXvV4nmyX)
+32 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/3q7UsHyJJBn4WNXvV4nmyX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Déjate Caer](https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:22 | 2020-01-15 |  |
 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 | 2020-01-15 |  |
 | [Hipercandombe](https://open.spotify.com/track/0h9QE6kspuK23cB8AYwmjZ) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [Peliculas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj) | 4:30 | 2020-01-15 |  |
-| [Instituciones](https://open.spotify.com/track/4lbb8zGHPUwWNQkzBBYrl3) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Sí o Sí \- Diario del Rock Argentino \- Sui Generis](https://open.spotify.com/album/5XBgXYEw2flQFZDW1I8lFS) | 4:48 | 2020-01-15 |  |
+| [Instituciones](https://open.spotify.com/track/4lbb8zGHPUwWNQkzBBYrl3) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Sí o Sí \- Diario del Rock Argentino \- Sui Generis](https://open.spotify.com/album/5XBgXYEw2flQFZDW1I8lFS) | 4:48 | 2020-01-15 | 2022-09-10 |
+| [Instituciones](https://open.spotify.com/track/0RPoVlxtkhJPaeeCNHTy85) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 4:51 | 2020-01-15 |  |
 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 | 2020-01-15 |  |
 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 | 2020-01-15 |  |
 | [La Conferencia Secreta Del Toto's Bar/Mi Tía Clementina](https://open.spotify.com/track/76dkZsVQGxoXpzxo4IUCQp) | [Los Shakers](https://open.spotify.com/artist/5iObuPpXhQnJ40Pk2Ydkwr) | [La Conferencia Secreta Del Toto'S Bar](https://open.spotify.com/album/5XxBTFDzd16rHMG8x0sBgS) | 5:07 | 2020-01-15 |  |

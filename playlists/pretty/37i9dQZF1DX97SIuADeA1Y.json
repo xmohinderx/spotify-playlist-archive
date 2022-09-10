@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 269635,
+  "num_followers": 269754,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxMzQ4NiwwMDAwMDAwMGQ1YzFkYzU0OGUyZTgwZWQzNjczMGJmMzQzNWU0MjYx",
+  "snapshot_id": "MTY2MTUxMzQ4NiwwMDAwMDAwMDNkOTRkNmFlMWVlZmI3NDE5NGRmZGM4Nzg3ZWY4YzNi",
   "tracks": [
     {
       "added_at": "2022-08-26 11:31:26",
@@ -371,6 +371,26 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "BE.TH",
+          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
       },
@@ -387,6 +407,26 @@
       "duration_ms": 160873,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -435,46 +475,6 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
-        "name": "Boots",
-        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "BE.TH",
-          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
-        "name": "Another Level (ft. Lovespeake)",
-        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 145941,
-      "name": "Another Level (ft. Lovespeake)",
-      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 157446,
       "name": "Skippin",
       "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -747,30 +747,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Alone Again (feat. PollyAnna)",
-        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "SESA",
-          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Alone Again (feat. PollyAnna)",
-      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 166887,
       "name": "Raindrops (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Alone Again (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "SESA",
+          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Alone Again (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
-      },
-      "artists": [
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        }
-      ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Mask Off",
         "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
       },
@@ -871,26 +851,22 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Beating Broken Heart",
-        "url": "https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl"
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
       },
       "artists": [
         {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
         },
         {
-          "name": "Jon Paul",
-          "url": "https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
         }
       ],
-      "duration_ms": 139385,
-      "name": "Beating Broken Heart",
-      "url": "https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn"
+      "duration_ms": 154904,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -915,6 +891,30 @@
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Beating Broken Heart",
+        "url": "https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Jon Paul",
+          "url": "https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 139385,
+      "name": "Beating Broken Heart",
+      "url": "https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
         "name": "Like You Mean It",
         "url": "https://open.spotify.com/album/1qTxHDgm9jc8t0Du3Mmi1K"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 138536,
       "name": "Like You Mean It",
       "url": "https://open.spotify.com/track/76QVxIrCN9n49o1QWE9Be2"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "S\u00d8LO",
-          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "I'll Be Gone",
         "url": "https://open.spotify.com/album/4YsyvipGYyveQu8xvmE5O9"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 161739,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/1xo6bTCYJyviJPZ3TQN76Z"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "S\u00d8LO",
+          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
     }
   ],
   "unique_name": "SLAP!",

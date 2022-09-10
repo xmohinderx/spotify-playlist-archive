@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-07",
   "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! Foto: Blessd, Ryan Castro, SOG",
   "name": "Reggaet\u00f3n Colombia",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3OhkR06qQDPnVK6pP9NFg8"
+  ],
   "tracks": [
     {
       "album": {
@@ -25,7 +27,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 210935,
       "name": "+18",
       "url": "https://open.spotify.com/track/51TJh1UIuNYFWyhpSelRGc"
@@ -83,6 +85,24 @@
       "duration_ms": 209032,
       "name": "Amor De Una Noche",
       "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
+    },
+    {
+      "album": {
+        "name": "Amor Y Sal",
+        "url": "https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152249,
+      "name": "Amor Y Sal",
+      "url": "https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh"
     },
     {
       "album": {
@@ -475,6 +495,28 @@
       "duration_ms": 184000,
       "name": "Hace Tiempo",
       "url": "https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/1oOYJiGceppR1wxTUEbpbb"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179430,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/4k11pkNfqJsq7ZX1TbxBeo"
     },
     {
       "album": {
@@ -885,7 +927,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 186952,
       "name": "Perreito Under",
       "url": "https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y"

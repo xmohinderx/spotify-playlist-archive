@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 
 > 24 songs dedicated to the Mamba & Mambacita\. R.I.P\. Kobe & Gianna Bryant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,723 likes - 24 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,006 likes - 24 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

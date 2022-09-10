@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,899 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,339 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 13 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
 | 14 | [Overrated](https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:26 |
 | 15 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
-| 16 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
-| 17 | [III\. Telegraph Ave\. \("Oakland" by Lloyd\)](https://open.spotify.com/track/0VXfZi7XhfJnuBvF6XiypU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:30 |
+| 16 | [III\. Telegraph Ave\. \("Oakland" by Lloyd\)](https://open.spotify.com/track/0VXfZi7XhfJnuBvF6XiypU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:30 |
+| 17 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 18 | [Provider](https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Provider](https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9) | 4:03 |
 | 19 | [King Of The Fall](https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [King Of The Fall](https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO) | 5:01 |
 | 20 | [Retrograde \(feat\. 6LACK & Lucky Daye\)](https://open.spotify.com/track/3v5WRAItrZgr5vCdW3vTmz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:40 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 25 | [Bad Blood](https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:00 |
 | 26 | [Terrified](https://open.spotify.com/track/5MKSl2ZHsImt0wOfBAs87U) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 4:15 |
 | 27 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 |
-| 28 | [If You Let Me](https://open.spotify.com/track/5LKXxwgll43fxe1lPF7sze) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [If You Let Me](https://open.spotify.com/album/2WTbzsNwxQ53kvZAdPBozx) | 3:52 |
+| 28 | [WEST DISTRICT](https://open.spotify.com/track/1xJf1B1Pfl5eVSVV1nwN7j) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 5:03 |
 | 29 | [Motion](https://open.spotify.com/track/65DzdjRWH35DNsBZBjW523) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B) | 3:55 |
-| 30 | [SUMMER](https://open.spotify.com/track/7zmleW3XZx0uUsL2CkFuDe) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE \(Clean\)](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) | 4:45 |
-| 31 | [WEST DISTRICT](https://open.spotify.com/track/1xJf1B1Pfl5eVSVV1nwN7j) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 5:03 |
+| 30 | [If You Let Me](https://open.spotify.com/track/5LKXxwgll43fxe1lPF7sze) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [If You Let Me](https://open.spotify.com/album/2WTbzsNwxQ53kvZAdPBozx) | 3:52 |
+| 31 | [SUMMER](https://open.spotify.com/track/7zmleW3XZx0uUsL2CkFuDe) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE \(Clean\)](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) | 4:45 |
 | 32 | [Time](https://open.spotify.com/track/3GTpHuThSwghiUEvVQCwsz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:44 |
 | 33 | [Babylon \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:54 |
 | 34 | [Nuh Time / Tek Time](https://open.spotify.com/track/5YxaccATvDTIOpue7vu6Tn) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX) | 5:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [blow](https://open.spotify.com/track/4FWh74bqSeP6KOiYNUrQMK) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [to feel love/d](https://open.spotify.com/album/0XotuUDdk43G8R4edptbju) | 4:00 |
 | 50 | [1 to 2](https://open.spotify.com/track/1Y4KPZ4UX1reo8V5d622Ch) | [Blaq Tuxedo](https://open.spotify.com/artist/1KmFm3UgUbNBOuw0yLDN2p) | [Blaq Tuxedo](https://open.spotify.com/album/0AJJUuifzEBIm20sLDKzyg) | 2:37 |
 
-Snapshot ID: `MTY2MjYwOTYwMCwwMDAwMDAwMDQ5YmI4NTBlNTI5OTY4YmVmNTNjZWQ0N2M1ZmZmOWZl`
+Snapshot ID: `MTY2MjYwOTYwMCwwMDAwMDAwMDEwMTMyYmYyYzA5OTQ0OTE0OTZhODRlZTQzZDU2OTAz`

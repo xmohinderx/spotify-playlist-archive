@@ -4,7 +4,7 @@
 
 > Ouça os hits do momento do pop BR! Foto: IZA
 
-127 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
+128 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 | 2022-01-14 |  |
 | [Ritmo Agressivo](https://open.spotify.com/track/7ph7fCkl87MkX4i5vxIU9H) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Ritmo Agressivo](https://open.spotify.com/album/2JMewLH8ROoQkn2wZBpaX0) | 2:31 | 2022-02-04 | 2022-07-19 |
 | [roubando a cena](https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:17 | 2022-05-13 | 2022-07-23 |
+| [S De Saudade \- Remix](https://open.spotify.com/track/4YKFMajucGtQfbY6poVMBP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [S De Saudade \(Remix\)](https://open.spotify.com/album/5Fd3IVibDWZczGP6eyYqXd) | 2:47 | 2022-09-09 |  |
 | [Saturno \(Ela é Malvada\)](https://open.spotify.com/track/3DFAj6yMZ6QLWez7cbL1Vc) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Saturno \(Ela é Malvada\)](https://open.spotify.com/album/3EJf6g8d84fp0glrKP1ZEF) | 2:22 | 2022-07-19 | 2022-07-29 |
 | [Saturno \(Ela É Malvada\)](https://open.spotify.com/track/3aBC5N2cfkKNKdFTosiL9c) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Saturno \(Ela É Malvada\)](https://open.spotify.com/album/6jYaHQcPsdVUoHM26cAWjq) | 2:22 | 2022-07-22 | 2022-08-06 |
 | [Sem Filtro](https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Sem Filtro](https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA) | 3:26 | 2022-01-14 | 2022-02-12 |

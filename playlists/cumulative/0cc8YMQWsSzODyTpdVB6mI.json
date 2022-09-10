@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Azibi",
+        "url": "https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL"
+      },
+      "artists": [
+        {
+          "name": "Record Club",
+          "url": "https://open.spotify.com/artist/4cArYfwQ0BrfSEhaDwhVYQ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232380,
+      "name": "Azibi",
+      "url": "https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c"
+    },
+    {
+      "album": {
         "name": "Be Grateful",
         "url": "https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9"
       },
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 317265,
       "name": "Recall (Young Man)",
       "url": "https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI"

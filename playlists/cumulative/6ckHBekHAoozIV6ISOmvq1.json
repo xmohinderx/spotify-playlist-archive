@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 681106,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: De profundis",
       "url": "https://open.spotify.com/track/4OCfKegvA8auB9TgAy1SRA"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 502666,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Virgines caste",
       "url": "https://open.spotify.com/track/48sYaVLf5VcnEMRW9Zg5t3"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 209826,
       "name": "Adieu vous di, tres doulce compaynie",
       "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 242226,
       "name": "Amour, tenson et bataille",
       "url": "https://open.spotify.com/track/5jFqkkOkTQFZmicM2RyS7G"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 183813,
       "name": "Angnel son biancho",
       "url": "https://open.spotify.com/track/0KrzTJwsbO8maFxZNmbO6e"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 473533,
       "name": "Azeruz",
       "url": "https://open.spotify.com/track/3wbrCQVZSmp35DF5M4sTFH"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 308586,
       "name": "Bel Acueil, rondeau \u00e0 1, 2 & 3",
       "url": "https://open.spotify.com/track/1Lcmx25cZD7hXomhSqvDAt"
@@ -2597,7 +2597,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 445000,
       "name": "Cantiga No. 10, \"Rosa das rosas\": Por nos de dulta tirar (CSM 18)",
       "url": "https://open.spotify.com/track/6F0n0xELxkqXaaeKM9jfkn"
@@ -4347,10 +4347,32 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 249520,
       "name": "Danca Amorosa: Danca amorosa - Troto [Additional 29987]",
       "url": "https://open.spotify.com/track/0yTRIe6r1lmpy4hnAIMaWI"
+    },
+    {
+      "album": {
+        "name": "Miri It Is: Songs & Instrumental Music from Medieval England",
+        "url": "https://open.spotify.com/album/2CwVee2rHToqW6qkya2ArD"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "The Dufay Collective",
+          "url": "https://open.spotify.com/artist/1x40zidU6Q8RGgtpzcdFzS"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "Dance (13th Century)",
+      "url": "https://open.spotify.com/track/51gNs4a2qyR2l9QFUBc4O6"
     },
     {
       "album": {
@@ -4619,7 +4641,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 617466,
       "name": "De tous bien plein",
       "url": "https://open.spotify.com/track/7vcxjNhIQOXN88fDKMWJ8L"
@@ -5935,9 +5957,31 @@
           "url": "https://open.spotify.com/artist/0ikTVRtzMFJSrzEL9IZDtU"
         }
       ],
-      "date_added": "2022-09-03",
+      "date_added": "2022-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219586,
+      "name": "Francesco Landini: Fa metter bando",
+      "url": "https://open.spotify.com/track/5AmLS8FtFuzDwTSLv8C3b6"
+    },
+    {
+      "album": {
+        "name": "Altera Luce",
+        "url": "https://open.spotify.com/album/7p854mUrf9IR6yBdEjeP6l"
+      },
+      "artists": [
+        {
+          "name": "Francesco Landini",
+          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
+        },
+        {
+          "name": "Currentes",
+          "url": "https://open.spotify.com/artist/0ikTVRtzMFJSrzEL9IZDtU"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
       "duration_ms": 238586,
       "name": "Francesco Landini: Nella partita",
       "url": "https://open.spotify.com/track/2x7V71jZAXFga9Gpc1UhAe"
@@ -6947,7 +6991,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 189666,
       "name": "Impudenter circumivi",
       "url": "https://open.spotify.com/track/5Fo9auBwwDDCqGKhcOsPX4"
@@ -7799,7 +7843,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 373960,
       "name": "Kyrie, JD 1",
       "url": "https://open.spotify.com/track/0xAxqbtivaLnmjjLvg3UNX"
@@ -11747,7 +11791,7 @@
       ],
       "date_added": "2019-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 391706,
       "name": "Petre Clemens, tam re quam nimine - Lugentium siccentur occuli plaudant senes (Motette)",
       "url": "https://open.spotify.com/track/3EKK87FM9sC1TxbWcVs2jj"
@@ -12125,7 +12169,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 673786,
       "name": "Principio di virtu [Additional 29987]",
       "url": "https://open.spotify.com/track/2E67gjhpVte8MyX2nAxuOS"
@@ -12371,7 +12415,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 194533,
       "name": "Quand je voy yver...",
       "url": "https://open.spotify.com/track/1dtFpdFr4hsboiZHCxWeHr"
@@ -12393,7 +12437,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 366813,
       "name": "Quand l'herba fresca",
       "url": "https://open.spotify.com/track/3CWQsGWF09wgPQipTLrAF5"
@@ -12463,7 +12507,7 @@
       ],
       "date_added": "2020-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 257899,
       "name": "Quando la stella",
       "url": "https://open.spotify.com/track/46ut5xENuPSPnIAkzNTX7k"
@@ -12925,7 +12969,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 289800,
       "name": "Renverdie",
       "url": "https://open.spotify.com/track/6ZhiwvzK2VkKRtw426VMlC"
@@ -14261,7 +14305,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 461186,
       "name": "Tre Fontane",
       "url": "https://open.spotify.com/track/7xWfcCfyNFHHK7eH7Ae5NU"
@@ -14669,7 +14713,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 256893,
       "name": "Va t\u2019en, mon cuer, aveuc mes yeux",
       "url": "https://open.spotify.com/track/3XQ9Y10raUREOEF12e0dfl"
@@ -14721,7 +14765,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 416146,
       "name": "Veni Sancte Spiritus - Veni Creator, JD 32",
       "url": "https://open.spotify.com/track/2rTXmscEox4oRfQQdWQuNj"

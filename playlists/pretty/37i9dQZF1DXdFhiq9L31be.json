@@ -1,12 +1,12 @@
 {
   "description": "Stripped back recordings like nothing you\u2019ve heard before.  Cover: girl in red. ",
-  "num_followers": 146339,
+  "num_followers": 146371,
   "original_name": "Spotify Singles: Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2MTE1MCwwMDAwMDAwMDhkMDY3MTI2MDFkYWQ3ZDExMTBiOGE0YzBlYTZkYmEz",
+  "snapshot_id": "MTY2MjA2MTE1MCwwMDAwMDAwMGRjMWMxNDc4ZjE3YjczZTRiYzUwYTY2OWI2YjU3ZTZk",
   "tracks": [
     {
       "added_at": "2022-09-01 19:39:10",
@@ -288,22 +288,6 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
@@ -320,17 +304,17 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -347,6 +331,22 @@
       "duration_ms": 189725,
       "name": "Don't Matter - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4a00SVbdG6saNqRJlC4XKQ"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -420,22 +420,6 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
       "artists": [
@@ -447,6 +431,22 @@
       "duration_ms": 231160,
       "name": "Burning - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -676,22 +676,6 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
       },
       "artists": [
@@ -708,17 +692,17 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -740,17 +724,17 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 271825,
-      "name": "Light On - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -767,6 +751,22 @@
       "duration_ms": 214393,
       "name": "Hold Your Head Up High - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 271825,
+      "name": "Light On - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -820,22 +820,6 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169121,
-      "name": "Let Me Down Slowly - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1qlc10Iyy8AhJ4zJqwzx4Z"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
       "artists": [
@@ -868,6 +852,22 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Let Me Down Slowly - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1qlc10Iyy8AhJ4zJqwzx4Z"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
       },
       "artists": [
@@ -879,6 +879,22 @@
       "duration_ms": 301144,
       "name": "Cry Me a River - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Touch - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -900,17 +916,21 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
+        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
         }
       ],
-      "duration_ms": 206333,
-      "name": "Touch - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808"
+      "duration_ms": 226449,
+      "name": "I'll Be Fine Somehow - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7ieS3GbdpR81BfRzH0KFaT"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -968,21 +988,17 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
+        "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 226449,
-      "name": "I'll Be Fine Somehow - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7ieS3GbdpR81BfRzH0KFaT"
+      "duration_ms": 227600,
+      "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -999,22 +1015,6 @@
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -1228,6 +1228,22 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1QyyVFQ0Y1DJLb7OeQgQUJ"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
       },
       "artists": [
@@ -1243,22 +1259,6 @@
       "duration_ms": 178466,
       "name": "I've Got The World On A String - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1QyyVFQ0Y1DJLb7OeQgQUJ"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -1344,26 +1344,6 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        },
-        {
-          "name": "Sabina Ddumba",
-          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
-        }
-      ],
-      "duration_ms": 208949,
-      "name": "Love Someone (feat. Sabina Ddumba) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
       },
       "artists": [
@@ -1400,6 +1380,26 @@
       "added_at": "2022-03-09 14:34:06",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "duration_ms": 208949,
+      "name": "Love Someone (feat. Sabina Ddumba) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM"
       },
       "artists": [
@@ -1411,38 +1411,6 @@
       "duration_ms": 219221,
       "name": "Human - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 174094,
-      "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI"
-    },
-    {
-      "added_at": "2022-03-09 14:34:06",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
     },
     {
       "added_at": "2022-03-09 14:34:06",
@@ -1475,6 +1443,38 @@
       "duration_ms": 206190,
       "name": "mars - Spotify Singles",
       "url": "https://open.spotify.com/track/3hmjsmXPsfUrQZwFhGemGd"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 174094,
+      "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI"
+    },
+    {
+      "added_at": "2022-03-09 14:34:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
     },
     {
       "added_at": "2022-03-09 14:34:06",

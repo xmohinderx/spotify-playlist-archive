@@ -1,12 +1,12 @@
 {
   "description": "New England music breaking waves. Cover, Van Buren Records",
-  "num_followers": 1087,
+  "num_followers": 1085,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTIxOCwwMDAwMDAwMDBjNzc2YTU0MTdlOGEwOTA2ODVmODk0NGY0NWI1OGIz",
+  "snapshot_id": "MTY2Mjc1MjAzMSwwMDAwMDAwMGRlMjU4ZjM3YmYyNDBkMzgzOWFmYjM2NWU2ZDQ0NTVl",
   "tracks": [
     {
       "added_at": "2022-09-02 17:53:38",
@@ -39,6 +39,22 @@
       "duration_ms": 274848,
       "name": "FOUL",
       "url": "https://open.spotify.com/track/1vSswbc405HtunKunj9UnM"
+    },
+    {
+      "added_at": "2022-09-09 19:33:50",
+      "album": {
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": "2022-08-19 19:55:05",
@@ -161,24 +177,40 @@
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
-      "added_at": "2022-07-29 19:36:45",
+      "added_at": "2022-09-09 19:33:50",
       "album": {
-        "name": "CASH IN THE CLUB",
-        "url": "https://open.spotify.com/album/0gWfpL893Fn6HHBqBJO2B0"
+        "name": "YAMI YUGI MOTO",
+        "url": "https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3"
       },
       "artists": [
         {
-          "name": "Kevin George",
-          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
-        },
-        {
-          "name": "Foxx",
-          "url": "https://open.spotify.com/artist/2XI3Dwe8OmTjVlcmKWIttU"
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
         }
       ],
-      "duration_ms": 160496,
-      "name": "CASH IN THE CLUB",
-      "url": "https://open.spotify.com/track/5yPVWR0GMvNNBezPQTuYs4"
+      "duration_ms": 117600,
+      "name": "YAMI YUGI MOTO",
+      "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
+    },
+    {
+      "added_at": "2022-09-09 19:33:50",
+      "album": {
+        "name": "sex! money! violence!",
+        "url": "https://open.spotify.com/album/4fnDaPd2fiWOqaakEU2jhJ"
+      },
+      "artists": [
+        {
+          "name": "STEFAN THEV",
+          "url": "https://open.spotify.com/artist/3kggahr7S6paKpAN6EMKVM"
+        },
+        {
+          "name": "DAN OTYA",
+          "url": "https://open.spotify.com/artist/4mFWbLSOiaF35VEop1bMG8"
+        }
+      ],
+      "duration_ms": 176469,
+      "name": "sex! money! violence!",
+      "url": "https://open.spotify.com/track/7JwV5GYsVIRW5wrJw3lvAI"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -197,20 +229,24 @@
       "url": "https://open.spotify.com/track/2DAWd9getY6cG4mpUOBdt4"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
+      "added_at": "2022-07-29 19:36:45",
       "album": {
-        "name": "Involved",
-        "url": "https://open.spotify.com/album/5dMJYzSMUnDSe0mSI3Epef"
+        "name": "CASH IN THE CLUB",
+        "url": "https://open.spotify.com/album/0gWfpL893Fn6HHBqBJO2B0"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        },
+        {
+          "name": "Foxx",
+          "url": "https://open.spotify.com/artist/2XI3Dwe8OmTjVlcmKWIttU"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Involved",
-      "url": "https://open.spotify.com/track/4FSIsiKusPR255QxNgKmOz"
+      "duration_ms": 160496,
+      "name": "CASH IN THE CLUB",
+      "url": "https://open.spotify.com/track/5yPVWR0GMvNNBezPQTuYs4"
     },
     {
       "added_at": "2022-06-10 17:46:26",
@@ -337,6 +373,38 @@
       "url": "https://open.spotify.com/track/1pn2A373ZsEUyX1FtEccOZ"
     },
     {
+      "added_at": "2022-09-09 19:33:50",
+      "album": {
+        "name": "DSM",
+        "url": "https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol"
+      },
+      "artists": [
+        {
+          "name": "Van Buren Records",
+          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Jiles",
+          "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
+        },
+        {
+          "name": "Ricky Felix",
+          "url": "https://open.spotify.com/artist/2SmC9XkFSqrH0sAn9F9E19"
+        },
+        {
+          "name": "FELIX",
+          "url": "https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs"
+        }
+      ],
+      "duration_ms": 210955,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/2wHD7sPxQgMS8S5dEQHu7c"
+    },
+    {
       "added_at": "2022-08-05 19:58:13",
       "album": {
         "name": "CODE Story 2",
@@ -441,22 +509,6 @@
       "url": "https://open.spotify.com/track/0LRDuhmYlMW44HOeZIvwj7"
     },
     {
-      "added_at": "2022-08-12 17:11:54",
-      "album": {
-        "name": "2night",
-        "url": "https://open.spotify.com/album/2al0pIykJl5DpLSQcqU0aE"
-      },
-      "artists": [
-        {
-          "name": "Lil Rich",
-          "url": "https://open.spotify.com/artist/5CBvG98FGlAMc4Pi9Mc7LV"
-        }
-      ],
-      "duration_ms": 152926,
-      "name": "2night",
-      "url": "https://open.spotify.com/track/0ccds5C86PU7kPquqqy7Gk"
-    },
-    {
       "added_at": "2022-09-02 17:53:38",
       "album": {
         "name": "Tears I've Already Cried",
@@ -543,26 +595,6 @@
       "duration_ms": 205518,
       "name": "TAKE U THERE",
       "url": "https://open.spotify.com/track/3NO2rYXKOnuRHjsCu2vQpq"
-    },
-    {
-      "added_at": "2022-05-13 20:20:24",
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/2xMpbBZGVWtjkoaMZKhkyO"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/5myb2mYtD7r7unMLd6ldng"
     },
     {
       "added_at": "2022-07-29 19:36:45",
@@ -749,10 +781,10 @@
       "url": "https://open.spotify.com/track/3mj4fkUK39rD8kpYa0ND2p"
     },
     {
-      "added_at": "2022-05-13 20:20:24",
+      "added_at": "2022-09-09 19:33:50",
       "album": {
-        "name": "TOUCH",
-        "url": "https://open.spotify.com/album/2wCWMXhdqZ10sHYAUCfnDt"
+        "name": "SWEET DISEASE",
+        "url": "https://open.spotify.com/album/18lDvKH0U0q4VPAGy3yWRM"
       },
       "artists": [
         {
@@ -760,25 +792,9 @@
           "url": "https://open.spotify.com/artist/26HeoqIprMyFI8AQZMjqJJ"
         }
       ],
-      "duration_ms": 164246,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/2FFTcZlVcJgix9SKcTg7Sy"
-    },
-    {
-      "added_at": "2022-04-02 00:02:24",
-      "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/2JhAV9Sk3hS3IDW6urC37P"
-      },
-      "artists": [
-        {
-          "name": "ToriTori",
-          "url": "https://open.spotify.com/artist/6fghAjFoQpigMK2A12NpLU"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/7IE6VIEvNkDEtht3MPur8n"
+      "duration_ms": 135000,
+      "name": "SWEET DISEASE",
+      "url": "https://open.spotify.com/track/1Mkmfkox2uJmb29RdF7OF7"
     },
     {
       "added_at": "2022-08-12 17:11:54",
@@ -857,22 +873,6 @@
       "url": "https://open.spotify.com/track/3IXLux9HHfxT2kogNpCzZm"
     },
     {
-      "added_at": "2022-08-12 17:11:54",
-      "album": {
-        "name": "Where I\u2019m From",
-        "url": "https://open.spotify.com/album/0N2fLU9GsPBb7GGYwhMtAe"
-      },
-      "artists": [
-        {
-          "name": "C. Wells",
-          "url": "https://open.spotify.com/artist/4gfQutFlhH2GGtixg1ItOw"
-        }
-      ],
-      "duration_ms": 183902,
-      "name": "Major Fact (Bonus)",
-      "url": "https://open.spotify.com/track/5qigctoNr6xPS4M418rvCp"
-    },
-    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "FEED THE FAMILY",
@@ -903,6 +903,42 @@
       "duration_ms": 194538,
       "name": "CONVERSATIONS WITH THE PLUG",
       "url": "https://open.spotify.com/track/7EyDWblggvlq72t9uegWtt"
+    },
+    {
+      "added_at": "2022-09-09 19:33:50",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/1LwN1zvSImu6H0JMblOwAv"
+      },
+      "artists": [
+        {
+          "name": "Rebel Mafia Global",
+          "url": "https://open.spotify.com/artist/76adkmxsrkIT6eDqfqVhzc"
+        },
+        {
+          "name": "Big Super",
+          "url": "https://open.spotify.com/artist/4BgZiBtnUFKNx62M3YIIqh"
+        },
+        {
+          "name": "Messy Money Sav",
+          "url": "https://open.spotify.com/artist/13SmRDpZnsMINtZnH0230f"
+        },
+        {
+          "name": "Ken Frank",
+          "url": "https://open.spotify.com/artist/36A8ykIWSdqME291FZKke6"
+        },
+        {
+          "name": "Rugby LoSport",
+          "url": "https://open.spotify.com/artist/1vLCXFbZ7UiAw9EVNZTFJT"
+        },
+        {
+          "name": "Kye Bills",
+          "url": "https://open.spotify.com/artist/7yWoldRQWzWXMT5TrPGvkC"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/47apDG3Hq3HNXMDanJ5b9v"
     }
   ],
   "unique_name": "Ripple Effect: New England",

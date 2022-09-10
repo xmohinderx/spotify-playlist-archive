@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 50811,
+  "num_followers": 50973,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGZhMzBhNjMzMWNmZDBkZjdkZGE4NTFjNGNhMzZmZDc4",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGRmOTlkY2U4YzQyMzk3NTFhOTgyYWMxMDJkYTI4ZjNk",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "No Way Back",
-        "url": "https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX"
-      },
-      "artists": [
-        {
-          "name": "Adonis",
-          "url": "https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz"
-        }
-      ],
-      "duration_ms": 295911,
-      "name": "No Way Back",
-      "url": "https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Do I Do",
         "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 434999,
       "name": "Do I Do - Extended Mix",
       "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "No Way Back",
+        "url": "https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz"
+        }
+      ],
+      "duration_ms": 295911,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Electronic Body Music",
-        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
-      },
-      "artists": [
-        {
-          "name": "Thomas P. Heckmann",
-          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
-        }
-      ],
-      "duration_ms": 444631,
-      "name": "Himmel & Hoelle",
-      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Acid Tracks",
         "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 739626,
       "name": "Acid Tracks",
       "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Electronic Body Music",
+        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
+      },
+      "artists": [
+        {
+          "name": "Thomas P. Heckmann",
+          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
+        }
+      ],
+      "duration_ms": 444631,
+      "name": "Himmel & Hoelle",
+      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "stuff i used to do",
         "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Garden of Eden",
-        "url": "https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv"
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq"
       },
       "artists": [
         {
-          "name": "The Garden Of Eden",
-          "url": "https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af"
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 241875,
-      "name": "The Garden of Eden (A Himalayan Song)",
-      "url": "https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8"
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -587,6 +571,22 @@
       "duration_ms": 361402,
       "name": "Sound 6",
       "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "The Garden of Eden",
+        "url": "https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv"
+      },
+      "artists": [
+        {
+          "name": "The Garden Of Eden",
+          "url": "https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af"
+        }
+      ],
+      "duration_ms": 241875,
+      "name": "The Garden of Eden (A Himalayan Song)",
+      "url": "https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8"
     },
     {
       "added_at": "2021-10-22 11:07:27",

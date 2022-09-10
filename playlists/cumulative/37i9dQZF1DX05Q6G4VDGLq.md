@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-294 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+296 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,10 +67,11 @@
 | [Eastern Winds](https://open.spotify.com/track/063rhde3v6o8TldOoWisHA) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Eastern Winds](https://open.spotify.com/album/6yDcnlohTpmulcsJMJIY8g) | 3:05 | 2022-06-28 | 2022-07-29 |
 | [Easy Living](https://open.spotify.com/track/7o990iYFCMf3bCs8z5wGhs) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 4:43 | 2022-06-28 | 2022-07-29 |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-06-28 |  |
+| [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-07 |  |
 | [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-28 | 2022-09-03 |
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2022-06-28 |  |
 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-28 |  |
-| [Everything Happens To Me](https://open.spotify.com/track/1XD4j1jvrOyiRnkwrKhq7Q) | [Lisa Lugar](https://open.spotify.com/artist/2KsyjaK929SZ2dNuyCuDfO) | [Love For Sale EP](https://open.spotify.com/album/5j4OkS1RWFRJ0fNUHG88Xs) | 4:33 | 2022-06-28 |  |
+| [Everything Happens To Me](https://open.spotify.com/track/1XD4j1jvrOyiRnkwrKhq7Q) | [Lisa Lugar](https://open.spotify.com/artist/2KsyjaK929SZ2dNuyCuDfO) | [Love For Sale EP](https://open.spotify.com/album/5j4OkS1RWFRJ0fNUHG88Xs) | 4:33 | 2022-06-28 | 2022-09-10 |
 | [Everything I Have Is Yours](https://open.spotify.com/track/27IKNDm0VrpWOxW89GwxUZ) | [Oliver Richardson Quartet](https://open.spotify.com/artist/2IX0mWVO2XmeKTFJtSUJMv) | [A Time for Love](https://open.spotify.com/album/2ftEGm2HzSzFCnNP6MZJYd) | 4:54 | 2022-06-28 | 2022-07-29 |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-06-28 |  |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-06-28 |  |
@@ -99,7 +100,7 @@
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-28 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/4C4nNem1wGqL8xXrE1Ak1e) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [How Long Has This Been Going On?](https://open.spotify.com/album/3W0jGlzSvEXMh9tL3d2x3P) | 4:57 | 2022-06-28 |  |
 | [I Can´t Get Started](https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [I Can´t Get Started](https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp) | 3:28 | 2022-08-30 |  |
-| [I Concentrate on You](https://open.spotify.com/track/5UkdF1wkOtQ95CvA1zjfDb) | [Little Tree Jazz Trio](https://open.spotify.com/artist/5YALVnyvdEeiMXh49ygjdZ) | [I Concentrate on You](https://open.spotify.com/album/56ypgwwjAwiv39zy2NiqnN) | 6:32 | 2022-06-28 |  |
+| [I Concentrate on You](https://open.spotify.com/track/5UkdF1wkOtQ95CvA1zjfDb) | [Little Tree Jazz Trio](https://open.spotify.com/artist/5YALVnyvdEeiMXh49ygjdZ) | [I Concentrate on You](https://open.spotify.com/album/56ypgwwjAwiv39zy2NiqnN) | 6:32 | 2022-06-28 | 2022-09-10 |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-06-28 |  |
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2022-06-28 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:58 | 2022-06-28 | 2022-09-03 |
@@ -268,6 +269,7 @@
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2022-06-28 |  |
 | [The Party's Over](https://open.spotify.com/track/3bCDBqVpu1lDbRGEV0El1J) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [The Party's Over](https://open.spotify.com/album/49UPJkZBspIbnn0WuoQlMv) | 3:09 | 2022-06-28 |  |
 | [The Summer Rain](https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Woodland](https://open.spotify.com/album/3tm3nZ5qKZvrlvyXdzWJCG) | 3:01 | 2022-06-28 |  |
+| [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-07 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-28 |  |
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-06-28 |  |
 | [Theme for Ruth](https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Theme for Ruth](https://open.spotify.com/album/4ZzZNkzoKThNkQXL1ZeFdC) | 3:01 | 2022-06-28 |  |

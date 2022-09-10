@@ -1,15 +1,15 @@
 {
   "description": "Aquelas m\u00fasicas que voc\u00ea ouve viralizando por a\u00ed mas n\u00e3o sabe o nome.",
-  "num_followers": 112096,
+  "num_followers": 112322,
   "original_name": "faz a trend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1NDY4NiwwMDAwMDAwMDk3ZDk2YzA5ZjAzNjRlOTE0NzE2MDE5NWM1MDJhMDFk",
+  "snapshot_id": "MTY2MjcyOTE4NCwwMDAwMDAwMDU4ZmM0OWRjNDgxMzUxMmQxMDU0ODZlZGNmZGY0OTAy",
   "tracks": [
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "202 (Speed)",
         "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Beat Snap (Viral Tiktok)",
         "url": "https://open.spotify.com/album/4OioZfSJyB6ivP6lNExXhE"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0Knr7VNVvi3Y7ODKDkWZQG"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "\u00c9 o Trem!",
         "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Put0 & Cheiroso",
         "url": "https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp"
@@ -101,43 +101,7 @@
       "url": "https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Ao Vivo em Campo Grande, Pt. 1",
-        "url": "https://open.spotify.com/album/20uR4CAa9i14AVEWUuxlo8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Carreiro",
-          "url": "https://open.spotify.com/artist/3BwCvUfnT11B2jJtFZMtfH"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Bagulho \u00c9 Loco Mano - Ao Vivo",
-      "url": "https://open.spotify.com/track/5D6xHKz2ma8odghPs5zMgG"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Bafora o Lan\u00e7a (Remix)",
-        "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
-      },
-      "artists": [
-        {
-          "name": "Mario Mc",
-          "url": "https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn"
-        },
-        {
-          "name": "Menor Adr",
-          "url": "https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT"
-        }
-      ],
-      "duration_ms": 212029,
-      "name": "Bafora o Lan\u00e7a - Remix",
-      "url": "https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Tapinha",
         "url": "https://open.spotify.com/album/153Ri9zQdq540R7a2uYQ4q"
@@ -157,7 +121,43 @@
       "url": "https://open.spotify.com/track/51kGHvWwCdwbHWAVXnwPSC"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Ao Vivo em Campo Grande, Pt. 1",
+        "url": "https://open.spotify.com/album/20uR4CAa9i14AVEWUuxlo8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Carreiro",
+          "url": "https://open.spotify.com/artist/3BwCvUfnT11B2jJtFZMtfH"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Bagulho \u00c9 Loco Mano - Ao Vivo",
+      "url": "https://open.spotify.com/track/5D6xHKz2ma8odghPs5zMgG"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Bafora o Lan\u00e7a (Remix)",
+        "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
+      },
+      "artists": [
+        {
+          "name": "Mario Mc",
+          "url": "https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn"
+        },
+        {
+          "name": "Menor Adr",
+          "url": "https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT"
+        }
+      ],
+      "duration_ms": 212029,
+      "name": "Bafora o Lan\u00e7a - Remix",
+      "url": "https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "D\u00e9jame Revisarte el Celular 2",
         "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Te Love (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde",
         "url": "https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP"
@@ -209,23 +209,7 @@
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "S\u00e3o Jo\u00e3o Chegou",
-        "url": "https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu"
-      },
-      "artists": [
-        {
-          "name": "Renanzin Press\u00e3o",
-          "url": "https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo"
-        }
-      ],
-      "duration_ms": 114573,
-      "name": "S\u00e3o Jo\u00e3o Chegou",
-      "url": "https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Poesia do Polly",
         "url": "https://open.spotify.com/album/0qReMRfKYJEQNmN4Byoxmd"
@@ -241,27 +225,7 @@
       "url": "https://open.spotify.com/track/5CJzNKWqr1gLUgZ2Yx7CZy"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Ei Amor",
-        "url": "https://open.spotify.com/album/3T0cIVploIZ82Qve1FtXBx"
-      },
-      "artists": [
-        {
-          "name": "MVK",
-          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 143013,
-      "name": "Ei Amor",
-      "url": "https://open.spotify.com/track/6iO7nBM2StwcPvuyblR0P4"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Oompa Loompa",
         "url": "https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M"
@@ -289,7 +253,7 @@
       "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
@@ -313,27 +277,7 @@
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Purple Hearts (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
@@ -349,47 +293,7 @@
       "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Cafajeste",
-        "url": "https://open.spotify.com/album/3oNWLBkwPia3Qbap1KauRi"
-      },
-      "artists": [
-        {
-          "name": "MC Cego Abusado",
-          "url": "https://open.spotify.com/artist/656sFhsnTuJ79P7apmFSVc"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 139807,
-      "name": "Cafajeste",
-      "url": "https://open.spotify.com/track/2sqNPoXHyxWoLP1Jhoeirj"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 181157,
-      "name": "Ins\u00f4nia - Ao vivo",
-      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
@@ -417,23 +321,7 @@
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Virando o Olhinho",
-        "url": "https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 142694,
-      "name": "Virando o Olhinho",
-      "url": "https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Purrr!",
         "url": "https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y"
@@ -449,7 +337,7 @@
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
@@ -465,7 +353,7 @@
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
@@ -481,7 +369,7 @@
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
@@ -497,7 +385,7 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "\u00d4 L\u00e1 na Ro\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ"
@@ -517,7 +405,23 @@
       "url": "https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "S\u00e3o Jo\u00e3o Chegou",
+        "url": "https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu"
+      },
+      "artists": [
+        {
+          "name": "Renanzin Press\u00e3o",
+          "url": "https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo"
+        }
+      ],
+      "duration_ms": 114573,
+      "name": "S\u00e3o Jo\u00e3o Chegou",
+      "url": "https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya"
@@ -533,23 +437,83 @@
       "url": "https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+        "name": "Ei Amor",
+        "url": "https://open.spotify.com/album/3T0cIVploIZ82Qve1FtXBx"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+      "duration_ms": 143013,
+      "name": "Ei Amor",
+      "url": "https://open.spotify.com/track/6iO7nBM2StwcPvuyblR0P4"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Virando o Olhinho",
+        "url": "https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 142694,
+      "name": "Virando o Olhinho",
+      "url": "https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Cafajeste",
+        "url": "https://open.spotify.com/album/3oNWLBkwPia3Qbap1KauRi"
+      },
+      "artists": [
+        {
+          "name": "MC Cego Abusado",
+          "url": "https://open.spotify.com/artist/656sFhsnTuJ79P7apmFSVc"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 139807,
+      "name": "Cafajeste",
+      "url": "https://open.spotify.com/track/2sqNPoXHyxWoLP1Jhoeirj"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Hits 2021 (Mashup)",
+        "url": "https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Hits 2021 - Mashup",
+      "url": "https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Plut\u00e3o",
         "url": "https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc"
@@ -565,7 +529,27 @@
       "url": "https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 181157,
+      "name": "Ins\u00f4nia - Ao vivo",
+      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Take It Or Squeeze It",
         "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
@@ -585,7 +569,7 @@
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "MORANGO DO NORDESTE",
         "url": "https://open.spotify.com/album/4mZhTD9apQZ00b5b3hhZzf"
@@ -605,7 +589,23 @@
       "url": "https://open.spotify.com/track/5becemiQUfhRwDOmwc7LDS"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 157497,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Pro Nosso Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/73u22uLsakf8W12suab1QO"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Lado Nerd",
         "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
@@ -645,27 +645,7 @@
       "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Hits 2021 (Mashup)",
-        "url": "https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa"
-      },
-      "artists": [
-        {
-          "name": "Trinix Remix",
-          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
-        },
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Hits 2021 - Mashup",
-      "url": "https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Anestesiado",
         "url": "https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ"
@@ -681,7 +661,7 @@
       "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Infinito 2021, Vol.2",
         "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
@@ -697,7 +677,7 @@
       "url": "https://open.spotify.com/track/14uWxelOuAUajP8fDvc0Ct"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Posturad\u00e3o",
         "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
@@ -717,7 +697,43 @@
       "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
+      "album": {
+        "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ"
+    },
+    {
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "ZIMA",
         "url": "https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf"
@@ -737,23 +753,7 @@
       "url": "https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 157497,
-      "name": "Mount Everest",
-      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Tem Cabar\u00e9 Essa Noite",
         "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Me Chama de Amor (Arrochadeira Remix)",
         "url": "https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Coisas Que Eu S\u00f3 Falaria Brincando",
         "url": "https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Z-Sides",
         "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Pontos de Exclama\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Ily",
         "url": "https://open.spotify.com/album/66lnwqrH113PHR2tGXoya7"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0S8OkXHUuSHKyCTKomDxaw"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "The Wolf of Grape Street",
         "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "This Is The End: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Embaixador do Piseiro em Casa - Ao Vivo",
         "url": "https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX"
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
@@ -1137,7 +1137,7 @@
       "url": "https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Mad Love The Prequel",
         "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
@@ -1157,23 +1157,7 @@
       "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
-      "album": {
-        "name": "Desculpa por Eu N\u00e3o Te Amar",
-        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 186188,
-      "name": "Desculpa por Eu N\u00e3o Te Amar",
-      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
-    },
-    {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Motivando a la Yal",
         "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
@@ -1189,7 +1173,7 @@
       "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Toxic Pony",
         "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
@@ -1213,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
@@ -1233,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
@@ -1253,7 +1237,7 @@
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Black Star Elephant",
         "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
@@ -1269,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "U Are My High",
         "url": "https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq"
@@ -1285,7 +1269,7 @@
       "url": "https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
@@ -1301,7 +1285,7 @@
       "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
@@ -1317,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -1345,7 +1329,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-09-08 16:31:26",
+      "added_at": "2022-09-09 13:13:04",
       "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"

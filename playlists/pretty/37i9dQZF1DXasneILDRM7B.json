@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 1000804,
+  "num_followers": 1001522,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDMxZjQxOTVjZGU0ZjVjZWZmZjZiNTU5ZTI5ZGQ4Mzll",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDEyNzQyMDZjYjg2NTI4NGMxMzgxODQ0ZDdhZjQ2MzMw",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Miss Murder",
-      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Picture Perfect",
-        "url": "https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14"
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
       },
       "artists": [
         {
-          "name": "Every Avenue",
-          "url": "https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 219973,
-      "name": "Tell Me I'm A Wreck",
-      "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
+      "duration_ms": 181306,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14"
+      },
+      "artists": [
+        {
+          "name": "Every Avenue",
+          "url": "https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Tell Me I'm A Wreck",
+      "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Drunk Enough To Dance",
         "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 197800,
       "name": "Girl All the Bad Guys Want",
       "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "A Mark, A Mission, A Brand, A Scar",
-        "url": "https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Hands Down",
-      "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "The Great Burrito Extortion Case",
+        "url": "https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "High School Never Ends - Main Version - Explicit",
+      "url": "https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "A Mark, A Mission, A Brand, A Scar",
+        "url": "https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Hands Down",
+      "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1247,22 +1263,6 @@
       "duration_ms": 197640,
       "name": "I'd Do Anything",
       "url": "https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "The Great Burrito Extortion Case",
-        "url": "https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "High School Never Ends - Main Version - Explicit",
-      "url": "https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "I Don't Care - Single Version",
-      "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "I Don't Care - Single Version",
+      "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Say It Like You Mean It",
-        "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "The Best Of Me",
-      "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Old Bones",
         "url": "https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 174146,
       "name": "Coffee Talk",
       "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Say It Like You Mean It",
+        "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "The Best Of Me",
+      "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 205752,
       "name": "But It's Better If You Do",
       "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2022-06-16 15:49:01",

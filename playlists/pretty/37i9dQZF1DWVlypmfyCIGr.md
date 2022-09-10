@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 0am
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,654 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,678 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 71 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
 | 72 | [Travellers](https://open.spotify.com/track/4RFUxjEFq0gfKUZOgu4dAM) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [Travellers](https://open.spotify.com/album/4k6JOjeYPVFJckfwJb13ov) | 2:48 |
 | 73 | [鏡の中のアクトレス](https://open.spotify.com/track/6pQmlBAOqKk5EhKGQdlDwE) | [寧音](https://open.spotify.com/artist/6yAzg5y84I3jzCgtgAcVsK) | [鏡の中のアクトレス](https://open.spotify.com/album/5QQSSLTQ0BzgFTzlulEiHB) | 3:41 |
-| 74 | [PolarisSoraris](https://open.spotify.com/track/1eTNZd8otbgJjSHKvYWKMY) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [PolarisSoraris](https://open.spotify.com/album/1shC2RZp0dfL900AwVsoym) | 3:32 |
+| 74 | [PolarisSoraris](https://open.spotify.com/track/7tt808bp80CZ86plNYRxcR) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [Sign](https://open.spotify.com/album/6QUur9J820mpkKER6SC3Ax) | 3:32 |
 | 75 | [paradigm](https://open.spotify.com/track/5r0BlljBTkvBFNf1r67o0Q) | [shiranui](https://open.spotify.com/artist/6C06VyU9dg2OedVDlLVJSp) | [paradigm](https://open.spotify.com/album/3ItLBXI4lRmGjxIngN4a4l) | 3:39 |
 | 76 | [彼方の幽霊船](https://open.spotify.com/track/5eXZuOMNU4nr0wvkukaRnL) | [アキレスと亀](https://open.spotify.com/artist/5SMQaW57NF7YvdWGLachpD) | [彼方の幽霊船](https://open.spotify.com/album/3kUmtz2xHWbCAQ0jGdk6Oe) | 4:37 |
 | 77 | [しあわせはイテテ](https://open.spotify.com/track/1dsDYDguRkoDsf5aM8cNtf) | [アイラヴミー](https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN) | [しあわせはイテテ](https://open.spotify.com/album/2Mj1eYnNLCJq8MZOzctBbe) | 4:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 |
 | 80 | [Midnight in Paris](https://open.spotify.com/track/66q650bEchJtIPELfURWaZ) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb) | [Midnight in Paris](https://open.spotify.com/album/75eEUwi0urbnFXrm3dw5jS) | 3:02 |
 
-Snapshot ID: `MTY2MjM5NTM5OCwwMDAwMDAwMGZkOWY0NDM5YjBlMTE3Y2MwNmZlMWQ1ZTI2Njc5OWU3`
+Snapshot ID: `MTY2MjM5NTM5OCwwMDAwMDAwMDY5YWMwNDg1NmZmZDBmZDAwMmNkZDk0YTcxZDE3OGNj`

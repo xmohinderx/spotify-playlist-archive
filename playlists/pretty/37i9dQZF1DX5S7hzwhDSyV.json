@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 43850,
+  "num_followers": 43955,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2OTk2NSwwMDAwMDAwMDA3OWFjMDUyOTZiMTNiNDNmOWZhYjMxOGRlMmQ1Nzg0",
+  "snapshot_id": "MTY2MTg2OTk2NSwwMDAwMDAwMDVlMDlkYjBlOTAwM2IyMjQyODI5Y2M4ZjY0M2E0ZjE0",
   "tracks": [
     {
       "added_at": "2022-08-30 14:32:45",
@@ -783,38 +783,6 @@
     {
       "added_at": "2022-08-30 14:32:45",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 352146,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2022-08-30 14:32:45",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-08-30 14:32:45",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 166826,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
     },
     {
       "added_at": "2022-08-30 14:32:45",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-08-30 14:32:45",
       "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 198223,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
+      "duration_ms": 179133,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
     },
     {
       "added_at": "2022-08-30 14:32:45",
@@ -1439,34 +1439,18 @@
     {
       "added_at": "2022-08-30 14:32:45",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 179133,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
-        "name": "Harmonica Jazz",
-        "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
-      },
-      "artists": [
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 191621,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH"
+      "duration_ms": 198223,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
     },
     {
       "added_at": "2022-08-30 14:32:45",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-08-30 14:32:45",
       "album": {
+        "name": "Harmonica Jazz",
+        "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "duration_ms": 191621,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
         "name": "Now!",
         "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 255600,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 424933,
+      "name": "Don't Blame Me (Retake 1)",
+      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
     },
     {
       "added_at": "2022-08-30 14:32:45",
@@ -1531,22 +1547,6 @@
       "duration_ms": 309253,
       "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 424933,
-      "name": "Don't Blame Me (Retake 1)",
-      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
     },
     {
       "added_at": "2022-08-30 14:32:45",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-08-30 14:32:45",
       "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 427826,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 178640,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 427826,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
     },
     {
       "added_at": "2022-08-30 14:32:45",
@@ -2003,38 +2003,6 @@
     {
       "added_at": "2022-08-30 14:32:45",
       "album": {
-        "name": "Small Groups: 1941-1945",
-        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Quintet",
-          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/1xm6smpnum5PTvl4QL1tsJ"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
-    },
-    {
-      "added_at": "2022-08-30 14:32:45",
-      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -2063,6 +2031,38 @@
       "duration_ms": 413826,
       "name": "Afternoon In Paris",
       "url": "https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1xm6smpnum5PTvl4QL1tsJ"
+      },
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
+        }
+      ],
+      "duration_ms": 320693,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
+    },
+    {
+      "added_at": "2022-08-30 14:32:45",
+      "album": {
+        "name": "Small Groups: 1941-1945",
+        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman Quintet",
+          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
     },
     {
       "added_at": "2022-08-30 14:32:45",

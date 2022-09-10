@@ -1282,6 +1282,28 @@
     },
     {
       "album": {
+        "name": "Fuerzas Que Retroceden",
+        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        },
+        {
+          "name": "Colombina Parra",
+          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231403,
+      "name": "Fuerzas Que Retroceden",
+      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
+    },
+    {
+      "album": {
         "name": "Gol de Caszely",
         "url": "https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj"
       },
@@ -1441,7 +1463,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 342186,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"

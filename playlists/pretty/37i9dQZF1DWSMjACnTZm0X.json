@@ -1,13 +1,29 @@
 {
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW?si=GvVFSOdGRW63e9q6_EcfKg\">Jux</a>",
-  "num_followers": 2751,
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=QK8VF93-R-W11oGjqH0PSw\">Asake</a>",
+  "num_followers": 2757,
   "original_name": "Piano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTE0MCwwMDAwMDAwMGMzYzZkYzViZDYwN2QyYzk1Y2JhYjM0NzczNTQ1MmU0",
+  "snapshot_id": "MTY2MjY5MTQ4NCwwMDAwMDAwMDI0MzhjM2NhYmNiZmY2ZDhiNmMyMWEzZGEwNmY2ZTFk",
   "tracks": [
+    {
+      "added_at": "2022-09-09 02:44:44",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Sunmomi",
+      "url": "https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M"
+    },
     {
       "added_at": "2022-08-11 21:59:00",
       "album": {
@@ -63,6 +79,42 @@
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
+    },
+    {
+      "added_at": "2022-09-09 02:44:44",
+      "album": {
+        "name": "Just Do It",
+        "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Nelcno",
+          "url": "https://open.spotify.com/artist/2zhdw73MF0aMdzngCZ8THY"
+        },
+        {
+          "name": "Sayfar",
+          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
+        },
+        {
+          "name": "Champuru Makhenzo",
+          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
+        }
+      ],
+      "duration_ms": 322873,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM"
     },
     {
       "added_at": "2022-06-16 21:59:00",
@@ -209,6 +261,26 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
+      "added_at": "2022-09-09 02:44:44",
+      "album": {
+        "name": "SLOW WINE",
+        "url": "https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT"
+      },
+      "artists": [
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "duration_ms": 223784,
+      "name": "SLOW WINE",
+      "url": "https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM"
+    },
+    {
       "added_at": "2022-05-23 07:21:35",
       "album": {
         "name": "I Am The King Of Amapiano: Sweet & Dust",
@@ -277,6 +349,38 @@
       "url": "https://open.spotify.com/track/6mfSOiU5L5XrTafYETSYZv"
     },
     {
+      "added_at": "2022-09-09 02:44:44",
+      "album": {
+        "name": "Ekhaya",
+        "url": "https://open.spotify.com/album/1I0NVt2ETbbxHOPsw083zF"
+      },
+      "artists": [
+        {
+          "name": "Iyane Jamdong",
+          "url": "https://open.spotify.com/artist/5GJHtxMt5kp2gfBrnLZO3o"
+        },
+        {
+          "name": "Elzo Jamdong",
+          "url": "https://open.spotify.com/artist/2reG2sYggrEZLUXvRI1yth"
+        },
+        {
+          "name": "Bianca Hester",
+          "url": "https://open.spotify.com/artist/5f7Tf5kiBghcMQGY1idPsJ"
+        },
+        {
+          "name": "Crosswavee",
+          "url": "https://open.spotify.com/artist/6Sq69aTwgyzk6yL6U5mU85"
+        },
+        {
+          "name": "Da Musiqal Prodigy",
+          "url": "https://open.spotify.com/artist/46nnGGk1MsYqz7Yw9EZjxZ"
+        }
+      ],
+      "duration_ms": 381466,
+      "name": "Ekhaya",
+      "url": "https://open.spotify.com/track/1T2pzBmz9yh5ddK8KZbtG7"
+    },
+    {
       "added_at": "2022-06-16 21:59:00",
       "album": {
         "name": "Bathini (feat. Young Stunna & Artwork Sounds)",
@@ -331,6 +435,26 @@
     {
       "added_at": "2022-05-23 07:21:35",
       "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+    },
+    {
+      "added_at": "2022-05-23 07:21:35",
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
       },
@@ -377,6 +501,22 @@
       "url": "https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG"
     },
     {
+      "added_at": "2022-09-09 02:44:44",
+      "album": {
+        "name": "Lay It Down (Freeze)",
+        "url": "https://open.spotify.com/album/12vCcwi0rhDDbOhVGVHpuM"
+      },
+      "artists": [
+        {
+          "name": "Jean Feier",
+          "url": "https://open.spotify.com/artist/6WrdVzyxBFJDRB3EZhqh4G"
+        }
+      ],
+      "duration_ms": 328829,
+      "name": "Lay It Down - Freeze",
+      "url": "https://open.spotify.com/track/4XUhN77UBA4i0uNa3u0Icz"
+    },
+    {
       "added_at": "2022-05-23 07:21:35",
       "album": {
         "name": "Faster",
@@ -395,22 +535,18 @@
     {
       "added_at": "2022-05-23 07:21:35",
       "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
       },
       "artists": [
         {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+      "duration_ms": 238911,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -471,18 +607,22 @@
     {
       "added_at": "2022-05-23 07:21:35",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
+        "name": "I Did It (Bum Bum)",
+        "url": "https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
         }
       ],
-      "duration_ms": 238911,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
+      "duration_ms": 223651,
+      "name": "I Did It (Bum Bum)",
+      "url": "https://open.spotify.com/track/4CCBGUW3NnmrLKC661awnM"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -511,26 +651,6 @@
       "duration_ms": 277428,
       "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
       "url": "https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "I Did It (Bum Bum)",
-        "url": "https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ"
-      },
-      "artists": [
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        },
-        {
-          "name": "Lady Du",
-          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
-        }
-      ],
-      "duration_ms": 223651,
-      "name": "I Did It (Bum Bum)",
-      "url": "https://open.spotify.com/track/4CCBGUW3NnmrLKC661awnM"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -597,6 +717,30 @@
       "url": "https://open.spotify.com/track/290Q8ZOLk1Laqt3giUGRCd"
     },
     {
+      "added_at": "2022-08-11 21:59:00",
+      "album": {
+        "name": "BADDEST",
+        "url": "https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL"
+      },
+      "artists": [
+        {
+          "name": "DJ Shawn",
+          "url": "https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 225425,
+      "name": "BADDEST",
+      "url": "https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx"
+    },
+    {
       "added_at": "2022-08-04 21:59:00",
       "album": {
         "name": "Etema",
@@ -635,30 +779,6 @@
       "duration_ms": 177749,
       "name": "3ini",
       "url": "https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU"
-    },
-    {
-      "added_at": "2022-08-11 21:59:00",
-      "album": {
-        "name": "BADDEST",
-        "url": "https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL"
-      },
-      "artists": [
-        {
-          "name": "DJ Shawn",
-          "url": "https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 225425,
-      "name": "BADDEST",
-      "url": "https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -893,22 +1013,6 @@
       "url": "https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN"
     },
     {
-      "added_at": "2022-08-11 21:59:00",
-      "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
-    },
-    {
       "added_at": "2022-05-23 07:21:35",
       "album": {
         "name": "Mang' Dakiwe (Remix)",
@@ -973,26 +1077,6 @@
       "url": "https://open.spotify.com/track/2zXEw82TxIqV9nYaUKJFxA"
     },
     {
-      "added_at": "2022-08-11 21:59:00",
-      "album": {
-        "name": "Lie To Me (Tell Me a Fairy Tale)",
-        "url": "https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        },
-        {
-          "name": "Blocka Beats",
-          "url": "https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Lie To Me (Tell Me a Fairy Tale)",
-      "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
-    },
-    {
       "added_at": "2022-05-23 07:21:35",
       "album": {
         "name": "Wish You Were Here (Soa Mattrix Remix)",
@@ -1011,42 +1095,6 @@
       "duration_ms": 365309,
       "name": "Wish You Were Here - Soa Mattrix Remix",
       "url": "https://open.spotify.com/track/1iCCdsipnvgJDiL6v1yIf1"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "This is Japanese Amapiano EP",
-        "url": "https://open.spotify.com/album/71mXRrRDg2NGJ0F73xBFRE"
-      },
-      "artists": [
-        {
-          "name": "audiot909",
-          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
-        }
-      ],
-      "duration_ms": 482916,
-      "name": "Hamon",
-      "url": "https://open.spotify.com/track/652CrDGK9rksRHkG7X0rlQ"
-    },
-    {
-      "added_at": "2022-08-11 21:59:00",
-      "album": {
-        "name": "ODG (Remix)",
-        "url": "https://open.spotify.com/album/6vh28C9UkOKgW8K1KQ5Q2M"
-      },
-      "artists": [
-        {
-          "name": "Eltee Skhillz",
-          "url": "https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT"
-        },
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        }
-      ],
-      "duration_ms": 195225,
-      "name": "ODG - Remix",
-      "url": "https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -1099,30 +1147,6 @@
       "duration_ms": 381586,
       "name": "Akulaleki",
       "url": "https://open.spotify.com/track/6IVjF6tfGdFBZr4wXhMRtC"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "My WorlD With U",
-        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "LuuDaDeejay",
-          "url": "https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "STAMINA",
-      "url": "https://open.spotify.com/track/3a8lrjgC8vcx5rzmwMOu7Y"
     },
     {
       "added_at": "2022-08-04 21:59:00",

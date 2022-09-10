@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,920 likes - 126 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,059 likes - 126 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 3 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
 | 4 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 |
 | 5 | [Congratulations](https://open.spotify.com/track/0ZoUXwjbV6eetZmiEWEf3T) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Congratulations](https://open.spotify.com/album/0T2tUhoUEv04RQBCc1qjAh) | 2:50 |
-| 6 | [Wait For Me](https://open.spotify.com/track/1Ma2hJZri3KLUr8Cc3foD9) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/6ObW1p8RsxkWN5MiphT43Z) | 2:57 |
+| 6 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 |
 | 7 | [Forever's Enough](https://open.spotify.com/track/5BUvQtKdYrWJtdYaSoyFfG) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Forever's Enough](https://open.spotify.com/album/1QnJkCunpWFPbdCElBs03p) | 3:02 |
 | 8 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
 | 9 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [stay volk](https://open.spotify.com/track/3JphgObk2MgLvmS0Fu26pL) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [stay volk](https://open.spotify.com/album/2gxXQJm3eMeZDP7OHKCibZ) | 2:48 |
 | 126 | [Dangerous State of Mind](https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Dangerous State of Mind](https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD) | 1:55 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDg5MGRmMTNmY2MwOTY2ODc3ZWY4NjBhNzM2YmY0OTNm`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDQ2M2VmNDgxMDkzZTA2YTNiNjIzZmM0MWQ1ZTI2NjQ3`

@@ -4,7 +4,7 @@
 
 > Kaleb Di Masi, L\-Gante y Omar, traigan pa' tomar.
 
-321 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/1jUwJwWRtwiunxH0XaRprk)
+322 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/1jUwJwWRtwiunxH0XaRprk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [911](https://open.spotify.com/track/2p2Q23iaaPSEa1tI6TsCVX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:35 | 2022-07-14 | 2022-07-29 |
 | [A Ella](https://open.spotify.com/track/4N5qvaVICVIRxBXGW3FwGa) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [A Ella](https://open.spotify.com/album/7iaqLuLOgTXPaxEziNjbsu) | 3:18 | 2022-06-17 | 2022-07-29 |
 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 | 2022-05-13 |  |
-| [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2022-05-13 |  |
+| [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2022-05-13 | 2022-09-10 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2022-05-13 |  |
 | [Amx \- Remix](https://open.spotify.com/track/5ROcAsbQDzFzlyBO1JobJs) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Amx \(Remix\)](https://open.spotify.com/album/0aGhbXQJH7MuiNCVfs2ksq) | 2:45 | 2022-05-13 | 2022-07-29 |
 | [Andrea \- Nico Vallorani DJ Remix](https://open.spotify.com/track/23SYgA8d9E0YOrrwJGZl83) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR), [Nico Vallorani DJ](https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx) | [Andrea \(Nico Vallorani DJ Remix\)](https://open.spotify.com/album/2nRdw1y0G9ICCgyHPiQCl2) | 3:34 | 2022-07-29 | 2022-08-20 |
@@ -45,6 +45,7 @@
 | [Caramelo](https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Caramelo](https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD) | 3:37 | 2022-05-13 | 2022-07-20 |
 | [Castigar](https://open.spotify.com/track/27jkbUmZUOJ9dHHUqX0ERb) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Castigar](https://open.spotify.com/album/5O86nJ0DRUx7GiiJoCFjZV) | 2:38 | 2022-09-02 |  |
 | [Cerca de Ti](https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Cerca de Ti](https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA) | 2:25 | 2022-05-13 | 2022-07-11 |
+| [Cero Centimientos](https://open.spotify.com/track/3Lus7QM00IV2QfpK5XV54L) | [Matias Emmanuel](https://open.spotify.com/artist/4sWburFBVJuegn1Gs2jQko), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Cero Centimientos](https://open.spotify.com/album/2XFd3y1u8RmYe7vJOkjjfR) | 3:00 | 2022-09-09 |  |
 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 | 2022-06-07 | 2022-07-26 |
 | [Chinax](https://open.spotify.com/track/6CRs2uNFau0JRFOYzK7BKt) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Chinax](https://open.spotify.com/album/0YtoqxPTLkluYIIrSKJfeJ) | 5:49 | 2022-05-13 | 2022-07-25 |
 | [Chivirica](https://open.spotify.com/track/2PjgJI3BKInMWtAld4djDo) | [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Chivirica](https://open.spotify.com/album/32nbXySy5WkipuCl29LDUb) | 1:57 | 2022-06-07 | 2022-07-09 |

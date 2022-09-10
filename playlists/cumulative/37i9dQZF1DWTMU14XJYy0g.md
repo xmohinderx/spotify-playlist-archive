@@ -2,9 +2,9 @@
 
 ### [Rock Nacional](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Babasónicos.
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
 
-126 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+128 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 | 2022-06-24 |  |
 | [En la Vereda del Sol](https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En la Vereda del Sol](https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F) | 3:41 | 2022-07-08 |  |
 | [En Redondel](https://open.spotify.com/track/5D6vcVOKAzLeJ5zRfW6nGL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [En Redondel](https://open.spotify.com/album/1VfGbyob5VJXF8D5AtH3GR) | 4:23 | 2022-06-24 |  |
+| [Encantan](https://open.spotify.com/track/4GrxCRx9CbGqTGqXqUfG8X) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Un Mar de Soles Rojos](https://open.spotify.com/album/6QglGhUVduN4MC8BFzBP6O) | 4:03 | 2022-09-09 |  |
 | [Encuentro Con un Ángel Amateur \- En Vivo](https://open.spotify.com/track/0tyUt9J9teuyBsuZqaeKWh) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Encuentro Con un Ángel Amateur \(En Vivo\)](https://open.spotify.com/album/4gt3JKDF9BbTsJb1Np8PSp) | 3:33 | 2022-06-24 |  |
 | [Encuentros Cercanos](https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 4:26 | 2022-06-24 |  |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-06-24 |  |
@@ -65,7 +66,8 @@
 | [La Libertad](https://open.spotify.com/track/1Qd1kCBn0GPFl7y3fZZ8uG) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Huracán, Vol\. 9](https://open.spotify.com/album/0qLHnQBkMI3lhYELDxZeDb) | 3:16 | 2022-07-01 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/01Nl8C2RuzukJWbOfYxsU6) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [Filosopunk](https://open.spotify.com/album/0RXMKMiInn9AezTxtb9I5U) | 5:41 | 2022-07-15 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/0mdnJMB8I5rioFrxazCgJj) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [La Noche Sin Tí](https://open.spotify.com/album/02A4nDVsZBgNFVnt65Xgay) | 5:46 | 2022-06-24 | 2022-07-29 |
-| [La Otra Ciudad](https://open.spotify.com/track/7isif6McdOOOtdcOsmQI8g) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Ciudad](https://open.spotify.com/album/3HoP4nyRkJSN1ZDesiuM7z) | 4:18 | 2022-06-24 |  |
+| [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-09-09 |  |
+| [La Otra Ciudad](https://open.spotify.com/track/7isif6McdOOOtdcOsmQI8g) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Ciudad](https://open.spotify.com/album/3HoP4nyRkJSN1ZDesiuM7z) | 4:18 | 2022-06-24 | 2022-09-10 |
 | [La Pastilla](https://open.spotify.com/track/59NjaceY3XuGAQScvB71ze) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6) | [La Pastilla](https://open.spotify.com/album/0BEDzrscnDn5EhLvwsDURi) | 3:06 | 2022-06-24 |  |
 | [La ultima carta](https://open.spotify.com/track/2yCBPSsMp9modg5Gmb9oqB) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:35 | 2022-06-24 |  |
 | [La Vida Es Así](https://open.spotify.com/track/1Zsu6m9PyxwcpyUcw3yQgk) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [La Vida Es Así](https://open.spotify.com/album/4A5ZpkfXDkiVFXrQWQQv8s) | 3:56 | 2022-06-24 | 2022-07-09 |
@@ -116,7 +118,7 @@
 | [Te Hace Feliz](https://open.spotify.com/track/67DE2XvSfMvYnuFD31E2We) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Revolución de la Alegria](https://open.spotify.com/album/6XESoePuuRP2X2H2kpPYxf) | 2:55 | 2022-06-24 | 2022-07-29 |
 | [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 | 2022-06-24 |  |
 | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/2CuikRtiqFulp7zXdrayni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/album/0MqkE7OCyGvPSF7RfFiQLP) | 4:02 | 2022-06-24 | 2022-07-09 |
-| [Tiempos Dorados](https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Tiempos Dorados](https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq) | 3:15 | 2022-06-24 |  |
+| [Tiempos Dorados](https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Tiempos Dorados](https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq) | 3:15 | 2022-06-24 | 2022-09-10 |
 | [Todo Cambia](https://open.spotify.com/track/53bAxP7G04UBs7aqGj0ffu) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Todo Cambia](https://open.spotify.com/album/71QDqQiuKYbBIOI4HJ83nZ) | 3:33 | 2022-06-24 |  |
 | [Todo Se Quema](https://open.spotify.com/track/35i3PHmoD6toLs4RVDAY2U) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Jaime López](https://open.spotify.com/artist/7u8Y6Gwnm0LJZWZCYEv02m) | [Todo Se Quema](https://open.spotify.com/album/5RVbgOgc59Pz2cA0BM57wK) | 5:02 | 2022-06-24 |  |
 | [Todos los Vientos](https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Todos los Vientos](https://open.spotify.com/album/1hdoOfhsWQ05avZZunec0C) | 3:47 | 2022-06-24 | 2022-08-06 |

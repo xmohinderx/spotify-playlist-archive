@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-435 songs - 1 day 1 hr 2 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+436 songs - 1 day 1 hr 6 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [かわいいね](https://open.spotify.com/track/6fTjK6vgEyJzeWp191RxUH) | [samayuzame](https://open.spotify.com/artist/35rpDiXIsvLFJx0KaGvxK2) | [かわいいね](https://open.spotify.com/album/0o9YQa2I5jmSyRKfbXVLao) | 2:20 | 2022-07-04 | 2022-07-06 |
 | [きみは雪をみることができない\(feat.ねんね\)](https://open.spotify.com/track/1oMAlmhFeXa1CJPIXUqQQS) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [きみは雪をみることができない\(feat\. ねんね\)](https://open.spotify.com/album/2FKFBVz0Rs1bic03Tng97w) | 4:08 | 2022-06-14 | 2022-07-16 |
 | [きれいなものだけ](https://open.spotify.com/track/7xrZqA8dlR9zPoPwB67EeV) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [きれいなものだけ](https://open.spotify.com/album/68kBH6TvjNJcMWI9kRHnfW) | 2:40 | 2022-06-16 | 2022-07-28 |
-| [くびったけ](https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [くびったけ](https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw) | 3:54 | 2022-07-26 | 2022-09-07 |
+| [くびったけ](https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [くびったけ](https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw) | 3:54 | 2022-07-26 |  |
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-30 | 2022-07-04 |
 | [しよっか。\(feat.meiyo\)](https://open.spotify.com/track/207l3jD5YPS0ndm3UZDakF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [しよっか。\(feat.meiyo\)](https://open.spotify.com/album/3lvj2EyFe7SZJi0dbraD12) | 3:00 | 2022-06-09 | 2022-07-11 |
 | [そぐわな](https://open.spotify.com/track/2ftcqHzXbUP4P6nROsanV8) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [そぐわな](https://open.spotify.com/album/2W0hOxFTRTYkrRPiOs1292) | 3:42 | 2022-06-14 | 2022-07-06 |
@@ -173,6 +173,7 @@
 | [アルファルド](https://open.spotify.com/track/0w69RSBlcfiXV4ZmZ86QZZ) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [アルファルド](https://open.spotify.com/album/5JW1YvfQGqJi8kVGsmiLwm) | 2:45 | 2022-06-14 | 2022-07-27 |
 | [アンコンフォートゾーン](https://open.spotify.com/track/53zVhOAvqqvX9pfeZSFIAR) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アンコンフォートゾーン](https://open.spotify.com/album/2rycPnLmmwb2TGopm6tPgp) | 3:01 | 2022-07-14 | 2022-07-16 |
 | [アンダーキッズ](https://open.spotify.com/track/3Agi3nFDMm00P5XH4VzMcv) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [アンダーキッズ](https://open.spotify.com/album/3u2SICYvfbeTPDyUjxnv9p) | 3:26 | 2022-07-26 | 2022-07-29 |
+| [アンデッド](https://open.spotify.com/track/7mJasHPXBQ7WEek6Di0HQe) | [ミセナイクセニ](https://open.spotify.com/artist/1nTcWnlqJNMo9VvBiWQsxH) | [アンデッド](https://open.spotify.com/album/2mxHXFqXh8E0wPO3sjukgX) | 3:53 | 2022-09-08 |  |
 | [アンバームーン](https://open.spotify.com/track/2VToJNakkBmwEvZxKS692u) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [アンバームーン](https://open.spotify.com/album/6lZOqqJmvpxyCB3UAbZiXW) | 3:22 | 2022-07-21 | 2022-07-23 |
 | [アーメン・ナンマイダ・カンパイ!](https://open.spotify.com/track/5XimesvdA6eITqdno4aL9g) | [リリぴ](https://open.spotify.com/artist/7mk9NIekDtJcmkHuW0YGeF) | [アーメン・ナンマイダ・カンパイ!](https://open.spotify.com/album/2hDa94YdiK2dfTnVf39pTY) | 2:37 | 2022-07-24 | 2022-07-27 |
 | [イエロウ](https://open.spotify.com/track/13PiYYktV3bZXV6WReyNk8) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [イエロウ](https://open.spotify.com/album/5pxTFG0piWQz3ieHSrkZEz) | 3:48 | 2022-06-28 | 2022-07-26 |
@@ -291,7 +292,7 @@
 | [命の行方](https://open.spotify.com/track/492GY9Jp8F8QK2eQfMDZXq) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [命の行方](https://open.spotify.com/album/02S9ytTyWvDtuZjDVOyxJY) | 3:20 | 2022-07-19 | 2022-07-21 |
 | [命は誰のもの](https://open.spotify.com/track/23FMtyW0cKVsHSOtp2TPTJ) | [Kami\-sama, I have noticed](https://open.spotify.com/artist/19hnen14uXCUMoBAnTmrCp) | [命は誰のもの](https://open.spotify.com/album/2CKCxf1W5yIcjzCJOz4PVG) | 3:11 | 2022-06-28 | 2022-07-27 |
 | [嘘ツキノウタ](https://open.spotify.com/track/56QO0Sq87klMjutZ8gNv3H) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [嘘ツキノウタ](https://open.spotify.com/album/7svnuifGLIlmGWgLf59oZk) | 3:22 | 2022-07-04 | 2022-07-06 |
-| [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2022-07-28 |  |
+| [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2022-07-28 | 2022-09-10 |
 | [囚人B \- feat\. R+...](https://open.spotify.com/track/0q0owFoTdtkmkczk4LcyEa) | [Goat](https://open.spotify.com/artist/4mfb1N5wHaJn88xVYvHq8H), [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [囚人B \(feat\. R+...\)](https://open.spotify.com/album/7jeVzZLp2SRuY4ePHIYcYW) | 2:19 | 2022-08-16 | 2022-08-24 |
 | [四月になること](https://open.spotify.com/track/01MiBCy710qP8jZwl0nhbC) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [四月になること](https://open.spotify.com/album/6BdwgP0RigqayuhcUYBNg9) | 3:20 | 2022-06-16 | 2022-07-28 |
 | [四阿語り](https://open.spotify.com/track/0WABONN2R1L0Sq2BGfqMNn) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [四阿語り](https://open.spotify.com/album/5vOKeH2jw0g17nq5VbDmca) | 1:57 | 2022-07-07 | 2022-07-11 |

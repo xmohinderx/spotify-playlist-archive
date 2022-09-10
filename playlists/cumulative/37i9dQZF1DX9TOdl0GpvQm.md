@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-184 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
+185 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Echo Lake](https://open.spotify.com/track/4huXXKJvjyEpsAYd2IrhfY) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [All The Mirrors In The House \[Home Recordings 1979 \- 1986 Volume 1\]](https://open.spotify.com/album/1p3jAwtkoUsHXaW4jcanVV) | 3:43 | 2021-10-27 | 2022-07-28 |
 | [Eulogy](https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 3:39 | 2021-10-27 |  |
 | [Exile on Ærø](https://open.spotify.com/track/09SB3jpDTJfA1NRnmce5G5) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Exile on Ærø](https://open.spotify.com/album/2t7ONVWjlbhga1TPLj2q1t) | 4:25 | 2022-05-24 | 2022-07-29 |
+| [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 | 2022-05-24 |  |
 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 | 2022-05-24 | 2022-09-06 |
 | [Fair by the Sea](https://open.spotify.com/track/0g3bxwZ1zrlZZUrsmz7xIR) | [Concretism](https://open.spotify.com/artist/4xNzWuRiCOPDrIObm7gdG2) | [Wyrd Kalendar](https://open.spotify.com/album/1eTmM4qDyRxI8gxS6aQLgA) | 3:48 | 2021-10-27 | 2022-07-29 |
 | [Fearless](https://open.spotify.com/track/0E5Qd7mge1e9gfkCKfGOUR) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 8:02 | 2021-10-27 |  |
@@ -144,7 +145,7 @@
 | [Surfinfinity](https://open.spotify.com/track/3H2y68dxeI55N0PRHHPJtE) | [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Callus](https://open.spotify.com/album/3OqZAsc2sGRjTd7Fy9Nabj) | 4:03 | 2021-10-27 | 2022-07-28 |
 | [Teleidophonic Torch](https://open.spotify.com/track/126T2mOZCGlSxs5dAM4lgw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 1:04 | 2021-10-27 | 2022-07-29 |
 | [Teresa, Lark of Ascension](https://open.spotify.com/track/05d3d97A54UUffKia3WKpJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/7ov3GoQhZr9Ii6PXOqAVv9) | 3:37 | 2021-10-27 |  |
-| [The Assistant \(Marten\)](https://open.spotify.com/track/7uFE0yDqQd5TidEqrqiv6E) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(I\)](https://open.spotify.com/album/40xczYiXnO5hCLrvhldF73) | 3:33 | 2022-04-06 |  |
+| [The Assistant \(Marten\)](https://open.spotify.com/track/7uFE0yDqQd5TidEqrqiv6E) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(I\)](https://open.spotify.com/album/40xczYiXnO5hCLrvhldF73) | 3:33 | 2022-04-06 | 2022-09-10 |
 | [the be colony](https://open.spotify.com/track/66tkKvIRiNOVuZ4VLQRquL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU), [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age](https://open.spotify.com/album/43Y7JtQBJlB8wwMypodS6S) | 4:31 | 2021-10-27 |  |
 | [The Beach At Redpoint](https://open.spotify.com/track/7IFLsGyxJUX4cCWauaWG6U) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 4:18 | 2021-10-27 |  |
 | [The Black Drop](https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i) | [Mount Vernon Arts Lab](https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY) | [Séance at Hobs Lane](https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6) | 3:13 | 2021-10-27 |  |

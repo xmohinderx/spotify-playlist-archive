@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69478,
+  "num_followers": 69495,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDEzY2E2ZjY4MDhkNGZiODhiZWZkZDQxMGZjNmJhNWI4",
+  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMGVjNmIzOTIxYWIwNWMwYTk4YWMxNTJjYmE5YmNiNzBk",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -283,42 +283,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/7GeOqIQ7BCbwZmjwpjqeLQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/6YPJ5TbzwDltVrRR39bGzC"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Law of Automata: Valid",
         "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
@@ -339,18 +303,38 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Option",
-        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
       },
       "artists": [
         {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 274106,
-      "name": "Ti doudou",
-      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/7GeOqIQ7BCbwZmjwpjqeLQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 133835,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/6YPJ5TbzwDltVrRR39bGzC"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -371,6 +355,22 @@
       "duration_ms": 134276,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/1TQCfMfITNGtj9Vc4wSHDP"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Option",
+        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Ti doudou",
+      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Premye Fwa",
+        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
+      },
+      "artists": [
+        {
+          "name": "DANOLA",
+          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Premye Fwa",
+      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Sammy Sosa",
         "url": "https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 151475,
       "name": "Sammy Sosa",
       "url": "https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Premye Fwa",
-        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
-      },
-      "artists": [
-        {
-          "name": "DANOLA",
-          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Premye Fwa",
-      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Ocho",
-        "url": "https://open.spotify.com/album/4tQk8SwZ5dF5n5LihU6KJz"
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp"
       },
       "artists": [
         {
@@ -1172,21 +1172,13 @@
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "LASTMONDAY",
-          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
         }
       ],
-      "duration_ms": 159832,
-      "name": "Ocho",
-      "url": "https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd"
+      "duration_ms": 154833,
+      "name": "Oh Mama",
+      "url": "https://open.spotify.com/track/6O1JbI2vepUE3dg5XKkHYi"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1251,6 +1243,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Ba L on Bye (Remix)",
         "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
       },
@@ -1267,22 +1275,6 @@
       "duration_ms": 216412,
       "name": "Ba L on Bye (Remix)",
       "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1367,8 +1359,8 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp"
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/4tQk8SwZ5dF5n5LihU6KJz"
       },
       "artists": [
         {
@@ -1376,13 +1368,21 @@
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
         }
       ],
-      "duration_ms": 154833,
-      "name": "Oh Mama",
-      "url": "https://open.spotify.com/track/6O1JbI2vepUE3dg5XKkHYi"
+      "duration_ms": 159832,
+      "name": "Ocho",
+      "url": "https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
+      },
+      "artists": [
+        {
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "LAKAY",
         "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
       },
@@ -1679,26 +1699,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Destine",
-        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        },
-        {
-          "name": "Jmd Tunes",
-          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Destine",
-      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Bade Zile",
         "url": "https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW"
       },
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Destine",
+        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        },
+        {
+          "name": "Jmd Tunes",
+          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Destine",
+      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
-      },
-      "artists": [
-        {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
-        },
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "U.F.O.",
-      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1927,18 +1927,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Mr Diablo",
-        "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp"
       },
       "artists": [
         {
-          "name": "DonLex",
-          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         }
       ],
-      "duration_ms": 166635,
-      "name": "Mr Diablo",
-      "url": "https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc"
+      "duration_ms": 187658,
+      "name": "Baby Who",
+      "url": "https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs"
     }
   ],
   "unique_name": "Haitian Heat",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-03",
-  "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Connor Seidel (1969 Collective)",
+  "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Les s\u0153urs Boulay",
   "name": "Caf\u00e9 montr\u00e9alais",
   "published_playlist_ids": [
     "17ts8jbTOK4YpL5tyLJ1kX"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 244026,
       "name": "Couvre-feu",
       "url": "https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6"
@@ -2451,6 +2451,24 @@
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "album": {
+        "name": "Je vais te faire danser",
+        "url": "https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
     },
     {
       "album": {

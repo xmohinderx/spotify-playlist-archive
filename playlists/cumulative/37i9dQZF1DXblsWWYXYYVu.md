@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-148 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+149 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [The Years](https://open.spotify.com/track/5ppLTSYuW2XRUXRrtHO72z) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/38IhoHvSsheHtFlofWm8Kw) | 3:39 | 2022-04-08 |  |
 | [There You Are](https://open.spotify.com/track/0djPvkGasHhmWE61SVL5ZN) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/1YcpaKi4ReJl7sFZGDazdd) | 3:05 | 2021-04-19 |  |
 | [There You Are](https://open.spotify.com/track/6PD7iSh23einHGUSxySwfR) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/2XATcnL3lJFJPqGFj7Dmhl) | 3:05 | 2021-04-19 | 2022-07-29 |
-| [These Walls](https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu) | 3:13 | 2021-04-19 |  |
+| [These Walls](https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu) | 3:13 | 2021-04-19 | 2022-09-10 |
+| [These Walls](https://open.spotify.com/track/4STGoSPoTjY7ia71t3XdOS) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/5YsYLuzSXAmzuwLaDpEmp8) | 3:13 | 2021-04-19 |  |
 | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/track/3ZNl15kE12wwsqSainoMpy) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/album/5gbEV03eIWJTb3gjIwDjpX) | 3:26 | 2021-04-19 |  |
 | [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 | 2021-12-03 |  |
 | [Til the River Takes Us Home](https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Til the River Takes Us Home](https://open.spotify.com/album/3fDaftBNXBv1wNCGUmi7Ms) | 4:21 | 2021-08-27 | 2022-08-13 |

@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. cassyette
 
-299 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+300 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 | 2022-02-18 | 2022-08-26 |
 | [No More Friends \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/5jbk17nRpXXvzGXPXjm3uW) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [No More Friends](https://open.spotify.com/album/5T2HtXj1rvReE0gAAMNx53) | 3:13 | 2022-04-19 | 2022-04-29 |
 | [No Saving You](https://open.spotify.com/track/0q1lONbSdcZT6UthZNtt30) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [No Saving You](https://open.spotify.com/album/46xxFNqLwFfrdX0CeJcjW2) | 2:22 | 2022-05-05 | 2022-08-05 |
+| [Not Yours Never Was](https://open.spotify.com/track/4bg3Y2jE3wbjcOHLWBYogo) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Not Yours Never Was](https://open.spotify.com/album/0olqiaBJPPoECCG5CCbu7s) | 2:51 | 2022-09-09 |  |
 | [omfg](https://open.spotify.com/track/08c7VSQICT3aO5jYhI2KVI) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S), [stardante](https://open.spotify.com/artist/5D73Rmcxz9HEaAD3vlimsf) | [omfg](https://open.spotify.com/album/3UKgCHzl8H0VYcC1dsAzp6) | 2:34 | 2022-08-04 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2021-12-27 | 2022-02-04 |
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
@@ -213,7 +214,7 @@
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-04 | 2022-07-29 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-07-28 | 2022-08-26 |
 | [Pink Ski Mask](https://open.spotify.com/track/7uxdFBbvLnYMETZ3l1ALwz) | [Blissful Euphoria](https://open.spotify.com/artist/0CAfE2aA3yXVTOBD9f80VQ) | [Pink Ski Mask](https://open.spotify.com/album/0abrEo7bpHRoAS0mbm4jqy) | 3:52 | 2022-03-04 | 2022-03-11 |
-| [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 |  |
+| [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 | 2022-09-10 |
 | [PLASTIC](https://open.spotify.com/track/7KF3yW2VZX7Ddu6gPREdUf) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [PLASTIC](https://open.spotify.com/album/3Mgup1DdHwGNSejCMZz5Et) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-27 | 2022-01-29 |
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 |  |

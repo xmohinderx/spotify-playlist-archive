@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Kevin Kaarl en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 30284,
+  "num_followers": 30358,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyNTk2NywwMDAwMDAwMDIxY2VmZjA4ZTUwZDQ4NDUzMDRjNjY2YjQ1ODRjMDg2",
+  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMDc2OTZhNWMwMDIyMmM0ZTExNmFjYTczOWE1Zjc0M2M3",
   "tracks": [
     {
       "added_at": "2022-08-31 19:10:38",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso"
     },
     {
-      "added_at": "2022-09-02 05:00:00",
+      "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+        "name": "Intenciones",
+        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+      "duration_ms": 163600,
+      "name": "Intenciones",
+      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -61,20 +65,36 @@
       "url": "https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9"
     },
     {
-      "added_at": "2022-08-26 18:55:21",
+      "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Aquel Bolero",
-        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
       "artists": [
         {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Aquel Bolero",
-      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Los d\u00edas grises",
+        "url": "https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 139489,
+      "name": "Los d\u00edas grises",
+      "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -113,20 +133,36 @@
       "url": "https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu"
     },
     {
-      "added_at": "2022-09-02 05:00:00",
+      "added_at": "2022-08-26 18:55:21",
       "album": {
-        "name": "Voltearemos",
-        "url": "https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ"
+        "name": "Aquel Bolero",
+        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
         }
       ],
-      "duration_ms": 192293,
-      "name": "Voltearemos",
-      "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
+      "duration_ms": 172200,
+      "name": "Aquel Bolero",
+      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Mi Cumbia",
+        "url": "https://open.spotify.com/album/2Mjka8OhoXINOkGI6zglhU"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 207775,
+      "name": "Mi Cumbia",
+      "url": "https://open.spotify.com/track/6opYzmDIzG3uGln1BM2MtT"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -149,20 +185,20 @@
       "url": "https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2"
     },
     {
-      "added_at": "2022-09-02 05:00:00",
+      "added_at": "2022-08-26 18:55:21",
       "album": {
-        "name": "VIZIO",
-        "url": "https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ"
+        "name": "Soda de Uva",
+        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
       },
       "artists": [
         {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 214090,
-      "name": "Volver A Caer",
-      "url": "https://open.spotify.com/track/5AganyOOzJscDmQ1Wd6JBN"
+      "duration_ms": 162077,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -187,6 +223,38 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Voltearemos",
+        "url": "https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Voltearemos",
+      "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "VIZIO",
+        "url": "https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Volver A Caer",
+      "url": "https://open.spotify.com/track/5AganyOOzJscDmQ1Wd6JBN"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -219,22 +287,6 @@
       "duration_ms": 240000,
       "name": "siente m\u00e1s",
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2022-08-26 18:55:21",
-      "album": {
-        "name": "Soda de Uva",
-        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -967,26 +1019,6 @@
     {
       "added_at": "2022-08-26 18:55:21",
       "album": {
-        "name": "qu\u00e9 voy a hacer conmigo???",
-        "url": "https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 165674,
-      "name": "qu\u00e9 voy a hacer conmigo???",
-      "url": "https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS"
-    },
-    {
-      "added_at": "2022-08-26 18:55:21",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
@@ -1139,22 +1171,6 @@
     {
       "added_at": "2022-08-26 18:55:21",
       "album": {
-        "name": "la que calla",
-        "url": "https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "la que calla",
-      "url": "https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx"
-    },
-    {
-      "added_at": "2022-08-26 18:55:21",
-      "album": {
         "name": "Muchachitos Feat. Humbe",
         "url": "https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 185972,
       "name": "Muchachitos Feat. Humbe",
       "url": "https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM"
-    },
-    {
-      "added_at": "2022-08-26 18:55:21",
-      "album": {
-        "name": "LSNC",
-        "url": "https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 153711,
-      "name": "LSNC",
-      "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
     },
     {
       "added_at": "2022-08-26 18:55:21",

@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43132,
+  "num_followers": 43146,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkzMSw0ZDQ5Y2Y3MDRhOWMxZGE0YTk3MWM4OWZlYzNmODkyNzFlZWM5NDRh",
+  "snapshot_id": "MjkzNCw1NjJmYzJkZmE3MjZlNWUwOWRkMTRmZjJhYzQ5MDExMjlhNjYyOWY1",
   "tracks": [
+    {
+      "added_at": "2022-09-09 07:57:47",
+      "album": {
+        "name": "Azibi",
+        "url": "https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL"
+      },
+      "artists": [
+        {
+          "name": "Record Club",
+          "url": "https://open.spotify.com/artist/4cArYfwQ0BrfSEhaDwhVYQ"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "Azibi",
+      "url": "https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c"
+    },
     {
       "added_at": "2022-09-07 08:33:14",
       "album": {
@@ -423,26 +439,6 @@
       "duration_ms": 161252,
       "name": "Space Birds",
       "url": "https://open.spotify.com/track/6h09oYGOD7u3JJcVA9CvcC"
-    },
-    {
-      "added_at": "2022-06-23 08:20:51",
-      "album": {
-        "name": "Recall (Young Man)",
-        "url": "https://open.spotify.com/album/2A787Mr8PzkjC2lUjwOxAb"
-      },
-      "artists": [
-        {
-          "name": "Lil Seyi",
-          "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
-        },
-        {
-          "name": "Omolola",
-          "url": "https://open.spotify.com/artist/2oiwI74vU7D2J3F8bNqf0Z"
-        }
-      ],
-      "duration_ms": 317265,
-      "name": "Recall (Young Man)",
-      "url": "https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI"
     },
     {
       "added_at": "2021-11-05 15:47:43",

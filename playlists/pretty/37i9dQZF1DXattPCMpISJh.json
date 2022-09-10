@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Agnes",
-  "num_followers": 56454,
+  "num_followers": 56589,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDJmOWFiNWRlODU4ZDZiZjNjNDIxMDBjMTYyN2NmZjYx",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDE1MGU1M2FiYzIyMzkwOTU1OWYyYjA3MDRkYWQ4MDM3",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -43,6 +43,22 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Entangle",
+        "url": "https://open.spotify.com/album/3FOcCZrrlOwVX52hOa5249"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 236437,
+      "name": "Entangle",
+      "url": "https://open.spotify.com/track/5EHNdt9S4GdQqvVUlaqiv8"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -123,6 +139,26 @@
       "duration_ms": 253097,
       "name": "Mystery of Love - Le Flex \"Summer Mystery\" Remix",
       "url": "https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Stop (Soulpersona 'Red Light' Remix)",
+        "url": "https://open.spotify.com/album/3VRjmxJeIugxi2wclgXU9O"
+      },
+      "artists": [
+        {
+          "name": "Princess Freesia",
+          "url": "https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER"
+        },
+        {
+          "name": "Soulpersona",
+          "url": "https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362"
+        }
+      ],
+      "duration_ms": 272544,
+      "name": "Stop - Soulpersona 'Red Light' Remix",
+      "url": "https://open.spotify.com/track/2iDvUs9u03xKp7bxVaaOeV"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1663,26 +1699,6 @@
     {
       "added_at": "2021-11-19 05:01:00",
       "album": {
-        "name": "I'm a Rainbow: Recovered & Recoloured",
-        "url": "https://open.spotify.com/album/4TJZ8pzdWWXMDNYAJX7Psy"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        },
-        {
-          "name": "Ladies On Mars",
-          "url": "https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU"
-        }
-      ],
-      "duration_ms": 191152,
-      "name": "Highway Runner - Ladies on Mars \"Street Race\" Remix",
-      "url": "https://open.spotify.com/track/21BXst2WHRctU1BoynqJQH"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
         "name": "You Keep Saying",
         "url": "https://open.spotify.com/album/4nboI3WcxLnsbGtACuKaJA"
       },
@@ -1763,26 +1779,6 @@
       "duration_ms": 249714,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "CAPYAC FOREVER",
-        "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
-      },
-      "artists": [
-        {
-          "name": "CAPYAC",
-          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
-        },
-        {
-          "name": "Ciceley Fullylove",
-          "url": "https://open.spotify.com/artist/30C0JXNb7kmaTyJLh3INZZ"
-        }
-      ],
-      "duration_ms": 329015,
-      "name": "Take Me Closer",
-      "url": "https://open.spotify.com/track/1GeS67D5dZInyYe7Ctlc1L"
     },
     {
       "added_at": "2021-07-02 04:01:00",

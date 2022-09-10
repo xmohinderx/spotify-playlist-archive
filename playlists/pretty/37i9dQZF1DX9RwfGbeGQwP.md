@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,126 likes - 499 songs - 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,258 likes - 499 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -378,7 +378,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 368 | [latte](https://open.spotify.com/track/2EpeEaCnnjrrIlI1flvdsq) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/2Zb7URpLsprOd8w0riHHaH) | 2:00 |
 | 369 | [Bluebells](https://open.spotify.com/track/0YqT8NJCJJxbvJwEMCoi9x) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Bluebells](https://open.spotify.com/album/699EswyF9GncBZLjtUDjm8) | 2:23 |
 | 370 | [Works of Fiction](https://open.spotify.com/track/4OIWPBw1keXcCsTBh1Jw39) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:48 |
-| 371 | [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 |
+| 371 | [.Like a fool](https://open.spotify.com/track/7n87Oi2j5Us4eWhHu8zmpp) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/6VOj1qdMD9IwgeSnyhM54l) | 1:43 |
 | 372 | [After meal](https://open.spotify.com/track/3k7Dozu8rlk6AueJu0Baqq) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Coffee Stand](https://open.spotify.com/album/2PX1CzSKYQKSc2eWAKyeJP) | 1:54 |
 | 373 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 |
 | 374 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 |
@@ -508,4 +508,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 498 | [Technical Difficulties](https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Technical Difficulties](https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG) | 2:50 |
 | 499 | [Walking Away](https://open.spotify.com/track/6D92s9XsxCMSx7cnRRyIm6) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Tapeloop](https://open.spotify.com/album/25R3bF7LFwPRg3ORzO8Age) | 1:58 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDFiMTRmZmZjOTJhOWQ5N2IwMzlhZjY2ZDE0ODE3YzYz`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDc3ZGNmOTQ5YzE5ZTgyN2RlZTVjZjk0MTU0NDM5MjY3`

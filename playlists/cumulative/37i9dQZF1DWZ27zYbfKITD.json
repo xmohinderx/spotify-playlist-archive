@@ -428,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Good Night You Kings",
+        "url": "https://open.spotify.com/album/2uZVaktrTm54XmeO7w0kbI"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63478,
+      "name": "Good Night You Kings (from \"The Cider House Rules\", Arr. for Piano) - a calm version",
+      "url": "https://open.spotify.com/track/0P3snbkMDVmzfMKaKDuO9b"
+    },
+    {
+      "album": {
         "name": "Hello Rocks (from Hoa - Original Soundtrack)",
         "url": "https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y"
       },
@@ -595,6 +613,32 @@
       "duration_ms": 106960,
       "name": "Nascence",
       "url": "https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W"
+    },
+    {
+      "album": {
+        "name": "Zelda & Piano \u2013 Ocarina of Time",
+        "url": "https://open.spotify.com/album/7s7EhzRQESMrsIrq7nJLDI"
+      },
+      "artists": [
+        {
+          "name": "Super Piano 64",
+          "url": "https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        },
+        {
+          "name": "Unplugged",
+          "url": "https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Ocarina of Time",
+      "url": "https://open.spotify.com/track/7jgu0nvuW4Xp7e0zQqUKeW"
     },
     {
       "album": {

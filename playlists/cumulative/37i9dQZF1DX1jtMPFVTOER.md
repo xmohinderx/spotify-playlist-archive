@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-294 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
+295 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 | 2022-08-12 |  |
 | [Bald Men Anthem](https://open.spotify.com/track/3rJzQDT5O5pgyLWzpzU7oN) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Anthem](https://open.spotify.com/album/28eqkHAkRq6mpW0qeH8e4Z) | 4:14 | 2021-11-12 | 2022-02-19 |
 | [Be Better](https://open.spotify.com/track/6Z1lZYniJVYG8el7HgFEAQ) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Be Better](https://open.spotify.com/album/4h7qo3mx5g84uLwfyxAO7v) | 2:39 | 2021-11-12 | 2022-02-19 |
+| [Beast Mode](https://open.spotify.com/track/468bLIu92tWlKhnuIUFqeE) | [Dope Knife](https://open.spotify.com/artist/1NuyIyXEUSZIMxj3WXDSeW), [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Beast Mode](https://open.spotify.com/album/1w382jEqdoA1uZR7Dgubzx) | 3:44 | 2022-09-09 |  |
 | [Best Of Me \(Originals\)](https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Best Of Me](https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu) | 3:58 | 2021-11-12 | 2022-05-20 |
 | [better](https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [better](https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO) | 3:10 | 2022-04-01 |  |
 | [Better Days \- Kaidi Tatham Remix](https://open.spotify.com/track/4UgIHLiNvKMGZT5k0cU9Ew) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Better Days \(Kaidi Tatham Remix\)](https://open.spotify.com/album/5llHpRWrIbcjzCjTJsVz2m) | 3:57 | 2021-11-12 | 2022-07-09 |
@@ -154,7 +155,7 @@
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-04-01 | 2022-08-09 |
 | [Lemonade](https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg) | [Alec Hershey](https://open.spotify.com/artist/0n0DLx9JnjPF4A6B3l2ZPX), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Lemonade](https://open.spotify.com/album/6u5tqSj1AjjRP99XujvXYI) | 4:17 | 2022-08-08 |  |
 | [Let Me Tell You](https://open.spotify.com/track/6mvNXpr2TruQixVp4VjEQR) | [Grace Victoria](https://open.spotify.com/artist/0cKCQAmUMmD05Nc2sZwOta) | [Love & Justice](https://open.spotify.com/album/3sDIdiwV7fdKWnp7TeMJ7J) | 3:39 | 2022-01-07 | 2022-08-27 |
-| [Let's Never Stop Growin' Up](https://open.spotify.com/track/5iC1NGvqmo3SieQnWHfcKc) | [Lillian Blue Makin](https://open.spotify.com/artist/69NqHAYlZQ6ueRawGqqINh) | [Let's Never Stop Growin' Up](https://open.spotify.com/album/1HIfrxDU5QmimT5JTNFUXG) | 3:08 | 2022-04-22 |  |
+| [Let's Never Stop Growin' Up](https://open.spotify.com/track/5iC1NGvqmo3SieQnWHfcKc) | [Lillian Blue Makin](https://open.spotify.com/artist/69NqHAYlZQ6ueRawGqqINh) | [Let's Never Stop Growin' Up](https://open.spotify.com/album/1HIfrxDU5QmimT5JTNFUXG) | 3:08 | 2022-04-22 | 2022-09-10 |
 | [Lookin' at the World](https://open.spotify.com/track/248XESwp5QmNsE0YsMVOGN) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [So So Topic](https://open.spotify.com/artist/01c1PKupQuh194xNZWMCV9) | [Swagism](https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu) | 4:04 | 2021-11-12 | 2022-02-19 |
 | [Love & Fools](https://open.spotify.com/track/6rr1JNGkJUiAVQDhYFbCpr) | [Todd Carey](https://open.spotify.com/artist/0LCLu0eCcX5xembxDadUbz), [New Memphis Colorways](https://open.spotify.com/artist/20VWFuTbgbJt9iUtn6AZ9A) | [Love & Fools](https://open.spotify.com/album/45RI2VNGs47GSJn1flasfj) | 3:16 | 2021-11-26 | 2022-07-30 |
 | [Love Yourself](https://open.spotify.com/track/1UcVVqUun6yljvpoXpfrLR) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Toro Y Rome Vol\. 1](https://open.spotify.com/album/1W2fD7CSls8BSGAeUXUlPp) | 2:32 | 2021-11-12 | 2022-06-18 |

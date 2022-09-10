@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Equil\u00edbrio",
+        "url": "https://open.spotify.com/album/7jqkqkTH4gHbQpAFhQE0XI"
+      },
+      "artists": [
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/6D3YG918J8Ee3nyRHELsCC"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158926,
+      "name": "A Pe\u00e7a",
+      "url": "https://open.spotify.com/track/2zga0OUlGtaZZqbMMQ83JP"
+    },
+    {
+      "album": {
         "name": "ADA",
         "url": "https://open.spotify.com/album/2pWlkKORlGzpB4YTzvPp2N"
       },

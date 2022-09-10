@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 152926,
       "name": "2night",
       "url": "https://open.spotify.com/track/0ccds5C86PU7kPquqqy7Gk"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/5myb2mYtD7r7unMLd6ldng"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 161982,
       "name": "Daily",
       "url": "https://open.spotify.com/track/7IE6VIEvNkDEtht3MPur8n"
@@ -1324,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
+    },
+    {
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/4YrTWDTEsPnRaJSbbOe3Zp"
       },
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 180880,
       "name": "Involved",
       "url": "https://open.spotify.com/track/4FSIsiKusPR255QxNgKmOz"
@@ -1950,6 +1968,44 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/1LwN1zvSImu6H0JMblOwAv"
+      },
+      "artists": [
+        {
+          "name": "Rebel Mafia Global",
+          "url": "https://open.spotify.com/artist/76adkmxsrkIT6eDqfqVhzc"
+        },
+        {
+          "name": "Big Super",
+          "url": "https://open.spotify.com/artist/4BgZiBtnUFKNx62M3YIIqh"
+        },
+        {
+          "name": "Messy Money Sav",
+          "url": "https://open.spotify.com/artist/13SmRDpZnsMINtZnH0230f"
+        },
+        {
+          "name": "Ken Frank",
+          "url": "https://open.spotify.com/artist/36A8ykIWSdqME291FZKke6"
+        },
+        {
+          "name": "Rugby LoSport",
+          "url": "https://open.spotify.com/artist/1vLCXFbZ7UiAw9EVNZTFJT"
+        },
+        {
+          "name": "Kye Bills",
+          "url": "https://open.spotify.com/artist/7yWoldRQWzWXMT5TrPGvkC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/47apDG3Hq3HNXMDanJ5b9v"
+    },
+    {
+      "album": {
         "name": "Like Bill",
         "url": "https://open.spotify.com/album/5FB1SI2U8IOPk8kEAnQLPb"
       },
@@ -2037,7 +2093,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 183902,
       "name": "Major Fact (Bonus)",
       "url": "https://open.spotify.com/track/5qigctoNr6xPS4M418rvCp"
@@ -2820,6 +2876,28 @@
     },
     {
       "album": {
+        "name": "sex! money! violence!",
+        "url": "https://open.spotify.com/album/4fnDaPd2fiWOqaakEU2jhJ"
+      },
+      "artists": [
+        {
+          "name": "STEFAN THEV",
+          "url": "https://open.spotify.com/artist/3kggahr7S6paKpAN6EMKVM"
+        },
+        {
+          "name": "DAN OTYA",
+          "url": "https://open.spotify.com/artist/4mFWbLSOiaF35VEop1bMG8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176469,
+      "name": "sex! money! violence!",
+      "url": "https://open.spotify.com/track/7JwV5GYsVIRW5wrJw3lvAI"
+    },
+    {
+      "album": {
         "name": "Christmas in 6",
         "url": "https://open.spotify.com/album/5rDayfk2s1XFr2Em7cnjGY"
       },
@@ -3148,6 +3226,24 @@
     },
     {
       "album": {
+        "name": "SWEET DISEASE",
+        "url": "https://open.spotify.com/album/18lDvKH0U0q4VPAGy3yWRM"
+      },
+      "artists": [
+        {
+          "name": "Tekowa Lakica",
+          "url": "https://open.spotify.com/artist/26HeoqIprMyFI8AQZMjqJJ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "SWEET DISEASE",
+      "url": "https://open.spotify.com/track/1Mkmfkox2uJmb29RdF7OF7"
+    },
+    {
+      "album": {
         "name": "TAKE U THERE",
         "url": "https://open.spotify.com/album/0618vY8S4ueScXPUorSBQh"
       },
@@ -3242,6 +3338,40 @@
     },
     {
       "album": {
+        "name": "DSM",
+        "url": "https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol"
+      },
+      "artists": [
+        {
+          "name": "Van Buren Records",
+          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Jiles",
+          "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
+        },
+        {
+          "name": "Ricky Felix",
+          "url": "https://open.spotify.com/artist/2SmC9XkFSqrH0sAn9F9E19"
+        },
+        {
+          "name": "FELIX",
+          "url": "https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210955,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/2wHD7sPxQgMS8S5dEQHu7c"
+    },
+    {
+      "album": {
         "name": "THE WAVE",
         "url": "https://open.spotify.com/album/0WuLFXqgCresbLWPrXv83j"
       },
@@ -3311,7 +3441,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 164246,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/2FFTcZlVcJgix9SKcTg7Sy"
@@ -3537,6 +3667,24 @@
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
+    },
+    {
+      "album": {
+        "name": "YAMI YUGI MOTO",
+        "url": "https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "YAMI YUGI MOTO",
+      "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
+67 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Besos](https://open.spotify.com/track/6NOJswDL08HluDGQPc8WXY) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Besos](https://open.spotify.com/album/2r8asdF9PDOUxIeKSUtHYo) | 6:23 | 2022-09-08 |  |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2022-08-01 |  |
 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 | 2022-08-01 |  |
-| [Chain](https://open.spotify.com/track/6MXjiKghcrR1VC9z7JDMY1) | [Danilo Vigorito](https://open.spotify.com/artist/5szPzIyAKbFj8cOe1sWASh), [Gretchen Rhodes](https://open.spotify.com/artist/0wkwWm77k162pWZMmkTGUZ) | [The Underground House Sound of Eivissa, Vol\. 7](https://open.spotify.com/album/0KAcmwgvzUTxcqHBSyJKx8) | 7:10 | 2022-08-01 |  |
+| [Chain](https://open.spotify.com/track/5mHfRLEWzHXPDjZqnqRzZa) | [Danilo Vigorito](https://open.spotify.com/artist/5szPzIyAKbFj8cOe1sWASh), [Gretchen Rhodes](https://open.spotify.com/artist/0wkwWm77k162pWZMmkTGUZ) | [Homegrown Tears](https://open.spotify.com/album/3ZBarjhuNC9pf3gzrGtbyz) | 7:10 | 2022-09-08 |  |
+| [Chain](https://open.spotify.com/track/6MXjiKghcrR1VC9z7JDMY1) | [Danilo Vigorito](https://open.spotify.com/artist/5szPzIyAKbFj8cOe1sWASh), [Gretchen Rhodes](https://open.spotify.com/artist/0wkwWm77k162pWZMmkTGUZ) | [The Underground House Sound of Eivissa, Vol\. 7](https://open.spotify.com/album/0KAcmwgvzUTxcqHBSyJKx8) | 7:10 | 2022-08-01 | 2022-09-10 |
 | [Chano \- DJ Chus Remix](https://open.spotify.com/track/7AHLeuAT4F3aeYf9B4j4nY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Chano \(DJ Chus Remix\)](https://open.spotify.com/album/1y2gi7jIX2N6O4s3ZE4siW) | 3:28 | 2022-09-08 |  |
 | [Cruel Summer \- Musumeci Wax Off Remix](https://open.spotify.com/track/0UbxjF0H8hEf8r5KsfKnp3) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5NW7vGBRGv5BvxvuKh7e6p) | 4:49 | 2022-09-08 |  |
 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 | 2022-08-01 |  |

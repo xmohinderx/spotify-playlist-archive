@@ -1,6 +1,6 @@
 {
   "description": "The R&B and good vibe tracks for your current mood. Cover: John Legend",
-  "num_followers": 82255,
+  "num_followers": 82406,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
@@ -71,6 +71,30 @@
       "duration_ms": 202750,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
+    },
+    {
+      "added_at": "2022-09-08 16:00:00",
+      "album": {
+        "name": "handbook",
+        "url": "https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Nieman",
+          "url": "https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 195215,
+      "name": "handbook",
+      "url": "https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9"
     },
     {
       "added_at": "2022-09-08 16:00:00",

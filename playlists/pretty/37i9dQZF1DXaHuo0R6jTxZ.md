@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,554 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,604 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [El Ayam El Helwa](https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 3:45 |
 | 40 | [Lola El Saher](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
 | 41 | [Ya Khsartaq Ya Alby](https://open.spotify.com/track/1EV6LK5yWxxCe7qtY2w0Rm) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 3:52 |
-| 42 | [حيروني](https://open.spotify.com/track/0aphoVsfQe72HP7fJUWCp5) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [حيروني](https://open.spotify.com/album/6U2vDTuxqL4GNG5aFnAhI5) | 4:06 |
-| 43 | [Esa'aly](https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O) | [Mohamed Fouad & Haggag Abdul Rahman](https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U) | [Esa'aly](https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ) | 4:14 |
-| 44 | [Asheq](https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM) | [Amr Tantawy](https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3) | [Ahla Hekaya](https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv) | 4:02 |
+| 42 | [Asheq](https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM) | [Amr Tantawy](https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3) | [Ahla Hekaya](https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv) | 4:02 |
+| 43 | [حيروني](https://open.spotify.com/track/0aphoVsfQe72HP7fJUWCp5) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [حيروني](https://open.spotify.com/album/6U2vDTuxqL4GNG5aFnAhI5) | 4:06 |
+| 44 | [Esa'aly](https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O) | [Mohamed Fouad & Haggag Abdul Rahman](https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U) | [Esa'aly](https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ) | 4:14 |
 | 45 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
 | 46 | [Wana Wana](https://open.spotify.com/track/40v2G2YDUk4oA5UZfv7evR) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Oriental Raï Party](https://open.spotify.com/album/3LFSYJfcUd31sIirhLZd3e) | 3:54 |
 | 47 | [Kawy Kalbak](https://open.spotify.com/track/2OfdMNtqeQGSatCj5GEDUQ) | [Kluda Al Shamali](https://open.spotify.com/artist/12g0lOWG7yLlcKXXCxgKui) | [Pravo Aleek](https://open.spotify.com/album/3oX428wVuCAVUVTnLjrFVB) | 5:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 49 | [Baheboh](https://open.spotify.com/track/2UuStUhhyOOOXISDgn0lMp) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/7lSz0EJJ5fAABoP7CVIPN5) | 4:43 |
 | 50 | [Law Kent](https://open.spotify.com/track/65iXruEgoZEcCThhLWAmgU) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Law Kent](https://open.spotify.com/album/7p1TAYfTv8WNTOuBz9LQXc) | 3:47 |
 
-Snapshot ID: `MTYxMzkxNzYzNywwMDAwMDAwMDM3OTk2NWZiZTE1ZDljZTM0ODkxZjRmMjFhNTZmODgz`
+Snapshot ID: `MTYxMzkxNzYzNywwMDAwMDAwMGI1NDZlNmNhYjQyYTAwM2FkMTU5ZWFlMDdmYzkxNGFk`
