@@ -1685,10 +1685,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 118620,
       "name": "Quien Paga",
       "url": "https://open.spotify.com/track/5bRH3E7TaWVAblEUVFI0By"
+    },
+    {
+      "album": {
+        "name": "AGROLOVE",
+        "url": "https://open.spotify.com/album/27lgvAXQJvQX7XNSWLv6X8"
+      },
+      "artists": [
+        {
+          "name": "PIERI",
+          "url": "https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118620,
+      "name": "Quien Paga",
+      "url": "https://open.spotify.com/track/7zP1jcXDQvzOPwbuil3NDJ"
     },
     {
       "album": {

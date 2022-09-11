@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL\">Elton John</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Elton John",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1V8qoYuXAl3nBrjXBEwYzP"
+  ],
   "tracks": [
     {
       "album": {
@@ -1199,6 +1201,24 @@
       "duration_ms": 288906,
       "name": "Can't Stay Alone Tonight",
       "url": "https://open.spotify.com/track/1MSPSJToyk1rMHGDAMjVMM"
+    },
+    {
+      "album": {
+        "name": "Classic 70s Acoustic Guitar: After the Love Has Gone",
+        "url": "https://open.spotify.com/album/5ZT7kAwRiK3xSisMvkTIAn"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257534,
+      "name": "Candle in the Wind",
+      "url": "https://open.spotify.com/track/4ft5xdZvpplCKbhJxd0gGc"
     },
     {
       "album": {
@@ -4741,7 +4761,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 294266,
       "name": "Mandalay Again",
       "url": "https://open.spotify.com/track/5t2BCWWc4YBbE2Yv0ZCHL0"
@@ -6891,6 +6911,24 @@
     {
       "album": {
         "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385026,
+      "name": "Street Kids",
+      "url": "https://open.spotify.com/track/20FnYowQOrLxU92iyA94ed"
+    },
+    {
+      "album": {
+        "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh"
       },
       "artists": [
@@ -6901,7 +6939,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 385066,
       "name": "Street Kids",
       "url": "https://open.spotify.com/track/2gjLi2PuS3jBmaLF1JOqKb"

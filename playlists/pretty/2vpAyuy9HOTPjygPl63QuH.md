@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,213 likes - 23 songs - 1 hr 18 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,216 likes - 24 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,11 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 16 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 |
 | 17 | [Find A Way](https://open.spotify.com/track/5THxirvtOzQQoUL9wLldgP) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Find A Way](https://open.spotify.com/album/1N2ao678nFxSdmM7hbTHzs) | 1:53 |
 | 18 | [Hooked](https://open.spotify.com/track/6Ajg8A72jxTJqzYRkHbpjy) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z) | [Hooked](https://open.spotify.com/album/5Sr0z18RfuZuOPwiNC9473) | 2:43 |
-| 19 | [Mic Rock](https://open.spotify.com/track/6KMaAGryHWdddXqteE3B4K) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Illyus](https://open.spotify.com/artist/6HV12TaR0wBwhDyScJk0ZH), [Barrientos](https://open.spotify.com/artist/5QW9RJGuMEFj33bZKEBrpB) | [Mic Rock](https://open.spotify.com/album/5cgOp4B4L4QFtQa46ySIye) | 3:09 |
+| 19 | [Mic Rock](https://open.spotify.com/track/6KMaAGryHWdddXqteE3B4K) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Mic Rock](https://open.spotify.com/album/5cgOp4B4L4QFtQa46ySIye) | 3:09 |
 | 20 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |
 | 21 | [Play It Cool](https://open.spotify.com/track/3iT1NGndiCT4L1YiR1y1oG) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Play It Cool](https://open.spotify.com/album/64GAikj3SBAhEJ4WoASvmv) | 3:11 |
 | 22 | [Words \(feat\. Zara Larsson\) \[Chapter & Verse Remix\]](https://open.spotify.com/track/6hAx59PBAqqvZLIJWilJfV) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Words \(Remixes\)](https://open.spotify.com/album/2P1cnpTNW5TAqpMeVySx4T) | 2:55 |
 | 23 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 |
+| 24 | [Fall In \- Original Mix](https://open.spotify.com/track/5pHx49j3E57grMbXXRi0xz) | [Z A K](https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf) | [UV Protection Vol\. 4](https://open.spotify.com/album/15jNctglkeLWnilz8bbAvW) | 4:30 |
 
-Snapshot ID: `NTk1OSxkY2MzNjU5YWZmY2I3Zjc0Nzk4MmY1ODI3NDlmYzI0MmFhZmFjOTc5`
+Snapshot ID: `NTk2MCxlOGYxOTRjNTI3NzY4MzY2ZWU4MTlhNzBkMzAxZjA4NDAwZjFmZThh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Iqlipse Nova, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,639 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,694 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 83 | [Scarlet Skies](https://open.spotify.com/track/7cfkaa99FlcyqXiuHCELMw) | [Swati Bhatt](https://open.spotify.com/artist/3QfWOXa5U33svUMlOzQxW8), [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Scarlet Skies](https://open.spotify.com/album/0rZ3ecLj2GVFLQwmzfDuu9) | 3:55 |
 | 84 | [Khaali Samay Mein](https://open.spotify.com/track/10s5ZW5fgUElXBHdNFyPQZ) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Khaali Samay Mein](https://open.spotify.com/album/7cdUgSKdW7z8s83OLtPEjL) | 3:13 |
 | 85 | [High Wire](https://open.spotify.com/track/4J7sxlNaK7mZldW0swZYGQ) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Vivienne Pocha](https://open.spotify.com/artist/2fUE5kssQWjZs704BulUUI) | [High Wire](https://open.spotify.com/album/3CIoPkp4VF8fIi4nhS0bGa) | 4:17 |
-| 86 | [Mera Safar](https://open.spotify.com/track/5m3DNpjgwy5lOpN75rL6pa) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5xngjxAkpa45Kbt08HcCey) | 3:10 |
+| 86 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
 | 87 | [Seventh Heaven](https://open.spotify.com/track/4FTU9sqVDmRe0b1CkrMkp8) | [Diya Maeve](https://open.spotify.com/artist/6xFbHEi1N1bJtQvH4fF3c0) | [Seventh Heaven](https://open.spotify.com/album/2U19ItQdZM5Af14fSiPdCC) | 3:05 |
 | 88 | [Mumkin Nahin](https://open.spotify.com/track/5CyrICnw8h6OdoSXXFJLjD) | [Khanabadosh](https://open.spotify.com/artist/7dnbgJ1rgMrXMxORusmKuz) | [Mumkin Nahin](https://open.spotify.com/album/28i4DE2jz2pvm5v9sIHe7w) | 3:52 |
 | 89 | [Gulaab](https://open.spotify.com/track/7MGBVRDJQ6zxx18FhvqzSP) | [Raya](https://open.spotify.com/artist/1l6dTow5Y8NYBGUAKExdOF) | [Gulaab](https://open.spotify.com/album/06emcAOErjaBVkKqChRTF2) | 4:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 100 | [Jaadugar](https://open.spotify.com/track/702aSTeNYc27sU1JerBGYE) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol), [shreshth.](https://open.spotify.com/artist/02gRmLTUQdbvdEs56lhlH0) | [Jaadugar](https://open.spotify.com/album/5bwc6AGW4DHTX16hCE9jAQ) | 4:23 |
 | 101 | [Nishaani](https://open.spotify.com/track/5G79CwW6bfDpVFONmjiSO3) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM), [Ana Khan](https://open.spotify.com/artist/0i0yZ1eUzu2zQSpS1eyeSo) | [Nishaani](https://open.spotify.com/album/6QjsvM7dpohwGofretSi86) | 3:26 |
 
-Snapshot ID: `MTY2MjYyNDczMiwwMDAwMDAwMGNiMDRkZGIzMmMxMGIzYzAxMmNmY2M4YjIxN2NlNmEx`
+Snapshot ID: `MTY2MjYyNDczMiwwMDAwMDAwMDBkOGE2YmM4ZTQ1NDEwZjNkOWYyYTA1NzNhNzk1ODFm`

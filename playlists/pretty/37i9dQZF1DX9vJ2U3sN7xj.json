@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta \ud83c\udf89 \nCover: Farruko",
-  "num_followers": 940837,
+  "num_followers": 940905,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzM0NywwMDAwMDAwMGIwNWQ0ZmExZjE0ZmRkOTE2YzIxYWFmMTBmMTk5NDFh",
+  "snapshot_id": "MTY1OTcxNzM0NywwMDAwMDAwMDUwNjBjZjUzYzkyNDQ1MWE2NWNiNTZiODk5OWFlZThk",
   "tracks": [
     {
       "added_at": "2022-08-05 16:35:47",
@@ -1955,6 +1955,26 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 190100,
+      "name": "De Cora <3",
+      "url": "https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
         "name": "Emojis de Corazones (feat. Los Legendarios)",
         "url": "https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 303426,
       "name": "Emojis de Corazones (feat. Los Legendarios)",
       "url": "https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 190100,
-      "name": "De Cora <3",
-      "url": "https://open.spotify.com/track/22Sh5dlwbERqJAq1fZk5b2"
     },
     {
       "added_at": "2022-08-05 16:35:47",

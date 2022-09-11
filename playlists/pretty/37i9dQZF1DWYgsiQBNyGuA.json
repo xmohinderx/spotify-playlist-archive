@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 44203,
+  "num_followers": 44239,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMGNlOGY0OTZlMDI2OTc0MzQwYzUwNzA5NDRkOGM3Y2M4",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDRhMTFmMjEyYmQ3ZWQxOWYxZDVkNWFjMzE1NWVkZmY1",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "The SunRoom",
         "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 271794,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 303066,
-      "name": "If I Was A Bird",
-      "url": "https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Take From Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 303066,
+      "name": "If I Was A Bird",
+      "url": "https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo"
     },
     {
       "added_at": "2022-01-05 09:24:56",

@@ -4,7 +4,7 @@
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-51 songs - 4 hr 48 min - not published yet
+51 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4HyMgniBYXCXjMjwD9cKQ7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

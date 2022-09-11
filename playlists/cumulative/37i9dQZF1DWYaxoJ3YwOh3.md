@@ -4,7 +4,7 @@
 
 > Enchanting vibes to help you find peace and tranquillity.
 
-62 songs - 4 hr 2 min - not published yet
+62 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

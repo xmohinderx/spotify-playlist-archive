@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 49474,
+  "num_followers": 49611,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU4MCwwMDAwMDAwMDYwM2E4YWUxZDE1ZTUwMWRjMzQwMjQ0ZTY5ZmI0ODVh",
+  "snapshot_id": "MTY1OTEwNTU4MCwwMDAwMDAwMGYwMGQxNTQwMWU4N2ZlNDViNWRiM2M4ZTgwZGY0ZmY4",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:40",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Tommy Castro Presents A Bluesman Came To Town",
-        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 316006,
-      "name": "Blues Prisoner",
-      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "Roll Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
+        "name": "Tommy Castro Presents A Bluesman Came To Town",
+        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Blues Prisoner",
+      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 364906,
-      "name": "You're Still My Woman",
-      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+      "duration_ms": 364906,
+      "name": "You're Still My Woman",
+      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Personal Manager",
-      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Personal Manager",
+      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "As Good As It Gets",
         "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 338373,
       "name": "One Room Country Shack",
       "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "The Motown Years 1972-1976",
-        "url": "https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 380493,
-      "name": "Luther's Blues",
-      "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
+        "name": "The Motown Years 1972-1976",
+        "url": "https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 380493,
+      "name": "Luther's Blues",
+      "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
     },
     {
       "added_at": "2022-07-29 14:39:40",

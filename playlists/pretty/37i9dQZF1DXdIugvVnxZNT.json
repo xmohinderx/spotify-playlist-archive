@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 48083,
+  "num_followers": 48114,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MTI5NSwwMDAwMDAwMGQyMDVmZmIyYjc2NDJiY2UwMTI2MTFhOWQzZDVkOWRi",
+  "snapshot_id": "MTY0OTg2MTI5NSwwMDAwMDAwMDE0YjE1ZWIyMGJkNDU4YmI4NTk3MmM1ZDlkNmNlOTAy",
   "tracks": [
     {
       "added_at": "2022-04-13 14:48:15",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
+        "name": "EDM Hits",
+        "url": "https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6"
+    },
+    {
+      "added_at": "2022-04-13 14:48:15",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
       },
@@ -1239,26 +1263,6 @@
       "duration_ms": 192731,
       "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
       "url": "https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc"
-    },
-    {
-      "added_at": "2022-04-13 14:48:15",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        }
-      ],
-      "duration_ms": 221274,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/6nLctpnQJiPTxkaSgbPKiw"
     }
   ],
   "unique_name": "EDM LUV <3",

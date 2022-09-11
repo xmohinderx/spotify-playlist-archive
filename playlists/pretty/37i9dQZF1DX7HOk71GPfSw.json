@@ -1,13 +1,117 @@
 {
   "description": "ft. Ninajirachi ",
-  "num_followers": 337418,
+  "num_followers": 337489,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjIyMjA2MiwwMDAwMDAwMGViZTBjM2Q1NDk0ZDZkMzFmOWYyMTY4YjQyMWRiNmZk",
+  "snapshot_id": "MTY2Mjc3NTgwMCwwMDAwMDAwMGQyOWU1OTUzY2MzZTk2NWU1ZTcyNzgyMmYzZjQxZDkw",
   "tracks": [
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/6ePn0iOHrkvAhtMzLxeIQL"
+      },
+      "artists": [
+        {
+          "name": "Tony Velour",
+          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
+        }
+      ],
+      "duration_ms": 96880,
+      "name": "AGNES KRUEL",
+      "url": "https://open.spotify.com/track/4UzgDdX1pcbUYisiqSaIEF"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "SUMMER GIRL",
+        "url": "https://open.spotify.com/album/1DsE77o6wyp3Ozp6QFGHXI"
+      },
+      "artists": [
+        {
+          "name": "glue70",
+          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "SUMMER GIRL",
+      "url": "https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "stay away (do you think it gets better?)",
+        "url": "https://open.spotify.com/album/0WKkH7ThSeVmk94kQ4vaHJ"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 93048,
+      "name": "stay away (do you think it gets better?)",
+      "url": "https://open.spotify.com/track/2gexTEQ9VoVvVq776ImBUQ"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "connect, breathe",
+        "url": "https://open.spotify.com/album/5IMtBSgWcwRGey0gCB5yHg"
+      },
+      "artists": [
+        {
+          "name": "CMTEN",
+          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+        },
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "what comes around goes around (feat. musa)",
+      "url": "https://open.spotify.com/track/3QaKCllt6TtSUGp3UEmbaW"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "cut the cable",
+        "url": "https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 178844,
+      "name": "cut the cable",
+      "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m"
+    },
     {
       "added_at": "2022-09-03 16:19:48",
       "album": {
@@ -31,22 +135,6 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "Petroleum / Hidden Land",
-        "url": "https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 198769,
-      "name": "Petroleum",
-      "url": "https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC"
-    },
-    {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1qmiDQd4RqnXtuCKgTZsXY"
       },
@@ -65,6 +153,78 @@
       "url": "https://open.spotify.com/track/7a6SZMO2mfBdeFJcAPiOTV"
     },
     {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "CYBERKISS 2 U*",
+        "url": "https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKSTARKIDS",
+          "url": "https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 188569,
+      "name": "CYBERKISS 2 U*",
+      "url": "https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "ABC (feat. Sophia Black)",
+        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Sophia Black",
+          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
+        }
+      ],
+      "duration_ms": 152361,
+      "name": "ABC (feat. Sophia Black)",
+      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/7eTbiselU00MgIrhhnTWaB"
+      },
+      "artists": [
+        {
+          "name": "NNAMD\u00cf",
+          "url": "https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Dedication",
+      "url": "https://open.spotify.com/track/5VE2XpJVTysyGll09PcMXv"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Petroleum / Hidden Land",
+        "url": "https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 198769,
+      "name": "Petroleum",
+      "url": "https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC"
+    },
+    {
       "added_at": "2022-09-03 16:19:48",
       "album": {
         "name": "what i needed",
@@ -81,6 +241,42 @@
       "url": "https://open.spotify.com/track/1xZPyee92VWEgV3S4t1CsK"
     },
     {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "Bury It (Alice Longyu Gao Remix)",
+        "url": "https://open.spotify.com/album/180xOHbxZqHlCOVl0IBQRX"
+      },
+      "artists": [
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        },
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "Bury It - Alice Longyu Gao Remix",
+      "url": "https://open.spotify.com/track/6KIP5nzxAA5zWzFQCGQwns"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "emotional trap",
+        "url": "https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB"
+      },
+      "artists": [
+        {
+          "name": "she loves boon",
+          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
+        }
+      ],
+      "duration_ms": 142914,
+      "name": "everything ab u",
+      "url": "https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66"
+    },
+    {
       "added_at": "2022-09-03 16:19:48",
       "album": {
         "name": "shooting star",
@@ -95,26 +291,6 @@
       "duration_ms": 138104,
       "name": "shooting star",
       "url": "https://open.spotify.com/track/6cutZu2pvxF6yTfB9zhuV6"
-    },
-    {
-      "added_at": "2022-09-03 16:19:48",
-      "album": {
-        "name": "cut the cable",
-        "url": "https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 178844,
-      "name": "cut the cable",
-      "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
     },
     {
       "added_at": "2022-08-05 07:49:00",
@@ -181,6 +357,22 @@
       "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
     },
     {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
       "added_at": "2022-08-12 05:19:00",
       "album": {
         "name": "boythots",
@@ -211,22 +403,6 @@
       "duration_ms": 124444,
       "name": "my mistakes as run on sentences",
       "url": "https://open.spotify.com/track/2Zlynhm62f2iSZhpB8h7kl"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-09-03 16:19:48",
@@ -329,22 +505,6 @@
       "url": "https://open.spotify.com/track/0SVj6QRjGP3NA9VcXRVwgG"
     },
     {
-      "added_at": "2022-09-03 16:19:48",
-      "album": {
-        "name": "emotional trap",
-        "url": "https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB"
-      },
-      "artists": [
-        {
-          "name": "she loves boon",
-          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
-        }
-      ],
-      "duration_ms": 142914,
-      "name": "everything ab u",
-      "url": "https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66"
-    },
-    {
       "added_at": "2022-08-26 05:41:00",
       "album": {
         "name": "bugfood",
@@ -375,26 +535,6 @@
       "duration_ms": 212415,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi"
-    },
-    {
-      "added_at": "2022-09-03 16:19:48",
-      "album": {
-        "name": "ABC (feat. Sophia Black)",
-        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "Sophia Black",
-          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
-        }
-      ],
-      "duration_ms": 152361,
-      "name": "ABC (feat. Sophia Black)",
-      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
     },
     {
       "added_at": "2022-06-28 14:12:15",
@@ -1255,30 +1395,6 @@
       "duration_ms": 97170,
       "name": "ENOUGH!",
       "url": "https://open.spotify.com/track/4WLHZdwcQTzfG8dJN8EP3Z"
-    },
-    {
-      "added_at": "2022-08-02 17:18:09",
-      "album": {
-        "name": "food house",
-        "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
-      },
-      "artists": [
-        {
-          "name": "food house",
-          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
-        },
-        {
-          "name": "Gupi",
-          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 247917,
-      "name": "mos thoser",
-      "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
     },
     {
       "added_at": "2022-08-02 17:18:09",

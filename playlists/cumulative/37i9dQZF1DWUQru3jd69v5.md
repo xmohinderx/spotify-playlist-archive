@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Cover: Iltunsi
 
-214 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+215 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [RainMan](https://open.spotify.com/track/0N02e1qf0mRMiJnRedzXKc) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [RainMan](https://open.spotify.com/album/5dYTGxy5K8H7RgD8xbxi5e) | 2:57 | 2022-08-26 |  |
 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 | 2022-05-30 | 2022-07-27 |
 | [Right](https://open.spotify.com/track/0erdE6iRaKH5IfAcYAFzqg) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [Murray](https://open.spotify.com/artist/5vCM8O3LYLrcx4QRyKzoQo) | [Right](https://open.spotify.com/album/129iazxnemeWUspTWcvHg3) | 2:29 | 2022-06-09 | 2022-06-24 |
-| [Robe Da Maranza](https://open.spotify.com/track/1IV4OGA1v2kBldTSmgIjy0) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r) | 2:33 | 2022-07-26 |  |
+| [Robe Da Maranza](https://open.spotify.com/track/1IV4OGA1v2kBldTSmgIjy0) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r) | 2:33 | 2022-07-26 | 2022-09-11 |
+| [Robe Da Maranza](https://open.spotify.com/track/2MwQjdvvuYF5XaXyJmlygR) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ) | 2:33 | 2022-09-08 |  |
 | [ROCK IN ROMA](https://open.spotify.com/track/1dk7Ewa8ns8C64laHp0xgj) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [ROCK IN ROMA](https://open.spotify.com/album/3i5ApqPn3wWjSoNYjRwigJ) | 2:31 | 2022-06-23 | 2022-08-19 |
 | [RONALDINHO](https://open.spotify.com/track/2mON8OArGpK9GxSQdWKG7U) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [RONALDINHO](https://open.spotify.com/album/0MCQwQnytNn9Ksuh6mlyiU) | 3:12 | 2022-06-30 | 2022-09-02 |
 | [RS6](https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [RS6](https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW) | 2:12 | 2022-08-25 |  |

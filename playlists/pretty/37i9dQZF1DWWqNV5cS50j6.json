@@ -1,12 +1,12 @@
 {
   "description": "Gorillaz make anti pop.",
-  "num_followers": 662180,
+  "num_followers": 662404,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjM3MiwwMDAwMDAwMGVlZjEyZmMzODYwOGZkOGViMmMyMWRhNGEwMzIzZTBm",
+  "snapshot_id": "MTY2Mjc3NTk1NiwwMDAwMDAwMGM4MGNjZWUzNGZkZTc4ODk0ODBmMWMwODFlMjMyZGM3",
   "tracks": [
     {
       "added_at": "2022-09-02 09:10:00",
@@ -133,20 +133,20 @@
       "url": "https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc"
     },
     {
-      "added_at": "2022-08-08 17:11:17",
+      "added_at": "2022-09-10 02:12:35",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+      "duration_ms": 166927,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -169,6 +169,38 @@
       "url": "https://open.spotify.com/track/1ZNOwjcEAqka5feaa5dEko"
     },
     {
+      "added_at": "2022-09-10 02:12:35",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/6ePn0iOHrkvAhtMzLxeIQL"
+      },
+      "artists": [
+        {
+          "name": "Tony Velour",
+          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
+        }
+      ],
+      "duration_ms": 96880,
+      "name": "AGNES KRUEL",
+      "url": "https://open.spotify.com/track/4UzgDdX1pcbUYisiqSaIEF"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
       "added_at": "2022-08-08 17:11:17",
       "album": {
         "name": "The Difference",
@@ -187,38 +219,6 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "Sensitive",
-        "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3"
-    },
-    {
-      "added_at": "2022-08-27 14:54:03",
-      "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2022-08-12 06:35:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU"
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         }
       ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B"
+      "duration_ms": 174720,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -307,22 +307,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 229564,
-      "name": "RUNITUP (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/13HsOwrwTA5HgLuoaDHncP"
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B"
     },
     {
       "added_at": "2022-08-26 14:02:36",
@@ -377,20 +373,20 @@
       "url": "https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi"
     },
     {
-      "added_at": "2022-08-08 17:11:17",
+      "added_at": "2022-09-10 02:12:35",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 237231,
-      "name": "Raingurl",
-      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -409,20 +405,24 @@
       "url": "https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv"
     },
     {
-      "added_at": "2022-09-02 09:10:00",
+      "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "SINS",
-        "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
       "artists": [
         {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 177952,
-      "name": "SINS",
-      "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
+      "duration_ms": 229564,
+      "name": "RUNITUP (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/13HsOwrwTA5HgLuoaDHncP"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -441,20 +441,20 @@
       "url": "https://open.spotify.com/track/7s4GCpLK57ybNAEeJfvOLF"
     },
     {
-      "added_at": "2022-08-13 02:14:30",
+      "added_at": "2022-08-27 14:54:03",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 132215,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi"
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -473,24 +473,20 @@
       "url": "https://open.spotify.com/track/6c7BepOWSpr5gL44cLKXRW"
     },
     {
-      "added_at": "2022-08-08 17:11:17",
+      "added_at": "2022-08-13 02:14:30",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
       "artists": [
         {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 171425,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR"
+      "duration_ms": 132215,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -519,18 +515,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
       "artists": [
         {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+      "duration_ms": 237231,
+      "name": "Raingurl",
+      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -549,20 +545,20 @@
       "url": "https://open.spotify.com/track/2oSG1lrQZHUSs4hhgv7Imu"
     },
     {
-      "added_at": "2022-08-08 17:11:17",
+      "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "ZIG ZAGGING",
-        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
+        "name": "SINS",
+        "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
       },
       "artists": [
         {
-          "name": "Asha Imuno",
-          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
         }
       ],
-      "duration_ms": 124800,
-      "name": "ZIG ZAGGING",
-      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
+      "duration_ms": 177952,
+      "name": "SINS",
+      "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -587,6 +583,58 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 171425,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "ZIG ZAGGING",
+        "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
+      },
+      "artists": [
+        {
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "ZIG ZAGGING",
+      "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -599,22 +647,6 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "burbank house",
-        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
-      },
-      "artists": [
-        {
-          "name": "tsubi club",
-          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
-        }
-      ],
-      "duration_ms": 101647,
-      "name": "burbank house",
-      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
     },
     {
       "added_at": "2022-08-18 17:22:36",
@@ -631,6 +663,22 @@
       "duration_ms": 201004,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "burbank house",
+        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "duration_ms": 101647,
+      "name": "burbank house",
+      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -729,22 +777,6 @@
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
     },
     {
-      "added_at": "2022-08-27 14:54:03",
-      "album": {
-        "name": "Leaving You",
-        "url": "https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 113374,
-      "name": "Leaving You",
-      "url": "https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM"
-    },
-    {
       "added_at": "2022-08-08 17:11:17",
       "album": {
         "name": "Sugar",
@@ -761,20 +793,20 @@
       "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
-      "added_at": "2022-08-13 02:14:30",
+      "added_at": "2022-08-27 14:54:03",
       "album": {
-        "name": "Pixel Bath",
-        "url": "https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL"
+        "name": "Leaving You",
+        "url": "https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 252293,
-      "name": "Power Freaks",
-      "url": "https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy"
+      "duration_ms": 113374,
+      "name": "Leaving You",
+      "url": "https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -809,56 +841,20 @@
       "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
     },
     {
-      "added_at": "2022-08-27 14:54:03",
-      "album": {
-        "name": "Psychedelic Views (feat. IDK)",
-        "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Psychedelic Views (feat. IDK)",
-      "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "Maybe Not",
-        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 170060,
-      "name": "Maybe Not",
-      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
-    },
-    {
       "added_at": "2022-08-13 02:14:30",
       "album": {
-        "name": "Duo",
-        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
+        "name": "Pixel Bath",
+        "url": "https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 126700,
-      "name": "Duo",
-      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
+      "duration_ms": 252293,
+      "name": "Power Freaks",
+      "url": "https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy"
     }
   ],
   "unique_name": "anti pop",

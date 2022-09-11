@@ -1104,6 +1104,28 @@
     },
     {
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/4qWKZYFGNAJ7kaP5iwA3hH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Carrera",
+          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+        },
+        {
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/5QyjJqlOKfy7Uq7AUbClq6"
+    },
+    {
+      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/3ro1Am5Vrj5ML2zlgOlvIJ"
       },
@@ -2141,7 +2163,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 540000,
       "name": "Mind Is God - Original Mix",
       "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"

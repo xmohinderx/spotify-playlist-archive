@@ -328,6 +328,24 @@
     },
     {
       "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168689,
+      "name": "Bloqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh"
+    },
+    {
+      "album": {
         "name": "Buteco in Boston, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK"
       },
@@ -339,7 +357,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 168689,
       "name": "Bloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"

@@ -4,7 +4,7 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-50 songs - 4 hr 12 min - not published yet
+50 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/0sKOKr4jcSA1YWjPvUiC1U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

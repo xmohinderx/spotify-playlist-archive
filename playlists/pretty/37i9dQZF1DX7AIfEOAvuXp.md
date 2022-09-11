@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,382 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,381 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 78 | [Yesterday](https://open.spotify.com/track/1l0cPiIm4i7AX7wukAP1GE) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Yesterday](https://open.spotify.com/album/63qcqWhODFOmMA3in1WN0z) | 3:38 |
 | 79 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 80 | [Something of Myself](https://open.spotify.com/track/4T02NiYLYcbo9dc8EaCTft) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Something of Myself](https://open.spotify.com/album/59dFtPXWWy9hRv2elKoN03) | 2:18 |
-| 81 | [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 |
+| 81 | [STILL WITH U](https://open.spotify.com/track/5c4J6Nu6fpoU2HVFXjGeIk) | [The Blossom](https://open.spotify.com/artist/1kXLIxM0TzleLi7PP6fXZ9) | [STILL WITH U](https://open.spotify.com/album/1yh93VRjagM5i0CRXk7BqY) | 3:08 |
 | 82 | [Moonboy](https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Moonboy](https://open.spotify.com/album/2LhpR3TL7xqk8N4wJBTGIN) | 2:12 |
 | 83 | [ripped jeans](https://open.spotify.com/track/229Nu0G3uLnijxO8d69NVA) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/4WQt08qyCGByVqqQXbPetC) | 2:02 |
 | 84 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/2wQoKMGGqhndLMjEgdnQi1) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Black Cat](https://open.spotify.com/album/2u0K1niKQ8thzgF22Y20tO) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDNhMmNmNzRjYWQ3N2E5Nzg3ZTNlZWM4ZDQ0NzQ1ZTNi`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDFkZjIxMjQxZDM5N2E3Y2I1ZjFiOTFiOTJjYWY2MTlk`

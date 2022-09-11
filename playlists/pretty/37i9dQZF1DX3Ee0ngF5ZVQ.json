@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Pat Green",
-  "num_followers": 384119,
+  "num_followers": 384160,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDE2YTUyODNjOTQ5ZWQxMzRmMjUwNzAyNjk4NWEzOGE4",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDQ1NDI4ZTY1ZDYxZDI0ZDMwOWI0OTg1NjlhNTM0YzUy",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 285525,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 174453,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 285525,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "If I Lived Here",
-      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "But Me",
         "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 235920,
       "name": "But Me",
       "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "If I Lived Here",
+      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Baby Do",
-        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 208392,
-      "name": "Baby Do",
-      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 224894,
       "name": "I Just Want You",
       "url": "https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Baby Do",
+        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 208392,
+      "name": "Baby Do",
+      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Cowboys Don't Cry",
-        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 189657,
-      "name": "Cowboys Don't Cry",
-      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Cowboys Don't Cry",
+        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 189657,
+      "name": "Cowboys Don't Cry",
+      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Nothing But Love Songs",
-        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Nothing But Love Songs",
-      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Nothing But Love Songs",
+        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Nothing But Love Songs",
+      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
-        "url": "https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
-      "url": "https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Washington Street (Classen Sessions)",
         "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
       },
@@ -1495,22 +1475,6 @@
       "duration_ms": 224841,
       "name": "Washington Street - Classen Sessions",
       "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "It Wasn\u2019t Love",
-        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
-      },
-      "artists": [
-        {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "It Wasn\u2019t Love",
-      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1531,6 +1495,42 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "It Wasn\u2019t Love",
+        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "It Wasn\u2019t Love",
+      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
+        "url": "https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
+      "url": "https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "God & Everybody",
         "url": "https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 174293,
       "name": "God & Everybody",
       "url": "https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Wishin' on an Airplane",
+        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 210241,
+      "name": "Wishin' on an Airplane",
+      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Cow Pissin'",
-        "url": "https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj"
-      },
-      "artists": [
-        {
-          "name": "Carson Jeffrey",
-          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
-        }
-      ],
-      "duration_ms": 217446,
-      "name": "Cow Pissin'",
-      "url": "https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Wishin' on an Airplane",
-        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
+        "name": "Cow Pissin'",
+        "url": "https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
         }
       ],
-      "duration_ms": 210241,
-      "name": "Wishin' on an Airplane",
-      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
+      "duration_ms": 217446,
+      "name": "Cow Pissin'",
+      "url": "https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv"
     },
     {
       "added_at": "2022-09-09 04:00:00",

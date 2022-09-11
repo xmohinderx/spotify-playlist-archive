@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo Maria Becerra.
 
-298 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+299 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-04-08 | 2022-05-20 |
 | [Hola Bebé](https://open.spotify.com/track/3zTFAxm7XvrKu9GVOKt6rR) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Hola Bebé](https://open.spotify.com/album/0NI0QTI4ML71nWzDsG0xgE) | 2:39 | 2021-12-24 | 2022-01-15 |
 | [Hooka](https://open.spotify.com/track/5YhEoEA8OdwNYiFIBPh6nt) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Casti](https://open.spotify.com/artist/2Dwsrv9EwfgB2tEFhUG7CA), [Bigcvyu](https://open.spotify.com/artist/5UP5ETcG5QZxs8t19cdrTv) | [Hooka](https://open.spotify.com/album/4dotvAmzUuJ8yugn71wz86) | 3:13 | 2022-01-14 | 2022-05-20 |
-| [Imaginandote](https://open.spotify.com/track/6yaA80oSrxdp2XlVDXqCMi) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Imaginandote](https://open.spotify.com/album/44ylExBWZV3u4tljy9myIs) | 2:49 | 2022-05-20 |  |
+| [Imaginandote](https://open.spotify.com/track/2aEQNAbxozvIwk4VI1tJ2n) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Imaginandote](https://open.spotify.com/album/4GbT0l1zZaTefvvcgrUAWd) | 2:49 | 2022-09-09 |  |
+| [Imaginandote](https://open.spotify.com/track/6yaA80oSrxdp2XlVDXqCMi) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Imaginandote](https://open.spotify.com/album/44ylExBWZV3u4tljy9myIs) | 2:49 | 2022-05-20 | 2022-09-11 |
 | [Imagínate](https://open.spotify.com/track/2ITaYPxmbJUaWfXKEcZH7v) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Imagínate](https://open.spotify.com/album/6mmtdtkMJRWNPBb9Q70q5G) | 2:58 | 2022-06-24 | 2022-07-06 |
 | [Instinto](https://open.spotify.com/track/7eQ1a5DgRxRnyrhNM7Kql5) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Instinto](https://open.spotify.com/album/5vHhyucp6G8yWLcfkQitzz) | 3:48 | 2021-12-24 | 2022-02-26 |
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-02-04 | 2022-08-27 |

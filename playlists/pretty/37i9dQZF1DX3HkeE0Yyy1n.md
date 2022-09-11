@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 110 | [Dead Dawn](https://open.spotify.com/track/3HGmJSchoOoNJGwa633dvo) | [Entombed A.D.](https://open.spotify.com/artist/3TK5LJPqg2AnBdrp9Xrzmu) | [Dead Dawn](https://open.spotify.com/album/1acOUGUy0bHZ6qQfmF8lQa) | 4:06 |
 | 111 | [Beast](https://open.spotify.com/track/3wr38SvvL6XhtKlJxW3yJC) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Beast](https://open.spotify.com/album/04YnxtpiWvceFTkDLMRkMj) | 3:14 |
 | 112 | [Earthbound](https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Earthbound](https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ) | 3:42 |
-| 113 | [Hating](https://open.spotify.com/track/215c3freFTapYWmi4qVtnh) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/5dfi3L9UmI9vaHBjNyfTb2) | 6:48 |
+| 113 | [Hating](https://open.spotify.com/track/0MUBj8GFI5RUxuIMGjtvTm) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/7a7MVyLYxQZWFAosFyvnyK) | 6:48 |
 | 114 | [Post Society](https://open.spotify.com/track/0qMjKyiSL3E3sMgC0Sejg6) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Post Society \- EP](https://open.spotify.com/album/6yWJIIByqDi5WQMEliN6Wi) | 6:16 |
 | 115 | [The Curse That Is](https://open.spotify.com/track/0ZV9oae6DxqnQwAYVKVv51) | [Graves at Sea](https://open.spotify.com/artist/5T1dDRWd0885FMI7BihUJM) | [The Curse That Is](https://open.spotify.com/album/2YBGGRg4G6vYKY2eftwd7G) | 11:14 |
 | 116 | [Akróasis](https://open.spotify.com/track/2d0Ub2MAJUX1jwcThuxXLM) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Akróasis](https://open.spotify.com/album/00UbYNcKS2BGljOkV49uHD) | 4:23 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 119 | [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 8:24 |
 | 120 | [Home](https://open.spotify.com/track/7i5SczfeKOLNQiZC2D12S4) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Home](https://open.spotify.com/album/6VNsUyt9tbVu7WlfZeZsXG) | 9:13 |
 
-Snapshot ID: `MTQ5ODY1MTI1NywwMDAwMDAwMDAyODczNDYwZDZjYjFlYmIyZjBiNjBmMjkwNDEzMmYz`
+Snapshot ID: `MTQ5ODY1MTI1NywwMDAwMDAwMDg0Y2RiY2Q3MjgwMjI5OWY1YTYxMGRiOGE3ZGJlYTAz`

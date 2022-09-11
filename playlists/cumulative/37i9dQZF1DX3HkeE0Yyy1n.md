@@ -4,7 +4,7 @@
 
 > Looking back at the greatest metal released in 2016.
 
-185 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/54thkZ5GCjZUXqi3m9Nh7k)
+186 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/54thkZ5GCjZUXqi3m9Nh7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Han Som Hatar Människan \- Remastered](https://open.spotify.com/track/1TtdHZ4KvN56LCt9evBUaL) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Redefining Darkness](https://open.spotify.com/album/72heCequbHTS0GfiskoxAR) | 6:49 | 2016-12-02 | 2022-07-29 |
 | [Han Som Hatar Människan \- Remastered](https://open.spotify.com/track/6HxZDD0ozOnuvjwZ8IKt2J) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Redefining Darkness](https://open.spotify.com/album/0sb7sYbWLRPR2Q7XQfK2BU) | 6:49 | 2022-07-29 |  |
 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 | 2016-12-02 |  |
-| [Hating](https://open.spotify.com/track/215c3freFTapYWmi4qVtnh) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/5dfi3L9UmI9vaHBjNyfTb2) | 6:48 | 2016-12-02 |  |
+| [Hating](https://open.spotify.com/track/0MUBj8GFI5RUxuIMGjtvTm) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/7a7MVyLYxQZWFAosFyvnyK) | 6:48 | 2022-09-11 |  |
+| [Hating](https://open.spotify.com/track/215c3freFTapYWmi4qVtnh) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/5dfi3L9UmI9vaHBjNyfTb2) | 6:48 | 2016-12-02 | 2022-09-11 |
 | [Hold Your Children Close and Pray for Oblivion](https://open.spotify.com/track/075jSmV95NQJxazrAEVda1) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [The Whole of the Law](https://open.spotify.com/album/42Hqedxo0WHJ2K2gZxI1zP) | 3:35 | 2016-12-02 |  |
 | [Home](https://open.spotify.com/track/7i5SczfeKOLNQiZC2D12S4) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Home](https://open.spotify.com/album/6VNsUyt9tbVu7WlfZeZsXG) | 9:13 | 2022-07-29 |  |
 | [Home](https://open.spotify.com/track/7zTOZF5EeB9rf8e1hYfxAy) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Home](https://open.spotify.com/album/5JNGeAZWSXLXpxzsQ1IsV5) | 9:13 | 2016-12-02 | 2022-07-29 |

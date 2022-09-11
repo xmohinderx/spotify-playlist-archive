@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2858,
+  "num_followers": 2860,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDkzMWU3MGQyZDZlZjFlMTQ0ZWM3OWNmMzA3YzIyMjUz",
+  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMGJiNzNmOGI4OGQyZDM1ZDIwYzk5NTJlOGEwNmNiYTM2",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Spring Is Gone by chance (2021)",
+        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Spring Is Gone by chance (2021)",
+      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "D_iary page.2",
         "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Spring Is Gone by chance (2021)",
-        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Spring Is Gone by chance (2021)",
-      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Weird Boy",
         "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 239880,
       "name": "blooming",
       "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "The Season Of You",
+      "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "If I (with Yun DDanDDan)",
         "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 229354,
       "name": "If I (with Yun DDanDDan)",
       "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "The Season Of You",
-      "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

@@ -4,7 +4,7 @@
 
 > These LGBTQQIA+ trailblazers knocked doors wide open with their music\. Cover: George Michael
 
-52 songs - 3 hr 22 min - not published yet
+52 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2dp2vSXIEM2u6t374SRNfO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

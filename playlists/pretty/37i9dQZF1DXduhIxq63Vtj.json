@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 11859,
+  "num_followers": 11909,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMGE2OGFlNWQzMTk4NGViZDQ4NGY2YzAzZWVlY2M5MTE5",
+  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMDFkMjc4NzA5ODc1OThhMTZiYWVkZTkzZTVmZWUzY2Ez",
   "tracks": [
     {
       "added_at": "2022-01-26 00:00:42",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 150952,
-      "name": "Botellitas",
-      "url": "https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
         "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 212573,
       "name": "M\u00e9xico Lindo Y Querido",
       "url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 150952,
+      "name": "Botellitas",
+      "url": "https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3"
     },
     {
       "added_at": "2022-01-26 00:00:42",

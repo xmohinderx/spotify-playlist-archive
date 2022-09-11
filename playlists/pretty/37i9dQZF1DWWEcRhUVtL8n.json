@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: The 1975",
-  "num_followers": 1695972,
+  "num_followers": 1695909,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc0MDc1OSwwMDAwMDAwMDczOTUwZjRiNWU2MWFhYzFkZDBlNGJjMWI4Y2ZlNjk4",
+  "snapshot_id": "MTY2Mjc0MDc1OSwwMDAwMDAwMGU3Njg0NTY1NWQxNTkzMmZjMDQ0OTYzOWI4OWM4MmNi",
   "tracks": [
     {
       "added_at": "2022-09-09 16:25:59",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 166137,
-      "name": "Romeo & Juliet",
-      "url": "https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "don\u2019t miss me",
         "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 123949,
       "name": "don't miss me",
       "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 166137,
+      "name": "Romeo & Juliet",
+      "url": "https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "The Yearbook",
-        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Dover Beach",
-      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 165254,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "The Yearbook",
+        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Dover Beach",
+      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "KEEP IT UP",
-        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
+        "name": "One More Weekend",
+        "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
+      "duration_ms": 142829,
+      "name": "One More Weekend",
+      "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -655,34 +655,18 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "One More Weekend",
-        "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
+        "name": "KEEP IT UP",
+        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
       "artists": [
         {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 142829,
-      "name": "One More Weekend",
-      "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -703,18 +687,34 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "In A Dream",
-        "url": "https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj"
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 226781,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3gzIK2dGSVvPBiohsTwEWZ"
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 176946,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
+      "duration_ms": 226781,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3gzIK2dGSVvPBiohsTwEWZ"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2e6NV4iI00YbGAtZl1el5v"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 251269,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2e6NV4iI00YbGAtZl1el5v"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 251269,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Catch Me In The Air",
-        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "Catch Me In The Air",
+        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/5GIgKmHgOWhwRXsRUPoiqV"
-      },
-      "artists": [
-        {
-          "name": "Neptune",
-          "url": "https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/5GIgKmHgOWhwRXsRUPoiqV"
+      },
+      "artists": [
+        {
+          "name": "Neptune",
+          "url": "https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f"
     },
     {
       "added_at": "2022-09-09 16:25:59",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-832 songs - 1 day 21 hr 11 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+833 songs - 1 day 21 hr 14 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-09-13 | 2021-11-28 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-07-28 | 2021-08-31 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2021-03-27\* | 2022-06-26 |
-| [DONCIC](https://open.spotify.com/track/6BPJaRJ1TDuTtBJfN4iufq) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:36 | 2022-08-27 |  |
+| [DONCIC](https://open.spotify.com/track/6BPJaRJ1TDuTtBJfN4iufq) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:36 | 2022-08-27 | 2022-09-11 |
 | [Donda](https://open.spotify.com/track/2TJ1FOCmCBkKm418MjVw5D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:08 | 2021-08-31 | 2021-09-03 |
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-01 |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-05-31 | 2022-06-04 |
@@ -448,7 +448,7 @@
 | [Með hækkandi sól](https://open.spotify.com/track/2J61KigpU07CFr5hwRPhQR) | [Systur](https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i) | [Söngvakeppnin 2022](https://open.spotify.com/album/1dSJBiRjlYzWKLpN6h3WWV) | 3:00 | 2022-05-17 | 2022-05-20 |
 | [Með hækkandi sól](https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K) | [Systur](https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i) | [Söngvakeppnin 2022](https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi) | 3:00 | 2022-05-12 | 2022-05-21 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-02-17 | 2022-08-26 |
-| [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-08 | 2022-08-28 |
+| [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-08 |  |
 | [Mirror](https://open.spotify.com/track/5LOiuvbH62YGtnwe6Ltt4T) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:16 | 2022-05-14 | 2022-05-16 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-22 |
 | [Miss You](https://open.spotify.com/track/4VgSGm7CroAlCCt9GKQ75Z) | [Jérémie Makiese](https://open.spotify.com/artist/6VCBinAerlvZxvXSHAFVuq) | [Miss You](https://open.spotify.com/album/65zDaQ8wTT3GptmsF98fXs) | 2:53 | 2022-05-14 | 2022-05-24 |
@@ -606,7 +606,7 @@
 | [Rockstarai](https://open.spotify.com/track/1HBVbK5I2u0ZenTQfR8ikY) | [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Rockstarai](https://open.spotify.com/album/3eG60ZtevSxP4suerADKDu) | 2:18 | 2022-02-04 | 2022-02-09 |
 | [Rockstars](https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Anonymous Colonist \(Rockstars Edition\)](https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2) | 2:59 | 2022-05-16 | 2022-05-22 |
 | [Rojaus Obuoliukai](https://open.spotify.com/track/7J5J0RjBq1rz9vV2iBqDqd) | [Zoliukas](https://open.spotify.com/artist/5UMBDbfFBWCn8pNXjuJFco), [Saules Berniukas](https://open.spotify.com/artist/2BjNbf0PD04vy1UohantXO) | [Rojaus Obuoliukai](https://open.spotify.com/album/38k7fvht8IiZg8U86hZjWJ) | 3:31 | 2022-04-11 | 2022-06-17 |
-| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-09 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-09 | 2022-09-11 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2021-03-27\* | 2021-05-18 |
 | [ROY](https://open.spotify.com/track/6LNh8bS8eDpNw5SKxTDFEJ) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:52 | 2022-08-27 | 2022-09-05 |
 | [Rugpjūtis](https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Rugpjūtis](https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO) | 2:42 | 2021-07-11 |  |
@@ -708,6 +708,7 @@
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-01-09 | 2022-01-15 |
+| [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-10 |  |
 | [Tarp Amžinybės](https://open.spotify.com/track/2o3vkzNw1PQsnjZOoXwgm0) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Tarp Amžinybės](https://open.spotify.com/album/3OfeO8Wre3RefYK00ZYq8X) | 3:54 | 2021-11-17 | 2021-11-22 |
 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 | 2022-02-11 | 2022-04-20 |
 | [Taunt](https://open.spotify.com/track/0r3QJbwBuR9UL0ai5qDTw7) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:13 | 2021-05-13 | 2021-05-16 |

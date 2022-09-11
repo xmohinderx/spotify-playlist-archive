@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55158,
+  "num_followers": 55161,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGVjODg0YWY2YmMzMDVkNTgzNmU5NDE1OThjYzQ2M2Jl",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGI3N2UyODc3NDUwMWRlNGI5NTk1Y2E0OTc3ZDg4Y2M3",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -995,30 +995,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Swipe Up",
-        "url": "https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ"
-      },
-      "artists": [
-        {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
-        },
-        {
-          "name": "Alan Marcos",
-          "url": "https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t"
-        },
-        {
-          "name": "Super Kai",
-          "url": "https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Swipe Up",
-      "url": "https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Loquera",
         "url": "https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 194805,
       "name": "Loquera",
       "url": "https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Swipe Up",
+        "url": "https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Alan Marcos",
+          "url": "https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t"
+        },
+        {
+          "name": "Super Kai",
+          "url": "https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Swipe Up",
+      "url": "https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD"
     },
     {
       "added_at": "2022-08-26 04:02:00",

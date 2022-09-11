@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Blind Channel",
-  "num_followers": 650359,
+  "num_followers": 650467,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
@@ -316,16 +316,16 @@
       },
       "artists": [
         {
-          "name": "Famous Last Words",
-          "url": "https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw"
-        },
-        {
           "name": "Stain the Canvas",
           "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
         },
         {
           "name": "Outline In Color",
           "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
+        },
+        {
+          "name": "Famous Last Words",
+          "url": "https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw"
         }
       ],
       "duration_ms": 207997,

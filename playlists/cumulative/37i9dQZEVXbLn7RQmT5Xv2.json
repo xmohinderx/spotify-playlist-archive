@@ -576,6 +576,24 @@
     },
     {
       "album": {
+        "name": "ANA DEAL",
+        "url": "https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195642,
+      "name": "ANA DEAL",
+      "url": "https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD"
+    },
+    {
+      "album": {
         "name": "Cigara",
         "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
       },
@@ -587,7 +605,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 267610,
       "name": "Ana Ghaltan",
       "url": "https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7"
@@ -4707,7 +4725,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 163200,
       "name": "Matkhafesh Yamma",
       "url": "https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh"
@@ -8197,6 +8215,24 @@
       "duration_ms": 178134,
       "name": "\u062b\u0631\u062b\u0631\u0629",
       "url": "https://open.spotify.com/track/1PN1vuSWAW9mlIZSgFrQ7y"
+    },
+    {
+      "album": {
+        "name": "\u062c\u0648\u0628",
+        "url": "https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250540,
+      "name": "\u062c\u0648\u0628",
+      "url": "https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ"
     },
     {
       "album": {

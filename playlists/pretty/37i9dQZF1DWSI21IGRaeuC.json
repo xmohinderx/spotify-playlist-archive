@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 6971,
+  "num_followers": 7042,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDcxMWY3NDM0ZmRkMmVhYTFlYTY3MDBkMjY3ZWRjNjZh",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDNmZDI0Yjg3ZjBjM2U5MGRkZjFhNjk2ZWNmNGExNTg0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj"
-      },
-      "artists": [
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 317850,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "So Hot EP",
@@ -777,20 +761,20 @@
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Crayzee",
-        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
         }
       ],
-      "duration_ms": 173907,
-      "name": "Crayzee",
-      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
+      "duration_ms": 317850,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 243809,
       "name": "All I Want - Original Mix",
       "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Crayzee",
+        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 173907,
+      "name": "Crayzee",
+      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
+    },
+    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Hydroponic EP",
@@ -875,22 +891,6 @@
       "duration_ms": 321818,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Ramona",
-        "url": "https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 423837,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN"
     }
   ],
   "unique_name": "Minimal Tech",

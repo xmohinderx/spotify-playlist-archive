@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-77 songs - 6 hr 27 min - not published yet
+78 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bill's Groove](https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV) | [ROMÁN](https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [ROMÁN](https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq) | 4:51 | 2022-08-12 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:13 | 2022-08-12 |  |
 | [Brilliant Corners](https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Brilliant Corners](https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4) | 1:44 | 2022-08-12 |  |
+| [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 | 2022-09-09 |  |
 | [Bésame Mucho](https://open.spotify.com/track/5mP6m2m775f2VYYLddc6qa) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [GRABACIONES RECUPERADAS](https://open.spotify.com/album/3u0TegUGeLCo0VtxNBUeJ4) | 2:12 | 2022-08-12 |  |
 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 | 2022-08-12 |  |
 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 | 2022-08-12 |  |
@@ -47,7 +48,7 @@
 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 | 2022-08-12 |  |
 | [In a Middle Tone](https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu) | [Enrique "Mono" Villegas](https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6) | [Grabaciones Inéditas Vol\. 1](https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA) | 4:14 | 2022-08-12 |  |
 | [Infinite Universe](https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP), [Santiago Deluca](https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ) | [Infinite Universe](https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ) | 4:40 | 2022-08-12 |  |
-| [Juventud](https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [Manto de Carne](https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH) | 5:14 | 2022-09-09 |  |
+| [Juventud](https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [Manto de Carne](https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH) | 5:14 | 2022-09-09 | 2022-09-11 |
 | [Kua Nalu](https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 7:16 | 2022-08-12 |  |
 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 | 2022-08-12 |  |
 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 | 2022-08-12 |  |

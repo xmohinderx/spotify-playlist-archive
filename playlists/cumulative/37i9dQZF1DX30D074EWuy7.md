@@ -4,7 +4,7 @@
 
 > Il meglio del Jazz Italiano, in una selezione speciale a cura di <a href="spotify:artist:70S7xGDXv69V2vUv3z1PeT">Joe Barbieri</a>
 
-50 songs - 3 hr 26 min - not published yet
+50 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

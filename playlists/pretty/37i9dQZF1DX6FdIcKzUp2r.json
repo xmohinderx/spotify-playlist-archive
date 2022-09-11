@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 183215,
+  "num_followers": 183303,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDQ4YTZjYzMxYWVmMWQ5ODUzYWFlNDgxNWRjNDIwNzVl",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDdiN2MyNzBmZjc2MzJiYjYxM2UwNTRhYzQ4ODgxZmQ1",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -191,22 +191,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 333306,
-      "name": "Save a Prayer - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 256839,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 333306,
+      "name": "Save a Prayer - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -831,22 +831,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 237866,
       "name": "A Different Corner",
       "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -959,6 +959,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 103773,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Let It Loose",
         "url": "https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 235760,
       "name": "Can't Stay Away from You",
       "url": "https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 103773,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM"
     },
     {
       "added_at": "2018-12-12 11:36:39",

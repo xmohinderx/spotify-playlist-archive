@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-233 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/4bsxWx6vxgvD3SfZNEt9WD)
+234 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/4bsxWx6vxgvD3SfZNEt9WD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 | 2021-10-31 |  |
 | [Friend Of Sinners](https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Friend Of Sinners](https://open.spotify.com/album/2X2zfQA7I9MI3KrU5yeZ2k) | 3:22 | 2021-10-31 | 2022-07-29 |
 | [Glorify](https://open.spotify.com/track/5Sd0FZOU2IrxmY6CHbK4oF) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Glorify](https://open.spotify.com/album/5uhFFE1MswWC568NaPkGR5) | 2:57 | 2021-10-31 | 2022-07-26 |
-| [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 | 2021-10-31 |  |
+| [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 | 2021-10-31 | 2022-09-11 |
 | [God Help](https://open.spotify.com/track/676lRGOndFzVhAnz6wbFqh) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [God Help](https://open.spotify.com/album/3YbTsoSlScWE8OuPePBaF1) | 3:01 | 2021-10-31 | 2022-07-26 |
 | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0) | 3:35 | 2021-10-31 |  |
 | [Golden](https://open.spotify.com/track/7MRWXpI22LKFKFK08yxwSD) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Mixtape: Side A](https://open.spotify.com/album/50guywYSFP8FOVD8mQZ48k) | 2:52 | 2021-10-31 | 2022-07-29 |
@@ -178,6 +178,7 @@
 | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD) | 4:00 | 2021-10-31 | 2022-07-29 |
 | [Rising](https://open.spotify.com/track/5oXoqGzj7DGhnndybIZUs6) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:27 | 2021-10-31 | 2022-07-23 |
 | [Roses](https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Roses](https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF) | 3:11 | 2021-10-31 |  |
+| [Royal Blood](https://open.spotify.com/track/6UMtVYclu7bfEmGUJNQoqi) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [RICHLIN](https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v) | 3:40 | 2021-10-31 |  |
 | [Royal Blood](https://open.spotify.com/track/7hlK7UryZiZB0JWwFnY47T) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Royal Blood](https://open.spotify.com/album/1MfYSNGqQJtNarEdLjUxin) | 3:40 | 2021-10-31 | 2022-07-21 |
 | [Same Stars](https://open.spotify.com/track/2ySfhhjJ7e59YOqJOCYOM7) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [Same Stars](https://open.spotify.com/album/7N0Jsh5uirHbaBqnf2Vc4k) | 2:40 | 2021-10-31 | 2022-07-20 |
 | [Sanctuary \- Harrison McQuade Remix](https://open.spotify.com/track/0yXUIcnTLiTla7fcGzIL8x) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7), [Harrison McQuade](https://open.spotify.com/artist/5Djo5pTCslKfgJdHzg1mvn) | [Abby Robertson \(Remixes\)](https://open.spotify.com/album/47hwdXawUbcLjXbFVTfIrP) | 2:40 | 2021-10-31 |  |

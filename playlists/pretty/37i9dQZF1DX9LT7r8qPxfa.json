@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 242782,
+  "num_followers": 242820,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDU1MGQ3YmFkMzlmOTNkOTU4ZTExOWEwOTMxNzg3ZmMw",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGU4ZmY4ZGVkZDA3OTgyOGQwYjQxMTZiMjA5ZjYyODY0",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "New Conditions",
         "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 187185,
       "name": "The Impossible Task of Feeling Complete",
       "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/0EIjCvMJeFZC8aysCilaFg"
     },
     {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "I Don't Want To Let You Down b/w All Over Again",
+        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "I Don't Want to Let You Down",
+      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
+    },
+    {
       "added_at": "2021-11-18 20:35:24",
       "album": {
         "name": "Animal",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "I Don't Want To Let You Down b/w All Over Again",
-        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
+        "name": "Montibello Memories",
+        "url": "https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Matrimony",
+          "url": "https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q"
         }
       ],
-      "duration_ms": 242893,
-      "name": "I Don't Want to Let You Down",
-      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
+      "duration_ms": 231413,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Montibello Memories",
-        "url": "https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3"
+        "name": "Lincoln, Nebraska",
+        "url": "https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH"
       },
       "artists": [
         {
-          "name": "Matrimony",
-          "url": "https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q"
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
         }
       ],
-      "duration_ms": 231413,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
+      "duration_ms": 143674,
+      "name": "Lincoln, Nebraska",
+      "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 267148,
       "name": "Moment Feed",
       "url": "https://open.spotify.com/track/6JsUqtsVNboWCl8fWZMX1o"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Lincoln, Nebraska",
-        "url": "https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 143674,
-      "name": "Lincoln, Nebraska",
-      "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Meet Me on the Edge of Our Ruin",
         "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 304773,
       "name": "I'm Too Smart",
       "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5KGs3rzqvjS1H7LwPvZD6c"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 252291,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1oAeR6SrUeAMrIM0CD3EdD"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 284951,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5KGs3rzqvjS1H7LwPvZD6c"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 252291,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1oAeR6SrUeAMrIM0CD3EdD"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Vampire Weeknight",
-        "url": "https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV"
-      },
-      "artists": [
-        {
-          "name": "Jenny Owen Youngs",
-          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Vampire Weeknight",
-      "url": "https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Silver Tongue",
         "url": "https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Full Grown",
-        "url": "https://open.spotify.com/album/4yvF29Mp5z0VHqxxDOtq9T"
+        "name": "Vampire Weeknight",
+        "url": "https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV"
       },
       "artists": [
         {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
         }
       ],
-      "duration_ms": 229513,
-      "name": "Drunk Dreams",
-      "url": "https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9"
+      "duration_ms": 204973,
+      "name": "Vampire Weeknight",
+      "url": "https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 190946,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Full Grown",
+        "url": "https://open.spotify.com/album/4yvF29Mp5z0VHqxxDOtq9T"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 229513,
+      "name": "Drunk Dreams",
+      "url": "https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9"
     },
     {
       "added_at": "2021-11-12 05:00:00",

@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-118 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+119 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,8 +121,9 @@
 | [We Danced](https://open.spotify.com/track/4HHtqzri9jrmAGFyucxkLG) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:45 | 2021-12-03 |  |
 | [Wet Dream](https://open.spotify.com/track/6y6lk4rc1xsuBYWJwB8QYv) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Wet Dream](https://open.spotify.com/album/4pWVl2KvovZgRWvMcOpRC9) | 3:10 | 2021-12-03 |  |
 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 | 2021-12-03 | 2022-07-16 |
-| [Wish You'd Miss Me](https://open.spotify.com/track/01CDpoz4YozPMx7X6R7eYn) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:21 | 2022-07-25 |  |
+| [Wish You'd Miss Me](https://open.spotify.com/track/01CDpoz4YozPMx7X6R7eYn) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:21 | 2022-07-25 | 2022-09-11 |
 | [Wish You'd Miss Me](https://open.spotify.com/track/6bg3oASoWVKvtOSGnixIwh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Wish You'd Miss Me](https://open.spotify.com/album/7jMROrwdWbvVjmrOrk4rdv) | 3:21 | 2021-12-03 | 2022-07-29 |
+| [Wish You'd Miss Me](https://open.spotify.com/track/2613r4NIlGRo18Ep9UWgab) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:22 | 2022-09-09 |  |
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-12-03 |  |
 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 | 2022-07-25 |  |
 | [Your Man](https://open.spotify.com/track/38puMH41SYytv1i38GWEM0) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5dwwsU4v2sFbnPn0UR835g) | 3:31 | 2021-12-03 | 2022-07-29 |

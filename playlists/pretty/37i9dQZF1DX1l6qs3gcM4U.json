@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.",
-  "num_followers": 139039,
+  "num_followers": 139128,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDZiYTRjYmFiNGJhNzM3N2U5YTc4M2QyNzAwODhkMzU2",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGI5ZjYzMjg4ODMyN2IyYWZhYmIyZjNlNjYwOWJmMGI5",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 192641,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
+        "name": "Jeito Dela",
+        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
       },
       "artists": [
         {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         }
       ],
-      "duration_ms": 195493,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
+      "duration_ms": 208000,
+      "name": "Jeito Dela",
+      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Jeito Dela",
-        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
+        "name": "You",
+        "url": "https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Jeito Dela",
-      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
+      "duration_ms": 195493,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Beijam",
-        "url": "https://open.spotify.com/album/4VK90Rvs5zStsJW6cMiOpX"
+        "name": "Zolana",
+        "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
       },
       "artists": [
         {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         }
       ],
-      "duration_ms": 230452,
-      "name": "Beijam",
-      "url": "https://open.spotify.com/track/2ubsUZQRhYWFEpHikHfwom"
+      "duration_ms": 234971,
+      "name": "Kuyuyu",
+      "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Zolana",
-        "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
+        "name": "Beijam",
+        "url": "https://open.spotify.com/album/4VK90Rvs5zStsJW6cMiOpX"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 234971,
-      "name": "Kuyuyu",
-      "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
+      "duration_ms": 230452,
+      "name": "Beijam",
+      "url": "https://open.spotify.com/track/2ubsUZQRhYWFEpHikHfwom"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Fala so",
+        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
+      },
+      "artists": [
+        {
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        }
+      ],
+      "duration_ms": 206086,
+      "name": "Fala so",
+      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/430jQV4UrweqvoV5osODxI"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 190531,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/5JSaK3zQTNv1L7PvpvelbE"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Fala so",
-        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Fala so",
-      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Quarentena",
-        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Quarentena",
-      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Ka Ta Importa",
         "url": "https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ"
       },
@@ -1439,46 +1423,58 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Preparado",
-        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
+        "name": "Quarentena",
+        "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
       },
       "artists": [
         {
-          "name": "Rapaz 100 Juiz",
-          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
-        },
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Klasszik",
-          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 279299,
-      "name": "Preparado",
-      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
+      "duration_ms": 218666,
+      "name": "Quarentena",
+      "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
     },
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Acerta",
-        "url": "https://open.spotify.com/album/01XtjVLIMkMasJ6OJLYiSn"
+        "name": "Siguim",
+        "url": "https://open.spotify.com/album/1b5znILgCUFYB4xxJWRKTZ"
       },
       "artists": [
         {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
         },
         {
           "name": "Mika Mendes",
           "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         }
       ],
-      "duration_ms": 235244,
-      "name": "Acerta",
-      "url": "https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb"
+      "duration_ms": 184093,
+      "name": "Siguim",
+      "url": "https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Don't Judge Me (Saxo-Kizomba)",
+        "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
+      },
+      "artists": [
+        {
+          "name": "P. Lowe",
+          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
+        },
+        {
+          "name": "M&n Pro",
+          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Don't Judge Me (Saxo-Kizomba)",
+      "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
     }
   ],
   "unique_name": "Dancing Kizomba",

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1931269,
+  "num_followers": 1931345,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTg1MjY2OCwwMDAwMDAwMDMwYmZkODc4YTY5NjRmZGVhMDQxN2ZkYzBjNmI3N2Yz",
+  "snapshot_id": "MTY1NTg1MjY2OCwwMDAwMDAwMDE2OTgyMzQ3MTg0YmRmOWUwYmUzN2NmYmNjNmFjZDVj",
   "tracks": [
     {
       "added_at": "2022-06-21 23:04:28",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Passing Through",
-        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "Nightjar and the Nightingale",
         "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 195453,
       "name": "I Just Love You",
       "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Passing Through",
+        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 215269,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Wildewoman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+        "name": "Wildewoman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1015,6 +999,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "A Blaze of Feather",
-        "url": "https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H"
-      },
-      "artists": [
-        {
-          "name": "A Blaze of Feather",
-          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
-        }
-      ],
-      "duration_ms": 282146,
-      "name": "Six Years",
-      "url": "https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "A Blaze of Feather",
+        "url": "https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H"
+      },
+      "artists": [
+        {
+          "name": "A Blaze of Feather",
+          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
+        }
+      ],
+      "duration_ms": 282146,
+      "name": "Six Years",
+      "url": "https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "Holy Smokes Future Jokes",
-        "url": "https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 213525,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "Holy Smokes Future Jokes",
+        "url": "https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 213525,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96"
     },
     {
       "added_at": "2022-06-21 23:04:28",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-06-21 23:04:28",
       "album": {
-        "name": "In The Wind",
-        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
-      },
-      "artists": [
-        {
-          "name": "MAGIC GIANT",
-          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
-    },
-    {
-      "added_at": "2022-06-21 23:04:28",
-      "album": {
         "name": "Mountain To Move",
         "url": "https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 236280,
       "name": "Mountain To Move",
       "url": "https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym"
+    },
+    {
+      "added_at": "2022-06-21 23:04:28",
+      "album": {
+        "name": "In The Wind",
+        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
+      },
+      "artists": [
+        {
+          "name": "MAGIC GIANT",
+          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
     },
     {
       "added_at": "2022-06-21 23:04:28",

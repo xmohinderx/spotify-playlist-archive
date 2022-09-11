@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-188 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+189 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Melting Point](https://open.spotify.com/track/44VtzjjjBww4Rd9ypV8mNl) | [NiiHWA](https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q) | [Melting Point](https://open.spotify.com/album/56YYIj6lRUN1DAzOIKm9Sg) | 3:41 | 2022-06-20 | 2022-07-21 |
 | [Mermaid](https://open.spotify.com/track/2HpiCVq8cCc0T2YFf4nMiR) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Mermaid](https://open.spotify.com/album/0G7mGBC8pHJoEAYqy5o1Uy) | 3:00 | 2022-05-11 | 2022-07-28 |
 | [Miracle \(feat\. Nieah & sonza\) \(with TREASURE MAKER\)](https://open.spotify.com/track/4Fqy6hVJNzAH1FFl0HSQ3w) | [PEAXE MARKET](https://open.spotify.com/artist/1i7On8URmBgs8EPqgrhRae), [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw), [sonza](https://open.spotify.com/artist/69EFGR8J04D07wCif8lGyy), [TREASURE MAKER](https://open.spotify.com/artist/2TIwj5HPW3tKdefZMlsXWX) | [Miracle](https://open.spotify.com/album/6hblDcscw3QMHXdAYtCqlp) | 2:12 | 2022-07-08 | 2022-07-19 |
+| [monochrome](https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [monochrome](https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx) | 4:21 | 2022-09-05 |  |
 | [mooindo drift](https://open.spotify.com/track/6SDELeMG3kX00rO61PIAP6) | [yewee](https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD) | [Bye Summer!](https://open.spotify.com/album/36RrBlXZvntyXzOhTmsEH5) | 3:56 | 2022-07-08 | 2022-07-29 |
 | [Moon](https://open.spotify.com/track/4mAoZbcfX3Xmkpgaj1sWRi) | [Yoo Ha Jung](https://open.spotify.com/artist/0BIiGIK7FmXQSqA1k5sQv0) | [Moon](https://open.spotify.com/album/02Vp1sVsV7r97Z6H8XRYzg) | 3:32 | 2022-05-11 | 2022-07-14 |
 | [Moonlight](https://open.spotify.com/track/4eZ9loHPbWoqloowcIjpmn) | [CHAHN](https://open.spotify.com/artist/68THMb8TxW3Z4c4xN4Ne1g), [Jiwoo](https://open.spotify.com/artist/0G43e5mxF38JfyJKwlxXQu) | [002.LONDON CAFE](https://open.spotify.com/album/4i4FhEW6tXsXg9qH18gATU) | 3:05 | 2022-05-11 | 2022-07-27 |
@@ -167,7 +168,7 @@
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2022-05-11 |  |
 | [Time \(Feat\. EunBii\) \(Prod\. Truman\)](https://open.spotify.com/track/1rnldoTHejIYzvMRtwbNJQ) | [Baeksik](https://open.spotify.com/artist/6ZBi6tKlLbqzIQJinKMKWz), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [Time Paradox](https://open.spotify.com/album/6bMNvyEefv9zRFQnfoG8Ba) | 3:27 | 2022-05-11 | 2022-07-26 |
 | [Time does not wait for us](https://open.spotify.com/track/4JflsE7yI1tJNJNKPIJQPI) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [In Mood for Love](https://open.spotify.com/album/7woVM2fDLB3cXrUmwK2mxs) | 3:36 | 2022-05-11 | 2022-07-26 |
-| [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 | 2022-06-09 |  |
+| [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 | 2022-06-09 | 2022-09-11 |
 | [Today's Weather](https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh) | [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [Happy Birthday](https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg) | 3:06 | 2022-06-18 |  |
 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 | 2022-07-04 |  |
 | [TUXEDO \(feat\. UNE\)](https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN) | [Z.flat](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [INHALE](https://open.spotify.com/album/2x9HxolZ62HxwI0R4wcEPO) | 3:14 | 2022-08-08 | 2022-08-13 |

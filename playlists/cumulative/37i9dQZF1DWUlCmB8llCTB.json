@@ -2507,6 +2507,28 @@
     {
       "album": {
         "name": "Imaginandote",
+        "url": "https://open.spotify.com/album/4GbT0l1zZaTefvvcgrUAWd"
+      },
+      "artists": [
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169593,
+      "name": "Imaginandote",
+      "url": "https://open.spotify.com/track/2aEQNAbxozvIwk4VI1tJ2n"
+    },
+    {
+      "album": {
+        "name": "Imaginandote",
         "url": "https://open.spotify.com/album/44ylExBWZV3u4tljy9myIs"
       },
       "artists": [
@@ -2521,7 +2543,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 169594,
       "name": "Imaginandote",
       "url": "https://open.spotify.com/track/6yaA80oSrxdp2XlVDXqCMi"

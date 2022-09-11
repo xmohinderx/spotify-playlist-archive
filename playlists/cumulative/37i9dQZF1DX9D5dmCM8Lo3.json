@@ -1288,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Sewer//Slvt",
+        "url": "https://open.spotify.com/album/1b1tJ7nzqwsCyhtHDGBTHw"
+      },
+      "artists": [
+        {
+          "name": "shya",
+          "url": "https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Pretty Cvnt",
+      "url": "https://open.spotify.com/track/2zFfwBk2frngZUVajhkbxf"
+    },
+    {
+      "album": {
         "name": "Pretty Cvnt",
         "url": "https://open.spotify.com/album/52mqwizCJozEgmbGDHMcLN"
       },
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 116363,
       "name": "RED ALERT",
       "url": "https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO"

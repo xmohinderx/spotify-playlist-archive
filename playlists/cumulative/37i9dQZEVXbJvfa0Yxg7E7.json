@@ -4544,6 +4544,24 @@
     },
     {
       "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "album": {
         "name": "Fredag",
         "url": "https://open.spotify.com/album/1Hi58wDcsQI43LASiism0P"
       },
@@ -7590,6 +7608,24 @@
     },
     {
       "album": {
+        "name": "Jeg Vet",
+        "url": "https://open.spotify.com/album/3Fbi38kvaPDc9aLS6uk4KB"
+      },
+      "artists": [
+        {
+          "name": "Aiba",
+          "url": "https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174892,
+      "name": "Jeg Vet",
+      "url": "https://open.spotify.com/track/0PQ5HL531iUYr10fnfRnAm"
+    },
+    {
+      "album": {
         "name": "Jente i Oslo",
         "url": "https://open.spotify.com/album/59Hwuvf6mtaILTwkxWbOyI"
       },
@@ -9591,7 +9627,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 184294,
       "name": "Million Dollar Baby",
       "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
@@ -12103,7 +12139,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 232363,
       "name": "SALMALAKS",
       "url": "https://open.spotify.com/track/77CbBhyQwjWgF5EWT76cPY"
@@ -13031,7 +13067,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 201346,
       "name": "Spis din syvende sans",
       "url": "https://open.spotify.com/track/2wklUkI6nr4uurf5w0AyPz"
@@ -13815,10 +13851,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 97021,
       "name": "Tenerife Tapes",
       "url": "https://open.spotify.com/track/1w0rQ13DQRjFLG3Y06skMK"
+    },
+    {
+      "album": {
+        "name": "Tenerife Tapes",
+        "url": "https://open.spotify.com/album/3HIlENmXwDDFfmdV1WG407"
+      },
+      "artists": [
+        {
+          "name": "Rike Venner",
+          "url": "https://open.spotify.com/artist/7r0CzlT427mU4iMq7i4Yz6"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97021,
+      "name": "Tenerife Tapes",
+      "url": "https://open.spotify.com/track/60deDJnxH7G68DwxfbN9aQ"
     },
     {
       "album": {
@@ -15041,6 +15095,32 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU (with Miley Cyrus)",
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
+    },
+    {
+      "album": {
+        "name": "Woke Up in Love",
+        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216873,
+      "name": "Woke Up in Love",
+      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
       "album": {

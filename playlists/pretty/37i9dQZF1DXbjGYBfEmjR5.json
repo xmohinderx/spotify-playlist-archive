@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 231968,
+  "num_followers": 232168,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGE1MTg2N2RlMDU5ZjlkYjk4ZTQ2OWQxOGJlMmFlODkw",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDliMmU2Y2Q3ZGE5ZDc4MzU4YzMzNzlkYzBhNjc2N2Yw",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Blatant Plagiarism",
-        "url": "https://open.spotify.com/album/4LYyTXz9KS5JKPUrVwJu4Z"
-      },
-      "artists": [
-        {
-          "name": "GHOST DATA",
-          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
-        }
-      ],
-      "duration_ms": 150556,
-      "name": "Mahou Shoujo",
-      "url": "https://open.spotify.com/track/25vXNY65xE8PvovUp4thi8"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Take Care of Yourself",
         "url": "https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 234240,
       "name": "It's Good to See You Again!!",
       "url": "https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Blatant Plagiarism",
+        "url": "https://open.spotify.com/album/4LYyTXz9KS5JKPUrVwJu4Z"
+      },
+      "artists": [
+        {
+          "name": "GHOST DATA",
+          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
+        }
+      ],
+      "duration_ms": 150556,
+      "name": "Mahou Shoujo",
+      "url": "https://open.spotify.com/track/25vXNY65xE8PvovUp4thi8"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Got My Love",
-        "url": "https://open.spotify.com/album/1ehksrQiTVchmb9onU1uQn"
-      },
-      "artists": [
-        {
-          "name": "Uni Deluxe",
-          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
-        }
-      ],
-      "duration_ms": 167223,
-      "name": "Got My Love",
-      "url": "https://open.spotify.com/track/4JbXk7EraSu9HxAs9AxT4S"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "love u!!",
         "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 150004,
       "name": "love u!!",
       "url": "https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Got My Love",
+        "url": "https://open.spotify.com/album/1ehksrQiTVchmb9onU1uQn"
+      },
+      "artists": [
+        {
+          "name": "Uni Deluxe",
+          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
+        }
+      ],
+      "duration_ms": 167223,
+      "name": "Got My Love",
+      "url": "https://open.spotify.com/track/4JbXk7EraSu9HxAs9AxT4S"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
-      },
-      "artists": [
-        {
-          "name": "Uni Deluxe",
-          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
-        }
-      ],
-      "duration_ms": 248447,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "First Season",
         "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
       },
@@ -1263,22 +1247,34 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Get Up, Get Out",
-        "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
       },
       "artists": [
         {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
-        },
-        {
-          "name": "Dylan C. Greene",
-          "url": "https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4"
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
         }
       ],
-      "duration_ms": 202577,
-      "name": "Get Up, Get Out",
-      "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
+      },
+      "artists": [
+        {
+          "name": "Uni Deluxe",
+          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
+        }
+      ],
+      "duration_ms": 248447,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+        "name": "Get Up, Get Out",
+        "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
       "artists": [
         {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        },
+        {
+          "name": "Dylan C. Greene",
+          "url": "https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+      "duration_ms": 202577,
+      "name": "Get Up, Get Out",
+      "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Mental Geller",
-        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
       "artists": [
         {
-          "name": "The Phantom's Revenge",
-          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
         }
       ],
-      "duration_ms": 348750,
-      "name": "DJ BFF Slideshow",
-      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Mental Geller",
+        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+      },
+      "artists": [
+        {
+          "name": "The Phantom's Revenge",
+          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "DJ BFF Slideshow",
+      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 173421,
       "name": "Palm Road",
       "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
-      },
-      "artists": [
-        {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 171000,
       "name": "Querelle",
       "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Montaime, Vol. 1",
-        "url": "https://open.spotify.com/album/4GicNIw4wPNv9rxqf9cvHN"
-      },
-      "artists": [
-        {
-          "name": "Bazz",
-          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
-        }
-      ],
-      "duration_ms": 369500,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/5aRFAxPWHQRYMNVDFciuP2"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "B4E",
         "url": "https://open.spotify.com/album/6X6BP547q2EhoEsDVbwMt6"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 172443,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/2SQqNZF6ofMYk18VTu6vXt"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Montaime, Vol. 1",
+        "url": "https://open.spotify.com/album/4GicNIw4wPNv9rxqf9cvHN"
+      },
+      "artists": [
+        {
+          "name": "Bazz",
+          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+        }
+      ],
+      "duration_ms": 369500,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/5aRFAxPWHQRYMNVDFciuP2"
     },
     {
       "added_at": "2022-08-12 04:01:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2MjI0MywwMDAwMDAwMDcwM2E3YmU5NzEyNjhjMGRkOTA4Y2M4NThhZTdlODI0",
+  "snapshot_id": "MTY2MjA2MjI0MywwMDAwMDAwMGQ0MTRhZmRlYjBmNTE0NTlhYmUzZGVhY2E3ZTU5MzNj",
   "tracks": [
     {
       "added_at": "2022-06-22 18:13:21",
@@ -272,6 +272,22 @@
       "added_at": "2022-06-22 18:13:21",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 293709,
+      "name": "Made to Fall in Love",
+      "url": "https://open.spotify.com/track/44MHQm2WIvsAXg14WKpCQp"
+    },
+    {
+      "added_at": "2022-06-22 18:13:21",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
       "artists": [
@@ -287,22 +303,6 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
-    },
-    {
-      "added_at": "2022-06-22 18:13:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 293709,
-      "name": "Made to Fall in Love",
-      "url": "https://open.spotify.com/track/44MHQm2WIvsAXg14WKpCQp"
     },
     {
       "added_at": "2022-06-22 18:13:21",
@@ -516,6 +516,22 @@
       "added_at": "2022-06-22 18:13:21",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 146726,
+      "name": "I'll Call You Mine - Spotify Singles",
+      "url": "https://open.spotify.com/track/4xAozCywkOU2rkKn0lmZJv"
+    },
+    {
+      "added_at": "2022-06-22 18:13:21",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -531,22 +547,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-06-22 18:13:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 146726,
-      "name": "I'll Call You Mine - Spotify Singles",
-      "url": "https://open.spotify.com/track/4xAozCywkOU2rkKn0lmZJv"
     },
     {
       "added_at": "2022-06-22 18:13:21",
@@ -620,6 +620,22 @@
       "added_at": "2022-06-22 18:13:21",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
+    },
+    {
+      "added_at": "2022-06-22 18:13:21",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
       "artists": [
@@ -635,22 +651,6 @@
       "duration_ms": 291447,
       "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
       "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
-    },
-    {
-      "added_at": "2022-06-22 18:13:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
     },
     {
       "added_at": "2022-06-22 18:13:21",
@@ -1928,22 +1928,6 @@
       "added_at": "2022-06-22 18:13:21",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 158501,
-      "name": "Unforgettable - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
-    },
-    {
-      "added_at": "2022-06-22 18:13:21",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
       },
       "artists": [
@@ -1960,17 +1944,17 @@
       "added_at": "2022-06-22 18:13:21",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 184773,
-      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
+      "duration_ms": 158501,
+      "name": "Unforgettable - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
     },
     {
       "added_at": "2022-06-22 18:13:21",
@@ -1992,6 +1976,22 @@
       "added_at": "2022-06-22 18:13:21",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
+    },
+    {
+      "added_at": "2022-06-22 18:13:21",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv"
       },
       "artists": [
@@ -2008,22 +2008,6 @@
       "added_at": "2022-06-22 18:13:21",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 203104,
-      "name": "Earned It - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5TQ2wVegdEdlaFcaF09Qph"
-    },
-    {
-      "added_at": "2022-06-22 18:13:21",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
       },
       "artists": [
@@ -2035,6 +2019,22 @@
       "duration_ms": 211202,
       "name": "First Began - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+    },
+    {
+      "added_at": "2022-06-22 18:13:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 203104,
+      "name": "Earned It - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5TQ2wVegdEdlaFcaF09Qph"
     },
     {
       "added_at": "2022-06-22 18:13:21",

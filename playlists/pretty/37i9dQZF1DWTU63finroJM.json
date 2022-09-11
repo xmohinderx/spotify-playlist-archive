@@ -1,12 +1,12 @@
 {
   "description": "From across the globe. New artists on the horizon.",
-  "num_followers": 30982,
+  "num_followers": 31045,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGY2Y2UzMjViZDdiN2QwMzRlMzMxN2VkMmEzMTk4YzY2",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDY3MjNjYjE4OTA3MDI2ZTA2NDhkMmMwOGFiZjYwOWJj",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Letters Never Sent",
         "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 214000,
       "name": "Rangi Saari",
       "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Dito, Sa Ilalim Ng Buwan",
-        "url": "https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 245225,
-      "name": "Dito, Sa Ilalim Ng Buwan",
-      "url": "https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Alma Vac\u00eda",
         "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 261855,
       "name": "Llamadas Perdidas",
       "url": "https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Dito, Sa Ilalim Ng Buwan",
+        "url": "https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "Dito, Sa Ilalim Ng Buwan",
+      "url": "https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Kelede",
-        "url": "https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Kelede",
-      "url": "https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Why Don't You Stay (WorldTour Ver.)",
         "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Kelede",
+        "url": "https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Kelede",
+      "url": "https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 212571,
       "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "En El Refuego",
+        "url": "https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 184848,
+      "name": "En El Refuego",
+      "url": "https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1295,38 +1311,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "En El Refuego",
-        "url": "https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
-        }
-      ],
-      "duration_ms": 184848,
-      "name": "En El Refuego",
-      "url": "https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
-        "url": "https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof"
-      },
-      "artists": [
-        {
-          "name": "Only Monday",
-          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
-        }
-      ],
-      "duration_ms": 264762,
-      "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
-      "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Hanggang sa Huli",
         "url": "https://open.spotify.com/album/4Yjs5ZMEZVyMxivzPfjjsl"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "You (Are) Mean a Lot to Me",
-        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
+        "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
+        "url": "https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof"
       },
       "artists": [
         {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
         }
       ],
-      "duration_ms": 271764,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
+      "duration_ms": 264762,
+      "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "You (Are) Mean a Lot to Me",
+        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "duration_ms": 271764,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "\u0e41\u0e1f\u0e19\u0e40\u0e01\u0e48\u0e32\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14",
-        "url": "https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P"
+        "name": "Grown-ish",
+        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
       },
       "artists": [
         {
-          "name": "SLAPKISS",
-          "url": "https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 216000,
-      "name": "\u0e41\u0e1f\u0e19\u0e40\u0e01\u0e48\u0e32\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14",
-      "url": "https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ"
+      "duration_ms": 186732,
+      "name": "Black Converse",
+      "url": "https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD"
     }
   ],
   "unique_name": "RADAR Global",

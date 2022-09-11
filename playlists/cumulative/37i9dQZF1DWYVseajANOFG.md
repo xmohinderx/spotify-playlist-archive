@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Tachi
 
-102 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
+103 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Bonita](https://open.spotify.com/track/5S1etwYpbj8f7aVUXa91pB) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60) | [Bonita](https://open.spotify.com/album/2J86tRQLHdrWeb3sNSp1ln) | 3:07 | 2022-03-11 | 2022-05-20 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-03-11 |  |
 | [BRUJERIA](https://open.spotify.com/track/5uiH9Ei2V6fyuJHK57xISQ) | [Farah](https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK) | [BRUJERIA](https://open.spotify.com/album/6w5sd8h4qYq52tKIzSgmsv) | 2:35 | 2022-03-11 | 2022-05-28 |
-| [CASA VERDE](https://open.spotify.com/track/56Tqz9oHlrH2Okx282tlu7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Kevin](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI) | [CASA VERDE](https://open.spotify.com/album/0pRLWvPjTW5zZ2K8iDO4sj) | 4:06 | 2022-07-29 |  |
+| [CASA VERDE](https://open.spotify.com/track/56Tqz9oHlrH2Okx282tlu7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Kevin](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI) | [CASA VERDE](https://open.spotify.com/album/0pRLWvPjTW5zZ2K8iDO4sj) | 4:06 | 2022-07-29 | 2022-09-11 |
+| [CASA VERDE](https://open.spotify.com/track/04w93rJXoDQ4fayGw9BPT7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [CASA VERDE](https://open.spotify.com/album/4RNy7HfUlON4eclMZlGo2R) | 4:06 | 2022-09-09 |  |
 | [CASIO](https://open.spotify.com/track/1u9T2xgEaYG2DOgPOq8pGT) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [CASIO](https://open.spotify.com/album/1pfRvtEcvCTkvuufARDURL) | 3:12 | 2022-09-09 |  |
 | [Cinco de Mayo](https://open.spotify.com/track/2TMnPep2Sf0x4AQckIHrpS) | [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh) | [Cinco de Mayo](https://open.spotify.com/album/2OaQ6lM6XfLGkSqKnirlhq) | 3:06 | 2022-07-29 | 2022-08-13 |
 | [Cobardes](https://open.spotify.com/track/1AhdtdrlqKtcEJYFdQT05L) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Cobardes](https://open.spotify.com/album/4yxm9T5rhhJZNKxUonAbPo) | 3:08 | 2022-09-02 |  |

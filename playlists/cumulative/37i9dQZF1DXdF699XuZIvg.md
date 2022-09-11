@@ -4,7 +4,7 @@
 
 > Hit the road and scream your heart out!
 
-161 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/1r9869jHnoCyAuLiaC1eZq)
+162 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/1r9869jHnoCyAuLiaC1eZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 | 2021-12-07 |  |
 | [Go With The Flow](https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 3:07 | 2021-12-07 | 2022-07-28 |
 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 | 2021-12-07 | 2022-07-15 |
+| [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 | 2021-12-07 |  |
 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 | 2021-12-07 | 2022-07-28 |
 | [Hanging On Your Hinges](https://open.spotify.com/track/7aVgDLAlfIJIsTW3uocyIR) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Hanging On Your Hinges](https://open.spotify.com/album/3RaeEvz6wetiL4pv5CRPCT) | 2:57 | 2021-12-07 | 2022-07-23 |
 | [Highway](https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 3:21 | 2021-12-07 |  |
@@ -103,7 +104,7 @@
 | [Love Become Law](https://open.spotify.com/track/4sh5T4ZY4CE7oH3iwQ4aCr) | [The Cherry Truck Band](https://open.spotify.com/artist/3kIEsofejsOvVZHVKsQp46), [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug), [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Love Become Law](https://open.spotify.com/album/6sUdL8KA2RCVDcsqUC6boQ) | 4:26 | 2021-12-07 | 2022-07-29 |
 | [Low Life](https://open.spotify.com/track/3eDJXbkSGulxTuB2L7fP9B) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Motherbrain](https://open.spotify.com/album/5bS8kLirDX380TztuopXkH) | 3:36 | 2021-12-07 | 2022-07-26 |
 | [Low Life](https://open.spotify.com/track/3qsLiIMrQAq12sY3kWAoWm) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Motherbrain](https://open.spotify.com/album/3iCTx5xyZ4Y6VWYoDMaXTm) | 3:36 | 2021-12-07 |  |
-| [MANTRA](https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [MANTRA](https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3) | 3:53 | 2021-12-07 |  |
+| [MANTRA](https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [MANTRA](https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3) | 3:53 | 2021-12-07 | 2022-09-11 |
 | [Medusa](https://open.spotify.com/track/3NIr4XQQPuAkDocn46dDUW) | [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7) | [Medusa](https://open.spotify.com/album/2XLupsXWTIvVpDzX2CZJGm) | 3:54 | 2021-12-07 | 2022-07-29 |
 | [Mother Rebel](https://open.spotify.com/track/0u5a0mItq5095svDGAFT8g) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mother Rebel EP](https://open.spotify.com/album/29UrKqDSX8kIxrhfoQE76d) | 4:03 | 2021-12-07 | 2022-07-04 |
 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 | 2021-12-07 | 2022-06-09 |

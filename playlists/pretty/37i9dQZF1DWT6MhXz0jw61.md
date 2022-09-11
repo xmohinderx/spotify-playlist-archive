@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,846 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,111 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 28 | [Purple Hearts](https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:29 |
 | 29 | [Save The Best For Last \(Feat\. Rick Ross\)](https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:50 |
 | 30 | [In My Pockets](https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [In My Pockets](https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO) | 2:39 |
-| 31 | [FACES \- but like the one the label made me do](https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FACES](https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef) | 1:57 |
+| 31 | [FACES \- but like the one the label made me do](https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FACES](https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef) | 1:57 |
 | 32 | [Dontplaydat \(feat\. Buddy\)](https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [From The District To The World](https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS) | 4:10 |
 | 33 | [Pacific Coast Highway](https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [You Take the Credit, We'll Take the Check](https://open.spotify.com/album/6ZlKCpsFjC1uQToTdwcIkc) | 1:57 |
 | 34 | [Violence](https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Violence](https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3) | 3:54 |

@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-196 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+197 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 | 2022-04-15 |  |
 | [End of a Government \- 2019 Remix](https://open.spotify.com/track/5kElAiWCna42paMRY7ngZi) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [End of a Government](https://open.spotify.com/album/4k4eSPuB5LfzU0unwN4Oh9) | 7:13 | 2022-04-15 | 2022-07-29 |
 | [Enlightenment](https://open.spotify.com/track/7F8ACXtI6sU7dmYuBJJfrh) | [Hidden Secret](https://open.spotify.com/artist/1h3OfpOaCVBgmlNcuoZR8t) | [Enlightenment](https://open.spotify.com/album/2LyO7cVpobBnG29q2YCxiF) | 8:30 | 2022-04-15 | 2022-07-29 |
+| [Falling Down](https://open.spotify.com/track/5QyjJqlOKfy7Uq7AUbClq6) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Falling Down](https://open.spotify.com/album/4qWKZYFGNAJ7kaP5iwA3hH) | 3:46 | 2022-09-09 |  |
 | [Famous](https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [Famous](https://open.spotify.com/album/3ro1Am5Vrj5ML2zlgOlvIJ) | 6:59 | 2022-04-15 | 2022-07-29 |
 | [Feel Home](https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma) | [Liquexx](https://open.spotify.com/artist/5v5HDK4ZozQQZJ7NVL8phC), [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej) | [Feel Home](https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc) | 4:23 | 2022-04-15 | 2022-05-21 |
 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 | 2022-04-15 |  |
@@ -107,7 +108,7 @@
 | [Mad Ancestors](https://open.spotify.com/track/2xqspo1QaN7gGPwgnf3sWz) | [Klopfgeister](https://open.spotify.com/artist/41LAOu9bAFfHPoLygR0uwg), [Mind Void](https://open.spotify.com/artist/5e7EV7yhHZZUmaNpgsYj6G), [Jost H\. Walter](https://open.spotify.com/artist/5SEY0ljOMabqa12mgomPG6) | [Mad Ancestors](https://open.spotify.com/album/2kMOZes1T5yzxGXbY4e6Gu) | 5:44 | 2022-04-15 |  |
 | [Main Computer](https://open.spotify.com/track/6ut3Xc9Yn5tp9ki4Bg78rl) | [Rinkadink](https://open.spotify.com/artist/06ldxpPnHY1OEWgxglSHA4), [Prohecht](https://open.spotify.com/artist/0cFShzShlfaiIg7ZyzbiZe) | [Main Computer](https://open.spotify.com/album/5ZEFGQ4lEtm8vVneaBP1vt) | 6:29 | 2022-05-19 | 2022-06-08 |
 | [Meditatiohm](https://open.spotify.com/track/20Lvy05zDo3yJOA3nVp1uQ) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Rexalted](https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya) | [Meditatiohm](https://open.spotify.com/album/4pS0TGMoSyifWzHBZyAnYY) | 5:46 | 2022-07-28 |  |
-| [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 | 2022-07-28 |  |
+| [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 | 2022-07-28 | 2022-09-11 |
 | [Move](https://open.spotify.com/track/1V6KX61KpHJ9Z4mtGeroUO) | [Alchimyst](https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy), [Coexist](https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf), [Jasmine Knight](https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh) | [Move](https://open.spotify.com/album/5bTj4TS8SQsL4t2ID7Gglr) | 3:10 | 2022-06-03 |  |
 | [Music Is My Remedy](https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [livicious](https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx) | [Music Is My Remedy](https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v) | 5:06 | 2022-04-15 |  |
 | [My Generation](https://open.spotify.com/track/28ILF9GmA4DYQxKFG1iYLU) | [Krama](https://open.spotify.com/artist/6fz3m9HgQ3s7171AZHvk0j) | [My Generation](https://open.spotify.com/album/5RRAXhC9ve6cnyicgNF4oZ) | 5:23 | 2022-04-15 | 2022-07-28 |

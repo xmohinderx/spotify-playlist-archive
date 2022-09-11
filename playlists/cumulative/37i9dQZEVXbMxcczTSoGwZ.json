@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 156709,
       "name": "Allez Allez Allez",
       "url": "https://open.spotify.com/track/4rsTtGSlm50nQk4ZYKq0Dq"
@@ -1101,6 +1101,24 @@
       "duration_ms": 132780,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh"
+    },
+    {
+      "album": {
+        "name": "As\u00ed As\u00ed / T\u00f3xico",
+        "url": "https://open.spotify.com/album/0z4RLBiYNZqfddVlWpo4WC"
+      },
+      "artists": [
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175687,
+      "name": "As\u00ed As\u00ed",
+      "url": "https://open.spotify.com/track/4sWsyqci52cn5hwX44LeT9"
     },
     {
       "album": {
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -3341,7 +3359,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 162179,
       "name": "Ei sanoja",
       "url": "https://open.spotify.com/track/1BYw3OamEsZoZQv2cEzuzI"
@@ -4346,6 +4364,24 @@
     },
     {
       "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
       },
@@ -4607,7 +4643,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 146127,
       "name": "Gangsta Psykoosi",
       "url": "https://open.spotify.com/track/0hBcEuxni0Df5dZpYcj64W"
@@ -4665,7 +4701,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 172213,
       "name": "GAY",
       "url": "https://open.spotify.com/track/4Hy8NmXUsiHYhkrdXbP1ma"
@@ -4947,7 +4983,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 155905,
       "name": "GRINDR MAYHEM (feat. BESS)",
       "url": "https://open.spotify.com/track/4BdiKWwWtDZ3TA339ZgZnI"
@@ -6496,6 +6532,24 @@
     },
     {
       "album": {
+        "name": "ikuinen virta",
+        "url": "https://open.spotify.com/album/6sYDiYfme9RnOAIzQ5r6bA"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214460,
+      "name": "ikuinen virta",
+      "url": "https://open.spotify.com/track/2f3M4kFTnPCncJSjN515fO"
+    },
+    {
+      "album": {
         "name": "Loppuunmyyty",
         "url": "https://open.spotify.com/album/0eQYCHmjf3dLHfIVmNpCXu"
       },
@@ -7774,6 +7828,24 @@
     },
     {
       "album": {
+        "name": "Kateus",
+        "url": "https://open.spotify.com/album/2t80O8QAYs8aNN1p9Ic580"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180611,
+      "name": "Kateus",
+      "url": "https://open.spotify.com/track/0Q68xNKpgGV0kwhcbuzrXL"
+    },
+    {
+      "album": {
         "name": "KATO MUA",
         "url": "https://open.spotify.com/album/3Bt5sSo6itWYC9BZlS4SZy"
       },
@@ -8483,10 +8555,32 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 207569,
       "name": "Koko Y\u00f6 (feat. JVG)",
       "url": "https://open.spotify.com/track/6Tplut49wsMOyeB8SyDCLz"
+    },
+    {
+      "album": {
+        "name": "Ongelmalapsi",
+        "url": "https://open.spotify.com/album/5yWO8CAusbgc9rJf9mb1oT"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207569,
+      "name": "Koko Y\u00f6 (feat. JVG)",
+      "url": "https://open.spotify.com/track/76WsnMaiOG5ky6ENnJjI0r"
     },
     {
       "album": {
@@ -8921,7 +9015,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 216200,
       "name": "K\u00e4mmenen kuva poskeen",
       "url": "https://open.spotify.com/track/78LbF7hMmdzakQhHsKu9vZ"
@@ -10020,6 +10114,28 @@
     },
     {
       "album": {
+        "name": "Makso Mit\u00e4 Makso",
+        "url": "https://open.spotify.com/album/0S8l92CyIZbgGzvQL5QpbK"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "Makso Mit\u00e4 Makso",
+      "url": "https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB"
+    },
+    {
+      "album": {
         "name": "MAMMAMIA",
         "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
@@ -10823,7 +10939,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 188630,
       "name": "Mon Ami",
       "url": "https://open.spotify.com/track/1SllLQv2tfIlgtYXO5edRM"
@@ -12100,6 +12216,24 @@
     },
     {
       "album": {
+        "name": "Olen muistanut",
+        "url": "https://open.spotify.com/album/08SpUZjNwnoNODJwsxRjvW"
+      },
+      "artists": [
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203349,
+      "name": "Olen muistanut",
+      "url": "https://open.spotify.com/track/18HaMVxzUTXK3XidZwx3BC"
+    },
+    {
+      "album": {
         "name": "Laulaja 1945 - 2010",
         "url": "https://open.spotify.com/album/3uFhcznsXnCQgeebgr52qz"
       },
@@ -12213,6 +12347,24 @@
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
+    },
+    {
+      "album": {
+        "name": "Ongelmalapsi",
+        "url": "https://open.spotify.com/album/5yWO8CAusbgc9rJf9mb1oT"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211076,
+      "name": "Ongelmalapsi",
+      "url": "https://open.spotify.com/track/0prU9hQnYIxQW09ntVoz3C"
     },
     {
       "album": {
@@ -12511,7 +12663,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 186139,
       "name": "Paholainen (querido) [feat. Averagekidluke]",
       "url": "https://open.spotify.com/track/2NkD9LpDarxpqt8iq0CnPF"
@@ -13258,6 +13410,24 @@
     },
     {
       "album": {
+        "name": "Pieni kuolema",
+        "url": "https://open.spotify.com/album/0GYlIx9ArwU0WsDCiD4Ikd"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235436,
+      "name": "Pupu",
+      "url": "https://open.spotify.com/track/18QAweMMhuFOajnlWTSSMD"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -13429,7 +13599,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 168101,
       "name": "Rakastan en rakasta",
       "url": "https://open.spotify.com/track/6CITvD2LkozBWMrsHExUFC"
@@ -13937,7 +14107,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -15319,6 +15489,24 @@
       "duration_ms": 222332,
       "name": "Sukupolvien unelma ft. Repliikki (Huuhkajat EM-2021)",
       "url": "https://open.spotify.com/track/6m9uFA90jaa6GEJAM6IpjM"
+    },
+    {
+      "album": {
+        "name": "Sulatan sun j\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/5tzX5ot8pVteKJNSnTDMEU"
+      },
+      "artists": [
+        {
+          "name": "YOUNGHEARTED",
+          "url": "https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178024,
+      "name": "Sulatan sun j\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/2UajdWl5rhhD8vUFoTWuBw"
     },
     {
       "album": {
@@ -16902,6 +17090,24 @@
     },
     {
       "album": {
+        "name": "Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/3mJDvRIhvbNCf0W59Kc9pq"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176460,
+      "name": "Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/2NBYhk6vgsMFziLDYJ8i4C"
+    },
+    {
+      "album": {
         "name": "Kesken",
         "url": "https://open.spotify.com/album/5QKHtTKjDhc6aDi7T7VFFC"
       },
@@ -17699,7 +17905,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 186420,
       "name": "Vastaaja (feat. Ege Zulu & Pessa)",
       "url": "https://open.spotify.com/track/2LGHc5OI7tWamZd7JoOfll"

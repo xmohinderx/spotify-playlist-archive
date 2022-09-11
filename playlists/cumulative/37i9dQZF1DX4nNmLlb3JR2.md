@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-65 songs - 2 hr 39 min - not published yet
+65 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

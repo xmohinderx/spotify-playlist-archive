@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-480 songs - 1 day 11 hr 8 min - not published yet
+482 songs - 1 day 11 hr 19 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Calling It Christmas \- Radio Edit](https://open.spotify.com/track/0XpApJu5havzspIyIVe2ut) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:16 | 2022-09-08 |  |
 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 | 2022-09-08 |  |
 | [Can't Stay Alone Tonight](https://open.spotify.com/track/1MSPSJToyk1rMHGDAMjVMM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:48 | 2022-09-08 |  |
+| [Candle in the Wind](https://open.spotify.com/track/4ft5xdZvpplCKbhJxd0gGc) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Classic 70s Acoustic Guitar: After the Love Has Gone](https://open.spotify.com/album/5ZT7kAwRiK3xSisMvkTIAn) | 4:17 | 2022-09-10 |  |
 | [Candle In The Wind \- Remastered 2014](https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:48 | 2022-09-08 |  |
 | [Candle In The Wind 1997](https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:10 | 2022-09-08 |  |
 | [Candy By The Pound](https://open.spotify.com/track/4gslKb4WdHVqX9FWo8aaVC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 | 2022-09-08 |  |
@@ -260,7 +261,7 @@
 | [Made In England](https://open.spotify.com/track/6VmxhbNRCURgu8d5pEPRb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:08 | 2022-09-08 |  |
 | [Madman Across The Water](https://open.spotify.com/track/6NFuanvmfkAdnPykwsOK91) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 5:57 | 2022-09-08 |  |
 | [Madness](https://open.spotify.com/track/7jOu8dOL0lRL8E1y8Zwe4V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 5:53 | 2022-09-08 |  |
-| [Mandalay Again](https://open.spotify.com/track/5t2BCWWc4YBbE2Yv0ZCHL0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union \(Deluxe\)](https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg) | 4:54 | 2022-09-09 |  |
+| [Mandalay Again](https://open.spotify.com/track/5t2BCWWc4YBbE2Yv0ZCHL0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union \(Deluxe\)](https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg) | 4:54 | 2022-09-09 | 2022-09-11 |
 | [Mansfield](https://open.spotify.com/track/3I0Cw8Qy3vB1gy1W76GPyv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:53 | 2022-09-08 |  |
 | [Mellow](https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:32 | 2022-09-08 |  |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2022-09-08 |  |
@@ -376,7 +377,8 @@
 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 | 2022-09-08 |  |
 | [Stone's Throw From Hurtin'](https://open.spotify.com/track/1MFXJPUz79xxyaxvvg6Q6U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:44 | 2022-09-08 |  |
 | [Strangers](https://open.spotify.com/track/4Ousa0idpaZ6KpLmT1iUnF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:46 | 2022-09-08 |  |
-| [Street Kids](https://open.spotify.com/track/2gjLi2PuS3jBmaLF1JOqKb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 6:25 | 2022-09-08 |  |
+| [Street Kids](https://open.spotify.com/track/20FnYowQOrLxU92iyA94ed) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 6:25 | 2022-09-10 |  |
+| [Street Kids](https://open.spotify.com/track/2gjLi2PuS3jBmaLF1JOqKb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 6:25 | 2022-09-08 | 2022-09-11 |
 | [Stronger Than I Ever Was](https://open.spotify.com/track/2yqifXIF2bc7pIrbB7AfY5) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Sherlock Gnomes \(Music From The Motion Picture\)](https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3) | 3:39 | 2022-09-08 |  |
 | [Suit Of Wolves](https://open.spotify.com/track/7mvK7JHc1fOVs7HLVP3fwV) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:48 | 2022-09-08 |  |
 | [Susie \(Dramas\)](https://open.spotify.com/track/5iFujkF6DJlRhOyxYl4zjE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 3:24 | 2022-09-08 |  |

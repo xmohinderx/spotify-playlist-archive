@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-102 songs - 5 hr 25 min - not published yet
+102 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/4EVIotVnoAM9t9wn6xhCfE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

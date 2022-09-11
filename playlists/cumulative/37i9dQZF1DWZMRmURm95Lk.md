@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. In cover, Nerone.
 
-214 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
+215 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [La Ballotta](https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:20 | 2022-05-05 |  |
 | [La Certa](https://open.spotify.com/track/4VWFj5qabn8QrXdCqDjXMF) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Exuvia](https://open.spotify.com/album/3IUDXM1LSMIryQTo9qKBDX) | 3:40 | 2022-06-14 | 2022-06-17 |
 | [La Fenice \(Remix\)](https://open.spotify.com/track/5iLh8ierAnT0KbtLuan1KZ) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u), [Kaos One](https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh), [DJ Argento](https://open.spotify.com/artist/0OEc9ieH76E5YKyWs3rS4w) | [La Fenice \(Remix\)](https://open.spotify.com/album/7GmuyBEOyVErKTmT3VFlSk) | 4:53 | 2022-05-05 | 2022-07-29 |
-| [La maggior parte](https://open.spotify.com/track/2hFGej35hhWApmQQFasOjV) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Faith](https://open.spotify.com/artist/04eXfz9LChWHvudbMf9OOm) | [La maggior parte](https://open.spotify.com/album/5tTsZMtusfHxPdBlGT57nP) | 3:27 | 2022-05-12 |  |
+| [La maggior parte](https://open.spotify.com/track/2hFGej35hhWApmQQFasOjV) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Faith](https://open.spotify.com/artist/04eXfz9LChWHvudbMf9OOm) | [La maggior parte](https://open.spotify.com/album/5tTsZMtusfHxPdBlGT57nP) | 3:27 | 2022-05-12 | 2022-09-11 |
 | [La mia mente spara/ Desert Hegel](https://open.spotify.com/track/5DAek3v0R22sxeTt1Uujwj) | [Silla Dddictator](https://open.spotify.com/artist/6xdYyidD0hj5DmqEQXdxeX) | [Camouflage Shadows](https://open.spotify.com/album/6j9AUHWcCll3vEXhEtewrY) | 3:08 | 2022-06-30 | 2022-07-16 |
 | [La porra](https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 6:31 | 2022-05-12 |  |
 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 | 2022-05-05 |  |
@@ -202,6 +202,7 @@
 | [Tergicristalli](https://open.spotify.com/track/1HpJOgQzkHBa4l8Ct6oLGB) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Duna](https://open.spotify.com/artist/1eZx75fGVjN3BvdzMT92k6), [KD\-ONE](https://open.spotify.com/artist/0bXzQ96tE5uWMDUnw6xeQr) | [Tergicristalli](https://open.spotify.com/album/7wSYzyI4vKbsU4DGfzxXH3) | 3:17 | 2022-05-19 | 2022-07-26 |
 | [Terra Bianca](https://open.spotify.com/track/5Yi6J5TE7A7l0rgi455M8Q) | [Kiave](https://open.spotify.com/artist/6x5XjmZrAIfZfuRbXXeBEg), [Macro Marco](https://open.spotify.com/artist/4W7U7bpnH1h0VKxMIRSzTn) | [Fuori Da Ogni Spazio Ed Ogni Tempo \[2021\]](https://open.spotify.com/album/6xmhNFK9JBHUP6dKWlBpGv) | 3:07 | 2022-05-12 | 2022-07-29 |
 | [Terzo Stadio: Reintegrazione](https://open.spotify.com/track/7kfUlf5e3WuNU7vfTZAsCF) | [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG), [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1) | [Terzo Stadio: Reintegrazione](https://open.spotify.com/album/57dZoJlcnLvjwNjA6jQkJ7) | 3:21 | 2022-05-12 | 2022-07-28 |
+| [Ti Pretendo XXX](https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Ti Pretendo XXX](https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW) | 3:41 | 2022-09-09 |  |
 | [Tieni Duro!](https://open.spotify.com/track/6Ur5wy2jIrftniHwWd4nOu) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Mondo Marcio](https://open.spotify.com/album/0as4qNSUMvD3Fh69GB9nu9) | 3:55 | 2022-05-12 | 2022-07-29 |
 | [Tieni duro! \- 2022 Remastered](https://open.spotify.com/track/1Uw9UJ25oqXVbld6BbmIsk) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Mondo Marcio \(2022 Remastered\)](https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf) | 3:55 | 2022-07-28 |  |
 | [Tiger Mask \- Se Acabo](https://open.spotify.com/track/5UVvbBbPmlBl6i7OAZRMpP) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Wego FTS](https://open.spotify.com/artist/2PoxLmzjISQlPoZ7KLzOMf) | [Tiger Mask \(Se Acabo\)](https://open.spotify.com/album/60oDLiIshmfMvwYg3KX5SJ) | 3:10 | 2022-05-12 | 2022-06-23 |

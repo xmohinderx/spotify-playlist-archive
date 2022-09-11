@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme, Gusttavo Lima
 
-95 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+96 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 | 2022-08-22 |  |
 | [Batom de Cereja \- Ao Vivo](https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 2:20 | 2021-12-31 | 2022-02-19 |
 | [Beijo de Glicose \- Ao Vivo](https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Beijo de Glicose \(Ao Vivo\)](https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC) | 2:51 | 2022-09-09 |  |
-| [Bloqueado \- Ao Vivo](https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK) | 2:48 | 2021-12-31 |  |
+| [Bloqueado \- Ao Vivo](https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:48 | 2022-09-09 |  |
+| [Bloqueado \- Ao Vivo](https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK) | 2:48 | 2021-12-31 | 2022-09-11 |
 | [Boca Ocupada](https://open.spotify.com/track/36mUWhjTM3GNpncYy7RR6z) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Cleber & Cauan No Rio Quente](https://open.spotify.com/album/0sEb6tyxysVFuoKfaN5WdA) | 2:45 | 2022-03-04 |  |
 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 | 2021-12-31 | 2022-05-20 |
 | [Cheiro de Balada \- Ao Vivo](https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa) | 2:51 | 2022-08-12 |  |

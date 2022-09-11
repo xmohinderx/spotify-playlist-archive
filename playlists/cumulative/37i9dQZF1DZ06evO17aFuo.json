@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "C\u00e9lebutante",
+      "url": "https://open.spotify.com/track/721NPizRZdbG2h06au80UA"
+    },
+    {
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 219480,
       "name": "Junkie",
       "url": "https://open.spotify.com/track/6yLhhkZNfyG2xCBFXLoE2i"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 323706,
       "name": "Mission To Mars",
       "url": "https://open.spotify.com/track/3s4cVRvi1GL2Qi1XRvlJ4m"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 398253,
       "name": "Night Stalkers",
       "url": "https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 269933,
       "name": "Victory - Remastered 2004",
       "url": "https://open.spotify.com/track/4kPF8KNfCkQQkL22YoOJir"

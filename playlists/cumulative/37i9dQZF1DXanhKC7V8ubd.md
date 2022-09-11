@@ -4,7 +4,7 @@
 
 > En esta playlist encontrarás cada miércoles los tracks de Diego Boneta interpretando a Luis Miguel.
 
-45 songs - 2 hr 40 min - not published yet
+45 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/6JOVB2GTqWgAumQEwrkmqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

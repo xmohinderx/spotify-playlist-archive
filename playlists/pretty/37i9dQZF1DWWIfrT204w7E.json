@@ -1,12 +1,12 @@
 {
   "description": "Drill scenes connect. Cover: 22Gz",
-  "num_followers": 119825,
+  "num_followers": 119890,
   "original_name": "City to City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGQ0NmIyYThjYjY3ZWE0M2NkZjllZGM3Y2Y3MjU1ZDZk",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGJlYzI4YTJmMTczODJmZDk0MGU1MzhmZDYxZTRhN2Nh",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "STURDY",
-        "url": "https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl"
-      },
-      "artists": [
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 237632,
-      "name": "STURDY",
-      "url": "https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 228251,
       "name": "30 (feat. Bizzy Banks)",
       "url": "https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "STURDY",
+        "url": "https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "duration_ms": 237632,
+      "name": "STURDY",
+      "url": "https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp"
     },
     {
       "added_at": "2022-09-02 04:01:00",

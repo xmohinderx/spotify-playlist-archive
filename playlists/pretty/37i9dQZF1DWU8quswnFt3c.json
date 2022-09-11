@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Shania Twain",
-  "num_followers": 839941,
+  "num_followers": 839915,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY2OTc0MSwwMDAwMDAwMGNlZTZjN2ZkNDAyMjI3Njg3N2MxMmVjMzVlMDM2NmJm",
+  "snapshot_id": "MTY2MjY2OTc0MSwwMDAwMDAwMDEwZDU2ZTgxZDlhZjNiODY0NzA5ODhmYjk0NGJmMTA1",
   "tracks": [
     {
       "added_at": "2022-09-07 04:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "Ne G\u00fczel",
-        "url": "https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "Ne G\u00fczel",
-      "url": "https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
         "name": "Ins\u00f4nia (Ao vivo)",
         "url": "https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 181157,
       "name": "Ins\u00f4nia - Ao vivo",
       "url": "https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "Ne G\u00fczel",
+        "url": "https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Ne G\u00fczel",
+      "url": "https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
+        "name": "Marvvila na \u00c1rea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "duration_ms": 185336,
+      "name": "A Cada Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wLSaPBFitTXXvEJuH2XYE"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
         "name": "Paralizado",
         "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
       },
@@ -659,6 +675,22 @@
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "Sleep Crying",
+        "url": "https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb"
+      },
+      "artists": [
+        {
+          "name": "SILVY",
+          "url": "https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Sleep Crying",
+      "url": "https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -691,38 +723,6 @@
       "duration_ms": 233379,
       "name": "Black Hickey - Con D\u1ea5u Ch\u1ee7 Quy\u1ec1n",
       "url": "https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Sleep Crying",
-        "url": "https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb"
-      },
-      "artists": [
-        {
-          "name": "SILVY",
-          "url": "https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Sleep Crying",
-      "url": "https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Marvvila na \u00c1rea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39"
-      },
-      "artists": [
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        }
-      ],
-      "duration_ms": 185336,
-      "name": "A Cada Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wLSaPBFitTXXvEJuH2XYE"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -771,6 +771,22 @@
       "duration_ms": 276878,
       "name": "\u00b7 \u00b7 \u4e00",
       "url": "https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "so far it just sucked",
+        "url": "https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 120253,
+      "name": "so far it just sucked",
+      "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -907,6 +923,22 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
+        "name": "Au Revoir",
+        "url": "https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Added",
+          "url": "https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE"
+        }
+      ],
+      "duration_ms": 241938,
+      "name": "Au Revoir",
+      "url": "https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
         "name": "Delusion",
         "url": "https://open.spotify.com/album/3YjbGv7nXV8Dqi0HiN8Zxn"
       },
@@ -971,22 +1003,6 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "Sigurado",
-        "url": "https://open.spotify.com/album/6DViOYi7TZQISY0rvMgqc1"
-      },
-      "artists": [
-        {
-          "name": "Aly Remulla",
-          "url": "https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP"
-        }
-      ],
-      "duration_ms": 344250,
-      "name": "Sigurado",
-      "url": "https://open.spotify.com/track/5szDp0NMCiXUChV3xmKXRl"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
         "name": "Sausalito",
         "url": "https://open.spotify.com/album/1nCA0AlzAIQQdJA1hwUr0Z"
       },
@@ -999,6 +1015,22 @@
       "duration_ms": 129627,
       "name": "Sausalito",
       "url": "https://open.spotify.com/track/58NbKFlfq0nkU1oM56ukYd"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "Sigurado",
+        "url": "https://open.spotify.com/album/6DViOYi7TZQISY0rvMgqc1"
+      },
+      "artists": [
+        {
+          "name": "Aly Remulla",
+          "url": "https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP"
+        }
+      ],
+      "duration_ms": 344250,
+      "name": "Sigurado",
+      "url": "https://open.spotify.com/track/5szDp0NMCiXUChV3xmKXRl"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -1091,22 +1123,6 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "Au Revoir",
-        "url": "https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Added",
-          "url": "https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE"
-        }
-      ],
-      "duration_ms": 241938,
-      "name": "Au Revoir",
-      "url": "https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
         "name": "Cassette",
         "url": "https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 220941,
       "name": "Algo de M\u00ed",
       "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "so far it just sucked",
-        "url": "https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 120253,
-      "name": "so far it just sucked",
-      "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
     },
     {
       "added_at": "2022-09-07 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 113403,
+  "num_followers": 113579,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDFmYTIxYThlNWVhNDhkMDliMjdkODM5NWJiNTgwMzAz",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDgxNWZhMzc0NGM5YTEwZmY5ZDUxNTM3MGY4MTYyOTg2",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Deliver",
-        "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Dedicated To The One I Love",
-      "url": "https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "It Might As Well Be Swing",
         "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 149640,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Deliver",
+        "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Dedicated To The One I Love",
+      "url": "https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr"
     },
     {
       "added_at": "2022-05-30 13:02:24",

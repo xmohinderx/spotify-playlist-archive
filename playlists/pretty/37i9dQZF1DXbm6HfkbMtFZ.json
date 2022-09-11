@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 600546,
+  "num_followers": 600868,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MzM4MSwwMDAwMDAwMGMxODJhZGM1Y2RiOGJiZmI3Nzg3NzkwYTc0ODUzMDhj",
+  "snapshot_id": "MTY2MjY1MzM4MSwwMDAwMDAwMGE2NzEzOTYzNDU2ZTE5MWI0NzljZTIzNWZhZjZkNTFk",
   "tracks": [
     {
       "added_at": "2022-09-08 16:09:41",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "He Can Only Hold Her",
-      "url": "https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Maggot Brain",
         "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 169856,
       "name": "Can You Get To That",
       "url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "He Can Only Hold Her",
+      "url": "https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 169373,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "Our Day Will Come",
+      "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
         "name": "Face Your Fear",
         "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 166766,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4inbFqrP4CS3Ig99dIwfQ1"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Slow Song (with Dragonette)",
-        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
       },
@@ -979,18 +959,22 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+        "name": "Slow Song (with Dragonette)",
+        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
       "artists": [
         {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+      "duration_ms": 253723,
+      "name": "Slow Song (with Dragonette)",
+      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 193251,
       "name": "Something New",
       "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 240742,
-      "name": "Evan Finds the Third Room",
-      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 240742,
+      "name": "Evan Finds the Third Room",
+      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/5VKMuDNl95bLr3xsfU2Owm"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Big Brown Eyes",
-      "url": "https://open.spotify.com/track/19ovZMFSIQvehxLmvrRbBS"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/5VKMuDNl95bLr3xsfU2Owm"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Big Brown Eyes",
+      "url": "https://open.spotify.com/track/19ovZMFSIQvehxLmvrRbBS"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
-        "name": "The Last Record Album",
-        "url": "https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Long Distance Love",
-      "url": "https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+        "name": "The Last Record Album",
+        "url": "https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn"
       },
       "artists": [
         {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+      "duration_ms": 163306,
+      "name": "Long Distance Love",
+      "url": "https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1183,6 +1167,22 @@
       "duration_ms": 159013,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Bright Moments",
         "url": "https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 245028,
       "name": "Believe in Me",
       "url": "https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Better By Your Side",
         "url": "https://open.spotify.com/album/7hGjlFp2mMlkZW21nXjH7D"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 319917,
       "name": "Better By Your Side",
       "url": "https://open.spotify.com/track/1veoLuuMcaSn6rPACuG52I"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/7dUv8LcGbAfQn5Rtf9ffC7"
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh"
       },
       "artists": [
         {
-          "name": "Your Smith",
-          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 191746,
-      "name": "Debbie",
-      "url": "https://open.spotify.com/track/1NWQFhNItpBUiaE8c8vvNZ"
+      "duration_ms": 231965,
+      "name": "Crying Shame",
+      "url": "https://open.spotify.com/track/7vwzFVGdBhaFEjEZkqhjOH"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh"
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/7dUv8LcGbAfQn5Rtf9ffC7"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Your Smith",
+          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
         }
       ],
-      "duration_ms": 231965,
-      "name": "Crying Shame",
-      "url": "https://open.spotify.com/track/7vwzFVGdBhaFEjEZkqhjOH"
+      "duration_ms": 191746,
+      "name": "Debbie",
+      "url": "https://open.spotify.com/track/1NWQFhNItpBUiaE8c8vvNZ"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "You and Me and Everything",
-        "url": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
-      },
-      "artists": [
-        {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "duration_ms": 216901,
-      "name": "I Might Be",
-      "url": "https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "No Ending",
         "url": "https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 233906,
       "name": "No Ending",
       "url": "https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "You and Me and Everything",
+        "url": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "duration_ms": 216901,
+      "name": "I Might Be",
+      "url": "https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH"
     },
     {
       "added_at": "2022-09-08 16:09:41",

@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA"
+      },
+      "artists": [
+        {
+          "name": "Huglei\u00f6sla",
+          "url": "https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258734,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY"
+    },
+    {
+      "album": {
         "name": "Glacier",
         "url": "https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg"
       },
@@ -3055,7 +3073,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 313440,
       "name": "Standing in Silence, Pt. 3",
       "url": "https://open.spotify.com/track/7peWz6xwuR5DWdjDMQuGZn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,743 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,797 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 24 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 |
 | 25 | [Nada Más](https://open.spotify.com/track/5A4oXZIqEqTG77wq4B1Txh) | [Sailor An](https://open.spotify.com/artist/0pKECWtFUx8RrVzMDVb6Wr) | [Nada Más](https://open.spotify.com/album/0B63I00LvOlF2F4DDWPqv2) | 3:17 |
 | 26 | [Final Fantasy](https://open.spotify.com/track/36wFYnv9kmqepKlE7nAP44) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [Final Fantasy](https://open.spotify.com/album/2WZ6YtJNQR2YGJ1ICuqIpt) | 3:13 |
-| 27 | [Quien Paga](https://open.spotify.com/track/5bRH3E7TaWVAblEUVFI0By) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [Quien Paga](https://open.spotify.com/album/7IBdzjicSaKpYpYrFPirRT) | 1:58 |
+| 27 | [Quien Paga](https://open.spotify.com/track/7zP1jcXDQvzOPwbuil3NDJ) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [AGROLOVE](https://open.spotify.com/album/27lgvAXQJvQX7XNSWLv6X8) | 1:58 |
 | 28 | [Bad Bitches Cry Too](https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Bad Bitches Cry Too](https://open.spotify.com/album/40PEpgToYvH1VVCzDYbVJy) | 2:25 |
 | 29 | [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 |
 | 30 | [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 91 | [No Estoy](https://open.spotify.com/track/2WkJqdOBHuGi44d8dnSHuK) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/0LiFjBoSemLpzSCOsGXTOF) | 3:58 |
 | 92 | [Me Voy](https://open.spotify.com/track/5vx06yKyMpmgLfTeq7vv9K) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Jess Puente](https://open.spotify.com/artist/7A5Nk3dHjJheI5Zga7fSE6), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Me Voy](https://open.spotify.com/album/6JeUFhsLRJtKOLG5qQEHbJ) | 3:25 |
 
-Snapshot ID: `MTY2MjE3MzI5MiwwMDAwMDAwMDZlZDM3NjgxOTNjMmZlYTk5YzVjMjA0OGNkMTMzZmU4`
+Snapshot ID: `MTY2MjE3MzI5MiwwMDAwMDAwMGI2YzJlYjhiMGI3ZThiNGM2NzdhNzlkYjJkMTVkOGMw`

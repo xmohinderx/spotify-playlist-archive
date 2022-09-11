@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-101 songs - 7 hr 29 min - not published yet
+101 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/1bxRtWCU4mLIX5e781d1zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 37675,
+  "num_followers": 37704,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDM0YTQ1Mzk1YTczMzdiOGY1NWQ4MjhlM2EyMDE1YmE4",
+  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDM0MmQ1NjFmNjQ4ZjY3ZmRlNWE4MzJjZmI2MWUzMTEx",
   "tracks": [
     {
       "added_at": "2022-09-09 12:20:11",
@@ -311,18 +311,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Between City Walls",
-        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+        "name": "Bala Reash",
+        "url": "https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI"
       },
       "artists": [
         {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        },
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
         }
       ],
-      "duration_ms": 221043,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+      "duration_ms": 226690,
+      "name": "Bala Reash",
+      "url": "https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -359,22 +363,18 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Bala Reash",
-        "url": "https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI"
+        "name": "Between City Walls",
+        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
       },
       "artists": [
         {
-          "name": "Bigsam",
-          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        },
-        {
-          "name": "MoJaNaD",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
         }
       ],
-      "duration_ms": 226690,
-      "name": "Bala Reash",
-      "url": "https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh"
+      "duration_ms": 221043,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 267098,
-      "name": "Ansaki",
-      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Raka W Raka",
         "url": "https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 191018,
       "name": "Raka W Raka",
       "url": "https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 267098,
+      "name": "Ansaki",
+      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd"
-      },
-      "artists": [
-        {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
-        }
-      ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Seasons of Violet - Lovesongs from Palestine",
-        "url": "https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y"
-      },
-      "artists": [
-        {
-          "name": "Rim Banna",
-          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
-        }
-      ],
-      "duration_ms": 306106,
-      "name": "The Night Has Fallen Down",
-      "url": "https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "From Here",
         "url": "https://open.spotify.com/album/0qKoWbZXIpjgHiq0VrDuA8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 152000,
       "name": "From Here",
       "url": "https://open.spotify.com/track/7Aa9F0saCHys1n1D71AJM3"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Seasons of Violet - Lovesongs from Palestine",
+        "url": "https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y"
+      },
+      "artists": [
+        {
+          "name": "Rim Banna",
+          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
+        }
+      ],
+      "duration_ms": 306106,
+      "name": "The Night Has Fallen Down",
+      "url": "https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U"
     },
     {
       "added_at": "2022-09-09 12:20:11",

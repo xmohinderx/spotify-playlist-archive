@@ -3052,6 +3052,24 @@
     },
     {
       "album": {
+        "name": "Plastic Soul",
+        "url": "https://open.spotify.com/album/3ikWyQAmeNcwvvgqTW6yQH"
+      },
+      "artists": [
+        {
+          "name": "Zach Jones & the Tricky Bits",
+          "url": "https://open.spotify.com/artist/3UWwzg0bpqKPTuIZxYj8ac"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147626,
+      "name": "One Foot in the Grave",
+      "url": "https://open.spotify.com/track/5eWVS47NfEmISCyKA0E7wy"
+    },
+    {
+      "album": {
         "name": "Songs from Season One",
         "url": "https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d"
       },

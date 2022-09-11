@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Nickelback
 
-426 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+427 songs - 1 day 0 hr 3 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Never Gonna Stop](https://open.spotify.com/track/3rDtj7Aykjkfuw8TBIDUOK) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 2](https://open.spotify.com/album/5oPpKQLPRh67QBYwEj6kMv) | 3:29 | 2021-12-31 | 2022-03-12 |
 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 | 2022-04-08 |  |
 | [New Orleans Is Sinking \- Live At The Roxy May 3, 1991](https://open.spotify.com/track/1LoqG0jGgIkD4S1kmwUQdu) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Live At The Roxy](https://open.spotify.com/album/3FSeD7FOkS9u8tgy1xk8tB) | 8:48 | 2022-06-24 |  |
-| [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 | 2022-07-29 |  |
+| [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:09 | 2022-07-29 |  |
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-04-08 |  |
 | [No Love In LA](https://open.spotify.com/track/3iDtJf5vzVe8mBaJHAs0JK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:22 | 2022-05-20 | 2022-07-16 |
 | [Not Necessary](https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:01 | 2022-04-15 |  |
@@ -314,7 +314,8 @@
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 |  |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 | 2022-02-18 | 2022-04-16 |
 | [Run](https://open.spotify.com/track/5UkIKoF94HoH6shIbyWP3O) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Spiritual Machines II](https://open.spotify.com/album/2oDx12QtIgZWoTR1utWFLz) | 2:57 | 2022-01-28 |  |
-| [Run Away to Mars](https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:33 | 2021-12-31 |  |
+| [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-09-09 |  |
+| [Run Away to Mars](https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:33 | 2021-12-31 | 2022-09-11 |
 | [Running For The Hills](https://open.spotify.com/track/47jE6cHrtaLp3KIiPXQ3eP) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Running For The Hills](https://open.spotify.com/album/12iUAdUunxdy80zdZduc9u) | 2:57 | 2022-04-15 | 2022-04-21 |
 | [Sacred Heart](https://open.spotify.com/track/7xdNikoGh1g2rY7FO2ikzR) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Sacred Heart](https://open.spotify.com/album/2buEnpNyo1Gue2fXNcTvTF) | 4:22 | 2022-03-11 | 2022-06-18 |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 |  |

@@ -4,7 +4,7 @@
 
 > Best of the Jazz music scene in India.
 
-70 songs - 6 hr 24 min - not published yet
+70 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3IKf0F2MVcDBvOjEXJY6yn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

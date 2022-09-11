@@ -4,7 +4,7 @@
 
 > A mesmerising flow of running water.
 
-110 songs - 5 hr 45 min - not published yet
+110 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/5lBubUXoaR27mjhSFRWH6Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

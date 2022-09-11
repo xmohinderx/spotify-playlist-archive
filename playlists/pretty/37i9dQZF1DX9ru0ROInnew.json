@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 66854,
+  "num_followers": 66921,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMDAyNmQ4ZTViYWNkMzJjYTEyMjUzNzcxZTQ4NWQ2NGJi",
+  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMDMzZjQ2ZjJjODZkMmE0MWU2ZWE1OGY3ZjZlM2ViZmJh",
   "tracks": [
     {
       "added_at": "2022-08-17 17:45:27",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2022-08-17 17:45:27",
       "album": {
+        "name": "LHNA",
+        "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
+      },
+      "artists": [
+        {
+          "name": "RobGz",
+          "url": "https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "LHNA",
+      "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
+    },
+    {
+      "added_at": "2022-08-17 17:45:27",
+      "album": {
         "name": "Me Llamas",
         "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 327999,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
-    },
-    {
-      "added_at": "2022-08-17 17:45:27",
-      "album": {
-        "name": "LHNA",
-        "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
-      },
-      "artists": [
-        {
-          "name": "RobGz",
-          "url": "https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 200145,
-      "name": "LHNA",
-      "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
     },
     {
       "added_at": "2022-08-17 17:45:27",

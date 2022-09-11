@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Kaleah Lee \| Visual Artist: Bailey Elder
 
-184 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+185 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Married to the Ground](https://open.spotify.com/track/24agh4Z8pYY8F8h0cpm3IM) | [Glitterfox](https://open.spotify.com/artist/7sTGtcslsxEgrgfLdmuwgJ) | [Night](https://open.spotify.com/album/1VpIs4nLopmtNMLLDllupH) | 3:41 | 2022-05-25 |  |
 | [Martha](https://open.spotify.com/track/6aTPKT3Wc7P6x10tn0yqxf) | [Tina Boonstra](https://open.spotify.com/artist/2H6LfNrRiHP6J007Cgol35) | [Martha](https://open.spotify.com/album/2XalYtWCThVNr7YRVYJBLl) | 3:36 | 2022-07-20 |  |
 | [Mary](https://open.spotify.com/track/5mPfliRSVA7EXhHuJLfFz9) | [Sydney Layne](https://open.spotify.com/artist/6gCW563dCbPKR1ma9HULIl) | [Mary](https://open.spotify.com/album/19GC6OUNJwtNE8yb7BkDPp) | 3:34 | 2022-05-25 | 2022-08-11 |
-| [Meet Me at the Lake](https://open.spotify.com/track/5jd51Z2kIpeMa2sU10HfFT) | [Root Mean Square](https://open.spotify.com/artist/0idfWq9oG8LIPqBZTq5ZuV) | [Meet Me at the Lake](https://open.spotify.com/album/6sVZMNWEKn7SN1cg6I7XRc) | 3:29 | 2022-07-06 |  |
+| [Meet Me at the Lake](https://open.spotify.com/track/3QLvYJKEPDnfj5ydv4LTfr) | [Root Mean Square](https://open.spotify.com/artist/0idfWq9oG8LIPqBZTq5ZuV) | [Meet Me at the Lake](https://open.spotify.com/album/6NQ2rJFGqU0hTNPyUPHINw) | 3:29 | 2022-08-24 |  |
+| [Meet Me at the Lake](https://open.spotify.com/track/5jd51Z2kIpeMa2sU10HfFT) | [Root Mean Square](https://open.spotify.com/artist/0idfWq9oG8LIPqBZTq5ZuV) | [Meet Me at the Lake](https://open.spotify.com/album/6sVZMNWEKn7SN1cg6I7XRc) | 3:29 | 2022-07-06 | 2022-09-11 |
 | [Megachurch](https://open.spotify.com/track/5tXkuObswa1uxjKoQaZhHf) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Megachurch](https://open.spotify.com/album/1LnMJUIle8lLZiHHBZpy8U) | 4:12 | 2022-06-15 |  |
 | [Moms Song](https://open.spotify.com/track/4t0qpQnjzOJLnbZMGw0nvy) | [Tess](https://open.spotify.com/artist/5ZwQXTCHmw958nA8imMb3a) | [Moms Song](https://open.spotify.com/album/2lY8ZK2ct0Dl9PDCp80EFE) | 2:59 | 2022-05-25 | 2022-09-01 |
 | [Morningbird](https://open.spotify.com/track/54jsQ2oan9bmyaiDPVjbtv) | [Ten Minute Detour](https://open.spotify.com/artist/2xt2sGmcA036zAGPaHmk8n) | [Morningbird](https://open.spotify.com/album/6SYxAeeKJrcFb065q3q45b) | 4:10 | 2022-05-25 | 2022-06-30 |

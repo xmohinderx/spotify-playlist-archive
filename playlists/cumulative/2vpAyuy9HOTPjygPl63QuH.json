@@ -188,7 +188,7 @@
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 257008,
+      "duration_ms": 257010,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/1VGpcPvVZeZ8xgv0UMPzOM"
     },
@@ -2144,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "UV Protection Vol. 4",
+        "url": "https://open.spotify.com/album/15jNctglkeLWnilz8bbAvW"
+      },
+      "artists": [
+        {
+          "name": "Z A K",
+          "url": "https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270188,
+      "name": "Fall In - Original Mix",
+      "url": "https://open.spotify.com/track/5pHx49j3E57grMbXXRi0xz"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5H5KXYChlIn0V50hLoV9C7"
       },
@@ -3999,12 +4017,8 @@
           "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         },
         {
-          "name": "Illyus",
-          "url": "https://open.spotify.com/artist/6HV12TaR0wBwhDyScJk0ZH"
-        },
-        {
-          "name": "Barrientos",
-          "url": "https://open.spotify.com/artist/5QW9RJGuMEFj33bZKEBrpB"
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
         }
       ],
       "date_added": "2022-09-09",

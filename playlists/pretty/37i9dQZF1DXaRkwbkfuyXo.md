@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Los corridos más alterados y arremangados\. Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,304 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,472 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 13 | [El de los Lentes Carrera](https://open.spotify.com/track/0GsCrrrcK5asymW6QpCUKc) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [El de los Lentes Carrera](https://open.spotify.com/album/2VCtTs3ZpYcE82M2CKhEM4) | 3:43 |
 | 14 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
 | 15 | [Cuernito Armani](https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:03 |
-| 16 | [El Mochomo](https://open.spotify.com/track/4I7v9Wht7b1MlHaTQA0fD3) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Más Impactantes](https://open.spotify.com/album/6n5t0vh961jJmlY8jivjw9) | 2:34 |
+| 16 | [El Mochomo](https://open.spotify.com/track/4I7UKv1Cg5Feote1cQHSEM) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:32 |
 | 17 | [El Águila Blanca](https://open.spotify.com/track/0crJsMs5FmnMHvQG1itkc0) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 2:20 |
 | 18 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 |
 | 19 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 74 | [Viva Mi Lindo Michoacan](https://open.spotify.com/track/534NRKCO5nvYwOXqY1gydw) | [Banda Guasaveña de Valentín Elizalde](https://open.spotify.com/artist/3v9m4DhfDvDS2YYxmLSRLG) | [La Sorpresa Del Katch](https://open.spotify.com/album/48Aj5n1ZpfdLTQmiYwv0wL) | 2:49 |
 | 75 | [Casquillos De Mi Cuerno](https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 3:07 |
 
-Snapshot ID: `MTY1NTc2MzE1OSwwMDAwMDAwMGI4MzIwMjQ5YjcwY2MxYjcwOTM1ZmQ3MmZkM2EwYzY4`
+Snapshot ID: `MTY1NTc2MzE1OSwwMDAwMDAwMGYzNDQxM2QyNGJkNDI1OTEzMjVkYmQ0OGJiOGQyZDIz`

@@ -4,7 +4,7 @@
 
 > The best metal of 2016!
 
-195 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
+196 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Han Som Hatar Människan \- Remastered](https://open.spotify.com/track/1TtdHZ4KvN56LCt9evBUaL) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Redefining Darkness](https://open.spotify.com/album/72heCequbHTS0GfiskoxAR) | 6:49 | 2016-12-02 | 2022-07-29 |
 | [Han Som Hatar Människan \- Remastered](https://open.spotify.com/track/6HxZDD0ozOnuvjwZ8IKt2J) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Redefining Darkness](https://open.spotify.com/album/0sb7sYbWLRPR2Q7XQfK2BU) | 6:49 | 2022-07-29 |  |
 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 | 2016-12-02 |  |
-| [Hating](https://open.spotify.com/track/215c3freFTapYWmi4qVtnh) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/5dfi3L9UmI9vaHBjNyfTb2) | 6:48 | 2016-12-02 |  |
+| [Hating](https://open.spotify.com/track/0MUBj8GFI5RUxuIMGjtvTm) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/7a7MVyLYxQZWFAosFyvnyK) | 6:48 | 2022-09-11 |  |
+| [Hating](https://open.spotify.com/track/215c3freFTapYWmi4qVtnh) | [Eight Bells](https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN) | [Landless](https://open.spotify.com/album/5dfi3L9UmI9vaHBjNyfTb2) | 6:48 | 2016-12-02 | 2022-09-11 |
 | [Heliopause](https://open.spotify.com/track/1gZXlFawH8MXJ4h4TlsFN6) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Audio Noir](https://open.spotify.com/album/6SbMiZ5wec3DouqNuiFMRs) | 3:44 | 2016-12-15 | 2022-07-29 |
 | [Heliopause](https://open.spotify.com/track/5a5g4xXYHxFfe575GmC3cN) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Audio Noir](https://open.spotify.com/album/2uUIDlTn4Hh1A5O8BoUQzt) | 3:44 | 2022-07-29 |  |
 | [Hellionaires](https://open.spotify.com/track/7ssuOuGRKW0lMPm5T2kcUL) | [Trap Them](https://open.spotify.com/artist/1QXcKL8Ggy8uCA23mFKgws) | [Crown Feral](https://open.spotify.com/album/6wZeoTaEJ3k05OfxCxVIio) | 3:30 | 2016-12-15 |  |

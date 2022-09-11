@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,555 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,135 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 22 | [go \- Lower & Slower](https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:44 |
 | 23 | [SNAP \- Low and Slow](https://open.spotify.com/track/1XV9T4WLr3N4xacgl58hvT) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 3:23 |
 | 24 | [Vision \- Slowed](https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr) | 4:59 |
-| 25 | [After Party \- CHOPNOTSLOP REMIX](https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Heaven Or Hell \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/album/69RuKg34VBwhfiGuMpXUWQ) | 3:20 |
-| 26 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \- Slowed + Reverb](https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \[Slowed + Reverb\]](https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC) | 2:18 |
+| 25 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \- Slowed + Reverb](https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \[Slowed + Reverb\]](https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC) | 2:18 |
+| 26 | [After Party \- CHOPNOTSLOP REMIX](https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Heaven Or Hell \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/album/69RuKg34VBwhfiGuMpXUWQ) | 3:20 |
 | 27 | [AVOID ME \- Slowed + Reverb](https://open.spotify.com/track/6D5ahExQvVjiA2PnNtcPCb) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME \(Slowed + Reverb\)](https://open.spotify.com/album/3WzfkIRlBXBBB5UHHOvIIN) | 2:07 |
 | 28 | [Bananza \(Belly Dancer\) \- Slowed](https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Bananza \(Belly Dancer\) \[Remixes\]](https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj) | 2:33 |
 | 29 | [Dream Girl \- Slowed + Reverb](https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl \(Slowed + Reverb\)](https://open.spotify.com/album/2NlFPxPuRjjLrxAPDvFAiT) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
 | 50 | [Feel Like \(Slowed\)](https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo) | [AREZRA](https://open.spotify.com/artist/6CgedJ2dk5GP40gS1OmGgE) | [Feel Like \(Slowed\)](https://open.spotify.com/album/2NT2KC0E0YiiC6YHiuGoNJ) | 3:37 |
 
-Snapshot ID: `MTY2MTU0MTE2MywwMDAwMDAwMDJiZjM2MDIyY2U2ZmNmODVjNGM4OTkzM2JkNjI0Yjli`
+Snapshot ID: `MTY2MTU0MTE2MywwMDAwMDAwMDZhNTFkOGE2MDJjNWZlMmQ2ZDg4ZTgyNGM1Y2ExMjU5`

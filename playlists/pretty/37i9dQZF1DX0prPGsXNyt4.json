@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Paulin da Capital, Mc Dricka",
-  "num_followers": 33200,
+  "num_followers": 33253,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDc2Njg4ZDM5NDA5N2YyMWM3M2EwNzBhYTQ3YzRkODdm",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDQyZGU5ZGFiYmIzOGY5ZThmMWExMjYwYzA1YWM1ZWVj",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Vida Toda - Spotify Singles",
-        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Vida Toda - Spotify Singles",
-      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 186947,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Vida Toda - Spotify Singles",
+        "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 153245,
+      "name": "Vida Toda - Spotify Singles",
+      "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -363,38 +363,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Perdi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Perdi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Google da Minha Vida",
-        "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 137872,
-      "name": "Google da Minha Vida",
-      "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -419,6 +387,38 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Google da Minha Vida",
+        "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Google da Minha Vida",
+      "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Perdi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Perdi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -955,30 +955,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Plano Perfeito",
-        "url": "https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Plano Perfeito",
-      "url": "https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 176302,
       "name": "Culpa",
       "url": "https://open.spotify.com/track/1FmcDuK4BmnUZ0rXDFsJbX"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Plano Perfeito",
+        "url": "https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Plano Perfeito",
+      "url": "https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep"
     },
     {
       "added_at": "2022-08-12 03:01:00",

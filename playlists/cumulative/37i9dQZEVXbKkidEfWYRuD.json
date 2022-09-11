@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 153213,
       "name": "2step (feat. Antytila)",
       "url": "https://open.spotify.com/track/0EgNmGWjnYm3FMyaOW5xsM"
@@ -1244,6 +1244,28 @@
     },
     {
       "album": {
+        "name": "BUGATTI",
+        "url": "https://open.spotify.com/album/4sNRzGP1UelzToJHQecF9a"
+      },
+      "artists": [
+        {
+          "name": "Arut",
+          "url": "https://open.spotify.com/artist/0mp2sdIanszB7wxCNM8fr0"
+        },
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "BUGATTI",
+      "url": "https://open.spotify.com/track/73LHQpKsDoDg4GbNzMKFQN"
+    },
+    {
+      "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w"
       },
@@ -1451,7 +1473,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -14131,6 +14153,24 @@
       "duration_ms": 193043,
       "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430 (feat. \u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434, Skofka)",
       "url": "https://open.spotify.com/track/6elbXjrCvueg010YEQJx8X"
+    },
+    {
+      "album": {
+        "name": "\u0425\u043e\u0447\u0435\u0448\u044c \u043a\u0440\u0438\u0447\u0430\u0442\u044c?",
+        "url": "https://open.spotify.com/album/4BJISczzj7yRyKR9txfmGC"
+      },
+      "artists": [
+        {
+          "name": "\u0411\u0420\u0415\u0414\u0418\u0428\u042c",
+          "url": "https://open.spotify.com/artist/0P9E2MHee0cXNpIeAvFAt1"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83076,
+      "name": "\u0421\u043e\u0446\u0438\u0443\u043c",
+      "url": "https://open.spotify.com/track/1hj897uhUQWnIvucLp4BRt"
     },
     {
       "album": {

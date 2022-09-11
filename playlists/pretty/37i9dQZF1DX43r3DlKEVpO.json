@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59242,
+  "num_followers": 59260,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGMxMmUxYzhjNTBkMjNmYzIwMWZhMzMyODljZjE5MjRh",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGJkZTVmOGUwMTFjN2M2MjAyMjI0NzM4NGIzZGE1YzEw",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "It's Now or Never",
-      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Um banda um",
         "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 200960,
       "name": "Andar com f\u00e9",
       "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "It's Now or Never",
+      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "S\u00e1 Marina",
-      "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Lola vs. Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)",
         "url": "https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 204066,
       "name": "This Time Tomorrow (Stereo) - 2014 Remastered Version",
       "url": "https://open.spotify.com/track/1hlfAVmWBxdpUp4PK658rR"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "S\u00e1 Marina",
+      "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
     },
     {
       "added_at": "2021-08-18 22:14:03",

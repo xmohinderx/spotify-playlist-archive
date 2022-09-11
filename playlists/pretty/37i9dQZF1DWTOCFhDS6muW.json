@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 15671,
+  "num_followers": 15684,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDI0ODYxNmM1ZDU4MmFlNzBiOGY1MzU4ZjRiMjMyMzli",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDYzYjUwZjFmM2ZkYWY0YmZkMTUzNzdiYWI5YzNlNDI2",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -567,38 +567,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Quemala",
-        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
       },
       "artists": [
         {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
-        },
-        {
-          "name": "Mr Jc",
-          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
-        },
-        {
-          "name": "MC Productions Inc",
-          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
-        },
-        {
-          "name": "KD La Caracola",
-          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
-        },
-        {
-          "name": "Jessy Rose",
-          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
-        },
-        {
-          "name": "Big Nango",
-          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Quemala",
-      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -651,18 +631,38 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+        "name": "Quemala",
+        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "Mr Jc",
+          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        },
+        {
+          "name": "KD La Caracola",
+          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
+        },
+        {
+          "name": "Jessy Rose",
+          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
+        },
+        {
+          "name": "Big Nango",
+          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
         }
       ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
+      "duration_ms": 145321,
+      "name": "Quemala",
+      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
     },
     {
       "added_at": "2020-05-26 15:53:13",

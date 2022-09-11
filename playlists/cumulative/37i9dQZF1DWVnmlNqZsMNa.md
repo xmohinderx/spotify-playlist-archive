@@ -4,7 +4,7 @@
 
 > The nature has a lot to say\. Come, talk a walk!
 
-54 songs - 2 hr 47 min - not published yet
+54 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/4XEkX0T00C882R8DhLRZMY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

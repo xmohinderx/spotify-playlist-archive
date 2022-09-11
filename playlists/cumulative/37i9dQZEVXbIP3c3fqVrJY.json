@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "13. komnata",
       "url": "https://open.spotify.com/track/302zIkWq3gT9BEorlYcgXU"
@@ -2503,7 +2503,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -7673,7 +7673,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -8589,7 +8589,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 128681,
       "name": "Nejlep\u0161\u00ed Droga Je \u010cist\u00e1 Hlava",
       "url": "https://open.spotify.com/track/6SExA4zbrxF9m8ds37Udq9"
@@ -8991,7 +8991,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -12469,6 +12469,24 @@
       "duration_ms": 202454,
       "name": "To je kl\u00ed\u010d",
       "url": "https://open.spotify.com/track/6FeSeqI3mQVw5ZPmoEVlM8"
+    },
+    {
+      "album": {
+        "name": "To neni hra",
+        "url": "https://open.spotify.com/album/3lJ4rOyS7DWI7xkDenaCjL"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206432,
+      "name": "To neni hra",
+      "url": "https://open.spotify.com/track/5mC6tVYVscr1YR4zD6p94h"
     },
     {
       "album": {

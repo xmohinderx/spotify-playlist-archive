@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 150882,
+  "num_followers": 151470,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMGQ3NzU1ZjBlYWJiYjRmODMxY2UwOTVmM2M4NzAwZjk1",
+  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMDcwNDBjMDAxZGQwYWYzMWY0OTBkYzg4NDU4OGU5NjI4",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Yo No Fui",
-        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
       "artists": [
         {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 292400,
-      "name": "Yo No Fui",
-      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
+      "duration_ms": 175106,
+      "name": "El Pastor",
+      "url": "https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "Yo No Fui",
+        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
       },
       "artists": [
         {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 175106,
-      "name": "El Pastor",
-      "url": "https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr"
+      "duration_ms": 292400,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Javier Solis Con Acoo De Mariachi",
         "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 218626,
       "name": "Amarte A La Antigua",
       "url": "https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "30 Grandes De Infante",
-        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
-      },
-      "artists": [
-        {
-          "name": "Infante",
-          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 233666,
       "name": "Asi Te Quiero - Con Mariachi",
       "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "30 Grandes De Infante",
+        "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
+      },
+      "artists": [
+        {
+          "name": "Infante",
+          "url": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
     },
     {
       "added_at": "2022-08-31 15:59:33",

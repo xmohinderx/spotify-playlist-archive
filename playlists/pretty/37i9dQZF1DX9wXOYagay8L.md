@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60?si=w4u2Bt6dTM\-ZcjbUd8HQrw">MusiholiQ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,345 likes - 65 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,464 likes - 65 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

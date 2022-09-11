@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199192,
+  "num_followers": 199203,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQwNTA3NCwwMDAwMDAwMDQwNjE5ZjM5OWJjNzE3MmJiODI1OTY0MTkyMGZlZWJm",
+  "snapshot_id": "MTY2MjQwNTA3NCwwMDAwMDAwMGFkNzFkM2ExYTk5MTVhMGVmMmUxZmE1OTIxNTA3YzFh",
   "tracks": [
     {
       "added_at": "2022-09-05 19:11:14",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Sin Mentir",
-        "url": "https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry"
-      },
-      "artists": [
-        {
-          "name": "El Cruce",
-          "url": "https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK"
-        }
-      ],
-      "duration_ms": 185416,
-      "name": "Se Nos Fue el Amor",
-      "url": "https://open.spotify.com/track/1E9rLfNTizWr2zORB4HM6C"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "De Polic\u00eda a Ladr\u00f3n",
         "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 192646,
       "name": "De Polic\u00eda a Ladr\u00f3n",
       "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Sin Mentir",
+        "url": "https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry"
+      },
+      "artists": [
+        {
+          "name": "El Cruce",
+          "url": "https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK"
+        }
+      ],
+      "duration_ms": 185416,
+      "name": "Se Nos Fue el Amor",
+      "url": "https://open.spotify.com/track/1E9rLfNTizWr2zORB4HM6C"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Te Mueres",
-        "url": "https://open.spotify.com/album/03sxKGrSIHyjp9S5EXtcub"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 406546,
-      "name": "Te Mueres - En Vivo",
-      "url": "https://open.spotify.com/track/29bbukCrs2vjeeUwhHBR14"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Kollong",
         "url": "https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 242230,
       "name": "Kumbag\u00fce",
       "url": "https://open.spotify.com/track/1FaKFinuCoWMuViMMZNscl"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Te Mueres",
+        "url": "https://open.spotify.com/album/03sxKGrSIHyjp9S5EXtcub"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 406546,
+      "name": "Te Mueres - En Vivo",
+      "url": "https://open.spotify.com/track/29bbukCrs2vjeeUwhHBR14"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Ni\u00f1a Blanca",
         "url": "https://open.spotify.com/album/28L0BFyBWpYRxcKa35cSiD"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW"
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
       "artists": [
         {
-          "name": "Frank's White Canvas",
-          "url": "https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 255484,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s"
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1203,6 +1187,22 @@
       "duration_ms": 184517,
       "name": "Culpa",
       "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW"
+      },
+      "artists": [
+        {
+          "name": "Frank's White Canvas",
+          "url": "https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i"
+        }
+      ],
+      "duration_ms": 255484,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1259,38 +1259,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Para noventeros chilenos",
-        "url": "https://open.spotify.com/album/5PT5a0e9OJhMeejCDXdqqN"
-      },
-      "artists": [
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "M\u00e1gico",
-      "url": "https://open.spotify.com/track/4CtI6hFwdR0xlCdap0Fhyn"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Lo Que Haces",
-      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo"
       },
@@ -1323,6 +1291,22 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
+        "name": "Navidad Latin Rock",
+        "url": "https://open.spotify.com/album/0o8XQxHocFu0pgBQGOQJ7h"
+      },
+      "artists": [
+        {
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Cuando Respiro En Tu Boca",
+      "url": "https://open.spotify.com/track/0hcS3WBHh9F1cXfbulmU8K"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
         "name": "Camino a Casa",
         "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Navidad Latin Rock",
-        "url": "https://open.spotify.com/album/0o8XQxHocFu0pgBQGOQJ7h"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
       },
       "artists": [
         {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 211040,
-      "name": "Cuando Respiro En Tu Boca",
-      "url": "https://open.spotify.com/track/0hcS3WBHh9F1cXfbulmU8K"
+      "duration_ms": 232106,
+      "name": "Lo Que Haces",
+      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1391,22 +1375,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "La Manera Correcta",
-        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Ya\u00f1ez",
-          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "La Manera Correcta",
-      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Pienso en Ti",
         "url": "https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow"
       },
@@ -1423,6 +1391,22 @@
       "duration_ms": 265883,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "La Manera Correcta",
+        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "La Manera Correcta",
+      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
+        "name": "\u00c9xitos Chilenos",
+        "url": "https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw"
+      },
+      "artists": [
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "M\u00e1gico",
+      "url": "https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
         "name": "Una Vez Mas",
         "url": "https://open.spotify.com/album/18JA74xCkntmJ6NSs6jRAF"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Ya No Estamos Para Mentiras",
-        "url": "https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Ya No Estamos Para Mentiras",
-      "url": "https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Ya No Estamos Para Mentiras",
+        "url": "https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Ya No Estamos Para Mentiras",
+      "url": "https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
+        "name": "Fuerzas Que Retroceden",
+        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        },
+        {
+          "name": "Colombina Parra",
+          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+        }
+      ],
+      "duration_ms": 231403,
+      "name": "Fuerzas Que Retroceden",
+      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
         "name": "Todo lo que sube",
         "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 187000,
       "name": "Mujer Robusta (En Vivo Teatro Caupolic\u00e1n)",
       "url": "https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Fuerzas Que Retroceden",
-        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
-      },
-      "artists": [
-        {
-          "name": "Mowat",
-          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
-        },
-        {
-          "name": "Colombina Parra",
-          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
-        }
-      ],
-      "duration_ms": 231403,
-      "name": "Fuerzas Que Retroceden",
-      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
     },
     {
       "added_at": "2022-09-05 19:11:14",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: ONE OK ROCK",
-  "num_followers": 235121,
+  "num_followers": 235173,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMDU2MjVmYmY2MTNiODdjMjVhNTAwNjBmZmEyNDIzMDgw",
+  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMDY2YmU0ODlkY2ExNmI0NjY4ZTNkMDFmNmQ1Y2M2NWM2",
   "tracks": [
     {
       "added_at": "2022-09-08 15:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
+        "name": "Vandalize",
+        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
         "name": "Sense",
         "url": "https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 204853,
       "name": "Sense",
       "url": "https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "SLEEPLESS",
-        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
-      },
-      "artists": [
-        {
-          "name": "B'z",
-          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "SLEEPLESS",
-      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
+        "name": "SLEEPLESS",
+        "url": "https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "SLEEPLESS",
+      "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
         "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
         "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 278840,
       "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "Vandalize",
-        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194695,
-      "name": "Vandalize",
-      "url": "https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "\u306a\u306a\u3044\u308d",
-        "url": "https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 262146,
-      "name": "\u306a\u306a\u3044\u308d",
-      "url": "https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
         "name": "PARADISE (Kill The Silence)",
         "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "\u306a\u306a\u3044\u308d",
+        "url": "https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 262146,
+      "name": "\u306a\u306a\u3044\u308d",
+      "url": "https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
-        "url": "https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH"
-      },
-      "artists": [
-        {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
-        }
-      ],
-      "duration_ms": 224399,
-      "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
-      "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
         "name": "Tear Down",
         "url": "https://open.spotify.com/album/1vpH5sFlWAf0JnXEhsDWkt"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 232959,
       "name": "Tear Down",
       "url": "https://open.spotify.com/track/03gSWDA9k6VJD6IJRMVjyB"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
+        "url": "https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "duration_ms": 224399,
+      "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
+      "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"
     },
     {
       "added_at": "2022-09-08 15:00:00",

@@ -4,7 +4,7 @@
 
 > Joining the formal campaign to get the Lizzie McGuire reboot back in production.
 
-109 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
+110 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Ordinary Girl](https://open.spotify.com/track/2kIq7Oq6YNfdUuTrmPC4w1) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 2:57 | 2022-04-21 |  |
 | [Ordinary Girl](https://open.spotify.com/track/7DETWEnTmY875dC5Q8gvqV) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/5sYiillHfDiNUWUHZtlzFz) | 2:58 | 2022-03-25 | 2022-07-29 |
 | [Our Lips Are Sealed](https://open.spotify.com/track/6kv77w8Y9HC4OVLyAqAFpQ) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h), [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 2:39 | 2022-03-25 |  |
-| [Over](https://open.spotify.com/track/2vJzrTur6cWX2wX7ZvI38S) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:36 | 2022-03-25 |  |
+| [Over](https://open.spotify.com/track/2vJzrTur6cWX2wX7ZvI38S) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:36 | 2022-03-25 | 2022-09-11 |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2022-03-25 | 2022-07-29 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2022-04-21 |  |
 | [Pop Princess](https://open.spotify.com/track/4KOfCjk1xnMphqkmbn7yYN) | [The Click Five](https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP) | [Greetings From Imrie House \(U.S\. Version\)](https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ) | 4:18 | 2022-04-21 |  |
@@ -114,6 +114,7 @@
 | [When You Look Me In The Eyes](https://open.spotify.com/track/4kf33kU0KAlkNBK9pNbYNU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 4:09 | 2022-04-21 |  |
 | [When You Look Me in the Eyes](https://open.spotify.com/track/6YnauKvhKMFOX63RwmiCwH) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/6V6xjV5e4VYUqvQFBCx1rb) | 4:09 | 2022-03-25 | 2022-07-29 |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2022-03-25 |  |
+| [Wouldn't Change a Thing \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/0Di5p4ItolIUZB8c2P0pvs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:23 | 2022-09-10 |  |
 | [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 | 2022-03-25 |  |
 | [You Are the Music in Me](https://open.spotify.com/track/0Qd6nAlCe5RCSpFpQVT4JI) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7) | [High School Musical 2](https://open.spotify.com/album/4EqBweuKsDW4wd0CNZYSrG) | 3:27 | 2022-03-25 | 2022-07-29 |
 | [You Are the Music in Me](https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:27 | 2022-04-21 |  |

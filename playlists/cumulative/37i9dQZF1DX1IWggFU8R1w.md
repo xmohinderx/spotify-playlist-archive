@@ -4,7 +4,7 @@
 
 > Check out the official playlist from The Witcher\. Watch Season 2 now on Netflix.
 
-117 songs - 5 hr 57 min - not published yet
+117 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/2QOy9igHzE74ErcLfQ8T9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

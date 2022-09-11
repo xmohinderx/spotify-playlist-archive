@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 748738,
+  "num_followers": 748759,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMGQyMGFlYTc4Y2Y0YjFmNTIwNjI3NDRhZTgyNDI2OTkz",
+  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMGQ2ZTUxOTU3ZjhlOTRhNDE4MWM1NjllODIzYjcyMTA3",
   "tracks": [
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
-      },
-      "artists": [
-        {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 176701,
       "name": "Call",
       "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
     },
     {
       "added_at": "2022-09-06 16:40:42",

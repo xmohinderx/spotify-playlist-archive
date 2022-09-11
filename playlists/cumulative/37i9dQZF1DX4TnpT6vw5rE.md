@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-195 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+196 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2020-12-08\* |  |
 | [Aquarium](https://open.spotify.com/track/1u4qLLYs866O1PArVR5pPs) | [Casino Versus Japan](https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6) | [Whole Numbers Play The Basics](https://open.spotify.com/album/4HcmQ7of1IgRFzdp0dnrFY) | 4:59 | 2020-12-25 | 2021-05-27 |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2020-12-08\* |  |
+| [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 | 2022-09-02 |  |
 | [Autumnal](https://open.spotify.com/track/2DR3RcQLkcx9KqBEx9Raf7) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg) | 5:28 | 2020-12-08\* | 2021-05-27 |
 | [Awash](https://open.spotify.com/track/4vU5TfGGHeIwKVzWSov8TM) | [Manual](https://open.spotify.com/artist/57OTTQNo2lt78ydJsxwOLm) | [Awash](https://open.spotify.com/album/5G1QrK23ZwsQrKDjpbVNo7) | 5:39 | 2020-12-08\* | 2021-05-27 |
 | [Back to the Start](https://open.spotify.com/track/10yIs9zsN0BNnXJpejnZ2v) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Back to the Start \- Single](https://open.spotify.com/album/5nIpv7xaUzcjTyp3V1jgd9) | 4:46 | 2021-01-15 | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 | 2020-12-08\* |  |
 | [Sonno scintillante](https://open.spotify.com/track/5tmH0bmkkk5haZdbvWLzAk) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Sonno scintillante](https://open.spotify.com/album/2BRhy7AI0W4k4sUNjxhL4z) | 2:03 | 2022-01-06 |  |
 | [Split Second](https://open.spotify.com/track/6fWoRDNfECgRS3au8UjMqA) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Split Second](https://open.spotify.com/album/62jzv9TYMKZhDgxo1e0fA2) | 2:33 | 2021-12-22 |  |
-| [Standing in Silence, Pt\. 3](https://open.spotify.com/track/7peWz6xwuR5DWdjDMQuGZn) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0KLAXxu7GBA811RWmg7raB) | 5:13 | 2022-07-22 |  |
+| [Standing in Silence, Pt\. 3](https://open.spotify.com/track/7peWz6xwuR5DWdjDMQuGZn) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0KLAXxu7GBA811RWmg7raB) | 5:13 | 2022-07-22 | 2022-09-11 |
 | [Star Waves](https://open.spotify.com/track/2I0J13l3avJt2EfLHM03Qa) | [Vandis](https://open.spotify.com/artist/1Aco6Nf3MLLDTGaiyd1Y1u) | [Star Waves](https://open.spotify.com/album/50isrbNQMokQzbzTlBriSW) | 3:23 | 2020-12-08\* | 2021-05-27 |
 | [Stella](https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf) | [The Lost Astronaut](https://open.spotify.com/artist/2th806MD01Yc7JKd06uJ14) | [Stella](https://open.spotify.com/album/1ai1jBFImpmxd6KkSPZtMX) | 3:00 | 2020-12-08\* |  |
 | [Submergia](https://open.spotify.com/track/0bHPNWPKsoqlGkQJa7Pt7f) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Submergia](https://open.spotify.com/album/4jR4xnfi1ZeA13rStAbPSI) | 2:57 | 2020-12-08\* | 2021-03-18 |

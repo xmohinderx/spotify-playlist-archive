@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 26922,
+  "num_followers": 26956,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1NjE0NSwwMDAwMDAwMDc4ZWQ0YWI4YWI0MTQ5MTFlZDk4MjZmMmQzMTA2YTMy",
+  "snapshot_id": "MTY2MjU1NjE0NSwwMDAwMDAwMGNjMThmMjFlZWE4NjZjODMwZDZmZDliOWEyM2ZhNzJk",
   "tracks": [
     {
       "added_at": "2022-09-07 13:09:05",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
-        "name": "Quinto Relat\u00f3rio Anual",
-        "url": "https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd"
-      },
-      "artists": [
-        {
-          "name": "Pandit Pam Pam",
-          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
-        }
-      ],
-      "duration_ms": 217428,
-      "name": "Indonesia Print",
-      "url": "https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 126259,
       "name": "Meet Me At Sachas",
       "url": "https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "Quinto Relat\u00f3rio Anual",
+        "url": "https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "Indonesia Print",
+      "url": "https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
-        "name": "Pelikan (Aukai Rework)",
-        "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
-      },
-      "artists": [
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        },
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 332633,
-      "name": "Pelikan - Aukai Rework",
-      "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 259310,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "Pelikan (Aukai Rework)",
+        "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
+      },
+      "artists": [
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        },
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 332633,
+      "name": "Pelikan - Aukai Rework",
+      "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
-        "name": "Past and Future Tense",
-        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 224848,
-      "name": "MD 2",
-      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "Past and Future Tense",
+        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 224848,
+      "name": "MD 2",
+      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -1087,6 +1087,42 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6"
+      },
+      "artists": [
+        {
+          "name": "Jacob Haage",
+          "url": "https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p"
+        },
+        {
+          "name": "Sarah Assbring",
+          "url": "https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4"
+        }
+      ],
+      "duration_ms": 197021,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "Vergers",
+        "url": "https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 512724,
+      "name": "Ghosts and All",
+      "url": "https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
         "name": "Razor (Foam and Sand Remix)",
         "url": "https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky"
       },
@@ -1111,38 +1147,18 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
-        "name": "Vergers",
-        "url": "https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG"
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 512724,
-      "name": "Ghosts and All",
-      "url": "https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6"
-      },
-      "artists": [
-        {
-          "name": "Jacob Haage",
-          "url": "https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p"
-        },
-        {
-          "name": "Sarah Assbring",
-          "url": "https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4"
-        }
-      ],
-      "duration_ms": 197021,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn"
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -1163,22 +1179,6 @@
       "duration_ms": 190980,
       "name": "Strength (feat. LA Timpa)",
       "url": "https://open.spotify.com/track/3D5wpeCGulAoD7L0n3i2Sn"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
         "name": "The landscape has become a bed",
         "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 299870,
       "name": "Open plain",
       "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
         "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
         "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
       },
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
-        "name": "CRATER",
-        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
-      },
-      "artists": [
-        {
-          "name": "Booker Stardrum",
-          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
-        }
-      ],
-      "duration_ms": 322948,
-      "name": "Walking Through Still Air",
-      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 304053,
       "name": "Touches Everything",
       "url": "https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+      },
+      "artists": [
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        }
+      ],
+      "duration_ms": 322948,
+      "name": "Walking Through Still Air",
+      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -1611,54 +1611,6 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/5rB8CO9WSynmwkAT6Cv56S"
-      },
-      "artists": [
-        {
-          "name": "Stefan Obermaier",
-          "url": "https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf"
-        }
-      ],
-      "duration_ms": 356422,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/46Q4GzVpSvS9gxLcoZiXlc"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
-        "name": "Remember Rainbow Bridge",
-        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
-      },
-      "artists": [
-        {
-          "name": "Croatian Amor",
-          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
-        }
-      ],
-      "duration_ms": 239224,
-      "name": "Alabaster",
-      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
         "name": "Lucy & Aaron",
         "url": "https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA"
       },
@@ -1679,6 +1631,38 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
+        "name": "Remember Rainbow Bridge",
+        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 239224,
+      "name": "Alabaster",
+      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/5rB8CO9WSynmwkAT6Cv56S"
+      },
+      "artists": [
+        {
+          "name": "Stefan Obermaier",
+          "url": "https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf"
+        }
+      ],
+      "duration_ms": 356422,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/46Q4GzVpSvS9gxLcoZiXlc"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 286283,
+      "name": "Adagio I - Mut",
+      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2022-09-07 13:09:05",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-09-07 13:09:05",
       "album": {
+        "name": "Blink a Few Times to Clear Your Eyes",
+        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
+      },
+      "artists": [
+        {
+          "name": "Grand River",
+          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF"
+    },
+    {
+      "added_at": "2022-09-07 13:09:05",
+      "album": {
         "name": "Silicon Jungle (Sofie Birch Remix)",
         "url": "https://open.spotify.com/album/0G7LEsMsmaZX2f9w8u4hrP"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 321701,
       "name": "Silicon Jungle - Sofie Birch Remix",
       "url": "https://open.spotify.com/track/3zpbuCezsYzGBtaNI2whRN"
-    },
-    {
-      "added_at": "2022-09-07 13:09:05",
-      "album": {
-        "name": "Blink a Few Times to Clear Your Eyes",
-        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
-      },
-      "artists": [
-        {
-          "name": "Grand River",
-          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF"
     }
   ],
   "unique_name": "Electronic X",

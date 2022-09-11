@@ -418,6 +418,32 @@
     },
     {
       "album": {
+        "name": "Latin Fitness 2015 (Workout Party Music - Latin Hits ideal for Running, Fat Burning, Aerobic, Gym, Cardio, Training, Exercise)",
+        "url": "https://open.spotify.com/album/16tOGqmdb9JZMykQt8HBCH"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273853,
+      "name": "Bailando - Official Salsa Version",
+      "url": "https://open.spotify.com/track/2CyRtX6QaCnaDtbqNo9aGU"
+    },
+    {
+      "album": {
         "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
         "url": "https://open.spotify.com/album/139XPhRru8lBDs5EYq4yWU"
       },
@@ -2065,7 +2091,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 342400,
       "name": "Marcando la Distancia",
       "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"

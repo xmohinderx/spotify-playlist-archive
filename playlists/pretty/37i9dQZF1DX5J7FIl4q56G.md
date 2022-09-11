@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Blind Channel
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,359 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,467 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 16 | [Paper Tigers](https://open.spotify.com/track/1PuotfjnbQI7oHrBI8xicO) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Paper Tigers](https://open.spotify.com/album/6Fk7r30faN2PkbVaJiBPhN) | 3:54 |
 | 17 | [Still Sinking](https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Inside My Head](https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk) | 3:44 |
 | 18 | [California](https://open.spotify.com/track/2RbsyaI0zdaVRNB2SgpYBT) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Drive](https://open.spotify.com/album/4Wv6igCMhtBQL8R14ybdvG) | 3:46 |
-| 19 | [Stolen Youth \(with Famous Last Words & Outline in Color\)](https://open.spotify.com/track/4UiYmu3PFXy2ReV0s7zINS) | [Famous Last Words](https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw), [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Stolen Youth](https://open.spotify.com/album/2ZyFLNjWy9bi6ZC9WW3QMl) | 3:27 |
+| 19 | [Stolen Youth \(with Famous Last Words & Outline in Color\)](https://open.spotify.com/track/4UiYmu3PFXy2ReV0s7zINS) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE), [Famous Last Words](https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw) | [Stolen Youth](https://open.spotify.com/album/2ZyFLNjWy9bi6ZC9WW3QMl) | 3:27 |
 | 20 | [GODLESS](https://open.spotify.com/track/5BdyC5PvWeeqCRZZHbdvH1) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO), [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [GODLESS](https://open.spotify.com/album/79LX8Kyn18K6MwciUb7mOU) | 2:42 |
 | 21 | [Switchblade](https://open.spotify.com/track/3a4zjPyISLKRuep7alFUFZ) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Switchblade](https://open.spotify.com/album/4blDb3RHUI5a3AjcMVrD6r) | 2:19 |
 | 22 | [It Has to Be This Way](https://open.spotify.com/track/0ptgkmpjyoVAnqGvDakvnR) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [It Has to Be This Way](https://open.spotify.com/album/38bAjVFX5609NSHSrYSFME) | 4:58 |

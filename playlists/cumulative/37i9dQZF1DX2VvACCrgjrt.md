@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: ESSEL
 
-334 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+335 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,10 @@
 | [DeathRow](https://open.spotify.com/track/0UqxTBffHZUB7hS5ihIh1D) | [Gianni Ruocco](https://open.spotify.com/artist/3bOkTYFEDhjquQI5A2JLOC), [Le Roi Carmona](https://open.spotify.com/artist/1RUMnaGbYzAp5Nb3AfFR5A) | [DeathRow EP](https://open.spotify.com/album/5dZIfsrK7dhOhPJwzPjbyi) | 3:43 | 2021-10-29 | 2021-12-28 |
 | [deeper](https://open.spotify.com/track/5Qb1L6fvkn9fLWKlyTvqiJ) | [Pinkloud](https://open.spotify.com/artist/2KwoAuL8klb3EU3ayrPgQu) | [deeper](https://open.spotify.com/album/2euImXBTU6dWDrelJ5b94V) | 3:42 | 2021-10-29 | 2022-07-30 |
 | [Deja Vu](https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Deja Vu](https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX) | 3:05 | 2022-04-01 |  |
-| [Diamonds](https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Diamonds](https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU) | 3:23 | 2022-03-18 |  |
+| [Diamonds](https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Diamonds](https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU) | 3:23 | 2022-03-18 | 2022-09-11 |
 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 | 2022-03-18 | 2022-07-30 |
 | [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 |  |
+| [Dipped In Sugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 | 2022-09-09 |  |
 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 | 2022-07-22 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-04-23 |
 | [Do Me Right](https://open.spotify.com/track/6mLJ7zIYSd0UU4clzjKjMC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Do Me Right](https://open.spotify.com/album/67FSPQuOEYIU4vqtcg0Fxm) | 3:01 | 2021-10-29 | 2022-01-22 |

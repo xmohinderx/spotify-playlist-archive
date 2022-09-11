@@ -4,7 +4,7 @@
 
 > Soft acoustic sounds for your massage session.
 
-104 songs - 5 hr 48 min - not published yet
+104 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/34qPnDmQysY09FJqV1fj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

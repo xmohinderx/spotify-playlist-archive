@@ -1,12 +1,12 @@
 {
   "description": "Hymns for darker hours.",
-  "num_followers": 50757,
+  "num_followers": 50957,
   "original_name": "Dark Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1NDI0OSwwMDAwMDAwMDc0MWEzZTg3YjQyMDEwNWFhM2QxZDUyNTgyYzY5ZjBm",
+  "snapshot_id": "MTY2MDc1NDI0OSwwMDAwMDAwMGYxZDIwZGVlZmQxOTQwOWZhZTU5MWNhYmU0NDEwZTdh",
   "tracks": [
     {
       "added_at": "2022-08-17 16:37:29",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
+        "name": "Fen",
+        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
+      },
+      "artists": [
+        {
+          "name": "Wac\u0142aw Zimpel",
+          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "Fen",
+      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/0FAkEJQAINUzXCT0V4V2P4"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 254986,
       "name": "Barco",
       "url": "https://open.spotify.com/track/4X5TeiBCg2mpHQQnbozwGa"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
-        "name": "Fen",
-        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
-      },
-      "artists": [
-        {
-          "name": "Wac\u0142aw Zimpel",
-          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "Fen",
-      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
+        "name": "All We Can't See / An Image",
+        "url": "https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 116013,
+      "name": "All We Can't See",
+      "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
         "name": "Pipopapipo",
         "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 767583,
       "name": "En Bas Tu Vois",
       "url": "https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
-        "name": "All We Can't See / An Image",
-        "url": "https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 116013,
-      "name": "All We Can't See",
-      "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
-        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
-        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amara",
-          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
-        }
-      ],
-      "duration_ms": 188875,
-      "name": "Piano II",
-      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 169911,
       "name": "Under",
       "url": "https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
+        "name": "That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits",
+        "url": "https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amara",
+          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
+        }
+      ],
+      "duration_ms": 188875,
+      "name": "Piano II",
+      "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Jonasson",
-          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
-        }
-      ],
-      "duration_ms": 260250,
-      "name": "Time Dilation",
-      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
         "name": "Cast Of Mind",
         "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Jonasson",
+          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
+        }
+      ],
+      "duration_ms": 260250,
+      "name": "Time Dilation",
+      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
         "name": "Vaara",
         "url": "https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7"
       },
@@ -723,6 +723,30 @@
       "duration_ms": 309708,
       "name": "Vaara",
       "url": "https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs"
+      },
+      "artists": [
+        {
+          "name": "Loke Rahbek",
+          "url": "https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw"
+        },
+        {
+          "name": "Frederik Valentin",
+          "url": "https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y"
+        },
+        {
+          "name": "CTM",
+          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
+        }
+      ],
+      "duration_ms": 196634,
+      "name": "In Waves",
+      "url": "https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -759,30 +783,6 @@
       "duration_ms": 223999,
       "name": "Ending Theme",
       "url": "https://open.spotify.com/track/3xkWegiABp4TsIMpT41Qhg"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs"
-      },
-      "artists": [
-        {
-          "name": "Loke Rahbek",
-          "url": "https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw"
-        },
-        {
-          "name": "Frederik Valentin",
-          "url": "https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y"
-        },
-        {
-          "name": "CTM",
-          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
-        }
-      ],
-      "duration_ms": 196634,
-      "name": "In Waves",
-      "url": "https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
-        "name": "Shadow Box",
-        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
-      },
-      "artists": [
-        {
-          "name": "Vanity Productions",
-          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Melts All Your Memories",
-      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
         "name": "In Light Of Blues",
         "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 187245,
       "name": "Melancholy Movement",
       "url": "https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
+        "name": "Shadow Box",
+        "url": "https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T"
+      },
+      "artists": [
+        {
+          "name": "Vanity Productions",
+          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Melts All Your Memories",
+      "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -1023,6 +1023,38 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
+        "name": "Nuuk",
+        "url": "https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc"
+      },
+      "artists": [
+        {
+          "name": "Thomas K\u00f6ner",
+          "url": "https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Nuuk (Air)",
+      "url": "https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
+        "name": "Grafts (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 617500,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
         "name": "is this nature escape",
         "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
       },
@@ -1039,18 +1071,18 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
-        "name": "Nuuk",
-        "url": "https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc"
+        "name": "Stumhetens toner",
+        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
       },
       "artists": [
         {
-          "name": "Thomas K\u00f6ner",
-          "url": "https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v"
+          "name": "Isorinne",
+          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
         }
       ],
-      "duration_ms": 290813,
-      "name": "Nuuk (Air)",
-      "url": "https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK"
+      "duration_ms": 304832,
+      "name": "T\u00e5rl\u00f6s sorg",
+      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -1087,38 +1119,6 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
-        "name": "Grafts (Expanded Reissue)",
-        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 617500,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
-        "name": "Stumhetens toner",
-        "url": "https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd"
-      },
-      "artists": [
-        {
-          "name": "Isorinne",
-          "url": "https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc"
-        }
-      ],
-      "duration_ms": 304832,
-      "name": "T\u00e5rl\u00f6s sorg",
-      "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
         "name": "Waves (Oliver Doerell & Helga Raimondi Rework)",
         "url": "https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 314454,
       "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
       "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 307080,
-      "name": "The Edges",
-      "url": "https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 307080,
+      "name": "The Edges",
+      "url": "https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
         "name": "Quarter Turns over a Living Line",
         "url": "https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 270260,
       "name": "Passed over Trail",
       "url": "https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
+      },
+      "artists": [
+        {
+          "name": "Tentacle",
+          "url": "https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap"
+        }
+      ],
+      "duration_ms": 447034,
+      "name": "Breakdown (The End of Chemical Romance)",
+      "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -1231,22 +1247,6 @@
       "duration_ms": 264343,
       "name": "Landing in the Dark",
       "url": "https://open.spotify.com/track/4b1KcrVXtUox5yDx23BSYw"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
-        "name": "Breakdown",
-        "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
-      },
-      "artists": [
-        {
-          "name": "Tentacle",
-          "url": "https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap"
-        }
-      ],
-      "duration_ms": 447034,
-      "name": "Breakdown (The End of Chemical Romance)",
-      "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
     },
     {
       "added_at": "2022-08-17 16:37:29",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-08-17 16:37:29",
       "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 89302,
-      "name": "notes of a crocodile",
-      "url": "https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4"
-    },
-    {
-      "added_at": "2022-08-17 16:37:29",
-      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 123003,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ"
+    },
+    {
+      "added_at": "2022-08-17 16:37:29",
+      "album": {
+        "name": "fragments",
+        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 89302,
+      "name": "notes of a crocodile",
+      "url": "https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4"
     },
     {
       "added_at": "2022-08-17 16:37:29",

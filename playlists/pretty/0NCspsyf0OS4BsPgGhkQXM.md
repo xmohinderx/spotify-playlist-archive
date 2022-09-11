@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,030,159 likes - 180 songs - 9 hr 59 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,030,163 likes - 180 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SHADY INTENSIONS](https://open.spotify.com/track/27HkM93H2GcOyYUV50W2tu) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 3:05 |
+| 1 | [Shady Intentions](https://open.spotify.com/track/27HkM93H2GcOyYUV50W2tu) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 3:05 |
 | 2 | [It's Not Too Late](https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 4:34 |
 | 3 | [Miyako](https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 4:09 |
 | 4 | [Ocean](https://open.spotify.com/track/4RGkMld66XdEu419dyhlGq) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Ocean](https://open.spotify.com/album/4DYs0Uw4VG7k7dB2AZT2TG) | 3:37 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 22 | [Voices](https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Voices](https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx) | 2:52 |
 | 23 | [Chemicals \- Remix](https://open.spotify.com/track/7b0s7YrkrtOuGPODdOOSc4) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Chemicals \(Remix\)](https://open.spotify.com/album/4YwQ3ECvPNLVBWjvv6KE81) | 2:34 |
 | 24 | [SPAM](https://open.spotify.com/track/20I6rSlG7vXp1FQn5EuWQD) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 2:51 |
-| 25 | [ATMOSPHERE](https://open.spotify.com/track/6R2BsW0RbFAweX384j5hqa) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 2:32 |
+| 25 | [Atmosphere](https://open.spotify.com/track/6R2BsW0RbFAweX384j5hqa) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 2:32 |
 | 26 | [Lose To Me](https://open.spotify.com/track/7bwvOkwmlV9okoB79ToVu2) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Lose To Me](https://open.spotify.com/album/7vaVopPswq9eSbIALYjvHo) | 2:42 |
 | 27 | [Hunt You Down \(feat\. Alaina Cross\)](https://open.spotify.com/track/7fGOe6MwGN4saV8H5Oj249) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 4:04 |
 | 28 | [Golden Ticket](https://open.spotify.com/track/66Uf5wWeuWHCodwoFy1uXX) | [Matstubs](https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:04 |

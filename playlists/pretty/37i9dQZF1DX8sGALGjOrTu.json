@@ -1,12 +1,12 @@
 {
   "description": "When emo and hardcore fell hard for each other.",
-  "num_followers": 325138,
+  "num_followers": 325375,
   "original_name": "2000s Screamo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjUzMSwwMDAwMDAwMDFjOTdkMjhjZGZlNWFlNDgzMTEwYzkzMjE1N2EwYTM3",
+  "snapshot_id": "MTY1MDkxNjUzMSwwMDAwMDAwMGY0MDczZDU0YzMwMjAxZjUzNTZmOWQ1YTRhZTU0ODIx",
   "tracks": [
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
+        "name": "Reach",
+        "url": "https://open.spotify.com/album/3My1QtxFQLJHo71ruUpH6Z"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/5taNBboRgg6Bzqyj0Ymofo"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
         "name": "When Broken Is Easily Fixed",
         "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 208960,
       "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
       "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
-        "name": "Reach",
-        "url": "https://open.spotify.com/album/3My1QtxFQLJHo71ruUpH6Z"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/5taNBboRgg6Bzqyj0Ymofo"
     },
     {
       "added_at": "2021-12-07 15:50:41",

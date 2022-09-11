@@ -4,7 +4,7 @@
 
 > Los corridos más alterados y arremangados\. Régulo Caro en portada.
 
-92 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
+93 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [El Invalido](https://open.spotify.com/track/6slyAwU92H8O6OdknGDj6D) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Movimiento Alterado, Vol\. 1](https://open.spotify.com/album/3nYkEmbJZfanyB16oEX2lx) | 2:44 | 2022-03-07 | 2022-07-29 |
 | [El Mini 6](https://open.spotify.com/track/3jUfQmjqTE3VUcVESl0zXR) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Los Reyes del Movimiento Alterado](https://open.spotify.com/album/643E8uNalA0RcrJWyT0WlU) | 3:10 | 2022-03-07 |  |
 | [El Mini 6](https://open.spotify.com/track/09Js78HEZtObjYURe3tO58) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 3:08 | 2022-03-07 | 2022-07-29 |
-| [El Mochomo](https://open.spotify.com/track/4I7v9Wht7b1MlHaTQA0fD3) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Más Impactantes](https://open.spotify.com/album/6n5t0vh961jJmlY8jivjw9) | 2:34 | 2022-03-07 |  |
+| [El Mochomo](https://open.spotify.com/track/4I7UKv1Cg5Feote1cQHSEM) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:32 | 2022-03-07 |  |
+| [El Mochomo](https://open.spotify.com/track/4I7v9Wht7b1MlHaTQA0fD3) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Más Impactantes](https://open.spotify.com/album/6n5t0vh961jJmlY8jivjw9) | 2:34 | 2022-03-07 | 2022-09-11 |
 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 | 2022-03-17 |  |
 | [El Popeye](https://open.spotify.com/track/6wamcZCfpr0tALIr1e5jXu) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [La Nueva Cara de Tijuana](https://open.spotify.com/album/7pxyaiajcjF6sFUDpNE68i) | 2:42 | 2022-03-17 |  |
 | [El Prostipirugolfo](https://open.spotify.com/track/48rJQa3TdMfnPJxh1oPxsZ) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [15 Exitos](https://open.spotify.com/album/12DzNqjx3qzgiPoPbal8Vq) | 3:06 | 2022-03-17 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-259 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+260 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [On Leaving](https://open.spotify.com/track/2UClpTlLnK639OXjo6JBaQ) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:47 | 2021-12-27 |  |
 | [On Ren Faire Dresses and Levitatilingus](https://open.spotify.com/track/7370759EFfHEamPgaGHPT3) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:20 | 2021-12-27 |  |
 | [Once More, With Feeling](https://open.spotify.com/track/5dzxQQ9D6RtYiVgaE8v5Ga) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:25 | 2021-12-27 |  |
+| [One Foot in the Grave](https://open.spotify.com/track/5eWVS47NfEmISCyKA0E7wy) | [Zach Jones & the Tricky Bits](https://open.spotify.com/artist/3UWwzg0bpqKPTuIZxYj8ac) | [Plastic Soul](https://open.spotify.com/album/3ikWyQAmeNcwvvgqTW6yQH) | 2:27 | 2022-09-10 |  |
 | [Out of Mind, Out of Sight](https://open.spotify.com/track/7tOWu1b5amYHnt9Pz6x2cz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:00 | 2021-12-27 |  |
 | [Out of My Mind](https://open.spotify.com/track/5QmJbMnlsE9XoG5zTrdUy9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:00 | 2021-12-27 |  |
 | [Over the Bow](https://open.spotify.com/track/1BIvM6fKRrfkoD5IsnYIfE) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Slack Tide](https://open.spotify.com/album/11MZQCQnyElUdoeuFTFbKA) | 4:40 | 2021-12-27 |  |

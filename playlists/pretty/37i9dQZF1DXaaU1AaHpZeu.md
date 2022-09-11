@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Lucía Tacchetti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,761 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,797 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 14 | [Sometimes I'm Happy](https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:04 |
 | 15 | [una noche más](https://open.spotify.com/track/1dPEa2aLLllLJqZKPHPIqh) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [una noche más](https://open.spotify.com/album/3BjVNfIkYtuDYvEr9c5ODS) | 2:38 |
 | 16 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 |
-| 17 | [QUIERO VERLO TODO AZUL](https://open.spotify.com/track/1Oec0LUxVdSAI217LpuXA7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl), [BLNCO](https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p) | [QUIERO VERLO TODO AZUL](https://open.spotify.com/album/0gBQa1RpIB83r9hzAo9WUb) | 2:42 |
+| 17 | [QUIERO VERLO TODO AZUL](https://open.spotify.com/track/1Oec0LUxVdSAI217LpuXA7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl), [BLNCO](https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p), [Blu Boi](https://open.spotify.com/artist/1AQkOwrwQg43nUandgPhAK) | [QUIERO VERLO TODO AZUL](https://open.spotify.com/album/0gBQa1RpIB83r9hzAo9WUb) | 2:42 |
 | 18 | [Volvamos a Vernos](https://open.spotify.com/track/09u3S2sDWcnpezVQEj4cCY) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL), [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Volvamos a Vernos](https://open.spotify.com/album/4p9OMNn2dVVd9S0G0lC8M6) | 2:45 |
 | 19 | [Locuras](https://open.spotify.com/track/2oj1sBh98gGiKrsy67qrVs) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Locuras](https://open.spotify.com/album/7LOIXIJKdgxNxoUC4mWEFZ) | 4:07 |
 | 20 | [Altas Horas](https://open.spotify.com/track/2yPcst6SEaJyMnyulPhrPJ) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs) | [Altas Horas](https://open.spotify.com/album/365sSNMKC0110aXacdZnmS) | 3:43 |

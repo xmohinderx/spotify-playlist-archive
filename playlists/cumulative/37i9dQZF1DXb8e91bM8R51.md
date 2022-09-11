@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-288 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/7DAGjpLvat3eEtPVDLnVUB)
+289 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/7DAGjpLvat3eEtPVDLnVUB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2022-07-08 |  |
 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/album/5DYcaafg3wKwL7jAvRRPzC) | 2:44 | 2022-04-22 | 2022-07-29 |
 | [Ain’t No Fun](https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Ain’t No Fun](https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6) | 2:27 | 2022-04-08 | 2022-08-30 |
+| [All I Really Wanted](https://open.spotify.com/track/3tngIQDw2KP61hiLrR3oHU) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [All I Really Wanted](https://open.spotify.com/album/0b201G6KYDumbCiLW3FOXo) | 3:11 | 2022-09-09 |  |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2022-01-14 | 2022-03-05 |
 | [AMERICAN HORROR STORY](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [AMERICAN HORROR STORY](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 | 2022-01-14 | 2022-07-29 |
 | [AMERICAN HORROR STORY](https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:09 | 2022-07-08 |  |
@@ -200,7 +201,7 @@
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-25 | 2022-04-23 |
 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 | 2022-03-09 | 2022-04-21 |
 | [Police](https://open.spotify.com/track/34TZ4X0J2RSFKL4oocpIu8) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [J5 Slap](https://open.spotify.com/artist/4UxMwyiu2JpqRyNa2CWzH0), [A1 Yolaman](https://open.spotify.com/artist/4WyKPazxbqOYXaNhpZKkX1), [Jiggie June](https://open.spotify.com/artist/55thP7PNySlkQFzaDdfkbf) | [Police](https://open.spotify.com/album/6trzY0QXeydfFxDM8Ch7B6) | 3:55 | 2022-01-28 | 2022-02-19 |
-| [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 |  |
+| [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 | 2022-09-11 |
 | [Poppin' Them Thangs](https://open.spotify.com/track/1OKPQF7iS8TVxY4gwvBZ3n) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy \(Explicit Version\)](https://open.spotify.com/album/41Ow8QFVL1VL8RIXLoXH9O) | 4:00 | 2022-01-14 | 2022-06-24 |
 | [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 | 2022-07-08 |  |

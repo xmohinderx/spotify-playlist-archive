@@ -4,7 +4,7 @@
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina y ponle sabor a tus labores!
 
-150 songs - 12 hr 4 min - not published yet
+150 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/0gmGoKj3osvWK7STuxpUvj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

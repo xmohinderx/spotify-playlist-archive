@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for summer days.",
-  "num_followers": 27050,
+  "num_followers": 27072,
   "original_name": "Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDUzMGVhZDc1MTZjZWVlOGExMzEzMTlkZjNiODQyZmFl",
+  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDNkZTJmNzkyNTE5ODgyNDUxYmQ4MDM1NTZkMzQyYTg1",
   "tracks": [
     {
       "added_at": "2022-04-01 17:23:34",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "Come Around Sundown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5xFZ4iElFbUFtOGX4lvdTM"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 206186,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Technology",
-        "url": "https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "CHAMPION",
         "url": "https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 173120,
       "name": "CHAMPION",
       "url": "https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Technology",
+        "url": "https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
     },
     {
-      "added_at": "2022-06-17 12:12:36",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
-    },
-    {
       "added_at": "2022-04-01 17:23:34",
       "album": {
         "name": "MASSEDUCTION",
@@ -775,6 +759,22 @@
       "duration_ms": 281346,
       "name": "Los Ageless",
       "url": "https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw"
+    },
+    {
+      "added_at": "2022-06-17 12:12:36",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
     },
     {
       "added_at": "2022-04-01 17:23:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 
 > Welcome to the underground
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,121 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,340 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 31 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 | 32 | [Invocation](https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:14 |
 | 33 | [4r Da Squaw](https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 3:52 |
-| 34 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
-| 35 | [Don't Sweat The Technique](https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:22 |
+| 34 | [Don't Sweat The Technique](https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:22 |
+| 35 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
 | 36 | [Da Art of Storytellin' \(Pt\. 1\)](https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:42 |
 | 37 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
 | 38 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 82 | [The Return Of Sasquatch](https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [The Return Of Sasquatch](https://open.spotify.com/album/35f2l6py8BifthBkTK2t8K) | 1:58 |
 | 83 | [DRILL MUSIC IN ZION](https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV) | 4:31 |
 | 84 | [Vanilla Cream](https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW) | [2 P'z In A Pod](https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk) | 2:57 |
-| 85 | [Makeda](https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Makeda](https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi) | 1:36 |
-| 86 | [Faygo Baby](https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP) | [Kipp Stone](https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X) | [Faygo Baby](https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK) | 3:22 |
+| 85 | [Faygo Baby](https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP) | [Kipp Stone](https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X) | [Faygo Baby](https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK) | 3:22 |
+| 86 | [Makeda](https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Makeda](https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi) | 1:36 |
 | 87 | [Double Trouble](https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 5:50 |
 | 88 | [The Love Song](https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn) | [Bush Babees](https://open.spotify.com/artist/35uD3ZeLUoniBBQhiWQGCu), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Gravity](https://open.spotify.com/album/0sEPccly7DscAcT4VrWpvT) | 4:40 |
 | 89 | [Hustle](https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 99 | [Yeshua](https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW) | [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0), [SadhuGold](https://open.spotify.com/artist/1G7eIKYQAYMnqNbHC9nROF) | [The Black Mobius](https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D) | 1:03 |
 | 100 | [Cherry Beach](https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 3](https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv) | 1:08 |
 
-Snapshot ID: `MTY2MjY5NjYyNiwwMDAwMDAwMGQ5MjEwYWVmYzJmZjZkMjYyYWU3YWY5NTYzMWFjMzY4`
+Snapshot ID: `MTY2MjY5NjYyNiwwMDAwMDAwMDE5YWM4MGUzYTgxYzhkMjE3YjkzMzViMDNjNDBmZWVl`

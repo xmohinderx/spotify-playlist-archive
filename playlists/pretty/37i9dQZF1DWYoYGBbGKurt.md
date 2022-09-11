@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,075 likes - 500 songs - 19 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,202 likes - 500 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,7 +188,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 178 | [Vapor Trail](https://open.spotify.com/track/3WECvbN7UawhYvx3w0cDiZ) | [seekx](https://open.spotify.com/artist/08ugVajzIjHOiJ7SHCMYXJ) | [Vapor Trail](https://open.spotify.com/album/2VV6DLxMCbCmPyMSVshK6m) | 2:33 |
 | 179 | [Mountain Echoes](https://open.spotify.com/track/1nesVqT9uMUlO79MzwFD2m) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [Chill Minute](https://open.spotify.com/artist/3JdCvx4bV4RxTmsA2KKqSw) | [Mountain Echoes](https://open.spotify.com/album/4X1FKPgbqfqGQUOmm5wIOw) | 2:24 |
 | 180 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 |
-| 181 | [Clean Slate](https://open.spotify.com/track/5FttWKluONqzLR0ruvSj3t) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Clean Slate](https://open.spotify.com/album/4bDhslYA181xrDghAO5bNK) | 2:14 |
+| 181 | [Clean Slate](https://open.spotify.com/track/7rNb2Z8gmDVT5JQPn5zCVA) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Clean Slate](https://open.spotify.com/album/29BDzbEYawELuScafjXIoo) | 2:14 |
 | 182 | [Coral Pink Seafoam](https://open.spotify.com/track/0uYEFdctVcAndLpXYhZEDQ) | [Miilano](https://open.spotify.com/artist/4BRU7LmeFQZ8JGbNc3LdZ9) | [Coral Pink Seafoam](https://open.spotify.com/album/1XzeoEatEYvfW6BE9rLkPr) | 2:13 |
 | 183 | [Coffeemaker](https://open.spotify.com/track/4NBpjtGoXD7Osc4xMA08m8) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5), [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Coffeemaker](https://open.spotify.com/album/6nmh9obRtu6Yy4sQtaNQWb) | 3:00 |
 | 184 | [Find a Moment](https://open.spotify.com/track/2gFRtVaDkG1nU46z8ckVK3) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Find a Moment](https://open.spotify.com/album/42rWLxngEQ8RcEvfO2egWA) | 1:58 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 499 | [dreary dusk](https://open.spotify.com/track/4laIouEWx10lzjhrCiy3mq) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [dreary dusk](https://open.spotify.com/album/2TcliTnnhbzf4zC1yIu4Uw) | 1:47 |
 | 500 | [Whiskey For The Night](https://open.spotify.com/track/287jF7I4jnNooiqVh5E2ZU) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Whiskey For The Night](https://open.spotify.com/album/5G51BR88FI4vSSrMHWtQpU) | 1:55 |
 
-Snapshot ID: `MTY2MjcxNzE4MiwwMDAwMDAwMGQxZTBkZDk3YmUzM2M0OTQ5NGZiYTU5YmE3NzNmNzE5`
+Snapshot ID: `MTY2MjcxNzE4MiwwMDAwMDAwMDA2NjI3N2U2OGNiZmUzMDk0MzRiZDg5NGVhYWE5ZjBh`

@@ -4,7 +4,7 @@
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-49 songs - 3 hr 53 min - not published yet
+49 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/4N0vXDXz0ma2nbRfF4sID2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

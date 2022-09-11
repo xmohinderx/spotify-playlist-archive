@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421463,
+  "num_followers": 421464,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMGEyYTg5YWI0M2MzM2ZiNjhkODhhNDEyZWQxZmY1YWQ3",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDcxOGEyZmNkNTZlZGY4NmU5ZjJlZDI4ZGI4ZjYwYmM0",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Quinto Degrau",
-        "url": "https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        }
-      ],
-      "duration_ms": 142320,
-      "name": "Quinto Degrau",
-      "url": "https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Pra Gente Acordar",
         "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 170410,
       "name": "Pra Gente Acordar",
       "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Quinto Degrau",
+        "url": "https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        }
+      ],
+      "duration_ms": 142320,
+      "name": "Quinto Degrau",
+      "url": "https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "P90",
+        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
+      },
+      "artists": [
+        {
+          "name": "JayPluggz",
+          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "duration_ms": 123383,
+      "name": "P90",
+      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "bonita e miser\u00e1vel",
         "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "P90",
-        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
-      },
-      "artists": [
-        {
-          "name": "JayPluggz",
-          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
-        },
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        }
-      ],
-      "duration_ms": 123383,
-      "name": "P90",
-      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
         "url": "https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Comum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Comum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 146347,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Comum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Comum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -703,6 +703,34 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
+      },
+      "artists": [
+        {
+          "name": "slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        },
+        {
+          "name": "Theo Zagrae",
+          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "Potranca",
+      "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Eu e Eu",
         "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
       },
@@ -739,34 +767,6 @@
       "duration_ms": 192170,
       "name": "O \u00daltimo Xote do Ano",
       "url": "https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
-      },
-      "artists": [
-        {
-          "name": "slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        },
-        {
-          "name": "Theo Zagrae",
-          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 216923,
-      "name": "Potranca",
-      "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Devagarin",
-        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 154331,
-      "name": "Devagarin",
-      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Me liga",
         "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 150857,
       "name": "Me liga",
       "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Devagarin",
+        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 154331,
+      "name": "Devagarin",
+      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Jogo de Aposta",
+        "url": "https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0"
+      },
+      "artists": [
+        {
+          "name": "Jecy",
+          "url": "https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv"
+        }
+      ],
+      "duration_ms": 166987,
+      "name": "Jogo de Aposta",
+      "url": "https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 135285,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Jogo de Aposta",
-        "url": "https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0"
-      },
-      "artists": [
-        {
-          "name": "Jecy",
-          "url": "https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv"
-        }
-      ],
-      "duration_ms": 166987,
-      "name": "Jogo de Aposta",
-      "url": "https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy"
     }
   ],
   "unique_name": "RADAR Brasil",

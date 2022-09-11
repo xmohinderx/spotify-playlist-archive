@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225412,
+      "name": "Apple Pie And A .45",
+      "url": "https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M"
+    },
+    {
+      "album": {
         "name": "Dedicated: A Salute To The 5 Royales",
         "url": "https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu"
       },
@@ -533,7 +551,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 365666,
       "name": "It's My Own Tears",
       "url": "https://open.spotify.com/track/3hEujxmbPHfblaCnUML6ow"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 250893,
       "name": "Love Scene",
       "url": "https://open.spotify.com/track/7LeVZJBczfjJNaDWGcqojf"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 210800,
       "name": "Should Have Come Home",
       "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 275948,
       "name": "Smoked Ham And Peaches",
       "url": "https://open.spotify.com/track/0TbFm64bFWwsy2gfhDmfIR"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 271313,
       "name": "Such A Pretty Flame",
       "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 233866,
       "name": "The Battle Is Over (But The War Goes On)",
       "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 226548,
       "name": "Too Far To Be Gone",
       "url": "https://open.spotify.com/track/4r1WnPDsaFvIkKhgdAGUCV"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 252747,
       "name": "Walk Until I Ride",
       "url": "https://open.spotify.com/track/5VGvCsAYlOTOTJTiyKyM1y"

@@ -4,7 +4,7 @@
 
 > Relax, heal and restore your energy
 
-95 songs - 9 hr 12 min - not published yet
+95 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/7FBkCz8V6POnW79rLkeYTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

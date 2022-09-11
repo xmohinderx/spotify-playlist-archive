@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-161 songs - 6 hr 5 min - not published yet
+161 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

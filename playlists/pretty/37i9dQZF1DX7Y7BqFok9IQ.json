@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 132952,
+  "num_followers": 133005,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDI4MWYzMDI3MGM4MTlkOGFiMzYyYjNmNGI0YzNkYTI1",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDBlZGYzMDEyNmNiMzdhYjU2MGU1YTliNGEyNWQ0OThm",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -105,20 +105,20 @@
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+        "name": "QCNH",
+        "url": "https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Quaker City Night Hawks",
+          "url": "https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu"
         }
       ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+      "duration_ms": 173253,
+      "name": "Suit in the Back",
+      "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "QCNH",
-        "url": "https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2"
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
       },
       "artists": [
         {
-          "name": "Quaker City Night Hawks",
-          "url": "https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 173253,
-      "name": "Suit in the Back",
-      "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Lie Lie Lie",
-        "url": "https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Lie Lie Lie",
-      "url": "https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Holy Ghost Fire",
@@ -523,6 +507,22 @@
       "duration_ms": 164645,
       "name": "Bomb Through the Breeze",
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Lie Lie Lie",
+        "url": "https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Lie Lie Lie",
+      "url": "https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Mojo Hand",
-        "url": "https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 184676,
-      "name": "Mojo Hand",
-      "url": "https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Well Wasted",
@@ -655,6 +639,22 @@
       "duration_ms": 205973,
       "name": "Well Wasted",
       "url": "https://open.spotify.com/track/4S8WK43eMxManxzewCswet"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Mojo Hand",
+        "url": "https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 184676,
+      "name": "Mojo Hand",
+      "url": "https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Scarborough Street Fight",
-        "url": "https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 270753,
-      "name": "Scarborough Street Fight",
-      "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Truth And Lies",
@@ -771,6 +755,22 @@
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Scarborough Street Fight",
+        "url": "https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 270753,
+      "name": "Scarborough Street Fight",
+      "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
     },
     {
       "added_at": "2021-09-10 04:02:00",

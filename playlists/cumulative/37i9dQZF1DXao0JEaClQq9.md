@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Hyd
 
-429 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+430 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [june 14th](https://open.spotify.com/track/1dpfNC2sYCwLBfPg6PujQe) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [june 14th](https://open.spotify.com/album/7hf8yIYN2yYAIdr0klZpmS) | 4:34 | 2021-06-03 | 2022-06-04 |
 | [Just a Room](https://open.spotify.com/track/6yZs8pZm14d3r0ZkrZDOOy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 3:29 | 2022-06-24 | 2022-06-26 |
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2021-06-03 |  |
+| [Kill For Your Love](https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Kill For Your Love](https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ) | 3:12 | 2022-09-09 |  |
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-06-03 |  |
 | [Lalala \(Want Somebody\)](https://open.spotify.com/track/2qm98u5XB1QeETltWvnVaH) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Lalala \(Want Somebody\)](https://open.spotify.com/album/31PEiPIyOFbv3mXxWsU1kl) | 6:06 | 2021-06-03 | 2022-04-15 |
 | [Lara \(feat\. Clairo\)](https://open.spotify.com/track/4hOIaf53AbFr6BwcaT12S1) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Lara \(feat\. Clairo\)](https://open.spotify.com/album/0aFwaHBnxbzeaHvaBVZr68) | 3:40 | 2021-06-03 | 2022-06-04 |
@@ -294,7 +295,7 @@
 | [Pool](https://open.spotify.com/track/5d1AGB455kWMjmtOQLx7Pg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/3mreobGzuqYw5lVcUaAlG2) | 4:29 | 2021-06-03 | 2022-07-29 |
 | [Poor Fake](https://open.spotify.com/track/0X1VFWzml1YdSOOkxzOK0G) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:41 | 2021-06-03 | 2022-07-29 |
 | [Posing In Bondage](https://open.spotify.com/track/1hAELGsPupvsffkG4tj9gu) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Posing In Bondage](https://open.spotify.com/album/6wm7glP4VOZntyLRsh7CTd) | 4:04 | 2021-06-03 | 2022-07-29 |
-| [Posing In Bondage](https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 4:04 | 2021-06-03 |  |
+| [Posing In Bondage](https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 4:04 | 2021-06-03 | 2022-09-11 |
 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2021-06-03 | 2022-05-19 |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-11-12 | 2022-06-24 |
 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2021-11-12 | 2022-08-13 |

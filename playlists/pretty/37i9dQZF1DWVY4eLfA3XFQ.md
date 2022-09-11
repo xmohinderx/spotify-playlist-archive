@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Hannah Laing & Stephen Kirkwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,488 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,584 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 64 | [Over](https://open.spotify.com/track/1vIt4OWXj9RPVbJ7Hjx06K) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Over](https://open.spotify.com/album/59KBOSR2VoSUutLgQQfPoj) | 3:14 |
 | 65 | [Like This](https://open.spotify.com/track/5A29lmXOMxoUnFsatOI8Vf) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Like This](https://open.spotify.com/album/5Vvm9U5FZTpCccflpqvAXT) | 2:27 |
 | 66 | [I'm The Joker \(feat\. DJ Supreme\)](https://open.spotify.com/track/3SHFOtqLr93qSbz4OyqJYU) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [DJ Supreme](https://open.spotify.com/artist/0GyDM1cB3iDBEdGK2rTWw1) | [I'm The Joker \(feat\. DJ Supreme\)](https://open.spotify.com/album/2WomBlM2yIUVWvMpBVXoiD) | 2:36 |
-| 67 | [Mic Rock](https://open.spotify.com/track/6KMaAGryHWdddXqteE3B4K) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Illyus](https://open.spotify.com/artist/6HV12TaR0wBwhDyScJk0ZH), [Barrientos](https://open.spotify.com/artist/5QW9RJGuMEFj33bZKEBrpB) | [Mic Rock](https://open.spotify.com/album/5cgOp4B4L4QFtQa46ySIye) | 3:09 |
+| 67 | [Mic Rock](https://open.spotify.com/track/6KMaAGryHWdddXqteE3B4K) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Mic Rock](https://open.spotify.com/album/5cgOp4B4L4QFtQa46ySIye) | 3:09 |
 | 68 | [Back Room](https://open.spotify.com/track/4FBQrJOZoZHAZpUemTSnde) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO) | [Back Room](https://open.spotify.com/album/779eU0pmBcfnKgVi8KHYZl) | 2:50 |
 | 69 | [Essa Mina](https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/3eaQmIHdcfnwCq68lJzKYH) | 6:10 |
 | 70 | [Echo In The Dark](https://open.spotify.com/track/1pjJO7KXcaIl3zGloQVi6Q) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Echo In The Dark](https://open.spotify.com/album/46QDC0lHBrJbkMQHvv8hHL) | 3:24 |

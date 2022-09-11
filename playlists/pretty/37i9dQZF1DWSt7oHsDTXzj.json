@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110127,
+  "num_followers": 110120,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMGM5MWFlZWY5YWNhZjY0MzVmOTRkZTI3ZGVlZTE2ODA0",
+  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDZiZTgzYjFjNWZiNzEwMGQ5M2VhN2JlMzk3YWU3MDNm",
   "tracks": [
     {
       "added_at": "2021-11-12 17:11:33",
@@ -179,8 +179,8 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Drunk Christmas Party 2022",
-        "url": "https://open.spotify.com/album/2iup3SB38ceLUjOMHLrXfH"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
@@ -190,7 +190,7 @@
       ],
       "duration_ms": 146520,
       "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/6g9jjIuFrgbVX8ahN7ejmQ"
+      "url": "https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX"
     },
     {
       "added_at": "2021-12-15 16:04:04",
@@ -667,6 +667,22 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
+        "name": "O\u2019Holy Night",
+        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+      },
+      "artists": [
+        {
+          "name": "Kat Cunning",
+          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "O\u2019Holy Night",
+      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 233717,
       "name": "Yellow Bike",
       "url": "https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "O\u2019Holy Night",
-        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
-      },
-      "artists": [
-        {
-          "name": "Kat Cunning",
-          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
-        }
-      ],
-      "duration_ms": 173402,
-      "name": "O\u2019Holy Night",
-      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
     },
     {
       "added_at": "2021-11-12 17:11:33",

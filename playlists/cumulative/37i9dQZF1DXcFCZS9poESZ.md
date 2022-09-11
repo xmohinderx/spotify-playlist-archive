@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-73 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
+74 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Koi wa Question](https://open.spotify.com/track/3vfAwYTAn0ZnQEPpVGsQUp) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [Yume Catalog + Single Collection](https://open.spotify.com/album/6l4mUfoN9qk4Mmwy41WSMg) | 3:11 | 2022-06-21 |  |
 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 | 2022-06-21 |  |
 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [QUARTERBACK](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 | 2021-10-07 | 2022-07-29 |
-| [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/536dpDbBoKnCWrNlJtKYCH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [CITY POP SUMMER](https://open.spotify.com/album/6YRVENJbOBWw9E3878ciBg) | 4:05 | 2022-06-21 |  |
+| [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/4KvbMiCSQIqJ7cllp6gjR1) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [TOKYO \-ANIME FLAVOR \-](https://open.spotify.com/album/0j2J4wxN5QTfzYE7YsUN68) | 4:05 | 2022-06-21 |  |
+| [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/536dpDbBoKnCWrNlJtKYCH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [CITY POP SUMMER](https://open.spotify.com/album/6YRVENJbOBWw9E3878ciBg) | 4:05 | 2022-06-21 | 2022-09-11 |
 | [RUNNING TO HORIZON](https://open.spotify.com/track/2asLNnI5Kz68y83uS5aMav) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 4:53 | 2022-06-21 |  |
 | [RUNNING TO HORIZON](https://open.spotify.com/track/5VNKSlBMkJEFpuWdyKicV8) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/6qJzxWUbaoIaFqs6lKSbt0) | 4:53 | 2021-10-07 | 2022-07-29 |
 | [Step](https://open.spotify.com/track/68iZdH6Vo4z8B5nYQMPJrt) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Mashin Hero Wataru Music Collection](https://open.spotify.com/album/4fOUhLvHujVNMBmtLyMArX) | 4:17 | 2022-06-21 |  |

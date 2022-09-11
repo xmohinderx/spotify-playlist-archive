@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-138 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
+139 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Deep Blues \- Session Victim Remix](https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Deep Blues](https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s) | 6:21 | 2022-03-22 | 2022-07-29 |
 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 | 2022-07-15 |  |
 | [Deep Eyes Blue Skies](https://open.spotify.com/track/73Om0wV3hW3K0nLBQhZeh2) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2sJi5IEWJmJX7KrnqGTQfi) | 6:40 | 2022-03-22 | 2022-07-29 |
-| [Deepart 8.0](https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI) | [Async](https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t) | [Frekk EP](https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE) | 7:54 | 2022-03-22 |  |
+| [Deepart 8.0](https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI) | [Async](https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t) | [Frekk EP](https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE) | 7:54 | 2022-03-22 | 2022-09-11 |
 | [Distance](https://open.spotify.com/track/7sKlCCbWryUL7uANyvFDw6) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Distance \- EP](https://open.spotify.com/album/1tz2pddT85FcmrmkCe0zfs) | 7:12 | 2022-03-22 | 2022-07-12 |
 | [End Title \- Art of Tones Remix](https://open.spotify.com/track/4JFjJqCYitt1NGcpXZ6xsR) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Deep Blues](https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s) | 8:45 | 2022-03-22 | 2022-07-29 |
 | [Epoch](https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/2hgVjzYQb3Yb5FHT8smg4T) | 5:45 | 2022-07-15 |  |
@@ -122,6 +122,7 @@
 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 | 2022-03-22 |  |
 | [Sunlite](https://open.spotify.com/track/0l6PT9wrDcuyLTnLHDC5xd) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Les Mur](https://open.spotify.com/album/30nQIBMJkq6yBlrranEqdx) | 6:51 | 2022-03-22 | 2022-07-29 |
 | [Sweet Spot](https://open.spotify.com/track/0mbAsnCeKTvGTnbz7EjrBZ) | [Flabaire](https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X) | [It's Just a Silly Phase I'm Going Through](https://open.spotify.com/album/2pairuiTqQAn03wQTZe6vU) | 4:55 | 2022-03-22 | 2022-07-29 |
+| [Sweet Spot](https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l) | [Flabaire](https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X) | [It's Just A Silly Phase I'm Going Through](https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H) | 4:55 | 2022-07-15 |  |
 | [Synphonic](https://open.spotify.com/track/71NOKuKaMW49PnrIpHuqw1) | [Tchaka](https://open.spotify.com/artist/45v1hQPdUt5dbHdDpRnxpL) | [Synphonic](https://open.spotify.com/album/4ccUpQaGFT5DFmW7MdcGAk) | 6:38 | 2022-03-22 | 2022-07-29 |
 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 | 2022-03-22 |  |
 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 | 2022-03-22 |  |

@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 185625,
       "name": "Blitzkrieg 2022 - Drammen",
       "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
@@ -1255,6 +1255,28 @@
       "duration_ms": 124968,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY"
+    },
+    {
+      "album": {
+        "name": "Death Lotto",
+        "url": "https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE"
+      },
+      "artists": [
+        {
+          "name": "ovg!",
+          "url": "https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3"
+        },
+        {
+          "name": "Grioten",
+          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133896,
+      "name": "Death Lotto",
+      "url": "https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch"
     },
     {
       "album": {
@@ -2174,6 +2196,28 @@
     },
     {
       "album": {
+        "name": "Hold This",
+        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Hold This",
+      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
+    },
+    {
+      "album": {
         "name": "TILT",
         "url": "https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI"
       },
@@ -2475,7 +2519,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 143437,
       "name": "Jackpot (The Jackpot Playlist Anthem)",
       "url": "https://open.spotify.com/track/6fCNwdojdA3mmZvNXdNb5L"
@@ -4743,7 +4787,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 184077,
       "name": "Skl\u00ed\u010dka",
       "url": "https://open.spotify.com/track/6Zdcw0yntsDBNaYnj5sQ2l"
@@ -5061,7 +5105,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
@@ -5286,6 +5330,24 @@
     },
     {
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387146,
+      "name": "The Queen Is Dead - 2011 Remaster",
+      "url": "https://open.spotify.com/track/03ZwNF6FTvazNuOXNQf8k8"
+    },
+    {
+      "album": {
         "name": "Stane Sa / To Okolo N\u00e1s",
         "url": "https://open.spotify.com/album/6nkWiiixRtzxOqOV58yOLW"
       },
@@ -5389,7 +5451,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/3pBpX15YF0hdlRz2ddfSh2"
@@ -5665,7 +5727,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
@@ -5701,7 +5763,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 192608,
       "name": "Word to the Wise",
       "url": "https://open.spotify.com/track/2dFz5ravSFl9FL82ujab6y"

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-143 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+144 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Something To Say](https://open.spotify.com/track/77fHLp0kVNhaYOmqPqD6Oc) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09) | [Something To Say](https://open.spotify.com/album/45oQW5lLEQHtJmKgaCWysv) | 3:36 | 2020-12-07 |  |
 | [Sorrys Don't Work No More](https://open.spotify.com/track/0pXANstKZy6B4Qzr1SmwIS) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sorrys Don't Work No More](https://open.spotify.com/album/2xjh5SrZsyW2FbXBC0MAT5) | 3:45 | 2020-12-07 |  |
 | [Sour Strawberry](https://open.spotify.com/track/5fQq8MzzqtX6dGGgfYuqoH) | [Caroline Manning](https://open.spotify.com/artist/2if0ZD9GblHIXm7A1dF300) | [Sour Strawberry](https://open.spotify.com/album/6zD7V0fHhEvomfAYWGg4J4) | 2:26 | 2020-12-07 |  |
-| [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 | 2020-12-07 |  |
+| [STILL WITH U](https://open.spotify.com/track/5c4J6Nu6fpoU2HVFXjGeIk) | [The Blossom](https://open.spotify.com/artist/1kXLIxM0TzleLi7PP6fXZ9) | [STILL WITH U](https://open.spotify.com/album/1yh93VRjagM5i0CRXk7BqY) | 3:08 | 2020-12-07 |  |
+| [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 | 2020-12-07 | 2022-09-11 |
 | [Stormy](https://open.spotify.com/track/1s0aL4BY3G10EErdkYQJ9b) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Stormy](https://open.spotify.com/album/4hmWk2YrCRkx1euv2mv42I) | 2:16 | 2020-12-07 | 2022-07-29 |
 | [Stormy](https://open.spotify.com/track/2SNFIHJSbzReDu0ewTbdUu) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [EREZ](https://open.spotify.com/album/5ValAPJZMl7J1tBYMlSZnz) | 2:16 | 2020-12-07 |  |
 | [Summer](https://open.spotify.com/track/3YmTTULju4GaSlnkizJPrq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA) | 4:02 | 2020-12-07 | 2022-07-29 |

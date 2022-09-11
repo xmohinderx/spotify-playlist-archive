@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-460 songs - 1 day 15 hr 12 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
+461 songs - 1 day 15 hr 16 min - [published](https://open.spotify.com/playlist/52ZpPLnxkLdZ3FTl62Dt96)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Theiā](https://open.spotify.com/track/3JdhouQ8DKAULrM86R3j9o) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Yasushi Nakamura](https://open.spotify.com/artist/2ng6TVswTCeoBWUN012XYK), [Randy Runyon](https://open.spotify.com/artist/7hC50R2T5C4J3LTskcTcbU) | [Neon Chapter](https://open.spotify.com/album/5kRFNF1KHMas0lLvCaHLS0) | 4:53 | 2021-12-16 |  |
 | [There Is You And You](https://open.spotify.com/track/399mWBUEXBezJtnfAQwbix) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d) | [There Is You And You](https://open.spotify.com/album/3Jpgk1jpGRUyGE7pJ6QyqH) | 6:57 | 2021-12-21 | 2022-07-29 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2021-12-21 | 2022-09-05 |
+| [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2022-02-10 |  |
 | [Three](https://open.spotify.com/track/1NhD7y5j9KHaJeZ97BTv0X) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Three](https://open.spotify.com/album/0baQFRCoX2Ghru6pQxSlv1) | 2:33 | 2021-12-16 |  |
 | [Ti\-de](https://open.spotify.com/track/679DH2dDS6VPrVzJKS6obT) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 6:12 | 2022-04-01 |  |
 | [Tickled Pink](https://open.spotify.com/track/6T9xlXS2skCGQL89V9dxUX) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Tickled Pink](https://open.spotify.com/album/6grMAcl5o9URTqjjC7SRGp) | 3:01 | 2021-12-16 |  |
@@ -427,7 +428,7 @@
 | [Tropical Landscapes \- Live at Hallé St Peter's](https://open.spotify.com/track/5RJFz0inrtX2evSekcrWOp) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Salute to the Sun \(Live at Hallé St Peter's\)](https://open.spotify.com/album/4mjdgJ4a5h2DQQgVz6SD7F) | 7:30 | 2021-12-16 |  |
 | [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 | 2022-02-10 |  |
 | [Truck Fump](https://open.spotify.com/track/6Jc8Lqqcknv1mZGJ7c0U5t) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Truck Fump](https://open.spotify.com/album/5X9iL0oHuuIsQIrx1OF2Dt) | 5:05 | 2021-12-16 | 2022-07-29 |
-| [True Essence](https://open.spotify.com/track/0KqsEhPA6XGLKh4S6d11th) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Josh Koslow](https://open.spotify.com/artist/1mpMVEpY7lb8AUgLgk3Y8n) | [True Essence](https://open.spotify.com/album/2Fv63VpJUTnb2etADgizIA) | 2:56 | 2022-01-13 |  |
+| [True Essence](https://open.spotify.com/track/0KqsEhPA6XGLKh4S6d11th) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Josh Koslow](https://open.spotify.com/artist/1mpMVEpY7lb8AUgLgk3Y8n) | [True Essence](https://open.spotify.com/album/2Fv63VpJUTnb2etADgizIA) | 2:56 | 2022-01-13 | 2022-09-11 |
 | [Try Walk with Me](https://open.spotify.com/track/7oebiuuObYBjX2F4kuTKfn) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Asheber](https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw) | [Turn to Clear View](https://open.spotify.com/album/4yws2FxiYwtH0rhSCe651X) | 4:19 | 2021-12-16 | 2022-07-29 |
 | [Try Walk With Me \(feat\. Asheber\)](https://open.spotify.com/track/62LsYCyccWELgSd1Qnql8y) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Asheber](https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw) | [Turn to Clear View](https://open.spotify.com/album/5wcXRjqkO0AmnjGE0yLeWM) | 4:19 | 2022-02-10 |  |
 | [Tumbleweed](https://open.spotify.com/track/40Vd9TXLVL02fIl6nkOHsA) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [The Very Best Of Michael Brecker](https://open.spotify.com/album/164soqeZMfb4ZDIpRCMTRV) | 9:34 | 2022-04-01 | 2022-04-21 |

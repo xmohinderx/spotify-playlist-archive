@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
 
-367 songs - 21 hr 40 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+368 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [C'est tout, c'est rien](https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq) | [Aliocha](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [C'est tout, c'est rien](https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7) | 2:53 | 2021-01-03\* |  |
 | [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 | 2022-07-08 |  |
 | [Californie](https://open.spotify.com/track/7lfazyv2rEYZpwVC5gGxyO) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/6eUYntcnw694NcOd1tEpmT) | 3:25 | 2021-01-15 | 2022-07-29 |
+| [Carry Me \(Acoustic\)](https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Carry Me \(Acoustic\)](https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv) | 3:19 | 2022-09-09 |  |
 | [Cent fois](https://open.spotify.com/track/16JTRfYQaSDfbUXsLB8sWX) | [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji) | [Cent fois](https://open.spotify.com/album/0dpIM7Tjhz3imVgTinaC9y) | 4:17 | 2022-04-19 | 2022-05-25 |
 | [Cent pas](https://open.spotify.com/track/3UET3oVThA6MgDpjEgjyLq) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Cent pas](https://open.spotify.com/album/6KixBRmSppz0wrNwOd1lJS) | 3:59 | 2021-01-03\* | 2021-12-08 |
 | [Changer le cours \(Radio Edit\)](https://open.spotify.com/track/01IFtv24MpJjlPjgLe3bjn) | [Sophie Pelletier](https://open.spotify.com/artist/5uXoTuYyWyAPGj93tZzZH8) | [Changer le cours \(Radio Edit\) \- Single](https://open.spotify.com/album/7M4wgxxGmAIngUxNLN6O0Q) | 2:52 | 2021-01-16 | 2021-10-16 |
@@ -295,7 +296,7 @@
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
-| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 |  |
+| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2022-09-11 |
 | [Qué vendrá](https://open.spotify.com/track/7vM9PYre666so0kS0IBEhJ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Qué vendrá](https://open.spotify.com/album/5IoQT1ITAc60MPlgMLSjQh) | 2:57 | 2021-02-23 | 2021-05-28 |
 | [Radio bingo](https://open.spotify.com/track/0sGeklmSEIOvf71AJqsPvK) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [J'ai Bu](https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK) | 4:24 | 2021-01-03\* | 2021-10-02 |
 | [Ramenez\-moi](https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Ramenez\-moi](https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5) | 3:13 | 2021-02-13 | 2022-02-12 |

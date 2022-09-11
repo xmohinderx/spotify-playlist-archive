@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-946 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+947 songs - 1 day 12 hr 36 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [city lights](https://open.spotify.com/track/5wbf6h3eYS2tiR0fCDDva5) | [Embassay](https://open.spotify.com/artist/7inQZsZhHZBxBN9CGZ3YXt) | [city lights](https://open.spotify.com/album/4oPlp5R6PaB7udvrdfalKP) | 2:20 | 2021-12-07 |  |
 | [City Lights Spell Your Name](https://open.spotify.com/track/7dsWVHW3noaS5KtlMmBwqQ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [City Lights Spell Your Name](https://open.spotify.com/album/6FTZzaYfhOJV0sjLFBlv0R) | 3:30 | 2021-12-07 | 2022-06-03 |
 | [Clean Slate](https://open.spotify.com/track/5urgZcmytFXy08oKO1yR9L) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Clean Slate](https://open.spotify.com/album/1bpgevCYR7SlrW6xx68r4v) | 1:48 | 2022-06-03 |  |
-| [Clean Slate](https://open.spotify.com/track/5FttWKluONqzLR0ruvSj3t) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Clean Slate](https://open.spotify.com/album/4bDhslYA181xrDghAO5bNK) | 2:14 | 2022-07-01 |  |
+| [Clean Slate](https://open.spotify.com/track/5FttWKluONqzLR0ruvSj3t) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Clean Slate](https://open.spotify.com/album/4bDhslYA181xrDghAO5bNK) | 2:14 | 2022-07-01 | 2022-09-11 |
+| [Clean Slate](https://open.spotify.com/track/7rNb2Z8gmDVT5JQPn5zCVA) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Clean Slate](https://open.spotify.com/album/29BDzbEYawELuScafjXIoo) | 2:14 | 2022-09-09 |  |
 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 | 2021-12-07 | 2022-06-10 |
 | [Close To The River](https://open.spotify.com/track/1LeoYWyYlVV9v2Cy9vqvCp) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [JK the Sage](https://open.spotify.com/artist/5XAjz7D0xY4ydjw1yzvZfU) | [Close To The River](https://open.spotify.com/album/5W1Zxm5m1V7CEDsUirb708) | 3:05 | 2022-07-22 |  |
 | [Cloud Choke](https://open.spotify.com/track/0CFkFI1YrAMTd63Uv2vlJy) | [Liam Huston](https://open.spotify.com/artist/42kGyvHgadMRxO36dX8vuy) | [Cloud Choke](https://open.spotify.com/album/04AHkQOMeQVIN3gI4dByqr) | 1:47 | 2021-12-07 | 2022-07-01 |

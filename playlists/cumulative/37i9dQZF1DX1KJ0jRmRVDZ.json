@@ -2062,6 +2062,24 @@
     },
     {
       "album": {
+        "name": "Undead",
+        "url": "https://open.spotify.com/album/02wdhJ2fbR7VBcYXdOcaqc"
+      },
+      "artists": [
+        {
+          "name": "Misenaikuseni",
+          "url": "https://open.spotify.com/artist/3LT0QrcTVc7pzZ9WgoLwNS"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Undead",
+      "url": "https://open.spotify.com/track/63ng1fu3aFiRjVVE16PgRr"
+    },
+    {
+      "album": {
         "name": "Under Kids",
         "url": "https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh"
       },
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 233333,
       "name": "\u30a2\u30f3\u30c7\u30c3\u30c9",
       "url": "https://open.spotify.com/track/7mJasHPXBQ7WEek6Di0HQe"

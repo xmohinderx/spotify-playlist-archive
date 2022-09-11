@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,355 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,404 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 11 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 |
 | 12 | [Contemplation](https://open.spotify.com/track/3lLi5lAXRN7qQeTi7WNHRm) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/0dOKce3eWiHzB7ixpEEwNF) | 5:51 |
 | 13 | [Cascade Symmetry](https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au) | [r beny](https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG) | [Cascade Symmetry](https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92) | 3:24 |
-| 14 | [North of Roswell](https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [North of Roswell](https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw) | 2:34 |
-| 15 | [Efflorescence](https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Languid Gongue](https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s) | 5:30 |
+| 14 | [Efflorescence](https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Languid Gongue](https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s) | 5:30 |
+| 15 | [North of Roswell](https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [North of Roswell](https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw) | 2:34 |
 | 16 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 |
 | 17 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
 | 18 | [Entropy](https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b) | 4:49 |
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 46 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 |
 | 47 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
 | 48 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
-| 49 | [Last Earth](https://open.spotify.com/track/0OUhVQ5dEj7m87cbZ4ctFU) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:19 |
+| 49 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 |
 | 50 | [Circle 18](https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Full Circle](https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI) | 2:48 |
-| 51 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 |
+| 51 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
 | 52 | [Kosmic Headroom](https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Kosmic Headroom](https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj) | 4:13 |
-| 53 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
-| 54 | [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 |
-| 55 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
-| 56 | [Para Guy](https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Probe 6\-8](https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a) | 5:43 |
-| 57 | [Monolake](https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Mirages](https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT) | 7:40 |
-| 58 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
+| 53 | [Last Earth](https://open.spotify.com/track/0OUhVQ5dEj7m87cbZ4ctFU) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:19 |
+| 54 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
+| 55 | [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 |
+| 56 | [Orange Blue Green](https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Orange Blue Green](https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz) | 2:45 |
+| 57 | [Para Guy](https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Probe 6\-8](https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a) | 5:43 |
+| 58 | [Monolake](https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Mirages](https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT) | 7:40 |
 | 59 | [My Birthday Suit](https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob) | [Hexsystem](https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh) | [My Birthday Suit](https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX) | 3:45 |
 | 60 | [Sonic Winds](https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY) | [Patrick Zelinski](https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K), [Karl Edh](https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K), [Ryan Dimmock](https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY) | [Sonic Winds](https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z) | 2:46 |
 | 61 | [Rambutan](https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music Vol 2: Fruits and Flowers of Hawai'i](https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb) | 5:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 |
 | 75 | [Starethrough \- Transition Mix](https://open.spotify.com/track/2eWzfakfq1LO1tE1luft3n) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/2mc5e0hJxfsVAwzqJWRnBL) | 5:04 |
 
-Snapshot ID: `MTY1NjY5NjQ5NiwwMDAwMDAwMDc3ZTliZTQ5MTVlYWZmMjA1MzM1N2UzZTU1ZTllZmQy`
+Snapshot ID: `MTY1NjY5NjQ5NiwwMDAwMDAwMGQ0MDNkNDJiMzY4MjE3ZTgxZDJiZTk0NzM1MWY0YjJl`

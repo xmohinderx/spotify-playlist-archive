@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,506 likes - 69 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,668 likes - 69 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 39 | [Berceuse](https://open.spotify.com/track/1Y3NJjnXXaXmrfSLeDMaU7) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Sara Chenal](https://open.spotify.com/artist/00JrlzGhrk892JNRAAQOTo), [Jean\-Pierre Ferey](https://open.spotify.com/artist/5kdpljCuyKmbDLT2NAUpc8) | [Violon au féminin: Compositrices françaises](https://open.spotify.com/album/6siGUFHjGuPLis1gkhqP3F) | 2:28 |
 | 40 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 |
 | 41 | [Their First Time](https://open.spotify.com/track/0MPYUwNGF3D7dvBoAIlMVh) | [Adam Taylor](https://open.spotify.com/artist/2eog4K1pzXDmE54lHAc6DL) | [The Handmaid's Tale \(Deluxe Edition\) \[Original Series Soundtrack\]](https://open.spotify.com/album/2PBGnQ3ZG4X8wc9MRCiRyB) | 1:35 |
-| 42 | [Sonata In G Minor For Cello & Piano, Op\. 65: 3\. Largo](https://open.spotify.com/track/0lWMRvbD4qlW9iszdR22W6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Chopin: Classical BBQ](https://open.spotify.com/album/1BGcJOfZBgSQeBonHiYJox) | 3:37 |
+| 42 | [Sonata In G Minor For Cello & Piano, Op\. 65: 3\. Largo](https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Chopin \- Music from the 1800s](https://open.spotify.com/album/5VHeuyuGesCOyUeIykxP4q) | 3:37 |
 | 43 | [Salut d'amour, Op\. 12](https://open.spotify.com/track/2WZNkbVqATzXscJ6VgYJeo) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Paul Goodwin](https://open.spotify.com/artist/4GamZjZFOQyMp7LNx81GwZ) | [Under the Stars](https://open.spotify.com/album/21lNww10aD2NEIr6mR7JyJ) | 2:54 |
 | 44 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:31 |
 | 45 | [Sleepless](https://open.spotify.com/track/3IIboL1W5mfWjzPZenvCVe) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Sleepless](https://open.spotify.com/album/2VPWAuIYIPe988tW6llpml) | 3:05 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 68 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 69 | [Debussy: Piano Trio in G Major, L\. 5: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Debussy: Sonatas and Piano Trio](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
 
-Snapshot ID: `MTY1OTM2MTU0NCwwMDAwMDAwMDU4NmRiNGNmZmVkMTZiNGEzNTI1OTcyODY3ZmQyMTBk`
+Snapshot ID: `MTY1OTM2MTU0NCwwMDAwMDAwMGI3NzU3NzYyNmI5NTVhOTFmYWEzZTA4MjdkMzc0ZTYx`

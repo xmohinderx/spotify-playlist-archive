@@ -4,11 +4,11 @@
 
 > Sad and gloomy instrumental Jazz.
 
-191 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
+192 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-05-18 |  |
+| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-05-18 | 2022-09-11 |
 | [A Certain Sadness](https://open.spotify.com/track/3rNEyZg9zAnT5djNUpsUSc) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [A Certain Sadness](https://open.spotify.com/album/432pjknSR4Z25xrKOo7ZNo) | 5:39 | 2022-05-18 | 2022-08-13 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2022-05-18 | 2022-07-29 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 | 2022-06-29 |  |
@@ -54,6 +54,7 @@
 | [Emigrantvisa](https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 3:27 | 2022-05-26 |  |
 | [Estrellita](https://open.spotify.com/track/3O7WAvCq2hW9QLgXo5NcH5) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In Mambo](https://open.spotify.com/album/0iAa7v14VpiDTV1lgvkZVK) | 6:56 | 2022-09-08 |  |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-05-18 |  |
+| [Every Time We Say Goodbye](https://open.spotify.com/track/1wiuECsyvTaiaHxdnuXzm9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 4:25 | 2022-09-08 |  |
 | [Fool That I Am](https://open.spotify.com/track/47PVYIzHHYuITplhhrNwlx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Her Best \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/0PQNmBNiADyKAx5FQesJRD) | 2:56 | 2022-05-18 | 2022-08-27 |
 | [For Heavens Sake \- Remastered](https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 7:46 | 2022-09-08 |  |
 | [From Now On](https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Entering the Woods](https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP) | 3:41 | 2022-05-18 |  |

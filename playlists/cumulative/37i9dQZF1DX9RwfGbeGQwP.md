@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-749 songs - 1 day 4 hr 24 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+750 songs - 1 day 4 hr 26 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [monday blues](https://open.spotify.com/track/6lmhW5QmKVvhkVsBgZDSZ8) | [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [monday blues](https://open.spotify.com/album/7JXVitzuRY1n9pDR1niZ3h) | 2:07 | 2022-06-17 | 2022-07-15 |
 | [Mondaze](https://open.spotify.com/track/51lkxbTJPjihIWpnLePDiW) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Mondaze](https://open.spotify.com/album/0lP2Yp6boosjiED8MqKazI) | 2:34 | 2022-07-29 |  |
 | [Montara](https://open.spotify.com/track/3yk4ibm1e9NKfcT7CLsbIq) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Montara](https://open.spotify.com/album/6acq60fDwhLZnSqXZf4hKo) | 2:05 | 2022-05-13 |  |
-| [Mood Lines](https://open.spotify.com/track/1EOYAHo9XA4Crk6zItThFa) | [Kap](https://open.spotify.com/artist/13LDOfBz1kXJzaejmIweLQ), [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Mood Lines](https://open.spotify.com/album/3lDGJ77W8b1pnFv5PXdWHm) | 2:19 | 2022-05-20 |  |
+| [Mood Lines](https://open.spotify.com/track/1EOYAHo9XA4Crk6zItThFa) | [Kap](https://open.spotify.com/artist/13LDOfBz1kXJzaejmIweLQ), [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Mood Lines](https://open.spotify.com/album/3lDGJ77W8b1pnFv5PXdWHm) | 2:19 | 2022-05-20 | 2022-09-11 |
+| [Mood Lines](https://open.spotify.com/track/6Si39PyNL7e88OOhh5nWmm) | [Kap](https://open.spotify.com/artist/13LDOfBz1kXJzaejmIweLQ), [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Mood Lines](https://open.spotify.com/album/6AtszFAe6iBzFjaCt0ccrn) | 2:19 | 2022-09-09 |  |
 | [moog me up](https://open.spotify.com/track/0A8jHHS6r4XsCKq1NKLIZQ) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [moog me up](https://open.spotify.com/album/0whRlQmX3GyDVH6uJX2C6l) | 1:54 | 2022-01-27 |  |
 | [Moonset](https://open.spotify.com/track/0Ij69EGuFl74yIDGc60i47) | [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF), [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Moonset](https://open.spotify.com/album/0v1USt3t9oN9PhbHn1YgwW) | 1:52 | 2022-09-02 |  |
 | [Morning Brew](https://open.spotify.com/track/4wwf4YZgSm1d3LCj79Glvr) | [Silk Mhake](https://open.spotify.com/artist/6TMEF8gGAMgtb4tRfGQGyD) | [Morning Brew](https://open.spotify.com/album/7rgI4CRcibrwNkxnzOO1fI) | 1:42 | 2022-01-27 |  |

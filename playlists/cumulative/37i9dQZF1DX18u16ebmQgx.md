@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-64 songs - 4 hr 48 min - not published yet
+64 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/1eegQiXfJaHta2senGpLua)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

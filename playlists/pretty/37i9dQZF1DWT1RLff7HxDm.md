@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,293 likes - 60 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,334 likes - 60 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 11 | [Let Me Know](https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1) | 5:04 |
 | 12 | [Let The Good Times Roll \- Live](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 |
 | 13 | [Key To The Highway \- Live](https://open.spotify.com/track/7zX9fAnniTOdTsSV8eipxM) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Roadsongs](https://open.spotify.com/album/31hfJ2wHUoRjqwNdZXU6u3) | 6:22 |
-| 14 | [The Sweetest Honey \(Live\)](https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Live from the 805](https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f) | 3:47 |
-| 15 | [Camp Washington Chile/If You Have To Know](https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [Live \- Attack Of The Killer V](https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ) | 7:34 |
+| 14 | [Camp Washington Chile/If You Have To Know](https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [Live \- Attack Of The Killer V](https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ) | 7:34 |
+| 15 | [The Sweetest Honey \(Live\)](https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Live from the 805](https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f) | 3:47 |
 | 16 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 |
 | 17 | [Texas Flood \- Live at Ripley's Music Hall, Philadelphia, PA, Oct\. 20, 1983](https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 10:00 |
-| 18 | [Touch My Blues Away \- Live](https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Touch My Blues Away](https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR) | 9:04 |
-| 19 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 |
+| 18 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 |
+| 19 | [Touch My Blues Away \- Live](https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Touch My Blues Away](https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR) | 9:04 |
 | 20 | [Alabama \- Live](https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Alabama \(Live\)](https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM) | 3:26 |
 | 21 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 |
 | 22 | [The Healing \- Live](https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Live North America 2016](https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN) | 5:38 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 25 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 |
 | 26 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 |
 | 27 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 |
-| 28 | [One of These Days \- Live](https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV) | 5:08 |
+| 28 | [Tip of My Hat \(Live\)](https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N) | [Ghost Town Blues Band](https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK) | [Backstage Pass \(Live\)](https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn) | 4:28 |
 | 29 | [Tell The Truth \- Live at LOCKN' / 2019](https://open.spotify.com/track/3GNHoRb3DCq5MZ3AYriAJc) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 7:06 |
 | 30 | [Things Are Changin' \- Live](https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 6:09 |
-| 31 | [Tip of My Hat \(Live\)](https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N) | [Ghost Town Blues Band](https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK) | [Backstage Pass \(Live\)](https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn) | 4:28 |
+| 31 | [One of These Days \- Live](https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV) | 5:08 |
 | 32 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 |
 | 33 | [No Time For Cryin' \- Live](https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Live in London](https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX) | 5:22 |
 | 34 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Dyin' To Know \- Live](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
 | 60 | [West L.A\. Fadeaway \- Live](https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [West L.A\. Fadeaway \(Live\)](https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy) | 12:51 |
 
-Snapshot ID: `MTY1Nzg1NzcyMCwwMDAwMDAwMDIyMzIyODBiZTcyZjk4M2IwYzY0OTVlNGNkN2RlM2Mx`
+Snapshot ID: `MTY1Nzg1NzcyMCwwMDAwMDAwMDA3M2RhYzQ5OGQyNTNkMGZjYzY1ZjM3MzUwZTEyNThk`

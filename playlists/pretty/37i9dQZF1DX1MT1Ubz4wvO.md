@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bunbury en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,626 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,673 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 17 | [Apátrida](https://open.spotify.com/track/3PKkUmAQq7F5sNiN2FkdKS) | [Mundaka](https://open.spotify.com/artist/2EqDkbBPD2fLa06Saei9je) | [Apátrida](https://open.spotify.com/album/0Et5a5obmp3zZgf5cAxhk6) | 5:02 |
 | 18 | [Phantom Pain II](https://open.spotify.com/track/2HLymJLrqUZjh9eiS3grD3) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Phantom Pain](https://open.spotify.com/album/2kM4gSqUX2rwG8QB8uzlD3) | 4:30 |
 | 19 | [La Colmena](https://open.spotify.com/track/3xsoqCLGRPheli8o47x5pb) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [La Colmena](https://open.spotify.com/album/6N4aZPYCPMW0XHlVKw9sZ7) | 3:09 |
-| 20 | [Es con mi voz \- REMIX](https://open.spotify.com/track/2SagPTBXO5n65lXTVMYKBi) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF), [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv), [Juan Blas Caballero](https://open.spotify.com/artist/5TId3ZdYQ1j3i8FMidaec4) | [Es con mi voz \(REMIX\)](https://open.spotify.com/album/68kltRQJOYRDA07fF6Wzhx) | 3:08 |
+| 20 | [Es con mi voz \- REMIX](https://open.spotify.com/track/2SagPTBXO5n65lXTVMYKBi) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF), [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Es con mi voz \(REMIX\)](https://open.spotify.com/album/68kltRQJOYRDA07fF6Wzhx) | 3:08 |
 | 21 | [El Ritmo De Tu Pánico](https://open.spotify.com/track/1yNaU3U1OHcxlpsSuPi9ms) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [El Ritmo De Tu Pánico](https://open.spotify.com/album/1S4STB6I94QqSkacPp6HkA) | 3:39 |
 | 22 | [Algo en Que Creer](https://open.spotify.com/track/10kZ1LI2cygZTIbe6fwvpJ) | [Whisky Caravan](https://open.spotify.com/artist/2sNzYvtWH9mUVsYTiMi4Dz) | [Algo en Que Creer](https://open.spotify.com/album/0piBcgor70YN4Wj377ZwTo) | 4:34 |
 | 23 | [Al Final de la Carretera \(Banda Sonora Original de la Película "Vamos a Volvernos Locos"\)](https://open.spotify.com/track/1ksi2krR6qkPxG0MKS68ca) | [Staytons](https://open.spotify.com/artist/2RyidmUlHaj7sauQGkZTmc) | [Al Final de la Carretera \(Banda Sonora Original de la Película "Vamos a Volvernos Locos"\)](https://open.spotify.com/album/1cqT0QkDMqxyx15SDapKEu) | 3:52 |
-| 24 | [Epifanía](https://open.spotify.com/track/6O6QIKv3XRpIF3ZVmthqrd) | [Mausoleo](https://open.spotify.com/artist/3ADOMZ3U9NAY8t6lYoyfMy) | [Refugio transitorio](https://open.spotify.com/album/0HhRAzlVAZ1yyQEQNG6LYv) | 3:56 |
+| 24 | [Epifanía](https://open.spotify.com/track/6O6QIKv3XRpIF3ZVmthqrd) | [Mausoleo](https://open.spotify.com/artist/3ADOMZ3U9NAY8t6lYoyfMy) | [Refugio Transitorio](https://open.spotify.com/album/0HhRAzlVAZ1yyQEQNG6LYv) | 3:56 |
 | 25 | [Condena](https://open.spotify.com/track/7pqRhBYhm9kU5XvymmZqoD) | [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Condena](https://open.spotify.com/album/4euDN4Es39dUOQu6G7uSai) | 3:38 |
 | 26 | [Tbt](https://open.spotify.com/track/7G4qEtvcMsIgmapoNLL5dm) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [TBT](https://open.spotify.com/album/48jGQNlVJcDOnHIuWY116D) | 4:05 |
 | 27 | [Problema](https://open.spotify.com/track/78lL2KMKeI9Z2CjeArohsW) | [Esteban Gómez González](https://open.spotify.com/artist/3R22cIeHUCcGh9XBo3nIPz) | [Problema](https://open.spotify.com/album/3Vt4ptwpuGPA7bFN50kOzz) | 4:18 |

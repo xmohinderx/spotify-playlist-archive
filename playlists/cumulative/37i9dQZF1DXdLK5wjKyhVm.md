@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-120 songs - 4 hr 37 min - not published yet
+121 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [New leaf](https://open.spotify.com/track/5mSTZFzVkGV3FKvsKq07SH) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [SouthBlue](https://open.spotify.com/artist/0lBqnOP1xrHSAca9aRJdXa), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [New leaf](https://open.spotify.com/album/2klebWROYDZClvFx0CkpaY) | 2:45 | 2022-09-09 |  |
 | [No Requests](https://open.spotify.com/track/5nl0c4J9RxP2hW4R8mzSbG) | [dsntf](https://open.spotify.com/artist/7pGATqxSjgQ7u0YQzeTH9F) | [No Requests](https://open.spotify.com/album/6WrE77WQive8u8DjZocOKC) | 2:25 | 2022-09-09 |  |
 | [Oat Milk](https://open.spotify.com/track/7lhBuiyMuCtu5HzxLhnVQp) | [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid), [William Shine](https://open.spotify.com/artist/31qJcWRmZuRNILCRbn9idq), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Oat Milk](https://open.spotify.com/album/1UvOpjLm1vUPyMkaAoFqEq) | 2:16 | 2022-09-09 |  |
-| [Octopus](https://open.spotify.com/track/0PfLT1lIx88re1y9gUYxn7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Octopus](https://open.spotify.com/album/3y1uHLHQHMEPkLw9ApVWeg) | 2:39 | 2022-09-09 |  |
+| [Octopus](https://open.spotify.com/track/0PfLT1lIx88re1y9gUYxn7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Octopus](https://open.spotify.com/album/3y1uHLHQHMEPkLw9ApVWeg) | 2:39 | 2022-09-09 | 2022-09-11 |
+| [Octopus](https://open.spotify.com/track/4ZkxipJNGuVdf2zHiWXOYm) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Octopus](https://open.spotify.com/album/0lzGfQHfVGkKreajAb0WW4) | 2:39 | 2022-09-09 |  |
 | [One Summer’s Eve](https://open.spotify.com/track/0hYU2pA8Oo8xD3O835rWN5) | [Tokyo Music Walker](https://open.spotify.com/artist/7cktl8j9CsS2TwsgzakhsD) | [One Summer’s Eve](https://open.spotify.com/album/0zXziuGbFBaTa1Y5VfZtGQ) | 3:22 | 2022-09-09 |  |
 | [One Too Many](https://open.spotify.com/track/3GWwIi7gE3hunEcI9Ibq2s) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [One Too Many](https://open.spotify.com/album/6WZFZBCIN83SrkMHnz5Kbb) | 2:50 | 2022-09-09 |  |
 | [Over The Wooden Fence](https://open.spotify.com/track/7j4SpiObDBN1FrLudiEd7h) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Over The Wooden Fence](https://open.spotify.com/album/3xjU0Hn1SA8lUJrIOiEvua) | 1:35 | 2022-09-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81923,
+  "num_followers": 81937,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGJmMDQxNTJmMGNkMmZhOWVmNTBmYjIwNDVkNDRiNmFl",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGYwNTI1MWY4ZWQxYTMyNGVkYjY3ZWI1YzNlOTQxNDJj",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 205060,
       "name": "In You",
       "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
-        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
-      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
+        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
+      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Mind of Christ (Philippians 2)",
+        "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
+      },
+      "artists": [
+        {
+          "name": "Brian Doerksen",
+          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
+        },
+        {
+          "name": "Steve Mitchinson",
+          "url": "https://open.spotify.com/artist/0pVGOg9sIx3AsJisBwKfAb"
+        }
+      ],
+      "duration_ms": 242714,
+      "name": "Mind of Christ (Philippians 2)",
+      "url": "https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 214292,
       "name": "I'm Open",
       "url": "https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Mind of Christ (Philippians 2)",
-        "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
-      },
-      "artists": [
-        {
-          "name": "Brian Doerksen",
-          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
-        },
-        {
-          "name": "Steve Mitchinson",
-          "url": "https://open.spotify.com/artist/0pVGOg9sIx3AsJisBwKfAb"
-        }
-      ],
-      "duration_ms": 242714,
-      "name": "Mind of Christ (Philippians 2)",
-      "url": "https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi"
     },
     {
       "added_at": "2022-05-27 18:07:44",

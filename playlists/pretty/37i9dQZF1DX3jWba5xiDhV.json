@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 45697,
+  "num_followers": 45835,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDM4MTlhNjljM2UwMTc0ZGZhNmJiMTE5Yzc1ZTFkNDk4",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGFlNDhmYzU4ZmE2NDViNGUxOGQwYTFhYjk2NThmZTgz",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Italiana Vol. 1",
         "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 259773,
       "name": "Morir\u00f2 Per Te - 2001 Remaster",
       "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Pictures Old Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
+      },
+      "artists": [
+        {
+          "name": "Scotch",
+          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Baila Bolero (Marc Hartman Remix)",
         "url": "https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 300773,
       "name": "Baila Bolero - Marc Hartman Remix",
       "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Pictures Old Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
-      },
-      "artists": [
-        {
-          "name": "Scotch",
-          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
     },
     {
       "added_at": "2022-09-08 22:01:00",

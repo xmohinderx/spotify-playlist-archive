@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 111459,
+  "num_followers": 111619,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDNhY2E3ZTcyYzkyYjFjYjAzYWM1MmRlNjYwOGUyODk1",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGJhMzdiYWYyOGJkNjdmMWM3NjliZjA2N2YxNGJiZmVj",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Alocao (With Bad Gyal)",
-        "url": "https://open.spotify.com/album/6pEhppkTzrKKGkQw4fNqOD"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "Alocao (With Bad Gyal)",
-      "url": "https://open.spotify.com/track/6RyuoOJXNzlVWpfC5xQyeI"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Cauty VS Young Cauty",
         "url": "https://open.spotify.com/album/00op2xzUMjsxCj6aCmcnFJ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 304859,
       "name": "Ta To Gucci (Remix)",
       "url": "https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Alocao (With Bad Gyal)",
+        "url": "https://open.spotify.com/album/6pEhppkTzrKKGkQw4fNqOD"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "Alocao (With Bad Gyal)",
+      "url": "https://open.spotify.com/track/6RyuoOJXNzlVWpfC5xQyeI"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1719,6 +1719,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Maripilili",
+        "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Betoven",
+          "url": "https://open.spotify.com/artist/3cvPEXfyczjHNpK65vu7pM"
+        },
+        {
+          "name": "Hebreo",
+          "url": "https://open.spotify.com/artist/3AHbiOgxmUv4eB0XMm5KIc"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Maripilili",
+      "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 205500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Maripilili",
-        "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
-      },
-      "artists": [
-        {
-          "name": "Bayronfire",
-          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
-        },
-        {
-          "name": "Betoven",
-          "url": "https://open.spotify.com/artist/3cvPEXfyczjHNpK65vu7pM"
-        },
-        {
-          "name": "Hebreo",
-          "url": "https://open.spotify.com/artist/3AHbiOgxmUv4eB0XMm5KIc"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Maripilili",
-      "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2179,22 +2179,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "El Querend\u00f3n",
-        "url": "https://open.spotify.com/album/1KQVePMRNM2Bg7RBARw9Js"
+        "name": "Un AK",
+        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
       },
       "artists": [
         {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 168440,
-      "name": "El Querend\u00f3n",
-      "url": "https://open.spotify.com/track/0c9SrjNN7UuZgqq1UjKsAx"
+      "duration_ms": 168309,
+      "name": "Un AK",
+      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
     }
   ],
   "unique_name": "Rimas y Perreo",

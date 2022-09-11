@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-361 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+363 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Chico Mundo](https://open.spotify.com/track/3FvUA3c6HFAumhoY0XCDco) | [La Liga Matriz](https://open.spotify.com/artist/7JRKq341yLpVm8aRqrm9qB) | [Chico Mundo](https://open.spotify.com/album/1Tv1ze8gJuK358tiAmaZl5) | 2:56 | 2022-06-03 | 2022-07-20 |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-06-03 |  |
 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 | 2022-06-03 |  |
-| [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-06-03 |  |
+| [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-06-03 | 2022-09-11 |
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-07-01 | 2022-07-14 |
 | [Claromecó](https://open.spotify.com/track/4nhd6jQVWquaKEYWyQaQQy) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Claromecó](https://open.spotify.com/album/7nq2LaAFsFDwY9974wcLiG) | 2:19 | 2022-06-03 | 2022-07-02 |
 | [Clases de Yoga](https://open.spotify.com/track/0wGG4ftGlg0QavPQzEYSFo) | [Los Nuevos Creyentes](https://open.spotify.com/artist/5ppNJsPcJKIqaUib1wq3Tc) | [Planta Musical](https://open.spotify.com/album/2gJKZfvQOnEMqeUIInrwuk) | 3:57 | 2022-07-01 | 2022-07-23 |
@@ -246,6 +246,7 @@
 | [No Le Des Mas Vuelta](https://open.spotify.com/track/4OhELc8ny8Uel5nciZZ1Sq) | [Leandro Lopatin](https://open.spotify.com/artist/6MOOqOsT16VsoZOwZpttXX) | [No Le Des Mas Vuelta](https://open.spotify.com/album/6JwnT7GtY8En4h5n9xDMxD) | 3:45 | 2022-06-03 | 2022-07-25 |
 | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/track/3M0w5JH8ETjLiQ6rTHcguA) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/album/4vlMKyXU850kEr8a7BSgzt) | 3:54 | 2022-06-03 |  |
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-07-15 | 2022-07-28 |
+| [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 | 2022-09-09 |  |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-07-15 |  |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-07-01 | 2022-07-25 |
 | [Nudos](https://open.spotify.com/track/0nZo1400P5g6WH70Riy4YB) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Nudos](https://open.spotify.com/album/2CHHKGh0bpnSeRzOQDYcrb) | 4:03 | 2022-07-15 | 2022-08-28 |
@@ -272,7 +273,7 @@
 | [Perdón Por No Saber Qué Decir](https://open.spotify.com/track/280r54CN6u5BKJclxsDRP2) | [Rayos De La Niñez](https://open.spotify.com/artist/724hYZbdcWXKfVIEJ4bEVr) | [Perdón Por No Saber Qué Decir](https://open.spotify.com/album/38fYnaI1N9ofsf2Uo11jaX) | 3:56 | 2022-07-01 | 2022-07-29 |
 | [Periferia](https://open.spotify.com/track/1CY1iQFjmW1m64qXSEtB8d) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Periferia](https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0) | 3:05 | 2022-06-03 | 2022-07-23 |
 | [Perla](https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Ahora](https://open.spotify.com/album/1MO1AHHmmTcd3LY40a15Xs) | 3:26 | 2022-06-03 |  |
-| [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 | 2022-06-03 |  |
+| [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 | 2022-06-03 | 2022-09-11 |
 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 | 2022-07-01 | 2022-08-22 |
 | [PIYAMAPARY](https://open.spotify.com/track/5Hn5ZjIOpIcUs6csVGFc2d) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [NADIR](https://open.spotify.com/artist/7cWSMkLz0GgI72r8OWUrEC) | [PIYAMAPARY](https://open.spotify.com/album/40cZpwYEqi3l8D7JlCccZz) | 2:41 | 2022-07-01 | 2022-07-12 |
 | [Pizza](https://open.spotify.com/track/25ozvB4exLomeSMNCKHxM6) | [Las Piñas](https://open.spotify.com/artist/7zKaxLmOXQAoSqtu2Ck93e) | [Espanto Caribe](https://open.spotify.com/album/5oWKNvRZJ9616naxtq9OgZ) | 1:28 | 2022-06-03 | 2022-07-27 |
@@ -313,6 +314,7 @@
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-06-03 |  |
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-06-03 | 2022-07-24 |
 | [Sin Rumbo](https://open.spotify.com/track/5joIidA3kxvecf66OB9B4f) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Sin Rumbo](https://open.spotify.com/album/4chLnKWpCmDv2FP8rN4nsQ) | 3:24 | 2022-07-01 | 2022-07-28 |
+| [Sola](https://open.spotify.com/track/7oIT0iV7XScuix6hKOvank) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Sola](https://open.spotify.com/album/2JyuCXnaPdo4vNOVbuClkZ) | 4:01 | 2022-09-09 |  |
 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 | 2022-07-01 |  |
 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 | 2022-06-03 |  |
 | [Soy del Río](https://open.spotify.com/track/7AiqcYIPa3avpgW26fNFdA) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Transeúntes](https://open.spotify.com/artist/5c7ZnZV7FK9QnX18a3JMfU) | [Soy del Río](https://open.spotify.com/album/330kotZDGpRWJMZSw20DWc) | 5:02 | 2022-07-01 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Brisa Star com Mc Pedrinho, Marvvila, ROSALÍA e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,774,485 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,774,772 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 66 | [Tiro Certo](https://open.spotify.com/track/4HeTvRtnX4tu9kywhl3s91) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Alex Testado](https://open.spotify.com/artist/14PysQj6A3yowOxINTDUoc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tiro Certo](https://open.spotify.com/album/4ySMDy03yyQ5teDN6XLGHi) | 2:41 |
 | 67 | [Trepa no Baile da Selva](https://open.spotify.com/track/4Q6Lo462FB0WlAFeQ3H3UV) | [MC GN SHEIK](https://open.spotify.com/artist/5ub6PfOMz0BpwKRNmQVcRJ), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [O Mandrake](https://open.spotify.com/artist/73Cp3d77kq6aaSmIG0Cop5) | [Trepa no Baile da Selva](https://open.spotify.com/album/48MvhB4Qh8md3hIsuhP1EA) | 3:17 |
 | 68 | [Não Vai Ter Fim](https://open.spotify.com/track/4kHSYgTzUiEOrxX5R5aVA7) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1](https://open.spotify.com/album/1EuovXUu1ijJrti8jMgPXH) | 3:07 |
-| 69 | [Sempre Assim](https://open.spotify.com/track/2lPCsZ81Lruw46ln3Z9U7K) | [Joey Mattos](https://open.spotify.com/artist/1kkIfKwXSjist9LGbqgg7M), [CostaKent](https://open.spotify.com/artist/2J0fKCb5PnAZscvbznaEK3) | [Sempre Assim](https://open.spotify.com/album/4u66ddj4dGisschsLyAfrf) | 2:29 |
+| 69 | [Sempre Assim](https://open.spotify.com/track/2lPCsZ81Lruw46ln3Z9U7K) | [Joey Mattos](https://open.spotify.com/artist/1kkIfKwXSjist9LGbqgg7M), [CostaKent](https://open.spotify.com/artist/2J0fKCb5PnAZscvbznaEK3), [Marcos Baroni](https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY) | [Sempre Assim](https://open.spotify.com/album/4u66ddj4dGisschsLyAfrf) | 2:29 |
 | 70 | [Governo Fascista](https://open.spotify.com/track/5bz4OxlZFlfYwyupQjgRDf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Governo Fascista](https://open.spotify.com/album/7kB5aFcZo7i7BUiAe3lW5K) | 3:48 |
 | 71 | [Piña](https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Piña](https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG) | 2:24 |
 | 72 | [Te Encontré](https://open.spotify.com/track/5djcnAqTNsTdB8vwMHgAJf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Te Encontré](https://open.spotify.com/album/6dINPgGQP4aUECUY5UFyO2) | 3:32 |

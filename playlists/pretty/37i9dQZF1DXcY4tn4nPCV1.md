@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm and soothing soundtrack to your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,138 likes - 211 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,146 likes - 211 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,328 songs - 3 day 20 hr 14 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,329 songs - 3 day 20 hr 17 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Fading Memories](https://open.spotify.com/track/3iO88Yon2jOOeT9AefoGF2) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd), [Sam Halabi](https://open.spotify.com/artist/0kdzjDb2TKsCiJwWaBkZTQ) | [Fading Memories](https://open.spotify.com/album/5RzqSHBKXhYdHVf1X4B0Z6) | 2:40 | 2020-03-16 | 2021-03-10 |
 | [Fall \- 6AM Mix](https://open.spotify.com/track/63dG0sIaqOYLFZ0S94XF89) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Fall \(KC Lights Remixes\)](https://open.spotify.com/album/7amjEc3T8lTIJuOFFjbORO) | 3:17 | 2022-03-25 | 2022-07-29 |
 | [Fall in Deep](https://open.spotify.com/track/4pgOyxhTFOuNZJndYQJkKk) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fall in Deep](https://open.spotify.com/album/0ro9l9lDWGBP8liktBsJOZ) | 3:37 | 2020-05-18 | 2021-01-11 |
+| [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-09 |  |
 | [Falling](https://open.spotify.com/track/2B7o7cBAno5SaZLljqlPVc) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/2u45jCKKoRA20flSf7Ry2r) | 3:22 | 2022-07-01 | 2022-08-24 |
 | [Falling](https://open.spotify.com/track/6bdfM4I40ywx2gOtZjQ7Z6) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/3PkOQ5jhbCAavcVUT8TgPf) | 3:22 | 2020-11-13 | 2022-07-17 |
 | [Falling](https://open.spotify.com/track/6uBImZ47dzAPRcPN7gXd44) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2020-05-18 | 2020-07-03 |
@@ -444,7 +445,7 @@
 | [Future Self](https://open.spotify.com/track/0Oom8UCxknB2ussaW0P9HL) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Future Self](https://open.spotify.com/album/1VOn5C736v12oFdDVnwdd2) | 3:21 | 2020-05-18 | 2020-07-18 |
 | [Galax Z](https://open.spotify.com/track/5Dvbvf4RsFn3V0d8309jz7) | [The Zevron Don](https://open.spotify.com/artist/4dbE6PYM6h3AnqxYI0vxl0) | [Galax Z](https://open.spotify.com/album/4VzBkUqSvskvWJoheveYbJ) | 2:37 | 2020-05-19 | 2020-10-09 |
 | [Gamelan Sunrise](https://open.spotify.com/track/4L4zKKS9t3IPSBC1xXdCLD) | [Frankie Shakes](https://open.spotify.com/artist/2mW6KkiUUZ5zYZEym6pYjd) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-04-20 |
-| [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 |  |
+| [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 | 2022-09-11 |
 | [gatelangs](https://open.spotify.com/track/5Z0XbrTSBsaWbuMovfOndY) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [gatelangs](https://open.spotify.com/album/4kIBVa3tKxLywE8IirmaT9) | 3:02 | 2020-03-16 | 2022-04-21 |
 | [Gengis \- Edit](https://open.spotify.com/track/1pYSFtyZaRyP4bwazfm5cy) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Gengis](https://open.spotify.com/album/7lTn1zyy0duOEeypiqzmcr) | 3:51 | 2020-02-29\* | 2020-03-16 |
 | [Get Free \- Chrome Sparks Remix](https://open.spotify.com/track/2hINIqIvhaJ11bvcnS5v3d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Get Free \(Chrome Sparks Remix\)](https://open.spotify.com/album/1kSZAR9Rgz73ovtAce4Wx5) | 4:20 | 2020-03-20 | 2020-10-09 |

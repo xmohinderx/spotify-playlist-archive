@@ -4,7 +4,7 @@
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 32 min - not published yet
+43 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/1oLyAxaZ1PMOEBoVbGaC2k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Free your mind from disturbing sounds with white noise.
 
-177 songs - 7 hr 38 min - not published yet
+177 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/18hbmMxr0QTdh55mHy5SnR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

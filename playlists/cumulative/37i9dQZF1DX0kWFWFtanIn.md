@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to your prenatal yoga session.
 
-316 songs - 15 hr 32 min - not published yet
+316 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/444WMLUCGHEzVpUc5qAl6R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

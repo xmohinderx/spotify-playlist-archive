@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l\">Teddy Geiger</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Teddy Geiger",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6IpcksdUvSGLIcSPPeLhih"
+  ],
   "tracks": [
     {
       "album": {
@@ -1475,6 +1477,24 @@
       "duration_ms": 166053,
       "name": "No Promises",
       "url": "https://open.spotify.com/track/3gnDoaJUgD9Bblzld77Kcp"
+    },
+    {
+      "album": {
+        "name": "Normal to Feel",
+        "url": "https://open.spotify.com/album/3nW4GaITknS7y4RZBxB0SH"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200059,
+      "name": "Normal to Feel",
+      "url": "https://open.spotify.com/track/2WdmFuT1675qqu7o4tbn1d"
     },
     {
       "album": {

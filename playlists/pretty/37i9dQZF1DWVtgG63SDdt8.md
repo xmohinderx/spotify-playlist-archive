@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Brad & Rebekah
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,601 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,762 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 3 | [Make Room \- feat\. Cheyenne Mitchell](https://open.spotify.com/track/4syNxwzmWvHhZWPKdTNtJl) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Chapel Sessions](https://open.spotify.com/album/4UIWhAlS9PTGHpPeQohVKL) | 3:23 |
 | 4 | [Heart & Flesh](https://open.spotify.com/track/5QT13TE0vN29dYa8Ifkz0A) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Heart & Flesh](https://open.spotify.com/album/6EX05GseZptgcwHKil4tqY) | 7:11 |
 | 5 | [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 |
-| 6 | [Ask Seek Pray](https://open.spotify.com/track/3nbtom224uUujqElqjRnQY) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/5vgsNsAdvqoszLeJbLmZAD) | 6:54 |
+| 6 | [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 |
 | 7 | [Surrendered](https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Surrendered](https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj) | 9:19 |
 | 8 | [Wrong About You \(Live\)](https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Joel Barnes](https://open.spotify.com/artist/4MD4O7k8p38cCdVrDkVR6I) | [Wrong About You \(Live\)](https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT) | 6:33 |
 | 9 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 42 | [MAN\-UH](https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [MAN\-UH](https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe) | 1:49 |
 | 43 | [Safe](https://open.spotify.com/track/4UbnBTANJcMsvAq8cc3hQe) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Safe](https://open.spotify.com/album/4iwaGwvXlj1kwJFQZvKNWT) | 2:21 |
 | 44 | [Praise Lord](https://open.spotify.com/track/0FhAXhjJFYLsY9FLiIG7hG) | [Lou CharLe$](https://open.spotify.com/artist/6vLxHl6q9Tk8VYaztpodRM), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Praise Lord](https://open.spotify.com/album/3n4l9chbf4wzTRVYSltgtq) | 2:47 |
-| 45 | [Rendezvous](https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Torey D’Shaun](https://open.spotify.com/artist/3d84hr8IozwdsCs39KyKS7) | [Rendezvous](https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ) | 3:18 |
+| 45 | [Rendezvous](https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Rendezvous](https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ) | 3:18 |
 | 46 | [Already Won](https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS) | [Yung Titan](https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU) | [Already Won](https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ) | 4:05 |
 | 47 | [Paradise](https://open.spotify.com/track/4LXZT1OYesN1RnX5S8UM6Y) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Paradise](https://open.spotify.com/album/6RyC2xHzFso9y9S9FUv0NW) | 3:02 |
 | 48 | [WEEEEEEE](https://open.spotify.com/track/0mfDzWeydHEOyPyAegX6U0) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [WEEEEEEE](https://open.spotify.com/album/40Uw06qtsQDCOgKXM0z5MS) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Come to The Table](https://open.spotify.com/track/6upnhPJqCxgErvkMxeFjCt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Come to The Table](https://open.spotify.com/album/1gPUCsJJ4oy5kKZ1tFUXZ5) | 4:21 |
 | 100 | [God Outside of Time](https://open.spotify.com/track/0oAIqtl2Vn0Yjob8R3ZrUU) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [Content](https://open.spotify.com/album/3RZNeZp35klsaWNUH92wDJ) | 5:39 |
 
-Snapshot ID: `MTY2MjcwOTk5MiwwMDAwMDAwMGQ4YjVjNTBkZDA2MzdmYmVhY2ZlMzY0NWM5MmQ2Nzky`
+Snapshot ID: `MTY2MjcwOTk5MiwwMDAwMDAwMGRkYzJhODEwYjdkYWFiM2MxMjM0NGQzYThiMjNhYzA1`

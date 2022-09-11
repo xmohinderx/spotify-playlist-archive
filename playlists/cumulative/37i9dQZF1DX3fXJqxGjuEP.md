@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-416 songs - 1 day 0 hr 59 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+417 songs - 1 day 1 hr 3 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Llévame](https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe), [Gabo Lugo](https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo) | [Llévame](https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM) | 4:18 | 2021-10-20 | 2022-07-26 |
 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-10-20 | 2022-07-30 |
 | [Lovin' You \- Re\-Mix](https://open.spotify.com/track/5fbdjJkJbiKhmbhp8Z7uOt) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Lilliana De Los Reyes](https://open.spotify.com/artist/1DX1GXLfSp6njcWzDZSTRk), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Jimmy De Martini](https://open.spotify.com/artist/4TXZLWV8slZFv0SVURBssW) | [Lovin' You](https://open.spotify.com/album/7N2pF82NJYPJGHQEOqv3a1) | 7:00 | 2021-10-20 | 2022-05-26 |
-| [Luna Completa](https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Luna Completa](https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ) | 4:48 | 2021-10-20 |  |
+| [Luna Completa](https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Luna Completa](https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ) | 4:48 | 2021-10-20 | 2022-09-11 |
 | [Luna de Plata \- Versión Latina](https://open.spotify.com/track/2kQHVqfTIO5SyWswMK57LW) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Luna de Plata \(Versión Latina\)](https://open.spotify.com/album/12JSUaQHliJdddn5XcsLSN) | 4:41 | 2021-10-20 | 2022-08-12 |
 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 | 2021-11-12 |  |
 | [Mambeado](https://open.spotify.com/track/1qbt0lhWF7LGtPFA4DxXjt) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Fuerte Y Caliente](https://open.spotify.com/album/1kuQaIG6KmIRjcbB32bVc8) | 3:40 | 2021-10-20 |  |
@@ -261,6 +261,7 @@
 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 | 2022-08-30 |
 | [Morena](https://open.spotify.com/track/3eoegPFmJo2k7eRUR31bSl) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Morena](https://open.spotify.com/album/5AUfStt82PZpTvwqptRdFg) | 3:09 | 2021-10-20 | 2022-04-16 |
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-07-11 |  |
+| [Moreno](https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Moreno](https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4) | 4:18 | 2022-09-10 |  |
 | [Motivic Retrograde](https://open.spotify.com/track/2wJ0mbPiDzoyzzNePIqm1x) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Motivic Retrograde](https://open.spotify.com/album/1VsomWVnz9etCatyCiXsAb) | 3:57 | 2021-10-20 | 2022-04-21 |
 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 | 2021-10-20 |  |
 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 | 2021-10-20 | 2022-07-25 |

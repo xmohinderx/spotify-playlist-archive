@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-116 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+117 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Pueblo Chico](https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Pueblo Chico](https://open.spotify.com/album/3u0Lrsim4vXAW8kkW4nX90) | 3:02 | 2021-12-13 |  |
 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 | 2021-12-13 |  |
 | [Que Si Me Ves](https://open.spotify.com/track/5j0RE87fQ7NmMe5jFPsSIZ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Si Me Ves](https://open.spotify.com/album/6jtwPwLF9kyYPczMayydIB) | 3:07 | 2021-12-13 |  |
-| [Quien Paga](https://open.spotify.com/track/5bRH3E7TaWVAblEUVFI0By) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [Quien Paga](https://open.spotify.com/album/7IBdzjicSaKpYpYrFPirRT) | 1:58 | 2021-12-13 |  |
+| [Quien Paga](https://open.spotify.com/track/5bRH3E7TaWVAblEUVFI0By) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [Quien Paga](https://open.spotify.com/album/7IBdzjicSaKpYpYrFPirRT) | 1:58 | 2021-12-13 | 2022-09-11 |
+| [Quien Paga](https://open.spotify.com/track/7zP1jcXDQvzOPwbuil3NDJ) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [AGROLOVE](https://open.spotify.com/album/27lgvAXQJvQX7XNSWLv6X8) | 1:58 | 2022-08-16 |  |
 | [Quieres Volver](https://open.spotify.com/track/0sE9ipQEnacBPDJ2hVUded) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Quieres Volver](https://open.spotify.com/album/3PNBGyruvUiLJyWDqGbmBK) | 2:48 | 2021-12-13 | 2022-03-09 |
 | [Qué Pasó?](https://open.spotify.com/track/1OWKUTJresDbTamd3t9G55) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:20 | 2022-06-27 |  |
 | [RACE](https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [FREE DOLLY / RACE](https://open.spotify.com/album/5fzgYot7HbKytPYWywwLhC) | 2:24 | 2021-12-13 |  |

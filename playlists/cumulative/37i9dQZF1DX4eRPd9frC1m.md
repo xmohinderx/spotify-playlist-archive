@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-243 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
+244 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2022-08-03 |
 | [Falling](https://open.spotify.com/track/7nc4yn0oktMNoRV1vaG1de) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Falling](https://open.spotify.com/album/5P9Te9AL9l7qphGAXne9rt) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/track/3zJTXgtzn4mr9YYanvSGfp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Alexandar Smash](https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv) | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/album/0jbULvSiNGAHkiTrtoVZTR) | 3:26 | 2022-01-07 | 2022-08-17 |
-| [Falling For You](https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Falling For You](https://open.spotify.com/album/2uBXFc1imj9UxZYp6fCMv0) | 4:08 | 2022-01-07 |  |
+| [Falling For You](https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Falling For You](https://open.spotify.com/album/2uBXFc1imj9UxZYp6fCMv0) | 4:08 | 2022-01-07 | 2022-09-11 |
 | [Fatal Attraction \(feat\. Reese LAFLARE\)](https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 4:30 | 2021-11-19 | 2022-01-08 |
 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 | 2022-01-28 |  |
 | [FEELING GUD](https://open.spotify.com/track/0suLmBuEbatdochI4tHduq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [FEELING GUD](https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC) | 3:10 | 2021-11-19 |  |
@@ -218,6 +218,7 @@
 | [The Feeling](https://open.spotify.com/track/4t9aVhB3mYRqk2H3BgHRS4) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [The Feeling](https://open.spotify.com/album/1DCrOOGezQMRiihNagWB7y) | 2:38 | 2021-11-19 | 2022-01-08 |
 | [The Groove](https://open.spotify.com/track/1Z3mmjXCO6hplvu6l6JVoY) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [The Groove](https://open.spotify.com/album/5n4WMO6ham6yba3yaJWyBS) | 2:17 | 2021-11-19 | 2022-01-08 |
 | [The League](https://open.spotify.com/track/4JuDwe6yzdehl7zKBqHvOf) | [E.P.O](https://open.spotify.com/artist/28UBioJeQg4FMhgBXMyrzp), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe) | [The League](https://open.spotify.com/album/7lJD5WgTUbVNvAGYYMSLMT) | 4:27 | 2021-11-19 | 2022-01-08 |
+| [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 |  |
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-11-19 | 2022-01-08 |
 | [The Pit](https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [The Pit](https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3) | 2:32 | 2022-06-10 |  |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-11-19 | 2022-01-08 |

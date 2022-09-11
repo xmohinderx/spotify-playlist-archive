@@ -4,7 +4,7 @@
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Leeland & TAYA
 
-248 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
+249 songs - 1 day 0 hr 2 min - [published](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Always So Good \- Live](https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Pour Your Spirit Out \(Live\)](https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs) | 5:53 | 2022-05-06 | 2022-08-13 |
 | [As The Deer](https://open.spotify.com/track/0O4JOPpHz1JdshdQ8PuGNe) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [As The Deer](https://open.spotify.com/album/0Yirn4Rly93od1ImzN86mH) | 5:05 | 2022-02-25 |  |
 | [Ask Seek Pray](https://open.spotify.com/track/59QoNsfDiofec4DybLQpdR) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 6:16 | 2022-03-11 | 2022-09-10 |
-| [Ask Seek Pray](https://open.spotify.com/track/3nbtom224uUujqElqjRnQY) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/5vgsNsAdvqoszLeJbLmZAD) | 6:54 | 2022-09-09 |  |
+| [Ask Seek Pray](https://open.spotify.com/track/3nbtom224uUujqElqjRnQY) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/5vgsNsAdvqoszLeJbLmZAD) | 6:54 | 2022-09-09 | 2022-09-11 |
+| [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 | 2022-09-09 |  |
 | [At The Cross \- Acoustic](https://open.spotify.com/track/45N0c8UKowVhDEuR54nRaT) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday \(Acoustic\)](https://open.spotify.com/album/2Y8qj6IIGzeG0Emfw7fFPp) | 4:38 | 2022-02-25 | 2022-07-29 |
 | [At The Cross \- Acoustic](https://open.spotify.com/track/62pKX5lNb38c986qg05lDf) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday \(Acoustic\)](https://open.spotify.com/album/33AFNX744KjcEfD1l7vc64) | 4:38 | 2022-07-22 |  |
 | [Awestruck](https://open.spotify.com/track/4LN9bGelrxuvmAkEegYq9P) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Awestruck](https://open.spotify.com/album/2ErJp07SbdzPYxZHxGnXAc) | 4:52 | 2022-05-27 | 2022-06-11 |

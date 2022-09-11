@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Leeland & TAYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,272 likes - 100 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,297 likes - 100 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 16 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 |
 | 17 | [Provider](https://open.spotify.com/track/5XmBjBjVxyhZGK7tR4u7GH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 4:07 |
 | 18 | [We Adore You](https://open.spotify.com/track/2htJ3lVlX1hcsT5SeK0Wme) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [REVERE: Brasil](https://open.spotify.com/album/7C1oFsJIw85C1Bi6zRkqwb) | 5:01 |
-| 19 | [Ask Seek Pray](https://open.spotify.com/track/3nbtom224uUujqElqjRnQY) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/5vgsNsAdvqoszLeJbLmZAD) | 6:54 |
+| 19 | [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 |
 | 20 | [Take It To Jesus](https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Take It To Jesus](https://open.spotify.com/album/2tPojTbfapvOHxUcdiWwkO) | 4:32 |
 | 21 | [Good \(Can't Be Anything Else\) \- Live](https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Good \(Can't Be Anything Else\) \[Live\]](https://open.spotify.com/album/4r1aFYazY78g3DGyQuiFh3) | 9:52 |
 | 22 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Holy Spirit Come](https://open.spotify.com/track/6sqw1SCU34sDEYXlIMeSq8) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:18 |
 | 100 | [I'm Gonna Worship \(feat\. Dante Bowe\)](https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 11:47 |
 
-Snapshot ID: `MTY2MjcxMjI2NywwMDAwMDAwMGIxYmE5ZGZkNTRkMDNmNDYzYWI2ZDM2ODkxMDNkYTVi`
+Snapshot ID: `MTY2MjcxMjI2NywwMDAwMDAwMDE2YTBiMjg3YWM5MjY2NTEwOGRiOGZlNzc1NWU5YzYz`

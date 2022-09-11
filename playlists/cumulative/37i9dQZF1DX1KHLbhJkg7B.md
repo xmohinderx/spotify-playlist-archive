@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Ashley McBryde
 
-253 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+254 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 | 2021-12-10 |  |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-12-10 |  |
 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 | 2021-12-10 |  |
+| [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 | 2022-09-09 |  |
 | [I’m Movin’ On](https://open.spotify.com/track/51WjLctyJeBXjLQNF7D0nu) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 3:11 | 2021-12-10 | 2022-06-27 |
 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/0A3YvB4Go1S8kJnLiQEWPs) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Jambalaya \(On The Bayou\)](https://open.spotify.com/album/1IFtPm18hbZdeWlixctYCj) | 3:00 | 2021-12-10 | 2022-07-29 |
 | [Jolene](https://open.spotify.com/track/1iHRisYS4XViEGhR13wOFa) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv) | [One Moment More](https://open.spotify.com/album/7JB4apoce4rWHHU4LD31wO) | 4:18 | 2022-01-21 | 2022-07-24 |
@@ -229,7 +230,7 @@
 | [Three Times A Lady](https://open.spotify.com/track/4kNaVprADQDfWl18mCXxh7) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [After Dark](https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S) | 3:52 | 2022-03-25 | 2022-09-10 |
 | [Through The Years](https://open.spotify.com/track/4IF4gdjiml2hVIJSqC4cYV) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 4:09 | 2021-12-10 | 2022-07-26 |
 | [Till I Get It Right](https://open.spotify.com/track/0EOBoPMSZEbgrR4BtIKsKi) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/1FReBhpmD1xZ8wzgWun0dj) | 4:05 | 2022-01-21 | 2022-07-25 |
-| [Time Marches On \- The Bootlegger Sessions](https://open.spotify.com/track/51KtRR2OILi7YGatm53jxV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Time Marches On \(The Bootlegger Sessions\)](https://open.spotify.com/album/5AhrX2VP17pnblF2ocPkgY) | 2:42 | 2022-09-09 |  |
+| [Time Marches On \- The Bootlegger Sessions](https://open.spotify.com/track/51KtRR2OILi7YGatm53jxV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Time Marches On \(The Bootlegger Sessions\)](https://open.spotify.com/album/5AhrX2VP17pnblF2ocPkgY) | 2:42 | 2022-09-09 | 2022-09-11 |
 | [Tiny Dancer](https://open.spotify.com/track/3di7BRqMooVP3pXwjEk49J) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 5:09 | 2021-12-10 |  |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-12-10 | 2022-07-27 |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 |  |

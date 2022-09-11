@@ -4,7 +4,7 @@
 
 > Feed your focus with restaurant ambience from around the world.
 
-53 songs - 2 hr 38 min - not published yet
+53 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/3w3bYiSNhjrxB4SAa25ooN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

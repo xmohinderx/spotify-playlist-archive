@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 
 > Haz que tu corazón lata más alto con los beats de estos temas de amor EDM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,083 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,114 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 | 55 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 |
 | 56 | [The Truth](https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [The Truth](https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj) | 3:13 |
 | 57 | [Never Felt A Love Like This \(with Hook N Sling\) \[feat\. Dotan\]](https://open.spotify.com/track/1mMvahhW2Oz9waG8UTQnI4) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Church](https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU) | 3:35 |
-| 58 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
-| 59 | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr) | 3:12 |
-| 60 | [Together](https://open.spotify.com/track/6nLctpnQJiPTxkaSgbPKiw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:41 |
+| 58 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [EDM Hits](https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi) | 3:25 |
+| 59 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
+| 60 | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr) | 3:12 |
 
-Snapshot ID: `MTY0OTg2MTI5NSwwMDAwMDAwMGQyMDVmZmIyYjc2NDJiY2UwMTI2MTFhOWQzZDVkOWRi`
+Snapshot ID: `MTY0OTg2MTI5NSwwMDAwMDAwMDE0YjE1ZWIyMGJkNDU4YmI4NTk3MmM1ZDlkNmNlOTAy`

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 479555,
+  "num_followers": 481135,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0MTE2MywwMDAwMDAwMDJiZjM2MDIyY2U2ZmNmODVjNGM4OTkzM2JkNjI0Yjli",
+  "snapshot_id": "MTY2MTU0MTE2MywwMDAwMDAwMDZhNTFkOGE2MDJjNWZlMmQ2ZDg4ZTgyNGM1Y2ExMjU5",
   "tracks": [
     {
       "added_at": "2022-08-26 06:26:00",
@@ -451,30 +451,6 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "Heaven Or Hell (CHOPNOTSLOP REMIX)",
-        "url": "https://open.spotify.com/album/69RuKg34VBwhfiGuMpXUWQ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "DJ Candlestick",
-          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
-        },
-        {
-          "name": "OG Ron C",
-          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "After Party - CHOPNOTSLOP REMIX",
-      "url": "https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 138646,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
+        "name": "Heaven Or Hell (CHOPNOTSLOP REMIX)",
+        "url": "https://open.spotify.com/album/69RuKg34VBwhfiGuMpXUWQ"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "DJ Candlestick",
+          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "After Party - CHOPNOTSLOP REMIX",
+      "url": "https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA"
     },
     {
       "added_at": "2022-08-26 06:26:00",

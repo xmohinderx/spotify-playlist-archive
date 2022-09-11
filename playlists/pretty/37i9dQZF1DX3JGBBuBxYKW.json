@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Soledad & Natalie Perez.",
-  "num_followers": 74516,
+  "num_followers": 74530,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGZkMmRmNzY1YjUwY2RkMjNhZWY1NDg0NmVjM2U1Mjkx",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDYxNmNmY2VhMGVjYjgyYzE2MTk5OGFiODVhM2Q0NmY2",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "No Te Ir\u00e1s",
+      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "El Besito",
         "url": "https://open.spotify.com/album/4axZl6YknXJ5IMf4WuBqCY"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 222361,
-      "name": "No Te Ir\u00e1s",
-      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Lo Que Me Hizo Usted",
         "url": "https://open.spotify.com/album/2sxMuWDDyA00O2X2HJ2HT5"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 238561,
       "name": "Lo Que Me Hizo Usted",
       "url": "https://open.spotify.com/track/7gKptykHNsZC1MHIF7wOJv"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -979,6 +963,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Hipn\u00f3tica",
         "url": "https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 240091,
       "name": "Yo Tonta, No",
       "url": "https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Sigo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
-      },
-      "artists": [
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
-        }
-      ],
-      "duration_ms": 240015,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Sigo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
+      },
+      "artists": [
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 240015,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Olvidate",
         "url": "https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 237386,
       "name": "Olvidate",
       "url": "https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Las Solteras",
-        "url": "https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 200286,
-      "name": "Las Solteras",
-      "url": "https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 187333,
       "name": "Ra\u00fal en el Ba\u00fal",
       "url": "https://open.spotify.com/track/12TuXFsOKO9IvdQJn3OxXv"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Ayer Pedi",
+        "url": "https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o"
+      },
+      "artists": [
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "duration_ms": 205032,
+      "name": "Ayer Pedi",
+      "url": "https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI"
     },
     {
       "added_at": "2022-07-08 03:00:00",

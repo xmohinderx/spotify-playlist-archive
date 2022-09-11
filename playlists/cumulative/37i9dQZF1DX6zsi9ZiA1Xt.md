@@ -4,7 +4,7 @@
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-50 songs - 4 hr 3 min - not published yet
+50 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2evzXFo6CTk1eNWnBvKyiB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

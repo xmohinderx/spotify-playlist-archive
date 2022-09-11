@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2440403,
+  "num_followers": 2440834,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDBmY2YwNjQyMzc2ZTUxYzUxZjcwYWZkNjJmNTUwNzM4",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGVmMWQwMTY3YjE4OGIzZjhiZTI1NzczMmEwM2IwZTNi",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -135,22 +135,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         },
         {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         }
       ],
-      "duration_ms": 152500,
-      "name": "The Pit",
-      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -175,22 +175,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
         },
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         }
       ],
-      "duration_ms": 190400,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
+      "duration_ms": 152500,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 316420,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 200662,
       "name": "Bloodbath",
       "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 316420,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "PEACE LOVE & WUBZ",
         "url": "https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5"
       },
@@ -879,6 +863,46 @@
       "duration_ms": 240000,
       "name": "PEACE LOVE & WUBZ",
       "url": "https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "TIKTOK",
+        "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
+      },
+      "artists": [
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "TIKTOK",
+      "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -915,30 +939,6 @@
       "duration_ms": 135600,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "TIKTOK",
-        "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
-      },
-      "artists": [
-        {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
-        },
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "$teven Cannon",
-          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "TIKTOK",
-      "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "BODY SH!T",
         "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
       },
@@ -1031,22 +1015,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+        "name": "Valley Of Violence",
+        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+      "duration_ms": 238443,
+      "name": "Valley Of Violence",
+      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
         "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
       },
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Astro Funk",
-        "url": "https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Astro Funk",
-      "url": "https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Angels Landing",
         "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
       },
@@ -1511,22 +1495,38 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/2uBXFc1imj9UxZYp6fCMv0"
+        "name": "Astro Funk",
+        "url": "https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF"
       },
       "artists": [
         {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 248275,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O"
+      "duration_ms": 195200,
+      "name": "Astro Funk",
+      "url": "https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "The Machines",
+        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "The Machines",
+      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
     }
   ],
   "unique_name": "Hype",

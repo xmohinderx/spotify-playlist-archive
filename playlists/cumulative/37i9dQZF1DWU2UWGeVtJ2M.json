@@ -337,24 +337,6 @@
     {
       "album": {
         "name": "Autumn breeze",
-        "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        }
-      ],
-      "date_added": "2022-07-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174683,
-      "name": "Autumn breeze",
-      "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
-    },
-    {
-      "album": {
-        "name": "Autumn breeze",
         "url": "https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI"
       },
       "artists": [
@@ -373,6 +355,28 @@
       "duration_ms": 174683,
       "name": "Autumn breeze",
       "url": "https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj"
+    },
+    {
+      "album": {
+        "name": "Autumn breeze",
+        "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174683,
+      "name": "Autumn breeze (Feat. Milky Day)",
+      "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
     },
     {
       "album": {

@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2VXvzPE7jTOol7ALzyTAfL"
       },
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 174193,
       "name": "I Don't Really Care",
       "url": "https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd"
@@ -2503,6 +2521,24 @@
       "duration_ms": 186190,
       "name": "Leave Your Mind Behind",
       "url": "https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK"
+    },
+    {
+      "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3"
     },
     {
       "album": {
@@ -4761,7 +4797,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 202524,
       "name": "Thrills (feat. Jaxon Rose)",
       "url": "https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K"

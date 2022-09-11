@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2539,
+  "num_followers": 2552,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDg0ZjIzZTU4YjI5NDQzNTZiYTEwYzk2YTA1ZTNkZDMw",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGU5Mzk5MzBmOGZhYTVkODA2OTk5ZTMxYTliNTFjNmRl",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 325150,
-      "name": "Even though I hate you, I love you (Special Track)",
-      "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
         "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 219986,
       "name": "Where Love Begins",
       "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 325150,
+      "name": "Even though I hate you, I love you (Special Track)",
+      "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -615,18 +615,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "19to20",
-        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
+        "name": "Jewel (feat. KURO)",
+        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
         }
       ],
-      "duration_ms": 219440,
-      "name": "to him",
-      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
+      "duration_ms": 181377,
+      "name": "Jewel (feat. KURO)",
+      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -647,22 +651,18 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Jewel (feat. KURO)",
-        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
+        "name": "19to20",
+        "url": "https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1"
       },
       "artists": [
         {
-          "name": "Sumsher",
-          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
-        },
-        {
-          "name": "KURO",
-          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 181377,
-      "name": "Jewel (feat. KURO)",
-      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
+      "duration_ms": 219440,
+      "name": "to him",
+      "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Knot",
-        "url": "https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "Knot",
-      "url": "https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "One Strange Night",
         "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Afraid To Say I Love You",
-        "url": "https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx"
+        "name": "Knot",
+        "url": "https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6"
       },
       "artists": [
         {
-          "name": "THE ADE",
-          "url": "https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy"
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
         }
       ],
-      "duration_ms": 205797,
-      "name": "Afraid To Say I Love You",
-      "url": "https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz"
+      "duration_ms": 202434,
+      "name": "Knot",
+      "url": "https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -759,6 +743,22 @@
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Afraid To Say I Love You",
+        "url": "https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx"
+      },
+      "artists": [
+        {
+          "name": "THE ADE",
+          "url": "https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy"
+        }
+      ],
+      "duration_ms": 205797,
+      "name": "Afraid To Say I Love You",
+      "url": "https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz"
     },
     {
       "added_at": "2022-08-18 14:25:32",

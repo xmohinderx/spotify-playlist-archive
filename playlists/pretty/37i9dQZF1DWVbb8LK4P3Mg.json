@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists.",
-  "num_followers": 43935,
+  "num_followers": 43942,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMDg0ZmVlYzlhOTY1YjI4MzliM2I4NWQ4ZWZlYTcxZjA3",
+  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMGQwYjU1OTA0ODRmOGZjMDZlY2MzYWQwODBkZGYwNjA5",
   "tracks": [
     {
       "added_at": "2021-12-21 14:42:40",
@@ -147,18 +147,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "MAD Winter Edition",
-        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
+        "name": "JOY - SM STATION",
+        "url": "https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa"
       },
       "artists": [
         {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 212836,
-      "name": "\uace0\ubc31\uc1a1 Confession Song",
-      "url": "https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F"
+      "duration_ms": 178534,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -211,18 +211,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "JOY - SM STATION",
-        "url": "https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa"
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         }
       ],
-      "duration_ms": 178534,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X"
+      "duration_ms": 212836,
+      "name": "\uace0\ubc31\uc1a1 Confession Song",
+      "url": "https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "HITMAN PROJECT #1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER",
+        "url": "https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 289384,
+      "name": "MY GROWN UP CHRISTMAS LIST",
+      "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "cozy christmas",
         "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 123666,
       "name": "Today and other days (Feat. Eily)",
       "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "HITMAN PROJECT #1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER",
-        "url": "https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 289384,
-      "name": "MY GROWN UP CHRISTMAS LIST",
-      "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 205782,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "Will You Be My Home",
         "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
@@ -1339,38 +1355,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/5dAGDyJZlGs5q734ZoVQYM"
-      },
-      "artists": [
-        {
-          "name": "LEE BORAM",
-          "url": "https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3"
-        }
-      ],
-      "duration_ms": 193670,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 205782,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/27brxcSO7wHNJbtoUFALaa"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/5dAGDyJZlGs5q734ZoVQYM"
+      },
+      "artists": [
+        {
+          "name": "LEE BORAM",
+          "url": "https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3"
+        }
+      ],
+      "duration_ms": 193670,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "Our Christmas",
         "url": "https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih"
       },
@@ -1399,38 +1399,6 @@
       "duration_ms": 216565,
       "name": "Our Christmas",
       "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Christmas Again",
-        "url": "https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu"
-      },
-      "artists": [
-        {
-          "name": "1set",
-          "url": "https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Christmas Again",
-      "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Like Christmas",
-        "url": "https://open.spotify.com/album/1nKUE9kMGJ0MtssOmUzutw"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Like Christmas",
-      "url": "https://open.spotify.com/track/3PeIvDEnn0o7EH4uBc4JY8"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1463,6 +1431,38 @@
       "duration_ms": 251320,
       "name": "BETTER DAYS",
       "url": "https://open.spotify.com/track/7uLKlZkikc5Efk0t5y6hEE"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Like Christmas",
+        "url": "https://open.spotify.com/album/1nKUE9kMGJ0MtssOmUzutw"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Like Christmas",
+      "url": "https://open.spotify.com/track/3PeIvDEnn0o7EH4uBc4JY8"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Christmas Again",
+        "url": "https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu"
+      },
+      "artists": [
+        {
+          "name": "1set",
+          "url": "https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Christmas Again",
+      "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "You Make My Christmas",
-        "url": "https://open.spotify.com/album/7KHnSc7uosfrBJN3Cn1w31"
-      },
-      "artists": [
-        {
-          "name": "Pretty Brown",
-          "url": "https://open.spotify.com/artist/6mjnB54a4uo8HH8ThCDXXZ"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "You Make My Christmas",
-      "url": "https://open.spotify.com/track/6cyNKtkOxew0yIunvM3pZ3"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "Wish me a merry Christmas",
         "url": "https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "The Barberettes Carol : Hun Hun Christmas",
-        "url": "https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB"
+        "name": "You Make My Christmas",
+        "url": "https://open.spotify.com/album/7KHnSc7uosfrBJN3Cn1w31"
       },
       "artists": [
         {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+          "name": "Pretty Brown",
+          "url": "https://open.spotify.com/artist/6mjnB54a4uo8HH8ThCDXXZ"
         }
       ],
-      "duration_ms": 277040,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q"
+      "duration_ms": 223466,
+      "name": "You Make My Christmas",
+      "url": "https://open.spotify.com/track/6cyNKtkOxew0yIunvM3pZ3"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1663,6 +1647,22 @@
       "duration_ms": 199000,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "The Barberettes Carol : Hun Hun Christmas",
+        "url": "https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB"
+      },
+      "artists": [
+        {
+          "name": "The Barberettes",
+          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "A Very Special Christmas 25th Anniversary",
-        "url": "https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b"
+        "name": "Twenties = Love",
+        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
       },
       "artists": [
         {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
+          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
         }
       ],
-      "duration_ms": 236946,
-      "name": "Best Christmas Ever",
-      "url": "https://open.spotify.com/track/6hDPNRduaE4doDCFpOOVGf"
+      "duration_ms": 213200,
+      "name": "Snow Sun",
+      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1751,38 +1751,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Twenties = Love",
-        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
+        "name": "A Very Special Christmas 25th Anniversary",
+        "url": "https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b"
       },
       "artists": [
         {
-          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
-          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         }
       ],
-      "duration_ms": 213200,
-      "name": "Snow Sun",
-      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi"
-      },
-      "artists": [
-        {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
-        },
-        {
-          "name": "GB9",
-          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "White Blanket (feat. Gilgu Bongu)",
-      "url": "https://open.spotify.com/track/7GXU0kLoZmYq1fFoDfxGtm"
+      "duration_ms": 236946,
+      "name": "Best Christmas Ever",
+      "url": "https://open.spotify.com/track/6hDPNRduaE4doDCFpOOVGf"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1827,6 +1807,30 @@
       "duration_ms": 268133,
       "name": "Christmas For You (feat. Bennyway, SaeYeon, SeongJin)",
       "url": "https://open.spotify.com/track/2Cu1PfHyxkoc7RDkNRLVSu"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "The Christmas Sessions",
+        "url": "https://open.spotify.com/album/5w49x3ZNF7DvYrrk8NpEyF"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/0bltiPNSIpQP6rd6kKLUkn"
+        },
+        {
+          "name": "David So",
+          "url": "https://open.spotify.com/artist/4UevYV5V4ebNHE6zpiVC3G"
+        },
+        {
+          "name": "Z.Woods",
+          "url": "https://open.spotify.com/artist/6rbagiJwOJQAvDAOWs5zxW"
+        }
+      ],
+      "duration_ms": 188833,
+      "name": "Fa La La",
+      "url": "https://open.spotify.com/track/1MxfYcDldrmqS0ppZ1SyBd"
     }
   ],
   "unique_name": "Christmas K-Pop",

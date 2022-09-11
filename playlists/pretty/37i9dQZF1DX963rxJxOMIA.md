@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! Foto: Blessd, Ryan Castro, SOG
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,850 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,571 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

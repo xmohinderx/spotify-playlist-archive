@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Iltunsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,082 likes - 55 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,105 likes - 55 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 15 | [Crack In Casa 24/7](https://open.spotify.com/track/35fUr9dMYSHsSI5hCjeklu) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Crack In Casa 24/7](https://open.spotify.com/album/37DP2uMZ4Rn1c33MOMzdzt) | 2:19 |
 | 16 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 |
 | 17 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 |
-| 18 | [Robe Da Maranza](https://open.spotify.com/track/1IV4OGA1v2kBldTSmgIjy0) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r) | 2:33 |
+| 18 | [Robe Da Maranza](https://open.spotify.com/track/2MwQjdvvuYF5XaXyJmlygR) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ) | 2:33 |
 | 19 | [Click](https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Click](https://open.spotify.com/album/4sqgiuAro7E7ULVcZd1UnR) | 2:51 |
 | 20 | [17ANNI](https://open.spotify.com/track/2EjjzbpzMZqhpHuyft3LRc) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [17ANNI](https://open.spotify.com/album/0sORJIrRbMnPOzPnwdtuiJ) | 2:30 |
 | 21 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Gesù con la Coda](https://open.spotify.com/track/6EUkQzpGpNTNk8dOCqmkUO) | [Euroardo](https://open.spotify.com/artist/1VbnapwsdPjqyBmM9YTizK), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Bastadebe](https://open.spotify.com/artist/7HpbE5DLSOHJlVgGn2VP3c), [Epco Raw](https://open.spotify.com/artist/6JjV8WumKK55M9XhNsGpYg) | [Gesù con la Coda](https://open.spotify.com/album/7EfyqsBlHEQeKUBTY95IkM) | 2:00 |
 | 55 | [Donnie Brasco freestyle](https://open.spotify.com/track/3UqHxUQxWivrX742Y4AhwM) | [Tommy Brillante](https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A) | [Donnie Brasco freestyle](https://open.spotify.com/album/78W5CaphrYeizlF43lpJFE) | 1:47 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGQ4YzZkZTQ2YmNjMTEwNzM2OTg4MjE2NDk3YjBmMDIy`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDcxOTcwNzZkMWE4MzczMDdjMTMxYWMyMTExMTkxNWEz`

@@ -1576,6 +1576,24 @@
     },
     {
       "album": {
+        "name": "Yaaran Vich Jee",
+        "url": "https://open.spotify.com/album/30HWbDk5maW6hn3UEIHc2f"
+      },
+      "artists": [
+        {
+          "name": "Kulshan Sandhu",
+          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Yaaran Vich Jee",
+      "url": "https://open.spotify.com/track/261PVPZEar9zZTlcBkB52O"
+    },
+    {
+      "album": {
         "name": "Youngest In Charge",
         "url": "https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB"
       },

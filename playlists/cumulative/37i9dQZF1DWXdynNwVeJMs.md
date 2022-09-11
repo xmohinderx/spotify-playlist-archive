@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-100 songs - 8 hr 9 min - not published yet
+100 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

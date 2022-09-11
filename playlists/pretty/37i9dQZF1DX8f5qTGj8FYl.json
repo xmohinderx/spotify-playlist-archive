@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 302576,
+  "num_followers": 302744,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDE0ZTcxMzcwNzE4ZjQ2NTA2MzBmZGZiZTVhZDU2N2E1",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDVmZGQxMDMxMjk1MDFjN2RkN2Y0MWZjNGYyM2QyZTg5",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -91,26 +91,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Hill Climber",
-        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "It Gets Funkier IV",
-      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "TRYPNOTYX",
         "url": "https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 344491,
       "name": "Funky D",
       "url": "https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Hill Climber",
+        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "It Gets Funkier IV",
+      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Joy of Music, The Job of Real Estate",
-        "url": "https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Test Drive (Instrumental)",
-      "url": "https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Gun Metal Grey",
         "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
       },
@@ -227,6 +211,26 @@
       "duration_ms": 359698,
       "name": "Gravy Train",
       "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Maze of Sounds",
+        "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
+      },
+      "artists": [
+        {
+          "name": "Janko Nilovic",
+          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
+        },
+        {
+          "name": "The Soul Surfers",
+          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
+        }
+      ],
+      "duration_ms": 428047,
+      "name": "Tha Boogee",
+      "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Maze of Sounds",
-        "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
+        "name": "The Joy of Music, The Job of Real Estate",
+        "url": "https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD"
       },
       "artists": [
         {
-          "name": "Janko Nilovic",
-          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
-        },
-        {
-          "name": "The Soul Surfers",
-          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
         }
       ],
-      "duration_ms": 428047,
-      "name": "Tha Boogee",
-      "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
+      "duration_ms": 177968,
+      "name": "Test Drive (Instrumental)",
+      "url": "https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -461,6 +461,26 @@
       "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Watchu Want",
+        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Watchu Want",
+      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Resonate",
@@ -475,22 +495,6 @@
       "duration_ms": 381040,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
-      },
-      "artists": [
-        {
-          "name": "L'\u00e9clair",
-          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
-        }
-      ],
-      "duration_ms": 214387,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -527,6 +531,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
+      },
+      "artists": [
+        {
+          "name": "L'\u00e9clair",
+          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+        }
+      ],
+      "duration_ms": 214387,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "The Fox",
         "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 357480,
       "name": "Down Frenchmen St",
       "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Watchu Want",
-        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Watchu Want",
-      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Scratch My Itch",
-        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
-      },
-      "artists": [
-        {
-          "name": "The Soul Snatchers",
-          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Do You Wanna Get Down",
-      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Golden Ticket",
         "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
       },
@@ -727,18 +711,34 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+        "name": "Scratch My Itch",
+        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "The Soul Snatchers",
+          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
         }
       ],
-      "duration_ms": 164173,
-      "name": "Head for Backstage Pass",
-      "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
+      "duration_ms": 239280,
+      "name": "Do You Wanna Get Down",
+      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+      },
+      "artists": [
+        {
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+        }
+      ],
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
       "artists": [
         {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+      "duration_ms": 164173,
+      "name": "Head for Backstage Pass",
+      "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Uh Yeah!",
+        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+      },
+      "artists": [
+        {
+          "name": "Funk Off",
+          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Living Off",
+      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
+    },
+    {
       "added_at": "2021-04-16 04:00:00",
       "album": {
         "name": "Deep: The Baritone Sessions, Vol. 2",
@@ -891,22 +907,6 @@
       "duration_ms": 353546,
       "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Uh Yeah!",
-        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
-      },
-      "artists": [
-        {
-          "name": "Funk Off",
-          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Living Off",
-      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Funkafized Plus",
@@ -987,6 +971,22 @@
       "duration_ms": 299000,
       "name": "Funkafized",
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8"
     },
     {
+      "added_at": "2021-01-22 05:01:00",
+      "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
+      },
+      "artists": [
+        {
+          "name": "True Loves",
+          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "First Impression",
+      "url": "https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Bunny Hop!",
@@ -1205,22 +1221,6 @@
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     },
     {
-      "added_at": "2021-01-22 05:01:00",
-      "album": {
-        "name": "Sunday Afternoon",
-        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
-      },
-      "artists": [
-        {
-          "name": "True Loves",
-          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "First Impression",
-      "url": "https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Got Ya Movin'",
@@ -1249,6 +1249,22 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Hang",
+        "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 232140,
+      "name": "Monster Funk",
+      "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lost Knights",
@@ -1263,6 +1279,22 @@
       "duration_ms": 222533,
       "name": "Samson",
       "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fun Ones",
+        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 281805,
+      "name": "Indoor S'mores",
+      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1285,22 +1317,6 @@
       "url": "https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Fun Ones",
-        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 281805,
-      "name": "Indoor S'mores",
-      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Cornish Hen",
@@ -1319,22 +1335,6 @@
       "duration_ms": 305000,
       "name": "Cornish Hen",
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Hang",
-        "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        }
-      ],
-      "duration_ms": 232140,
-      "name": "Monster Funk",
-      "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
     },
     {
       "added_at": "2021-11-26 05:01:00",

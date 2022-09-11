@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,274 likes - 140 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,275 likes - 141 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,26 +127,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 117 | [Chocolate](https://open.spotify.com/track/5RN3uKvU918sL9EEPQ7qe8) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 0:45 |
 | 118 | [8](https://open.spotify.com/track/44xFEkaC8aoZx5AyBzmrI9) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 2:09 |
 | 119 | [Garden of Eden](https://open.spotify.com/track/7i5yX6mQUe2FpO6mx53u6A) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:06 |
-| 120 | [Hey Mister](https://open.spotify.com/track/6yq7yTOP4GaN5Edu60395a) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:05 |
-| 121 | [Ain't Shit](https://open.spotify.com/track/0SyBU2ZH5mBYDYfcay5oPQ) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:56 |
-| 122 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 |
-| 123 | [Slash My Tire](https://open.spotify.com/track/6T1ecdzhoLQUe9gdAiCerw) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:24 |
-| 124 | [California](https://open.spotify.com/track/5zJ7etJ3xJnS4ccMRUIOCH) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:40 |
-| 125 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
-| 126 | [Shots with Mariah](https://open.spotify.com/track/2epbEmDaCITnKflZGluswL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:20 |
-| 127 | [My Whole Life](https://open.spotify.com/track/3oo8W1b5umFaPXQELkhe3I) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:14 |
-| 128 | [Human Zoo](https://open.spotify.com/track/4pEjumrldjTclOXsrHp4x7) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:23 |
-| 129 | [Jump In](https://open.spotify.com/track/1CnFkCmCEQWgixlEZ85EUN) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:10 |
-| 130 | [Slow Motion](https://open.spotify.com/track/2xVDFjgs6DEYEFFqoHQPn3) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:52 |
-| 131 | [Where Will I Remember You](https://open.spotify.com/track/40Nh2OnMKMer8PxdaqdRIM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:16 |
-| 132 | [What Happens Here](https://open.spotify.com/track/1VooPXZF6A8PyWVHgeuwxh) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:23 |
-| 133 | [It's Not Easy](https://open.spotify.com/track/7B6k7t7gcZaSv050n4GgQl) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:53 |
-| 134 | [Best Sex](https://open.spotify.com/track/23t5m86sRKtsuJeDGZ48ZH) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:45 |
-| 135 | [On The Roof](https://open.spotify.com/track/5FcpRjbn9SspFGxE3jVd3R) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:41 |
-| 136 | [Way Down Below](https://open.spotify.com/track/0UrIJFk0tHRu4YAH9Ffz1a) | [Fire & the Romance](https://open.spotify.com/artist/5vunfmmHBwkBMz5VyXo2W1) | [Adaptations](https://open.spotify.com/album/3Kcrj9eoNPkoeGzA3CQre5) | 3:11 |
-| 137 | [Still Awake](https://open.spotify.com/track/5gS1VUzCGb7KMzVZDRMiqq) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:57 |
-| 138 | [12:42](https://open.spotify.com/track/0iCTvP2t04THoF9JyqDq82) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:26 |
-| 139 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
-| 140 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
+| 120 | [Normal to Feel](https://open.spotify.com/track/2WdmFuT1675qqu7o4tbn1d) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Normal to Feel](https://open.spotify.com/album/3nW4GaITknS7y4RZBxB0SH) | 3:20 |
+| 121 | [Hey Mister](https://open.spotify.com/track/6yq7yTOP4GaN5Edu60395a) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:05 |
+| 122 | [Ain't Shit](https://open.spotify.com/track/0SyBU2ZH5mBYDYfcay5oPQ) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:56 |
+| 123 | [Atoms](https://open.spotify.com/track/4pwcV7gAfkM7F6Yu1YBLvJ) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:48 |
+| 124 | [Slash My Tire](https://open.spotify.com/track/6T1ecdzhoLQUe9gdAiCerw) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:24 |
+| 125 | [California](https://open.spotify.com/track/5zJ7etJ3xJnS4ccMRUIOCH) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:40 |
+| 126 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 |
+| 127 | [Shots with Mariah](https://open.spotify.com/track/2epbEmDaCITnKflZGluswL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:20 |
+| 128 | [My Whole Life](https://open.spotify.com/track/3oo8W1b5umFaPXQELkhe3I) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:14 |
+| 129 | [Human Zoo](https://open.spotify.com/track/4pEjumrldjTclOXsrHp4x7) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:23 |
+| 130 | [Jump In](https://open.spotify.com/track/1CnFkCmCEQWgixlEZ85EUN) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:10 |
+| 131 | [Slow Motion](https://open.spotify.com/track/2xVDFjgs6DEYEFFqoHQPn3) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 3:52 |
+| 132 | [Where Will I Remember You](https://open.spotify.com/track/40Nh2OnMKMer8PxdaqdRIM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:16 |
+| 133 | [What Happens Here](https://open.spotify.com/track/1VooPXZF6A8PyWVHgeuwxh) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:23 |
+| 134 | [It's Not Easy](https://open.spotify.com/track/7B6k7t7gcZaSv050n4GgQl) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:53 |
+| 135 | [Best Sex](https://open.spotify.com/track/23t5m86sRKtsuJeDGZ48ZH) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:45 |
+| 136 | [On The Roof](https://open.spotify.com/track/5FcpRjbn9SspFGxE3jVd3R) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:41 |
+| 137 | [Way Down Below](https://open.spotify.com/track/0UrIJFk0tHRu4YAH9Ffz1a) | [Fire & the Romance](https://open.spotify.com/artist/5vunfmmHBwkBMz5VyXo2W1) | [Adaptations](https://open.spotify.com/album/3Kcrj9eoNPkoeGzA3CQre5) | 3:11 |
+| 138 | [Still Awake](https://open.spotify.com/track/5gS1VUzCGb7KMzVZDRMiqq) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:57 |
+| 139 | [12:42](https://open.spotify.com/track/0iCTvP2t04THoF9JyqDq82) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:26 |
+| 140 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
+| 141 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc3MTI4NjksMDAwMDAwMDAwYTkxOTZhZjM3Zjg1ZDBmNTZiYTc2ZDdmYjY3NTY4Nw==`
+Snapshot ID: `Mjc3MTQzMDksMDAwMDAwMDBkOTQzMjIwNjE1MGM0ODM4YjQwZDhhMWYzYWIzNWI2YQ==`

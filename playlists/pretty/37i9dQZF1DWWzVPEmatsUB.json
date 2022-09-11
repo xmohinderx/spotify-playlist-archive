@@ -1,12 +1,12 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 486647,
+  "num_followers": 486931,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDg5YjJjMGRjZDA3NzI5Y2JhMDI0MmU5NTE2ZDg0ZTA0",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGI3ZWFiZDg5NjE5NzE2ODAwYjIzNmY1M2IyYzU5Y2Ew",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
@@ -717,20 +733,20 @@
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
+      "duration_ms": 181266,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -749,22 +765,6 @@
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Songs of Sonder",
-        "url": "https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "Cruisin to the Park",
@@ -779,6 +779,22 @@
       "duration_ms": 212487,
       "name": "Cruisin to the Park",
       "url": "https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/24gkn5s8FRrzke3fjt2GmK"
+      },
+      "artists": [
+        {
+          "name": "Rob Baird",
+          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -803,22 +819,6 @@
     {
       "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/24gkn5s8FRrzke3fjt2GmK"
-      },
-      "artists": [
-        {
-          "name": "Rob Baird",
-          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
         "name": "Patrick Droney",
         "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 251161,
       "name": "High Hope",
       "url": "https://open.spotify.com/track/51hx5VSyIkTzwRrs5DJjQ3"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -863,6 +847,22 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -1149,26 +1149,6 @@
       "url": "https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Masquerades",
-        "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "When You Need It (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Only The Lonely",
@@ -1199,6 +1179,26 @@
       "duration_ms": 272640,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Masquerades",
+        "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "When You Need It (feat. Wrabel)",
+      "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
     },
     {
       "added_at": "2022-03-25 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,458 likes - 60 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,601 likes - 60 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 35 | [Baazigar O Baazigar](https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:39 |
 | 36 | [Yeh Ladka Hai Allah](https://open.spotify.com/track/0IYpKZhCeoXB85BslBg3q5) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 5:27 |
 | 37 | [Dance Pe Chance](https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:21 |
-| 38 | [Kitaben Bahut Si](https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 6:29 |
-| 39 | [Woh Ladki Jo](https://open.spotify.com/track/4A15QHUraE6rrP0Co6S3lG) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Baadshah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA) | 7:14 |
+| 38 | [Woh Ladki Jo](https://open.spotify.com/track/4A15QHUraE6rrP0Co6S3lG) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Baadshah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA) | 7:14 |
+| 39 | [Kitaben Bahut Si](https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 6:29 |
 | 40 | [Yeh Hum Aa Gaye Hain Kahaan](https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:43 |
 | 41 | [Ae Mere Humsafar](https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:33 |
 | 42 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [Mere Mehboob Mere Sanam](https://open.spotify.com/track/1hnLo3D6Hm2H9966DQ89Og) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Duplicate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JIO80l5DNOiaBlslwjbFN) | 6:59 |
 | 60 | [Apun Bola](https://open.spotify.com/track/1uHd2tBRzotyWUS3iQeDN7) | [Shah Rukh Khan](https://open.spotify.com/artist/3SBWeRybza4sJUr6Kjmft2), [Hema Sardesai](https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP) | [Josh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26tEuVzIVjvVn12w07hqIm) | 4:26 |
 
-Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMDY4ZjVhODJmMTFmMDJhZWE3Y2ZjM2M4NmY3ZWI2NmNl`
+Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMDMzZjJmYTVhOGVlMWM4NjBhN2QxNDFkZGQ0OTMzMTZm`

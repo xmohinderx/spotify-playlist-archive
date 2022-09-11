@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Kaleah Lee \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,396 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,450 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 67 | [lily of the valley](https://open.spotify.com/track/5z0zobpDgfoUG3zfOM9AB2) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Virginia](https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b) | 3:23 |
 | 68 | [Lou](https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk) | [Juno Lev](https://open.spotify.com/artist/6jQDETDXZtBIhuZdGhyPop) | [Lou](https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX) | 4:10 |
 | 69 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
-| 70 | [Meet Me at the Lake](https://open.spotify.com/track/5jd51Z2kIpeMa2sU10HfFT) | [Root Mean Square](https://open.spotify.com/artist/0idfWq9oG8LIPqBZTq5ZuV) | [Meet Me at the Lake](https://open.spotify.com/album/6sVZMNWEKn7SN1cg6I7XRc) | 3:29 |
+| 70 | [Meet Me at the Lake](https://open.spotify.com/track/3QLvYJKEPDnfj5ydv4LTfr) | [Root Mean Square](https://open.spotify.com/artist/0idfWq9oG8LIPqBZTq5ZuV) | [Meet Me at the Lake](https://open.spotify.com/album/6NQ2rJFGqU0hTNPyUPHINw) | 3:29 |
 | 71 | [Hourglass](https://open.spotify.com/track/6UhsRh1hGUJxINYsSWIIL8) | [CODA FACTO](https://open.spotify.com/artist/5kj5dKkdvcHkZeUBaCqalV) | [Hourglass](https://open.spotify.com/album/57vFag5ct36ndRtNUPM7aS) | 3:17 |
 | 72 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
 | 73 | [Wildfire](https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM) | [Minru](https://open.spotify.com/artist/7ofDeyinYugiOywRxjs5c2) | [Liminality](https://open.spotify.com/album/35b5EStxb2BkZnfyJr2CiR) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Stone](https://open.spotify.com/track/7CIMMwrTOtzTAQvKJPv7PE) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [Stone](https://open.spotify.com/album/7xJqwbzUQGpswwFKUef50o) | 5:58 |
 | 100 | [Boy](https://open.spotify.com/track/6kqXxozMFndOsIYelpqQTi) | [Misty Miller](https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU) | [Boy](https://open.spotify.com/album/228yVHAjjh3m59778IYHIQ) | 2:41 |
 
-Snapshot ID: `MTY2MjU2NjQwMCwwMDAwMDAwMGYzZWMxNGVlODc4NTk1ODczMGE5NmI3ODBmMGU1Zjdi`
+Snapshot ID: `MTY2MjU2NjQwMCwwMDAwMDAwMDk3N2YxZjgwMzQ4YjJjMmVjOTlhMWNmZDY1NzcwMzU4`

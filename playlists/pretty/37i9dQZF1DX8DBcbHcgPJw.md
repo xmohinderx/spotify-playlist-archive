@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,037 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,153 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 83 | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Le Mandamos Cumbia Perro \(CMTV Acústico\)](https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm) | 6:02 |
 | 84 | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7) | 8:14 |
 | 85 | [Pídeme la Luna](https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Pídeme la Luna](https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ) | 2:49 |
-| 86 | [Lo Que Soy](https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Lo Que Soy](https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW) | 2:06 |
+| 86 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 |
 | 87 | [Lejos](https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Lejos](https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8) | 2:50 |
-| 88 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 |
+| 88 | [Lo Que Soy](https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Lo Que Soy](https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW) | 2:06 |
 | 89 | [Get Lucky](https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 2:56 |
 | 90 | [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 |
 | 91 | [Déjate Querer](https://open.spotify.com/track/5MBBsIHpiYiqmMbp7OQJcq) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Déjate Querer](https://open.spotify.com/album/4wJBjofsAF8HV04FfwtPyK) | 3:29 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 96 | [Blinding Lights](https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Blinding Lights](https://open.spotify.com/album/7BFhm3PcO7hxATeviLbRbE) | 3:02 |
 | 97 | [Amor para un Rato](https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58) | [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Amor para un Rato](https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0) | 3:00 |
 | 98 | [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 |
-| 99 | [El Trato \- Remix](https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato \(Remix\)](https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv) | 2:23 |
-| 100 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 |
+| 99 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 |
+| 100 | [El Trato \- Remix](https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato \(Remix\)](https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv) | 2:23 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDU0NzA0OTg5NjI3OGYzNDBkZjBjMGNjMDYwYTljNmJm`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDNkNDIzZTg3YTE1ODk5NzYzZWNhNWUwZDlmZmRmOThi`

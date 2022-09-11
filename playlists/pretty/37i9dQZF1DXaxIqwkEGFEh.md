@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: EST Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,890 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,197 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 76 | [Regular](https://open.spotify.com/track/0Tzlbq5k7SJo8IyokmLVU6) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Regular](https://open.spotify.com/album/0LJF6IU5U6F2pDVG0gYaOJ) | 2:14 |
 | 77 | [Whatever \(feat\. Key Glock\)](https://open.spotify.com/track/6AH8UiIUKp6PXxXUXwB1HA) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Rich Off Pints 3](https://open.spotify.com/album/71AUiEqMJuQFGUzFmYYACn) | 3:19 |
 | 78 | [Stand Off \(feat\. DaBaby\)](https://open.spotify.com/track/1ca58x4jLrv0YjmZRPXhrD) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Rae Rae's Son](https://open.spotify.com/album/672JXSwE07jhPbJvfdSb3n) | 1:58 |
-| 79 | [JUGG](https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [JUGG](https://open.spotify.com/album/2rEZFLjRcgMqezzZmcTzzA) | 2:47 |
+| 79 | [JUGG](https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [JUGG](https://open.spotify.com/album/2rEZFLjRcgMqezzZmcTzzA) | 2:47 |
 | 80 | [Put In Work \(feat\. Dusty Locane\)](https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG) | [Badda TD](https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [The World Is Yours: Gangsta Grillz](https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h) | 2:26 |
 | 81 | [Step 1 \(with Offset\)](https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Step 1](https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf) | 2:57 |
 | 82 | [Run Down \(feat\. BigWalkDog\)](https://open.spotify.com/track/2xXp1I7sh93cOB9w1Ete5l) | [JMB Juvie](https://open.spotify.com/artist/25zUbJzU1WGRTN5Y0ajRzd), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Used to the Pain](https://open.spotify.com/album/2WuRkHMYoU8srU7gEXBUK2) | 2:32 |

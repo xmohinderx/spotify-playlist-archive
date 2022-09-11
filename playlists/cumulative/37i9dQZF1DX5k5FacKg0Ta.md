@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-79 songs - 6 hr 57 min - not published yet
+79 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/4dQJSl2Re8NrzRsKhgyvQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "just chill... respectfully ",
-  "num_followers": 793094,
+  "num_followers": 793308,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njc2MywwMDAwMDAwMDdjMGIwYzNkZGYwNmYzOGMwMTZkYThiNWEwOGNmYmFj",
+  "snapshot_id": "MTY2MjM5Njc2MywwMDAwMDAwMGIzY2YwZGU5NDhjNjg3MzcxYzcxYmMxMThiNzFjODRi",
   "tracks": [
     {
       "added_at": "2022-09-05 16:52:43",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Hud Dreems",
-        "url": "https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD"
-      },
-      "artists": [
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 73897,
-      "name": "kometostai.aintreallynootherwaytoputitro",
-      "url": "https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 188053,
       "name": "Queen Tings",
       "url": "https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Hud Dreems",
+        "url": "https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD"
+      },
+      "artists": [
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 73897,
+      "name": "kometostai.aintreallynootherwaytoputitro",
+      "url": "https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
-      },
-      "artists": [
-        {
-          "name": "Amanaz",
-          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
-        }
-      ],
-      "duration_ms": 203716,
-      "name": "Khala My Friend",
-      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Downers",
         "url": "https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt"
       },
@@ -395,38 +379,6 @@
       "duration_ms": 218888,
       "name": "Downers",
       "url": "https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -459,6 +411,38 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
+      },
+      "artists": [
+        {
+          "name": "Amanaz",
+          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
+        }
+      ],
+      "duration_ms": 203716,
+      "name": "Khala My Friend",
+      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 220401,
       "name": "Desoleil (Brilliant Corners)",
       "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Yah / Element (Medley)",
-        "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 176374,
-      "name": "Yah / Element - Medley",
-      "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -587,6 +587,22 @@
       "duration_ms": 200214,
       "name": "Waiting For (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Yah / Element (Medley)",
+        "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 176374,
+      "name": "Yah / Element - Medley",
+      "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -623,22 +639,6 @@
       "duration_ms": 150496,
       "name": "From My Heart and My Soul (feat. Phoelix)",
       "url": "https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/5WeI0airp8xZmmalIwKtNP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 228861,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/5EUPK2x1wJ5bERxjQ47lKv"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Exit",
         "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196673,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/5WeI0airp8xZmmalIwKtNP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 228861,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/5EUPK2x1wJ5bERxjQ47lKv"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Love and Hate in a Different Time",
-        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time",
-      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 129048,
       "name": "You",
       "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 282177,
+      "name": "Love and Hate in a Different Time",
+      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "Dying in the Subtlety",
+        "url": "https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Dying in the Subtlety",
+      "url": "https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "Dying in the Subtlety",
-        "url": "https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Dying in the Subtlety",
-      "url": "https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ"
     },
     {
       "added_at": "2022-09-05 16:52:43",

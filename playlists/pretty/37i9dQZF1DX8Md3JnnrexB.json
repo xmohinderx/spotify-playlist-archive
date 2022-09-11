@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 182818,
+  "num_followers": 182858,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyNjAwMCwwMDAwMDAwMGE2ZGQ4ZGRhNTFiYTMwMzc5YTIxMWQ1NTY3NzU5MTk0",
+  "snapshot_id": "MTY2MjYyNjAwMCwwMDAwMDAwMGQ4NjMyYjAyOWMxOTNlZWQ1OWExNDcyZWViZjEyMTY2",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+        "name": "Blue Lights in the Basement",
+        "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
       "artists": [
         {
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Where Is the Love",
-      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+      "duration_ms": 280800,
+      "name": "The Closer I Get to You",
+      "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Blue Lights in the Basement",
-        "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 280800,
-      "name": "The Closer I Get to You",
-      "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
+      "duration_ms": 166400,
+      "name": "Where Is the Love",
+      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Soul Organic (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 188573,
       "name": "Until You Come Back To Me - Acoustic Version",
       "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Johnny Gill",
-        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Gill",
-          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
-        }
-      ],
-      "duration_ms": 321906,
-      "name": "My, My, My",
-      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "High Crime",
         "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Johnny Gill",
+        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+        }
+      ],
+      "duration_ms": 321906,
+      "name": "My, My, My",
+      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Do Me Baby",
+        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
+      },
+      "artists": [
+        {
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+        }
+      ],
+      "duration_ms": 317400,
+      "name": "Do Me Baby",
+      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Breakin' Away",
         "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Do Me Baby",
-        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
-      },
-      "artists": [
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
-        }
-      ],
-      "duration_ms": 317400,
-      "name": "Do Me Baby",
-      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Street Called Desire (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5"
-      },
-      "artists": [
-        {
-          "name": "Rene & Angela",
-          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
-        }
-      ],
-      "duration_ms": 255973,
-      "name": "Your Smile",
-      "url": "https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 206053,
       "name": "When She Was My Girl",
       "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Street Called Desire (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5"
+      },
+      "artists": [
+        {
+          "name": "Rene & Angela",
+          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+        }
+      ],
+      "duration_ms": 255973,
+      "name": "Your Smile",
+      "url": "https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Raw",
+        "url": "https://open.spotify.com/album/6u3TtGj4AWtCkHDuO43U8q"
+      },
+      "artists": [
+        {
+          "name": "Alyson Williams",
+          "url": "https://open.spotify.com/artist/1IBDfeAuKWGg435csFT4rY"
+        }
+      ],
+      "duration_ms": 364533,
+      "name": "Just Call My Name",
+      "url": "https://open.spotify.com/track/1kpmECxBjYaujpgltrL8wy"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Smooth Soul",
         "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
       },
@@ -2087,8 +2103,8 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Closer Than Close",
-        "url": "https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz"
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
       "artists": [
         {
@@ -2096,29 +2112,9 @@
           "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 270253,
-      "name": "Mine All Mine",
-      "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 316893,
-      "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
-      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
+      "duration_ms": 138893,
+      "name": "Ebony Eyes",
+      "url": "https://open.spotify.com/track/63oCradne6LGBBo4MxIQwq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2139,18 +2135,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Raw",
-        "url": "https://open.spotify.com/album/6u3TtGj4AWtCkHDuO43U8q"
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
       "artists": [
         {
-          "name": "Alyson Williams",
-          "url": "https://open.spotify.com/artist/1IBDfeAuKWGg435csFT4rY"
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 364533,
-      "name": "Just Call My Name",
-      "url": "https://open.spotify.com/track/1kpmECxBjYaujpgltrL8wy"
+      "duration_ms": 316893,
+      "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
+      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Ebony Eyes",
-      "url": "https://open.spotify.com/track/63oCradne6LGBBo4MxIQwq"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/2bHCdSDRwnlUNPq4fT2CC1"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 255026,
       "name": "Young Free and Single",
       "url": "https://open.spotify.com/track/2f28m5YwEAh9aHOG14ajDD"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Closer Than Close",
+        "url": "https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Mine All Mine",
+      "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
     },
     {
       "added_at": "2022-05-11 12:25:18",

@@ -4,7 +4,7 @@
 
 > Taking it way back! Cover: Kanye West
 
-163 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
+164 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Brooklyn's Finest](https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:35 | 2021-06-28 | 2022-02-12 |
 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 | 2022-02-11 | 2022-03-14 |
 | [Can I Have It Like That](https://open.spotify.com/track/4wGmSaviqCb5RQlcDkn4ZC) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [In My Mind \(Deluxe Edition\)](https://open.spotify.com/album/5pYJCnVKIXdZVySWQe4DEl) | 3:55 | 2022-02-11 | 2022-03-14 |
-| [Can't Let You Go \(feat\. Mike Shorey & Lil' Mo\)](https://open.spotify.com/track/6lrRIfQDcikJ5y5DtyZPuJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Mike Shorey](https://open.spotify.com/artist/15qg3Tr23aMVGAruYtlMdg), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 3:43 | 2022-07-22 |  |
+| [Can't Let You Go \(feat\. Mike Shorey & Lil' Mo\)](https://open.spotify.com/track/6lrRIfQDcikJ5y5DtyZPuJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Mike Shorey](https://open.spotify.com/artist/15qg3Tr23aMVGAruYtlMdg), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 3:43 | 2022-07-22 | 2022-09-11 |
+| [Can't Tell Me Nothing](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:31 | 2022-09-10 |  |
 | [Cell Therapy](https://open.spotify.com/track/5wvxRlpUTSX9CE52yFZsIY) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Soul Food](https://open.spotify.com/album/6cKgDS8oVcCNw9EjQf66er) | 4:37 | 2021-03-05 | 2022-02-12 |
 | [Cleanin' Out My Closet](https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2022-05-26 | 2022-08-06 |
 | [Crack A Bottle](https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 4:57 | 2022-08-05 |  |

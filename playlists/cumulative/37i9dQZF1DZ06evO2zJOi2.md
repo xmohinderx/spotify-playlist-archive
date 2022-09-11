@@ -4,7 +4,7 @@
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 45 min - not published yet
+30 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/7imeXWHvcJ7CvvL55pgo5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

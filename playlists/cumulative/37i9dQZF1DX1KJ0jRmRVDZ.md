@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-436 songs - 1 day 1 hr 6 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+437 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [TEMPLATE](https://open.spotify.com/track/254Q6v7gbF7jc9sn8CY0GW) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [TEMPLATE/Wicked feat\. Mori Calliope](https://open.spotify.com/album/02tQIjxtgO0c5UAPYYzGAt) | 3:09 | 2022-06-30 | 2022-07-13 |
 | [The Fog](https://open.spotify.com/track/6WeNx7415S4E0m3YPeDknr) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [The Fog](https://open.spotify.com/album/0tHf1Ybf847LMLmlJBUelS) | 3:04 | 2022-06-14 | 2022-06-19 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-08-17 |
+| [Undead](https://open.spotify.com/track/63ng1fu3aFiRjVVE16PgRr) | [Misenaikuseni](https://open.spotify.com/artist/3LT0QrcTVc7pzZ9WgoLwNS) | [Undead](https://open.spotify.com/album/02wdhJ2fbR7VBcYXdOcaqc) | 3:53 | 2022-09-08 |  |
 | [Under Kids](https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Kids](https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh) | 3:26 | 2022-08-04 | 2022-09-09 |
 | [Unique](https://open.spotify.com/track/3DyaoTV9RUix1P7jKomn2d) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [Unique](https://open.spotify.com/album/38p2AoETPhydnxMHd7wkMl) | 4:20 | 2022-06-16 | 2022-06-18 |
 | [Untouchable](https://open.spotify.com/track/060Xp31LRG4Ob8yy700GMG) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Untouchable](https://open.spotify.com/album/1UDryR2OAvsKnKmD15Nfcv) | 3:15 | 2022-06-28 | 2022-07-08 |
@@ -173,7 +174,7 @@
 | [アルファルド](https://open.spotify.com/track/0w69RSBlcfiXV4ZmZ86QZZ) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [アルファルド](https://open.spotify.com/album/5JW1YvfQGqJi8kVGsmiLwm) | 2:45 | 2022-06-14 | 2022-07-27 |
 | [アンコンフォートゾーン](https://open.spotify.com/track/53zVhOAvqqvX9pfeZSFIAR) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アンコンフォートゾーン](https://open.spotify.com/album/2rycPnLmmwb2TGopm6tPgp) | 3:01 | 2022-07-14 | 2022-07-16 |
 | [アンダーキッズ](https://open.spotify.com/track/3Agi3nFDMm00P5XH4VzMcv) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [アンダーキッズ](https://open.spotify.com/album/3u2SICYvfbeTPDyUjxnv9p) | 3:26 | 2022-07-26 | 2022-07-29 |
-| [アンデッド](https://open.spotify.com/track/7mJasHPXBQ7WEek6Di0HQe) | [ミセナイクセニ](https://open.spotify.com/artist/1nTcWnlqJNMo9VvBiWQsxH) | [アンデッド](https://open.spotify.com/album/2mxHXFqXh8E0wPO3sjukgX) | 3:53 | 2022-09-08 |  |
+| [アンデッド](https://open.spotify.com/track/7mJasHPXBQ7WEek6Di0HQe) | [ミセナイクセニ](https://open.spotify.com/artist/1nTcWnlqJNMo9VvBiWQsxH) | [アンデッド](https://open.spotify.com/album/2mxHXFqXh8E0wPO3sjukgX) | 3:53 | 2022-09-08 | 2022-09-11 |
 | [アンバームーン](https://open.spotify.com/track/2VToJNakkBmwEvZxKS692u) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [アンバームーン](https://open.spotify.com/album/6lZOqqJmvpxyCB3UAbZiXW) | 3:22 | 2022-07-21 | 2022-07-23 |
 | [アーメン・ナンマイダ・カンパイ!](https://open.spotify.com/track/5XimesvdA6eITqdno4aL9g) | [リリぴ](https://open.spotify.com/artist/7mk9NIekDtJcmkHuW0YGeF) | [アーメン・ナンマイダ・カンパイ!](https://open.spotify.com/album/2hDa94YdiK2dfTnVf39pTY) | 2:37 | 2022-07-24 | 2022-07-27 |
 | [イエロウ](https://open.spotify.com/track/13PiYYktV3bZXV6WReyNk8) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [イエロウ](https://open.spotify.com/album/5pxTFG0piWQz3ieHSrkZEz) | 3:48 | 2022-06-28 | 2022-07-26 |

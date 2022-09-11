@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 
 > Fabio & Grooverider curate Jungle Classics to celebrate Notting Hill Carnival!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,595 likes - 63 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,610 likes - 63 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

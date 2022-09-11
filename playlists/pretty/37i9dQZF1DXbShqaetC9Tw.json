@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 67641,
+  "num_followers": 67765,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1OTA3MSwwMDAwMDAwMGMwYTAxNDJmYzMxMDYyYTNjYTY1YjM1ZGEwY2JkNmZj",
+  "snapshot_id": "MTY2MjM1OTA3MSwwMDAwMDAwMDQxOWI4ZGE0ODEyZmViYTgzODYzMDIyMmQzYTU1NDkz",
   "tracks": [
     {
       "added_at": "2022-09-05 06:24:31",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-09-05 06:24:31",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2022-09-05 06:24:31",
-      "album": {
         "name": "Like a Diamond",
         "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 196586,
       "name": "Like a Diamond (With. Stella Jang)",
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
+    },
+    {
+      "added_at": "2022-09-05 06:24:31",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2022-09-05 06:24:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-05 06:24:31",
       "album": {
-        "name": "sad love song",
-        "url": "https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 181211,
-      "name": "sad love song",
-      "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
-    },
-    {
-      "added_at": "2022-09-05 06:24:31",
-      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6tZgKm7KhNVXy6gvRxzcfS"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 214506,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/4r7D85ESaUKC73NxfpQGsC"
+    },
+    {
+      "added_at": "2022-09-05 06:24:31",
+      "album": {
+        "name": "sad love song",
+        "url": "https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 181211,
+      "name": "sad love song",
+      "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
     },
     {
       "added_at": "2022-09-05 06:24:31",

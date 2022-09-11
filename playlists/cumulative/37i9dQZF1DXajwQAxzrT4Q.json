@@ -150,6 +150,28 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J"
+      },
+      "artists": [
+        {
+          "name": "Beatdemons",
+          "url": "https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME"
+        },
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180035,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3ZWDMpOPLbFgqLjMzCtX6U"
+    },
+    {
+      "album": {
         "name": "ALL ON ME",
         "url": "https://open.spotify.com/album/6RbaC0idsKcHF9I28NKDUN"
       },
@@ -547,6 +569,32 @@
       "duration_ms": 148833,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
       "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
+    },
+    {
+      "album": {
+        "name": "bla bla bla",
+        "url": "https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
+        {
+          "name": "DRUMMIE",
+          "url": "https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145185,
+      "name": "bla bla bla",
+      "url": "https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey"
     },
     {
       "album": {
@@ -2617,7 +2665,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 166285,
       "name": "Pop It Like a Pro",
       "url": "https://open.spotify.com/track/7cZftLl511eByHiuWeU1jP"
@@ -2635,7 +2683,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 112587,
       "name": "Posted In The Club",
       "url": "https://open.spotify.com/track/5UDTG9OGUBlUtUh0AEmFoQ"

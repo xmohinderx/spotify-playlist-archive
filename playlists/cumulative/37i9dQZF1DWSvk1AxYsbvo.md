@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-131 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+132 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 | 2022-05-03 | 2022-07-29 |
 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 | 2022-05-03 |  |
 | [Lazy Me](https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:07 | 2022-05-03 | 2022-07-29 |
+| [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 |  |
 | [let’s play tug](https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [let’s play tug](https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR) | 2:46 | 2022-05-03 |  |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 |  |
 | [Losing Myself](https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Losing Myself](https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH) | 2:56 | 2022-08-09 | 2022-09-05 |
@@ -79,7 +80,7 @@
 | [neighborhood bookstore](https://open.spotify.com/track/2EKT56VMK218rRW6X2nEqY) | [Modern Darakbang](https://open.spotify.com/artist/5TuBqzdS4sdbYIj3tmbtOO) | [neighborhood bookstore](https://open.spotify.com/album/1uD7hkW3B5HUcVZYwV1PvS) | 4:46 | 2022-05-03 | 2022-07-23 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 |  |
 | [Notting Hill](https://open.spotify.com/track/5nuHas0chnay1eVNwpox1p) | [강동훈](https://open.spotify.com/artist/0MpKG6kiILpu3fku0uKeHz) | [Notting Hill](https://open.spotify.com/album/5mo4kRrvgpr13QAxNrkBn3) | 3:30 | 2022-05-03 | 2022-07-14 |
-| [Ocean \(feat\. Aden\)](https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Ocean \(feat\. Aden\)](https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX) | 3:23 | 2022-08-12 |  |
+| [Ocean \(feat\. Aden\)](https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Ocean \(feat\. Aden\)](https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX) | 3:23 | 2022-08-12 | 2022-09-11 |
 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-18 |  |
 | [Oh I Know](https://open.spotify.com/track/4MCLG9DIQnysCNbMkfmE5V) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Oh I Know](https://open.spotify.com/album/4XLTja4mx8DMzHn8b2uMfp) | 3:42 | 2022-05-03 | 2022-07-29 |
 | [Olive](https://open.spotify.com/track/4npfaORHCIotPdE5pROSX8) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/4OOcKhTPbVZtDdy2WKVVEE) | 2:09 | 2022-06-18 |  |

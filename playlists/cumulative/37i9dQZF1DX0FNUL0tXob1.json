@@ -1347,6 +1347,24 @@
     {
       "album": {
         "name": "Landless",
+        "url": "https://open.spotify.com/album/7a7MVyLYxQZWFAosFyvnyK"
+      },
+      "artists": [
+        {
+          "name": "Eight Bells",
+          "url": "https://open.spotify.com/artist/3CQwCt4dezatrxgl9aNkmN"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408106,
+      "name": "Hating",
+      "url": "https://open.spotify.com/track/0MUBj8GFI5RUxuIMGjtvTm"
+    },
+    {
+      "album": {
+        "name": "Landless",
         "url": "https://open.spotify.com/album/5dfi3L9UmI9vaHBjNyfTb2"
       },
       "artists": [
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2016-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 408117,
       "name": "Hating",
       "url": "https://open.spotify.com/track/215c3freFTapYWmi4qVtnh"

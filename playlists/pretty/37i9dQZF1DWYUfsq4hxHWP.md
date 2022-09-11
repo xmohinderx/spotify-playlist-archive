@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: David Unlayao, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,210 likes - 136 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,232 likes - 136 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

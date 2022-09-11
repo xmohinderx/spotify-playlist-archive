@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-210 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+212 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Adventure Of A Lifetime](https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM) | 4:59 | 2022-07-14 |  |
 | [Adventure of a Lifetime](https://open.spotify.com/track/1eQLyPaRwFR6Wp4n7SP9eg) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Adventure of a Lifetime](https://open.spotify.com/album/6611UANTjZ3DwORtSLHWzr) | 4:59 | 2021-11-19 | 2022-07-29 |
 | [Aim High](https://open.spotify.com/track/2BNhXy5M8kKkJjbJLrC6fV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Aim High](https://open.spotify.com/album/1ItNMlTicfVwY9oTp9RShW) | 3:42 | 2021-11-19 | 2022-07-29 |
-| [Aim High](https://open.spotify.com/track/4tGo8louHXYYJZT4dUuUyk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/6gV2UvsUCLzOSpDa3OlFUH) | 3:43 | 2022-07-14 |  |
+| [Aim High](https://open.spotify.com/track/4tGo8louHXYYJZT4dUuUyk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/6gV2UvsUCLzOSpDa3OlFUH) | 3:43 | 2022-07-14 | 2022-09-11 |
 | [All About You](https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK) | [Maluku Sweden Connection](https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7), [SheemaW](https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl) | [All About You](https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA) | 4:20 | 2021-11-19 |  |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2022-02-08 | 2022-05-25 |
 | [All of These Things](https://open.spotify.com/track/3q6QI77XHbUqMjrHCQFrCP) | [Emil Otto](https://open.spotify.com/artist/6J3pcOji8HrXy4nrnFd68H), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq) | [Ain’t Love a Beautiful Thing](https://open.spotify.com/album/6Nwq21fNDkW9jVaJB7zQ1Y) | 3:34 | 2022-09-08 |  |
@@ -37,7 +37,7 @@
 | [Begin Again](https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:49 | 2021-11-19 |  |
 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 | 2022-02-08 |  |
 | [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 | 2021-11-19 |  |
-| [Birthday](https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR) | 3:00 | 2022-07-14 |  |
+| [Birthday](https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR) | 3:00 | 2022-07-14 | 2022-09-11 |
 | [Birthday](https://open.spotify.com/track/6tMUp2XBPBUtIVL5iue9In) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/1WTsPT91gUr0tWNYPSWfjD) | 3:00 | 2021-11-19 | 2022-07-29 |
 | [bitterlove](https://open.spotify.com/track/2q5ug5CRRG0nBCLBTprsl6) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [a letter to my 17 year old](https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h) | 3:30 | 2021-11-19 | 2022-02-09 |
 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 | 2021-11-19 |  |
@@ -160,6 +160,7 @@
 | [One Less Lonely Girl](https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa) | [Nikki Ocean](https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00) | [One Less Lonely Girl](https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf) | 3:56 | 2021-11-19 |  |
 | [Outline](https://open.spotify.com/track/15lJRmiVd7aIJtozQJg5Ld) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/2Pv1n3XbbTonM300ulb4cZ) | 3:13 | 2021-11-19 |  |
 | [Peace \- First Sessions Demo](https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Midnight Jones](https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg) | 3:53 | 2021-11-19 | 2022-08-12 |
+| [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-09 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2022-02-08 | 2022-08-31 |
 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 | 2021-11-19 |  |
 | [River](https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [River](https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq) | 2:57 | 2021-11-19 |  |
@@ -182,6 +183,7 @@
 | [Song Like Ours](https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU) | [Jazzy D](https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR), [Angela Gooden](https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm) | [Song Like Ours](https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q) | 4:58 | 2021-11-19 |  |
 | [Sorry](https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn), [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87) | [Sorry](https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p) | 4:09 | 2021-11-19 |  |
 | [Spaceman](https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 2:33 | 2021-11-19 |  |
+| [Steer Your Way \(feat\. Norah Jones\)](https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Steer Your Way](https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm) | 4:48 | 2022-09-09 |  |
 | [Still Trying](https://open.spotify.com/track/6BJE98pz7MsjxuwmKyjn3d) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Still Trying](https://open.spotify.com/album/1AGqSa9MinrnC9VVhSVcBJ) | 3:49 | 2021-11-19 | 2022-07-29 |
 | [Still Trying](https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Trying Times](https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti) | 3:49 | 2022-08-11 |  |
 | [Strangers in Disguise](https://open.spotify.com/track/4rIoGSsuUE9KOhYwkhX4Ls) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H) | [Strangers in Disguise](https://open.spotify.com/album/7p6Fu4k7F97W60BV2Bz4KK) | 2:46 | 2021-11-19 |  |

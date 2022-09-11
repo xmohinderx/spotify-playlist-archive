@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,491 likes - 120 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,742 likes - 120 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 33 | [lazy case](https://open.spotify.com/track/1NLAqoecIJ1eMquBtg6RKV) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [lazy case](https://open.spotify.com/album/5Ihrtc3Aj7VlfG5rKi7Klu) | 1:36 |
 | 34 | [red sky](https://open.spotify.com/track/3AqaL97YQFCjjnt8b83lVk) | [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [red sky](https://open.spotify.com/album/4c4E4wCut8mSf2a8UjOrzA) | 1:57 |
 | 35 | [Overnight](https://open.spotify.com/track/148AqK4nAcGADF0kL8aLo0) | [Amaez](https://open.spotify.com/artist/5UL219t4aptfSBcRGFeLJU) | [Poolside](https://open.spotify.com/album/5GdYY9tUHATbHgnXBEZaL4) | 2:01 |
-| 36 | [Octopus](https://open.spotify.com/track/0PfLT1lIx88re1y9gUYxn7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Octopus](https://open.spotify.com/album/3y1uHLHQHMEPkLw9ApVWeg) | 2:39 |
+| 36 | [Octopus](https://open.spotify.com/track/4ZkxipJNGuVdf2zHiWXOYm) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Octopus](https://open.spotify.com/album/0lzGfQHfVGkKreajAb0WW4) | 2:39 |
 | 37 | [Magic Carpet Ride](https://open.spotify.com/track/1bJ25F50UTdGoeiNm1eaui) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [Magic Carpet Ride](https://open.spotify.com/album/41GeOrdAoQs4ZadU7JLLua) | 1:17 |
 | 38 | [Basking in the Sun](https://open.spotify.com/track/5jiXP3Yw3WS7bDLnJtnfxz) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Basking in the Sun](https://open.spotify.com/album/0OfnWRiXQG1XQWKqbkxU84) | 2:10 |
 | 39 | [Summer gate](https://open.spotify.com/track/3lozXLDEjRO6jrXLP5Vc8i) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Gyûki](https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Summer gate](https://open.spotify.com/album/5zbWjbtHKteq8h7Hl0vj4S) | 1:52 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 119 | [Tides](https://open.spotify.com/track/04afJKFNdIoRML4qG7U6t3) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Tides](https://open.spotify.com/album/5iNsrFsBl4c25eib0VPH4e) | 2:27 |
 | 120 | [Sunflower Plaza](https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW) | [Lofi City Colours](https://open.spotify.com/artist/6LVXwiOOvFdK6cr6I1IEEV) | [Sunflower Plaza](https://open.spotify.com/album/3s40pZdRf3QWAXgBYR90Ke) | 2:51 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGE1MjZkMTMwODZkMzViY2YxN2ZmYTRmZjg4NDUwMDNj`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDUxMGNkNjVlNDdmMzljZTgyNGNkODA4YWJjZmU5NDVl`

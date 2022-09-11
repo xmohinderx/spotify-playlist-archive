@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,258 likes - 499 songs - 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,419 likes - 499 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,7 +320,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 310 | [Migrations](https://open.spotify.com/track/29vvz584HPBd2pCMS0QW3Y) | [Scasca](https://open.spotify.com/artist/2FjS1zPiO1Be9agHdsxJjo) | [Migrations](https://open.spotify.com/album/2DF1yOyOXqunpiNn9DmYmh) | 3:25 |
 | 311 | [Big Easy City](https://open.spotify.com/track/22JgzHfHyonKuvOSpvEKDz) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Big Easy City](https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ) | 2:00 |
 | 312 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 |
-| 313 | [Mood Lines](https://open.spotify.com/track/1EOYAHo9XA4Crk6zItThFa) | [Kap](https://open.spotify.com/artist/13LDOfBz1kXJzaejmIweLQ), [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Mood Lines](https://open.spotify.com/album/3lDGJ77W8b1pnFv5PXdWHm) | 2:19 |
+| 313 | [Mood Lines](https://open.spotify.com/track/6Si39PyNL7e88OOhh5nWmm) | [Kap](https://open.spotify.com/artist/13LDOfBz1kXJzaejmIweLQ), [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Mood Lines](https://open.spotify.com/album/6AtszFAe6iBzFjaCt0ccrn) | 2:19 |
 | 314 | [Chesterfield](https://open.spotify.com/track/7x5QoXMfR9tQKp1TPT17Ft) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Chesterfield](https://open.spotify.com/album/72FaXIKk4HxWPxTEC9rXOP) | 2:15 |
 | 315 | [Portis Trip](https://open.spotify.com/track/52eOIqTQdWiB47ZwnzwgKo) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Birds of Canada](https://open.spotify.com/album/06a51Vc73tJbWPjb0egf6r) | 1:46 |
 | 316 | [Seaside](https://open.spotify.com/track/15tcjaWnq1bSdwVTv0wiiY) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Sea Breeze](https://open.spotify.com/album/11S2o3uAUSB97JYubhVuLI) | 2:17 |
@@ -508,4 +508,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 498 | [Technical Difficulties](https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Technical Difficulties](https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG) | 2:50 |
 | 499 | [Walking Away](https://open.spotify.com/track/6D92s9XsxCMSx7cnRRyIm6) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Tapeloop](https://open.spotify.com/album/25R3bF7LFwPRg3ORzO8Age) | 1:58 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDc3ZGNmOTQ5YzE5ZTgyN2RlZTVjZjk0MTU0NDM5MjY3`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDZiMGRkMmI1MmI3NTJjN2QzZDQ3MWFhNzJlZmM3OGJj`

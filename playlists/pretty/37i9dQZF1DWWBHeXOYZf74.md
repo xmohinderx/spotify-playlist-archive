@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Sudan Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,793 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,799 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 64 | [Dance Forever](https://open.spotify.com/track/1WOTQ1BdmTxuI4OYTegKNH) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Dance Forever / Stump](https://open.spotify.com/album/4wDAfyjdq3W3azCF2cn32L) | 3:05 |
 | 65 | [ADDICTIONS \(FEAT\. Tre' Amani\)](https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:12 |
 | 66 | [Far Apart](https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Far Apart](https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl) | 2:56 |
-| 67 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA), [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 |
+| 67 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 |
 | 68 | [Not The Way](https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [Pierce.blue](https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv) | [Not The Way](https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB) | 3:08 |
 | 69 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
 | 70 | [solitude/martini on mars](https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 3:15 |

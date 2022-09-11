@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Ohana Bam
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277 likes - 54 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281 likes - 54 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

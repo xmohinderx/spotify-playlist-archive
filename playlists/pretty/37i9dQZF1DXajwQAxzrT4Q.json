@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 21015,
+  "num_followers": 21066,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDIxZDIwM2MwZTJmZDA4MzE1ZDI2ZTI2ZmNhMzA0YWY0",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDU4Nzc3YWU2MWZiNGMwNTkyY2M2NDA3MjlkNjRhOWEz",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -749,6 +749,30 @@
       "url": "https://open.spotify.com/track/6tS9z4PYZpOFaHFs6Nuoz0"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "bla bla bla",
+        "url": "https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
+        {
+          "name": "DRUMMIE",
+          "url": "https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "bla bla bla",
+      "url": "https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "POPULAR LONER",
@@ -783,22 +807,6 @@
       "duration_ms": 127503,
       "name": "My Back (Jersey Club)",
       "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Dream (Jersey Club)",
-        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
-      },
-      "artists": [
-        {
-          "name": "DJ T Marq",
-          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
-        }
-      ],
-      "duration_ms": 123271,
-      "name": "Dream (Jersey Club)",
-      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -859,6 +867,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Dream (Jersey Club)",
+        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
+      },
+      "artists": [
+        {
+          "name": "DJ T Marq",
+          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
+        }
+      ],
+      "duration_ms": 123271,
+      "name": "Dream (Jersey Club)",
+      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "New Jersey Club EP",
         "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
       },
@@ -871,26 +895,6 @@
       "duration_ms": 98208,
       "name": "Nobody's Perfect - Original Mix",
       "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Ayo (Jersey Club) [feat. DJ Bake]",
-        "url": "https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        }
-      ],
-      "duration_ms": 123480,
-      "name": "Ayo (Jersey Club) [feat. DJ Bake]",
-      "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -935,6 +939,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Ayo (Jersey Club) [feat. DJ Bake]",
+        "url": "https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 123480,
+      "name": "Ayo (Jersey Club) [feat. DJ Bake]",
+      "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Renaissance (Remixes)",
         "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
@@ -955,26 +979,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Doin It Wrong (DJ iMarkkeyz Remix)",
-        "url": "https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb"
-      },
-      "artists": [
-        {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "iMarkkeyz",
-          "url": "https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R"
-        }
-      ],
-      "duration_ms": 177521,
-      "name": "Doin It Wrong - DJ iMarkkeyz Remix",
-      "url": "https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
       },
@@ -991,6 +995,26 @@
       "duration_ms": 139701,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Doin It Wrong (DJ iMarkkeyz Remix)",
+        "url": "https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "iMarkkeyz",
+          "url": "https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R"
+        }
+      ],
+      "duration_ms": 177521,
+      "name": "Doin It Wrong - DJ iMarkkeyz Remix",
+      "url": "https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1107,22 +1131,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Walk It",
-        "url": "https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL"
-      },
-      "artists": [
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "Walk It",
-      "url": "https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
         "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
       },
@@ -1187,26 +1195,18 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Clout Chaser Pt. 4",
-        "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
+        "name": "Walk It",
+        "url": "https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL"
       },
       "artists": [
         {
-          "name": "Mvntana",
-          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
-        },
-        {
-          "name": "Flyy TheProducer",
-          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
-        },
-        {
-          "name": "Pyt Ny",
-          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
         }
       ],
-      "duration_ms": 150022,
-      "name": "Clout Chaser Pt. 4",
-      "url": "https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx"
+      "duration_ms": 137195,
+      "name": "Walk It",
+      "url": "https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1227,6 +1227,30 @@
       "duration_ms": 117054,
       "name": "My Boo (Running Man Challenge)",
       "url": "https://open.spotify.com/track/5bF0IsOH5bHZh1hSKkJtwU"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Clout Chaser Pt. 4",
+        "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
+      },
+      "artists": [
+        {
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
+        },
+        {
+          "name": "Flyy TheProducer",
+          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
+        },
+        {
+          "name": "Pyt Ny",
+          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
+        }
+      ],
+      "duration_ms": 150022,
+      "name": "Clout Chaser Pt. 4",
+      "url": "https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1299,6 +1323,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Tek 9 EP",
+        "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
+      },
+      "artists": [
+        {
+          "name": "Dj Tameil",
+          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
+        }
+      ],
+      "duration_ms": 205516,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2uuZP1r3oswkjAdguUNbOS"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Glitchy Gal",
         "url": "https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx"
       },
@@ -1315,18 +1355,30 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Tek 9 EP",
-        "url": "https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY"
+        "name": "Hatin' Ass Bitches Anthem",
+        "url": "https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10"
       },
       "artists": [
         {
-          "name": "Dj Tameil",
-          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
+        },
+        {
+          "name": "Flyy TheProducer",
+          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
+        },
+        {
+          "name": "Pyt Ny",
+          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
+        },
+        {
+          "name": "Dj Blizz",
+          "url": "https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu"
         }
       ],
-      "duration_ms": 205516,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/2uuZP1r3oswkjAdguUNbOS"
+      "duration_ms": 116564,
+      "name": "Hatin' Ass Bitches Anthem",
+      "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1367,34 +1419,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Hatin' Ass Bitches Anthem",
-        "url": "https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10"
-      },
-      "artists": [
-        {
-          "name": "Mvntana",
-          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
-        },
-        {
-          "name": "Flyy TheProducer",
-          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
-        },
-        {
-          "name": "Pyt Ny",
-          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
-        },
-        {
-          "name": "Dj Blizz",
-          "url": "https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu"
-        }
-      ],
-      "duration_ms": 116564,
-      "name": "Hatin' Ass Bitches Anthem",
-      "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "New Jersey Club EP",
         "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
       },
@@ -1407,6 +1431,22 @@
       "duration_ms": 131291,
       "name": "Why You Think You're Fierce - Original Mix",
       "url": "https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1439,22 +1479,6 @@
       "duration_ms": 147307,
       "name": "My Heart Freestyle",
       "url": "https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1549,6 +1573,26 @@
       "url": "https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J"
+      },
+      "artists": [
+        {
+          "name": "Beatdemons",
+          "url": "https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME"
+        },
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3ZWDMpOPLbFgqLjMzCtX6U"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Award",
@@ -1627,6 +1671,26 @@
       "duration_ms": 139130,
       "name": "Desire - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Need Your Body",
+        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
+      },
+      "artists": [
+        {
+          "name": "Jaeo Draftpick",
+          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
+        },
+        {
+          "name": "DJ Scenario",
+          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Need Your Body",
+      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1735,26 +1799,6 @@
       "duration_ms": 91324,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/0aswI2C8DCUU7xuzKQJdTr"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Need Your Body",
-        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
-      },
-      "artists": [
-        {
-          "name": "Jaeo Draftpick",
-          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
-        },
-        {
-          "name": "DJ Scenario",
-          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Need Your Body",
-      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1883,38 +1927,6 @@
       "duration_ms": 142528,
       "name": "Love Song - TrillzAL Jersey Edit",
       "url": "https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Posted In The Club",
-        "url": "https://open.spotify.com/album/2MjbX3plYR9ejCkqVHHoXn"
-      },
-      "artists": [
-        {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/1KKz8zGGq9AmIQwzMT42BJ"
-        }
-      ],
-      "duration_ms": 112587,
-      "name": "Posted In The Club",
-      "url": "https://open.spotify.com/track/5UDTG9OGUBlUtUh0AEmFoQ"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Pop It Like a Pro",
-        "url": "https://open.spotify.com/album/59grGDTRTbKXrIq9kAijdO"
-      },
-      "artists": [
-        {
-          "name": "Groove Dealers",
-          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Pop It Like a Pro",
-      "url": "https://open.spotify.com/track/7cZftLl511eByHiuWeU1jP"
     }
   ],
   "unique_name": "Jersey Club Heat",

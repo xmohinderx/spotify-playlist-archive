@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,625 likes - 58 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,840 likes - 58 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dosti](https://open.spotify.com/track/04gj1dTfKOsir4SB70LLgS) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [RRR](https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9) | 5:40 |
 | 2 | [Chitti](https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Jathi Ratnalu](https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA) | 3:04 |
-| 3 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/6Lsp9s73ZaLwExeVogmXz2) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
+| 3 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
 | 4 | [Kalaavathi \(From "Sarkaru Vaari Paata"\)](https://open.spotify.com/track/0RjQR5QfKREKE9wQki8spV) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Kalaavathi \(From "Sarkaru Vaari Paata"\) \- Single](https://open.spotify.com/album/0PuturA4rrgnBAf4mP9dfE) | 4:02 |
 | 5 | [Ramuloo Ramulaa](https://open.spotify.com/track/3qWfqpB8KJFxwvbpqbuLCh) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 4:05 |
 | 6 | [Anaganaganaga](https://open.spotify.com/track/47BZ5zznG2jzc2hjsEbvxH) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:47 |
