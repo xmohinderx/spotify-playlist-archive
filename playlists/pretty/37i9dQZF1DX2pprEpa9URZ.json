@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 640569,
+  "num_followers": 640900,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDkwMzU5MGRjMjAxMDYxZmFhMTVlMjhhMDM1ZmI0ZDMx",
+  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDBkNzQ1YjE0OTk3MjE1ZTFlZjA4YTc1N2ZkZWI5NzEx",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Amazon",
+        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
+      },
+      "artists": [
+        {
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        }
+      ],
+      "duration_ms": 544182,
+      "name": "Amazon",
+      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Amazon",
-        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
-      },
-      "artists": [
-        {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
-        }
-      ],
-      "duration_ms": 544182,
-      "name": "Amazon",
-      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Seymour",
+        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 327750,
+      "name": "Seymour",
+      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Seymour",
-        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 327750,
-      "name": "Seymour",
-      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Velvet Desert Music Vol. 2",
         "url": "https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 453717,
       "name": "Monterrey Paris Texas",
       "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
-      },
-      "artists": [
-        {
-          "name": "Planet Caravan",
-          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
-        }
-      ],
-      "duration_ms": 385702,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Astavakra",
         "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Planet Caravan",
+          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
         }
       ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+      "duration_ms": 385702,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -755,22 +739,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Experiencing a Significant Gravitas Shortfall",
-        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Commoner",
-          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
-        },
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
-      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -791,6 +771,26 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Experiencing a Significant Gravitas Shortfall",
+        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
+      },
+      "artists": [
+        {
+          "name": "Commoner",
+          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
+        },
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
+      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Izivunguvungu (Chlo\u00e9 Remix)",
         "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 367636,
       "name": "Novicani",
       "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
+      },
+      "artists": [
+        {
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+        }
+      ],
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Minimuzikhol Benefit Compilation",
-        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
-      },
-      "artists": [
-        {
-          "name": "TUTAN",
-          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
-        }
-      ],
-      "duration_ms": 366886,
-      "name": "Mazbata",
-      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Eliso",
         "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 176839,
       "name": "Eliso Lyamu Katata",
       "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Minimuzikhol Benefit Compilation",
+        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+      },
+      "artists": [
+        {
+          "name": "TUTAN",
+          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+        }
+      ],
+      "duration_ms": 366886,
+      "name": "Mazbata",
+      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
     },
     {
       "added_at": "2022-09-09 16:00:00",

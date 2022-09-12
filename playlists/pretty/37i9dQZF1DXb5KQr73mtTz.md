@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,354 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,396 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 28 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 3:55 |
 | 29 | [Into My Heart](https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Encounter \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u) | 3:19 |
 | 30 | [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 |
-| 31 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 |
-| 32 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 |
+| 31 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 |
+| 32 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 |
 | 33 | [Love Me Like You Used To](https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP) | 3:36 |
 | 34 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 |
 | 35 | [The Hardest Part](https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY) | 4:18 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 37 | [It hurts to love you](https://open.spotify.com/track/2GxG8MBqH9UnCTvb3WP8E3) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 14](https://open.spotify.com/album/5sEM1JX3X8K7TxhiywWo4C) | 4:38 |
 | 38 | [Love Lost](https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Love Lost](https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT) | 3:50 |
 | 39 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
-| 40 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
-| 41 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [규리](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 |
-| 42 | [After we broke up](https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Bravo, My Life OST Part.20](https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q) | 3:41 |
-| 43 | [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 |
+| 40 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [규리](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 |
+| 41 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
+| 42 | [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 |
+| 43 | [After we broke up](https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Bravo, My Life OST Part.20](https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q) | 3:41 |
 | 44 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 |
 | 45 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 |
 | 46 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
-| 47 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 |
-| 48 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
+| 47 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
+| 48 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 |
 | 49 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
-| 50 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 |
+| 50 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
 
-Snapshot ID: `MTY2MjM5MzE4NCwwMDAwMDAwMDJhYzlhNjIzYmYyYzZjYmZkMjM4ZWFiMjg0NTZiOTc0`
+Snapshot ID: `MTY2MjM5MzE4NCwwMDAwMDAwMDljMjE3Zjk0ZmNkOGZiOTI2MWM5MjIyZWQ5ZDc4NjYx`

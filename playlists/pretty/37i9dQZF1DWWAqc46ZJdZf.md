@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,452 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,390 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 44 | [Say It Loud \- I'm Black And I'm Proud \- Pt\. 1](https://open.spotify.com/track/5h8ve1B7Gr3k4W0WXAgLxE) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 2:47 |
 | 45 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 |
 | 46 | [Fuck Tha Police](https://open.spotify.com/track/3TE9GbcsnQrxUrqpdpb8I0) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton \(Music From The Motion Picture\)](https://open.spotify.com/album/1rMnLDmzyEBRiCj7yoGK2n) | 5:15 |
-| 47 | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/track/5We8lGFNpA1IkHAfIJU9XM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/album/0AiPybqmqPPW61dDdA8B7m) | 3:54 |
-| 48 | [I Cry](https://open.spotify.com/track/3rDZ6pStaJhzk1mXjDyOfR) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [I Cry](https://open.spotify.com/album/1wztw3SRnkENNyMW2o5wmy) | 3:38 |
-| 49 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 |
+| 47 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 |
+| 48 | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/track/5We8lGFNpA1IkHAfIJU9XM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Black \(feat\. A$AP Ferg\)](https://open.spotify.com/album/0AiPybqmqPPW61dDdA8B7m) | 3:54 |
+| 49 | [I Cry](https://open.spotify.com/track/3rDZ6pStaJhzk1mXjDyOfR) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [I Cry](https://open.spotify.com/album/1wztw3SRnkENNyMW2o5wmy) | 3:38 |
 | 50 | [Black Is Beautiful](https://open.spotify.com/track/2hq1MJnuAPnJfNm3xGdqZp) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:39 |
 | 51 | [Tribe](https://open.spotify.com/track/3genAqdJAms2ifNFdbC4EO) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:33 |
 | 52 | [Africa](https://open.spotify.com/track/6FTBZdL2sXXUSBXMwrQTut) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Don't Shoot \(feat\. Rick Ross, Fabolous, Diddy, 2 Chainz, Wale, DJ Khaled, Swizz Beatz, Yo Gotti, Currensy, Problem, King Pharaoh, TGT\)](https://open.spotify.com/track/4QV4EEYszD7HGrTo6PzX9K) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [King Pharaoh](https://open.spotify.com/artist/0YhjgNG9nohacei9aOwQJP), [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Don't Shoot \(feat\. Rick Ross, 2 Chainz, Diddy, Fabolous, Wale, DJ Khaled, Swizz Beatz, Yo Gotti, Currensy, Problem, King Pharaoh & TGT\) \- Single](https://open.spotify.com/album/095DHf81ijEEFRX1CWa1VH) | 6:07 |
 | 60 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDdmZjAzZDM3NmUwMTlkMmJmOWJmOGRkNmM5MjE1ODky`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDBjMjA4MmUzMGZiZGExNTY2N2IzNGI0Yzk3YjFlZDM1`

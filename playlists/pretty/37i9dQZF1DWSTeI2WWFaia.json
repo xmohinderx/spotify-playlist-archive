@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Royce Da 5'9\"",
-  "num_followers": 628192,
+  "num_followers": 628328,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDE4MzJjZmE1YTk0MGU3NjQ3NWQ2NmFmZmUzYjk2YTVh",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDNlZjU5ZmVhYTUxYzUyNTlmNGM5Mzg0MGQ1YjhiOGU5",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -339,26 +339,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
+        "name": "Bruuuh (with Denzel Curry) [Remix]",
+        "url": "https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+      "duration_ms": 206446,
+      "name": "Bruuuh (with Denzel Curry) - Remix",
+      "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -379,22 +375,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Bruuuh (with Denzel Curry) [Remix]",
-        "url": "https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz"
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
         }
       ],
-      "duration_ms": 206446,
-      "name": "Bruuuh (with Denzel Curry) - Remix",
-      "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "added_at": "2022-09-02 04:01:00",

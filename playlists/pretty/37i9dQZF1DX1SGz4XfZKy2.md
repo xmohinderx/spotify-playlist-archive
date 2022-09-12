@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,799 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,820 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 7 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
 | 8 | [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 |
 | 9 | [Azadeh](https://open.spotify.com/track/1PaOePJA18cEZjIZanXv6X) | [Trio Chermirani](https://open.spotify.com/artist/5cvTdDNZOrT5xd9pq86EwB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX) | [Trio Chemirani invite](https://open.spotify.com/album/3vIdoN9E1poCa1HAX6s9lX) | 5:59 |
-| 10 | [Love](https://open.spotify.com/track/2haduuaSMHdj6UE39Fbwb6) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 5:59 |
-| 11 | [Nara](https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy) | [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e) | 2:15 |
+| 10 | [Nara](https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy) | [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e) | 2:15 |
+| 11 | [Love](https://open.spotify.com/track/2haduuaSMHdj6UE39Fbwb6) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 5:59 |
 | 12 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 |
 | 13 | [Breeze \- Live at the Heydar Aliyev Center](https://open.spotify.com/track/6nwo9EXJ2mz67Ktl5tQTZh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Breeze \(Live at the Heydar Aliyev Center\)](https://open.spotify.com/album/52OnlMGe9oqZ8i7RvuwzRr) | 4:55 |
 | 14 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Can You Think a Solution?](https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea) | [Rasool Poursangari](https://open.spotify.com/artist/0NWX3Qjs9lAXo3dpuB2mlz) | [The Landscapes That Escape the Frame](https://open.spotify.com/album/7HRySZGFrRZzm6g0IXnus9) | 3:14 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDZlNjE4NWMwMTQ2YmE3NjJmYzBiMmYyNGE4ZTU2OWFl`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDZhZWY1ZjhjNTc5MTRjZmRiMTRkNWY5OGY3NjhlZjI4`

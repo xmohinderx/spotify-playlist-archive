@@ -3648,6 +3648,24 @@
     },
     {
       "album": {
+        "name": "Solar Eclipse",
+        "url": "https://open.spotify.com/album/0lDFZxOkZ3A37NkUntkBMj"
+      },
+      "artists": [
+        {
+          "name": "Clear Path Ensemble",
+          "url": "https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Drumatix",
+      "url": "https://open.spotify.com/track/5aEo1HS6U1QXBoVr2H2xnp"
+    },
+    {
+      "album": {
         "name": "Drumatix",
         "url": "https://open.spotify.com/album/1B3RehkYM4vEYYAZk66yci"
       },
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 171173,
       "name": "Drumatix",
       "url": "https://open.spotify.com/track/6BmQG71w03i9Aa91EjB6XR"

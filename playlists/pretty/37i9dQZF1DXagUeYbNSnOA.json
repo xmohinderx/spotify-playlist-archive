@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Jaze on cover.",
-  "num_followers": 166582,
+  "num_followers": 166594,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU3NDQ0NywwMDAwMDAwMGE1NDhhNGRkODVjMDEzMDk1OGRjM2YwZjgyNzY1OGUx",
+  "snapshot_id": "MTY2MjU3NDQ0NywwMDAwMDAwMGExOWFkMjdiMWZlZjc5MjhlNTVkMWE1Njc0YzllYjdl",
   "tracks": [
     {
       "added_at": "2022-09-07 18:14:07",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "El Arte",
-        "url": "https://open.spotify.com/album/7Kd3CRCPa6FCjs5ldqCqxQ"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 205623,
-      "name": "El Arte",
-      "url": "https://open.spotify.com/track/0UMKCGCVxwVQbAHOC6NWZ0"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "En El Palacio de Las Almas",
         "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "La Soledad de los N\u00fameros Primos",
-        "url": "https://open.spotify.com/album/174x34bB5RPR4gcT4eCudy"
+        "name": "El Arte",
+        "url": "https://open.spotify.com/album/7Kd3CRCPa6FCjs5ldqCqxQ"
       },
       "artists": [
         {
-          "name": "Cold Tropics",
-          "url": "https://open.spotify.com/artist/5tmZlLEprz8Q802ACS5uKn"
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
         }
       ],
-      "duration_ms": 195973,
-      "name": "La Soledad de los N\u00fameros Primos",
-      "url": "https://open.spotify.com/track/5xYxNW66uokmYiuAqV2n60"
+      "duration_ms": 205623,
+      "name": "El Arte",
+      "url": "https://open.spotify.com/track/0UMKCGCVxwVQbAHOC6NWZ0"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -299,6 +283,22 @@
       "duration_ms": 154690,
       "name": "Dancing with the Devil",
       "url": "https://open.spotify.com/track/4JT3ei83U7FnONltcI1M4M"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "La Soledad de los N\u00fameros Primos",
+        "url": "https://open.spotify.com/album/174x34bB5RPR4gcT4eCudy"
+      },
+      "artists": [
+        {
+          "name": "Cold Tropics",
+          "url": "https://open.spotify.com/artist/5tmZlLEprz8Q802ACS5uKn"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "La Soledad de los N\u00fameros Primos",
+      "url": "https://open.spotify.com/track/5xYxNW66uokmYiuAqV2n60"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "what she wants (lo que ella quiere)",
-        "url": "https://open.spotify.com/album/35mQtgVQMFLyHjzEQMy57n"
-      },
-      "artists": [
-        {
-          "name": "mg the realest",
-          "url": "https://open.spotify.com/artist/1um42f3vCpcV9AW0pasfEY"
-        }
-      ],
-      "duration_ms": 138571,
-      "name": "what she wants (lo que ella quiere)",
-      "url": "https://open.spotify.com/track/4aj2NlhP3oA8Kku2uxKmrB"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 245187,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "what she wants (lo que ella quiere)",
+        "url": "https://open.spotify.com/album/35mQtgVQMFLyHjzEQMy57n"
+      },
+      "artists": [
+        {
+          "name": "mg the realest",
+          "url": "https://open.spotify.com/artist/1um42f3vCpcV9AW0pasfEY"
+        }
+      ],
+      "duration_ms": 138571,
+      "name": "what she wants (lo que ella quiere)",
+      "url": "https://open.spotify.com/track/4aj2NlhP3oA8Kku2uxKmrB"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Comprende",
-        "url": "https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB"
-      },
-      "artists": [
-        {
-          "name": "Lalo Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ"
-        }
-      ],
-      "duration_ms": 277892,
-      "name": "Comprende",
-      "url": "https://open.spotify.com/track/1ii8yeKRIJLDmmQjWPe4Kd"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Burbujas de Papel",
         "url": "https://open.spotify.com/album/6OcVk4O3aHFSfvudJkgB5O"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
-        "url": "https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU"
-      },
-      "artists": [
-        {
-          "name": "ADRIANAH",
-          "url": "https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn"
-        }
-      ],
-      "duration_ms": 209473,
-      "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
-      "url": "https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Yung Pradito",
         "url": "https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 238000,
       "name": "Quiero Volver a Repetir",
       "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Comprende",
+        "url": "https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB"
+      },
+      "artists": [
+        {
+          "name": "Lalo Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ"
+        }
+      ],
+      "duration_ms": 277892,
+      "name": "Comprende",
+      "url": "https://open.spotify.com/track/1ii8yeKRIJLDmmQjWPe4Kd"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
+        "url": "https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU"
+      },
+      "artists": [
+        {
+          "name": "ADRIANAH",
+          "url": "https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn"
+        }
+      ],
+      "duration_ms": 209473,
+      "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
+      "url": "https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "360 al Mundo",
+      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
         "name": "Traici\u00f3n",
         "url": "https://open.spotify.com/album/3F0FHxO3ZWnUJErPB0dM2k"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+        "name": "Lo Que Dijimos",
+        "url": "https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+          "name": "Mojo Myst",
+          "url": "https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG"
         }
       ],
-      "duration_ms": 179250,
-      "name": "360 al Mundo",
-      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+      "duration_ms": 236369,
+      "name": "Lo Que Dijimos",
+      "url": "https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -615,22 +631,6 @@
       "duration_ms": 232033,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Lo Que Dijimos",
-        "url": "https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3"
-      },
-      "artists": [
-        {
-          "name": "Mojo Myst",
-          "url": "https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG"
-        }
-      ],
-      "duration_ms": 236369,
-      "name": "Lo Que Dijimos",
-      "url": "https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
+        "name": "Respirar de Nuevo",
+        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
+      },
+      "artists": [
+        {
+          "name": "Margarita Pla",
+          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
+        }
+      ],
+      "duration_ms": 273511,
+      "name": "No Te Acerques Tanto a M\u00ed",
+      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
         "name": "Piedra Angular",
         "url": "https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 284518,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Respirar de Nuevo",
-        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
-      },
-      "artists": [
-        {
-          "name": "Margarita Pla",
-          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
-        }
-      ],
-      "duration_ms": 273511,
-      "name": "No Te Acerques Tanto a M\u00ed",
-      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
     }
   ],
   "unique_name": "Fresh Finds Latin",

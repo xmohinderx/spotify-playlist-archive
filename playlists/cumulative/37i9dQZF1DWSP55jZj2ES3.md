@@ -4,7 +4,7 @@
 
 > Indie Dance and Alt Hip\-Hop for cooling under the sunny sun sun.
 
-195 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
+196 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Just Don't](https://open.spotify.com/track/2KIIrpnsVBuHWGjiVx8YkB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Just Don't](https://open.spotify.com/album/0XZGUc88dTR4FqXjnqbSec) | 4:01 | 2021-10-26 | 2022-07-29 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-07-28 |  |
 | [Keep On Calling](https://open.spotify.com/track/35nfO92JtV6Nhv3CgHpS7P) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 3:50 | 2022-07-28 |  |
+| [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-09 |  |
 | [Kids](https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/7JNKAh8Cnao2VCKk33ilWB) | 4:29 | 2021-10-26 | 2022-07-29 |
 | [King](https://open.spotify.com/track/1xwvPECtoLHjzkDyWEib5N) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Saint Lewis](https://open.spotify.com/artist/3qhlxMX0i4a9oVOx79NC9Y) | [King](https://open.spotify.com/album/5JQFIYGV3LiYykAVbt12jy) | 2:35 | 2021-10-26 | 2022-07-29 |
 | [Kno Me](https://open.spotify.com/track/6XaMOKR9NHzIFIgNQrpYvU) | [Jerry Paper](https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7) | [Kno Me](https://open.spotify.com/album/5NEHXdCbHCF93ARy2ozAqM) | 3:36 | 2022-03-29 | 2022-07-29 |
@@ -139,7 +140,7 @@
 | [Real Love Baby](https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/6IpBMtAMrBvSHc9y6rTtQQ) | 3:09 | 2022-03-17 | 2022-07-29 |
 | [Reborn](https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 5:24 | 2021-10-26 | 2022-07-01 |
 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 | 2022-07-28 |  |
-| [Regrets](https://open.spotify.com/track/6nQSwXVn3DAa2vNl57rbFD) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Regrets](https://open.spotify.com/album/0pN6aORNF276Hkwh2RlNBw) | 2:34 | 2021-10-26 |  |
+| [Regrets](https://open.spotify.com/track/6nQSwXVn3DAa2vNl57rbFD) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Regrets](https://open.spotify.com/album/0pN6aORNF276Hkwh2RlNBw) | 2:34 | 2021-10-26 | 2022-09-12 |
 | [Relax](https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 3:51 | 2022-03-17 |  |
 | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Moe Moks](https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF) | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL) | 3:37 | 2021-10-26 |  |
 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 | 2022-03-29 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 
 > Temazos inolvidables para darle un toque dulce a tus comidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,885 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,962 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 10 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
 | 11 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 | 12 | [Tanto la Queria](https://open.spotify.com/track/4AHuNAVU20awkEOLze8v2J) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Andy & Lucas](https://open.spotify.com/album/0vFQRxUcgfeih4nnbwCH8V) | 4:43 |
-| 13 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
+| 13 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 14 | [Un nuevo amor](https://open.spotify.com/track/5SxqIG4rs9hxt0FO8gX5ig) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Por Siempre](https://open.spotify.com/album/6GFfLFXNbp690VCpEgYigS) | 3:50 |
 | 15 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
 | 16 | [Tú](https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 4:51 |
-| 17 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
+| 17 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 18 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 |
 | 19 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 20 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 33 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
 | 34 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
 | 35 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
-| 36 | [Pingüinos en la Cama](https://open.spotify.com/track/5uALDiBIe9EzvRBpJyf5Ce) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Adentro](https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s) | 3:48 |
-| 37 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 |
+| 36 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 |
+| 37 | [Pingüinos en la Cama](https://open.spotify.com/track/5uALDiBIe9EzvRBpJyf5Ce) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Adentro](https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s) | 3:48 |
 | 38 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
 | 39 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 40 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 47 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 |
 | 48 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 |
 | 49 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
-| 50 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 51 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Leo Dan Cronología \- Canta Trovador \(1969\)](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
+| 50 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Leo Dan Cronología \- Canta Trovador \(1969\)](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
+| 51 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 52 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 53 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
 | 54 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 |
 | 55 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
-| 56 | [Después De Ti](https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Buen Viaje](https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi) | 4:12 |
-| 57 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 |
+| 56 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 |
+| 57 | [Después De Ti](https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Buen Viaje](https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi) | 4:12 |
 | 58 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
 | 59 | [Y, ¿Si fuera ella?](https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:23 |
 | 60 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 
-Snapshot ID: `MTY1MjgxMzA5MywwMDAwMDAwMDAwNDRhYWM1ZjczNDI0NzYyNDNjOTNkOGZiNjI3ZWEx`
+Snapshot ID: `MTY1MjgxMzA5MywwMDAwMDAwMGJmMTUzZDU4NDNhYWJiMzk2YmQ2ODcyNzMyOWJhYWNj`

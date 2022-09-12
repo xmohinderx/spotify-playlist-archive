@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz, Lukinhas",
-  "num_followers": 229563,
+  "num_followers": 229746,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGQxZWY0MmYzOGIwMjBlMzliNmNjYjFhMzhhNjQzMDY4",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDIwMjYxMDkyOGJhNzI4ZWYyZDY3Y2NlYWVjYWVlM2M2",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Ei Amor",
+        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        },
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        }
+      ],
+      "duration_ms": 141354,
+      "name": "Ei Amor",
+      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Desligado",
         "url": "https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 122777,
       "name": "Desligado",
       "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Ei Amor",
-        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        },
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        }
-      ],
-      "duration_ms": 141354,
-      "name": "Ei Amor",
-      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Vai e Vem",
+        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
+      },
+      "artists": [
+        {
+          "name": "Giana",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "duration_ms": 154060,
+      "name": "Vai e Vem",
+      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "5458",
         "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 187629,
       "name": "5458",
       "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Vai e Vem",
-        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
-      },
-      "artists": [
-        {
-          "name": "Giana",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        }
-      ],
-      "duration_ms": 154060,
-      "name": "Vai e Vem",
-      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1471,6 +1471,38 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Coisas De Amor",
+        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "C\u00e9u Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Ac\u00fastico Altamira #14 - Medo",
         "url": "https://open.spotify.com/album/4KrCWuExqb7Xjxi8dQ7ukz"
       },
@@ -1503,22 +1535,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 196559,
       "name": "Livro Aberto",
       "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Coisas De Amor",
-        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "C\u00e9u Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S"
     },
     {
       "added_at": "2022-09-09 03:00:00",

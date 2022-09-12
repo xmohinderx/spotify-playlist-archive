@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,102 likes - 40 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,157 likes - 40 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 10 | [Sallem Alayha](https://open.spotify.com/track/7wtPJEWAN0iFyR0yEaBxWX) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Ya Habibi Dawwabni L'hawa](https://open.spotify.com/album/5rX52aUXojBQb3xSdwYTvH) | 5:25 |
 | 11 | [El Hop Elly Kan](https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [El Layale](https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6) | 19:45 |
 | 12 | [Hal El Garih](https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi) | 3:21 |
-| 13 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
-| 14 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
+| 13 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
+| 14 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
 | 15 | [Allaylou ya Layla](https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Top Wadie Essafi \(The Voice of Lebanon\)](https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo) | 6:01 |
 | 16 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
 | 17 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 20 | [Kellon Aanik Sa'alouni \(Live\)](https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 6:05 |
 | 21 | [Ya habibi \(Live\)](https://open.spotify.com/track/1INnlvFJuB1nCfKznHzILE) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:56 |
 | 22 | [Ashka We Ghalbana](https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Tarab Hits](https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ) | 3:33 |
-| 23 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
-| 24 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
+| 23 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
+| 24 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
 | 25 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
 | 26 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 | 27 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 39 | [Khamratal Houbbi](https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 5:21 |
 | 40 | [Akdeb Alik](https://open.spotify.com/track/1ZsMhxFNAJwPNDBbTNF0Hr) | [Adam](https://open.spotify.com/artist/38hkUvMOhAhRSNGfd402SF) | [Sahrat Tarab](https://open.spotify.com/album/72iiKUrgjejSb61GMtZmEy) | 6:04 |
 
-Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDI2ZTIzYmUwYjRlZDE5OTY1NDM5OTUwODBlNzM5ZWU3`
+Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDRjYjljY2NkMzRjMzU2ZTBjZjhiYzU2ZGE4OTE4NWUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,810 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,832 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 87 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 |
 | 88 | [Crystal Clear](https://open.spotify.com/track/6mUYj7WbZwIw51IXgEyvlv) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Crystal Clear](https://open.spotify.com/album/5PgwpmeVh7EIPkxc2NsMIM) | 6:53 |
 | 89 | [Movimiento](https://open.spotify.com/track/1Olb7jW1ACym5WkqFxuIWG) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1), [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Movimiento](https://open.spotify.com/album/35gXKFhNaHp4pSSRszDgKD) | 3:51 |
-| 90 | [Hey You](https://open.spotify.com/track/536Qeu2XFdC30JO7N2vPcm) | [PINEO & LOEB](https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI) | [Hey You](https://open.spotify.com/album/6BSCrraAW1ol0nhhBDNMid) | 2:19 |
+| 90 | [Hey You](https://open.spotify.com/track/536Qeu2XFdC30JO7N2vPcm) | [PINEO & LOEB](https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Hey You](https://open.spotify.com/album/6BSCrraAW1ol0nhhBDNMid) | 2:19 |
 | 91 | [Supernova](https://open.spotify.com/track/4tZlq5tqgbY1oIDv3PSMWN) | [Mount Pleasant](https://open.spotify.com/artist/1kzPmFEEz0wTgXoCzJTwBz), [Velavox](https://open.spotify.com/artist/02x4guJ03wSk5GE1G7sN4i) | [Supernova](https://open.spotify.com/album/7clS9BNTEUv1lsatTDEdjJ) | 5:24 |
 | 92 | [Uptight](https://open.spotify.com/track/1rn150UQFKRWcjUsgbVZn8) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Uptight](https://open.spotify.com/album/2bU00oTGSDtjqokdeNaZ4Q) | 2:56 |
 | 93 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |

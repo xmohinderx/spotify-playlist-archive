@@ -1164,6 +1164,28 @@
     },
     {
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173123,
+      "name": "Love (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
+    },
+    {
+      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
       },
@@ -1353,7 +1375,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 255109,
       "name": "Need You",
       "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
@@ -1757,7 +1779,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 251920,
       "name": "Slow Down - Acoustic",
       "url": "https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq"
@@ -2011,6 +2033,24 @@
       "duration_ms": 199789,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201836,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
     },
     {
       "album": {

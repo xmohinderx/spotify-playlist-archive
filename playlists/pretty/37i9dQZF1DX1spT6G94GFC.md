@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,395,833 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,396,921 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 35 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 36 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 37 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
-| 38 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
+| 38 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 | 39 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
-| 40 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 40 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 41 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 42 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 43 | [Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Crimes Of Passion](https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ) | 2:51 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 45 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 46 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 47 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
-| 48 | [Hurts So Good](https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:38 |
-| 49 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
+| 48 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
+| 49 | [Hurts So Good](https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:38 |
 | 50 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
 | 51 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 52 | [One \(Remastered\)](https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 7:26 |
-| 53 | [The Stroke \- Remastered](https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No](https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt) | 3:37 |
-| 54 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
+| 53 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
+| 54 | [The Stroke \- Remastered](https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No](https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt) | 3:37 |
 | 55 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
 | 56 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 |
 | 57 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 69 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
 | 70 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 | 71 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
-| 72 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
-| 73 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
+| 72 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
+| 73 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 74 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 |
 | 75 | [Hold On Loosely](https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Wild\-Eyed Southern Boys](https://open.spotify.com/album/0McWOHhD5uSpbT4wRuTgpj) | 4:40 |
 | 76 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Survivor Greatest Hits](https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 79 | [Fade To Black \(Remastered\)](https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:57 |
 | 80 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:35 |
 
-Snapshot ID: `MTY1ODQxOTE5OSwwMDAwMDAwMDk3ZDY1NTEwMTZhNjIxYWM1ZDFkZTNmYWMyODFmMDcz`
+Snapshot ID: `MTY1ODQxOTE5OSwwMDAwMDAwMGYwZjQ3ZTk5NzIzNGI2ODlmOWM1NjJlMTU2YWVhNjA4`

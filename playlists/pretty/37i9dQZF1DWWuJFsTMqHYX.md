@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,644 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,834 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

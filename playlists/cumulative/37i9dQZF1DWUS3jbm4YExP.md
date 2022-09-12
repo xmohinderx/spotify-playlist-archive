@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-443 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+444 songs - 1 day 8 hr 57 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 | 2022-03-04 | 2022-07-29 |
 | [Black Times \- Radio Edit](https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Black Times](https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8) | 4:55 | 2021-10-06 | 2022-04-14 |
 | [Boogie](https://open.spotify.com/track/1udnVMUpzoMzVdHI5FnhQO) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS II](https://open.spotify.com/album/6GJ3n96Nj0u2E6YhAngJko) | 5:48 | 2021-10-06 |  |
+| [Boogie With Your Baby](https://open.spotify.com/track/6eVf9JIPNNEZ9xAwKTG4cx) | [Funkool Orchestra](https://open.spotify.com/artist/4gaQmpOSxtcveUg7jdcC6i), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Boogie With Your Baby](https://open.spotify.com/album/0JRKtByiknT9qvpDQVy3ui) | 4:13 | 2022-09-11 |  |
 | [Boom!](https://open.spotify.com/track/2gsD0Bf0Bb0UCaSlWenzMD) | [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [John Turrell](https://open.spotify.com/artist/3Odb0uTggeSc8OefBAE3Av) | [My Life at 45, Pt\. 4](https://open.spotify.com/album/6vAvbAt502YomvMJ0Rrh7U) | 3:29 | 2021-10-06 | 2022-04-18 |
 | [Boul Bayi](https://open.spotify.com/track/1aJ0avSZwIt5qlJKt9aYXX) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Boul Bayi](https://open.spotify.com/album/5fnjE6FP4f2JzhEu22tzWb) | 3:25 | 2022-08-13 |  |
 | [Brondesbury Park](https://open.spotify.com/track/1EKDGVTyTvaFeWvlDEh5qn) | [Ziggy Funk](https://open.spotify.com/artist/0UxVmzj48CkaBKISsYF9Ia) | [Brondesbury Park](https://open.spotify.com/album/1E7PZsd3kQPIQNzySwA076) | 5:37 | 2022-04-17 | 2022-06-17 |
@@ -282,7 +283,7 @@
 | [Mr Fuego](https://open.spotify.com/track/28lBDoni4I6pIID81uSqov) | [Charles Dollé](https://open.spotify.com/artist/6wWOOejQdKDPBOqeI8CO50) | [Mr Fuego](https://open.spotify.com/album/0h8AQXGEFk5TU6sUn6t8hJ) | 5:06 | 2021-10-06 | 2022-07-09 |
 | [Murkit Gem](https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:12 | 2021-10-06 |  |
 | [Murkit Gem](https://open.spotify.com/track/7JLRUxp5qbK2OGUq9Bbqga) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season](https://open.spotify.com/album/1XRAj74N3EDQ0suMb5qplS) | 3:12 | 2021-10-06 | 2022-07-29 |
-| [Musa Paradisa](https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 4:44 | 2021-10-06 |  |
+| [Musa Paradisa](https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 4:44 | 2021-10-06 | 2022-09-12 |
 | [Mushroom Samba](https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Mushroom Samba](https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2) | 4:10 | 2022-08-03 |  |
 | [Météw Byen](https://open.spotify.com/track/7Ei31Z09xAuNQHOw7Vlk4w) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF) | [Météw Byen](https://open.spotify.com/album/1BI6PFcuX5kvWFlvhc3DGL) | 4:06 | 2021-10-06 | 2022-04-19 |
 | [Música Huanca](https://open.spotify.com/track/70nmT1ABxMP4K82VbTivGM) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548) | [Música Huanca](https://open.spotify.com/album/1jEJCXRSZAmsnDwMcIfHGP) | 1:56 | 2021-10-06 | 2022-04-18 |

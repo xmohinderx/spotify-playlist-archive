@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 522064,
+  "num_followers": 522261,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMGMyYTUxNWE5YWJjMWVjMmExZWMyOTA4YTdkYmZkNWEw",
+  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDZkNTU5ZDRkOTFhYzFjZjM1Nzk1NjgxZWU5ZmJmOGJl",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:19",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Petit Matin",
         "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 447066,
       "name": "Petit Matin",
       "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1355,54 +1355,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/3Ny2xjmiTaLiu56yqdvvho"
-      },
-      "artists": [
-        {
-          "name": "Cella",
-          "url": "https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ"
-        }
-      ],
-      "duration_ms": 208406,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/1E8VZOqKP9AvlME4DzAWw9"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Studio A Pt.1",
-        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 367578,
-      "name": "Basic Juno",
-      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Gotta Do This, Gurl",
-        "url": "https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3"
-      },
-      "artists": [
-        {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Gotta Do This, Gurl",
-      "url": "https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Downtown EP",
         "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
       },
@@ -1463,6 +1415,38 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Studio A Pt.1",
+        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 367578,
+      "name": "Basic Juno",
+      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/3Ny2xjmiTaLiu56yqdvvho"
+      },
+      "artists": [
+        {
+          "name": "Cella",
+          "url": "https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ"
+        }
+      ],
+      "duration_ms": 208406,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/1E8VZOqKP9AvlME4DzAWw9"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/0A2coDWKmkpUwguAUbQe2O"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 214167,
       "name": "Woman",
       "url": "https://open.spotify.com/track/7FlEC4iKF51DIiQ6G2Lj1q"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Gotta Do This, Gurl",
+        "url": "https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Gotta Do This, Gurl",
+      "url": "https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ"
     },
     {
       "added_at": "2022-09-02 18:05:19",

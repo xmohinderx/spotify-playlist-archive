@@ -4,7 +4,7 @@
 
 > In Nashville for CMA Music Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you! If you can't be there, let this be your soundtrack to Music Fest week\. Enjoy!
 
-117 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/5GjLmu8QKhVmTUHDZY1gTN)
+118 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5GjLmu8QKhVmTUHDZY1gTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 | 2022-06-13 |  |
 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 | 2022-05-26 |  |
 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 | 2022-05-26 |  |
-| [Drive](https://open.spotify.com/track/6bBsaqsxVchRk0jCM5BAoe) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:35 | 2022-05-26 |  |
+| [Drive](https://open.spotify.com/track/2zqHx2d8a0NfhoE7wVJqqK) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:34 | 2022-06-13 |  |
+| [Drive](https://open.spotify.com/track/6bBsaqsxVchRk0jCM5BAoe) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:35 | 2022-05-26 | 2022-09-12 |
 | [Drunk Me](https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:31 | 2022-05-26 |  |
 | [Drunk on Your Love](https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:53 | 2022-05-26 |  |
 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 | 2022-05-26 |  |

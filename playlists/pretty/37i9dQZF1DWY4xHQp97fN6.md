@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mode: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,285,900 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,286,509 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 21 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 |
 | 22 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
 | 23 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
-| 24 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 |
+| 24 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 | 25 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 |
 | 26 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 |
 | 27 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 98 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 |
 | 99 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
 
-Snapshot ID: `MTY2MjcwNjgwMCwwMDAwMDAwMDQwZDY2NTA4ZTQ5NGRlZWQ3N2NiYjIxMDYzYTcwODMy`
+Snapshot ID: `MTY2MjcwNjgwMCwwMDAwMDAwMDUwNmQxNDA5YzhlMzdjODM3NWEwNDE4Mzc1YmYzNzIy`

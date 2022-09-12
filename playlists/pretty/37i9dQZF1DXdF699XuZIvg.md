@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,363 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,609 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 27 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
 | 28 | [Wild Side](https://open.spotify.com/track/669npuMwVlYFReOpYFYxwH) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:41 |
 | 29 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
-| 30 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
-| 31 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
+| 30 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
+| 31 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
 | 32 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 33 | [Whiskey In The Jar](https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 5:04 |
 | 34 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
 | 75 | [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 |
 
-Snapshot ID: `MTYzODg3MjU2NSwwMDAwMDAwMDUyMDU3NWU5YjY0ZGYwNTkwNzcwMDcxMDNkMGY0NDM0`
+Snapshot ID: `MTYzODg3MjU2NSwwMDAwMDAwMDI1ODFkNjc2OTQ3Y2VjNDZlZjUxMTQ2MWI3NjM0NTM3`

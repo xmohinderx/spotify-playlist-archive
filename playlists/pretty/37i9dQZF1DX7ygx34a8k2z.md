@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,203 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,492 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 32 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
 | 33 | [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 |
 | 34 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
-| 35 | [Fell On Black Days](https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 4:43 |
-| 36 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
+| 35 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
+| 36 | [Fell On Black Days](https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 4:43 |
 | 37 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 38 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 |
 | 39 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 63 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
 | 64 | [Roadrunner](https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 4:06 |
 | 65 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
-| 66 | [Get It Together](https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 4:05 |
-| 67 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
+| 66 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
+| 67 | [Get It Together](https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 4:05 |
 | 68 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
 | 69 | [Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies and gentlemen we are floating in space](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) | 3:54 |
 | 70 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Ladykillers](https://open.spotify.com/track/64RQTM5ih8kx5rl8fxbRVv) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Lovelife](https://open.spotify.com/album/7GENDDN5PnnAF9e8NbuMIT) | 3:13 |
 | 100 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
 
-Snapshot ID: `MTY1MzkxOTUyMSwwMDAwMDAwMDFmMjUxZmUxOGUzYzc3N2Y5NmE1NDc2YTIwZWRmMTVm`
+Snapshot ID: `MTY1MzkxOTUyMSwwMDAwMDAwMGE2OGJjNWIxZDVlNjUyNGFjMmEzMzViM2ViMjY1MTBj`

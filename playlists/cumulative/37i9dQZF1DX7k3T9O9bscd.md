@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-236 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+237 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [På knivan](https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j) | [Sammal](https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk) | [På knivan](https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5) | 3:29 | 2022-09-03 |  |
 | [Rasayana](https://open.spotify.com/track/1mf0q8XDtJwuQVP8mnpsfz) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A New Day Dawning](https://open.spotify.com/album/7CvbhsQF1ESh1ZXb2h0Sx4) | 9:00 | 2021-11-12 |  |
 | [Rasayana](https://open.spotify.com/track/2LwM4JgvJ3SiIaQOIXJT6n) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A New Day Dawning](https://open.spotify.com/album/0VELg0oxzobE18qmAzdhMK) | 9:00 | 2021-11-12 | 2022-07-17 |
+| [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 | 2022-09-11 |  |
 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 | 2021-11-12 | 2022-06-24 |
 | [Remember Me](https://open.spotify.com/track/3g7VAnSddlg5ovDDvrZlyR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(Collector's Edition\)](https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7) | 4:21 | 2021-11-12 | 2022-07-29 |
 | [Renacer](https://open.spotify.com/track/5Szry6sR2vYm1fHh4X8T62) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Renacer](https://open.spotify.com/album/3Lj47MHjUR21dtEfXxUXh3) | 4:38 | 2022-04-01 | 2022-06-08 |
@@ -195,7 +196,7 @@
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-22 | 2022-06-08 |
 | [Starlight](https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [World's Most Stressed Out Gardener](https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43) | 3:59 | 2021-11-12 | 2022-07-26 |
 | [Station Europa](https://open.spotify.com/track/59jMq3TSZF3dhlCbbpNOtL) | [10 000 Russos](https://open.spotify.com/artist/2pkZFQGkxsNYlJK5jO4z3L) | [Station Europa](https://open.spotify.com/album/2spbDrHyznrc7jNtAJJp0j) | 5:18 | 2021-11-12 | 2022-07-14 |
-| [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 | 2022-08-03 |  |
+| [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 | 2022-08-03 | 2022-09-12 |
 | [String Theory](https://open.spotify.com/track/6kmzMsSKCFfx0lYQgospLN) | [Fabriccio De La Mora](https://open.spotify.com/artist/7pLfqIgR1knxojsSQmmONZ) | [Grand Unified Theories](https://open.spotify.com/album/4jrPtdrkLT5tz4OUcrHn4c) | 5:23 | 2022-06-29 | 2022-08-04 |
 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 | 2021-11-12 | 2022-07-20 |
 | [Tense Soup](https://open.spotify.com/track/73ghPgeqN9YLa2XJva3rS7) | [Modern Ruin](https://open.spotify.com/artist/4cKQl1wHAssze6XTKQwPJm) | [Unemployment Line Disco](https://open.spotify.com/album/00xfuXJwBODesUybW1GouI) | 5:24 | 2021-11-12 | 2022-07-22 |
@@ -208,8 +209,8 @@
 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 | 2021-11-12 | 2022-07-26 |
 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 | 2021-11-12 |  |
 | [There is No Care](https://open.spotify.com/track/0XWoQF21tvHWZkYV4jRiqY) | [The Ratel](https://open.spotify.com/artist/2LouoDeijvq31oncLkpWWy) | [There is No Care](https://open.spotify.com/album/1uXySrN2VRWPWyxGZf9kJs) | 8:46 | 2022-06-08 | 2022-07-13 |
-| [Three King Fishers](https://open.spotify.com/track/3DwC6hoFyadRWrLcgZkzDQ) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Bacchanal](https://open.spotify.com/album/1jdyVUfQ7aXgQWTEhamyDS) | 4:43 | 2021-11-12 |  |
-| [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 | 2021-11-12 | 2022-09-05 |
+| [Three King Fishers](https://open.spotify.com/track/3DwC6hoFyadRWrLcgZkzDQ) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Bacchanal](https://open.spotify.com/album/1jdyVUfQ7aXgQWTEhamyDS) | 4:43 | 2021-11-12 | 2022-09-12 |
+| [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 | 2021-11-12 |  |
 | [Through the Hollow](https://open.spotify.com/track/2QjYslScytXqM0MHRbZy7s) | [Molassess](https://open.spotify.com/artist/50gSbi7BDx33WrB58jadSg) | [Through the Hollow](https://open.spotify.com/album/2hV8CGvmqGY83yb2RUEALF) | 11:05 | 2021-11-12 | 2022-07-27 |
 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 | 2022-04-06 |  |
 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 | 2021-11-12 |  |

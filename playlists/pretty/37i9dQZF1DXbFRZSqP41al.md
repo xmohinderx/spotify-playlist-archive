@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,257 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,374 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 3 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 |
 | 4 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
 | 5 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
-| 6 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
-| 7 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
+| 6 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
+| 7 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
 | 8 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
 | 9 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 |
 | 10 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 47 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
 | 48 | [The House of Wolves](https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:25 |
 | 49 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
-| 50 | [Born For Greatness](https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 |
-| 51 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
+| 50 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
+| 51 | [Born For Greatness](https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 |
 | 52 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 53 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 54 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 92 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
 | 93 | [This is Our Life](https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX) | 3:44 |
 | 94 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
-| 95 | [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 |
-| 96 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
+| 95 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
+| 96 | [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 |
 | 97 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
 | 98 | [Unperson](https://open.spotify.com/track/5HLzF5IwHdQflsQVcgnE17) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 3:24 |
 | 99 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
 | 100 | [Shakin' Off The Rust](https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 3:42 |
 
-Snapshot ID: `MTY1NzgxOTc4MywwMDAwMDAwMGUxODAxYTNmYzBhYjEyNTE1ZmUwZmU4ODhhNzdkMjZj`
+Snapshot ID: `MTY1NzgxOTc4MywwMDAwMDAwMDg0OWUyZjg3YzRhYzIyM2E4MTU3NmYyZTdhMzU0NTFh`

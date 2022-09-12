@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Porte Diferente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,554 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,590 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 42 | [Yo Vengo de Abajo](https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m) | 3:21 |
 | 43 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 |
 | 44 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 |
-| 45 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 |
-| 46 | [Veneno Verde](https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN), [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Veneno Verde](https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi) | 2:35 |
+| 45 | [Veneno Verde](https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN), [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Veneno Verde](https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi) | 2:35 |
+| 46 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 |
 | 47 | [Guerra Sin Cuartel](https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Guerra Sin Cuartel](https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v) | 2:48 |
 | 48 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 |
 | 49 | [Muy Criticado](https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Pinch3 Polo](https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR) | 2:47 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 67 | [Tú También Eres De Barrio](https://open.spotify.com/track/24BbCLyggRqfIKpLbnPgAT) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Tú También Eres De Barrio](https://open.spotify.com/album/5Kkb8hbbFca8hKh0NnwQtM) | 2:49 |
 | 68 | [A Lo Mexa](https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [A LO MEXA](https://open.spotify.com/album/2HcE7v275MEIzkURdbqfle) | 3:15 |
 | 69 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 |
-| 70 | [A Pesar De Todo](https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF) | [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [A Pesar De Todo](https://open.spotify.com/album/7IU4tew0q0wwxXDM2zSJ0l) | 3:01 |
-| 71 | [Me Muero Por Tenerte](https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo 415](https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw) | [Me Muero Por Tenerte](https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa) | 3:56 |
-| 72 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 |
+| 70 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 |
+| 71 | [A Pesar De Todo](https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF) | [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [A Pesar De Todo](https://open.spotify.com/album/7IU4tew0q0wwxXDM2zSJ0l) | 3:01 |
+| 72 | [Me Muero Por Tenerte](https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo 415](https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw) | [Me Muero Por Tenerte](https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa) | 3:56 |
 | 73 | [El Chivo](https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [El Chivo](https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i) | 2:54 |
 | 74 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 |
 | 75 | [Ando Bien Tumbado](https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Ando Bien Tumbado](https://open.spotify.com/album/14dzMkIDXzmCA5vwm34zy7) | 3:05 |
 
-Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMGU2NDFjYjY3M2UwMmI2MjczNGQ5NjBkNGZiZTE3NzE3`
+Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMDg4OTI1ZmE3NGE5ZmQ5YmJhZjU0NDc4ODBkZTU5ZmNk`

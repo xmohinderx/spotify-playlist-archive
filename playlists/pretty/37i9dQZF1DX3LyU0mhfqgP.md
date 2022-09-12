@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: Tsatsamis
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,386 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,415 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 35 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 |
 | 36 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 37 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
-| 38 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 |
-| 39 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 |
+| 38 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 |
+| 39 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 |
 | 40 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 |
 | 41 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
 | 42 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 66 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
 | 67 | [Complex](https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [Tantrums](https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc) | 3:31 |
 | 68 | [Modern Love](https://open.spotify.com/track/7f9K6fJcvBVcati3SivAPW) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Modern Love](https://open.spotify.com/album/0GysfkO8T10XaXkAh8i4tn) | 3:40 |
-| 69 | [In My Drinks](https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [In My Drinks](https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u) | 3:23 |
-| 70 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 |
+| 69 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 |
+| 70 | [In My Drinks](https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [In My Drinks](https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u) | 3:23 |
 | 71 | [Another Day in Paradise](https://open.spotify.com/track/6fXe5bkRkUlsIhk1hrsZ0w) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Another Day In Paradise](https://open.spotify.com/album/3k5i82TCyQ0v2DNUOU7Zii) | 2:54 |
 | 72 | [Waste Of Space](https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Waste Of Space](https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ) | 3:11 |
 | 73 | [GMT](https://open.spotify.com/track/7edS2WLGBDCqpNAsDdtJb2) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [GMT](https://open.spotify.com/album/1DxcIuPG0YT1kcPXOkdYL1) | 3:08 |
 | 74 | [stupid games](https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [homecoming!](https://open.spotify.com/album/6oxQZpgS63Ah61H7fjsGHC) | 3:12 |
 | 75 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 |
 
-Snapshot ID: `MTY2Mjc1MjAyOCwwMDAwMDAwMDA3ZWU1ZmQ1M2E0NDAwZWE4NWJjNDRlM2NmNDc3YWVl`
+Snapshot ID: `MTY2Mjc1MjAyOCwwMDAwMDAwMGRkNDM4Mjg5MTgzOTE3ODFlYmExNDlhYzA3MmY4NTAx`

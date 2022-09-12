@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,979 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,116 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 30 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 |
 | 31 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 32 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 33 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 34 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 33 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 34 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 35 | [American Boy](https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo) | 4:44 |
 | 36 | [Down](https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [All Or Nothing](https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk) | 3:32 |
 | 37 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 41 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
 | 42 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
 | 43 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 |
-| 44 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
-| 45 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
-| 46 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 44 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
+| 45 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
+| 46 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 47 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
-| 48 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 48 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 49 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
-| 50 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
-| 51 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
+| 50 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
+| 51 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 52 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
 | 53 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 54 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 69 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 70 | [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:27 |
 
-Snapshot ID: `MTY1MjA4MTA0OSwwMDAwMDAwMDU4NGM1MzZhMzQ0NWQxZGYwOWQzNjY5NWQ4ZGFhNDE2`
+Snapshot ID: `MTY1MjA4MTA0OSwwMDAwMDAwMGY5MTBkODI1ZTcwYzk3NTdlN2M0N2Y2ZDRlMjYzM2Zj`

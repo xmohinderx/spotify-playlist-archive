@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos
 
-265 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
+266 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Como Lo Niego](https://open.spotify.com/track/7BqMg9Xg1dTOwboB2uGJ2k) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 3:44 | 2022-07-19 | 2022-09-03 |
 | [Como Mirarte](https://open.spotify.com/track/0HtmXFImC1u93CE7jdCfo6) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [Bachata Hits](https://open.spotify.com/album/3HjnbhKva83RTfb4qDZomq) | 3:25 | 2022-07-19 | 2022-09-03 |
 | [Como Mirarte](https://open.spotify.com/track/3Oj3qH6dkQJ9KmLKzOQw3O) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [Bachata Hits](https://open.spotify.com/album/6wCQeSYMvUOCAXYAjde8mJ) | 3:25 | 2022-03-04 | 2022-07-29 |
-| [Como Quisiera \- Bachata](https://open.spotify.com/track/37S0KLs4RhUMAh29K0nLbO) | [Domenic Marte](https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C) | [Como Quisiera](https://open.spotify.com/album/1p8paTCGfNU1nhv3QikCf5) | 3:38 | 2022-09-09 |  |
+| [Como Quisiera \- Bachata](https://open.spotify.com/track/37S0KLs4RhUMAh29K0nLbO) | [Domenic Marte](https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C) | [Como Quisiera](https://open.spotify.com/album/1p8paTCGfNU1nhv3QikCf5) | 3:38 | 2022-09-09 | 2022-09-12 |
 | [Confiésale](https://open.spotify.com/track/6GWWpYCHvXk5RSD02XBq24) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Quitémonos la Ropa \(Bachata / Pop\)](https://open.spotify.com/album/6GPawvc6g2tgsUgLE0ivlj) | 3:46 | 2022-03-04 | 2022-09-03 |
 | [Contando Minutos](https://open.spotify.com/track/1tGplKExpp5YI63Qzm5cMA) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:52 | 2022-07-19 | 2022-09-03 |
 | [Contando Minutos](https://open.spotify.com/track/64WDNSCm5ZljHQikDj8tnC) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Contando Minutos](https://open.spotify.com/album/4lkrqPFODbCC6616ZvVaiL) | 3:52 | 2022-03-25 | 2022-07-26 |
@@ -240,6 +240,7 @@
 | [Suegra](https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:44 | 2022-09-02 | 2022-09-10 |
 | [Sus Huellas](https://open.spotify.com/track/7fBuy1fdHEwG3mRdlHNM41) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:34 | 2022-09-09 |  |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-03-04 | 2022-09-10 |
+| [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 | 2022-09-09 |  |
 | [Tatuaje](https://open.spotify.com/track/7qvnwfrklCpXozI4ZDU3qc) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Tatuaje](https://open.spotify.com/album/1PG3xm0A5CkuLONdSC0VyO) | 3:50 | 2022-03-04 | 2022-09-03 |
 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2022-03-04 |  |
 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 | 2022-03-04 |  |

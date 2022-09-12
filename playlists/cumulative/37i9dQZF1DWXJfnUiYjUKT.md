@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-3,652 songs - 7 day 23 hr 22 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+3,653 songs - 7 day 23 hr 25 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 | 2022-07-08 |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 | 2022-08-04 | 2022-08-12 |
 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 | 2022-07-29 | 2022-08-05 |
-| [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 |  |
+| [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
+| [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 |  |
 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 | 2022-06-24 | 2022-07-01 |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-03-31 | 2022-04-08 |
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-07-29 | 2022-08-05 |

@@ -1,12 +1,12 @@
 {
   "description": "bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 149165,
+  "num_followers": 149194,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ1MjUzMiwwMDAwMDAwMDkzNjNmY2YzNDVlMmRjNWVkMjFhNjU3YmM1MmM1NDcz",
+  "snapshot_id": "MTY2MTQ1MjUzMiwwMDAwMDAwMDA2MGNiZjA5ZjE0NjNiNmQ3MjViZWYwZmYxNTI3YTM0",
   "tracks": [
     {
       "added_at": "2022-07-04 13:34:14",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 270846,
+      "name": "Japanese Denim",
+      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
         "name": "edamame (feat. Rich Brian)",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 270846,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Long Drives",
-        "url": "https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 159646,
-      "name": "Long Drives",
-      "url": "https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 196226,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "Long Drives",
+        "url": "https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 159646,
+      "name": "Long Drives",
+      "url": "https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "Modus Vivendi",
         "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 213333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Walk The Moon",
-        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 321280,
-      "name": "Anna Sun",
-      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "Give Up (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "Walk The Moon",
+        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 321280,
+      "name": "Anna Sun",
+      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Colours Of You",
-        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 255346,
-      "name": "Colours Of You",
-      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "Forever Isn't Long Enough",
         "url": "https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 248970,
       "name": "Film Scene Daydream",
       "url": "https://open.spotify.com/track/50DeaEmRXG4sRuryKQEgyH"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "Colours Of You",
+        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 255346,
+      "name": "Colours Of You",
+      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
+        "name": "Marlboro Nights 2",
+        "url": "https://open.spotify.com/album/5X1U12yQ1wgaf0PUuSMUJd"
+      },
+      "artists": [
+        {
+          "name": "Lonely God",
+          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 149068,
+      "name": "Marlboro Nights 2",
+      "url": "https://open.spotify.com/track/5YSoAMG654oXW5Cz4VkFvL"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
         "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
         "url": "https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 158240,
       "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
       "url": "https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
-        "name": "Marlboro Nights 2",
-        "url": "https://open.spotify.com/album/5X1U12yQ1wgaf0PUuSMUJd"
-      },
-      "artists": [
-        {
-          "name": "Lonely God",
-          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 149068,
-      "name": "Marlboro Nights 2",
-      "url": "https://open.spotify.com/track/5YSoAMG654oXW5Cz4VkFvL"
     }
   ],
   "unique_name": "free refills",

@@ -4,7 +4,7 @@
 
 > Timeless Latin hits, solo tus favoritos!
 
-359 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
+360 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 | 2022-06-27 |  |
 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 | 2021-12-09 |  |
 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 | 2021-12-09 |  |
-| [Dura \- Remix](https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dura \(Remix\)](https://open.spotify.com/album/5XGcXkkiPQIgaNSDANurj7) | 4:02 | 2022-02-03 |  |
+| [Dura \- Remix](https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dura \(Remix\)](https://open.spotify.com/album/5XGcXkkiPQIgaNSDANurj7) | 4:02 | 2022-02-03 | 2022-09-12 |
 | [Durmiendo con la Luna](https://open.spotify.com/track/1lS060MuE8QTmDPFXhSCD3) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 4:18 | 2021-12-09 | 2022-07-29 |
 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 | 2022-06-27 |  |
 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 | 2022-02-03 |  |
@@ -324,6 +324,7 @@
 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 | 2022-06-27 |  |
 | [Traicionera](https://open.spotify.com/track/79Jhw5xn4gGn6PZak275gg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Traicionera](https://open.spotify.com/album/7aTqiX68z42xqpEsiWBz4O) | 3:48 | 2022-01-25 | 2022-06-21 |
 | [Tu](https://open.spotify.com/track/7xMfjdjZWMrxc78qKOXpXE) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/3OGxK3YAhUW3jGPlmHSciZ) | 4:51 | 2021-12-09 | 2022-07-29 |
+| [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 | 2022-08-31 |  |
 | [Tu Carcel \- En Vivo Desde Tijuana, Mexico/2004](https://open.spotify.com/track/0pFfRT7CMipnByJL4yXJfB) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/3NHdZD4rMMAoDBvRj6bIMh) | 4:02 | 2021-12-09 | 2022-07-29 |
 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 | 2021-12-09 |  |
 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 | 2021-12-09 | 2022-07-29 |

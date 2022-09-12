@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,731 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,840 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 17 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 |
 | 18 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
 | 19 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
-| 20 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
-| 21 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
+| 20 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
+| 21 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 | 22 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
 | 23 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
 | 24 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 64 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 |
 | 65 | [Can't Be Touched \(feat\. Mr\. Magic & Trouble\)](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
 | 66 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
-| 67 | [Forever](https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 5:57 |
-| 68 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
-| 69 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
-| 70 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 67 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
+| 68 | [Forever](https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 5:57 |
+| 69 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 70 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 71 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
 | 72 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
 | 73 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 74 | [6 Foot 7 Foot](https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV](https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx) | 4:08 |
 | 75 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 
-Snapshot ID: `MTY2MjUyMTYwMSwwMDAwMDAwMDY1YTZhZTY0YTIxMDUxZjhjZDgwMGU0MGI4NjYwOTcx`
+Snapshot ID: `MTY2MjUyMTYwMSwwMDAwMDAwMDk1MTQ5NzYwMGUwOWFmNzEwMGI0YWI2NDdiMWJhM2U1`

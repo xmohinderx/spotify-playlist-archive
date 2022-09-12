@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-243 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+244 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Salem](https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:44 | 2022-02-25 |  |
 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 | 2021-07-30 |  |
 | [Sea Creatures](https://open.spotify.com/track/0ziGHz1rdtRE426q03NC8F) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/7lZZYA2lDZhSNBgXK2dEig) | 4:16 | 2021-07-30 | 2022-07-29 |
-| [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 | 2022-02-25 |  |
+| [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 | 2022-02-25 | 2022-09-12 |
+| [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 | 2022-02-25 |  |
 | [See You In The Water](https://open.spotify.com/track/4aA8CFoR0tedqtPtq7SOij) | [Tinpan Orange](https://open.spotify.com/artist/6hH9xgYqNz2YtBKZvk1Jox) | [See You In The Water](https://open.spotify.com/album/7GPgkBXXKmtomXrgGzTTnS) | 3:43 | 2021-07-30 |  |
 | [Send Me Away](https://open.spotify.com/track/7zMGgwV7iV4fL3zqP1EjjN) | [Steve Tyssen](https://open.spotify.com/artist/5jyPnkEhFmcxXHpGzQavhk) | [Send Me Away](https://open.spotify.com/album/5gDfrinkxK2nBZskaeub7l) | 3:22 | 2021-07-30 |  |
 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 | 2022-02-25 |  |

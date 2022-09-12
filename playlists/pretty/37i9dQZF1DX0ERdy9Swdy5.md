@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,733 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,996 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 52 | [No Morirá \- No Matter What](https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:31 |
 | 53 | [Ella se Hizo Deseo](https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:04 |
 | 54 | [Por Eso Está Conmigo](https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg) | [Johnny Rivera](https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:40 |
-| 55 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
+| 55 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
 | 56 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
-| 57 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
+| 57 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
 | 58 | [Es Mi Mujer](https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Pal Pueblo](https://open.spotify.com/album/07JdIFh18naO244frEGUqi) | 5:03 |
 | 59 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
 | 60 | [Ya No Queda Nada \- Salsa Version](https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 99 | [Zodiaco](https://open.spotify.com/track/1RomkFIk4vXjvmjJaoOGc2) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:22 |
 | 100 | [Magdalena, Mi Amor \(Quimbara\)](https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:17 |
 
-Snapshot ID: `MTY2MTkyODM0NCwwMDAwMDAwMDQ4NDU4NjM0ODk0YjdlY2JiZjIyYWFjNjlkNmMzN2Nl`
+Snapshot ID: `MTY2MTkyODM0NCwwMDAwMDAwMDE2OWIzOGYwNGFiNDI5MGY0MGUwMDQ4Y2VlMGYyZTVi`

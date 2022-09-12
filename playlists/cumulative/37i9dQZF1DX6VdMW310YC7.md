@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,329 songs - 3 day 20 hr 17 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,330 songs - 3 day 20 hr 21 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [FACES](https://open.spotify.com/track/3ypEkkF1BKWni32Ybod9gv) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:57 | 2020-05-18 | 2020-07-18 |
 | [Fade](https://open.spotify.com/track/2lfPecqFbH8X4lHSpTxt8l) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Fade](https://open.spotify.com/album/5hVzpu6c6YFYRxMeqlKGSY) | 4:24 | 2020-06-12 | 2020-07-03 |
 | [Fade](https://open.spotify.com/track/4kltAdmhcjMohy3drCGdha) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Maye ](https://open.spotify.com/artist/0vk5N79JZXuZTtRaRCorRW) | [Fade](https://open.spotify.com/album/2bNHLunjMX5rDtSDSaKalN) | 3:41 | 2020-05-18 | 2020-07-03 |
+| [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 | 2022-09-09 |  |
 | [Faded Love](https://open.spotify.com/track/7cEniLjAEEtxBbtAfhwUkn) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Faded Love](https://open.spotify.com/album/3muDVeVjYQblYHrQX6r9Dx) | 3:12 | 2020-03-20 | 2020-11-20 |
 | [Faded Memory](https://open.spotify.com/track/30sWK9of3ll8689n12qV0b) | [Planète](https://open.spotify.com/artist/6Vu5ri1skVRQ5jh8Tkytri) | [Alone In Parallel / Faded Memory](https://open.spotify.com/album/7mZsqsu1FHR3QKnF4eH3sV) | 4:14 | 2020-03-17 | 2022-04-21 |
 | [Fading Memories](https://open.spotify.com/track/3iO88Yon2jOOeT9AefoGF2) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd), [Sam Halabi](https://open.spotify.com/artist/0kdzjDb2TKsCiJwWaBkZTQ) | [Fading Memories](https://open.spotify.com/album/5RzqSHBKXhYdHVf1X4B0Z6) | 2:40 | 2020-03-16 | 2021-03-10 |
@@ -887,7 +888,7 @@
 | [P.M.](https://open.spotify.com/track/4XmiKDdIHIeHl1jatSHASc) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Aquiver](https://open.spotify.com/album/3xujpBmJMxRVBlHFehFOhT) | 4:14 | 2020-02-29\* | 2020-03-16 |
 | [Pacifica \(Sultan + Shepard Remix\)](https://open.spotify.com/track/04wZnll09OSLNgvOEpWNHF) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Pacifica \(Sultan + Shepard Remix\)](https://open.spotify.com/album/459ZMPJabIH2ncB6cIX7ba) | 4:45 | 2022-03-04 |  |
 | [Pages](https://open.spotify.com/track/3BjZFkiTzGcT0hVz8k8odm) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT) | [Adibanti \- EP](https://open.spotify.com/album/0jJx3OSHe7bQh5TrgE3438) | 3:32 | 2020-03-27 | 2021-03-06 |
-| [Palace Of Time](https://open.spotify.com/track/7xkOtOMV1cJmIE7OXJIdYo) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Palace Of Time](https://open.spotify.com/album/68lR3oUhPa9PEG1dnPEIHr) | 4:26 | 2022-02-11 |  |
+| [Palace Of Time](https://open.spotify.com/track/7xkOtOMV1cJmIE7OXJIdYo) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Palace Of Time](https://open.spotify.com/album/68lR3oUhPa9PEG1dnPEIHr) | 4:26 | 2022-02-11 | 2022-09-12 |
 | [Pale Skin](https://open.spotify.com/track/5nqvTmSm0tQmRndmB4Dn1t) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [A Forest](https://open.spotify.com/album/7CPhbXAXvokdASYAh0vnpS) | 3:50 | 2020-03-16 | 2021-12-21 |
 | [Palm of My Hand](https://open.spotify.com/track/4SdTlyC3TJfxsNetvoVlum) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 6:13 | 2020-05-18 | 2020-07-03 |
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2020-03-18 | 2022-04-20 |

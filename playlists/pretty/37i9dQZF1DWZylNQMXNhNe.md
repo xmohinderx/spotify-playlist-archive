@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Davi Sabbag
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,257 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,273 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 40 | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ) | 2:00 |
 | 41 | [Bumbum Check](https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD) | [Bumbum Check](https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy) | 2:21 |
 | 42 | [SURRA](https://open.spotify.com/track/1tNTim1EMqV5UXIsaeaRkS) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [SURRA](https://open.spotify.com/album/0JuHQR7gegmdTnIS1Gswbg) | 2:08 |
-| 43 | [Bandida](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 |
+| 43 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 |
 | 44 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 |
 | 45 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
 | 46 | [Vai Passar](https://open.spotify.com/track/5HT43fgoZ6rQZOMJzUqXEk) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Vai Passar](https://open.spotify.com/album/7JQ6MyS1hTp7CRKgEJh4P4) | 3:16 |

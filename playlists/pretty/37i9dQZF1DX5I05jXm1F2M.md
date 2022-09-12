@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 
 > Take that last call karaoke to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,711 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,786 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 44 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 45 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 46 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 |
-| 47 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
-| 48 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 |
+| 47 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 |
+| 48 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 49 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
 | 50 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 51 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 57 | [Any Way You Want It](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Departure](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) | 3:21 |
 | 58 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 59 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 |
-| 60 | [One Headlight](https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:12 |
-| 61 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
+| 60 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
+| 61 | [One Headlight](https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:12 |
 | 62 | [Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Crimes Of Passion](https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ) | 2:51 |
 | 63 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 64 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 68 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 | 69 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
 | 70 | [Fight For Your Right](https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:28 |
-| 71 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
-| 72 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
+| 71 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
+| 72 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
 | 73 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
 | 74 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
 | 75 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 99 | [Sideways](https://open.spotify.com/track/19DnL1HnJiijuEfaiS0Eus) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Feel That Fire](https://open.spotify.com/album/0uZtZvLB7YtZnkJ6e1wXa2) | 3:04 |
 | 100 | [Been Caught Stealing](https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
 
-Snapshot ID: `MTY0MDA5ODM3OCwwMDAwMDAwMDY0Y2Y4YmMwM2MwM2ExNDQ4MDM1ZGY2YjViNTI2YzFh`
+Snapshot ID: `MTY0MDA5ODM3OCwwMDAwMDAwMGU2NDY0MTQ1YjljMTk0NzVkMDEwNzI3YTZiNzliNTJi`

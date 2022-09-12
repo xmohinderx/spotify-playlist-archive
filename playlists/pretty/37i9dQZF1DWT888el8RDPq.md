@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > cioè, più o meno
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,451 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,480 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 4 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 |
 | 5 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
 | 6 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
-| 7 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
-| 8 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
+| 7 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
+| 8 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 9 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 |
 | 10 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
 | 11 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 45 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 |
 | 46 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
 | 47 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
-| 48 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 49 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
+| 48 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
+| 49 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 50 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 |
 | 51 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 |
 | 52 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 67 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 68 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
 | 69 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
-| 70 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 |
-| 71 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 70 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 71 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 |
 | 72 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 |
 | 73 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 |
 | 74 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 |
 | 75 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 |
 
-Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMGRhNGIzZjhjZWNiYmRiNzlmMTM5YTMxYmE4ZmY2MmY3`
+Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMDQ1OGFkZWUwZDgwOGNjMjMwOWEzOWQwMzM3YjI0ZGM5`

@@ -1,12 +1,12 @@
 {
   "description": "All the jams. Cover: Miguel",
-  "num_followers": 1846630,
+  "num_followers": 1847128,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc5NDU2NywwMDAwMDAwMDc3ZTVmZjJkYzNjYjMyMDYxMTI1ZjUxNTlmOTMyZTY3",
+  "snapshot_id": "MTY2MTc5NDU2NywwMDAwMDAwMGNjYzk4NzEyZmRmMWU1NGI3ZjVhOGE1Mjg0ZjM1ODhh",
   "tracks": [
     {
       "added_at": "2022-08-03 15:25:39",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 247079,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
         "name": "OTW",
         "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
       },
@@ -611,22 +595,18 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+      "duration_ms": 247079,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -643,6 +623,26 @@
       "duration_ms": 247578,
       "name": "Free Mind",
       "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -753,26 +753,6 @@
       "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
     },
     {
-      "added_at": "2022-07-30 03:46:43",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
@@ -827,6 +807,26 @@
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+    },
+    {
+      "added_at": "2022-07-30 03:46:43",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
       "added_at": "2022-03-14 17:48:22",

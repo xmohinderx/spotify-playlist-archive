@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > Comece o dia com grandes hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,385 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,437 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 5 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
 | 6 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
 | 7 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
-| 8 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
-| 9 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
+| 8 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
+| 9 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
 | 10 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 11 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 |
 | 12 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 48 | [Delicate](https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:52 |
 | 49 | [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:41 |
 | 50 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
-| 51 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
-| 52 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
+| 51 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
+| 52 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 53 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
 | 54 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
 | 55 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 69 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
 | 70 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
 
-Snapshot ID: `MTY2MTE3MzA3NiwwMDAwMDAwMDQxMDE3ZjIzM2IzZTljZjhmMzYyY2M3ZDhjNWYxYjkz`
+Snapshot ID: `MTY2MTE3MzA3NiwwMDAwMDAwMDdiMzc1MzgwZWNhYTAxYzZiYmNjMzkxYjgwYWE3Yjkw`

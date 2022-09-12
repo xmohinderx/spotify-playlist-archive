@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-380 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+381 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [So Done](https://open.spotify.com/track/0mCE8jx5bRIF3pg9D2are3) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [So Done](https://open.spotify.com/album/6qXB7L2TBwUp0A10uL5znx) | 3:52 | 2022-07-15 | 2022-07-17 |
 | [So Good](https://open.spotify.com/track/111f87qSJCQ7tYZP1zHlkQ) | [Jeff Service](https://open.spotify.com/artist/4H3t1JPHocqaca99qRD19L) | [So Good](https://open.spotify.com/album/3NUsX6WT9Ct43QjHpdjr1Z) | 2:41 | 2022-06-24 | 2022-07-02 |
 | [Some Drgs](https://open.spotify.com/track/6LuV4xozGqbPuJb3BrSoq1) | [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Some Drgs](https://open.spotify.com/album/2VxrkaWgSnH4gPXIwg0OrL) | 4:28 | 2022-04-28 | 2022-05-14 |
+| [Step Correct](https://open.spotify.com/track/6NlCfMAf2BUR8rLpnyYb0p) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Step Correct](https://open.spotify.com/album/6mWSOP4xoZPRMrNEXHt3Fd) | 2:33 | 2022-09-11 |  |
 | [String Theory](https://open.spotify.com/track/5VVfyoNTTsFyJSXnoRH9gd) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [String Theory](https://open.spotify.com/album/5fek0WffLqXW6Grw64q5r0) | 3:04 | 2022-04-28 | 2022-05-14 |
 | [Strip Club](https://open.spotify.com/track/3zKQlZFdwRw5RQKZ8S8WgW) | [The Schmidt](https://open.spotify.com/artist/7F0azW5NhgPjfwozhEryK5), [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Strip Club](https://open.spotify.com/album/3hd1XTMb5Z3tdl5OZ1atc7) | 3:01 | 2022-07-15 | 2022-07-30 |
 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-07-01 | 2022-07-10 |

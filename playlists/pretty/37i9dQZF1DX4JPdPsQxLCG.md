@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > The perfect soundtrack for life at the cottage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,351 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,429 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

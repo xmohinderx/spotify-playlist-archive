@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Oh'laville
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,651 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,673 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 44 | [Salir Ileso](https://open.spotify.com/track/4iG7vsYRFNlDMaH69fuETH) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Mëlmak 69](https://open.spotify.com/artist/4vvDpSyIco1oUkGqhJxWX8) | [Salir Ileso](https://open.spotify.com/album/7BYksiPvBb4HVobCBJqqWK) | 3:23 |
 | 45 | [Vuelve](https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL) | [Seis Peatones](https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh) | [Polvo](https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL) | 4:30 |
 | 46 | [Quédate Cerca](https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2) | 3:35 |
-| 47 | [Cheap Universe](https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cheap Universe](https://open.spotify.com/album/6pfD8h8RpX8EZPPxb4WsNE) | 3:14 |
-| 48 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
+| 47 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
+| 48 | [Cheap Universe](https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cheap Universe](https://open.spotify.com/album/6pfD8h8RpX8EZPPxb4WsNE) | 3:14 |
 | 49 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
 | 50 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 51 | [Te Valgo](https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Te Valgo](https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 | 60 | [Sangre de Prófugo](https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec) | 3:31 |
 
-Snapshot ID: `MTY1NjA0NzcwMCwwMDAwMDAwMDY3YmRhZjNhMzhmYTlhMGYyODUxMzM1ZWMyNzdjYTBi`
+Snapshot ID: `MTY1NjA0NzcwMCwwMDAwMDAwMGIxN2JkZmQwNTgyNjkxYTcwMzhiNDBkNGMyOWNjNDBj`

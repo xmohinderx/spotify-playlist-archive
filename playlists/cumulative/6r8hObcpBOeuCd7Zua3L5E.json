@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 102362,
       "name": "IRIS",
       "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
@@ -1421,6 +1421,24 @@
       "duration_ms": 201253,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/2LNbLA2JSQlv6NRz1xdZRj"
+    },
+    {
+      "album": {
+        "name": "My Love (Higher & Faster)",
+        "url": "https://open.spotify.com/album/7pddsm8GypEIeIP6k9bUjK"
+      },
+      "artists": [
+        {
+          "name": "Jethro Heston",
+          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131375,
+      "name": "My Love - Higher & Faster",
+      "url": "https://open.spotify.com/track/6yquPPoRTlNEIVAINQMP9D"
     },
     {
       "album": {

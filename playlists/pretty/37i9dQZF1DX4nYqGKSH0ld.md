@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 
 > Get ready for good feels and fireworks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,743 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,739 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 35 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 36 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 37 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 |
-| 38 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
-| 39 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
+| 38 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
+| 39 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 40 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
 | 41 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 |
 | 42 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 43 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
-| 44 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |
-| 45 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
-| 46 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 |
+| 44 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
+| 45 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 |
+| 46 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |
 | 47 | [Timber \(feat\. Ke$ha\)](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 |
 | 48 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 | 49 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 69 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
 | 70 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
 | 71 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
-| 72 | [More Than A Woman \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
-| 73 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
+| 72 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
+| 73 | [More Than A Woman \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
 | 74 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 75 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 |
 
-Snapshot ID: `MTY1Njk2NzU0MiwwMDAwMDAwMDg5N2NhOWZmYjUzN2QzYWI1MjQ5YTM5ZDY3OWRiMzRm`
+Snapshot ID: `MTY1Njk2NzU0MiwwMDAwMDAwMDlhYmUxMzJmMGFjZjQ4MWE0NmNlZjNjYmU1Yjk1ZjFl`

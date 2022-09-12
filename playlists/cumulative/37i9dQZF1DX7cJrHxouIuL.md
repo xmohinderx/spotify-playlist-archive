@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-170 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+171 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Lemonade](https://open.spotify.com/track/5e8ZXvmSrEA1Ob6vNptyPR) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Lemonade](https://open.spotify.com/album/6JrSmqY6OEERxikQHUQ2vf) | 3:51 | 2022-04-15 |  |
 | [Let Love Be Your Guide \(For John Lewis\)](https://open.spotify.com/track/4nZFUR2Qozd3SofAeETpQc) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide \(For John Lewis\)](https://open.spotify.com/album/7fVxonBuLUETcDyag9OZYn) | 3:09 | 2022-04-15 |  |
 | [Let My Love Open the Door](https://open.spotify.com/track/7lRsvbBASVBRYQEvA0namA) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Let My Love Open the Door](https://open.spotify.com/album/4q1TB2csSCPcwi3BdacVSm) | 2:41 | 2022-04-15 |  |
-| [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 | 2022-04-15 |  |
+| [Let My Rooster Crow](https://open.spotify.com/track/1O4pICQqHPNx5uSgoBD2zk) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/0Ek1rQtRncLXnvTa19r8HM) | 2:37 | 2022-04-15 |  |
+| [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 | 2022-04-15 | 2022-09-12 |
 | [Let's Get Started](https://open.spotify.com/track/2wgRNcyTJpNZI5LfMnvaMR) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 2:52 | 2022-04-15 |  |
 | [Let's Make a Better World](https://open.spotify.com/track/4n1trnSmsWIGbLmIyNymID) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Let's Make a Better World](https://open.spotify.com/album/3M9JHypDO7xn8lGIeqA5Kn) | 3:15 | 2022-04-15 |  |
 | [Let's Skateboard](https://open.spotify.com/track/7xSX7YXHDWa8ijoFbVBQY7) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [KidQuake!](https://open.spotify.com/album/1H7T9peQoMiacUDdxi4yvW) | 1:51 | 2022-04-15 |  |

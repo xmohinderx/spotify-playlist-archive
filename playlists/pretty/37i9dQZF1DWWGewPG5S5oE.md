@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 秩父英里
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,781 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,828 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 | 46 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 |
 | 47 | [83](https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [83](https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4) | 3:27 |
-| 48 | [Two Shadows](https://open.spotify.com/track/6DeMB7zj9PHsErZClrdna5) | [arauchi yu](https://open.spotify.com/artist/04bUFAiWthHUAI5TsPxTlS), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Sisei](https://open.spotify.com/album/4uRAlLzyBxwLHOtBBg6HDV) | 3:41 |
-| 49 | [Skyscrapers](https://open.spotify.com/track/00E0F6S41u75kegMAnTiXd) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Skyscrapers / Another World](https://open.spotify.com/album/2shCDrFWKMqzL4ZnE08Pus) | 3:59 |
-| 50 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
+| 48 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
+| 49 | [Two Shadows](https://open.spotify.com/track/6DeMB7zj9PHsErZClrdna5) | [arauchi yu](https://open.spotify.com/artist/04bUFAiWthHUAI5TsPxTlS), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Sisei](https://open.spotify.com/album/4uRAlLzyBxwLHOtBBg6HDV) | 3:41 |
+| 50 | [Skyscrapers](https://open.spotify.com/track/00E0F6S41u75kegMAnTiXd) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Skyscrapers / Another World](https://open.spotify.com/album/2shCDrFWKMqzL4ZnE08Pus) | 3:59 |
 
-Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMDcyNTQwM2MwMjhiZDgxMTkwNTQ5NjI2MzE5MDVlZGJl`
+Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMDM3NjRlNDM3ZjRiYWI1N2Y4MmU2ZGMyMjdlNGNmYjM3`

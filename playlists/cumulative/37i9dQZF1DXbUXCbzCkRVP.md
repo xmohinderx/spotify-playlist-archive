@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-74 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
+75 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 | 2022-05-25 |  |
 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-05-25 |  |
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/2ukRDdimXaalohB9F4bAXb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 1:34 | 2022-05-25 | 2022-07-28 |
+| [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 | 2022-07-29 |  |
 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 | 2022-05-25 |  |
 | [Little Johnny Lee](https://open.spotify.com/track/5xYNNVevngzChjz5l8vZsj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 6:33 | 2022-05-25 | 2022-07-29 |
 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 | 2022-05-25 | 2022-07-29 |
@@ -70,7 +71,7 @@
 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 | 2022-05-25 |  |
 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 | 2022-05-25 |  |
 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 | 2022-05-25 |  |
-| [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 | 2022-05-25 |  |
+| [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 | 2022-05-25 | 2022-09-12 |
 | [The Clock Strikes Twelve](https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Go Bo Diddley](https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe) | 2:57 | 2022-05-25 | 2022-07-28 |
 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 | 2022-05-25 |  |
 | [The Messiah Will Come](https://open.spotify.com/track/5Wz5FAR8rtzahwqPDIifRj) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ), [D\. Rivers](https://open.spotify.com/artist/2hFRqFw8t3n8L0oxSzJIhY) | [True Stories](https://open.spotify.com/album/18MxC4z6K39xkMOd2FWzBf) | 9:24 | 2022-06-29 | 2022-07-26 |

@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Ruler of Everything",
+      "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
+    },
+    {
+      "album": {
         "name": "Shona",
         "url": "https://open.spotify.com/album/3sKv18MCypZJzh9bEncv5G"
       },
@@ -693,6 +711,24 @@
       "duration_ms": 186573,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9"
+    },
+    {
+      "album": {
+        "name": "Teenage Sound",
+        "url": "https://open.spotify.com/album/2D8dV3fLbJH4isDduuIxHt"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171900,
+      "name": "Teenage Sound",
+      "url": "https://open.spotify.com/track/06xPdNtt4iuQPKxQhBAQtb"
     },
     {
       "album": {

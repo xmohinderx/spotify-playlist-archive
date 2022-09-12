@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 6 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
 | 7 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 |
 | 8 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
-| 9 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 9 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 10 | [Enjoy](https://open.spotify.com/track/1LCy7LSknQSMxxflErjKqO) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Enjoy](https://open.spotify.com/album/1MbsUNijqaPrfESRq6jz7c) | 2:16 |
 | 11 | [FANCY](https://open.spotify.com/track/5qnG5K46AMldqlO96i5pKA) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:23 |
 | 12 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |

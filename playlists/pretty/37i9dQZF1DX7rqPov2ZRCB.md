@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,871 likes - 51 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,902 likes - 51 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 2 | [Yo Me Muero Por Ti](https://open.spotify.com/track/1soZPkNYncKsVnSk18OGTP) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 6:32 |
 | 3 | [La Historia De Un Gran Amor](https://open.spotify.com/track/6xDH1AopZEPEAyVR1Ji9In) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [De Que Tu Priva?](https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm) | 4:30 |
 | 4 | [Ta' Buena](https://open.spotify.com/track/2zHFgOgtiH5X3Up92IltJi) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:36 |
-| 5 | [Perdido Sin Ti](https://open.spotify.com/track/2gPyAczAwtfZqlF1nBNkSd) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol\. 1](https://open.spotify.com/album/6idjIsHfxAreZOwbj6nIVC) | 4:05 |
-| 6 | [La Chiflera](https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Date Brillo Cadenita](https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw) | 7:18 |
+| 5 | [La Chiflera](https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Date Brillo Cadenita](https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw) | 7:18 |
+| 6 | [Perdido Sin Ti](https://open.spotify.com/track/2gPyAczAwtfZqlF1nBNkSd) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol\. 1](https://open.spotify.com/album/6idjIsHfxAreZOwbj6nIVC) | 4:05 |
 | 7 | [El Farolito](https://open.spotify.com/track/3YYAXtXiDhwDQBfmhZ84cL) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Fogaraté](https://open.spotify.com/album/4mYGno93GSq2c3C0mkZcL3) | 3:43 |
 | 8 | [El Baile Del Perrito](https://open.spotify.com/track/0uDxsPAVs2Hu6OQ7XlUWo2) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 8:11 |
 | 9 | [La Grama Chapia](https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Los Numero Uno del Merengue Tipico, Vol\. 2](https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W) | 4:39 |
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 38 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
 | 39 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 | 40 | [Adan y Eva](https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 2:43 |
-| 41 | [La Torera](https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Maria Diaz y Luis Vargas](https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj) | 4:27 |
+| 41 | [Marapica](https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Only Mambo Vol\. 3](https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei) | 4:18 |
 | 42 | [Vamos Habla Ingles](https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Todos Los Hombres Son Buenos](https://open.spotify.com/album/2L5Pmmd51JQRzH2Gipbh34) | 4:35 |
-| 43 | [Marapica](https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Only Mambo Vol\. 3](https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei) | 4:18 |
+| 43 | [La Torera](https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Maria Diaz y Luis Vargas](https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj) | 4:27 |
 | 44 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
 | 45 | [Déjame Entrar](https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Me Muero De Amor](https://open.spotify.com/album/3KiIKJRkp6FoZMpBqx6CVc) | 6:05 |
 | 46 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf) | [El General Larguito](https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:22 |
-| 47 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
-| 48 | [La Funda](https://open.spotify.com/track/75OFcipYCvVFui2YdNdfGc) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 8:14 |
-| 49 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
+| 47 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
+| 48 | [La Chiflera \- 2k15 Edition](https://open.spotify.com/track/51MmT2oz05BA71QbyDUcNU) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Maria y el Prodigio](https://open.spotify.com/album/1nzkjZM7mdGxbxinEWil2d) | 5:09 |
+| 49 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 50 | [La Correa](https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/49AtvL6fjFXMg8ckR7cFjm) | 2:48 |
-| 51 | [La Chiflera \- 2k15 Edition](https://open.spotify.com/track/51MmT2oz05BA71QbyDUcNU) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Maria y el Prodigio](https://open.spotify.com/album/1nzkjZM7mdGxbxinEWil2d) | 5:09 |
+| 51 | [La Funda](https://open.spotify.com/track/75OFcipYCvVFui2YdNdfGc) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 8:14 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGMxOWQyOGQwY2FjYTgwYTZiYjYyNjBlMThiZDNlZjc3`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDFiNWM2MTIxN2U0ZmM2MmMzYmFiNjg3YzYxMmU0MmUy`

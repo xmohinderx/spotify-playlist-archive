@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,798 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,915 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 7 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
 | 8 | [Te Para 3 \- MTV Unplugged](https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:07 |
 | 9 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:49 |
-| 10 | [About A Girl](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
-| 11 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 |
+| 10 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 |
+| 11 | [About A Girl](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
 | 12 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
 | 13 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 |
 | 14 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 49 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 |
 | 50 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
 
-Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMDhhYjUyYWQwOThkYjNjMjZlYWJmZDQyNDg1MThjOTI2`
+Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMDI3ODNhMjE3NmJjYmIzZDhjMmMwMmMxY2Y1MzMyOGQ0`

@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 58485,
+  "num_followers": 58581,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGNkYWM0OTc4ODE3ZjYzYzdlMmNhOTVmNjI4NTg4NzFi",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGU4YTZiNDBiZmE2Zjg0YTBiNWI3MjM4NThhY2ZiNDJk",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "Mo Gbono Feli Feli",
-      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 258013,
+      "name": "Mo Gbono Feli Feli",
+      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
     },
     {
       "added_at": "2020-11-06 13:21:21",

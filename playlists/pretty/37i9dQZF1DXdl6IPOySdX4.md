@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,864 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,036 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 74 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 |
 | 75 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 76 | [Love Is a Bitch](https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Love Is a Bitch](https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s) | 3:01 |
-| 77 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 |
-| 78 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
+| 77 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
+| 78 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 |
 | 79 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 |
 | 80 | [Losin Control](https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 3:57 |
 
-Snapshot ID: `MTY2Mjc0NjE2NSwwMDAwMDAwMDg4MTY4ODdiN2JjZGI5M2EzOWI0MjRiYjViYTFmNDA2`
+Snapshot ID: `MTY2Mjc0NjE2NSwwMDAwMDAwMDc1NmI5YzJhNjZhMjhmMmE1ZGFlNDA2NTc3YzkxOTA3`

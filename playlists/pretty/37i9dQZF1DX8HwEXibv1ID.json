@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 19224,
+  "num_followers": 19250,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMGM2OGJkMjMyMTI5ZmYwMzMyYjZlZjZhNTQ1NWEzZjg4",
+  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMGQwZDY3NGViNDNmZTk4OTBmMTk5YWI2ZTRjY2E3ODM4",
   "tracks": [
     {
       "added_at": "2022-04-22 13:30:43",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "In the Land of Hi-Fi",
-        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Let's Do It (Let's Fall in Love)",
-      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
+        "name": "In the Land of Hi-Fi",
+        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Let's Do It (Let's Fall in Love)",
+      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 411866,
       "name": "You Do Something to Me - Remastered",
       "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -439,22 +455,6 @@
       "duration_ms": 183266,
       "name": "Do I Love You? - Live In Miami, FL/1959 / Remastered 2002",
       "url": "https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
-      },
-      "artists": [
-        {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Sinatra Sings Cole Porter",
-        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
+        "name": "High Society (O.S.T - 1956)",
+        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
         }
       ],
-      "duration_ms": 145533,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+      "duration_ms": 252818,
+      "name": "I Love You Samantha",
+      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "High Society (O.S.T - 1956)",
-        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Johnny Green & His Orchestra",
-          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 252818,
-      "name": "I Love You Samantha",
-      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+      "duration_ms": 145533,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "John Barrowman Swings Cole Porter",
         "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 151213,
       "name": "Always True To You (In My Fashion)",
       "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Columbia Years (1943-1952) The Complete Recordings",
-        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "You Don't Remind Me",
-      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 193160,
       "name": "When Love Comes Your Way",
       "url": "https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
     },
     {
       "added_at": "2022-04-22 13:30:43",

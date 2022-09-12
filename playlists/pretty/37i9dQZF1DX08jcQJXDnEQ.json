@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s.",
-  "num_followers": 664373,
+  "num_followers": 664783,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAzNzIwMCwwMDAwMDAwMDJmZjg4ZmJlOWY5Y2RlYjY0YWNhNDU5Y2VjOGMxOTBm",
+  "snapshot_id": "MTY2MjAzNzIwMCwwMDAwMDAwMGU1NzgzNzg1NzhmODJjMThkZGM5MjczYWJlYjVkZWM0",
   "tracks": [
     {
       "added_at": "2022-09-01 13:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
+        "name": "Time'S Up",
+        "url": "https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "Love Rears Its Ugly Head",
+      "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
         "name": "Clutch",
         "url": "https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 234559,
       "name": "Metal Warriors",
       "url": "https://open.spotify.com/track/5P2Ghhv0wFYThHfDQaS0g5"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
-        "name": "Time'S Up",
-        "url": "https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA"
-      },
-      "artists": [
-        {
-          "name": "Living Colour",
-          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "Love Rears Its Ugly Head",
-      "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
     },
     {
       "added_at": "2022-09-01 13:00:00",

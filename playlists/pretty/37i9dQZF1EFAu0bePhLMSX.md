@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 14 | [18](https://open.spotify.com/track/3CHwhGXeK1kCzxfbmoRK1d) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:09 |
 | 15 | [Say Something](https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:32 |
 | 16 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 |
-| 17 | [In My Arms](https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:30 |
-| 18 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 |
+| 17 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 |
+| 18 | [In My Arms](https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:30 |
 | 19 | [If Ya Gettin' Down](https://open.spotify.com/track/6UespeVK9gGMnEyeMktQhU) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:00 |
 | 20 | [These Four Walls](https://open.spotify.com/track/3pofJEjOp6m9e6kYNmGhxa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:28 |
 | 21 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0E7dgYApjRrO2WqlyoHKVy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:28 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 138 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 |
 | 139 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjc3MTQzMTMsMDAwMDAwMDAyZDU4ODBmMGRiNjg1N2NjNmU2MmJjMTNiZWM2ZGM3YQ==`
+Snapshot ID: `Mjc3MTU3NTQsMDAwMDAwMDBiNTVmOGQ0YzNmZmIwMjJkNjc2NjQyZGZhYzI1MjAyZA==`

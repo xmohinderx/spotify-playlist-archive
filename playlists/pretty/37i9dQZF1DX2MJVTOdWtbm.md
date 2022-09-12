@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: RaiNao
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,872 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,889 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 73 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 |
 | 74 | [Mala](https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Mala](https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr) | 2:58 |
 | 75 | [la que calla](https://open.spotify.com/track/5KHkcJbmQXRmWj7JaXzXHj) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [entrevayus](https://open.spotify.com/album/2paDCQa4nQzrhdM1GEkoE9) | 3:30 |
-| 76 | [Tu Boca](https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh) | [HALÉ](https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii) | [Tu Boca](https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2) | 3:02 |
-| 77 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
+| 76 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
+| 77 | [Tu Boca](https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh) | [HALÉ](https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii) | [Tu Boca](https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2) | 3:02 |
 | 78 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 |
 | 79 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 |
 | 80 | [Diferente](https://open.spotify.com/track/1kjcjFtHnRkyMEbfhpw3bR) | [Andre TG](https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm) | [Diferente](https://open.spotify.com/album/2cDwDzzvit1Aoy6x9iBYVD) | 2:53 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [Chiquita](https://open.spotify.com/track/4za1MD83DGTxNnmsNlVmy7) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/1xERT4eWPhXVdE1SI1Wq7l) | 2:29 |
 | 85 | [Cerezos II](https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Experimento](https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud) | 4:01 |
 
-Snapshot ID: `MTY2MjQ5MDc4NywwMDAwMDAwMGNiZjhhM2Y0OTY2ZjdlZmQ3OTViM2YwNjEzMzk0YTY0`
+Snapshot ID: `MTY2MjQ5MDc4NywwMDAwMDAwMDNkNzZmNGI0Mzg1MDY0MWU1ZWFkN2UwMDlhNDc5ZWVh`

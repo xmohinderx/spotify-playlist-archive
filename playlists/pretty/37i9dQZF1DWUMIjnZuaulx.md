@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Israel & New Breed
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,142 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,288 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

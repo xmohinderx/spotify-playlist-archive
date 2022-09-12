@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,042 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,105 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 15 | [Won't Stop Now Ft\. Diddy \- Andrea Oliva & Black Circle Remix](https://open.spotify.com/track/2RcogvIEmlk7DoI1iDrySs) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Won't Stop Now](https://open.spotify.com/album/0eLnugOAUou9oEHIsGWpDn) | 6:45 |
 | 16 | [Rizzla \- Mochakk Remix](https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \(Mochakk Remix\)](https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw) | 5:21 |
 | 17 | [Otto's Chant](https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Otto's Chant](https://open.spotify.com/album/3suaEss6InlgqN8pf51Sa5) | 6:09 |
-| 18 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 |
-| 19 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 |
+| 18 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 |
+| 19 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 |
 | 20 | [Whispers In The Wind](https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Whispers In The Wind](https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f) | 6:08 |
 | 21 | [Lovelee Dae](https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Blaze \(Kevin Hedge\)](https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy) | [Lovelee Dae](https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg) | 6:22 |
 | 22 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 38 | [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 |
 | 39 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 |
 | 40 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
-| 41 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 |
+| 41 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
 | 42 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
-| 43 | [Take My Hand](https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Take My Hand](https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj) | 5:17 |
-| 44 | [All I Want \- Original Mix](https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M) | [The Archer](https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU) | [All I Want](https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz) | 4:03 |
-| 45 | [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 |
-| 46 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
-| 47 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 |
-| 48 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 |
-| 49 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
-| 50 | [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 |
+| 43 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 |
+| 44 | [Take My Hand](https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Take My Hand](https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj) | 5:17 |
+| 45 | [All I Want \- Original Mix](https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M) | [The Archer](https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU) | [All I Want](https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz) | 4:03 |
+| 46 | [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 |
+| 47 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
+| 48 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 |
+| 49 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 |
+| 50 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDNmZDI0Yjg3ZjBjM2U5MGRkZjFhNjk2ZWNmNGExNTg0`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDA1NzliYzNhYjRkMDk1YWJhNTJmMTk4Yjc1ZjJkOWE2`

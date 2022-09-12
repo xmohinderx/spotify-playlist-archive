@@ -1,6 +1,6 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 57168,
+  "num_followers": 57203,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Alex Bruce",
           "url": "https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX"
+        },
+        {
+          "name": "Cursebox",
+          "url": "https://open.spotify.com/artist/52REqNdtIQAapIZ4WEwBVg"
         }
       ],
       "duration_ms": 194300,

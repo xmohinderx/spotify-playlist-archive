@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-245 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/5Ia0O2s18IQpAbkgQJ0E7m)
+246 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/5Ia0O2s18IQpAbkgQJ0E7m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bounce](https://open.spotify.com/track/3ku51L937DfBoNcU9hmDQy) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [PANDEMIC](https://open.spotify.com/album/4DTPlpehe0NPh3hFqMOAgS) | 3:04 | 2021-09-10 |  |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-05-05 |  |
 | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/track/5xF4mGKhhEzQTsyRq0rRa9) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/album/2vZ9iueqO6h60I0X3NHxIX) | 3:57 | 2021-12-02 | 2022-02-08 |
+| [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-26 |  |
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-09 |  |
 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 | 2022-02-11 | 2022-07-29 |
 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 | 2020-11-24 | 2022-05-24 |
@@ -201,7 +202,7 @@
 | [Señorita](https://open.spotify.com/track/6o8QA4uKuvLV3AsSVOqeIj) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Sound from Africa](https://open.spotify.com/album/0diuKnu6lrcGqDtHiQQJcU) | 2:59 | 2021-03-25 | 2022-06-02 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 |  |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-10-08 |  |
-| [Skeletun](https://open.spotify.com/track/3QjgCsPJH5Z2VnTCDYPurE) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Skeletun](https://open.spotify.com/album/6Mji0XZcr2lKRHl3sRi92o) | 3:12 | 2022-06-09 |  |
+| [Skeletun](https://open.spotify.com/track/3QjgCsPJH5Z2VnTCDYPurE) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Skeletun](https://open.spotify.com/album/6Mji0XZcr2lKRHl3sRi92o) | 3:12 | 2022-06-09 | 2022-09-12 |
 | [Skeletun](https://open.spotify.com/track/6gAU6YgNzWdyBN4j1ec66T) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Skeletun](https://open.spotify.com/album/4hsWTfVWE2jYvYOjeKtjtZ) | 3:12 | 2020-02-26 | 2022-04-21 |
 | [Skin Tight \(feat\. Efya\)](https://open.spotify.com/track/7vpMQ2vmU6O2qFG7aNKwiL) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Skin Tight \(feat\. Efya\)](https://open.spotify.com/album/1XqbrcIUg26QRjlZerOM10) | 4:08 | 2019-11-05 | 2022-04-20 |
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2021-09-10 | 2022-07-29 |

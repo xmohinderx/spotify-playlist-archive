@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,072 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,082 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 54 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
 | 55 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 |
 | 56 | [Fireman & Dancer](https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Club Majesty](https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M) | 2:48 |
-| 57 | [CHEMICALS](https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [CHEMICALS](https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6) | 3:31 |
-| 58 | [Summer Is a Curse](https://open.spotify.com/track/0cSNN4fgW1RFDQV58eVRKK) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Summer Is a Curse](https://open.spotify.com/album/1yQQOHHAxZAc1sI5K4sHrJ) | 3:01 |
+| 57 | [Summer Is a Curse](https://open.spotify.com/track/0cSNN4fgW1RFDQV58eVRKK) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Summer Is a Curse](https://open.spotify.com/album/1yQQOHHAxZAc1sI5K4sHrJ) | 3:01 |
+| 58 | [CHEMICALS](https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [CHEMICALS](https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6) | 3:31 |
 | 59 | [Care](https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
 | 60 | [Is Everybody Going Crazy?](https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Is Everybody Going Crazy?](https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1) | 3:57 |
 | 61 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 70 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 |
 | 71 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
 | 72 | [Cheer Up Baby](https://open.spotify.com/track/4U7B8upa2xDTudFoGrBJ6G) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cheer Up Baby](https://open.spotify.com/album/2DSLcvO3yEHoEKlxmdL4k1) | 3:53 |
-| 73 | [Miracle Pill](https://open.spotify.com/track/7Az7CZGlPdRMq8E4rfOAS3) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/6YkjHyoVbR8Qx9STl3veBl) | 3:17 |
-| 74 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 |
+| 73 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 |
+| 74 | [Miracle Pill](https://open.spotify.com/track/7Az7CZGlPdRMq8E4rfOAS3) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/6YkjHyoVbR8Qx9STl3veBl) | 3:17 |
 | 75 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 |
 | 76 | [Rockstar](https://open.spotify.com/track/6XZ8SzOsrIPce5JdgMeJFF) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Don't Wait 'Til Tomorrow](https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf) | 3:43 |
 | 77 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [Put The Knife Away](https://open.spotify.com/track/1Wc4oMYsjCqMSDQST8oXEr) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Knife](https://open.spotify.com/album/5jfO0OhKV66c4OoPqhtI2l) | 2:57 |
 | 80 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 |
 
-Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDNkZTJmNzkyNTE5ODgyNDUxYmQ4MDM1NTZkMzQyYTg1`
+Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDA2MzkyM2RiNzdlZTA4N2RkZjRhNjQ3OWI2YzMzZDFi`

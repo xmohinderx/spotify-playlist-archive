@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 
 > A pop rock running mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,200 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,335 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 | 15 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
 | 16 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
 | 17 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
-| 18 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
-| 19 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
+| 18 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
+| 19 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 20 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
 | 21 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 22 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 | 49 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
 | 50 | [Love Don't Die](https://open.spotify.com/track/6IDDwI0YOCAUDhMZltQekS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Helios](https://open.spotify.com/album/4Z1kH6bfeeMYtCuhnR4vEr) | 3:03 |
 
-Snapshot ID: `MTY2MDMwMTcyNiwwMDAwMDAwMDA1YjE2NzNlNWIxYTIzMTE3MTQzYmM2Njg4NGNjZTU0`
+Snapshot ID: `MTY2MDMwMTcyNiwwMDAwMDAwMDEzOGE2OGVkYjA3NGFiNjllMGQwMDhhNTEwNzBkOWVh`

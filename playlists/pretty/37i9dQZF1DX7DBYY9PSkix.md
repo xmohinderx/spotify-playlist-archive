@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,706 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,714 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 56 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |
 | 57 | [Girl Like You](https://open.spotify.com/track/7K0lR5Ngf5jkOWt1g6ut6l) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:13 |
 | 58 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 |
-| 59 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
-| 60 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 |
+| 59 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 |
+| 60 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
 | 61 | [No Shoes, No Shirt, No Problems](https://open.spotify.com/track/208bYsadJ56km31IENM2qS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [No Shoes, No Shirt, No Problems](https://open.spotify.com/album/28fqmcfV4mpPsqhdNKUeTc) | 3:29 |
 | 62 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 |
 | 63 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 |
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 65 | [Where It's At](https://open.spotify.com/track/4whYDpJ5XVQpmvecbEHP5Q) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:24 |
 | 66 | [Beer In Mexico](https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 4:31 |
 | 67 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 |
-| 68 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
-| 69 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 |
+| 68 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 |
+| 69 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
 | 70 | [Anywhere With You](https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 3:29 |
 | 71 | [Take A Little Ride](https://open.spotify.com/track/2o5mwv7hvas1jdUg14Nihv) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 3:07 |
 | 72 | [Jump Right In](https://open.spotify.com/track/6czEmVcntPHqHBYt2eRpgY) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Uncaged](https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7) | 3:00 |
-| 73 | [Somewhere In My Car](https://open.spotify.com/track/3MFV4DgrAOXz6KURPQxRj9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Somewhere In My Car](https://open.spotify.com/album/2WrjahkTYLrJe93TxCGIuM) | 3:15 |
-| 74 | [In Between](https://open.spotify.com/track/2IuazAsyvbb3fFZb0Uvsmk) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 3:41 |
-| 75 | [Hell On The Heart](https://open.spotify.com/track/6wo9obXjAhA8Yc90sswR56) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 2:44 |
+| 73 | [In Between](https://open.spotify.com/track/2IuazAsyvbb3fFZb0Uvsmk) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 3:41 |
+| 74 | [Hell On The Heart](https://open.spotify.com/track/6wo9obXjAhA8Yc90sswR56) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 2:44 |
+| 75 | [Somewhere In My Car](https://open.spotify.com/track/3MFV4DgrAOXz6KURPQxRj9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Somewhere In My Car](https://open.spotify.com/album/2WrjahkTYLrJe93TxCGIuM) | 3:15 |
 | 76 | [Stay A Little Longer](https://open.spotify.com/track/6rqxivjFHp8K0yMiefG56g) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Stay A Little Longer](https://open.spotify.com/album/35Xy4nfPeJxythKy00E0Vq) | 5:35 |
 | 77 | [Crazy Town](https://open.spotify.com/track/5eH1ktZDHgegpkYJOY7tme) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:03 |
 | 78 | [Alone Together](https://open.spotify.com/track/3ZsLuJ8uU0lE6rGTkDaqEg) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 99 | [Thought This Through \(Talegate Remix\)](https://open.spotify.com/track/53TqaPbE50nemoHs23g5ca) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi), [Talegate](https://open.spotify.com/artist/00IczxaF2dh2W68AutGoC6) | [Thought This Through \(Talegate Remix\)](https://open.spotify.com/album/3n3qky3fUqU7XnHno66e9P) | 2:49 |
 | 100 | [Be Like That \(feat\. Swae Lee & Khalid\) \[Matt Medved Remix\]](https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Matt Medved](https://open.spotify.com/artist/5xmKSoBLGN455TjWbaFcZa) | [Be Like That \(Remixes\) \- EP](https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3) | 3:24 |
 
-Snapshot ID: `MTY0MDE5NTI4NCwwMDAwMDAwMDhiY2JkODIzNWNkODlmN2JhNzU4MWY2YTRjZGQ4ODIz`
+Snapshot ID: `MTY0MDE5NTI4NCwwMDAwMDAwMGQwMzAwZDQ1NDY4YmY3YWJkMDgzZWUyYzkxMTkwODNl`

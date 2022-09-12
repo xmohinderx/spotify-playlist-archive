@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,201 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,446 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 70 | [At the Break of Dawn](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Life Is Not Beautiful](https://open.spotify.com/album/37Kj4n1FrQ0mtDQdpN0KSt) | 3:31 |
 | 71 | [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 |
 | 72 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 |
-| 73 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
-| 74 | [Pirates](https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5) | [Bullets And Octane](https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9) | [The Revelry](https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp) | 2:19 |
+| 73 | [Pirates](https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5) | [Bullets And Octane](https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9) | [The Revelry](https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp) | 2:19 |
+| 74 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
 | 75 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
 
-Snapshot ID: `MTY2MjEwMjg4NiwwMDAwMDAwMDY2ZmI0Nzg5YzJiZDQ2ZTQxZDFhNGVmZmExYTdjZmQ4`
+Snapshot ID: `MTY2MjEwMjg4NiwwMDAwMDAwMDk1NmUzOGY5ZmQ4ZjNlY2M1MTQwOGU3YzQ3NjYxMmM0`

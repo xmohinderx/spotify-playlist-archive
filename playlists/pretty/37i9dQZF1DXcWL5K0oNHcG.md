@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Marissa Zechinato Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,629 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,683 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 20 | [Dolmus Havasi](https://open.spotify.com/track/6bVsRz4nsqsFf2SGZ92SS4) | [Gijs Levelt Spoken Quartet](https://open.spotify.com/artist/6d9jt84PyB3w2OFrGrDg9T), [Gijs Levelt](https://open.spotify.com/artist/5nLTrxd6gjY7MIfIoT9gM0) | [Dolmus Havasi](https://open.spotify.com/album/6wzmHIzFi2scSVKhU0MHml) | 7:17 |
 | 21 | [Away](https://open.spotify.com/track/7BSGiGKf9IfhVRvvdFpyBh) | [FM EXPERIMENT](https://open.spotify.com/artist/66eDac0JXyReY3uG8W6c9F) | [Away](https://open.spotify.com/album/7McWabMN5DBrjkAawmQ0gZ) | 4:19 |
 | 22 | [Volta ao Catopê](https://open.spotify.com/track/4eW3zVWI4PJbIVsV4i39wI) | [Pedro Gomes](https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ) | [Volta ao Catopê](https://open.spotify.com/album/5U8aAX0S20zjuYegd4052K) | 4:17 |
-| 23 | [Drumatix](https://open.spotify.com/track/6BmQG71w03i9Aa91EjB6XR) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Drumatix](https://open.spotify.com/album/1B3RehkYM4vEYYAZk66yci) | 2:51 |
+| 23 | [Drumatix](https://open.spotify.com/track/5aEo1HS6U1QXBoVr2H2xnp) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Solar Eclipse](https://open.spotify.com/album/0lDFZxOkZ3A37NkUntkBMj) | 2:51 |
 | 24 | [Girlfriend with Magical Ears](https://open.spotify.com/track/1CcKqhGVV9TfQ7TXPDhp74) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W) | [Girlfriend with Magical Ears](https://open.spotify.com/album/09rcrUmNKDmrwhUbqYWFVM) | 4:58 |
 | 25 | [Don't](https://open.spotify.com/track/5IWUCCibOBMdSa9expuO7C) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Don't](https://open.spotify.com/album/1QlfcmVKPbg1b9h5oQwLHA) | 3:45 |
 | 26 | [Jolly Good Fela](https://open.spotify.com/track/3pEmh34X9EDZWgstVtNoki) | [Jaydabliu](https://open.spotify.com/artist/564Yqrvz8YYhdoiAmdDaOp) | [Jolly Good Fela](https://open.spotify.com/album/57IBh0b7aibYnrpvdBk9aZ) | 2:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 69 | [Keepsakes](https://open.spotify.com/track/7j5gM0u7zJR6sdT6vwxuRd) | [Kinzoogianna](https://open.spotify.com/artist/2D069JyO8S067PzOr5XtUz) | [Gold For The Hungry Souls](https://open.spotify.com/album/5bAaYYukm90CPlxXbBMEe6) | 3:27 |
 | 70 | [Jade](https://open.spotify.com/track/5Csa0y90E9YyqFki5Mf9CT) | [Robert Lee](https://open.spotify.com/artist/4prPafRnKMhtm6nBlnmjvo) | [Cha\-Ran](https://open.spotify.com/album/1Xiit8wawVgRjZoJCvT4F5) | 4:51 |
 
-Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMDZmODVkYTNkNjg3OTBmNWRiNmUyN2I3NWMxNWFmODcw`
+Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMDJjYTg5ZWIwM2UyMTJkMTExZWY1ZDVmN2RmM2MyZGQ1`

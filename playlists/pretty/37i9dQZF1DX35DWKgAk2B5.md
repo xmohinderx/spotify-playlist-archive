@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 > Welcome to Indie Rock Club\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,227 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,398 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 19 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
 | 20 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 |
 | 21 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
-| 22 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
-| 23 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 22 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 23 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 24 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 25 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
 | 26 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 52 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
 | 53 | [Heads Will Roll](https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:41 |
 | 54 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
-| 55 | [Spread Your Love](https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 3:45 |
-| 56 | [Books From Boxes](https://open.spotify.com/track/7aB9V1AfdHhdONxii7njJ9) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:28 |
+| 55 | [Books From Boxes](https://open.spotify.com/track/7aB9V1AfdHhdONxii7njJ9) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:28 |
+| 56 | [Spread Your Love](https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 3:45 |
 | 57 | [Walk Idiot Walk](https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 3:31 |
 | 58 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 |
 | 59 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 99 | [Cha\-Cha Twist](https://open.spotify.com/track/5Bs1pw78Y84wmLdukRjIX4) | [The Detroit Cobras](https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR) | [Mink, Rat or Rabbit](https://open.spotify.com/album/6Nilu1ZmULGn7gXkufCDc7) | 2:31 |
 | 100 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:46 |
 
-Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDM5ZjUxYTAyZTRlMTIyYTlhYWY0YzAxNTM3NWQ3MGY2`
+Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMGRmZWU5MDg0ZTQwYzQ0MGRiY2IzZTMxY2ZmNGVkNzll`

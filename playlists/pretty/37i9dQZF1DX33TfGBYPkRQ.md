@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,729 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,799 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 38 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 39 | [Wilderness](https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:29 |
 | 40 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
-| 41 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
-| 42 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 41 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 42 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
 | 43 | [25 in Barcelona](https://open.spotify.com/track/3T26BJ8XxWaxyxs8oGt8eR) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together](https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9) | 3:13 |
 | 44 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 |
 | 45 | [Comfortable \- EP Version](https://open.spotify.com/track/26PnyFUmYdeRG7nQrsTpHc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Wants Out](https://open.spotify.com/album/5KMP6XLSrhsswEuN2A9VO2) | 4:59 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 59 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 |
 | 60 | [A Little Bit of Everything](https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2) | 5:42 |
 | 61 | [Over You](https://open.spotify.com/track/4eZP0Tyh1p06Nk1aHOzNrt) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Lights Out](https://open.spotify.com/album/20vMfB4zgelkULugladUD3) | 4:43 |
-| 62 | [Hallelujah](https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Hallelujah](https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo) | 3:09 |
-| 63 | [I Don't Wanna Love Somebody Else](https://open.spotify.com/track/5XY2CyLE68jlt7nNj5ygVh) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 2:43 |
+| 62 | [I Don't Wanna Love Somebody Else](https://open.spotify.com/track/5XY2CyLE68jlt7nNj5ygVh) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 2:43 |
+| 63 | [Hallelujah](https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Hallelujah](https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo) | 3:09 |
 | 64 | [When I Say You Are Killing Me](https://open.spotify.com/track/21bbB3zolLcm1DHS6aqHy3) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Force Majeure](https://open.spotify.com/album/3oT6AQw2fxaHQ6JFCKxiOp) | 3:13 |
-| 65 | [Quiver](https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA) | [Lonas](https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL) | [Quiver](https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f) | 4:11 |
-| 66 | [Thingamajig](https://open.spotify.com/track/5jQ5iwHkqyk6HgxLOFdJo1) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Premonitions](https://open.spotify.com/album/3nWDfV4stC2VQopcuHjJmO) | 4:12 |
+| 65 | [Thingamajig](https://open.spotify.com/track/5jQ5iwHkqyk6HgxLOFdJo1) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Premonitions](https://open.spotify.com/album/3nWDfV4stC2VQopcuHjJmO) | 4:12 |
+| 66 | [Quiver](https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA) | [Lonas](https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL) | [Quiver](https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f) | 4:11 |
 | 67 | [Heal](https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 3:15 |
 | 68 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
 | 69 | [Foreground](https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 3:35 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 73 | [The Valley](https://open.spotify.com/track/0YBApL73BbXpxEJKREFOUF) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [Slowmotionary](https://open.spotify.com/album/3Ral8vi8Cc0uCtp0Zg0A7x) | 2:45 |
 | 74 | [Sprained Ankle](https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN) | 2:22 |
 | 75 | [Waltz \#1](https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
-| 76 | [Among the Leaves](https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Among the Leaves](https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv) | 3:31 |
+| 76 | [Do What You Have to Do](https://open.spotify.com/track/39IGBhszdamLErnDoOlovS) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 3:46 |
 | 77 | [All I Do](https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:36 |
-| 78 | [Do What You Have to Do](https://open.spotify.com/track/39IGBhszdamLErnDoOlovS) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 3:46 |
+| 78 | [Among the Leaves](https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Among the Leaves](https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv) | 3:31 |
 | 79 | [Bring It Back to Me](https://open.spotify.com/track/3jyF9eNYpI3vxJWHzcZPIv) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [Take Out Of Me EP](https://open.spotify.com/album/0c5kUADkXAnNiVeaRtTTty) | 2:27 |
 | 80 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
 | 81 | [My Mistake \- Piano Version](https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [My Mistake \(Piano Version\)](https://open.spotify.com/album/08igQqnY2HwbN9rCgu81Ij) | 4:52 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 93 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 94 | [Heart In My Hands](https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Giants](https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI) | 3:39 |
 | 95 | [The Pieces Don't Fit Anymore](https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 4:15 |
-| 96 | [One Last Wedding](https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No) | [One Last Wedding](https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF) | 3:42 |
-| 97 | [Fireworks \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 4:37 |
+| 96 | [Fireworks \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 4:37 |
+| 97 | [One Last Wedding](https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No) | [One Last Wedding](https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF) | 3:42 |
 | 98 | [She Went Quietly](https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Running Still](https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U) | 3:59 |
 | 99 | [Basket Case](https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 4:11 |
 | 100 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 |
 
-Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDQ1ODJlODk3NzBkNGFjNjMzYzUyYzU4MGZhNjljZjNk`
+Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDNjNDMwYzBiNzE5ODliYmVlYjkxYTgyOWQ1NDdlMjQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 
 > Son los 90 y prendes la radio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,481 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,480 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 | 16 | [Lemon Tree](https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish Of The Day](https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH) | 3:11 |
 | 17 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 | 18 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 |
-| 19 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
-| 20 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
+| 19 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
+| 20 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 21 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 22 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 23 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 | 26 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 27 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 28 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
-| 29 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
-| 30 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 |
+| 29 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 |
+| 30 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 31 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
 | 32 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 33 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 | 79 | [Será Que No Me Amas \(Blame It on the Boogie\)](https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:09 |
 | 80 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 |
 
-Snapshot ID: `MTY0MDU0ODQzNCwwMDAwMDAwMDMyNzkyMTI2ZDVjZDAyZDk0NjBiZDAwZThlYzNjOGQ0`
+Snapshot ID: `MTY0MDU0ODQzNCwwMDAwMDAwMGFjMWIyYzQ1OWQ1ZTllYjhiNjE5NWRhOWNjYjMwZDVm`

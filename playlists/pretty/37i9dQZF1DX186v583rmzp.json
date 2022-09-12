@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 6968017,
+  "num_followers": 6970494,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjA0MywwMDAwMDAwMDRkNmU4NTRkOTZiY2U3MTg5ZmI4MGQ4ZWNiOWY5MTkz",
+  "snapshot_id": "MTY2MjY1MjA0MywwMDAwMDAwMDE0ZjYyNmFjZTFiNWQzNTIxYzMyMTEyMGM4ZTcxMDA3",
   "tracks": [
     {
       "added_at": "2022-09-08 15:47:23",
@@ -759,6 +759,26 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
         "name": "No Way Out (2014 Remaster)",
         "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 306560,
       "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
-        "name": "Blackout!",
-        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 136093,
-      "name": "Da Rockwilder",
-      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Terrorist Threats",
-        "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
-      },
-      "artists": [
-        {
-          "name": "Westside Connection",
-          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "Gangsta Nation",
-      "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "Terrorist Threats",
+        "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "Gangsta Nation",
+      "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Guilty Conscience",
-      "url": "https://open.spotify.com/track/6da04YB906XonC6IQNC44u"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/6da04YB906XonC6IQNC44u"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Simon Says",
-        "url": "https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5"
-      },
-      "artists": [
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 173159,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "The Low End Theory",
         "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 216693,
       "name": "Check the Rhime",
       "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 173159,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "N 2 Gether Now",
-      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "N 2 Gether Now",
+      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
     },
     {
       "added_at": "2022-09-08 15:47:23",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 224285,
+  "num_followers": 224564,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMGYzYjcxNjAzNmUzNmMwMDBlZTQ2MzIwNTIzMTlhZjlm",
+  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMDdiMTg0MjhiM2E0MGEwYTAzNjNhNmUwMzA5NmQ5OGM4",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Sings His Favorites",
-        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 155080,
-      "name": "Put Your Head on My Shoulder",
-      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Sings His Favorites",
+        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Put Your Head on My Shoulder",
+      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 190773,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Genius Of Ray Charles",
         "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 222733,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 145133,
+      "name": "Mr. Blue",
+      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 161373,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 145133,
-      "name": "Mr. Blue",
-      "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ricky Nelson (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 153933,
-      "name": "Poor Little Fool - Remastered",
-      "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
+      "duration_ms": 150893,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+        "name": "Ricky Nelson (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 150893,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+      "duration_ms": 153933,
+      "name": "Poor Little Fool - Remastered",
+      "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
     },
     {
       "added_at": "2022-05-30 12:59:00",

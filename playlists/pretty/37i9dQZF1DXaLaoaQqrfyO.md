@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,977 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,060 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 81 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
 | 82 | [Inside Out](https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 5:01 |
 | 83 | [Cardiac Arrest](https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A) | 3:02 |
-| 84 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
+| 84 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 |
 | 85 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
-| 86 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 |
+| 86 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 87 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [2.0](https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH) | 4:40 |
 | 88 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
 | 89 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 95 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
 | 96 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 |
 | 97 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
-| 98 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 |
-| 99 | [Unbelievers](https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:22 |
+| 98 | [Unbelievers](https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:22 |
+| 99 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 |
 | 100 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 
-Snapshot ID: `MTY1OTA0NDgyNywwMDAwMDAwMDdhMWRiZWIzN2U0YzFlNGUxOTQzYmJiMTJiNTkwOGFk`
+Snapshot ID: `MTY1OTA0NDgyNywwMDAwMDAwMDE0ZGUyYjVjYjY3YTFjYTg0NzFmMmE4ZGYyZTE4MDUz`

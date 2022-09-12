@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Noel Kharman",
-  "num_followers": 15867,
+  "num_followers": 15903,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyMDA1MywwMDAwMDAwMDVjMDE5NmQ5OTMwNWM1MWNhYWJjMDQ1Y2FmNzE2NmQ4",
+  "snapshot_id": "MTY2MjYyMDA1MywwMDAwMDAwMDFkZWY0OGI4ZDEzMGI1ODg3OWI2ZGEyY2RjMzgwM2Y2",
   "tracks": [
     {
       "added_at": "2022-09-08 06:54:13",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-08 06:54:13",
       "album": {
-        "name": "Yom Min el Ayyam",
-        "url": "https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9"
-      },
-      "artists": [
-        {
-          "name": "Zainab Hassan",
-          "url": "https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Yom Min el Ayyam",
-      "url": "https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b"
-    },
-    {
-      "added_at": "2022-09-08 06:54:13",
-      "album": {
         "name": "Keef Bensa",
         "url": "https://open.spotify.com/album/3hFV4MTmLw5Np8xwGLgqx4"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 178285,
       "name": "Keef Bensa",
       "url": "https://open.spotify.com/track/0uwOOnge02dhkX4kPl7Kkk"
+    },
+    {
+      "added_at": "2022-09-08 06:54:13",
+      "album": {
+        "name": "Yom Min el Ayyam",
+        "url": "https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9"
+      },
+      "artists": [
+        {
+          "name": "Zainab Hassan",
+          "url": "https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Yom Min el Ayyam",
+      "url": "https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b"
     },
     {
       "added_at": "2022-09-08 06:54:13",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-09-08 06:54:13",
       "album": {
+        "name": "Helo Moodak",
+        "url": "https://open.spotify.com/album/3aZtYcXeg46YuOUFSmBT0h"
+      },
+      "artists": [
+        {
+          "name": "Bsmalla",
+          "url": "https://open.spotify.com/artist/15GZ42GmfWZOctYdJf6UYY"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Helo Moodak",
+      "url": "https://open.spotify.com/track/5qUWv52tFjCXXBrqxju8Tt"
+    },
+    {
+      "added_at": "2022-09-08 06:54:13",
+      "album": {
         "name": "Atoul",
         "url": "https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX"
       },
@@ -571,34 +587,18 @@
     {
       "added_at": "2022-09-08 06:54:13",
       "album": {
-        "name": "Helo Moodak",
-        "url": "https://open.spotify.com/album/3aZtYcXeg46YuOUFSmBT0h"
+        "name": "Hnaya",
+        "url": "https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U"
       },
       "artists": [
         {
-          "name": "Bsmalla",
-          "url": "https://open.spotify.com/artist/15GZ42GmfWZOctYdJf6UYY"
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
         }
       ],
-      "duration_ms": 197666,
-      "name": "Helo Moodak",
-      "url": "https://open.spotify.com/track/5qUWv52tFjCXXBrqxju8Tt"
-    },
-    {
-      "added_at": "2022-09-08 06:54:13",
-      "album": {
-        "name": "\u0632\u062f\u0646\u064a",
-        "url": "https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK"
-      },
-      "artists": [
-        {
-          "name": "Walaa Jundi",
-          "url": "https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5"
-        }
-      ],
-      "duration_ms": 321428,
-      "name": "\u0632\u062f\u0646\u064a",
-      "url": "https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5"
+      "duration_ms": 188826,
+      "name": "Hnaya",
+      "url": "https://open.spotify.com/track/37fxraGklh1llULoyhcFCz"
     },
     {
       "added_at": "2022-09-08 06:54:13",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-09-08 06:54:13",
       "album": {
-        "name": "Hnaya",
-        "url": "https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U"
+        "name": "\u0632\u062f\u0646\u064a",
+        "url": "https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK"
       },
       "artists": [
         {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+          "name": "Walaa Jundi",
+          "url": "https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5"
         }
       ],
-      "duration_ms": 188826,
-      "name": "Hnaya",
-      "url": "https://open.spotify.com/track/37fxraGklh1llULoyhcFCz"
+      "duration_ms": 321428,
+      "name": "\u0632\u062f\u0646\u064a",
+      "url": "https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5"
     },
     {
       "added_at": "2022-09-08 06:54:13",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-09-08 06:54:13",
       "album": {
-        "name": "Mishtaq",
-        "url": "https://open.spotify.com/album/4goCWF3XFvbLmjHExq4adp"
+        "name": "Eh Aadi",
+        "url": "https://open.spotify.com/album/7k2QlgdalWVBEYWfgZv5tf"
       },
       "artists": [
         {
-          "name": "Rawan Bin Hussain",
-          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
+          "name": "Lama Shreif",
+          "url": "https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ"
         }
       ],
-      "duration_ms": 120731,
-      "name": "Mishtaq",
-      "url": "https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD"
+      "duration_ms": 132604,
+      "name": "Eh Aadi",
+      "url": "https://open.spotify.com/track/62Imq6fPJkweUSZsA7wiVc"
     },
     {
       "added_at": "2022-09-08 06:54:13",
@@ -747,18 +747,34 @@
     {
       "added_at": "2022-09-08 06:54:13",
       "album": {
-        "name": "Eh Aadi",
-        "url": "https://open.spotify.com/album/7k2QlgdalWVBEYWfgZv5tf"
+        "name": "Mishtaq",
+        "url": "https://open.spotify.com/album/4goCWF3XFvbLmjHExq4adp"
       },
       "artists": [
         {
-          "name": "Lama Shreif",
-          "url": "https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ"
+          "name": "Rawan Bin Hussain",
+          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
         }
       ],
-      "duration_ms": 132604,
-      "name": "Eh Aadi",
-      "url": "https://open.spotify.com/track/62Imq6fPJkweUSZsA7wiVc"
+      "duration_ms": 120731,
+      "name": "Mishtaq",
+      "url": "https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD"
+    },
+    {
+      "added_at": "2022-09-08 06:54:13",
+      "album": {
+        "name": "Sowarna",
+        "url": "https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn"
+      },
+      "artists": [
+        {
+          "name": "Al Anean",
+          "url": "https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3"
+        }
+      ],
+      "duration_ms": 214177,
+      "name": "Sowarna",
+      "url": "https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v"
     },
     {
       "added_at": "2022-09-08 06:54:13",
@@ -779,22 +795,6 @@
       "duration_ms": 212531,
       "name": "Haja Ma Doum",
       "url": "https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l"
-    },
-    {
-      "added_at": "2022-09-08 06:54:13",
-      "album": {
-        "name": "Sowarna",
-        "url": "https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn"
-      },
-      "artists": [
-        {
-          "name": "Al Anean",
-          "url": "https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3"
-        }
-      ],
-      "duration_ms": 214177,
-      "name": "Sowarna",
-      "url": "https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v"
     },
     {
       "added_at": "2022-09-08 06:54:13",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-08 06:54:13",
       "album": {
-        "name": "Bizarre",
-        "url": "https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n"
-      },
-      "artists": [
-        {
-          "name": "Khtek",
-          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb"
-    },
-    {
-      "added_at": "2022-09-08 06:54:13",
-      "album": {
         "name": "WUSUL",
         "url": "https://open.spotify.com/album/1ZY40CYuKiMm3eTNJUojVb"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 166666,
       "name": "WUSUL",
       "url": "https://open.spotify.com/track/4xxtcmaAHdHfnH6EJ0uTuj"
+    },
+    {
+      "added_at": "2022-09-08 06:54:13",
+      "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n"
+      },
+      "artists": [
+        {
+          "name": "Khtek",
+          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb"
     }
   ],
   "unique_name": "EQUAL Arabia ",

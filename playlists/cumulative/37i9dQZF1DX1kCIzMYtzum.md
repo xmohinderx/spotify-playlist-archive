@@ -4,7 +4,7 @@
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-287 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
+288 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [42](https://open.spotify.com/track/7BPTtDK064b41v0LiopTnC) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Say It Like You Feel It](https://open.spotify.com/album/5nM1hSGJ8RcZxeWoDa1Uq1) | 2:48 | 2021-06-02 | 2022-07-20 |
 | [Afterglow](https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Jared Lee](https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b) | [Afterglow](https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv) | 3:41 | 2022-01-14 | 2022-07-24 |
 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 | 2022-08-12 |  |
-| [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 |  |
+| [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
+| [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 |  |
 | [Another Chance](https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Another Chance](https://open.spotify.com/album/2duIDdyqxZxcvJkhoGi8Bp) | 4:14 | 2022-03-18 | 2022-04-14 |
 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 | 2021-06-02 | 2022-01-23 |
 | [Anything For You](https://open.spotify.com/track/46STEIXOIt9YloaoN3NKgr) | [James Stikå](https://open.spotify.com/artist/1cktEjwmtAVqn8tJj5fQcT), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Anything For You](https://open.spotify.com/album/5exiKanjOzdX2cEZna22Lz) | 2:43 | 2022-04-22 | 2022-06-08 |

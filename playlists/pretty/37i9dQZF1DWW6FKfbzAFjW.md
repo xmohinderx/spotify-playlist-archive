@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,007 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,004 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 21 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
 | 22 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
 | 23 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
-| 24 | [Jefe De Jefes](https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia Musical 20 Corridos Inolvidables](https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT) | 3:33 |
-| 25 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
+| 24 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
+| 25 | [Jefe De Jefes](https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia Musical 20 Corridos Inolvidables](https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT) | 3:33 |
 | 26 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 |
 | 27 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/0ZxFFIJg3TzEoVcuj08rA2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/4toVgPcbyFxBrTqh7irjEZ) | 2:24 |
 | 28 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 43 | [Cumbia](https://open.spotify.com/track/5vTz4MfoIbG6msHcs91HUS) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Soy Sauce](https://open.spotify.com/album/5m18d3byC5l3bjGOfvCv8r) | 2:16 |
 | 44 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 |
 
-Snapshot ID: `MTY1MTUxMjM4OCwwMDAwMDAwMGJiY2M2OTcwYzA0Y2MwYzk4OWI4MDZlMDRkMWVkYjEw`
+Snapshot ID: `MTY1MTUxMjM4OCwwMDAwMDAwMGYyYjFjZmIwYTQyNWNhMDhmMzEwYjgyMDExNWIxOTQ0`

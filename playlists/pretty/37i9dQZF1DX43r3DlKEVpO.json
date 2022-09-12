@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59260,
+  "num_followers": 59279,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGJkZTVmOGUwMTFjN2M2MjAyMjI0NzM4NGIzZGE1YzEw",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDU4NGQ0M2M3NjM0NGI4YjU2MTg5NmU1MWYzMjFlZTJl",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "It's Now or Never",
-      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 217960,
       "name": "Mist\u00e9rio do Planeta",
       "url": "https://open.spotify.com/track/3TAMiM8XFmU9vFd333pgRh"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "It's Now or Never",
+      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -999,6 +999,38 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Toda Menina Baiana",
+      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
         "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
@@ -1011,6 +1043,22 @@
       "duration_ms": 196706,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1035,38 +1083,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Toda Menina Baiana",
-      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Yellow Submarine Songtrack",
         "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 226666,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
-        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
-      },
-      "artists": [
-        {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "O Xote das Meninas",
-      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 212866,
       "name": "You're The First, The Last, My Everything",
       "url": "https://open.spotify.com/track/6kOjNVGh1Gapc7224d20Ym"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
+        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
+      },
+      "artists": [
+        {
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "O Xote das Meninas",
+      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "P\u00e1ssaro Proibido",
+        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Olhos Nos Olhos",
+      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 212933,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "P\u00e1ssaro Proibido",
-        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Olhos Nos Olhos",
-      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Lola vs. Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)",
-        "url": "https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "This Time Tomorrow (Stereo) - 2014 Remastered Version",
-      "url": "https://open.spotify.com/track/1hlfAVmWBxdpUp4PK658rR"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Retratos",
         "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 201360,
       "name": "S\u00e1 Marina",
       "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "O Que Fa\u00e7o \u00c9 Musica",
         "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
       },
@@ -1575,6 +1559,26 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Elis Regina",
+        "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Tiro Ao \u00c1lvaro",
+      "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Bicho",
         "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
       },
@@ -1603,26 +1607,6 @@
       "duration_ms": 198173,
       "name": "Nao Identificado",
       "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Elis Regina",
-        "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Tiro Ao \u00c1lvaro",
-      "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1683,6 +1667,22 @@
       "duration_ms": 251546,
       "name": "Negro Gato",
       "url": "https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "'G\u00eet\u00e2'",
+        "url": "https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U"
+      },
+      "artists": [
+        {
+          "name": "Raul Seixas",
+          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Gita",
+      "url": "https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK"
     }
   ],
   "unique_name": "Pais e Filhos",

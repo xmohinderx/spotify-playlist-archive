@@ -1,12 +1,12 @@
 {
   "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Tsatsamis",
-  "num_followers": 811386,
+  "num_followers": 811415,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc1MjAyOCwwMDAwMDAwMDA3ZWU1ZmQ1M2E0NDAwZWE4NWJjNDRlM2NmNDc3YWVl",
+  "snapshot_id": "MTY2Mjc1MjAyOCwwMDAwMDAwMGRkNDM4Mjg5MTgzOTE3ODFlYmExNDlhYzA3MmY4NTAx",
   "tracks": [
     {
       "added_at": "2022-09-09 19:33:47",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
-      },
-      "artists": [
-        {
-          "name": "Noah Davis",
-          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 250213,
       "name": "The Curse of the Blackened Eye",
       "url": "https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
+      },
+      "artists": [
+        {
+          "name": "Noah Davis",
+          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "In My Drinks",
-        "url": "https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u"
-      },
-      "artists": [
-        {
-          "name": "Lily Rose",
-          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
-        }
-      ],
-      "duration_ms": 203605,
-      "name": "In My Drinks",
-      "url": "https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "In My Drinks",
+        "url": "https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "duration_ms": 203605,
+      "name": "In My Drinks",
+      "url": "https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL"
     },
     {
       "added_at": "2022-09-09 19:33:47",

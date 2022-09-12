@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > Musica che, come la primavera, rende tutto più bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,646 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,645 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 32 | [Up&Up](https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 6:45 |
 | 33 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 |
 | 34 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
-| 35 | [Somebody To You](https://open.spotify.com/track/2BWWsCwuHAZFE1scLyP6Qe) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Meet The Vamps](https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P) | 3:02 |
-| 36 | [La Da Dee](https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:16 |
+| 35 | [La Da Dee](https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:16 |
+| 36 | [Somebody To You](https://open.spotify.com/track/2BWWsCwuHAZFE1scLyP6Qe) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Meet The Vamps](https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P) | 3:02 |
 | 37 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
 | 38 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
 | 39 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 92 | [Wild Roses](https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 4:02 |
 | 93 | [The Wrote & The Writ](https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [A Larum](https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih) | 4:07 |
 | 94 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
-| 95 | [Find Someone](https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:08 |
-| 96 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 |
+| 95 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 |
+| 96 | [Find Someone](https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:08 |
 | 97 | [Side By Side](https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:13 |
 | 98 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
 | 99 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:17 |
 | 100 | [Wild Stare](https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:14 |
 
-Snapshot ID: `MTYyNDYwNjgwMywwMDAwMDAwMDIyMGYyNjkwOGRiZDJjNmM1MzMyMjZjMTFlNzFjYmI0`
+Snapshot ID: `MTYyNDYwNjgwMywwMDAwMDAwMGNkYjcwMGJkYmUyMjU2NTkwOTQzNTJhMzU3MDkxMmM3`

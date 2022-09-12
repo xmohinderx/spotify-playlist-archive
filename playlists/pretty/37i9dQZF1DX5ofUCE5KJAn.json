@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. \u00bfLo va a querer rojo o blanco?",
-  "num_followers": 120661,
+  "num_followers": 121650,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MzE5MSwwMDAwMDAwMDk5MDRkYzYzNGViNWIyYzc0ZjczN2Q2ZTJhODVjOWJh",
+  "snapshot_id": "MTY2MTk3MzE5MSwwMDAwMDAwMGVmZGRhMzJmNDkxNzk3NjU3NmYwYjQ0ZTE1MjE5N2Rj",
   "tracks": [
     {
       "added_at": "2022-08-31 19:13:11",
@@ -135,8 +135,8 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -171,8 +171,8 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "No Es Por Ac\u00e1",
-        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
-    },
-    {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
         "name": "Nunca Dudes En Llamarme",
         "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 204160,
       "name": "Nunca Dudes En Llamarme",
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
-    },
-    {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -987,22 +987,18 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Sabor a M\u00ed",
-      "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+      "duration_ms": 168400,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
-    },
-    {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
         "name": "Ya",
         "url": "https://open.spotify.com/album/4hY3LMulxgI6LeUXIoNnnN"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 171813,
       "name": "Ya",
       "url": "https://open.spotify.com/track/0oMiAVGA9MpwFYnSrr20Uk"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "El Cuatrero",
-        "url": "https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 189720,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm"
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
+        "name": "El Cuatrero",
+        "url": "https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
+      "duration_ms": 189720,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm"
     },
     {
       "added_at": "2022-08-31 19:13:11",

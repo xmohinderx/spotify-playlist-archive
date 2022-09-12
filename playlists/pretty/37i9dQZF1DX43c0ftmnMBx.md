@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,958 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,041 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 46 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 |
 | 47 | [Fecha de Vencimiento](https://open.spotify.com/track/06YEsAMgIA37hKjmdBhmrE) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:32 |
 | 48 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
-| 49 | [Morir Solo](https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Morir Solo](https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb) | 4:02 |
-| 50 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
+| 49 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
+| 50 | [Morir Solo](https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Morir Solo](https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb) | 4:02 |
 | 51 | [Hoja En Blanco](https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 5:08 |
 | 52 | [Siento Que Te Quiero](https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Mi Liberé](https://open.spotify.com/album/2XcWwRaYyfOfyLqo3gGcu4) | 5:01 |
 | 53 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 82 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
 | 83 | [Como Serás Tu](https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 3:50 |
 | 84 | [Traicionera](https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Frente A Frente : Dos Estrellas en Uno \(Luis Segura Vs\. Raulin Rodriguez\)](https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4) | 3:39 |
-| 85 | [Busca un Confidente](https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 3:55 |
-| 86 | [Muchachita Loca](https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A) | [Orquesta Picante](https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18) | [Bachata](https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA) | 4:01 |
+| 85 | [Muchachita Loca](https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A) | [Orquesta Picante](https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18) | [Bachata](https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA) | 4:01 |
+| 86 | [Busca un Confidente](https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 3:55 |
 | 87 | [Perdoname](https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:35 |
 | 88 | [A Quien Le Importa \(Versión Bachata\)](https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Ironia](https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB) | 4:05 |
 | 89 | [Aventura](https://open.spotify.com/track/3VvYX8EBy0MkoCTDTT0VwX) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Payasos](https://open.spotify.com/track/1soECbw2IFdWt5W8Rb4uG7) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:23 |
 | 100 | [La Demanda](https://open.spotify.com/track/3zVibdZHsVH05p5Crux6xX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:54 |
 
-Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMGZhYjg0Njc4ZmIwNjU2YzJiMzAyZDQyZjRjNDgyODY5`
+Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMDdlNjliMzg1Y2ZjNjYxOGIzZDYzOWQ1Yjg2YjZiMDdh`

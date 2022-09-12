@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-316 songs - 16 hr 31 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
+317 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 | 2021-09-02 |  |
 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 | 2021-09-02 |  |
 | [Uproar](https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:14 | 2021-09-02 | 2022-06-25 |
-| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-07-29 |  |
+| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-07-29 | 2022-09-12 |
+| [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 | 2022-09-02 |  |
 | [Virgil Drip](https://open.spotify.com/track/7D2gGDDnkM51f3IzZpbPFZ) | [Fortafy](https://open.spotify.com/artist/6ArTnRRlbEZrMwf24yBxux), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [Virgil Drip](https://open.spotify.com/album/3AXfqrBaLSUotF76Dwimfx) | 3:07 | 2021-09-02 | 2022-06-25 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-06-24 |  |
 | [WAITRESS](https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WAITRESS](https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ) | 2:12 | 2022-08-19 |  |

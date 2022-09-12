@@ -2350,6 +2350,32 @@
     },
     {
       "album": {
+        "name": "Night Service",
+        "url": "https://open.spotify.com/album/0gfQl3EBjY8R336VGRBPOB"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "Heemo*",
+          "url": "https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Night Service",
+      "url": "https://open.spotify.com/track/1Bcuzu8dWi5hukdn4Vpv8d"
+    },
+    {
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3"
       },
@@ -3197,7 +3223,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 129529,
       "name": "Springtime Secret",
       "url": "https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma"

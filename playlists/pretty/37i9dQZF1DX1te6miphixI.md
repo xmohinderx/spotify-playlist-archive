@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 
 > Grandes temas del rock de ayer y de hoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,518 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,587 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 | 18 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 19 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
 | 20 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
-| 21 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 22 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 21 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 22 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 23 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 24 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |
 | 25 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1te6miphixI.md) - [plain]
 | 45 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 |
 | 46 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 |
 | 47 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 |
-| 48 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
-| 49 | [Shoot to Thrill](https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:17 |
+| 48 | [Shoot to Thrill](https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:17 |
+| 49 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
 | 50 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 
-Snapshot ID: `MTY1Njk4MjczNSwwMDAwMDAwMGJkMTNjNGU4MGY2YmVmZjczZjM4OGZkYWRmZThlYWFk`
+Snapshot ID: `MTY1Njk4MjczNSwwMDAwMDAwMGIyNTM2YjlmNTQyMmI2ZTdmYTkzYjY2ZTZiYTdjNjNh`

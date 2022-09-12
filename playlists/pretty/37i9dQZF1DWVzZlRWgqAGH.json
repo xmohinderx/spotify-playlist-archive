@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: bLAck pARty",
-  "num_followers": 738376,
+  "num_followers": 738654,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGM0YTFiYTAwNGU1NGMxM2IyZjVlYmYzZWJhNzI4NzFi",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDc0ZDgwNjMxMmU1YWIxNGViNjNkOWJiMGJlZmQ5YTk3",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 176940,
+      "name": "SUNRISE",
+      "url": "https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "MEMO",
         "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 268151,
       "name": "SOHO HOUSE (feat. Hello O'shay)",
       "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 176940,
-      "name": "SUNRISE",
-      "url": "https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Now, You Know",
         "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 183453,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1011,6 +1011,22 @@
       "duration_ms": 215648,
       "name": "Gold Plated",
       "url": "https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "raw",
+        "url": "https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1039,18 +1055,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "raw",
-        "url": "https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC"
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN"
       },
       "artists": [
         {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
         }
       ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
+      "duration_ms": 188200,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1075,22 +1095,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN"
+        "name": "Red To Violet (Feat. Jamila Woods)",
+        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
       },
       "artists": [
         {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         },
         {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
+      "duration_ms": 202746,
+      "name": "Red To Violet - Feat. Jamila Woods",
+      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1127,26 +1147,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Red To Violet (Feat. Jamila Woods)",
-        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Red To Violet - Feat. Jamila Woods",
-      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
         "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 262727,
       "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "X-Rated (feat. Benny The Butcher)",
         "url": "https://open.spotify.com/album/0YwprYa1UzKLlS3J2nlcPF"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 231529,
       "name": "X-Rated (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/4XbTG98iWToBSfPrnd1sYB"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Doubt Nothing",
+        "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Doubt Nothing",
+      "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Grey Doubt",
         "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 204005,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Doubt Nothing",
-        "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Doubt Nothing",
-      "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1823,18 +1823,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Tape 3",
-        "url": "https://open.spotify.com/album/2LhtNwawbvaB8CTvnRcprx"
+        "name": "Feeling Like I Like",
+        "url": "https://open.spotify.com/album/22zHbQzq7XTaOPyVPkFalt"
       },
       "artists": [
         {
-          "name": "Felbm",
-          "url": "https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7"
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Liliana Andrade",
+          "url": "https://open.spotify.com/artist/0Fxf7Axf1iNSZHj6O1LcO3"
         }
       ],
-      "duration_ms": 158169,
-      "name": "Filatelie",
-      "url": "https://open.spotify.com/track/5hJt4v9AY8zxxETgtMorIl"
+      "duration_ms": 258184,
+      "name": "Feeling Like I Like",
+      "url": "https://open.spotify.com/track/6cZma1epLKNhXnjiras7GG"
     }
   ],
   "unique_name": "BUTTER",

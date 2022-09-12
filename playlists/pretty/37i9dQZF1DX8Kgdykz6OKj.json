@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1006309,
+  "num_followers": 1006607,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyODk1MCwwMDAwMDAwMDc5ZmNjNjY3Zjg4OWU5NGE2ZGIxNDQ0NDkzYmNlYmUx",
+  "snapshot_id": "MTY2MTUyODk1MCwwMDAwMDAwMGUzYmU1ODkxYzAyOTE2OTQ2MDgwMzg0Y2EwODc3MDNk",
   "tracks": [
     {
       "added_at": "2022-08-26 15:49:09",
@@ -179,18 +179,22 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Donny In Valdez (PJ's Flip)",
+        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+      "duration_ms": 113747,
+      "name": "Donny In Valdez - PJ's Flip",
+      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -215,22 +219,18 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Donny In Valdez (PJ's Flip)",
-        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 113747,
-      "name": "Donny In Valdez - PJ's Flip",
-      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
         "name": "Chicken Wings (Remix)",
         "url": "https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 220400,
       "name": "A Little Of This",
       "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -771,30 +771,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Sleep Is the Cousin of Death",
-        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Dephlow",
-          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 154837,
-      "name": "Street Jazz",
-      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 237733,
       "name": "Feel The Music",
       "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Sleep Is the Cousin of Death",
+        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Dephlow",
+          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 154837,
+      "name": "Street Jazz",
+      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -855,34 +855,30 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
+        "name": "Children Of The Internet (Remixes)",
+        "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
         },
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Majical",
-          "url": "https://open.spotify.com/artist/6G1msbNwej8ibSdhWTFY6w"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+          "name": "Es Devlin",
+          "url": "https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut"
         }
       ],
-      "duration_ms": 251068,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/4KoYmiDvEfNN4j1ILCxanS"
+      "duration_ms": 353346,
+      "name": "Children Of The Internet - Ezra Collective Remix",
+      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -911,30 +907,34 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Children Of The Internet (Remixes)",
-        "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
       "artists": [
         {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
         },
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
         },
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Majical",
+          "url": "https://open.spotify.com/artist/6G1msbNwej8ibSdhWTFY6w"
         },
         {
-          "name": "Es Devlin",
-          "url": "https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut"
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
         }
       ],
-      "duration_ms": 353346,
-      "name": "Children Of The Internet - Ezra Collective Remix",
-      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+      "duration_ms": 251068,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4KoYmiDvEfNN4j1ILCxanS"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Hip-Hop Golden Age, Vol. 7 (The Greatest Songs Of The 90's)",
-        "url": "https://open.spotify.com/album/2oPqwIxdndHglrvfUytp5J"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 254928,
-      "name": "Breakadawn",
-      "url": "https://open.spotify.com/track/3vYxoh9Y7L5Tdr0mhaAaUu"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "The Return (Deluxe Edition)",
         "url": "https://open.spotify.com/album/00z50uIcE2E3V7i1LLwOcv"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/5wFSWUVoztfAzENetY2FNZ"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Hip-Hop Golden Age, Vol. 7 (The Greatest Songs Of The 90's)",
+        "url": "https://open.spotify.com/album/2oPqwIxdndHglrvfUytp5J"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 254928,
+      "name": "Breakadawn",
+      "url": "https://open.spotify.com/track/3vYxoh9Y7L5Tdr0mhaAaUu"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/5K0zEGFA2BGON7NJnrGt4h"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/02mReMjkI09dujKaP2zjqe"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "Chapter 7",
         "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/5K0zEGFA2BGON7NJnrGt4h"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/02mReMjkI09dujKaP2zjqe"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
-      },
-      "artists": [
-        {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
+      },
+      "artists": [
+        {
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
         "name": "City All Stars (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1OBLIhYknohZpGq5KD6J3N"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 243711,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "Fonografie",
         "url": "https://open.spotify.com/album/0RnwCZYkpbdVnodYGVYY7T"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 180026,
       "name": "Keep It Stepping",
       "url": "https://open.spotify.com/track/1HUkSWIqc5tbjTjhgaTfem"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2022-08-26 15:49:09",

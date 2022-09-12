@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,957 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,007 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 22 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
 | 23 | [Slip\-In Mules](https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 2:47 |
 | 24 | [She's Crazy](https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT) | [JT Coldfire](https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j) | [Crazy Sun](https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE) | 5:23 |
-| 25 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
-| 26 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
+| 25 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
+| 26 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
 | 27 | [Loving You Is Sweeter Than Ever](https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 3:57 |
 | 28 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 |
 | 29 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 49 | [Singing the Blues](https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Promise of a Brand New Day](https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q) | 3:45 |
 | 50 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
 
-Snapshot ID: `MTY2MjU1NjEzMiwwMDAwMDAwMDYxYjk4OTI0MDc2M2IxZGZmNGM3Y2E5MDRjZTM4ODRm`
+Snapshot ID: `MTY2MjU1NjEzMiwwMDAwMDAwMGMzODllOTVjYTc3N2E0MjhiODdjZDI5MDA5ZDEyYTc0`

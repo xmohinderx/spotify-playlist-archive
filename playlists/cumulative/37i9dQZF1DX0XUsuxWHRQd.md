@@ -4,7 +4,7 @@
 
 > New music from Lil Baby, Gucci Mane and Yeat.
 
-1,345 songs - 2 day 21 hr 17 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,346 songs - 2 day 21 hr 20 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1240,7 +1240,8 @@
 | [VACATION](https://open.spotify.com/track/6q2uIyLqASSpv2SIv2ehWK) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [VACATION](https://open.spotify.com/album/42XA3CG4dOtlaVKq5ZRNRh) | 3:12 | 2020-06-19 | 2020-06-29 |
 | [VALENTINO](https://open.spotify.com/track/0c7K73roy6RW4ebDkf4yGh) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [VALENTINO](https://open.spotify.com/album/2iPZkrN305Ow3wO0LL90Cg) | 2:59 | 2019-09-27 | 2020-01-10 |
 | [Value](https://open.spotify.com/track/7im3jaJBEYivH5JKXMh1Yy) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Value](https://open.spotify.com/album/5k4FGcPa9XZN2IqSPBYICI) | 2:47 | 2020-01-31 | 2020-03-02 |
-| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-07-01 |  |
+| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-07-01 | 2022-09-12 |
+| [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 | 2022-09-09 |  |
 | [VIBEZ](https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:24 | 2019-09-27 | 2020-01-31 |
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-01-28 | 2022-02-12 |
 | [Viral Moment](https://open.spotify.com/track/2vuIvaMhGOFI6f1G1sTMye) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Viral Moment](https://open.spotify.com/album/111wy5iF0AxDYV7gU4BlLr) | 3:12 | 2020-05-01 | 2020-05-15 |

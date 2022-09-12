@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 461068,
+  "num_followers": 461478,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGRjNWM4Yzc2NTM2ODI5N2I2ZjUyMmZkMDkzZWJkMmFk",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDI0YjI4ZTlkN2U4ZjBiOTUyMWZhOTM3NTgyYmIxMmEy",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "All 4 Nothing",
-        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
       },
       "artists": [
         {
@@ -1052,9 +1052,25 @@
           "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 140316,
-      "name": "Stay Together",
-      "url": "https://open.spotify.com/track/6Vv8kZbiRdSbybIukXjvWF"
+      "duration_ms": 203520,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/1DVWkJEjgVStgU2EbR9vpz"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 216463,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 202280,
       "name": "This Town (feat. Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/4aSfgWmRa9KsISD4Jmx7QB"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Cyclone",
-        "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 216463,
-      "name": "Cyclone",
-      "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "You Signed Up For This",
-        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
       },
@@ -1195,8 +1179,24 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
+        "name": "You Signed Up For This",
+        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/1DVWkJEjgVStgU2EbR9vpz"
+      "duration_ms": 140316,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/6Vv8kZbiRdSbybIukXjvWF"
     },
     {
       "added_at": "2022-09-09 04:00:00",

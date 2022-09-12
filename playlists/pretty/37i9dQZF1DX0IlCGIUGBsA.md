@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 
 > Get the party going with these classics from across the decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,254 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,307 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 19 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 20 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
 | 21 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
-| 22 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
-| 23 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 22 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 23 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
 | 24 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 |
 | 25 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 26 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 57 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 58 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 |
 | 59 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
-| 60 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
-| 61 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
+| 60 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 |
+| 61 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 62 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 63 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 64 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 79 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
 | 80 | [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
 
-Snapshot ID: `MTY0MjUwODc3OCwwMDAwMDAwMDE3ZDlmNWQ0NzVkNmZjYTZkYzgxYmY2NjhiMTlkMjE5`
+Snapshot ID: `MTY0MjUwODc3OCwwMDAwMDAwMDQ3YjJmNjgxODc3Njg1N2FjZmRlYzQ1NjJlOTFkYWE4`

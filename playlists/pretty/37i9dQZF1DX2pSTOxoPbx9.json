@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 662779,
+  "num_followers": 663051,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMDE0YTYzZjExZjE4NzQzOWQ1OGJkMDJlYmFmNGI1OTY3",
+  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMGEzYWRhNDM5N2QwMGVhZDBiZjY4YmYzN2M3MTY4NTY3",
   "tracks": [
     {
       "added_at": "2022-07-11 21:24:30",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 219226,
-      "name": "9 Crimes",
-      "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
+      "duration_ms": 249739,
+      "name": "Beggin For Thread",
+      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+        "name": "9",
+        "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 249739,
-      "name": "Beggin For Thread",
-      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
+      "duration_ms": 219226,
+      "name": "9 Crimes",
+      "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Turn Out the Lights",
-        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Appointments",
-      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Run, Lucifer",
         "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176167,
       "name": "Beautiful Hell",
       "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Turn Out the Lights",
+        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 273466,
+      "name": "Appointments",
+      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Crush (Stripped)",
-        "url": "https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Crush - Stripped",
-      "url": "https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Take Me to Church EP",
         "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 218986,
       "name": "Angel of Small Death and the Codeine Scene",
       "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Crush (Stripped)",
+        "url": "https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Crush - Stripped",
+      "url": "https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Aetherlight",
-        "url": "https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc"
-      },
-      "artists": [
-        {
-          "name": "Mt. Wolf",
-          "url": "https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Bohemia",
-      "url": "https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Into the Glass - EP",
         "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 203360,
       "name": "Beautiful Undone",
       "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Aetherlight",
+        "url": "https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc"
+      },
+      "artists": [
+        {
+          "name": "Mt. Wolf",
+          "url": "https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Bohemia",
+      "url": "https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Metals",
         "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 204626,
       "name": "How Come You Never Go There",
       "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
+        "name": "Coming of Age (demo)",
+        "url": "https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 198313,
-      "name": "Ain't No Grave (Sparse)",
-      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
+      "duration_ms": 251692,
+      "name": "Coming of Age (demo)",
+      "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1631,34 +1627,38 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Coming of Age (demo)",
-        "url": "https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz"
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 251692,
-      "name": "Coming of Age (demo)",
-      "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
+      "duration_ms": 198313,
+      "name": "Ain't No Grave (Sparse)",
+      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
     },
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+        "name": "Given Up \u2013 EP",
+        "url": "https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur"
       },
       "artists": [
         {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
         }
       ],
-      "duration_ms": 362280,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
+      "duration_ms": 276286,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb"
     }
   ],
   "unique_name": "Dark & Stormy",

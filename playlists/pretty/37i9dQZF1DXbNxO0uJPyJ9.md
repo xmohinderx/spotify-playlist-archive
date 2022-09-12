@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,821 likes - 80 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,968 likes - 80 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 21 | [You're a Woman](https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7) | [Bad Boys Blue](https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa) | [Hot Girls, Bad Boys](https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y) | 5:21 |
 | 22 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 |
 | 23 | [Sounds Like a Melody \- 2019 Remaster](https://open.spotify.com/track/4yDCTzaFfr7YOuYKpwgidL) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:46 |
-| 24 | [The Safety Dance \- Extended Dance Version](https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm Of Youth \(Expanded Edition\)](https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz) | 4:38 |
-| 25 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
+| 24 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
+| 25 | [The Safety Dance \- Extended Dance Version](https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm Of Youth \(Expanded Edition\)](https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz) | 4:38 |
 | 26 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
 | 27 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 | 28 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 40 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
 | 41 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
 | 42 | [I Can Lose My Heart Tonight \- Maxi\-Version](https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh) | [C.C\. Catch](https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq) | [The 80's Album](https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ) | 5:52 |
-| 43 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
-| 44 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 |
+| 43 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 |
+| 44 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
 | 45 | [Relax \- New York Mix](https://open.spotify.com/track/008gS3ob2GZv3e9fkWQ1k7) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/0YIzOsXGWV9ywnRlZSqORh) | 7:24 |
 | 46 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
 | 47 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [She Blinded Me With Science \- Extended Version](https://open.spotify.com/track/1vORDwbaam9l3Z7OMXdzhw) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [12x12 Original Remixes](https://open.spotify.com/album/7lrciFpBNouYjer14LGVwO) | 5:10 |
 | 80 | [Girl You Know It's True \(Maxi Version\) \- Super Club Mix](https://open.spotify.com/track/47fGEnnyxCNZfrPf8LXm7z) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing US Remix Album](https://open.spotify.com/album/19oRih1H1X1QJtIJDB2Yiq) | 6:28 |
 
-Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDYzMDFmNTVkN2Y4ZjZiY2MwZTk0MGE4Zjg5MzRhZDc1`
+Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMGIyYjY4NTFhMDY5OTEyY2IwMDUzY2FiZjM4ZmY0MzI0`

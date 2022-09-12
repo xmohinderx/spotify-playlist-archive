@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 593010,
+  "num_followers": 593090,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMDNjMzE3OTA5YWU3YzQzNDM1NWE5ZjlhY2YwYTk0N2My",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGZlOGRmY2ZhZDhkZGJmOThlM2I1OWEzYmNhOTczYTli",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -423,18 +423,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Amor Supremo (Desnudo)",
-        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -455,22 +459,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Ya T\u00fa Me Conoces",
         "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 182212,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
+      },
+      "artists": [
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "GOTEO",
         "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 227603,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5WGHknjgYatHVCFRTFB8QP"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
-      },
-      "artists": [
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
     },
     {
       "added_at": "2022-08-31 07:13:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,645 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,422 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 81 | [CORE PRIDE](https://open.spotify.com/track/55n4sFy8tjysBcCjQFwX3A) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:18 |
 | 82 | [katharsis](https://open.spotify.com/track/7MtpXnAhLKdkXjoFaK95TB) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis](https://open.spotify.com/album/3Tpt5tvJSeZt48A3YGCCWG) | 4:26 |
 | 83 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 |
-| 84 | [色香水](https://open.spotify.com/track/7FpABRyv5TaZz0llkhjPgc) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [色香水](https://open.spotify.com/album/41bkPqLAeTnlUxanW7sNU3) | 4:10 |
-| 85 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 |
+| 84 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 |
+| 85 | [色香水](https://open.spotify.com/track/7FpABRyv5TaZz0llkhjPgc) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [色香水](https://open.spotify.com/album/41bkPqLAeTnlUxanW7sNU3) | 4:10 |
 | 86 | [PAINT](https://open.spotify.com/track/0n099xB2P5c2ZLDazd3dgr) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [PAINT](https://open.spotify.com/album/3nLZFXpFIcKU6BxGqPit3Y) | 3:28 |
 | 87 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 |
 | 88 | [My Nonfiction](https://open.spotify.com/track/77wmpTzmexp0gvyeQq45zV) | [白銀御行\(CV:古川慎\)](https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp), [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [My Nonfiction](https://open.spotify.com/album/2naRwNTQ1LHtsxQjDOCZ7R) | 2:35 |
-| 89 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 |
-| 90 | [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 |
+| 89 | [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 |
+| 90 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 |
 | 91 | [Hero too](https://open.spotify.com/track/0VPkaJMRQIhYWXiE1LqaCK) | [KYOKA JIRO Starring Chrissy Costanza](https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 4:18 |
 | 92 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 |
 | 93 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
-| 94 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 |
-| 95 | [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 |
-| 96 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
-| 97 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 |
-| 98 | [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 |
-| 99 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
+| 94 | [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 |
+| 95 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
+| 96 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 |
+| 97 | [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 |
+| 98 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
+| 99 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 |
 | 100 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 |
 
-Snapshot ID: `MTY2MjA4NDAwOCwwMDAwMDAwMDZjMTM4NGFjM2YxMDNiNjU5NTBhMWFmMGMzN2JjMTky`
+Snapshot ID: `MTY2MjA4NDAwOCwwMDAwMDAwMGIxNTQ3OTRiN2IwYzQ4YTJiMjJmMWM5OTYzZTEyNjMx`

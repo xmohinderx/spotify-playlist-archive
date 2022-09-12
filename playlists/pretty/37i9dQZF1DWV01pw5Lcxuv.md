@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,700 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,870 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 18 | [Listen To Your Heart](https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(Extended Version\)](https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9) | 5:28 |
 | 19 | [Tarzan Boy](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Living In The Background](https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9) | 6:18 |
 | 20 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
-| 21 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 |
-| 22 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 |
+| 21 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 |
+| 22 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 |
 | 23 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
 | 24 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
 | 25 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 74 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 3:18 |
 | 75 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
 
-Snapshot ID: `MTYyMTU3MzUyNywwMDAwMDAwMDkyOTM3YzI2YjExMWRjZDcwODZkZGMwZTYwNDdiZDhi`
+Snapshot ID: `MTYyMTU3MzUyNywwMDAwMDAwMDU2MDQwNjg4ODRkZDQ2NWUzODQ5NDk5MDJjMzY0ZWIw`

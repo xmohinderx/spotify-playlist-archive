@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,991 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,012 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 46 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 |
 | 47 | [Macho Alfa](https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv) | [Bandera de Niebla](https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L) | [Panel Optico](https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT) | 1:27 |
 | 48 | [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 |
-| 49 | [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 |
-| 50 | [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 |
+| 49 | [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 |
+| 50 | [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 |
 
-Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDhiMmMzZjYwMjg2ZTExY2UzMTQ4NDIyZWE4ODUyMjkx`
+Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMGFmNWU0ZDBkNDAzODUwNzRjMGRiZDU0N2I1Njg1NWQ1`

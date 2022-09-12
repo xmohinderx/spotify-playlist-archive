@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,585 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,615 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 22 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 | 23 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 24 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
-| 25 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 |
-| 26 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 25 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 26 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 |
 | 27 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
 | 28 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
 | 29 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 49 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 |
 | 50 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 |
 
-Snapshot ID: `MTY2MjM0NTgwNiwwMDAwMDAwMGFiMThmNDBjOGQ4YjMxNTgyMTU2Mzg4NTUxNzU1MTU1`
+Snapshot ID: `MTY2MjM0NTgwNiwwMDAwMDAwMDIwMWM2NzA2YmM0ODgyYjJiZTVjZTgyOWVjNGZkMDUy`

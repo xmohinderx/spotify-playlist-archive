@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,705 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,759 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 41 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 |
 | 42 | [Trust No One](https://open.spotify.com/track/5Z7xS2nswfBaO0u5itfwad) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Bears, Mayors, Scraps, & Bones \(Remastered\) \[10 Year Anniversary Editio\]](https://open.spotify.com/album/7IbxwkOPTz4RDtwK4FPnqc) | 2:43 |
 | 43 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
-| 44 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Heads You Win, Tails We Lose](https://open.spotify.com/album/2jlrZxuzk2a1WfdDT17rAd) | 2:59 |
-| 45 | [Super Spreader](https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Super Spreader](https://open.spotify.com/album/1MmQCW4IEOyRXWu948orKy) | 2:45 |
-| 46 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
+| 44 | [Super Spreader](https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Super Spreader](https://open.spotify.com/album/1MmQCW4IEOyRXWu948orKy) | 2:45 |
+| 45 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
+| 46 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Heads You Win, Tails We Lose](https://open.spotify.com/album/2jlrZxuzk2a1WfdDT17rAd) | 2:59 |
 | 47 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 |
 | 48 | [The Left is Right](https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut) | [Desaparecidos](https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM) | [Payola](https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU) | 2:25 |
 | 49 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 |
 | 50 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
 
-Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMDRmMzMyYTdkZjk0Yjk4NzI0MmIyNmQzY2I5ZGU4ODQ5`
+Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMDFjNjVlOWZhMjUyODYyYWU5NjUxZDhlZjAxNjA1Mzg1`

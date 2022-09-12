@@ -2684,6 +2684,28 @@
     },
     {
       "album": {
+        "name": "INTERTWINED",
+        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        },
+        {
+          "name": "Delaney Jane",
+          "url": "https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182411,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/18Qv73U7BZXaO9bvMGgQuI"
+    },
+    {
+      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/5S2n9RJ2VwNFXwHdPJSjQD"
       },
@@ -2721,7 +2743,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 182411,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/6fp5VnTQX4esPpou7YmcYh"

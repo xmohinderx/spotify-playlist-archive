@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Head And The Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,383 likes - 155 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,596 likes - 155 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 52 | [Nightbird \- Duo Version](https://open.spotify.com/track/0qq5xXkzgpRlBT6tNns0SJ) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse \(Duo\)](https://open.spotify.com/album/2UZLRGQmNZLPuKFn9JVwjo) | 5:17 |
 | 53 | [All My Friends](https://open.spotify.com/track/6X0UL3iw1o9ngNVirhvYqR) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [All My Friends](https://open.spotify.com/album/5Z4sI8FwDmPDKk9IIHRrKv) | 4:15 |
 | 54 | [Accountable](https://open.spotify.com/track/0suQ5mWrERHQ10uZBjoVsH) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Accountable](https://open.spotify.com/album/00180Qaabpil0ZfDvurG9p) | 3:09 |
-| 55 | [Easy Does It](https://open.spotify.com/track/5nOYvGsP0zTmsInjj1ZhdR) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Easy Does It](https://open.spotify.com/album/0bg17fKpDoUDNa51iWOdAF) | 3:39 |
+| 55 | [Easy Does It](https://open.spotify.com/track/3MLeNBBnqmI09zcYSc8cD4) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 3:39 |
 | 56 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 |
 | 57 | [Tell Me Again](https://open.spotify.com/track/6JpB8M0DxCWKbITQ4qYMHk) | [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD) | [Tell Me Again](https://open.spotify.com/album/3Rd0vx1lZeDDxwjDPdFrE7) | 0:53 |
 | 58 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 154 | [creek](https://open.spotify.com/track/5ea7yawzmWpuYQazo0UlGQ) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [mountain songs](https://open.spotify.com/album/2QuZhSjVBLP1LyKNWiIq8c) | 2:33 |
 | 155 | [a.m\. radio \(acoustic\)](https://open.spotify.com/track/5vF0f5Mz9Z4gndtJipBRix) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside bonus tracks](https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0) | 4:09 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDA2YWVlNzllOWNlN2IwZjMxNGZmNDlhYTgzZWFkZmE4`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDBhOWUzYjk2NGM1ZGQ0NDEwMjM2OWZiNzY1Y2Q4MDBl`

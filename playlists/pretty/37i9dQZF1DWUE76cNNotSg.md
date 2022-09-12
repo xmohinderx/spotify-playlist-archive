@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,966 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,263 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 44 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
 | 45 | [Drift](https://open.spotify.com/track/4Sf23jc43dY15uoRQ4fWjf) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/4qdyokbbBtstJS3cwipv5c) | 3:42 |
 | 46 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 |
-| 47 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 |
-| 48 | [Zanzibar](https://open.spotify.com/track/0czEIxZg628LnldJfm7usx) | [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [Zanzibar](https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW) | 3:48 |
+| 47 | [Zanzibar](https://open.spotify.com/track/0czEIxZg628LnldJfm7usx) | [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [Zanzibar](https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW) | 3:48 |
+| 48 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 |
 | 49 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 |
 | 50 | [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 3:28 |
 | 51 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 75 | [Time to Walk Away](https://open.spotify.com/track/01AbB47Hm60LTIStyzMb2g) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:15 |
 | 76 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 |
 | 77 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
-| 78 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 |
-| 79 | [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 |
-| 80 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
+| 78 | [These Days](https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [These Days](https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa) | 3:53 |
+| 79 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
+| 80 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDFhYjMzMzYzNTQxYzAwYzZkOTRjMWRhOTBmNmY1Yjc0`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDE4MTI0NzE5MGQ2NWRmNjJjYjg0ODkzY2M0YmNiZWZk`

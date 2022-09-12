@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Sofi Mata en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,829 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,899 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 47 | [Nuestro Amor](https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Nuestro Amor](https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp) | 3:42 |
 | 48 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
 | 49 | [Despertar](https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl) | [Karen Polinesia](https://open.spotify.com/artist/1sl6PdP9LqFUWmrt7bV23E), [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW) | [Despertar](https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh) | 3:18 |
-| 50 | [Buena Suerte](https://open.spotify.com/track/45lw7issmJHMkPrrm2voTA) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Buena Suerte](https://open.spotify.com/album/74fYwjYPrKgQwMZxQzFuTZ) | 3:20 |
+| 50 | [Bailando al Amanecer](https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Bailando al Amanecer](https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5) | 3:56 |
 
-Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMGRkOWQ1MGM5MzY5MDViNjgzMGU4MTdjNzRkMzVkZDdl`
+Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMDQ4MTg2ZGExMDdkNGMzZjQ5ODIzOGQzOWYzMDkzZTli`

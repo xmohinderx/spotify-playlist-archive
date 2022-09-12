@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,387 likes - 120 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,500 likes - 120 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 39 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
 | 40 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 |
 | 41 | [You Worry Me](https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:34 |
-| 42 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
-| 43 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
+| 42 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
+| 43 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 44 | [Love Brought Weight](https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20) | 3:05 |
 | 45 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 |
 | 46 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 49 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
 | 50 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 51 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
-| 52 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
-| 53 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
+| 52 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
+| 53 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
 | 54 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
 | 55 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
-| 56 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
-| 57 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
+| 56 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
+| 57 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 58 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 59 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
 | 60 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 81 | [Colder Heavens](https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens EP](https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ) | 4:33 |
 | 82 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 2:50 |
 | 83 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
-| 84 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
-| 85 | [Take Me Back](https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Undercurrent](https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc) | 2:34 |
-| 86 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
+| 84 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
+| 85 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
+| 86 | [Take Me Back](https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Undercurrent](https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc) | 2:34 |
 | 87 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
 | 88 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
 | 89 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 119 | [Pulaski at Night](https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5) | 4:49 |
 | 120 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 
-Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMDE5ODAwNGY5NTE0MzE2MDYzZmVkYWIyOThmNWIzZGU0`
+Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMDY1ZTU2ZGIzY2U0MWY2NzZmMTdhYjYyNzE2YzdlMTc4`

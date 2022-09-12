@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 
 > Hit del passato e nuovi brani per la tua giornata perfetta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,946 likes - 65 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,996 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 49 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
 | 50 | [Stitches](https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:26 |
 | 51 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
-| 52 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
-| 53 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
-| 54 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
-| 55 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
+| 52 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
+| 53 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
+| 54 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
+| 55 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
 | 56 | [This Is The Life](https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:04 |
 | 57 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 58 | [Live While We're Young](https://open.spotify.com/track/6Vh03bkEfXqekWp7Y1UBRb) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:20 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 64 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 65 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
 
-Snapshot ID: `MTY1ODkxNDg2NiwwMDAwMDAwMDczMTEwMjBjZTNlYzIzN2NjZTAzZTdjODRjNGNkODUy`
+Snapshot ID: `MTY1ODkxNDg2NiwwMDAwMDAwMDNhNTVjYzY5MWQzYzk0ZmU4MDVhNTMxMTlkOTZkMGRi`

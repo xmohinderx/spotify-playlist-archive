@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 
 > Music to see you through the tough times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,958 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,124 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 28 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 29 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
 | 30 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
-| 31 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
-| 32 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
-| 33 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 |
+| 31 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
+| 32 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 |
+| 33 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
 | 34 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
 | 35 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 36 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 40 | [Impossible](https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:46 |
 | 41 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 |
 | 42 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
-| 43 | [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 |
-| 44 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
+| 43 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
+| 44 | [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 |
 | 45 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
 | 46 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
 | 47 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 99 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 100 | [LOVE ME OR LEAVE ME](https://open.spotify.com/track/0zUT6RbKCqHqorVnXVoZcm) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [LOVE ME OR LEAVE ME](https://open.spotify.com/album/7Hz23y9avmN4lNFmH57elX) | 2:26 |
 
-Snapshot ID: `MTY1MzYyNDEyMCwwMDAwMDAwMDdjNzA2M2ExN2RhNjUwMjQyZDdiYjVhZmUxZmY2NzAx`
+Snapshot ID: `MTY1MzYyNDEyMCwwMDAwMDAwMDM2MjBjYmQ4NDVhZGY0Zjg5MWFiNzcyMTk4MDQ5YjVj`

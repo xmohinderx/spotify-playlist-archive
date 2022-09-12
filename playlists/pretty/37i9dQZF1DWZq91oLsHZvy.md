@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,831 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,900 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,17 +43,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 33 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 34 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 |
 | 35 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 |
-| 36 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
-| 37 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
+| 36 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
+| 37 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 38 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
 | 39 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
 | 40 | [Say It \(feat\. Tove Lo\)](https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 4:22 |
 | 41 | [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 |
 | 42 | [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 |
-| 43 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
-| 44 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
-| 45 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
-| 46 | [Girls](https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
+| 43 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
+| 44 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
+| 45 | [Girls](https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
+| 46 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 47 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 48 | [Temple](https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 4:10 |
 | 49 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 82 | [1998](https://open.spotify.com/track/0DdNKXYhsBBrHsUyMOdRaa) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/1uWEdiOlz8bwBOl1Mho0ap) | 3:44 |
 | 83 | [Entertainment](https://open.spotify.com/track/6CplRWasnvBmi33sFv6xYn) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1s7a0VpP3aNEubiTgx6YlU) | 3:39 |
 | 84 | [Do Me Like That](https://open.spotify.com/track/2R4B5jDPvxVR09SQGLyDFP) | [Penguin Prison](https://open.spotify.com/artist/5VsOThWOagH8C8gCvIy13k) | [Turn It Up](https://open.spotify.com/album/0mcUaWtpurg0ICvHZiRxeU) | 3:15 |
-| 85 | [Come Out](https://open.spotify.com/track/3JkcPEiVQtTfS0rixsJM3e) | [Masek Porter](https://open.spotify.com/artist/2ebNEBhrMUcPdSG5P4Ovf1) | [Come Out](https://open.spotify.com/album/17wkpHFyI3L24Lyoe72UQr) | 4:02 |
-| 86 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 |
+| 85 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 |
+| 86 | [Come Out](https://open.spotify.com/track/3JkcPEiVQtTfS0rixsJM3e) | [Masek Porter](https://open.spotify.com/artist/2ebNEBhrMUcPdSG5P4Ovf1) | [Come Out](https://open.spotify.com/album/17wkpHFyI3L24Lyoe72UQr) | 4:02 |
 | 87 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 |
 | 88 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 |
 | 89 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 96 | [tell ur friends](https://open.spotify.com/track/25RmznGaoSP8tjCLeU2iG2) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [tell ur friends](https://open.spotify.com/album/7kuv8kNG5KtYEWe4Sw0lSf) | 2:41 |
 | 97 | [Fight or Flight Club](https://open.spotify.com/track/42vh3jC0ejWdPOGp6dT30p) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/1UvqvFI3DlJ6wHCTDqXSYb) | 2:31 |
 | 98 | [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 |
-| 99 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
-| 100 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 |
+| 99 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 |
+| 100 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
 
-Snapshot ID: `MTY2MjAyMzMxOCwwMDAwMDAwMDk2YjYxZjYxNGFhNjFjZjEwY2M2MjE1MjAwOTcxYzgw`
+Snapshot ID: `MTY2MjAyMzMxOCwwMDAwMDAwMDE0YmM4YWIyNDkxZTFlMDM5NmVlNDRhMjUzZmQ5ZTE5`

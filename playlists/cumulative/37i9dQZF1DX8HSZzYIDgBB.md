@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-169 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+170 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-10-05 |  |
 | [Marineros](https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Marineros](https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0) | 2:08 | 2022-08-08 |  |
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-05 | 2022-04-10 |
+| [Mañana](https://open.spotify.com/track/1jBwdd7dkhx9nVUx2gWc25) | [Abraxas](https://open.spotify.com/artist/5WZcFSCHJoBfjHWNaNRUTV) | [Mañana](https://open.spotify.com/album/3tp5Dkyp89uBT3BUvCLTI3) | 3:38 | 2022-09-11 |  |
 | [Me mandaron por tortillas](https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Me mandaron por tortillas](https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm) | 2:42 | 2022-07-11 |  |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/1whuGreIX1sYRDeT28nhyp) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [De Algo Hay Que Morir](https://open.spotify.com/album/2MF220KUPbPWEjh59nPFEK) | 4:00 | 2021-10-05 | 2022-04-21 |
 | [Mentiras Con Cariño](https://open.spotify.com/track/6fG0RBjFWG2ptGMWKmL7rK) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/1hSA9BiaGVr9aqNoQ0jWQB) | 3:48 | 2022-03-30 | 2022-07-29 |
@@ -154,7 +155,7 @@
 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 | 2022-02-18 | 2022-07-29 |
 | [Soñando](https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:02 | 2022-02-18 |  |
 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 | 2022-03-18 | 2022-08-02 |
-| [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 | 2022-05-27 |  |
+| [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 | 2022-05-27 | 2022-09-12 |
 | [Tambaleo](https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ) | 2:26 | 2022-03-30 | 2022-06-25 |
 | [Tenías Que Avisar](https://open.spotify.com/track/1sk6pQToLuNIzMMwxBFWc6) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [Lucas Beguerie](https://open.spotify.com/artist/3v7EPGIjdVJkMmG9G18lkv) | [Tenías Que Avisar](https://open.spotify.com/album/0BAdYn0KEPppe83QpiSzIZ) | 2:33 | 2022-03-18 | 2022-07-14 |
 | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 | 2022-03-18 | 2022-07-02 |

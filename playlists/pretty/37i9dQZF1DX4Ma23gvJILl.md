@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 
 > Los temas que nunca paras de escuchar\. En portada: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,679 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,877 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 | 22 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 23 | [No Me Conoce \- Remix](https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 5:09 |
 | 24 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 |
-| 25 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
-| 26 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
+| 25 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
+| 26 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 | 27 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
 | 28 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 |
 | 29 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 | 36 | [Sola \(Remix\)](https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Sola \(Remix\)](https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj) | 5:07 |
 | 37 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 |
 | 38 | [Besos En Guerra](https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:51 |
-| 39 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
-| 40 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
+| 39 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
+| 40 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 41 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
 | 42 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
-| 43 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
-| 44 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 43 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 44 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
 | 45 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 |
 | 46 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 | 47 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ma23gvJILl.md) - [plain]
 | 49 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
 | 50 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 |
 
-Snapshot ID: `MTY2MDc4MzQyMCwwMDAwMDAwMDBiYmNhNTc0ZGM5NGE4ZmYzM2QyMmY0M2EzYmQyMDE0`
+Snapshot ID: `MTY2MDc4MzQyMCwwMDAwMDAwMDhhNDhhZTUwOTNmMzRkMjY2ZDE0MmE1M2M1Y2Y1NjJm`

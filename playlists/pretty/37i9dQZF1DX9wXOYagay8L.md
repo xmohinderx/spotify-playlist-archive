@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60?si=w4u2Bt6dTM\-ZcjbUd8HQrw">MusiholiQ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,464 likes - 65 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,577 likes - 65 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 |
+| 1 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 |
 | 2 | [Ngifuna Ukuba](https://open.spotify.com/track/1XW3hfd2u94eSgetTjjO5h) | [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [nolly m](https://open.spotify.com/artist/1TL9pBRVj4qKOszCfIoyVZ), [Inkosi Yamagcokama](https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M) | [Uzuka](https://open.spotify.com/album/58GJD0Zy1H4cA6FLC0RFhk) | 4:20 |
 | 3 | [Voicemail](https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5) | [Voicemail](https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS) | 4:38 |
 | 4 | [Ithuba](https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Ithuba](https://open.spotify.com/album/1pYMs6qogXnmKzGoGlBwWQ) | 4:23 |

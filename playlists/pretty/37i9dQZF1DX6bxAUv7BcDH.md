@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,635 likes - 62 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,632 likes - 62 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 25 | [Fallin'](https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:30 |
 | 26 | [We Are The World](https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are The World](https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa) | 7:07 |
 | 27 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 |
-| 28 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
-| 29 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 |
+| 28 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 |
+| 29 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
 | 30 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 |
 | 31 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 32 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 38 | [The Way We Were](https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:31 |
 | 39 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 |
 | 40 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
-| 41 | [What's Love Got to Do with It](https://open.spotify.com/track/6FcQD1qOpqV8NdhY45sKyI) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 3:46 |
-| 42 | [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 |
+| 41 | [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 |
+| 42 | [What's Love Got to Do with It](https://open.spotify.com/track/6FcQD1qOpqV8NdhY45sKyI) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 3:46 |
 | 43 | [Evergreen \(Love Theme from, "A Star Is Born"\)](https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 3:04 |
 | 44 | [Moon River\(Vocal Audrey Hepburn\)](https://open.spotify.com/track/5iGleL7HpEThuuYQ3us2jh) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Breakfast At Tiffany's \(50th Anniversary Edition\)](https://open.spotify.com/album/53mCG3mQnybqhQfgH5ULUK) | 2:05 |
 | 45 | [From a Distance](https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Some People's Lives](https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb) | 4:36 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 61 | [You’ve Got A Friend \- Live At The Troubadour / 2007](https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Live At The Troubadour](https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv) | 5:51 |
 | 62 | [Days Of Wine And Roses \- REMASTERED](https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Greatest Hits \- The Best of Henry Mancini](https://open.spotify.com/album/1qUmcNnG6GBGXw9tLCTJ3V) | 2:06 |
 
-Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMDQ0ZDhhN2UzNzdlODBhMGRlOGMwMTRlNmMwNzhmYTY2`
+Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMDgxZTQ5YzI3MGM2YmFhZGViZjQzOTNhNjc2Mjc4ZjRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,969 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,985 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 42 | [Once I Loved](https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K) | [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Alberto Medina](https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z), [Pablo Prieto](https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25) | [Triology](https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS) | 7:08 |
 | 43 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 44 | [Bad Hombres Y Mujeres](https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W) | [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw), [John Escreet](https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU), [Thana Alexa](https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV), [Chase Baird](https://open.spotify.com/artist/6bOdATrvhzr4uWsePPqCwJ) | [Lines In The Sand](https://open.spotify.com/album/0rOMKaWPJScXu76Vm6GglX) | 8:43 |
-| 45 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 |
-| 46 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 |
+| 45 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 |
+| 46 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 |
 | 47 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
 | 48 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
-| 49 | [Flor Latina](https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W) | [Emmanuel Mora](https://open.spotify.com/artist/6iz12BR5JSoaySVJO3P0qm), [Alejandro Mora](https://open.spotify.com/artist/23YqoCb961qdeNiWEDxU5h), [Rodrigo Mora](https://open.spotify.com/artist/3owqtFutm6ZMbZZHBpLZj9), [Tirso Buenfil](https://open.spotify.com/artist/7o1EZ1rNSscAuLSw1fxraV) | [Estaciones](https://open.spotify.com/album/6ktr5l29j7H5yr6deaHJTu) | 5:50 |
-| 50 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 |
+| 49 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 |
+| 50 | [Flor Latina](https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W) | [Emmanuel Mora](https://open.spotify.com/artist/6iz12BR5JSoaySVJO3P0qm), [Alejandro Mora](https://open.spotify.com/artist/23YqoCb961qdeNiWEDxU5h), [Rodrigo Mora](https://open.spotify.com/artist/3owqtFutm6ZMbZZHBpLZj9), [Tirso Buenfil](https://open.spotify.com/artist/7o1EZ1rNSscAuLSw1fxraV) | [Estaciones](https://open.spotify.com/album/6ktr5l29j7H5yr6deaHJTu) | 5:50 |
 
-Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMDY4N2QwMjhlM2UzZjAwYzU2NWEyMjkwN2Q5ZWQyYTM4`
+Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMGM4MjdhNmJmZjdhZmZkNmU4N2I4YjNhOGFhNjJlNjFi`

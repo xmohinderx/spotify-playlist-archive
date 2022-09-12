@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: EST Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,197 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,457 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 53 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
 | 54 | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/07ODE2Qy9EfewM8DVkW7ST) | 2:54 |
 | 55 | [Kamikaze](https://open.spotify.com/track/1p0BcIePXAd65ouic9XrLT) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 3:20 |
-| 56 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 |
+| 56 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 | 57 | [MF TRIMM](https://open.spotify.com/track/2Q3xRj8N2lElteuxQ6tnvL) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [MF TRIMM](https://open.spotify.com/album/5AgTbbfztGcAxqNxiSAMGA) | 2:46 |
 | 58 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |
 | 59 | [Life Of A Trapper](https://open.spotify.com/track/5sshmGnoASDUQx3WbAx7VI) | [Blacc Zacc](https://open.spotify.com/artist/2VdDGrsKkzCfR9AG6w5O92) | [Life of A Trapper](https://open.spotify.com/album/4Phux4aSBqwixjjihqxwC8) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 |
 | 100 | [Hoppin Out](https://open.spotify.com/track/2qD5hkBGI47Pr1a2SnikZc) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Hoppin Out](https://open.spotify.com/album/6Ab3Hqoowg6OjsWpAgxcwf) | 2:41 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGI5YmNkZjM4ZjM4MmM3ZWYyMTcwNTdjYTlmNzQ3OTcy`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDg3MzVhMzFjNTY0OTZkZmZiMDIxZTIyYmEyYTU2NTlj`

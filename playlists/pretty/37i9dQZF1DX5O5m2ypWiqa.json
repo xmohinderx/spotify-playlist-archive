@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda en portada. ",
-  "num_followers": 1478646,
+  "num_followers": 1479324,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMGZmMGVjM2I3ODNlYWNhMTcxMzk0YzM1NmZiOTdhNWM0",
+  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMDk1OWU1Mjc5MTJhMjU5MzY2ZTQ4YjA2NzcyNjBhY2U3",
   "tracks": [
     {
       "added_at": "2022-06-20 21:21:51",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -577,6 +577,38 @@
       "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Hermosa Experiencia",
+      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
+    },
+    {
       "added_at": "2022-01-20 23:03:47",
       "album": {
         "name": "Mil Gracias Por Existir",
@@ -599,38 +631,6 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Hermosa Experiencia",
-      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "Tu Yo Y La Luna",
-        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
@@ -647,8 +647,8 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Te Presumo",
-        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Te Presumo",
-      "url": "https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl"
+      "duration_ms": 156680,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -791,8 +791,8 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
+        "name": "Te Presumo",
+        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 156680,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
+      "duration_ms": 192973,
+      "name": "Te Presumo",
+      "url": "https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1629,20 +1629,20 @@
       "url": "https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C"
     },
     {
-      "added_at": "2022-07-18 22:56:48",
+      "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "S\u00f3lo Contigo",
-        "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
       "artists": [
         {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 228973,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
+      "duration_ms": 174973,
+      "name": "Ignoraste Mis L\u00e1grimas",
+      "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-947 songs - 1 day 12 hr 36 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+948 songs - 1 day 12 hr 38 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,7 +904,8 @@
 | [Vida Hermosa](https://open.spotify.com/track/27vYBq88EJKWHVPQyjkJK0) | [mr mirakami](https://open.spotify.com/artist/2578z8LcqKTw0ccvtDAQoU) | [Vida Hermosa](https://open.spotify.com/album/5E6AFFZPiEQbBpTNdQvHqT) | 2:14 | 2021-12-07 | 2022-07-01 |
 | [vintage landscapes](https://open.spotify.com/track/2uLsD4apV6zjuY2ekztXlp) | [metabolar](https://open.spotify.com/artist/1AnyVsimkm8D6kViojzN9i) | [vintage landscapes](https://open.spotify.com/album/66ixXEar501O1uSaRDr5QW) | 1:40 | 2021-12-07 | 2022-07-01 |
 | [Vortex.](https://open.spotify.com/track/3l7UqpS6fuxwkzAyhQPRro) | [Akira Kakari](https://open.spotify.com/artist/2Ala9UhXNVYKzfyyLceP2Y) | [Vortex.](https://open.spotify.com/album/3Pk7tN2fVNO9w4GtxqwqZC) | 1:41 | 2022-09-02 |  |
-| [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2021-12-07 |  |
+| [Voyager I](https://open.spotify.com/track/57cA7Pp1WPlb5dbNVbkwvK) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Study Music 2022](https://open.spotify.com/album/5euKPfHQNHvBVJM3NsUh4N) | 2:08 | 2022-09-09 |  |
+| [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2021-12-07 | 2022-09-12 |
 | [waiting for april](https://open.spotify.com/track/2Fs5xakZwbu23dDdOnvBzQ) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [waiting for april](https://open.spotify.com/album/3H5qrPaHJs2HKHN25oZvWH) | 2:41 | 2022-04-22 |  |
 | [Waiting For You](https://open.spotify.com/track/2t34h7N3TrNa2fJC88vac7) | [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Waiting For You](https://open.spotify.com/album/5LN6me7rc0fPF2dZCcS97o) | 2:05 | 2022-06-17 | 2022-07-29 |
 | [Wake Up After Holidays](https://open.spotify.com/track/5VtMGqhnuwCoBtJ5PxPjvN) | [LeConrad](https://open.spotify.com/artist/3hha9GwcXIvO3wLiu458sd) | [School Days](https://open.spotify.com/album/0r6a1JfG72CmEumoRtLWtc) | 1:37 | 2022-05-27 |  |

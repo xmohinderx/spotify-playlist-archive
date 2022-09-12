@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n!",
-  "num_followers": 113146,
+  "num_followers": 113294,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyOTE1OSwwMDAwMDAwMDIxMGJkODk0MzIxNjgzN2MzMDYzY2MwOTllMTMzYzUy",
+  "snapshot_id": "MTY2MjcyOTE1OSwwMDAwMDAwMDQ4Yjg3NDgyZTFjNGJlOWM5Y2IwYWRkZmExODVlZTg4",
   "tracks": [
     {
       "added_at": "2022-09-09 13:12:39",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
-    },
-    {
-      "added_at": "2022-09-09 13:12:39",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 192075,
       "name": "Yo me Enamor\u00e9",
       "url": "https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh"
+    },
+    {
+      "added_at": "2022-09-09 13:12:39",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "Me Encanta",
-        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "Me Encanta",
-      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
-    },
-    {
-      "added_at": "2022-09-09 13:12:39",
-      "album": {
         "name": "Sa, Za...Sabor!!!",
         "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
       },
@@ -491,18 +471,22 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+      "duration_ms": 211896,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -539,6 +523,22 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+    },
+    {
+      "added_at": "2022-09-09 13:12:39",
+      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "Volver a Vernos",
-        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
       },
       "artists": [
         {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 171957,
-      "name": "Volver a Vernos",
-      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
+        "name": "Volver a Vernos",
+        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 171957,
+      "name": "Volver a Vernos",
+      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+    },
+    {
+      "added_at": "2022-09-09 13:12:39",
+      "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 181054,
       "name": "Mi \u00danico Amor",
       "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
-    },
-    {
-      "added_at": "2022-09-09 13:12:39",
-      "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "Regalo de Dios",
-        "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Esa Te Dej\u00f3",
-      "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
-    },
-    {
-      "added_at": "2022-09-09 13:12:39",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 195586,
       "name": "No Podre Olvidarme",
       "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2022-09-09 13:12:39",
+      "album": {
+        "name": "Regalo de Dios",
+        "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Esa Te Dej\u00f3",
+      "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "El Comboloco",
-        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
-      },
-      "artists": [
-        {
-          "name": "El Combo Loco",
-          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Ser\u00e1 Porque Te Amo",
-      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
-    },
-    {
-      "added_at": "2022-09-09 13:12:39",
-      "album": {
         "name": "Y la cumbia se baila as\u00ed...",
         "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 198066,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
+    },
+    {
+      "added_at": "2022-09-09 13:12:39",
+      "album": {
+        "name": "El Comboloco",
+        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
+      },
+      "artists": [
+        {
+          "name": "El Combo Loco",
+          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Ser\u00e1 Porque Te Amo",
+      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Yo Que Te Am\u00e9",
+      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
+    },
+    {
+      "added_at": "2022-09-09 13:12:39",
+      "album": {
         "name": "El Trato",
         "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Yo Que Te Am\u00e9",
-      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
-    },
-    {
-      "added_at": "2022-09-09 13:12:39",
-      "album": {
         "name": "Cumbia Casera",
         "url": "https://open.spotify.com/album/2ML2QNYZaJgM8lhFRg3Kp6"
       },
@@ -1591,6 +1591,26 @@
       "duration_ms": 324789,
       "name": "No Estamos Los Dos",
       "url": "https://open.spotify.com/track/5Nf8Sx3NKVC6sGK5fUIEI4"
+    },
+    {
+      "added_at": "2022-09-09 13:12:39",
+      "album": {
+        "name": "Ninguno De Los Dos",
+        "url": "https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Ninguno De Los Dos",
+      "url": "https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -1619,22 +1639,22 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "Ninguno De Los Dos",
-        "url": "https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU"
+        "name": "B\u00fascate Un Hombre Que Te Quiera",
+        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
       },
       "artists": [
         {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         },
         {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Ninguno De Los Dos",
-      "url": "https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF"
+      "duration_ms": 181542,
+      "name": "B\u00fascate Un Hombre Que Te Quiera",
+      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
     },
     {
       "added_at": "2022-09-09 13:12:39",
@@ -1655,38 +1675,18 @@
     {
       "added_at": "2022-09-09 13:12:39",
       "album": {
-        "name": "Donde Estas",
-        "url": "https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT"
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
       },
       "artists": [
         {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE"
-    },
-    {
-      "added_at": "2022-09-09 13:12:39",
-      "album": {
-        "name": "B\u00fascate Un Hombre Que Te Quiera",
-        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 181542,
-      "name": "B\u00fascate Un Hombre Que Te Quiera",
-      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
     }
   ],
   "unique_name": "Cumbia y Romance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Timeless tunes served over easy for all your brunching needs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,529 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,693 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 39 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 40 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 |
 | 41 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
-| 42 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
-| 43 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
+| 42 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
+| 43 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
 | 44 | [Sunday Morning](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:04 |
 | 45 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 46 | [Rich Girl](https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 2:24 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 49 | [I Saw the Light \- 2015 Remaster](https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3zNPrWuTPDQeqdj2Y8UjO1) | 3:00 |
 | 50 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 51 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
-| 52 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
-| 53 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
+| 52 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
+| 53 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
 | 54 | [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 |
 | 55 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
 | 56 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 84 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
 | 85 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
 | 86 | [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 |
-| 87 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
-| 88 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 |
+| 87 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 |
+| 88 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
 | 89 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
 | 90 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 91 | [My Life](https://open.spotify.com/track/6Ep2XErOa5SCBGzARBpCr4) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 99 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 |
 | 100 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 |
 
-Snapshot ID: `MTY2MDYyMjQwMCwwMDAwMDAwMDc0YjFiNzkzOWFhNzI4MDUxMGNhNGQ0OTUwYWZlYjQy`
+Snapshot ID: `MTY2MDYyMjQwMCwwMDAwMDAwMDNlMTkwYWE0MjNmYzc3N2ZjZDRkMWU0YzFlNTE3OTNk`

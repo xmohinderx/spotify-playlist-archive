@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,312 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,838 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 44 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
 | 45 | [Lateralus](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 9:22 |
 | 46 | [Only for the Weak](https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman](https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd) | 4:54 |
-| 47 | [Ghost Division](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Art of War \(Re\-Armed\)](https://open.spotify.com/album/0ByHC8GAef76h66JrvigzE) | 3:51 |
-| 48 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 |
+| 47 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 |
+| 48 | [Ghost Division](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Art of War \(Re\-Armed\)](https://open.spotify.com/album/0ByHC8GAef76h66JrvigzE) | 3:51 |
 | 49 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
 | 50 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 |
 | 51 | [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 5:08 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 96 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
 | 97 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
 | 98 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
-| 99 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
-| 100 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
+| 99 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
+| 100 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
 
-Snapshot ID: `MTY2MDI0NjUwMiwwMDAwMDAwMGY4MzNhMTk1MjNiOWVmZDcyZDZjN2ZjYjJmNmFmNmMz`
+Snapshot ID: `MTY2MDI0NjUwMiwwMDAwMDAwMGZhN2E4ODFjMzg3MGRjNTU3YTc5ZDIwOWUxNzgwZDNk`

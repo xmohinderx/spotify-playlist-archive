@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-351 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+352 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Perennial](https://open.spotify.com/track/2eqFIWCNNKU94iFUvBCOMR) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Micro](https://open.spotify.com/album/78FHhcWpJO7CGHUGhSCXVT) | 4:37 | 2022-07-13 | 2022-07-19 |
 | [Pisces](https://open.spotify.com/track/5t8NXa2fugcTPsTfhVILmS) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [King of Everything](https://open.spotify.com/album/34d5piioQWqO1vuqAHuFT1) | 5:05 | 2022-04-24 |  |
 | [Pisces](https://open.spotify.com/track/65NCSimdLk7UIWwOKJPOJB) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [King Of Everything](https://open.spotify.com/album/5tPsMHA3GY2q0HtcjNqf3p) | 5:05 | 2022-01-03 | 2022-07-29 |
-| [Planets](https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:56 | 2022-07-13 |  |
+| [Planets](https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:56 | 2022-07-13 | 2022-09-12 |
 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 | 2022-01-03 |  |
 | [Preachers of Death](https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Strength in Numbers](https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN) | 4:55 | 2022-01-03 | 2022-07-29 |
 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 | 2022-01-03 |  |
@@ -265,6 +265,7 @@
 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 | 2022-01-03 |  |
 | [Soul Sacrifice](https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 4:10 | 2022-07-13 | 2022-07-15 |
 | [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 | 2022-01-03 | 2022-07-28 |
+| [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 | 2022-07-13 |  |
 | [Square Hammer](https://open.spotify.com/track/4AzomjMRpr1NMNE90ZIOD6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Popestar](https://open.spotify.com/album/36Ybf0SVlKqgGadXe3ZEQf) | 3:59 | 2022-01-03 | 2022-07-29 |
 | [Stitch](https://open.spotify.com/track/0Pl5XX0MbdQ5E702GBhnUn) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Deadweight](https://open.spotify.com/album/0c4JrJyBCQHU0Pq3td483f) | 3:25 | 2022-01-03 |  |
 | [Storytime](https://open.spotify.com/track/2ERRZsSlier2okSRmdzG29) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum \(Deluxe Bonus Version\)](https://open.spotify.com/album/6gTT77DgtftbvP5ISDGGwO) | 5:22 | 2022-01-03 | 2022-07-29 |

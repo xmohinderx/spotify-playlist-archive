@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Tachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,618 likes - 48 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,686 likes - 48 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 32 | [Ella \- Remix](https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 5:30 |
 | 33 | [No Love](https://open.spotify.com/track/4E5hI2hDq4hLFg7m9fCHcJ) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [No Love](https://open.spotify.com/album/1Zj7e945ki1uT1av5KZuQ5) | 4:26 |
 | 34 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
-| 35 | [Cobardes](https://open.spotify.com/track/1AhdtdrlqKtcEJYFdQT05L) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Cobardes](https://open.spotify.com/album/4yxm9T5rhhJZNKxUonAbPo) | 3:08 |
+| 35 | [COBARDES](https://open.spotify.com/track/1AhdtdrlqKtcEJYFdQT05L) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [COBARDES](https://open.spotify.com/album/4yxm9T5rhhJZNKxUonAbPo) | 3:08 |
 | 36 | [Movie](https://open.spotify.com/track/0yqJp8j8GbUuY5mSKWk3QF) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Reset](https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf) | 3:30 |
 | 37 | [Movimiento de Cadera](https://open.spotify.com/track/4mUPNOMJIQgq1XaAORkb0D) | [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa) | [Movimiento de Cadera](https://open.spotify.com/album/7qSqeESRWmdkLEnyRXc5hP) | 3:20 |
 | 38 | [En La Luna](https://open.spotify.com/track/7LoBGVOINvvyKBmsSkS5CA) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [En La Luna](https://open.spotify.com/album/3dN45Kj9R75Zbj6Xt8Ed9P) | 3:07 |

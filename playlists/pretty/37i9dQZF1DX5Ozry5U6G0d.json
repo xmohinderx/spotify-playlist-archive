@@ -1,12 +1,12 @@
 {
   "description": "That summer sound.",
-  "num_followers": 1710149,
+  "num_followers": 1710179,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyNDY5MCwwMDAwMDAwMDAwNGRkMDliYzg3YWNiY2Q3ZDEwMjhkMmU2ZTI0MDlh",
+  "snapshot_id": "MTY2MDkyNDY5MCwwMDAwMDAwMDBhYzY1NzFmZWM0OGU1NDYxNTNjNGJhMmUwY2JjZDkw",
   "tracks": [
     {
       "added_at": "2022-08-19 15:58:10",
@@ -319,26 +319,6 @@
     {
       "added_at": "2022-08-19 15:58:10",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2022-08-19 15:58:10",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2022-08-19 15:58:10",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-08-19 15:58:10",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-08-19 15:58:10",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
-    },
-    {
-      "added_at": "2022-08-19 15:58:10",
-      "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2022-08-19 15:58:10",
+      "album": {
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
     },
     {
       "added_at": "2022-08-19 15:58:10",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-08-19 15:58:10",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2022-08-19 15:58:10",
-      "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "added_at": "2022-08-19 15:58:10",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2022-08-19 15:58:10",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-08-19 15:58:10",
       "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2022-08-19 15:58:10",
+      "album": {
         "name": "Magic In The Hamptons (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 164640,
       "name": "Magic In The Hamptons (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
-    },
-    {
-      "added_at": "2022-08-19 15:58:10",
-      "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2022-08-19 15:58:10",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-08-19 15:58:10",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2022-08-19 15:58:10",
+      "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 148944,
       "name": "UP",
       "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
-    },
-    {
-      "added_at": "2022-08-19 15:58:10",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2022-08-19 15:58:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,515 likes - 68 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,553 likes - 68 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 7 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 |
 | 8 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
 | 9 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:21 |
-| 10 | [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 |
+| 10 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
 | 11 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
 | 12 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
 | 13 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 67 | [DBTWO!](https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI) | 3:42 |
 | 68 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 |
 
-Snapshot ID: `MTY2MjY0OTIwMCwwMDAwMDAwMGFkZWVjN2IwYzVjZThiZTM4NjZmMzAwMDlmOWI3Mzg0`
+Snapshot ID: `MTY2MjY0OTIwMCwwMDAwMDAwMDQxOTUyOGNlMzQxYjdjMzQwMDIzM2U1NTFhZjk3ZjQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de \u00e9xitos para ponerle ritmo a las tareas del hogar.",
-  "num_followers": 268102,
+  "num_followers": 268232,
   "original_name": "\u00a1A limpiar con Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDJjMmE2MTk0ZDIwYTRjYTJlNWIxODcxYTgwYzIxYTI1",
+  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMGY5NDM5ODY2ZDg0Yzk5NGVlYjE3OGEzODc3ZmRiMDhl",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Fantasi",
         "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
@@ -1203,6 +1203,46 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "506",
+      "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1251,26 +1291,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "506",
-        "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "506",
-      "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1815,22 +1815,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Sci-Fi",
-        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
+        "name": "Andas En Mi Cabeza",
+        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 198540,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
+      "duration_ms": 247493,
+      "name": "Andas En Mi Cabeza",
+      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     }
   ],
   "unique_name": "\u00a1A limpiar con Pop!",

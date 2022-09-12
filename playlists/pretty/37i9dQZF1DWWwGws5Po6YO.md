@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,900 likes - 59 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,915 likes - 59 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 15 | [SOTRS](https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 9:30 |
 | 16 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
 | 17 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
-| 18 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |
+| 18 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
 | 19 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
-| 20 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
+| 20 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |
 | 21 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:21 |
 | 22 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 |
 | 23 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Together Is A Beautiful Place To Be \(Nala Sinephro Remix\)](https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr) | 2:27 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 58 | [Moderato Cantabile](https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 7:58 |
 | 59 | [Cry Me A Blizzard \- AFRODEUTSCHE I'm Here Remix](https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [AFRODEUTSCHE](https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m) | [Cry Me A Blizzard \(AFRODEUTSCHE I'm Here Remix\)](https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3) | 3:29 |
 
-Snapshot ID: `MTY2MDkyOTg5NywwMDAwMDAwMDhjOTdiNjI0ODM2NDA4ZmFmYjViYWQzMzdiOTgzN2Zi`
+Snapshot ID: `MTY2MDkyOTg5NywwMDAwMDAwMGIyYzI5YzgzMTRmMTMwZGFjZjA3MGRkNGJmOTA1NzIy`

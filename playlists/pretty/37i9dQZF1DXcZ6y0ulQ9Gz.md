@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > The best in Indie in one place\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,271 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,279 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 11 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 |
 | 12 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
 | 13 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
-| 14 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 |
+| 14 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 15 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
-| 16 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
+| 16 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 |
 | 17 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 |
 | 18 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 |
 | 19 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 23 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
 | 24 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 25 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 |
-| 26 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
-| 27 | [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 |
+| 26 | [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 |
+| 27 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 28 | [The Hearse](https://open.spotify.com/track/0rcoSjQLh5QXhCmBYBdNDW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:04 |
 | 29 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 30 | [Delete Forever](https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:57 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 73 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 |
 | 74 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
 | 75 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
-| 76 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 |
-| 77 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
-| 78 | [Heartbeat](https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:50 |
+| 76 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
+| 77 | [Heartbeat](https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:50 |
+| 78 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 |
 | 79 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 80 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 |
 | 81 | [Famous](https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 4:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [intres\-ting](https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [intres\-ting](https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1) | 2:17 |
 | 100 | [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGRlMzJmMjVhNGNjYmI1M2ZjZDVhZmEyOTJkMjljZWY0`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDkyM2VjNTM3NGE2ZWQ0ZjkyMWFhNjAxNWVjNDJiZmQ3`

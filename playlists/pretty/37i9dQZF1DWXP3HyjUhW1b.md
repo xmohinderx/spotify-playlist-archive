@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras de nuestro cancionero\. En portada: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,149 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,425 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 44 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 45 | [Triste Recuerdo](https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:53 |
 | 46 | [Caray](https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:49 |
-| 47 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
-| 48 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 |
+| 47 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 |
+| 48 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 49 | [Mi Razón De Ser](https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:29 |
 | 50 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
 | 51 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 94 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 |
 | 95 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 |
 | 96 | [Caminos de Michoacán](https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [RCA 100 Años De Musica](https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA) | 3:30 |
-| 97 | [Cuatro Cirios](https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 2:46 |
-| 98 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
+| 97 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
+| 98 | [Cuatro Cirios](https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 2:46 |
 | 99 | [Cien años](https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:32 |
 | 100 | [Paloma Negra](https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:29 |
 
-Snapshot ID: `MTYzNjczNTc1OCwwMDAwMDAwMDEzNGMwMzM5MDJkZWU2OTk1MTU1YjQ0MGRiZjhjNGVj`
+Snapshot ID: `MTYzNjczNTc1OCwwMDAwMDAwMDhiYjk0OTkxZGIzZGI1NzU2ZDIxYjdiY2RkMmU5N2Ri`

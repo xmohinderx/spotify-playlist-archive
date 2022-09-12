@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,862 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,940 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 90 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe) | 4:37 |
 | 91 | [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 |
 | 92 | [Million](https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 4:28 |
-| 93 | [ON IT](https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:44 |
-| 94 | [Feature \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:50 |
+| 93 | [Feature \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:50 |
+| 94 | [ON IT](https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:44 |
 | 95 | [In This B\*tch](https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:16 |
 | 96 | [Birthday \- Remix](https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Birthday Gamble](https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK) | 4:42 |
 | 97 | [Ride Me](https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Metronome](https://open.spotify.com/track/3rtOtOEXkzo6tjEfr1IrqZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:58 |
 | 100 | [SOJU \- Remix](https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt) | [SOJU \(Remix\)](https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8) | 5:18 |
 
-Snapshot ID: `MTY2MDgzMzI3MiwwMDAwMDAwMDUwMjUzODkyMWIzNzAwMDNlNWEzY2E5MTQwZTZhZTcx`
+Snapshot ID: `MTY2MDgzMzI3MiwwMDAwMDAwMGM0ZmE1ODYzMzBiOTBmYzRhMjE1NzllZDg1Njc0MWI2`

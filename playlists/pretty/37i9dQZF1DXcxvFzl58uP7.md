@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,621 likes - 115 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,962 likes - 115 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 32 | [Dream Girl](https://open.spotify.com/track/3Z6cltU0OfbUdSZtZlzKPL) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl](https://open.spotify.com/album/2BVQCnH3Sj7lcBGAP9wPh1) | 2:59 |
 | 33 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 34 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
-| 35 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
-| 36 | [LoveSick](https://open.spotify.com/track/1zS5TccQwMDp5ZsEnt4FAh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/3PDjhTtjrjMLcNXjnfykz7) | 2:26 |
+| 35 | [LoveSick](https://open.spotify.com/track/1zS5TccQwMDp5ZsEnt4FAh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/3PDjhTtjrjMLcNXjnfykz7) | 2:26 |
+| 36 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
 | 37 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 |
 | 38 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 |
 | 39 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 41 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
 | 42 | [watch you sleep.](https://open.spotify.com/track/3GIIv6Eo0WSuM9Bxx5DTdR) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/1f1ED34dUA2H9mDYYTo99T) | 3:00 |
 | 43 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 |
-| 44 | [pouring outside](https://open.spotify.com/track/7g1251d41qVR8kq6yz9XXa) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [pouring outside](https://open.spotify.com/album/6P5mONYxeYoklwHZa8VLFx) | 2:36 |
-| 45 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 |
+| 44 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 |
+| 45 | [pouring outside](https://open.spotify.com/track/7g1251d41qVR8kq6yz9XXa) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [pouring outside](https://open.spotify.com/album/6P5mONYxeYoklwHZa8VLFx) | 2:36 |
 | 46 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 |
 | 47 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 |
 | 48 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 71 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
 | 72 | [Can I Have a Ride Home? I'm at a Party and I Don't Know Any1](https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Nightmare on Weed Street](https://open.spotify.com/album/5plRKyeSZpNohzLCguUWbG) | 1:51 |
 | 73 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 |
-| 74 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
+| 74 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 |
 | 75 | [Tree Among Shrubs](https://open.spotify.com/track/4JYJU761kWJEK91hyug33F) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:08 |
-| 76 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 |
-| 77 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 |
-| 78 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 |
+| 76 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
+| 77 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 |
+| 78 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 |
 | 79 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 |
 | 80 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 |
 | 81 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 |
@@ -105,15 +105,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 95 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 |
 | 96 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
 | 97 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
-| 98 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 |
-| 99 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
+| 98 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
+| 99 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 |
 | 100 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
 | 101 | [Bends](https://open.spotify.com/track/7neXef29cogkuASB5rTafo) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Cut Out](https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB) | 2:35 |
-| 102 | [friends or not](https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [friends or not](https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT) | 3:12 |
-| 103 | [Satellite](https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/69IZlBwPWmrbqrWfQiQ5DU) | 3:11 |
+| 102 | [Satellite](https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/69IZlBwPWmrbqrWfQiQ5DU) | 3:11 |
+| 103 | [friends or not](https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [friends or not](https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT) | 3:12 |
 | 104 | [How Was Your Day?](https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m) | [Mellow Fellow](https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [How Was Your Day?](https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9) | 3:08 |
-| 105 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
-| 106 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
+| 105 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
+| 106 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
 | 107 | [Organon](https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:30 |
 | 108 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 109 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 114 | [Picture](https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Picture](https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj) | 2:36 |
 | 115 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 |
 
-Snapshot ID: `MTY1NjY4NjEzNCwwMDAwMDAwMDkyOGY0YWEyNzQ1ZDU3YTM3YWFiM2YwYWU2ZTQyMzUw`
+Snapshot ID: `MTY1NjY4NjEzNCwwMDAwMDAwMDYzNjhhODY4OTExYjliYTRiZThmNWIxZDY2NGE5MTYw`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
-  "num_followers": 431876,
+  "num_followers": 431970,
   "original_name": "10s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMDkwZDAxYjQ5ZmM5NmE1ZmQwYjcyN2E0ZjkxMThlZDNj",
+  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMDg2MjY3MTI2OTllNzZkYjZmY2ExMDY5NTU0MTM2ZWUz",
   "tracks": [
     {
       "added_at": "2022-03-09 13:40:09",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -739,18 +723,34 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 227847,
-      "name": "Born For Greatness",
-      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
+      "duration_ms": 230226,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Boom Boom Room (Side A)",
-        "url": "https://open.spotify.com/album/3N9J3rnfoDQmYLHTcRm1VB"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Mr. Doctor Man",
-      "url": "https://open.spotify.com/track/1yIMrzF45Ven2FzPFAr0Gg"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Revolution Radio",
         "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 224760,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Boom Boom Room (Side A)",
+        "url": "https://open.spotify.com/album/3N9J3rnfoDQmYLHTcRm1VB"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Mr. Doctor Man",
+      "url": "https://open.spotify.com/track/1yIMrzF45Ven2FzPFAr0Gg"
     },
     {
       "added_at": "2022-03-09 13:40:09",

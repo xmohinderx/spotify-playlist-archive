@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,447 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,468 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 5 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
 | 6 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 |
 | 7 | [Fuego En El 23](https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv), [Luigui Gomez](https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Fuego en el 23!](https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt) | 4:44 |
-| 8 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
-| 9 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
+| 8 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
+| 9 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
 | 10 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
 | 11 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 12 | [Juanito Alimaña](https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 7:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 49 | [Rumba En El Patio](https://open.spotify.com/track/2nCRjY5GCdAmZwQnjsCVro) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [El Gigante del Sur](https://open.spotify.com/album/3dnroWv7dsrbXlx9uHG0xZ) | 4:34 |
 | 50 | [Amigo De Qué](https://open.spotify.com/track/6xlMy3tJb0DWQrnO8qFHzO) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Infinito](https://open.spotify.com/album/4XPP8oI0Vb2Lm86YUyosog) | 3:28 |
 
-Snapshot ID: `MTU4NjgyMjU1OCwwMDAwMDAwMDk2ZmQyODQ4NTQ4NzVkNjdmNDdjZTFiYmI1YmY5NGI1`
+Snapshot ID: `MTU4NjgyMjU1OCwwMDAwMDAwMDQ5YjE3ZTM1YzEzY2FmYzNhYzBlMmU4MWIwNzJlZTUx`

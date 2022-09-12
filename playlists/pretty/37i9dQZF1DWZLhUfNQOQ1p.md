@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,640 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,652 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 28 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 |
 | 29 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 |
 | 30 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 |
-| 31 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 |
-| 32 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
+| 31 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
+| 32 | [Love Me \(Don't Worry\)](https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [Love Me \(Don't Worry\)](https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l) | 2:42 |
 | 33 | [White Heart Sand](https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [White Heart Sand](https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd) | 3:48 |
 | 34 | [Movement](https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [Movement](https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk) | 2:52 |
 | 35 | [Never Gonna Give You Up](https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Never Gonna Give You Up](https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8) | 3:32 |
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 43 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
 | 44 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 |
 | 45 | [Don't Speak](https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3) | [Don't Speak](https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD) | 3:24 |
-| 46 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
-| 47 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
+| 46 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
+| 47 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
 | 48 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 |
 | 49 | [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 |
-| 50 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
-| 51 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 |
+| 50 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
+| 51 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
 | 52 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 |
 | 53 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 |
 | 54 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
 | 55 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
 | 56 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
 | 57 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
-| 58 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
-| 59 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
+| 58 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 |
+| 59 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 60 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDY4ZWMxN2NmNDcxY2Q5MTJlZDU4MTMzNzVkZjFkYTY5`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDRlYjRjMDliYjMzOGE0NmI2M2Q0M2U4ZTQyMjIxZWFi`

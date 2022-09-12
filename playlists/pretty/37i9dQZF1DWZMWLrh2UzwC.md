@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jackson Wang
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,202 likes - 72 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,205 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

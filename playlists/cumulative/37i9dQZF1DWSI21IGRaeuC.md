@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-111 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+112 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 | 2022-08-12 |  |
 | [Distress](https://open.spotify.com/track/5fiDIqVrR0l9P1pdO5Sr5C) | [Natalia Roth](https://open.spotify.com/artist/62ukgypcwfh2mbtvRcXPK8) | [Sérial Noceur](https://open.spotify.com/album/580Qb2oZyp81gqru8v5jQH) | 6:39 | 2022-07-15 | 2022-07-28 |
 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 | 2022-07-01 |  |
+| [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-09-09 |  |
 | [Encoding](https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Encoding EP](https://open.spotify.com/album/7m526KE380DYpcaItIMVad) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Energy](https://open.spotify.com/track/3h2DNWJn3GLNVhBQKpgxpK) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [YM006](https://open.spotify.com/album/0UtLUMq1i1r8nwbYNTkO3V) | 6:31 | 2022-06-03 | 2022-07-22 |
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 |  |
@@ -59,7 +60,7 @@
 | [Lightspeed](https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Lightspeed](https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe) | 6:22 | 2022-06-24 | 2022-07-21 |
 | [Like It Is](https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Kids Love Acid House](https://open.spotify.com/album/4ETe9T1phkZPjTMCQDn4Cb) | 7:00 | 2022-06-03 | 2022-07-27 |
 | [Lipid](https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Lipid](https://open.spotify.com/album/650mCjH1OTX40TgmzzkOP7) | 6:18 | 2022-06-03 | 2022-07-29 |
-| [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 | 2022-06-03 |  |
+| [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 | 2022-06-03 | 2022-09-12 |
 | [Love No Limit \- ReFreak](https://open.spotify.com/track/23L2ACZRwd2ayCUH2DJra1) | [Brandon Lucas](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Love No Limit \- ReFreak](https://open.spotify.com/album/7yOIRhmL6SFqPycQsNFBxw) | 4:42 | 2022-06-03 | 2022-07-29 |
 | [Love The Way You](https://open.spotify.com/track/2phBDqpIBoQOZ8W3pfIhet) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Love The Way You](https://open.spotify.com/album/1ooQcg0fUojEzoY9QIFNFL) | 4:36 | 2022-06-03 | 2022-07-28 |
 | [Lovelee Dae](https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Blaze \(Kevin Hedge\)](https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy) | [Lovelee Dae](https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg) | 6:22 | 2022-06-03 |  |

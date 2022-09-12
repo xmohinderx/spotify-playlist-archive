@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
@@ -1681,6 +1681,28 @@
       "duration_ms": 218500,
       "name": "Il mare",
       "url": "https://open.spotify.com/track/3EJYbCaCVlBp5NyJA4hpNb"
+    },
+    {
+      "album": {
+        "name": "Il Mio Giorno Migliore",
+        "url": "https://open.spotify.com/album/6ALhJ6zXjLDaiuy4OU2TjW"
+      },
+      "artists": [
+        {
+          "name": "Al Castellana",
+          "url": "https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289609,
+      "name": "Il Mio Giorno Migliore",
+      "url": "https://open.spotify.com/track/18Mm631s6Vr11mYyAJYL9A"
     },
     {
       "album": {

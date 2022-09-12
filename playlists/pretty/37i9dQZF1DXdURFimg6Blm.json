@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 388678,
+  "num_followers": 388720,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDJjMzJkNDljZDQ0MWIzMzY0NmM0ZGFlNTQzZGNhNTU2",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDZkOGMzMDhmOWU4NzAxZDY1NWFhNGQ3YjgwYWFjZGIw",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -539,26 +539,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
       "artists": [
         {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+      "duration_ms": 129479,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -587,22 +583,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
       },
       "artists": [
         {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
         }
       ],
-      "duration_ms": 129479,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+      "duration_ms": 174193,
+      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Check Out",
-        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 174138,
-      "name": "Check Out",
-      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Lonely Heart",
         "url": "https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 167526,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Check Out",
+        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 174138,
+      "name": "Check Out",
+      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 132417,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Ocean Of Tears",
         "url": "https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 182653,
       "name": "All Day (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 132417,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "We're Still Young",
-        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "We're Still Young",
-      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/0IMdcAOMTVKZ0VRShzII45"
       },
@@ -1495,6 +1471,30 @@
       "duration_ms": 146512,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/5Yg3kRGlB8UB6Sa8Fq4njc"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "We're Still Young",
+        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "We're Still Young",
+      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1551,26 +1551,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/4ZW6WBOX3bmgCZUwXAtTLB"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Blinkie",
-          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
-        },
-        {
-          "name": "Bright Sparks",
-          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
         }
       ],
-      "duration_ms": 146983,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
     }
   ],
   "unique_name": "Beast Mode Dance",

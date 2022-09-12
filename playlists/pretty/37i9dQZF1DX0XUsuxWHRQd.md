@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Baby, Gucci Mane and Yeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,631,757 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,634,073 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 21 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 |
 | 22 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 |
 | 23 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
-| 24 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 |
+| 24 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 | 25 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 26 | [BIG TIME \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:53 |
 | 27 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 50 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 |
 
-Snapshot ID: `MTY2Mjg0NTQ4MCwwMDAwMDAwMGViYWM0NGQ3ODBjZmVjYTJhZjBhODZmMmUyNWQ3YTcy`
+Snapshot ID: `MTY2Mjg0NTQ4MCwwMDAwMDAwMDM0ZjIxM2ExZjQ1N2I0MmRhMjI3MzBjODQxNWM0MTcy`

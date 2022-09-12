@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,217 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,640 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 46 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 |
 | 47 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
 | 48 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd) | 8:00 |
-| 49 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 |
-| 50 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
+| 49 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
+| 50 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 |
 | 51 | [Gravity](https://open.spotify.com/track/1eV81a6H4xDdpi8r2C4tQT) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Laura Korinth](https://open.spotify.com/artist/060duYsbrXFx0FDnlhs72T) | [Gravity](https://open.spotify.com/album/1p3Tbckk09MaXRz3Tf4dRK) | 3:36 |
 | 52 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 | 53 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
 | 54 | [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 |
 | 55 | [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 |
 
-Snapshot ID: `MTY2MjM1MTU2NiwwMDAwMDAwMDdmZGI1NzljYjI5MjIzY2NmYjM3Njc2MWYxYjMzZDBk`
+Snapshot ID: `MTY2MjM1MTU2NiwwMDAwMDAwMDFlNWYyNWM5NTNjNDJjYjk2OWM2MTM4YTdjZTU3NDk5`

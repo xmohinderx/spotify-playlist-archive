@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,900 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,935 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 34 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
 | 35 | [Cherry Pink And Apple Blossom White](https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The King of Mambo](https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp) | 2:29 |
 | 36 | [Besame Mucho](https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 3:05 |
-| 37 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
-| 38 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
-| 39 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
-| 40 | [Tu Castigo](https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:11 |
+| 37 | [Tu Castigo](https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:11 |
+| 38 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
+| 39 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
+| 40 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
 | 41 | [Mil Besos](https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:22 |
 | 42 | [Como Antes](https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Los 5 Latinos \(Singles Collection\)](https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6) | 1:56 |
 | 43 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 59 | [Perfídia](https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 2:53 |
 | 60 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
 
-Snapshot ID: `MTY2MTkzMjI1NywwMDAwMDAwMGE4YWFkOGI4MGI3Y2IwNzYzZmJhN2M5M2I2ZWVlYjg2`
+Snapshot ID: `MTY2MTkzMjI1NywwMDAwMDAwMDM1YWM2MTUzN2QwOWVhYjkzNzJkYTkwMmU3NjBhZDNm`

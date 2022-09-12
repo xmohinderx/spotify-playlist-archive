@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,239 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,004 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 80 | [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 |
 | 81 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 |
 | 82 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 |
-| 83 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 |
-| 84 | [And i'd go a thousand miles](https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
+| 83 | [And i'd go a thousand miles](https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
+| 84 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 |
 | 85 | [Beautiful Lies](https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:32 |
 | 86 | [Drive By](https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eric B for President: Term 1](https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3) | 2:58 |
 | 87 | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 92 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
 | 93 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/58w68w4s8h9gw3xrDaXyuj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/album/1RtGE6VCkSEwd5jm0v1Wfp) | 2:49 |
 | 94 | [Good For You](https://open.spotify.com/track/578Eooad7oUyn4stovZiPg) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:41 |
-| 95 | [You, Dear](https://open.spotify.com/track/318GlwGP0P1jr3FrSiQWZq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:07 |
-| 96 | [If You Let Me](https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc) | 2:15 |
+| 95 | [If You Let Me](https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc) | 2:15 |
+| 96 | [You, Dear](https://open.spotify.com/track/318GlwGP0P1jr3FrSiQWZq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:07 |
 | 97 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 |
 | 98 | [Vibez](https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez](https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt) | 2:43 |
 | 99 | [wish that i could](https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 3:27 |
 | 100 | [You Right](https://open.spotify.com/track/7Me3GKpQyEsHwS9xnOrUgM) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 3:06 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDQ5ODFmZmQ2ZjI5ODhiYTM3MjU0ZmNiOGY2YTM3NjNh`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDg1NThkNTI1MGU0NWM5MjZlMWU1ZTkyOWM1NDkzM2Uz`

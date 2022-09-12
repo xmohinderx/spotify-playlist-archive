@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 198128,
       "name": "Esta noche",
       "url": "https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP"
@@ -2638,6 +2638,24 @@
     },
     {
       "album": {
+        "name": "Odio",
+        "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153732,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
+    },
+    {
+      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 245237,
       "name": "Por Eso Te Canto Yo",
       "url": "https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq"
@@ -4255,7 +4273,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 185781,
       "name": "Vas A Llorar",
       "url": "https://open.spotify.com/track/6lF45hzdxt6Z2hQf1zzyOl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,146 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,353 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 46 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
 | 47 | [El Corrido De La Amapola](https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:09 |
 | 48 | [Regalo Caro](https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [El Cartel de Los Cielos](https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b) | 3:58 |
-| 49 | [Corrido de los Pérez](https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW) | [Corridos Famosos](https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd) | 3:58 |
-| 50 | [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 |
+| 49 | [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 |
+| 50 | [Corrido de los Pérez](https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW) | [Corridos Famosos](https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd) | 3:58 |
 | 51 | [Corrido de Domingo Corrales](https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:56 |
 | 52 | [Corrido de Chito Cano](https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CORRIDOS FAMOSOS VOL\. 2 \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7) | 3:27 |
 | 53 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 74 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 | 75 | [Heraclio Bernal](https://open.spotify.com/track/1WRxstLiGTUU5gWCf88nsp) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 2:57 |
 
-Snapshot ID: `MTY1MTYwMjEyMCwwMDAwMDAwMDkyNDA3MGY5YjA2OTBiMzU1M2RmM2U0NDBlNzA1NmFk`
+Snapshot ID: `MTY1MTYwMjEyMCwwMDAwMDAwMGYzNzE2ZjhkOThmYzEwNmE3NzE5MmJmZWU5MWQyYjU1`

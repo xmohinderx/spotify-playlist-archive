@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,789 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,920 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 27 | [Messages from the Stars](https://open.spotify.com/track/4vpGXQlusfDlUpvk0tIaa3) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Past, Present & Future](https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA) | 7:40 |
 | 28 | [Remind Me \- Remastered Version](https://open.spotify.com/track/5kovvNB51QrikkznHROXvj) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Forget Me Nots](https://open.spotify.com/album/0nmo06KvlBGr2ypKt38IId) | 5:14 |
 | 29 | [Why](https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 4:08 |
-| 30 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 |
-| 31 | [White Lines \(Don't Do It\)](https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf) | [Grandmaster Flash](https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0) | [Grandmaster Flash, Grandmaster Melle\-Mel & The Furious Five: The Greatest Hits](https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9) | 4:29 |
+| 30 | [White Lines \(Don't Do It\)](https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf) | [Grandmaster Flash](https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0) | [Grandmaster Flash, Grandmaster Melle\-Mel & The Furious Five: The Greatest Hits](https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9) | 4:29 |
+| 31 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 |
 | 32 | [Another Star](https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 8:28 |
 | 33 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
 | 34 | [Going Back to My Roots](https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Connections](https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef) | 5:03 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 84 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
 | 85 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
 | 86 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
-| 87 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 |
-| 88 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
+| 87 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
+| 88 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 |
 | 89 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
 | 90 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 |
 | 91 | [Lypso Illusion](https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Do It Do It Disco \(Tom Noble Remix\)](https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt) | [Myron & E](https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj), [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF) | [Do It Do It Disco](https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q) | 5:50 |
 | 100 | [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 |
 
-Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMDZlZWI5ODYxMzMzY2U4M2RhNTYxNjYyMzViMDIwM2Rk`
+Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMDE5NGZlMzhmMWJhMGM1NmVlMTlmOTdiYTVjZjYxNGY3`

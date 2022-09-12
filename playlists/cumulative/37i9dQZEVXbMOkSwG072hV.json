@@ -2385,7 +2385,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 658333,
       "name": "Casinha Favorita",
       "url": "https://open.spotify.com/track/2Bok8eOLrlwBUASYyfuOJw"
@@ -6901,7 +6901,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -11617,7 +11617,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
@@ -12937,6 +12937,28 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "album": {
+        "name": "Xerecation",
+        "url": "https://open.spotify.com/album/4EiSA9hWTEKnJDx73oLJwc"
+      },
+      "artists": [
+        {
+          "name": "DJ Nardini",
+          "url": "https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E"
+        },
+        {
+          "name": "Jhona!",
+          "url": "https://open.spotify.com/artist/2kIEoK0Iqz5kyMZlKWhWY0"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Xerecation",
+      "url": "https://open.spotify.com/track/69B1LNCFR2kjrJczNeQdRf"
     },
     {
       "album": {

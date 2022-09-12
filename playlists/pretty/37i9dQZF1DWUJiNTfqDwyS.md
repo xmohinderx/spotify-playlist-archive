@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,231 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,427 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 26 | [Fight Fire With Fire](https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ), [Maciej Taff](https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml) | [Necropolis](https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR) | 4:05 |
 | 27 | [Wind of Change](https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Wind of Change](https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG) | 5:22 |
 | 28 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
-| 29 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
-| 30 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
+| 29 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
+| 30 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
 | 31 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 32 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
 | 33 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 74 | [Animals](https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Animals](https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd) | 3:02 |
 | 75 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 |
 
-Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMGU1OWZjNWJmY2FjNjcwODVhZmJmNGRhMGVlMjRjNDE2`
+Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMGVmZjRmMjM5MTFjNGY3YzBiYmM1ODg4ZTMwMzkyNmI4`

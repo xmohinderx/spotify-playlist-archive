@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 87926,
+  "num_followers": 87952,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGZlMzg5MGRkYjlkNDJiZWQ5MzI4NDYwYjdlMDRmMjhk",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGIyODZiMGQ2OTIzNDQ4NDMxZjJkMTdlYjkwZThhYjA4",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Denne Sommer\u00b4n",
-        "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
-      },
-      "artists": [
-        {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Denne Sommer\u00b4n",
-      "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 136100,
       "name": "Du kan inte f\u00e5 min \u00f6l",
       "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Denne Sommer\u00b4n",
+        "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
+      },
+      "artists": [
+        {
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Denne Sommer\u00b4n",
+      "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Fylleangst",
-        "url": "https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74"
-      },
-      "artists": [
-        {
-          "name": "Oskar Westerlin",
-          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 118125,
-      "name": "Fylleangst",
-      "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Fylleangst",
+        "url": "https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "duration_ms": 118125,
+      "name": "Fylleangst",
+      "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Livet p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 153843,
-      "name": "Livet p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 124661,
       "name": "Svensk i kv\u00e4ll",
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Livet p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "duration_ms": 153843,
+      "name": "Livet p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "FRATERNITY",
-        "url": "https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        }
-      ],
-      "duration_ms": 126450,
-      "name": "FRATERNITY",
-      "url": "https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Aldri tilbake",
-        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Aldri tilbake",
-      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Evig vandring",
         "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
       },
@@ -1235,18 +1203,34 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Supa",
-        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
+        "name": "Aldri tilbake",
+        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 172106,
-      "name": "Supa",
-      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
+      "duration_ms": 201920,
+      "name": "Aldri tilbake",
+      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "FRATERNITY",
+        "url": "https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "duration_ms": 126450,
+      "name": "FRATERNITY",
+      "url": "https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 274053,
       "name": "Levva Livet",
       "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Supa",
+        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Supa",
+      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
     },
     {
       "added_at": "2022-09-08 22:00:00",

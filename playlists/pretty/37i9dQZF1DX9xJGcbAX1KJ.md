@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,922 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,935 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 2 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
 | 3 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
-| 4 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
-| 5 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
+| 4 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
+| 5 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
 | 6 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 |
 | 7 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 |
 | 8 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 37 | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/track/0n0XAmYCMWlzj3W9VdMejw) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Ray Toro](https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E) | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/album/5aoP0bnk5GoiW2NAX779eO) | 2:59 |
 | 38 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
 | 39 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
-| 40 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
-| 41 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 |
+| 40 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 |
+| 41 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
 | 42 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
 | 43 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 |
 | 44 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 49 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
 | 50 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 |
 
-Snapshot ID: `MTU1MDg2Njc4NiwwMDAwMDAwMDkyYjk0OTM4Y2ZkYjE5ODJmOTgzZGQ2ZTcyZDBmOGUz`
+Snapshot ID: `MTU1MDg2Njc4NiwwMDAwMDAwMDkzODAxNDY4MjVkZmRhZjk4ZTU1MjhlNTVlZjJjMTBi`

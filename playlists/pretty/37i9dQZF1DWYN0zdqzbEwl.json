@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4019711,
+  "num_followers": 4020133,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMGU0ZjA3NTJjOTZlZWVhZWFlMzVmYjY4OWFjOTZkNWIy",
+  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMGFmMDkzZTcyZTQxZTUyODBkNWQ1NDExNzRlNzE3ZTU4",
   "tracks": [
     {
       "added_at": "2022-08-31 06:35:41",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 255506,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
+      "duration_ms": 255506,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
         "name": "Naufragios",
         "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233733,
       "name": "A un minuto de ti",
       "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
         "name": "Las Consecuencias",
         "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 233960,
       "name": "Frente a frente (feat. Tulsa)",
       "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
     },
     {
       "added_at": "2022-08-31 06:35:41",

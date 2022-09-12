@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,672,680 likes - 120 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,673,307 likes - 120 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 62 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 |
 | 63 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
 | 64 | [One Day](https://open.spotify.com/track/1GFpfkiHbZ93p7QImi5RAO) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/3YuMUT4sLXlXBm2aDIOfOG) | 2:24 |
-| 65 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
-| 66 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
+| 65 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
+| 66 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
 | 67 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 68 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 |
 | 69 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 70 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
-| 71 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
-| 72 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 71 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 72 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 73 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 |
 | 74 | [Undercover Martyn](https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 2:47 |
 | 75 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 85 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
 | 86 | [Listerine](https://open.spotify.com/track/5LEVjmo2QweDHc7k19aFcp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:35 |
 | 87 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
-| 88 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 |
-| 89 | [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 |
+| 88 | [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 |
+| 89 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 |
 | 90 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
 | 91 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
 | 92 | [Float](https://open.spotify.com/track/3Rg5r1w6B7ZXEhd5elZ7Np) | [HARBOUR](https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO) | [Thoughts on Letting Go](https://open.spotify.com/album/1FNraVqmo20A7u9b1Y7FcF) | 4:31 |
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 108 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
 | 109 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 |
 | 110 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
-| 111 | [Fuzzybrain](https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:39 |
-| 112 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 |
+| 111 | [You'll Understand When you're Older](https://open.spotify.com/track/4jbxk26vQ2cl5dMaYJtOzM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:52 |
+| 112 | [Fuzzybrain](https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:39 |
 | 113 | [Dræm Girl](https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Summer Break Mixtape](https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65) | 3:54 |
-| 114 | [You'll Understand When you're Older](https://open.spotify.com/track/4jbxk26vQ2cl5dMaYJtOzM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:52 |
+| 114 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 |
 | 115 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
 | 116 | [Dope on a Rope](https://open.spotify.com/track/76c1AuZodByXM3X2k48wju) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 4:10 |
 | 117 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 |
 | 120 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 |
 
-Snapshot ID: `MTY2MjEyMzYwMCwwMDAwMDAwMDlmZDA4YzRhOTY4OTEyNWI3Mzc4MTJkMTYyYWQ2ZTNj`
+Snapshot ID: `MTY2MjEyMzYwMCwwMDAwMDAwMDM1NGY0ZDM2YWI5ODUxYWNkMTdlYzM5OTUwYjcwNTQz`

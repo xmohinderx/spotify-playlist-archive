@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now\. Cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,989 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,981 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 30 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 |
 | 31 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
 | 32 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 |
-| 33 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 33 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 34 | [Come With Me](https://open.spotify.com/track/26xDpdbYyHQtL1VigJRkhD) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Come With Me](https://open.spotify.com/album/1H9pgl0ykNBD3NeZsk6Eve) | 3:33 |
 | 35 | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/track/37bDM2Llg0gA1iqdFZFByC) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/album/2H1PS3AVtPPQ5fW1nHgFhh) | 3:11 |
 | 36 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 |

@@ -4,12 +4,13 @@
 
 > 100 % ska latinoamericano\. La Maldita Vecindad en portada.
 
-255 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
+256 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 | 2021-12-21 |  |
 | [A Beber Ron](https://open.spotify.com/track/7jDxZOrNK2oUstpupqrEko) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [De Vuelta Atrás](https://open.spotify.com/album/7thrKGgXnGuF3a9ArQFdwq) | 4:30 | 2021-12-21 | 2022-07-16 |
+| [A Rianxeira](https://open.spotify.com/track/5bnz3fQJMiu8WsIAM5UZdf) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO), [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Alvarino](https://open.spotify.com/artist/66nV2rjaXypopvC4tOEsCy) | [A Rianxeira](https://open.spotify.com/album/796dod5MMuXxHfLhYKAbuP) | 3:09 | 2022-09-11 |  |
 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 | 2022-04-01 | 2022-07-23 |
 | [Abrázame](https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Abrázame](https://open.spotify.com/album/6FvczgJQ93Surwfpn4Q9ba) | 4:03 | 2022-03-18 | 2022-07-24 |
 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 | 2021-12-21 |  |
@@ -213,7 +214,7 @@
 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 | 2021-12-21 | 2022-07-26 |
 | [Ska Mundo Ska](https://open.spotify.com/track/7Iwyf6xoHbLotyoIaUmKnr) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Bailando Sobre las Ruinas](https://open.spotify.com/album/3EsVEnV2QwDau8JowS2kPh) | 3:46 | 2021-12-21 | 2022-03-09 |
 | [Skabio \- Remasterized 2001](https://open.spotify.com/track/5DQcXVqGmYjQHGQ3ffKjcJ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 2:36 | 2021-12-21 | 2022-03-15 |
-| [Skalari Rude Klub \(SRK\)](https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [En la Kalle](https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P) | 3:37 | 2021-12-21 |  |
+| [Skalari Rude Klub \(SRK\)](https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [En la Kalle](https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P) | 3:37 | 2021-12-21 | 2022-09-12 |
 | [Skapate](https://open.spotify.com/track/0WxhUVk13E7CEmbVSbh9Io) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Desorden Publico](https://open.spotify.com/album/2yvlTPqKqzq1lDDTBpf1tz) | 3:28 | 2021-12-21 | 2022-06-17 |
 | [Skapate](https://open.spotify.com/track/0mGNPivC5BpTowR3NF45bD) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Julieta Venegas](https://open.spotify.com/artist/0r0eibQp01HGqJ2G5ZI7ZC), [Dr\. Shenka \(Panteón Rococo\)](https://open.spotify.com/artist/4dN6IoHeBRjtAglBjD78o6), [Cheko Biloba \(Gingo Biloba\)\)](https://open.spotify.com/artist/4lrZxFF6CPSz4PeRX6YuNh) | [Latin Ska Force](https://open.spotify.com/album/08kUnQ8s0LRXCnL3u5h7wW) | 3:37 | 2021-12-21 | 2022-07-29 |
 | [Skápate](https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Julieta Venegas](https://open.spotify.com/artist/0r0eibQp01HGqJ2G5ZI7ZC), [Cheko Biloba](https://open.spotify.com/artist/15Iv3aQ1jLdyRLvbJ5Vdo2), [Dr\. Shenka](https://open.spotify.com/artist/4y4EPNQdZnWTw0XoNWF7c1) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:37 | 2021-12-21 |  |

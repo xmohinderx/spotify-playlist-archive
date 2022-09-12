@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: George Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,230 likes - 129 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,306 likes - 129 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

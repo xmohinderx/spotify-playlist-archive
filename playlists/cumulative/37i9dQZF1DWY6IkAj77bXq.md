@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Space Within a Space](https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync) | 3:11 | 2022-07-05 | 2022-07-29 |
-| [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 | 2022-09-02 |  |
+| [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 | 2022-09-02 | 2022-09-12 |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-07-05 |  |
 | [Air Castle](https://open.spotify.com/track/71Y8n0VSW7i2Qe1Z1rABsi) | [Sea Island](https://open.spotify.com/artist/2afQ9hxy9APHOBXi7NViRc) | [Air Castle](https://open.spotify.com/album/3Ck54QdjjEgDPjPgNEF4yo) | 3:34 | 2022-07-19 | 2022-07-26 |
 | [Air in the Morning](https://open.spotify.com/track/265Gf3408oAX2bGYUYf7i9) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/2lzp3FhFFbp33LZGFwzdFK) | 3:04 | 2022-07-05 | 2022-07-29 |
@@ -123,7 +123,7 @@
 | [Waves of Harmony](https://open.spotify.com/track/3bFrewfGiJ3Zw9FKB6A63W) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Waves of Harmony](https://open.spotify.com/album/3VOhKn22ZqXnvBHYXukrAc) | 2:38 | 2022-07-05 | 2022-07-28 |
 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 | 2022-07-05 |  |
 | [Weightless](https://open.spotify.com/track/3dgeoy7YwkEMaa1gPHtqOa) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Weightless](https://open.spotify.com/album/3SeUtPVXxyLEOK9Fd4VQzG) | 1:45 | 2022-07-19 | 2022-07-25 |
-| [World Peace](https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Solfeggio Frequencies & Meditation Music](https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS) | 6:49 | 2022-07-05 | 2022-09-11 |
+| [World Peace](https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Solfeggio Frequencies & Meditation Music](https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS) | 6:49 | 2022-07-05 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-07-05 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

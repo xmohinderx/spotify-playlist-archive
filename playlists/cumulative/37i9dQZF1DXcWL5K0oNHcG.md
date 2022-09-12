@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Marissa Zechinato Artwork: Joy Yamusangie
 
-752 songs - 2 day 12 hr 48 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+753 songs - 2 day 12 hr 51 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Dream Chaser](https://open.spotify.com/track/0vdB6LzEsOVBbtGZVK6TSM) | [Nikola Bankov](https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Dream Chaser](https://open.spotify.com/album/6do2ff8V2y5SJUpbKAlMzD) | 5:33 | 2022-04-13 | 2022-05-12 |
 | [Dreamers](https://open.spotify.com/track/6Sqz4CWXYDwOq0Opsh40ow) | [Mark Lockheart](https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic) | [Dreamers](https://open.spotify.com/album/3eLkBnP846iLeo9rIZc5JN) | 5:28 | 2022-01-26 | 2022-03-17 |
 | [Driving Me Insane](https://open.spotify.com/track/4bbmKQSab2j4wRVvhQGJ3v) | [Macanto](https://open.spotify.com/artist/1qUC1aNxx3Oah1GYuB8jGo), [Stephanie Heitz](https://open.spotify.com/artist/1p4877VJsxWPA73xjvxpcn) | [Driving Me Insane](https://open.spotify.com/album/1KdOIAlsYVusOFSM17TU1y) | 3:15 | 2022-08-03 |  |
-| [Drumatix](https://open.spotify.com/track/6BmQG71w03i9Aa91EjB6XR) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Drumatix](https://open.spotify.com/album/1B3RehkYM4vEYYAZk66yci) | 2:51 | 2022-08-10 |  |
+| [Drumatix](https://open.spotify.com/track/5aEo1HS6U1QXBoVr2H2xnp) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Solar Eclipse](https://open.spotify.com/album/0lDFZxOkZ3A37NkUntkBMj) | 2:51 | 2022-08-10 |  |
+| [Drumatix](https://open.spotify.com/track/6BmQG71w03i9Aa91EjB6XR) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Drumatix](https://open.spotify.com/album/1B3RehkYM4vEYYAZk66yci) | 2:51 | 2022-08-10 | 2022-09-12 |
 | [Duda](https://open.spotify.com/track/2fCkFI19Md79sMg9lyZSxq) | [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Duda](https://open.spotify.com/album/1ZZpj2GgG8vw6Gj4Jo2OAD) | 5:40 | 2022-07-20 | 2022-09-01 |
 | [Duende](https://open.spotify.com/track/71gPHpbc4D5ZO8LrTEUeiT) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Pariss Elektra](https://open.spotify.com/artist/3He52zYjFhdsoNua35KzxE) | [Duende](https://open.spotify.com/album/4mTa4SNyDsgIDW0ZdxUeNL) | 6:51 | 2022-05-18 | 2022-06-16 |
 | [Duochrome](https://open.spotify.com/track/2puIUgjXRGW0sMa1YX1KoK) | [Duochrome](https://open.spotify.com/artist/7oEPPw9oIE9daEBxJ4qRlB) | [Duochrome](https://open.spotify.com/album/3LaFzuUwQyrqJ7qZ2YAaZ7) | 6:56 | 2022-05-11 | 2022-06-08 |

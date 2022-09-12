@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,567 likes - 73 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,575 likes - 73 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 38 | [Story Untold](https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68) | 3:12 |
 | 39 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 |
 | 40 | [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 |
-| 41 | [UNA DONNA CHE CONTA](https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [UNA VITA IN CAPSLOCK](https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL) | 3:45 |
-| 42 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
+| 41 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 |
+| 42 | [UNA DONNA CHE CONTA](https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [UNA VITA IN CAPSLOCK](https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL) | 3:45 |
 | 43 | [Perché piangi Palermo](https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Perché piangi Palermo](https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey) | 5:49 |
 | 44 | [Moisture \(feat\. Luca Santucci\) \- Headman Club Version \[Bonus Track\]](https://open.spotify.com/track/2c47507B0oE6uGP0nKbv2c) | [Headman](https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64), [Luca Santucci](https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI) | [ON \(Deluxe Edition\)](https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb) | 5:20 |
 | 45 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 54 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
 | 55 | [NYC2MIA \- SOPHIE Remix](https://open.spotify.com/track/3bfZfblo5xLHXJgp8zxO2z) | [Basside](https://open.spotify.com/artist/1Oc8whczB0ya9jgVzx6djF), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [NYC2MIA \(SOPHIE Remix\)](https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R) | 3:09 |
 | 56 | [You Keep Me Hangin' On](https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:14 |
-| 57 | [Androgyny](https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:09 |
-| 58 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg) | 1:31 |
+| 57 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg) | 1:31 |
+| 58 | [Androgyny](https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:09 |
 | 59 | [White Horse](https://open.spotify.com/track/7cOjZKdxgshxWgeGfE4m01) | [Jessica 6](https://open.spotify.com/artist/1qchowrzlYU0bUrJA6Oy8X) | [See The Light](https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9) | 4:59 |
 | 60 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 | 61 | [Tropicanal](https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/0a5LE8ZiJ9TVEjEUt9hWwp) | 4:20 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 72 | [Superomantico](https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Superomantico](https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa) | 2:41 |
 | 73 | [Hands On Me](https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Moon Faces EP](https://open.spotify.com/album/55bGD2IkUYPSALh6TySzjy) | 2:41 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDY3NzA4MjRlNWM2YjdmMmRlZWYyZDU0NGIyZWE2MTli`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGE1NzUwOWIwMWQzN2Q0MzlhOGZmMTY3OTM2MTY2ZWE2`

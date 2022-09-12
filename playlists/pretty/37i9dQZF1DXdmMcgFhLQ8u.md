@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,540 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,662 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 5 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
 | 6 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
 | 7 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
-| 8 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
-| 9 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
+| 8 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
+| 9 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 | 10 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
 | 11 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 |
 | 12 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 30 | [Something People Say](https://open.spotify.com/track/4TZHMBkIq4HXHYJJrJz2D7) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [Something People Say](https://open.spotify.com/album/2194CQY1cmamzG8LS9CRbR) | 3:42 |
 | 31 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
 | 32 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
-| 33 | [Drunk Me](https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:31 |
-| 34 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 |
+| 33 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 |
+| 34 | [Drunk Me](https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:31 |
 | 35 | [Unlove You](https://open.spotify.com/track/3DeLvrawPtl8wSupXgTlSh) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Playing With Fire](https://open.spotify.com/album/76k8TW4lc0uzpaRHa2U0bK) | 3:54 |
 | 36 | [Breaking Up Was Easy In The 90's](https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:35 |
 | 37 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
 | 75 | [Goin' Through The Big D](https://open.spotify.com/track/4s6Q9zPmiYcpo5MR7uoVnt) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:35 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGYzMWIzM2U1ZWEwY2IwMGMyNjIzY2FmMTI4ZGU2NzQy`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDE5YmU1YWY4OTJhOGIyMzE0MDE0MzgxZDAxZDA3ZTFl`

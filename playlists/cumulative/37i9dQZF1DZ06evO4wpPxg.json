@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 230333,
       "name": "Baby, Let Me Lay It On You - Live",
       "url": "https://open.spotify.com/track/4eFMtVuEWbL2clRfgu66Oe"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 182047,
       "name": "Cross And Evil Woman Blues",
       "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 169830,
       "name": "God's Gonna Separate",
       "url": "https://open.spotify.com/track/0ABg6LnEmuwyFdYBTRi6Zx"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 186186,
       "name": "Got On My Traveling Shoes",
       "url": "https://open.spotify.com/track/6it4UJHJ6HuVqIpkDLQ8Vp"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 273533,
       "name": "Hold To God's Unchanging Hand",
       "url": "https://open.spotify.com/track/2Eg3ZWCqBn5TfGxNsNGFhU"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "I Can't Bear My Burden By Myself",
       "url": "https://open.spotify.com/track/03iDpGZtb0pcEv5Y6aki2L"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 528053,
       "name": "I Feel Like My Time Ain't Long - Live in Portland, OR",
       "url": "https://open.spotify.com/track/6nVccmTg0TCxoGqukm11I6"
@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Folk Music At Newport",
+        "url": "https://open.spotify.com/album/7MveVlx4cgdTfWWxTVS2no"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289134,
+      "name": "I Will Do My Last Singing In This Land Somewhere - Live",
+      "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"
+    },
+    {
+      "album": {
         "name": "At Newport",
         "url": "https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc"
       },
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 185600,
       "name": "I'll Be All Right Some Day",
       "url": "https://open.spotify.com/track/6JGdOWfLkBMvGjv8ApMH72"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 169691,
       "name": "I'm Throwin' Up My Hands",
       "url": "https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 200360,
       "name": "Italian Rag",
       "url": "https://open.spotify.com/track/2qXjGxRs6kxHYXewUjhQbk"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 189906,
       "name": "Let Us Get Together Right Down Here",
       "url": "https://open.spotify.com/track/5cicntULcN9AtVoCu1fT4n"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 210466,
       "name": "Lord, I Feel Just Like Goin' On",
       "url": "https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 258266,
       "name": "Lord, I Looked Down The Road",
       "url": "https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 161360,
       "name": "Meet Me At The Station",
       "url": "https://open.spotify.com/track/7L9PoUci31JqwPrwlKxMyA"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 177706,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/08GtrSkf0Z8YmjUoJXQNv9"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 252093,
       "name": "The Uncloudy Day",
       "url": "https://open.spotify.com/track/50ODpWmYdH0EjbnUlKyuZ7"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 264373,
       "name": "Time Is Drawing Near",
       "url": "https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 310426,
       "name": "Walkin' Dog Blues",
       "url": "https://open.spotify.com/track/7lbpKUAARDWewV06pN8mOb"

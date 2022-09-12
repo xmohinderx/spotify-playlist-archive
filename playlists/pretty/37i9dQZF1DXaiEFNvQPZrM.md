@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,753 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,034 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 64 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 65 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 | 66 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
-| 67 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
-| 68 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
+| 67 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
+| 68 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
 | 69 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
 | 70 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
 | 71 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 99 | [Out Of Sight](https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 4:21 |
 | 100 | [Dancing Away with My Heart](https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Hell on an Angel](https://open.spotify.com/album/1V6RHh2eMlzWTgcEPgOAbu) | 3:47 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDM5MTU1MmZmZDVlMzE0ZmZkMzBjYzliZjUwYzg0OWRi`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDdmODg4MWU5MjEzYjMzYmUwMWFlYmZkZDIwZGY1Zjgz`

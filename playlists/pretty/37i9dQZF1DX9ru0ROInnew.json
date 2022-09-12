@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 66921,
+  "num_followers": 66968,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMDMzZjQ2ZjJjODZkMmE0MWU2ZWE1OGY3ZjZlM2ViZmJh",
+  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMDkzNmEyMzllY2QzNjhlOGM1MmEyZWMxZjJkNmQyNGMy",
   "tracks": [
     {
       "added_at": "2022-08-17 17:45:27",
@@ -2355,34 +2355,6 @@
     {
       "added_at": "2022-08-17 17:45:27",
       "album": {
-        "name": "Tu No Metes Cabra Remix",
-        "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 331440,
-      "name": "Tu No Metes Cabra - Remix",
-      "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
-    },
-    {
-      "added_at": "2022-08-17 17:45:27",
-      "album": {
         "name": "Caile",
         "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
       },
@@ -2411,6 +2383,34 @@
       "duration_ms": 300187,
       "name": "Caile",
       "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
+    },
+    {
+      "added_at": "2022-08-17 17:45:27",
+      "album": {
+        "name": "Tu No Metes Cabra Remix",
+        "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 331440,
+      "name": "Tu No Metes Cabra - Remix",
+      "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
     },
     {
       "added_at": "2022-08-17 17:45:27",

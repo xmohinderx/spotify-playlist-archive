@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era 🐍
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,201 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,030 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 73 | [Who Is She ?](https://open.spotify.com/track/6AdgGDGbdRMoCVkGye11Zw) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Neveroddoreven](https://open.spotify.com/album/4qD7h4hXvmKT49wDrN2kLE) | 3:33 |
 | 74 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 |
 | 75 | [overwhelmed](https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Overwhelmed](https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP) | 2:39 |
-| 76 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
-| 77 | [Take It Off](https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:35 |
-| 78 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
-| 79 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |
+| 76 | [Take It Off](https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:35 |
+| 77 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
+| 78 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |
+| 79 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 80 | [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 |
 | 81 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 | 82 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 91 | [THAT BITCH](https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [THAT BITCH](https://open.spotify.com/album/0kP7zWftghSBU2HVkjzcnP) | 3:21 |
 | 92 | [Class Fight](https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:41 |
 | 93 | [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 |
-| 94 | [Luxury](https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:48 |
-| 95 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
+| 94 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
+| 95 | [Luxury](https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:48 |
 | 96 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
 | 97 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 |
 | 98 | [Candy Store](https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx) | [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:52 |
 | 99 | [Hello Bitches](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Hello Bitches](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 2:58 |
 | 100 | [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 |
 
-Snapshot ID: `MTY2MjgzMTYwNywwMDAwMDAwMDMzMDljNzE4Y2NiNmI1MmM1OWNiMThjNDgyMTUwMjYy`
+Snapshot ID: `MTY2MjgzMTYwNywwMDAwMDAwMDM5ZjgyYzFmOTFiZmU3ZTlmZjYyMTc2MmZiMTE1MGQy`

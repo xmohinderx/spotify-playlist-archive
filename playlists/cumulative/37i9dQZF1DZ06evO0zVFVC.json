@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 211393,
       "name": "Anasasis (Xenophontis)",
       "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 308848,
       "name": "From the Heart of the Darkness",
       "url": "https://open.spotify.com/track/1ctb1cXqvfqBZEi81V19dM"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 211100,
       "name": "Gimme AD",
       "url": "https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E"
@@ -549,6 +549,24 @@
       "duration_ms": 228226,
       "name": "Idols and Anchors",
       "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je"
+    },
+    {
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160516,
+      "name": "If a God Can Bleed",
+      "url": "https://open.spotify.com/track/2b7yigvDL1fkswGnQv4hqc"
     },
     {
       "album": {
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 204603,
       "name": "The Sound of Violence",
       "url": "https://open.spotify.com/track/0M642wngTpDSoUTf6SYnSh"

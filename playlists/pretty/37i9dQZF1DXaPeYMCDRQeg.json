@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 137574,
+  "num_followers": 137653,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMDY1MDBiZWE0M2I1NjhhMDA4MzE3YmM5M2E3YThlMGFj",
+  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMGVlN2IxNDQ0MzM4ZTEyN2FmNmIxZTQ0NTA4YjE3N2Nk",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 283573,
       "name": "Breakdown (feat. Krayzie Bone & Wish Bone)",
       "url": "https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 194373,
       "name": "You Want My Love",
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 249506,
       "name": "This Luv",
       "url": "https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Personal Conversation",
         "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 276000,
       "name": "Happily Ever After",
       "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Wake Up Love",
         "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 215329,
       "name": "Wake Up Love",
       "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Can't Let It Show",
-        "url": "https://open.spotify.com/album/4HhADiM8pxlbilsOpxA6iO"
+        "name": "Star",
+        "url": "https://open.spotify.com/album/5MynMNCxSoiaCnLhA3y3NE"
       },
       "artists": [
         {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
         }
       ],
-      "duration_ms": 217391,
-      "name": "Can't Let It Show",
-      "url": "https://open.spotify.com/track/2kMarngrIWYgmAdVjruuuW"
+      "duration_ms": 287013,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/7ecOjXV0WlewEXaRo2kLNn"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/5MynMNCxSoiaCnLhA3y3NE"
+        "name": "Can't Let It Show",
+        "url": "https://open.spotify.com/album/4HhADiM8pxlbilsOpxA6iO"
       },
       "artists": [
         {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
         }
       ],
-      "duration_ms": 287013,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/7ecOjXV0WlewEXaRo2kLNn"
+      "duration_ms": 217391,
+      "name": "Can't Let It Show",
+      "url": "https://open.spotify.com/track/2kMarngrIWYgmAdVjruuuW"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Electric Circus",
-        "url": "https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/50q6yYmQ9Mzk4L95sxGXib"
       },
       "artists": [
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Hi-Five",
+          "url": "https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Come Close",
-      "url": "https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs"
+      "duration_ms": 350266,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/0flZtKtmkZMNqFF7V7Yfmu"
     }
   ],
   "unique_name": "Love Language",

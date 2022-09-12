@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,253 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,390 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 8 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 |
 | 9 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
 | 10 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 |
-| 11 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
-| 12 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
+| 11 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
+| 12 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 13 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
 | 14 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
 | 15 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 74 | [Hippies and Cowboys](https://open.spotify.com/track/1YWSAC0JPLKpf0PVCie4T7) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/2fUFSZr4KMEXOdsTw1LdSG) | 5:00 |
 | 75 | [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGNkZjE2ZjFjMmU1NDIxNDNiNDUxNDY3NzYwMjM3MTY3`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGYwZjM0ZTJkMzg4YjkxNGFjYThmMTZhYThhNjc0Mzc1`

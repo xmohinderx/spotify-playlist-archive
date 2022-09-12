@@ -1,12 +1,12 @@
 {
   "description": "Si estuvi\u00e9semo' en el k\u00ednder te enviaba cartita'...",
-  "num_followers": 242,
+  "num_followers": 285,
   "original_name": "TQM bb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5NzI0MywwMDAwMDAwMGZiNDFkNjA5MTc4MzhhMzBjNGJjNTIxNmY2YTY2NDFk",
+  "snapshot_id": "MTY2MjM5NzI0MywwMDAwMDAwMDlkMDVmNmVkZTE4OWQ3Mzc1YmMyNTVhMzI0ODhjYzI0",
   "tracks": [
     {
       "added_at": "2022-06-18 21:34:35",
@@ -207,26 +207,6 @@
     {
       "added_at": "2022-06-18 21:34:35",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 174932,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
-    },
-    {
-      "added_at": "2022-06-18 21:34:35",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
+    },
+    {
+      "added_at": "2022-06-18 21:34:35",
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 174932,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
     },
     {
       "added_at": "2022-06-18 21:34:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,247 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,246 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 91 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/7wENOKvqU7Noq6cutuH9Bp) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Sticky](https://open.spotify.com/album/3mU7AoUGdBqLu8LfjArZPK) | 2:44 |
 | 92 | [Manchester Super Reds No.1 Fan](https://open.spotify.com/track/0jlypw20LUoAw0zzCCwPDn) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 |
 | 93 | [Dark Side](https://open.spotify.com/track/2vICdcAEc10WfqMeRxOF1I) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 2:57 |
-| 94 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
+| 94 | [Broken Heart of Gold \- Japanese Version](https://open.spotify.com/track/6p7w2b3OeUd5uG6WsSVSwE) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 4:13 |
 | 95 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 96 | [The Writing On The Wall](https://open.spotify.com/track/4a66HnjRw3kBeQnIGcc8v9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N) | 6:13 |
 | 97 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 99 | [Sleepwalker](https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [As Blue as Indigo](https://open.spotify.com/album/3uyuxQdmh6N956P7RcOOIG) | 3:28 |
 | 100 | [NERVOUS](https://open.spotify.com/track/10WvNF3jA8WiFTTKbl1gme) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Simon Neil](https://open.spotify.com/artist/1bacSIxMGJgKSpuzxRXpiz) | [NERVOUS](https://open.spotify.com/album/69N9gAB78UpWOcVB7rWcp0) | 4:06 |
 
-Snapshot ID: `MTYzODM2NjY1MywwMDAwMDAwMGIwMjhmNjUzM2JhYWI0ZWQ4ZGU5YmEzODU0ZGIyYjgy`
+Snapshot ID: `MTYzODM2NjY1MywwMDAwMDAwMDg2ZWVjNzc5MDM3YWVmY2EwODkzZTZiZGRjM2MxNWQy`

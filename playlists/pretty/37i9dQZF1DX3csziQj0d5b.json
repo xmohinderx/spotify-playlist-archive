@@ -1,12 +1,12 @@
 {
   "description": "Some bops to take the pain of homework away.",
-  "num_followers": 1099485,
+  "num_followers": 1102420,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNDgwMCwwMDAwMDAwMGUxZWRiNjRlMDI3YWY2MmIyYjc1OTQwMjljODQ1ZDRm",
+  "snapshot_id": "MTY2MjcyNDgwMCwwMDAwMDAwMDJiNDE0MDdjM2M0NDg0NDlhZTA1YjhmOTAyY2QwOGI3",
   "tracks": [
     {
       "added_at": "2022-09-09 12:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 203569,
-      "name": "idontwannabeyouanymore",
-      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 203569,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+      "duration_ms": 230333,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 197411,
-      "name": "Ghost Of You",
-      "url": "https://open.spotify.com/track/1MhXdlCQPnO56T57MfmaRm"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 197411,
+      "name": "Ghost Of You",
+      "url": "https://open.spotify.com/track/1MhXdlCQPnO56T57MfmaRm"
     },
     {
       "added_at": "2022-09-09 12:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2022-09-09 12:00:00",
       "album": {
-        "name": "Soul Searching",
-        "url": "https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 169038,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn"
-    },
-    {
-      "added_at": "2022-09-09 12:00:00",
-      "album": {
         "name": "hate u love u",
         "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 175466,
       "name": "hate u love u",
       "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2022-09-09 12:00:00",
+      "album": {
+        "name": "Soul Searching",
+        "url": "https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 169038,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn"
     },
     {
       "added_at": "2022-09-09 12:00:00",

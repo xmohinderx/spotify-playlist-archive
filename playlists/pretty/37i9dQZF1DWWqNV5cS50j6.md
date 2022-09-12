@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Gorillaz make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,404 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,676 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 34 | [Bliss](https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 2:51 |
 | 35 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
 | 36 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 |
-| 37 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
-| 38 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
+| 37 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
+| 38 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 39 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 40 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
 | 41 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 46 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
 | 47 | [Leaving You](https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Leaving You](https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O) | 1:53 |
 | 48 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 |
-| 49 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 |
+| 49 | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC) | 4:40 |
 | 50 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 |
 
-Snapshot ID: `MTY2Mjc3NTk1NiwwMDAwMDAwMGM4MGNjZWUzNGZkZTc4ODk0ODBmMWMwODFlMjMyZGM3`
+Snapshot ID: `MTY2Mjc3NTk1NiwwMDAwMDAwMDRiMWJmODczZDRiYWE4OWI1NTI0MTRiNmE4ODZjY2Jm`

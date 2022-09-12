@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Choi Yuree\(최유리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,814 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,997 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 46 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 |
 | 47 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
 | 48 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 |
-| 49 | [It’s Not Easy](https://open.spotify.com/track/32bCGtVMTOJL9vHpaXly85) | [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF) | [It’s Not Easy](https://open.spotify.com/album/0DlghI0qWip2mrcNzamdQP) | 3:45 |
-| 50 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
+| 49 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
+| 50 | [It’s Not Easy](https://open.spotify.com/track/32bCGtVMTOJL9vHpaXly85) | [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF) | [It’s Not Easy](https://open.spotify.com/album/0DlghI0qWip2mrcNzamdQP) | 3:45 |
 
-Snapshot ID: `MTY2MjM5MjQ2MCwwMDAwMDAwMDhlM2QyNzRmYTI2ZWU2MzA1NmJkYWJlMWYzMTRjZTMw`
+Snapshot ID: `MTY2MjM5MjQ2MCwwMDAwMDAwMDA0ZTQ1NzNkMGNhNGU2NzAzNTE1M2FiNzIyM2JjMmNh`

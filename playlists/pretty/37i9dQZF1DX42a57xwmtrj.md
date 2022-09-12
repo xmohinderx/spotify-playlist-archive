@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,390 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,431 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 25 | [Cuando tú no estás](https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:26 |
 | 26 | [Me Dijiste](https://open.spotify.com/track/630TIL2bWuseStelIhFT6L) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:30 |
 | 27 | [Mi Muñequita Sintética](https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:08 |
-| 28 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
+| 28 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
 | 29 | [Barco Azul \- Remastered](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 |
 | 30 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
-| 31 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
+| 31 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
 | 32 | [Inhalando Amor](https://open.spotify.com/track/69hdWx8Zy66wkVrocafrrd) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [Inhalando Amor](https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG) | 4:04 |
 | 33 | [El y Yo](https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Fe](https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb) | 2:46 |
 | 34 | [No Estoy Muerto](https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:01 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 43 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
 | 44 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 | 45 | [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 |
-| 46 | [Asalto Chido](https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 3:23 |
+| 46 | [Fue en un Café](https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 2:48 |
 | 47 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
 | 48 | [Eso Es Amor](https://open.spotify.com/track/3TeYPfcZ7BKLwEic9WnzCz) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [15 Éxitos](https://open.spotify.com/album/0dlB97Gi1aU62lxdlEE7y8) | 4:26 |
 | 49 | [Me Llamas](https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH) | [Jessie Blues](https://open.spotify.com/artist/4MlV4s55GdlnJTnHl81Cbk) | [Entre Ángeles y Poetas](https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi) | 4:13 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 53 | [Por Tu Amor](https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS) | [Isis](https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC) | [Por Tu Amor](https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa) | 3:20 |
 | 54 | [Como Dona a Su Agujero](https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 4:21 |
 | 55 | [Barata y Descontó](https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 2:37 |
-| 56 | [Fue en un Café](https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 2:48 |
+| 56 | [Asalto Chido](https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 3:23 |
 | 57 | [Que Será de Mí](https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [Inhalando Amor](https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG) | 4:51 |
 | 58 | [Yo Quiero Que Sepas](https://open.spotify.com/track/1ByAq33DTLL2ecMBqUS3oQ) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [En Guerra de Amor](https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe) | 3:08 |
 | 59 | [La Dosis Perfecta](https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 6:29 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 64 | [Déjalo](https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r) | [Sangre Avandaro](https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8) | [Ella Ya Murió](https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV) | 5:01 |
 | 65 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |
 | 66 | [No Pinches Mames](https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 3:19 |
-| 67 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
+| 67 | [La Maquina Del Tiempo](https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En El Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 4:42 |
 | 68 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 |
 | 69 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
-| 70 | [La Maquina Del Tiempo](https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En El Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 4:42 |
-| 71 | [Silvia](https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 5:36 |
+| 70 | [Silvia](https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 5:36 |
+| 71 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
 | 72 | [Dios Salve a las Bandas](https://open.spotify.com/track/5pTIKSSckGFcPqsptMd6SA) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:08 |
-| 73 | [Ha Vuelto Ya](https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG) | [Brebaje Extraño](https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 4:40 |
-| 74 | [Me Gusta Tu Chava](https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0) | [Mara](https://open.spotify.com/artist/5NpJ55eRhoWSrnPwJkpmCA) | [Para Coleccionistas, Vol\. 1](https://open.spotify.com/album/19F5N6hIdQfpCuRqyVmjGf) | 3:22 |
-| 75 | [Charrock And Roll](https://open.spotify.com/track/3HmqRXlhhobsLaw3Bj1uIR) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:40 |
+| 73 | [Charrock And Roll](https://open.spotify.com/track/3HmqRXlhhobsLaw3Bj1uIR) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:40 |
+| 74 | [Ha Vuelto Ya](https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG) | [Brebaje Extraño](https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 4:40 |
+| 75 | [Estacion Del Metro Balderas](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
 
-Snapshot ID: `MTY0Njk3MTk4MiwwMDAwMDAwMDdiY2NmMDM0NzY0NTc1NzE3YTFmNjgxNDdmMDRiYTI1`
+Snapshot ID: `MTY0Njk3MTk4MiwwMDAwMDAwMDJkNGU1Nzk3MjQxYTY1YjU1MGRjZjcwODc2NzM4NjQ0`

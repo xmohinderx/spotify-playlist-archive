@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,720 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,859 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 47 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
 | 48 | [Da Baddest Bitch](https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:15 |
 | 49 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
-| 50 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 |
+| 50 | [Ching Ching](https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g) | [Ms\. Jade](https://open.spotify.com/artist/0WjnlObkDedRrSBTC9N3lW), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Girl Interrupted](https://open.spotify.com/album/0Byh9TWAYzZgzVCXAtKpIB) | 3:58 |
 
-Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMDFjMjAzNDI3NTFkMWRjYTlhZjM2YjY4ODQzNGNkN2Rm`
+Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMDVmODY1YTgyNWJkYmQxZDNkMjQzNTVkZWM1YzZlOGZj`

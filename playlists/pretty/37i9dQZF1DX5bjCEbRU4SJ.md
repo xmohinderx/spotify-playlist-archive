@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,374 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,359 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 32 | [This Must Be The Place](https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 3:32 |
 | 33 | [Farewell Transmission](https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04) | 7:22 |
 | 34 | [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 |
-| 35 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 |
-| 36 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
+| 35 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
+| 36 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 |
 | 37 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 38 | [Coming Down](https://open.spotify.com/track/62o5ETvaR1U8CqxVYancy4) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/5AeNEoouOMNiWvDwpKzVml) | 6:29 |
 | 39 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 59 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
 | 60 | [Oliver James](https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:23 |
 | 61 | [Can't Take You With Me](https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:10 |
-| 62 | [Swimming Away](https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE) | 3:08 |
-| 63 | [Something](https://open.spotify.com/track/3EYYcavvnkwTDUGXZbnLmR) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN) | 3:52 |
-| 64 | [Over The Ocean](https://open.spotify.com/track/0S5Rhu8BNrhiOlJ4oNJYBy) | [Here We Go Magic](https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f) | [A Different Ship](https://open.spotify.com/album/50hvTlCGJo45dPG0E87bOa) | 4:26 |
-| 65 | [On the Attack](https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ) | [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB), [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 4:21 |
-| 66 | [Wave of Mutilation \- UK Surf](https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle 25: B\-Sides, Peel Sessions And Demos](https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz) | 3:00 |
+| 62 | [Wave of Mutilation \- UK Surf](https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle 25: B\-Sides, Peel Sessions And Demos](https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz) | 3:00 |
+| 63 | [Swimming Away](https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE) | 3:08 |
+| 64 | [Something](https://open.spotify.com/track/3EYYcavvnkwTDUGXZbnLmR) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN) | 3:52 |
+| 65 | [Over The Ocean](https://open.spotify.com/track/0S5Rhu8BNrhiOlJ4oNJYBy) | [Here We Go Magic](https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f) | [A Different Ship](https://open.spotify.com/album/50hvTlCGJo45dPG0E87bOa) | 4:26 |
+| 66 | [On the Attack](https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ) | [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB), [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 4:21 |
 | 67 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
 | 68 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
-| 69 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
-| 70 | [Gospel](https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 4:29 |
+| 69 | [Gospel](https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 4:29 |
+| 70 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
 
-Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGQ2YzVlODllMzFhMzVkOTRlZWRkYTAxZGVhNjgwNThh`
+Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMDBlMDE2ZmZjMTI1NzMyYjU1MjU1YzBlMmVhYjAyMTcz`

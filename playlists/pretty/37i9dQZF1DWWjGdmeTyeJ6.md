@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Katherine Li, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,746 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,662 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

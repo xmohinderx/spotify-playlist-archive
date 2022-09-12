@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1SM8IZ5aPl2wVazZIUOb0H.md) - [plain]
 
 > 
 
-[Telkin](https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8) - 5 likes - 46 songs - 2 hr 48 min
+[Telkin](https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8) - 5 likes - 48 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,7 @@ pretty - [cumulative](/playlists/cumulative/1SM8IZ5aPl2wVazZIUOb0H.md) - [plain]
 | 44 | [Wasteland, Baby!](https://open.spotify.com/track/1IbgYIuVwJsibCcT5GFYHy) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:26 |
 | 45 | [a letter from a notable source](https://open.spotify.com/track/4yRvu06wfiQLznWImi5omX) | [Beetlebug](https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM) | [a letter from a notable source](https://open.spotify.com/album/2W5X6xZBjgWHDMAVTZfnSX) | 3:06 |
 | 46 | [edge of the world](https://open.spotify.com/track/2jd0X87fTd5947SPnsQNmp) | [Beetlebug](https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM) | [edge of the world](https://open.spotify.com/album/0KkYum5QVAfS5FdX8t9gpp) | 4:45 |
+| 47 | [Teenage Sound](https://open.spotify.com/track/06xPdNtt4iuQPKxQhBAQtb) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Teenage Sound](https://open.spotify.com/album/2D8dV3fLbJH4isDduuIxHt) | 2:51 |
+| 48 | [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 |
 
-Snapshot ID: `NDgsMDE4ZTc4NGY5NWVhYTJiNDVhZjYxYWExMGM1NGM0N2Y5NmNkODg5Zg==`
+Snapshot ID: `NTAsMTg0M2VmZTg5NTRlMTk3MzFlZTg2N2RkNDc1MzgyYTdiMmYzNTEyNw==`

@@ -1,12 +1,12 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 738864,
+  "num_followers": 739081,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwODg4MCwwMDAwMDAwMGVlY2RhNmMyMDc1ZGZlMGMzNWE0MzU0YmMxZjlmN2Yw",
+  "snapshot_id": "MTY0MjUwODg4MCwwMDAwMDAwMGNiODg1OWUxYWQzOGM2NDQ0N2E4MGI0N2FlNjljZGU4",
   "tracks": [
     {
       "added_at": "2020-07-08 17:47:52",
@@ -643,6 +643,22 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
       "artists": [
         {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
         }
       ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -703,22 +719,6 @@
       "duration_ms": 225786,
       "name": "Shiny Happy People",
       "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Genie In a Bottle",
-      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 280040,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 388733,
-      "name": "Nothing Else Matters (Remastered)",
-      "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 242106,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters (Remastered)",
+      "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 294786,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
       "artists": [
         {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
         }
       ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "added_at": "2020-07-08 17:47:52",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
       "artists": [
         {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     }
   ],
   "unique_name": "Easy 90s",

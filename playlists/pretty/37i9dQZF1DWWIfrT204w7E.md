@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: 22Gz
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,890 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,960 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 27 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
 | 28 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 |
 | 29 | [Practice Makes Perfect](https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Practice Makes Perfect](https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL) | 2:47 |
-| 30 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
-| 31 | [What They Gon Say](https://open.spotify.com/track/5XsXZ1c7GKFNfzSsoeYFY7) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Zay Munna](https://open.spotify.com/artist/14AVlxYsgbbSygfGrNbG3n) | [What They Gon Say](https://open.spotify.com/album/1myZxsTthy8vaYfv9UC2dU) | 2:31 |
+| 30 | [What They Gon Say](https://open.spotify.com/track/5XsXZ1c7GKFNfzSsoeYFY7) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Zay Munna](https://open.spotify.com/artist/14AVlxYsgbbSygfGrNbG3n) | [What They Gon Say](https://open.spotify.com/album/1myZxsTthy8vaYfv9UC2dU) | 2:31 |
+| 31 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
 | 32 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
 | 33 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
 | 34 | [Greece](https://open.spotify.com/track/5ohlN3aJiV7849vqb3HDI1) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greece](https://open.spotify.com/album/5zmDVvrSrECRqUimEeHygu) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Backseat](https://open.spotify.com/track/6PyDmJQd9gT9vBOc5aPAXw) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Backseat](https://open.spotify.com/album/5GJuKaFeTSF8FgES4iv7dM) | 2:41 |
 | 50 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGJlYzI4YTJmMTczODJmZDk0MGU1MzhmZDYxZTRhN2Nh`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDg0YWZhZDNlMTM0ZGFhZDBjNjhhODkyZThlZjc0ODJj`

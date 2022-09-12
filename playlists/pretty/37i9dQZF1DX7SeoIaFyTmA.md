@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,061 likes - 90 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,591 likes - 90 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 21 | [Cali Pachanguero](https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:10 |
 | 22 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 |
 | 23 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 4:49 |
-| 24 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
-| 25 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
+| 24 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
+| 25 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
 | 26 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
 | 27 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
 | 28 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 89 | [Amiga](https://open.spotify.com/track/3P97s0cNCeHeNGvfAe7WYE) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:40 |
 | 90 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
 
-Snapshot ID: `MTY2MTkyODEwOCwwMDAwMDAwMDZmOTc2MTYzOWRlYWQxMDRhYzNjMzU2ZGVmNjE5MGM4`
+Snapshot ID: `MTY2MTkyODEwOCwwMDAwMDAwMGJiYTA5YjQ5M2E3ZDIwMDdlY2ZkYTgyOWM0YTNiMGM2`

@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 28243,
+  "num_followers": 28289,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDEzMWNiYTIyYWY5NjQ2YWQ4ZDY1YTIzZjBhYTY4MjJh",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGYwMmYyNDMyMWNiYzkxOWRhYThhYTg3NmE2ZDE4YmRi",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv"
-      },
-      "artists": [
-        {
-          "name": "Derek Sherinian",
-          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
-        }
-      ],
-      "duration_ms": 218559,
-      "name": "Scorpion",
-      "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
@@ -547,6 +531,38 @@
       "duration_ms": 437607,
       "name": "Stadium Jazz",
       "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Bundles (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "duration_ms": 557933,
+      "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv"
+      },
+      "artists": [
+        {
+          "name": "Derek Sherinian",
+          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
+        }
+      ],
+      "duration_ms": 218559,
+      "name": "Scorpion",
+      "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -579,22 +595,6 @@
       "duration_ms": 383881,
       "name": "Zeal",
       "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Bundles (Remastered And Expanded Edition)",
-        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
-      },
-      "artists": [
-        {
-          "name": "Soft Machine",
-          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
-        }
-      ],
-      "duration_ms": 557933,
-      "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
-      "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -905,20 +905,20 @@
       "url": "https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Rubicon",
-        "url": "https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn"
       },
       "artists": [
         {
-          "name": "Lilly Legit",
-          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+          "name": "Jean-Luc Ponty",
+          "url": "https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr"
         }
       ],
-      "duration_ms": 181708,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
+      "duration_ms": 299466,
+      "name": "Is Once Enough?",
+      "url": "https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG"
     }
   ],
   "unique_name": "Prog Jazz",

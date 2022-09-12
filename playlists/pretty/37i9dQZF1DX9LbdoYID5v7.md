@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > The music that created modern indie as we know it\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,850 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,220 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 23 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 24 | [I Will Wait](https://open.spotify.com/track/0hm8rgOY17z7kQJlqGKbu7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 4:36 |
 | 25 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 |
-| 26 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
-| 27 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 26 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 27 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 28 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 29 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
 | 30 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 32 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 |
 | 33 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 | 34 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
-| 35 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
-| 36 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 |
+| 35 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 |
+| 36 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
 | 37 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
-| 38 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
-| 39 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
+| 38 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
+| 39 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 40 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 41 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 42 | [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 74 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
 | 75 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
 
-Snapshot ID: `MTY1OTA0NDkyNSwwMDAwMDAwMGE4Y2ZkYWNhZmZlNjI4YjNjOGM2YWYyYzU5ZDJmMTcw`
+Snapshot ID: `MTY1OTA0NDkyNSwwMDAwMDAwMDRmZmEwOWE3MDY4OTZkZTI0NjcyZDM1ZjIzZGJlMTJi`

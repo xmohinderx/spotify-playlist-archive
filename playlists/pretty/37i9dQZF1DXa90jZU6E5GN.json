@@ -1,12 +1,12 @@
 {
   "description": "a little glitter never hurt anyone",
-  "num_followers": 73612,
+  "num_followers": 73745,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkyMDk1MSwwMDAwMDAwMDVhNDllZTk1MGY5ZjkwNDcxY2ZjNGZhZmRjOWQ4ODAy",
+  "snapshot_id": "MTY1NTkyMDk1MSwwMDAwMDAwMGVmYTllNTg0OWNiNTJmYThjZjZlMWFkMDI2OGIzZTQ3",
   "tracks": [
     {
       "added_at": "2022-06-22 18:02:31",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-06-22 18:02:31",
       "album": {
+        "name": "747",
+        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Bartender",
+      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+    },
+    {
+      "added_at": "2022-06-22 18:02:31",
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2022-06-22 18:02:31",
       "album": {
-        "name": "747",
-        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Bartender",
-      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+      "duration_ms": 174120,
+      "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
     },
     {
       "added_at": "2022-06-22 18:02:31",
@@ -743,22 +759,6 @@
       "duration_ms": 216266,
       "name": "Road Less Traveled",
       "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
-    },
-    {
-      "added_at": "2022-06-22 18:02:31",
-      "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
-      },
-      "artists": [
-        {
-          "name": "Hannah Montana",
-          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
     },
     {
       "added_at": "2022-06-22 18:02:31",

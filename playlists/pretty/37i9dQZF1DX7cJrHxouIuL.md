@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,833 likes - 149 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,836 likes - 149 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 31 | [Park Song](https://open.spotify.com/track/53l1wPXST3OIOM4ezwV7i1) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Park Song](https://open.spotify.com/album/2DsDQ7NJWOd8yXHjp5mlho) | 2:04 |
 | 32 | [One Step](https://open.spotify.com/track/45xXszCUN8xRJWZuc2e23m) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let's Go!](https://open.spotify.com/album/6ffmeWb1QvrjbIK4k0MsTq) | 1:21 |
 | 33 | [Coconut](https://open.spotify.com/track/4fREsTCX2QlzJVlgPmCphS) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [Coconut](https://open.spotify.com/album/3bDdkQhYxwP5mEsNvZDgzu) | 2:39 |
-| 34 | [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 |
+| 34 | [Let My Rooster Crow](https://open.spotify.com/track/1O4pICQqHPNx5uSgoBD2zk) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/0Ek1rQtRncLXnvTa19r8HM) | 2:37 |
 | 35 | [Rain or Shine](https://open.spotify.com/track/3VoFSfgpdJxCkAPaEqIFJT) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Twinkle Time](https://open.spotify.com/artist/4E0DeT9yuP9Cvw9cXD94vS) | [Rain or Shine](https://open.spotify.com/album/5uM5Fqyl1lnTLXyqKtNNvw) | 3:03 |
 | 36 | [Porcupine](https://open.spotify.com/track/53KoLH3OX2QO8li4t5rRxY) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:41 |
 | 37 | [Hey There](https://open.spotify.com/track/3QnjD4MY1pUSKJCMmnZ8re) | [David Gibb](https://open.spotify.com/artist/52FYO0le6ZR0UpzqFtxSot), [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Hey There](https://open.spotify.com/album/5PASafpCrJiqZV0qouJOpt) | 3:42 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 148 | [Little Bird, Little Bird](https://open.spotify.com/track/5mdDzJBkQ7Gz7ePDCB397w) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Little Bird](https://open.spotify.com/album/4GYfEguWQPqdBpFO1XC1eB) | 2:28 |
 | 149 | [Wheels On The Bus](https://open.spotify.com/track/3c2UQUnufLzun0uggzYjzE) | [Kyle Andrews](https://open.spotify.com/artist/67tNmCzk9teeC1h8FgmqJA) | [For The Kids Three](https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A) | 2:51 |
 
-Snapshot ID: `MTY2MDE2Mzc3MywwMDAwMDAwMGUxOTg4OWMwNDAzMjczYjNmZDVmMTQ4MWQzMjE3YmU1`
+Snapshot ID: `MTY2MDE2Mzc3MywwMDAwMDAwMDhmMTgxMTNkOWU5NjRmZGM5OWQ3NjQ1N2MxYWI5YTJl`

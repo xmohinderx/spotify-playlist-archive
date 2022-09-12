@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,083 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,410 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 6 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 7 | [Gold Dust \- Fox Stevenson Remix](https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Gold Dust \(Fox Stevenson Remix\)](https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS) | 3:53 |
 | 8 | [Alive](https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Alive](https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh) | 3:17 |
-| 9 | [Getaway \- Koven Remix](https://open.spotify.com/track/10EpXLXKHmNSVKvX7A5hg8) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Angel Taylor](https://open.spotify.com/artist/6D5xkX8ecb4bGccXqtDI63), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Getaway \(Remixes\)](https://open.spotify.com/album/1pCddf4xbF2oOYFXTOZzDS) | 3:23 |
-| 10 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 |
+| 9 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 |
+| 10 | [Getaway \- Koven Remix](https://open.spotify.com/track/10EpXLXKHmNSVKvX7A5hg8) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Angel Taylor](https://open.spotify.com/artist/6D5xkX8ecb4bGccXqtDI63), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Getaway \(Remixes\)](https://open.spotify.com/album/1pCddf4xbF2oOYFXTOZzDS) | 3:23 |
 | 11 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \(from GRAN TURISMO 7\)](https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay) | 3:57 |
 | 12 | [Forever](https://open.spotify.com/track/0gKtM9aX5GGo1Kg0Zrwb8b) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Forever](https://open.spotify.com/album/6r4rwrTK0YafCqrtlk2tyl) | 2:38 |
 | 13 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 |
 | 50 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 |
 
-Snapshot ID: `MTY2MjIyMTM0NSwwMDAwMDAwMDU0Y2RlOGJiZTZmYmExNTdkZmVlMmY1ZmU2N2ZlOTU4`
+Snapshot ID: `MTY2MjIyMTM0NSwwMDAwMDAwMDg0YzQyNGNkZmI5OGEzMmVjYTMyYmExY2NiZWFkZTE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover:  ONE OK ROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,570 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,700 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 51 | [Kill Or Be Killed](https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:59 |
 | 52 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 |
 | 53 | [RECOVER](https://open.spotify.com/track/2k7lPTbMXcVLDoHqTE2Yzt) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [RECOVER](https://open.spotify.com/album/2ClSrGoU8x1kY3wL6cgl6r) | 3:22 |
-| 54 | [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 |
+| 54 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 |
 | 55 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 |
 | 56 | [Pawns & Kings](https://open.spotify.com/track/3MNZ79grelbBXsQcKUQZAh) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Pawns & Kings](https://open.spotify.com/album/4GdmE5jEDgN7bI8H4BphBT) | 6:18 |
 | 57 | [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Dark Side](https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ) | 2:57 |
 | 150 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2MjcyODQwMCwwMDAwMDAwMDk4OTllZjUwMGYxNWI5Zjk5Yzg2M2I2NmFjNGRkNmRm`
+Snapshot ID: `MTY2MjcyODQwMCwwMDAwMDAwMGU1YjVmODdlMDQxMTNhYjdkZDY5Mzk3YjczODk5OGM0`

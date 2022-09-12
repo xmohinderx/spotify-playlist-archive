@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,379 likes - 125 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,418 likes - 125 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 109 | [Playa](https://open.spotify.com/track/4ZaVajmkOBcdcjDmFScNYs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:04 |
 | 110 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 |
 | 111 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 |
-| 112 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
-| 113 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 |
+| 112 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 |
+| 113 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
 | 114 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
 | 115 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 |
 | 116 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 124 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 |
 | 125 | [Ley Seca](https://open.spotify.com/track/51yjkR9blUWtAphR7lZl5y) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Ley Seca](https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn) | 4:23 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDdhZTI5MzU3MTU1YWIzMDg1M2RmYWMyY2U0ZjIyYmI0`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDhmODJkYjA1YTk0NWUyZWUzMmMzODc5NjE4YzExNzIy`

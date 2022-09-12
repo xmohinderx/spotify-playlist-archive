@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Totally Enormous Extinct Dinosaurs
 
-567 songs - 1 day 12 hr 48 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+568 songs - 1 day 12 hr 51 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,7 @@
 | [Streetlights](https://open.spotify.com/track/1xvXkw437Ob7JE2L09KIjH) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Streetlights](https://open.spotify.com/album/6lEyQ7UXtPv3oipyWkDHzn) | 3:18 | 2022-04-08 | 2022-07-22 |
 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 | 2021-03-12 | 2022-01-03 |
 | [Strictly Business](https://open.spotify.com/track/1vfQTvWpBCwRPyYU5mZMfs) | [Clive From Accounts](https://open.spotify.com/artist/0HoKhZszlKG94i5rhyeL3n) | [Strictly Business EP](https://open.spotify.com/album/2lHljDHXgQa0d8oxLMGCG6) | 5:26 | 2021-10-29 | 2022-04-17 |
-| [Strike](https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ) | [Little Monarch](https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29) | [Strike](https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz) | 2:53 | 2021-06-25 |  |
+| [Strike](https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ) | [Little Monarch](https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29) | [Strike](https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz) | 2:53 | 2021-06-25 | 2022-09-12 |
 | [Suenos Bravos](https://open.spotify.com/track/0GvR5AtuXU05hbkRA5o4WT) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Suenos Bravos](https://open.spotify.com/album/0qkdLopwwuWRoX4U4FpXL0) | 3:30 | 2021-09-10 | 2022-08-18 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-06-11 | 2022-07-02 |
 | [summer on the inside](https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/3Wl4tQlkhwDKdfZn6K0SgD) | 3:25 | 2021-07-30 | 2022-02-12 |
@@ -557,6 +557,7 @@
 | [where does the party go?](https://open.spotify.com/track/4atGHE5y8dwjJFbXEUi3G2) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [where does the party go?](https://open.spotify.com/album/5zRMOqg6uhFCs7OTmTW8lH) | 2:58 | 2022-03-18 | 2022-04-11 |
 | [where I become someone](https://open.spotify.com/track/0ksR5KPinz2gURmTsZpWwU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [where I become someone](https://open.spotify.com/album/6G6nqU2YyUXQKzRNpPJ4mg) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Whittier Blvd.](https://open.spotify.com/track/659n3ILVIMmDNUDpUd5fYg) | [Jarren](https://open.spotify.com/artist/2KpTJqMLi6peQraKYndqO5) | [Antera](https://open.spotify.com/album/1tJABYqe39jM2xUwsoREZA) | 2:54 | 2022-01-28 | 2022-04-16 |
+| [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu) | 3:16 | 2022-09-09 |  |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-10 |  |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-02-26 | 2022-06-24 |
 | [Wildflower](https://open.spotify.com/track/2mIQWWaYinwqKxjEmE8Ave) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Wildflower](https://open.spotify.com/album/3mbvYM42ufrBY4ISpF8rtP) | 3:38 | 2021-10-01 | 2022-07-29 |

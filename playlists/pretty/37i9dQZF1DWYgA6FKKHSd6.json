@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 205141,
+  "num_followers": 205166,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGI2MWNjMzg0ODgxY2I2MjlhZmYxYWE4ZGNkNDhhNGMx",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDJiZWIwNjkwZmFkYWJiOGRmNjA3YWYzYmU0MGE2ZDY5",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 308826,
-      "name": "A Summer Night's Dream",
-      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "My Inspiration",
@@ -247,6 +231,22 @@
       "duration_ms": 307506,
       "name": "All Jazzed Up (And Nowhere To Go)",
       "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 308826,
+      "name": "A Summer Night's Dream",
+      "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -339,18 +339,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "James Vargas",
-        "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
       },
       "artists": [
         {
-          "name": "James Vargas",
-          "url": "https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        },
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
         }
       ],
-      "duration_ms": 312800,
-      "name": "Lasting Impression",
-      "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
+      "duration_ms": 289800,
+      "name": "Forever And A Day",
+      "url": "https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -371,22 +375,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+        "name": "James Vargas",
+        "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        },
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+          "name": "James Vargas",
+          "url": "https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC"
         }
       ],
-      "duration_ms": 289800,
-      "name": "Forever And A Day",
-      "url": "https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9"
+      "duration_ms": 312800,
+      "name": "Lasting Impression",
+      "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -709,6 +709,26 @@
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
     },
     {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Funky Fridays, Vol. 2",
+        "url": "https://open.spotify.com/album/4a5MVwLUmqVeT9wGKvhsfi"
+      },
+      "artists": [
+        {
+          "name": "Marlon McClain",
+          "url": "https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq"
+        },
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 199989,
+      "name": "ML Funk",
+      "url": "https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Hello Tomorrow",
@@ -765,26 +785,6 @@
       "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Funky Fridays, Vol. 2",
-        "url": "https://open.spotify.com/album/4a5MVwLUmqVeT9wGKvhsfi"
-      },
-      "artists": [
-        {
-          "name": "Marlon McClain",
-          "url": "https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq"
-        },
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 199989,
-      "name": "ML Funk",
-      "url": "https://open.spotify.com/track/3wTiWUgjbqyVZljheQ7Jeo"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Soul City",
@@ -811,22 +811,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Tender (Remix)",
-        "url": "https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
       },
       "artists": [
         {
-          "name": "Daniel Chia",
-          "url": "https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79"
-        },
-        {
-          "name": "Colin Watson",
-          "url": "https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f"
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
         }
       ],
-      "duration_ms": 303046,
-      "name": "Tender - Remix",
-      "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -847,18 +843,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+        "name": "Tender (Remix)",
+        "url": "https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX"
       },
       "artists": [
         {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+          "name": "Daniel Chia",
+          "url": "https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79"
+        },
+        {
+          "name": "Colin Watson",
+          "url": "https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
+      "duration_ms": 303046,
+      "name": "Tender - Remix",
+      "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Romance Language",
-        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "I Wish I Wasn't",
-      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Romance Language",
+        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "I Wish I Wasn't",
+      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Summer Horns II From A To Z",
         "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 227920,
       "name": "Livin' The Life",
       "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "I'm Back",
         "url": "https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 252946,
       "name": "Hard Work (feat. Michael O'Hara)",
       "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Steppin' Up",
+        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ward",
+          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "City Vibe",
+      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Undeniable",
         "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 258275,
       "name": "Issa Party",
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1229,20 +1229,20 @@
       "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Nothing Ever Hurt Like You (Smooth Summer Soul Mix)",
-        "url": "https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe"
+        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
+        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
       },
       "artists": [
         {
-          "name": "Mindi Abair",
-          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
         }
       ],
-      "duration_ms": 250894,
-      "name": "Nothing Ever Hurt Like You - Smooth Summer Soul Mix",
-      "url": "https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ"
+      "duration_ms": 229640,
+      "name": "Barack's Groove",
+      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1263,6 +1263,22 @@
       "duration_ms": 249727,
       "name": "Feed The Id",
       "url": "https://open.spotify.com/track/4CJZDnyEHyl8ZZlQ9WJxeF"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Nothing Ever Hurt Like You (Smooth Summer Soul Mix)",
+        "url": "https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe"
+      },
+      "artists": [
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        }
+      ],
+      "duration_ms": 250894,
+      "name": "Nothing Ever Hurt Like You - Smooth Summer Soul Mix",
+      "url": "https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
-        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Barack's Groove",
-      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Feelin'",
         "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 190866,
       "name": "Luv N' Haight",
       "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Soul Ties",
-        "url": "https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "Tailgate",
-      "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Soul Ties",
+        "url": "https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lamb",
+          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+        }
+      ],
+      "duration_ms": 267272,
+      "name": "Tailgate",
+      "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Pulling Off The Covers",
         "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
       },
@@ -1453,20 +1453,20 @@
       "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-07-12 18:23:33",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
       "artists": [
         {
-          "name": "Antonio Jackson",
-          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
         }
       ],
-      "duration_ms": 347066,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
+      "duration_ms": 261401,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1483,6 +1483,22 @@
       "duration_ms": 292320,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jackson",
+          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
+        }
+      ],
+      "duration_ms": 347066,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1515,22 +1531,6 @@
       "duration_ms": 236273,
       "name": "Play",
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Laws Of Attraction",
-        "url": "https://open.spotify.com/album/5ldhBNgkkdUs9st5IPvofn"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Laws Of Attraction",
-      "url": "https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Laws Of Attraction",
+        "url": "https://open.spotify.com/album/5ldhBNgkkdUs9st5IPvofn"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Laws Of Attraction",
+      "url": "https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Prime Time",
-        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Prime Time",
-      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "City Life",
         "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 294346,
       "name": "City Life",
       "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
     }
   ],
   "unique_name": "Sax and the City",

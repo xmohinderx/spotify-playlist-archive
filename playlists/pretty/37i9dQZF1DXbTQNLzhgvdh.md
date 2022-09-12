@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > el amor es pico tres <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,921 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,014 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 37 | [Alguien Mejor](https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:39 |
 | 38 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 39 | [Tu Y Yo](https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tu Y Yo](https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E) | 2:41 |
-| 40 | [Tienes el Don](https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Inéditos](https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN) | 4:01 |
-| 41 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
+| 40 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
+| 41 | [Tienes el Don](https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Inéditos](https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN) | 4:01 |
 | 42 | [Ella](https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:41 |
 | 43 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
 | 44 | [Mi Vicio](https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Summer School Mixtape, Vol\. 1](https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU) | 3:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 60 | [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 |
 | 61 | [Maldito Romántico](https://open.spotify.com/track/05xcn7HwKbSOVSCtO8i3Vl) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/1mdbJt88iwqkl0zEMGA8XH) | 4:34 |
 | 62 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
-| 63 | [Sueña](https://open.spotify.com/track/4yGH1izgbWxMYIEu8EVH9x) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 4:16 |
-| 64 | [Empapelado](https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Empapelado](https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei) | 3:41 |
+| 63 | [Empapelado](https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Empapelado](https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei) | 3:41 |
+| 64 | [Sueña](https://open.spotify.com/track/4yGH1izgbWxMYIEu8EVH9x) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 4:16 |
 | 65 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
 | 66 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
 | 67 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 74 | [Eres Tu / </3](https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx) | 3:25 |
 | 75 | [No Te Quiero Perder](https://open.spotify.com/track/06H5AH5KtVWbAPNuOG8biW) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [No Te Quiero Perder](https://open.spotify.com/album/4DWgPITcwqT1veYKr7cU1d) | 3:17 |
 
-Snapshot ID: `MTY2MjQwMTYwMiwwMDAwMDAwMDBlY2Y0NzlhZGQ5YzJmMGRhOTRkZTg3NzY3ZDg0Y2Yz`
+Snapshot ID: `MTY2MjQwMTYwMiwwMDAwMDAwMGFmZGIyYzkxNGYwZmIxY2NlN2FlZTNmNjkxNWMwMGEx`

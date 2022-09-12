@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,119 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,677 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 12 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 13 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 |
 | 14 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
-| 15 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 |
-| 16 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
+| 15 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
+| 16 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 |
 | 17 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 18 | [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 |
-| 19 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 |
-| 20 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
+| 19 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
+| 20 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 |
 | 21 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
 | 22 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
 | 23 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 |
 | 50 | [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 |
 
-Snapshot ID: `MTY2MTc4MzQzNiwwMDAwMDAwMDcxZGE5ZWQ2YjJkNGQ0M2U2NjBjNjRlNjcwNTQ0MzZl`
+Snapshot ID: `MTY2MTc4MzQzNiwwMDAwMDAwMGIzNjNiYjgyNTRjMGQzZDY4YTcwNjM4MWNlZjFhNTIy`

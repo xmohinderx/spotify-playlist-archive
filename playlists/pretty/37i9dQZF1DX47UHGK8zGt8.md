@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,659 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,005 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 14 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 15 | [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 |
 | 16 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 |
-| 17 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
-| 18 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
+| 17 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
+| 18 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
 | 19 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
 | 20 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
 | 21 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 29 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 |
 | 30 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
 | 31 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 |
-| 32 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
-| 33 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
+| 32 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
+| 33 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
 | 34 | [Quando Amanhecer](https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Quando Amanhecer](https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR) | 2:51 |
 | 35 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
 | 36 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 |
 | 50 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 |
 
-Snapshot ID: `MTY2MjEzMTgzMSwwMDAwMDAwMDYyYTAwMzcxYmI1NjMxNmVkNGVkNWRiZTk3YzU4MDU0`
+Snapshot ID: `MTY2MjEzMTgzMSwwMDAwMDAwMGQ0Mzk1M2ZiNTA1OThhMzBmMTY1MjZlMGY5YTQ5NzM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 
 > Feel great with these timelessly fun songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,219,922 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,220,306 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 19 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 20 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 21 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 22 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
-| 23 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
+| 22 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
+| 23 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
 | 24 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 25 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
 | 26 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 44 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 | 45 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 46 | [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
-| 47 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
-| 48 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
+| 47 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
+| 48 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 49 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 50 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 51 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
-| 52 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
+| 51 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
+| 52 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
 | 53 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
 | 54 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 55 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 60 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
 | 61 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
 | 62 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 63 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
-| 64 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
+| 63 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
+| 64 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
 | 65 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 | 66 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 |
 | 67 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 77 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 78 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 79 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
-| 80 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
+| 80 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
 
-Snapshot ID: `MTY1NzA0NTI1NSwwMDAwMDAwMGRkZTE0MjY2YTliODkzMDc5ODM3ODdmNDA0Zjk5NDYw`
+Snapshot ID: `MTY1NzA0NTI1NSwwMDAwMDAwMDRiYjIxODQyZWY0YjIzNWQ2ZDE0ZTZiYTU4NjBjNDdj`

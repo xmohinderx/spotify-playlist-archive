@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Highly Suspect along with the top Alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,091 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,398 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

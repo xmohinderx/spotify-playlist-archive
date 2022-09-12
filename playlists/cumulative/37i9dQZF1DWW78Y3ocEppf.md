@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Brent Faiyaz
 
-305 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+306 songs - 16 hr 51 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/5d6qTZOLnj4zbgFGRoJiNz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [DYING 4 YOUR LOVE](https://open.spotify.com/album/1EUCSZciwmAutnu9M8lqZW) | 3:26 | 2021-12-15 | 2022-07-29 |
 | [Earth Is Ghetto](https://open.spotify.com/track/4NHSCdUJmAqmyBaegp3NJj) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [Earth Is Ghetto](https://open.spotify.com/album/6SnB0wtaNfB5hApKghuQSR) | 2:23 | 2022-04-29 | 2022-07-19 |
 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Ease My Mind \(Come Over\)](https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj) | 2:46 | 2021-12-15 | 2022-07-28 |
-| [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-08-05 |  |
+| [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-08-05 | 2022-09-12 |
 | [Ego](https://open.spotify.com/track/62uMO0yTFayaP492hqzlyL) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/1Hz5569Rl5Ui6OEtsW7cdi) | 5:50 | 2022-03-11 | 2022-07-25 |
 | [Element \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/track/1ePRRO0RaVPy2diUURqb3I) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Element \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/album/3bm7Dxp8qvUKvbXyf06tcu) | 2:43 | 2021-12-15 | 2022-03-09 |
 | [Ex\-Factor](https://open.spotify.com/track/2XCTU3DJ9W6glWSkM2uQTS) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:26 | 2021-12-15 | 2022-04-19 |
@@ -263,6 +263,7 @@
 | [So So Sick](https://open.spotify.com/track/4edxOO3ZAuDTlJi3P98kDH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [So So Sick](https://open.spotify.com/album/6YEmBhITTqQZ4sYsh5tcqD) | 3:57 | 2021-12-15 | 2022-07-27 |
 | [Sober \(With Jeremih\)](https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Sober \(With Jeremih\)](https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq) | 4:13 | 2022-07-08 | 2022-07-18 |
 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-03-11 |  |
+| [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-09 |  |
 | [Stay Mad](https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Stay Mad](https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V) | 2:11 | 2021-12-15 | 2022-01-27 |
 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 | 2021-12-15 | 2022-07-26 |
 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 | 2021-12-15 |  |

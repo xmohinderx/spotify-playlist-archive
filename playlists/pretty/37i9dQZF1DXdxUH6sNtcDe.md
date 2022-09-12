@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Lee Ann Womack
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,564 likes - 125 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,967 likes - 125 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 58 | [Gettin' You Home](https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [The Man I Want To Be](https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH) | 3:32 |
 | 59 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
 | 60 | [Do I](https://open.spotify.com/track/7A5CReD6yWe0rrkJym34QI) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 3:59 |
-| 61 | [What Kinda Gone](https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [My Life's Been A Country Song](https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd) | 3:01 |
+| 61 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
 | 62 | [Travelin' Soldier](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 5:43 |
-| 63 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
-| 64 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 |
+| 63 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 |
+| 64 | [What Kinda Gone](https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [My Life's Been A Country Song](https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd) | 3:01 |
 | 65 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
 | 66 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 67 | [Red High Heels](https://open.spotify.com/track/7dFSHwa7BNZvWlOuYsvFpy) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Small Town Girl](https://open.spotify.com/album/5bFtvUDukm5P0idSnW7M7n) | 3:42 |
@@ -100,14 +100,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 90 | [Wasted](https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:34 |
 | 91 | [That's What I Love About Sunday](https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:21 |
 | 92 | [19 Somethin' \- Greatest Hits Version](https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Greatest Hits](https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw) | 3:20 |
-| 93 | [Chicks Dig It \- Single Edit](https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [Chris Cagle](https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c) | 3:30 |
-| 94 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
-| 95 | [Just Another Day In Paradise](https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:53 |
-| 96 | [Don't Think I Don't Think About It](https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:03 |
+| 93 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
+| 94 | [Chicks Dig It \- Single Edit](https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [Chris Cagle](https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c) | 3:30 |
+| 95 | [Don't Think I Don't Think About It](https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:03 |
+| 96 | [Just Another Day In Paradise](https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:53 |
 | 97 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
 | 98 | [Modern Day Bonnie and Clyde](https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:44 |
-| 99 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
-| 100 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
+| 99 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
+| 100 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
 | 101 | [More Like Her](https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:28 |
 | 102 | [Gimmie That Girl](https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Old Things New](https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0) | 3:05 |
 | 103 | [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [Good Morning Beautiful](https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw) | [Steve Holy](https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII) | [Blue Moon](https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw) | 3:30 |
 | 125 | [Come A Little Closer](https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Modern Day Drifter](https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG) | 4:41 |
 
-Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMDA3YmVjNmI0MDFiYzU1YzNmNWQyOTZhNWEwNzYwYzUx`
+Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMGI3ZmViNmEyMzAzZjllOWRhMTdkY2VkNmFiZGZkMDkw`

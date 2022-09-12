@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > Explore the ever\-evolving folk & roots scene\. Cover: Katie Pruitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,831,643 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,831,617 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 19 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 |
 | 20 | [Walking Song](https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Walking Song](https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2) | 3:04 |
 | 21 | [California](https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [California](https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry) | 3:16 |
-| 22 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 |
+| 22 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 |
 | 23 | [Pitseleh](https://open.spotify.com/track/2hPZQVCP6sXwo2XMyWh6hT) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Pitseleh](https://open.spotify.com/album/2gjEpvBQsiQ0kFb0o7BTnh) | 3:40 |
 | 24 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 |
 | 25 | [Comes In Waves](https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller](https://open.spotify.com/album/24FkcvXRLoG17447domdkg) | 5:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 | 100 | [Faded Colours](https://open.spotify.com/track/0naEoV74hkLer1puxhpa4r) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:32 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGU4NDk2YTRiNDY3ZmM2OTVkNGEyMWM4YTFiMWY0MTkw`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDcwZWE4ZjgyNTM3ZWFlMjgxMTFlMzZlZTkxMGI1OGUz`

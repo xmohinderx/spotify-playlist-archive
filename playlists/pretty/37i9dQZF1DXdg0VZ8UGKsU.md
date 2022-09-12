@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Whitney Houston
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,793 likes - 85 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,943 likes - 85 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 30 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 |
 | 31 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 |
 | 32 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 |
-| 33 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 |
-| 34 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
+| 33 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
+| 34 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 |
 | 35 | [A Groovy Kind of Love](https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Love Songs \(A Compilation Old and New\)](https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF) | 3:30 |
 | 36 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
 | 37 | [Faithfully](https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 4:27 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 64 | [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 |
 | 65 | [Truly](https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 3:20 |
 | 66 | [I Won't Hold You Back](https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:53 |
-| 67 | [Just Once](https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:33 |
-| 68 | [Suddenly](https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 3:54 |
+| 67 | [Suddenly](https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 3:54 |
+| 68 | [Just Once](https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:33 |
 | 69 | [Think of Laura](https://open.spotify.com/track/5jLq63jMFWg0dKHnht6YI0) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page](https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2) | 3:26 |
 | 70 | [Live to Tell](https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:51 |
 | 71 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 84 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 |
 | 85 | [You And I](https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78), [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Radio Romance](https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE) | 4:01 |
 
-Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMGQ2NGM2NmFlODJhZjMyODc5OTM5MzA2YWMzYmI0NGZl`
+Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMGUyMWVkMWI2ZWI4MTVkNzBkOGViNjEzZjc1YjM4ZTZj`

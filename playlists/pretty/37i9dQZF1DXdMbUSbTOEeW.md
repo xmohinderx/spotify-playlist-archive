@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,702 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,723 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 21 | [Rise \(feat\. Tasita D'Mour\) \- Edit](https://open.spotify.com/track/5TNuPYV2poVvrORn4zt7ey) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Tasita D'Mour](https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk) | [Rise \(feat\. Tasita D'Mour\)](https://open.spotify.com/album/6PfePnzCIre7VjRWJutZmV) | 3:13 |
 | 22 | [Affection](https://open.spotify.com/track/6pv0v0OBVkNBtXcrolRyMn) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Affection](https://open.spotify.com/album/1UbC000R3Z1soH3DRSxODB) | 5:23 |
 | 23 | [Something Real](https://open.spotify.com/track/5RLMXp4oKQGyeovfoqP7kI) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:49 |
-| 24 | [INTO THE UNKNOWN](https://open.spotify.com/track/6RgMjFGFDYSfMSKxbyQseJ) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/3sRYWksIy88qpwLHJTItae) | 3:58 |
+| 24 | [INTO THE UNKNOWN](https://open.spotify.com/track/3Y6CWrNdkuaJ5iW2Y829fU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 3:58 |
 | 25 | [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Talk \(Remixes\)](https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k) | 3:12 |
 | 26 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |
 | 27 | [Grip](https://open.spotify.com/track/6T6I79tFf1Zc9h5Piy0gV9) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Landslands](https://open.spotify.com/artist/4I4rUfCqitzhA0WpTmwZvf) | [Grip](https://open.spotify.com/album/1tM6K9limY633ujoAagEuf) | 3:32 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 42 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 43 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 
-Snapshot ID: `MTY1ODQ5NDYwMywwMDAwMDAwMGEzM2E5YzhkNzNkNzhkYTg4YTg0NmFmOTc1Mjg0YTkw`
+Snapshot ID: `MTY1ODQ5NDYwMywwMDAwMDAwMDU3MDY0NTNkYjllN2M0ZDRmYTYzMmQ2NjFhNTRmNGIz`

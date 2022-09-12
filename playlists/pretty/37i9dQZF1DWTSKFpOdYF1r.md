@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,833 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,340 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 8 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 9 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 10 | [Enola Gay \- Remastered](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
-| 11 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
+| 11 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
 | 12 | [Hounds Of Love \- 2018 Remaster](https://open.spotify.com/track/7Gmds7ZyvhKdoU0Ho4GIxK) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 3:02 |
 | 13 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
-| 14 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
+| 14 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
 | 15 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 16 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
 | 17 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 46 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 47 | [Fools Gold \- Remastered](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 48 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
-| 49 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
-| 50 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
+| 49 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
+| 50 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 51 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
 | 52 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
 | 53 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [April Skies](https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands \(Expanded Version\)](https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu) | 3:59 |
 | 80 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
 
-Snapshot ID: `MTY1Mzk0MTg0NiwwMDAwMDAwMDY0MjhkNTEwMWJkNjA1MDFhMjE2MTA1YzdlYTc1OGU1`
+Snapshot ID: `MTY1Mzk0MTg0NiwwMDAwMDAwMDNmZGEzOGE3MGY2NjZiMDI2M2ViM2ZiYTIxYzhhZjk2`

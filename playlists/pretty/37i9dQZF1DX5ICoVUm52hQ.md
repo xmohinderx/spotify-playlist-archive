@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 
 > ¡Con las Letras de estas canciones, no querrás soltar el micrófono!
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,309 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,367 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 22 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 23 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 24 | [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
-| 25 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 |
-| 26 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
+| 25 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
+| 26 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 |
 | 27 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
 | 28 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 29 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 55 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 |
 | 56 | [Amor Completo](https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:01 |
 | 57 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
-| 58 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
-| 59 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 58 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 59 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
 | 60 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 61 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
 | 62 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 76 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 | 77 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 78 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
-| 79 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 |
-| 80 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
+| 79 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
+| 80 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 |
 
-Snapshot ID: `MTYwMzUxNTIyMiwwMDAwMDAwMDhiZmNiNTE4YTQ0MWI2YjM5NjNhZjIzZTc3Yzg1ODUx`
+Snapshot ID: `MTYwMzUxNTIyMiwwMDAwMDAwMDNjY2U3NDE3ZTIyZjVmYzNkOTljZjY3MmE0ZmYxMjA2`

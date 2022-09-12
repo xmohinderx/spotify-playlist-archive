@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 314281,
+  "num_followers": 314360,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMDRmYTg2NmQzZWUwMjY1NjRjOWI4MDY2MzczMGEwYzg5",
+  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMDk5YjIwMmVkYjk1ZDZkMWFhNDU1OWZhZDA3ODc0YmM3",
   "tracks": [
     {
       "added_at": "2022-07-28 13:29:24",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 335542,
-      "name": "Natural Light",
-      "url": "https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Night Solace",
         "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 335542,
+      "name": "Natural Light",
+      "url": "https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Young Alaska",
-        "url": "https://open.spotify.com/album/6CCR2hae4UBgora5YA4oOy"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 102034,
-      "name": "Alpine Sketch",
-      "url": "https://open.spotify.com/track/205J10EOIrtKquOpkR1goj"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/5oyUhDr5n4Nz9qGqxxT9Ns"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 152656,
       "name": "Illumination",
       "url": "https://open.spotify.com/track/7JaGrzcmPw3efnhCUbxPqQ"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Young Alaska",
+        "url": "https://open.spotify.com/album/6CCR2hae4UBgora5YA4oOy"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 102034,
+      "name": "Alpine Sketch",
+      "url": "https://open.spotify.com/track/205J10EOIrtKquOpkR1goj"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Song For Katie",
-        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jacqu\u00e9s",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Song For Katie",
-      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Quintessence",
         "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 144840,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "orange sky",
-        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 190670,
-      "name": "orange sky",
-      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "A Cloud Passed",
         "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "orange sky",
+        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 190670,
+      "name": "orange sky",
+      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn"
       },
@@ -1091,6 +1107,22 @@
       "duration_ms": 262464,
       "name": "your sonnet",
       "url": "https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1111,38 +1143,6 @@
       "duration_ms": 141602,
       "name": "145 - Revisited",
       "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Some Other Place",
-        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
-      },
-      "artists": [
-        {
-          "name": "Meredi",
-          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
-        }
-      ],
-      "duration_ms": 253169,
-      "name": "Some Other Place",
-      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "We Met in the Garden",
         "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 143585,
       "name": "We Met in the Garden",
       "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Some Other Place",
+        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
+      },
+      "artists": [
+        {
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
+        }
+      ],
+      "duration_ms": 253169,
+      "name": "Some Other Place",
+      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "River Path",
-        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342"
       },
       "artists": [
         {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+          "name": "Niklas Blumenthaler",
+          "url": "https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG"
+        },
+        {
+          "name": "Jonas Gewald",
+          "url": "https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc"
         }
       ],
-      "duration_ms": 209102,
-      "name": "Silent Dusk",
-      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
+      "duration_ms": 143140,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81"
     }
   ],
   "unique_name": "Soft Piano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2tTyqKgMwCvQL0qJUf4l3K?si=gZGL\_izRTuaISYBtbMadrQ">Kweyama Brothers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,382 likes - 80 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,735 likes - 80 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

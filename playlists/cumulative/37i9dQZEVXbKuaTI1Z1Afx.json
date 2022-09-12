@@ -5398,6 +5398,24 @@
     },
     {
       "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
+    },
+    {
+      "album": {
         "name": "Most Known Unknown (Explicit)",
         "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
@@ -11461,7 +11479,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -13389,7 +13407,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 219640,
       "name": "Try Losing One",
       "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
@@ -13881,7 +13899,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"

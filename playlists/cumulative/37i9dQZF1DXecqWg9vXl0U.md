@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Clara Yolks.
 
-158 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+159 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Muchas Cosas](https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Muchas Cosas](https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT) | 2:32 | 2022-04-08 |  |
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2022-03-25 |  |
 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 | 2022-05-06 |  |
-| [Never Felt This Before](https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Never Felt This Before](https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX) | 1:50 | 2022-05-20 |  |
+| [Never Felt This Before](https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Never Felt This Before](https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX) | 1:50 | 2022-05-20 | 2022-09-12 |
+| [Never Felt This Before](https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 1:50 | 2022-09-02 |  |
 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 | 2022-08-26 |  |
 | [No soy de aquí](https://open.spotify.com/track/3GAnMDz0FyfRLqI99bhltK) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [No soy de aquí](https://open.spotify.com/album/1YZIaN8F9Qthoy8K73MNPY) | 1:36 | 2022-03-25 | 2022-07-29 |
 | [No soy de aquí](https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nostalgia Pop](https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I) | 1:36 | 2022-09-02 |  |

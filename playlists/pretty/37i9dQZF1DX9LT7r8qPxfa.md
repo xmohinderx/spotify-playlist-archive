@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,820 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,868 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 34 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 35 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 36 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 |
-| 37 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
-| 38 | [Pictures of Flowers](https://open.spotify.com/track/2YJyShuoMWP3YjcjvLzNCl) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/7FHjrtERXl5ia51dPmcxBq) | 4:20 |
+| 37 | [Pictures of Flowers](https://open.spotify.com/track/2YJyShuoMWP3YjcjvLzNCl) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/7FHjrtERXl5ia51dPmcxBq) | 4:20 |
+| 38 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
 | 39 | [Body](https://open.spotify.com/track/0xhHw3EIyZ05mboRXpJWxs) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:07 |
 | 40 | [Cathedral](https://open.spotify.com/track/0wDd6J3mQ3vApoSKM1Iu2m) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 2:50 |
 | 41 | [Tarifa](https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:50 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 49 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
 | 50 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 |
 | 51 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 |
-| 52 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
-| 53 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
+| 52 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
+| 53 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
 | 54 | [The King of All Birds](https://open.spotify.com/track/2DXbvKaUSUlb7q02GNJjCF) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/1sfz6tIsPAhgsqvcCZ6fvw) | 3:56 |
 | 55 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
 | 56 | [Silk](https://open.spotify.com/track/3vscDGTguHZgyZeVR67cJr) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/281vLb9Y3WNKXljq2EbpQf) | 3:12 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 59 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bullseye](https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1) | 3:24 |
 | 60 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 |
 | 61 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
-| 62 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
-| 63 | [Drown](https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:51 |
+| 62 | [Drown](https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:51 |
+| 63 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
 | 64 | [If It Ain't Me Babe](https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 5:08 |
 | 65 | [Thumbs](https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Thumbs](https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc) | 4:25 |
 | 66 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 89 | [Blue](https://open.spotify.com/track/1oAeR6SrUeAMrIM0CD3EdD) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Blue](https://open.spotify.com/album/5KGs3rzqvjS1H7LwPvZD6c) | 4:12 |
 | 90 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
 | 91 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 |
-| 92 | [Paula Collins](https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:15 |
-| 93 | [Horses](https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Soft Drop](https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB) | 3:16 |
+| 92 | [Horses](https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Soft Drop](https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB) | 3:16 |
+| 93 | [Paula Collins](https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:15 |
 | 94 | [Better and Better](https://open.spotify.com/track/1o24Xqw0n5tQHJqpZDCXp7) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How to Break a Fall](https://open.spotify.com/album/4BdwmZr2Z7T7evaxK3FuAn) | 3:00 |
 | 95 | [Good Scare](https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Silver Tongue](https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv) | 3:35 |
 | 96 | [Vampire Weeknight](https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Vampire Weeknight](https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 |
 | 100 | [Sun Bear](https://open.spotify.com/track/6QwBW6cnRH06QhIi7aZVCf) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Can't Stop The Dawn](https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL) | 4:21 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGU4ZmY4ZGVkZDA3OTgyOGQwYjQxMTZiMjA5ZjYyODY0`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGRiNjljYWQ4NmRlMzZiOWMzZjVlNzY1MTNmYmVmOTQ3`

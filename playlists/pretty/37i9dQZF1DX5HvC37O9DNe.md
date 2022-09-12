@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 
 > Semplicemente noi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,699 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,769 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 7 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 8 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 9 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
-| 10 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
-| 11 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
+| 10 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
+| 11 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 12 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 13 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
 | 14 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 50 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 51 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
 | 52 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 |
-| 53 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
-| 54 | [Love Me Like You Do](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:13 |
+| 53 | [Love Me Like You Do](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:13 |
+| 54 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
 | 55 | [Tigini \(Remix\)](https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini \(Remix\)](https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe) | 2:55 |
-| 56 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 |
-| 57 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 |
+| 56 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 |
+| 57 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 |
 | 58 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 | 59 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
 | 60 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 74 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 |
 | 75 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 
-Snapshot ID: `MTY1OTA4ODY2OSwwMDAwMDAwMDU2MzFiMGI2NzQzMmI5ZTNjZGMzZDgwNTdkMWM0MTE2`
+Snapshot ID: `MTY1OTA4ODY2OSwwMDAwMDAwMGY2ZDVjMjhmNWQ3OTE3N2NiY2ZlYTJhM2VjYjljNDE4`

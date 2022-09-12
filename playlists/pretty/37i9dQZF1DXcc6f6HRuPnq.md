@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,611 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,749 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 16 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:19 |
 | 17 | [Feel Like Going Home](https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:57 |
 | 18 | [As The Years Go Passing By](https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 7:44 |
-| 19 | [Gotta Leave](https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34), [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Roll Away \(Deluxe Edition\)](https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa) | 5:49 |
-| 20 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
+| 19 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
+| 20 | [Gotta Leave](https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34), [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Roll Away \(Deluxe Edition\)](https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa) | 5:49 |
 | 21 | [Baby I Love You](https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:01 |
 | 22 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 |
 | 23 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
 | 24 | [Reap What You Sow](https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 4:55 |
 | 25 | [Ain’t No Love In The Heart Of The City](https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 5:36 |
-| 26 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
-| 27 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
+| 26 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
+| 27 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
 | 28 | [Love That Burns](https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 6:29 |
 | 29 | [You're Still My Woman](https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 6:04 |
 | 30 | [Same Old Blues Again](https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo) | 6:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 49 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
 | 50 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
 
-Snapshot ID: `MTY1OTEwNTU4MCwwMDAwMDAwMGYwMGQxNTQwMWU4N2ZlNDViNWRiM2M4ZTgwZGY0ZmY4`
+Snapshot ID: `MTY1OTEwNTU4MCwwMDAwMDAwMGU3ZWM0OGEwNTFhMmQzZWYwNzlhNmY1M2Y4MDRlZjk0`

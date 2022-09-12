@@ -1,29 +1,13 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 159915,
+  "num_followers": 160151,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDcyNjZmZTVhYTE5NTc4ZDEyMTU0ZjVkOWM4ZTUwN2Qy",
+  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMGE3ZDdkZTZhOTFlZjM3ODJiNzNhMTExN2Y3MzEyMGZk",
   "tracks": [
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Ring Of Fire: The Best Of Johnny Cash",
         "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 158426,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Old 8 x 10",
-        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Deeper Than the Holler",
-      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "I Walk the Line (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 176533,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Old 8 x 10",
+        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Deeper Than the Holler",
+      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "I'm From The Country",
         "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
       },
       "artists": [
         {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 147306,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1275,6 +1259,22 @@
       "duration_ms": 133853,
       "name": "If I Could Make a Living",
       "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 147306,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Rose Garden",
         "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Don't Take The Girl",
-      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "It's All About to Change",
         "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 152333,
       "name": "Here's a Quarter (Call Someone Who Cares)",
       "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1531,22 +1547,6 @@
       "duration_ms": 205733,
       "name": "Next To You, Next To Me",
       "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Phil Vassar",
-        "url": "https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC"
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
       "artists": [
         {
-          "name": "Phil Vassar",
-          "url": "https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Just Another Day In Paradise",
-      "url": "https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW"
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     }
   ],
   "unique_name": "Raised on Country",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Estos son los hits que acompa\u00f1an la fiesta!",
-  "num_followers": 286504,
+  "num_followers": 286712,
   "original_name": "De Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMDA3M2Q4ZjlmMThlZGE0MGRkY2Q0N2YwYTFhNDMwODI1",
+  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMDIxNTQyOGFkMGJiNTFjYmQwYzMxMjAyZmEyZjVlMGMx",
   "tracks": [
     {
       "added_at": "2022-09-09 05:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Nos Comemos Vivos",
         "url": "https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 225365,
       "name": "Nos Comemos Vivos",
       "url": "https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Fantasi",
         "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Sigue/Forever My Love",
-        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -1303,26 +1303,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Mojando Asientos (feat. Feid)",
-        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1347,6 +1327,50 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Mojando Asientos (feat. Feid)",
+        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 231603,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1391,50 +1415,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "BICHOTA",
         "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 178946,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Envolver Remix",
         "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
       },
@@ -1639,6 +1639,26 @@
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "De Tanto Chimbiar",
+        "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "De Tanto Chimbiar",
+      "url": "https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1723,26 +1743,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "El Incomprendido",
         "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
       },
@@ -1763,6 +1763,26 @@
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1955,26 +1975,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "De Tanto Chimbiar",
-        "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "De Tanto Chimbiar",
-      "url": "https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -2019,30 +2035,6 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Enoc",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Caramelo - Remix",
-      "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
     },
     {
       "added_at": "2022-09-09 05:00:00",

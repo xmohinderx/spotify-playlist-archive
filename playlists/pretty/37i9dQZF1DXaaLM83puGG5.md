@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going where ever you are w/ FE NOEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,812 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,837 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 36 | [Bam](https://open.spotify.com/track/6Iuh3vNjpWhSeHM3RZgzQL) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 3:54 |
 | 37 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
 | 38 | [Gal Pon De Side](https://open.spotify.com/track/5pt1qqweoMxQ4qfk1jgpb2) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7) | [Showtime Jam](https://open.spotify.com/album/5PnAfHfi3VanhMFdmkI31T) | 2:35 |
-| 39 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 39 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 40 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
 | 41 | [Steelo](https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:17 |
 | 42 | [Best Of Me, Part 2](https://open.spotify.com/track/1faidjbURmhACFeCjhxSu9) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [DJ Clue Presents: Backstage Mixtape \(Music Inspired By The Film\)](https://open.spotify.com/album/0xZKr42eBz10QcSbFzuhzu) | 3:41 |

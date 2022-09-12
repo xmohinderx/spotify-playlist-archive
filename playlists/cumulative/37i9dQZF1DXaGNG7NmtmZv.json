@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
+      },
+      "artists": [
+        {
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
+    },
+    {
+      "album": {
         "name": "Silence Is Betrayal",
         "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
       },
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 114027,
       "name": "Strength Thru Unity",
       "url": "https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva"

@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Marco Antonio Sol\u00eds en portada.",
-  "num_followers": 808812,
+  "num_followers": 809261,
   "original_name": "\u00cddolos del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MTIwMCwwMDAwMDAwMGQxMDM4N2RjMmY5ZjlhZTQxZjc3MzkwZTMwNzRhY2Mz",
+  "snapshot_id": "MTY1Nzg2MTIwMCwwMDAwMDAwMDgyNDRmODAwZjY3OGZhNjA0YTAxOWVjMzBhYzJlOTU3",
   "tracks": [
     {
       "added_at": "2022-07-15 05:00:00",
@@ -1169,20 +1169,24 @@
       "url": "https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP"
     },
     {
-      "added_at": "2022-02-11 06:00:00",
+      "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Que Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 172573,
-      "name": "Que Digan Lo Que Digan",
-      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1301,24 +1305,20 @@
       "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
     },
     {
-      "added_at": "2022-01-25 16:44:28",
+      "added_at": "2022-02-11 06:00:00",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+        "name": "Que Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
+      "duration_ms": 172573,
+      "name": "Que Digan Lo Que Digan",
+      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
     },
     {
       "added_at": "2022-01-25 16:44:28",

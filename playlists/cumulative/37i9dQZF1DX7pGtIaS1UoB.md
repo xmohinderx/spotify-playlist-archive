@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-232 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+233 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [愛你需要練習](https://open.spotify.com/track/0OVRyjRP4ub7xVZI1MOdew) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW), [薇婭](https://open.spotify.com/artist/3YJP49BjkAQUKPE6Yf7CVw) | [愛你需要練習](https://open.spotify.com/album/41AW0iBvE6NDQr2FT0gtlB) | 3:55 | 2022-06-06 | 2022-07-23 |
 | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/track/5UaSB8aD7oQOX1l5eqoLMR) | [曾韻璇](https://open.spotify.com/artist/5y6V55XBzT0i9WkySKwgNE), [高偉勛](https://open.spotify.com/artist/3P8fzwFoEZQxVovoy2xgkd) | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/album/3eHD9S6QJRWfUq3dO63E5i) | 3:47 | 2022-07-04 | 2022-07-08 |
 | [慢慢來](https://open.spotify.com/track/1yAgPYONWEoQgsOaFqIVGE) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [慢慢來](https://open.spotify.com/album/6PUCm1ig2sqtDU0epcKHQL) | 3:48 | 2022-06-13 | 2022-06-19 |
-| [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 |  |
+| [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 | 2022-09-12 |
 | [戀愛是選擇題由你](https://open.spotify.com/track/02r44UrfPjUYnST7DTLmH8) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [相愛的這種本能](https://open.spotify.com/album/5ej1v8T39zdAUM5g1gvtxz) | 3:33 | 2022-06-06 | 2022-06-13 |
 | [我喜歡\(不,我愛\)](https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo) | [Yen\-J](https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi) | [謝謝你的美好](https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE) | 4:08 | 2022-06-06 | 2022-07-19 |
 | [我喜歡你](https://open.spotify.com/track/75EBF5dwgU2w0u4IJtdUI5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [我喜歡你](https://open.spotify.com/album/2TbRtoKHcCkt39yb9JBnC6) | 3:15 | 2022-06-06 | 2022-07-12 |
@@ -239,6 +239,7 @@
 | [靠近](https://open.spotify.com/track/7hoxzbKYr2T8EmbyWlowfu) | [一口甜](https://open.spotify.com/artist/3xyeMXp6JQR1J2tZKk0HIL), [二辰](https://open.spotify.com/artist/0aDQTS1mVAknIdfq1iYqaQ) | [靠近](https://open.spotify.com/album/0BoJn9SgzgcNQ93kGrov1J) | 2:58 | 2022-06-13 | 2022-06-17 |
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |
 | [靠近一點點](https://open.spotify.com/track/2ZehpdL252VK2Wk2uUqt9m) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:33 | 2022-06-06 | 2022-07-25 |
+| [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 |  |
 | [黏黏](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,302 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,304 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 41 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 |
 | 42 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 |
 | 43 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 |
-| 44 | [Know Your Heart](https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 3:59 |
-| 45 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 |
+| 44 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 |
+| 45 | [Know Your Heart](https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 3:59 |
 | 46 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 |
 | 47 | [Hiding Lord](https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:04 |
 | 48 | [Magic in the Moment](https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Magic in the Moment](https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 |
 | 60 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMGI2YWM4ZWIxZTk0NTY4MmYwNDBkNTgxYTgzMDE4YmRk`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDM3MWFiY2VlYTFjZWNlMjVmMmU1NzlkZjVhN2EwNmQ4`

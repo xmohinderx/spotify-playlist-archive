@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,788 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,836 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 4 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 5 | [All Shook Up](https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 1:57 |
 | 6 | [Tequila](https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Greatest Hits / Tequila](https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R) | 2:15 |
-| 7 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 |
-| 8 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 |
+| 7 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 |
+| 8 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 |
 | 9 | [The Great Pretender](https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:37 |
 | 10 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 |
 | 11 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 39 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 40 | [It Doesn't Matter Anymore](https://open.spotify.com/track/5EL2sCnfsxm3FPCXGET1U6) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Buddy Holly Story](https://open.spotify.com/album/0HOBzCqZERU4XdD1vStK31) | 2:04 |
 | 41 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
-| 42 | [\('Til\) I Kissed You](https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:26 |
+| 42 | [Side By Side](https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:52 |
 | 43 | [Learnin' The Blues](https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 3:01 |
-| 44 | [Side By Side](https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:52 |
+| 44 | [\('Til\) I Kissed You](https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:26 |
 | 45 | [Love Is A Many\-Splendored Thing](https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:59 |
 | 46 | [A Tear Fell](https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:36 |
 | 47 | [Banana Boat Song](https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Banana Boat Song](https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA) | 3:04 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 67 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
 | 68 | [Tammy](https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Oldies 101](https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih) | 3:06 |
 | 69 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
-| 70 | [No One but You](https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:09 |
+| 70 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 |
 | 71 | [I Almost Lost My Mind](https://open.spotify.com/track/7bJpjO7r5gMsHx1oepanuS) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:38 |
-| 72 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 |
+| 72 | [No One but You](https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:09 |
 | 73 | [It's Only Make Believe \- Re\-recorded](https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7) | 2:30 |
 | 74 | [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 |
 | 75 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/428F8FMidC2u1ZHXNaeMuK) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [The Essential Frankie Laine](https://open.spotify.com/album/2iKc2szRNAvEvtfQM5vySt) | 2:20 |
 | 80 | [Young Love](https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [The Young Love of Tab Hunter](https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j) | 2:26 |
 
-Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMGMzM2I0MmZlNTIyYmE4MGI0ZjhjZGEzMTc1ZDg2ZmQ5`
+Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMDYxYmVkZjgyNjYzNGE5NmNkNzhjYmM3ZDVjY2QxNmY3`

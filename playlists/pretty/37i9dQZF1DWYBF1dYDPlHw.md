@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > Get those vocal chords working with these Indie favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,075 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,219 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 21 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 22 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
 | 23 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 24 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 25 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 24 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 25 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 26 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 27 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 |
 | 28 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 65 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
 | 66 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 |
 | 67 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
-| 68 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 |
-| 69 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
-| 70 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
-| 71 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
-| 72 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
-| 73 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 68 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
+| 69 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 |
+| 70 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
+| 71 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
+| 72 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
+| 73 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
 | 74 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
 | 75 | [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 |
-| 76 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
-| 77 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 76 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 77 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 78 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
-| 79 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
-| 80 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
+| 79 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
+| 80 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
 
-Snapshot ID: `MTY2MDE3NjkwNSwwMDAwMDAwMGNlNmRlNmQ4MDk5YjFlMTU3NDM4ZDkzZWZkZmY5MWY1`
+Snapshot ID: `MTY2MDE3NjkwNSwwMDAwMDAwMGQ1MDJhYjk2NWIzZmM2OGYxNWJlMTYxMmI3MGI0MjRl`

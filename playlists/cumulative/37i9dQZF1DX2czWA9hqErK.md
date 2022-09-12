@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-367 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+368 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-04-04 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-12-16 | 2022-04-27 |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-12-16 | 2022-03-30 |
+| [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 | 2022-08-02 |  |
 | [Better Now](https://open.spotify.com/track/3A0yf59CIJGp25yjJQEQXM) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Better Now](https://open.spotify.com/album/1NIrD70bkQlyf0iocK91Db) | 3:42 | 2022-05-31 | 2022-07-28 |
 | [Better Run](https://open.spotify.com/track/6EJURYbcv8JoFZ0yqnHkjQ) | [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Better Run](https://open.spotify.com/album/0uMqCtLy94fSY22tF2GnPl) | 3:14 | 2022-01-17 | 2022-07-20 |
 | [Biblical](https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Biblical](https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH) | 3:49 | 2021-12-16 | 2022-01-12 |
@@ -88,7 +89,7 @@
 | [Cut Me Out Your Photos](https://open.spotify.com/track/2JDu2WDRJxQrLVMCHXh3HY) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Cut Me Out Your Photos](https://open.spotify.com/album/5xPuSqnIZdMXZIT1L3WBYU) | 2:48 | 2022-04-04 | 2022-04-20 |
 | [Die Fast](https://open.spotify.com/track/1A2li95lRQu2vAOhaflAVB) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Die Fast](https://open.spotify.com/album/3XM7u1odzIm7leIRmmTBQO) | 3:39 | 2021-12-16 | 2021-12-30 |
 | [Different](https://open.spotify.com/track/1iuxawB2mf8iBWtagkzciJ) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Paper Cup/Different](https://open.spotify.com/album/1GU0HvTIUCGcx7BQeyaWzA) | 2:48 | 2022-03-25 | 2022-04-20 |
-| [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 | 2022-04-26 |  |
+| [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 | 2022-04-26 | 2022-09-12 |
 | [Do You Ever](https://open.spotify.com/track/0XkshYPtSxbm6Wg20tbC1r) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [I've Felt All These Things](https://open.spotify.com/album/56cFvP1hiife9I02fM3CIS) | 3:44 | 2022-03-25 | 2022-04-16 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-31 |  |
 | [Don’t Try To Call Me](https://open.spotify.com/track/4RolLH7I3o3zzhMQRoJ6Ez) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Don’t Try To Call Me](https://open.spotify.com/album/7INrEhKWw4rUg0DyGrYPRG) | 2:33 | 2022-03-25 | 2022-07-14 |

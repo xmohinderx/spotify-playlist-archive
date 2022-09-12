@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 284845,
+  "num_followers": 284929,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMGJkOWJmNGIzNWE2YWE4NjhlYzIyZGY0OTNiOThhY2Vl",
+  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMDU1YjQyYmQyOGY5NDgzYmI1YjZmMDE1ZjBlYTM1ODg0",
   "tracks": [
     {
       "added_at": "2022-08-12 17:34:39",
@@ -351,22 +351,18 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "mainstream sellout (life in pink deluxe)",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 174991,
-      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
-      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
+      "duration_ms": 193297,
+      "name": "Way down We Go - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -387,18 +383,22 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 193297,
-      "name": "Way down We Go - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
+      "duration_ms": 174991,
+      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
+      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Synchronize (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 163120,
-      "name": "Synchronize - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
+      "duration_ms": 229466,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+        "name": "Synchronize (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
       },
       "artists": [
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 229466,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
+      "duration_ms": 163120,
+      "name": "Synchronize - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
     },
     {
       "added_at": "2022-08-12 17:34:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,814 likes - 77 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,811 likes - 77 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 31 | [La Modelo](https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 4:15 |
 | 32 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 |
 | 33 | [El Boton del Pantalon](https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [La Revancha del Burro](https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt) | 5:11 |
-| 34 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
-| 35 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 |
+| 34 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 |
+| 35 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
 | 36 | [Qué Lástima](https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Qué Lástima](https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv) | 3:44 |
 | 37 | [Tiburon](https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [20 Exitos](https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei) | 5:02 |
 | 38 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 59 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 |
 | 60 | [Oye Mi Ritmo](https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:26 |
 | 61 | [Duelo](https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Duelo](https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L) | 2:39 |
-| 62 | [Fettuccine](https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 3:00 |
-| 63 | [Prende La Vela](https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambores y Cantos](https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh) | 4:48 |
+| 62 | [Prende La Vela](https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambores y Cantos](https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh) | 4:48 |
+| 63 | [Fettuccine](https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 3:00 |
 | 64 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
 | 65 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
 | 66 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 76 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
 | 77 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 
-Snapshot ID: `MTY1NDg1MTk5NywwMDAwMDAwMGU2NThjNDQzYjYxNzQ2NjVlMmIxMWNjMDcyYTQzOGNj`
+Snapshot ID: `MTY1NDg1MTk5NywwMDAwMDAwMDlmZjcxZDJmYjU5NTNmYjY1YTE5ZjMzNGY2MGJhMDhj`

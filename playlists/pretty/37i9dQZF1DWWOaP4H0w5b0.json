@@ -1,12 +1,12 @@
 {
   "description": "Want some metal? Better to start with the essentials. Cover: Metallica",
-  "num_followers": 1553264,
+  "num_followers": 1553667,
   "original_name": "Metal Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0MDIxNCwwMDAwMDAwMGJhNWJiMGM0MmFjOTk3MDkwMTFhNmI0ZWEwODc5MThi",
+  "snapshot_id": "MTY2MTU0MDIxNCwwMDAwMDAwMDliZmRhYWE3NDYwMTI3MGNmMWJkYTdkNmRjNzljOThh",
   "tracks": [
     {
       "added_at": "2022-08-26 18:56:54",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Die MF Die",
-      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
         "name": "Faceless",
         "url": "https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 246040,
       "name": "I Stand Alone",
       "url": "https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Die MF Die",
+      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 268746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
         "name": "Kings of Metal",
         "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 419933,
       "name": "Heaven and Hell - 2008 Remaster",
       "url": "https://open.spotify.com/track/3Jl5GohfNwozDmpzmQBLDI"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
     },
     {
       "added_at": "2022-08-26 18:56:54",

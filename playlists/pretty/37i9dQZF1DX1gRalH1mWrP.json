@@ -1,12 +1,12 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 1229314,
+  "num_followers": 1229663,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3OTIwMCwwMDAwMDAwMDQyNmIwMjAwZjlhMWY1NzdmZTk3MTA4NTI4MjExYWVm",
+  "snapshot_id": "MTY2MjA3OTIwMCwwMDAwMDAwMGY4OTYyYzhkZTBhZmU4ZDMyNTkwMTRhYjkyYThjMjhl",
   "tracks": [
     {
       "added_at": "2022-09-02 00:40:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Die Young (feat. 347aidan)",
-        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 148816,
-      "name": "Die Young (feat. 347aidan)",
-      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+        "name": "Die Young (feat. 347aidan)",
+        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+      "duration_ms": 148816,
+      "name": "Die Young (feat. 347aidan)",
+      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
-      },
-      "artists": [
-        {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
         "name": "Country Stuff The Album",
         "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
     },
     {
       "added_at": "2022-09-02 00:40:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-02 00:40:00",
       "album": {
-        "name": "sun and moon",
-        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2022-09-02 00:40:00",
-      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
+    },
+    {
+      "added_at": "2022-09-02 00:40:00",
+      "album": {
+        "name": "sun and moon",
+        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 151507,
+      "name": "sun and moon",
+      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
     },
     {
       "added_at": "2022-09-02 00:40:00",

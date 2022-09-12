@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,542 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,476 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 50 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
 | 51 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 52 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 |
-| 53 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 |
-| 54 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
+| 53 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
+| 54 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 |
 | 55 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
 | 56 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
 | 57 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
-| 58 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
-| 59 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
-| 60 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
+| 58 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
+| 59 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 60 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
 | 61 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 |
 | 62 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
 | 63 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 75 | [affection](https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE) | 3:55 |
 | 76 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
 | 77 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
-| 78 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
-| 79 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 |
+| 78 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 |
+| 79 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
 | 80 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 
-Snapshot ID: `MTY2Mjc0MTM0OCwwMDAwMDAwMDkyYjA5MjM3Mzg1ZDdjNmU5MTAyNjM0ODBjMGQ2ZmZk`
+Snapshot ID: `MTY2Mjc0MTM0OCwwMDAwMDAwMDM2YzQ3ZjdjZjBmYmFjNzA2ZGM5YmI0MjMyNzJkM2Q3`

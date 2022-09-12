@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 
 > Unos buenos riffs de guitarra para acompañarte en el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,609 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,835 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 40 | [Love the One You're With](https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Replay](https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3) | 3:04 |
 | 41 | [Band On The Run \- Remastered 2010](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
 | 42 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
-| 43 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
-| 44 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
+| 43 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
+| 44 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
 | 45 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
 | 46 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 |
 | 47 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
-| 48 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
-| 49 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
+| 48 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
+| 49 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
 | 50 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 |
-| 51 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
+| 51 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
 | 52 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:16 |
 | 53 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
 | 54 | [Goodbye Stranger \- 2010 Remastered](https://open.spotify.com/track/67oyFnjJnn78fZP9KjeZx0) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 5:50 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 58 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 59 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 |
 | 60 | [Southern Cross \- 2005 Remaster](https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 4:41 |
-| 61 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 |
-| 62 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |
-| 63 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
-| 64 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
+| 61 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |
+| 62 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 |
+| 63 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
+| 64 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 65 | [Por Siempre](https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Por Encima](https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0) | 3:37 |
 | 66 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 |
 | 67 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 74 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
 | 75 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
 
-Snapshot ID: `MTY1Njk2OTE0NCwwMDAwMDAwMGUyYjM1MTc2OGZlYWQ3NDM0MDBjMzAxZjU4MmMwNTFh`
+Snapshot ID: `MTY1Njk2OTE0NCwwMDAwMDAwMDU4ZjhlZTVjYTUzZDFiODMxYTFlZjQxODQ0MDJkMzU5`

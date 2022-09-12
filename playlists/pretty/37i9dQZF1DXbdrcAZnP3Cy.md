@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,305 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,390 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 45 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
 | 46 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
 | 47 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
-| 48 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
-| 49 | [El Gigante De Hierro](https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 3:36 |
+| 48 | [El Gigante De Hierro](https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 3:36 |
+| 49 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
 | 50 | [En Vida](https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 2:25 |
 | 51 | [Payaso de rodeo](https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Payaso de rodeo](https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S) | 4:14 |
 | 52 | [El Sonidito](https://open.spotify.com/track/3kCeW0fmkrLBWCpEGazRMR) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [El Sonidito](https://open.spotify.com/album/3BxWiuHL0AuFxpnVLTVmEC) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 89 | [Micaela](https://open.spotify.com/track/4b07ImFm5cxW7gx05lFWqG) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Por Siempre Alacranes](https://open.spotify.com/album/4HxFwtq3TyZ4zZvl6fO6rX) | 3:55 |
 | 90 | [La Leona y el Mandilón](https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:31 |
 
-Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMGMwZmY4MTlhZTVmY2QxYTZlYjU5MTFhNTEyODQyYzJj`
+Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMDk5ZjAxZTJjNjlmMGNlNjI0NTkzOGI5ODY3OTlkZjVl`

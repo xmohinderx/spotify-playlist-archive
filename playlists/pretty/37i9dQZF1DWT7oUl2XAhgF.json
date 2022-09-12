@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 139605,
+  "num_followers": 139846,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNzM4NiwwMDAwMDAwMDQzYWJhMTdiNmI3YzcyZjM5NTI3MzY5YTFmMzI2Mzk2",
+  "snapshot_id": "MTY2MjczNzM4NiwwMDAwMDAwMDY0ZDY4YTczODZmMWFkMjkwMWQ4YzU2NjMwOWJjNzdi",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
+      "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
       },
       "artists": [
         {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
         }
       ],
-      "duration_ms": 166440,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
+      "duration_ms": 218613,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
     },
     {
       "added_at": "2021-08-02 16:49:06",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
-    },
-    {
       "added_at": "2021-12-13 16:49:02",
       "album": {
         "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
@@ -543,6 +527,22 @@
       "duration_ms": 218248,
       "name": "Our Love (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -885,26 +885,6 @@
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Bury Me",
-        "url": "https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb"
-      },
-      "artists": [
-        {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
-        },
-        {
-          "name": "The Dap-Kings",
-          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
-        }
-      ],
-      "duration_ms": 174688,
-      "name": "Black Heart",
-      "url": "https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "More To Learn",
@@ -929,6 +909,26 @@
       "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Bury Me",
+        "url": "https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb"
+      },
+      "artists": [
+        {
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
+        },
+        {
+          "name": "The Dap-Kings",
+          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
+        }
+      ],
+      "duration_ms": 174688,
+      "name": "Black Heart",
+      "url": "https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Don't Forget to Look Up",
@@ -943,6 +943,42 @@
       "duration_ms": 210873,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Sorry You Couldn't Make It",
+        "url": "https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Good, Better, Best",
+      "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215204,
+      "name": "Cruisin' to the Parque feat. Y La Bamba",
+      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -967,42 +1003,6 @@
       "duration_ms": 196840,
       "name": "Human (feat. Vince Harder & Louis Baker)",
       "url": "https://open.spotify.com/track/7d6YmH9igGf2l809Os6hB2"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Cruisin' To The Parque feat. Y La Bamba",
-        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215204,
-      "name": "Cruisin' to the Parque feat. Y La Bamba",
-      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Sorry You Couldn't Make It",
-        "url": "https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Good, Better, Best",
-      "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     }
   ],
   "unique_name": "Retro Soul",

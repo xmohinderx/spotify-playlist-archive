@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373544,
+  "num_followers": 373561,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMGFkOThiZTVhZWJmZDc5YWQxOTliOTc1NzU4NDQyOGY1",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDE5YjMyMzcyM2VlMTE4MDAxNzJkY2EwMGZhOTA0MGQy",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 224113,
       "name": "Together",
       "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        },
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 185885,
-      "name": "superpowerful (with Crooked Colours)",
-      "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "On the Lookout",
         "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 212000,
       "name": "concrete",
       "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        },
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 185885,
+      "name": "superpowerful (with Crooked Colours)",
+      "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 199371,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "YOUNG",
         "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 168933,
       "name": "Nighttime Hunger",
       "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 199371,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Black Rain",
+        "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Old T-Shirt (feat. koby)",
         "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Black Rain",
-        "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
+        "name": "LP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
         }
       ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+      "duration_ms": 158133,
+      "name": "Swing Tree",
+      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1071,22 +1087,6 @@
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "LP (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
-      },
-      "artists": [
-        {
-          "name": "Discovery",
-          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Swing Tree",
-      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Julia (deep diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Odessa",
-        "url": "https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH"
+        "name": "Giving In To The Love",
+        "url": "https://open.spotify.com/album/3Y5o2C8NuaZTnJEVIamHDy"
       },
       "artists": [
         {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Hummed Low",
-      "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
+      "duration_ms": 181333,
+      "name": "Giving In To The Love",
+      "url": "https://open.spotify.com/track/2QlRLjTVBHYreIiS6BvGof"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Giving In To The Love",
-        "url": "https://open.spotify.com/album/3Y5o2C8NuaZTnJEVIamHDy"
+        "name": "Odessa",
+        "url": "https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/2QlRLjTVBHYreIiS6BvGof"
+      "duration_ms": 215173,
+      "name": "Hummed Low",
+      "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Only Two at the Start",
-        "url": "https://open.spotify.com/album/50FSXGpR9OmRhuzEDUpZ3F"
-      },
-      "artists": [
-        {
-          "name": "DD WALKER",
-          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
-        }
-      ],
-      "duration_ms": 259459,
-      "name": "Only Two at the Start",
-      "url": "https://open.spotify.com/track/0DvN8iIWKuuZPmUmqK7Amz"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Cold Blood",
         "url": "https://open.spotify.com/album/0sC0ZuAkEzQcBVbE9tV9ZS"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 236338,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Only Two at the Start",
+        "url": "https://open.spotify.com/album/50FSXGpR9OmRhuzEDUpZ3F"
+      },
+      "artists": [
+        {
+          "name": "DD WALKER",
+          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
+        }
+      ],
+      "duration_ms": 259459,
+      "name": "Only Two at the Start",
+      "url": "https://open.spotify.com/track/0DvN8iIWKuuZPmUmqK7Amz"
     }
   ],
   "unique_name": "Creativity Boost",

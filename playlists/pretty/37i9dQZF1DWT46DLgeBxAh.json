@@ -1,12 +1,12 @@
 {
   "description": "La mezcla perfecta, picosita y refrescante.",
-  "num_followers": 175730,
+  "num_followers": 176047,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MDQwMCwwMDAwMDAwMDRhOTIzNjAzZDFiMGQzMmNhMzcxNDUzNTA5OGRmNzE5",
+  "snapshot_id": "MTY2MDI4MDQwMCwwMDAwMDAwMGRmZTRmMGE4OTljZDRmYzVhYzQxMzM2NTdhYTdkNzYx",
   "tracks": [
     {
       "added_at": "2022-08-03 16:03:52",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
         "name": "Te Marqu\u00e9 Pedo",
         "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
         "name": "Chingas A Tu Madre",
         "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 205125,
       "name": "Chingas A Tu Madre",
       "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "H\u00edbrido",
-      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1363,6 +1347,22 @@
       "duration_ms": 213943,
       "name": "Porte Exuberante",
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "H\u00edbrido",
+      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
         "name": "Pa' Olvidarme De Ella",
         "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 227233,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "Talento De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Lo Mejor De Nosotros",
-        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 213791,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "Lo Mejor De Nosotros",
+        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
     },
     {
       "added_at": "2022-08-03 16:03:52",

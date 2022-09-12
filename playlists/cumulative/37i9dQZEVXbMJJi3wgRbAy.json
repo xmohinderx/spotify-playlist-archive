@@ -1192,6 +1192,28 @@
     },
     {
       "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
+    },
+    {
+      "album": {
         "name": "Carne y Hueso",
         "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
       },
@@ -5193,7 +5215,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 182187,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"

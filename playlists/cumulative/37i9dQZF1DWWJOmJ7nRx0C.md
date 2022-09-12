@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover:  ONE OK ROCK
 
-454 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+455 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-07-29 |  |
 | [Leech](https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Leech](https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU) | 3:50 | 2022-05-27 | 2022-07-09 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-17 | 2022-04-16 |
-| [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-02 |  |
+| [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2022-09-09 |  |
+| [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-02 | 2022-09-12 |
 | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/track/0JX13l9ixwzb9BBTG5vaNV) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/album/6FDZMfAhiOT1vgZ21iupjV) | 3:25 | 2022-08-12 |  |
 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/5BdiprSBqgkULtloEFbhfF) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/41xx4p0Q1MhE2Bnfkeo6b0) | 3:32 | 2021-09-24 | 2022-01-15 |
 | [Lifeline](https://open.spotify.com/track/7ALsy4QJ5BdzWiHbJPglf6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Lifeline](https://open.spotify.com/album/4ByxEMaefZBFPA3LqYrQOv) | 3:13 | 2021-09-10 | 2022-03-18 |

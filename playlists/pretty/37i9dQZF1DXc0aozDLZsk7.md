@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,594 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,641 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 50 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
 | 51 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
 | 52 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
-| 53 | [The One](https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Coming Up for Air \(Expanded Edition\)](https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE) | 3:52 |
-| 54 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 |
+| 53 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 |
+| 54 | [The One](https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Coming Up for Air \(Expanded Edition\)](https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE) | 3:52 |
 | 55 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
 | 56 | [Falling Up](https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Falling Up](https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud) | 3:26 |
 | 57 | [Home](https://open.spotify.com/track/4OsBjrJQbPSMAqdjLBaGOt) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:20 |
 | 58 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
-| 59 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
-| 60 | [Feeling You](https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Feeling You](https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H) | 3:21 |
+| 59 | [Feeling You](https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Feeling You](https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H) | 3:21 |
+| 60 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
 | 61 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 62 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 |
 | 63 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 72 | [Superhero](https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi) | 2:59 |
 | 73 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 74 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 |
-| 75 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
-| 76 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 |
-| 77 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 |
-| 78 | [Let’s Go Home Together](https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together](https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv) | 3:28 |
-| 79 | [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 |
-| 80 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 |
+| 75 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 |
+| 76 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 77 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 |
+| 78 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 |
+| 79 | [Let’s Go Home Together](https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together](https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv) | 3:28 |
+| 80 | [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 |
 
-Snapshot ID: `MTY1NjU3NDk2OSwwMDAwMDAwMGUyYTk3YmViMjE2OTZkYTEzNGFmMDk2MWNlYmI0NTM3`
+Snapshot ID: `MTY1NjU3NDk2OSwwMDAwMDAwMGQwNWQwOWI3MDY1NTAzOWFjM2MyZGVmZjBkMzk3ZmYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 
 > These songs rocked the 00s\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,347,879 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,348,995 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 20 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |
 | 21 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 |
 | 22 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
-| 23 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 24 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 23 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 24 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 25 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
 | 26 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 27 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 30 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
 | 31 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 |
 | 32 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
-| 33 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
-| 34 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
+| 33 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
+| 34 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
 | 35 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 |
 | 36 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
 | 37 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 94 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 95 | [There, There](https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 5:23 |
 | 96 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
-| 97 | [Numb](https://open.spotify.com/track/0kO3njY9N1Rxgv27Ha1lLh) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 3:05 |
-| 98 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 |
+| 97 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 |
+| 98 | [Numb](https://open.spotify.com/track/0kO3njY9N1Rxgv27Ha1lLh) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 3:05 |
 | 99 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
 | 100 | [Every Day Is Exactly The Same](https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 4:54 |
 
-Snapshot ID: `MTY2MTk4NjM0OCwwMDAwMDAwMGU0ZmEzOTc5MjJhYTU5NjRiOTAzYzkyYTNlZDdiZWM5`
+Snapshot ID: `MTY2MTk4NjM0OCwwMDAwMDAwMDQ3MzVlNGZlOTQ0NTAzNzk5NjgzNzNiZTdhYzkzNjhl`

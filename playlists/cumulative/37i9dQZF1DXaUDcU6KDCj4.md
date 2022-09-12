@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Head And The Heart
 
-769 songs - 1 day 23 hr 4 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+770 songs - 1 day 23 hr 8 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Drive All Night \- Radio Edit](https://open.spotify.com/track/1QZGYQnSDLWUOOuvQnQmy0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Drive All Night](https://open.spotify.com/album/5dlPH02w9VpPP2KJXIibyF) | 3:32 | 2022-04-15 | 2022-07-09 |
 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 | 2022-02-18 | 2022-03-26 |
 | [Dust](https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Dust](https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy) | 5:02 | 2022-02-25 | 2022-04-02 |
-| [Easy Does It](https://open.spotify.com/track/5nOYvGsP0zTmsInjj1ZhdR) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Easy Does It](https://open.spotify.com/album/0bg17fKpDoUDNa51iWOdAF) | 3:39 | 2022-08-12 |  |
+| [Easy Does It](https://open.spotify.com/track/3MLeNBBnqmI09zcYSc8cD4) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 3:39 | 2022-08-19 |  |
+| [Easy Does It](https://open.spotify.com/track/5nOYvGsP0zTmsInjj1ZhdR) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Easy Does It](https://open.spotify.com/album/0bg17fKpDoUDNa51iWOdAF) | 3:39 | 2022-08-12 | 2022-09-12 |
 | [Easy Target](https://open.spotify.com/track/6C3eUX2nv5lZWBPYHZIe9E) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Easy Target](https://open.spotify.com/album/4m73ABi1nqvgxQqtIMY3yS) | 2:40 | 2022-03-25 | 2022-04-29 |
 | [El Mirador](https://open.spotify.com/track/6HQgUBaY6RbmmrXRER8y8E) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/0G9Bc2RYNUkCjUFK4zWKlX) | 3:38 | 2022-02-04 | 2022-04-02 |
 | [Eloise](https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Eloise](https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk) | 3:54 | 2022-09-02 |  |

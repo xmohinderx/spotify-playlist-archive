@@ -4,7 +4,7 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-50 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/0sKOKr4jcSA1YWjPvUiC1U)
+51 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/0sKOKr4jcSA1YWjPvUiC1U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Miserable](https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 5:22 | 2022-09-08 |  |
 | [Mujer de Novela](https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 5:15 | 2022-09-08 |  |
 | [Ni Como Amiga Ni Como Amante](https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 4:52 | 2022-09-08 |  |
+| [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 | 2022-09-11 |  |
 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 | 2022-09-08 |  |
 | [Rupelto Mena](https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Rupelto Mena](https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4) | 4:49 | 2022-09-08 |  |
 | [Se Pareció Tanto a Ti](https://open.spotify.com/track/36CmpO4k6RCa410JCgn3Er) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:28 | 2022-09-08 |  |
@@ -53,7 +54,7 @@
 | [Solo Tu Sabes](https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:44 | 2022-09-08 |  |
 | [Solo un Cariño](https://open.spotify.com/track/45pBvCV1eaj4Pcw7Pi5plW) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:56 | 2022-09-08 |  |
 | [Soltero](https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Soltero](https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685) | 4:20 | 2022-09-08 |  |
-| [Tocando el Cielo Con las Manos](https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 4:10 | 2022-09-08 |  |
+| [Tocando el Cielo Con las Manos](https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 4:10 | 2022-09-08 | 2022-09-12 |
 | [Un Alto en el Camino](https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:48 | 2022-09-08 |  |
 | [Un Caso Social](https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Niche Con Cuerdas](https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6) | 5:17 | 2022-09-08 |  |
 | [Un Día Después](https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 5:26 | 2022-09-08 |  |

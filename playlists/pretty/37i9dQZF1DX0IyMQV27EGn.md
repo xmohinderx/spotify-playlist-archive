@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,475 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,527 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 47 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
 | 48 | [Let You Let Me Down](https://open.spotify.com/track/7KK4Fhe0GpGIQk2QqWWYaG) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 3:07 |
 | 49 | [Glass Piano](https://open.spotify.com/track/4Rz3FamBRVJ6s1d0B0XGJ4) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG) | 3:25 |
-| 50 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
-| 51 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
-| 52 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
-| 53 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 |
+| 50 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
+| 51 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
+| 52 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 |
+| 53 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 | 54 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
 | 55 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
 | 56 | [Cannonball \- Acoustic](https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Cannonball \(Acoustic\)](https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn) | 4:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
 | 70 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDc3NzMwNmExNGFkNmEyYzc0MjNkYzliMDAwNWQ2NzFl`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGUxNTczZDhiNzRmMjA4YTY0MzQ5MmFhMzBlZTc1MDEx`

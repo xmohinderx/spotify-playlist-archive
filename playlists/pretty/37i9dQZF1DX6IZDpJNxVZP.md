@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,362 likes - 133 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,360 likes - 133 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 91 | [Troll Under My Bed](https://open.spotify.com/track/0Vl9jDLSe5gU13b0dFa0RM) | [Pixel Kids](https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW) | [Troll Under My Bed](https://open.spotify.com/album/1LiV0SbKdvyGyBxQ4d4vMH) | 1:53 |
 | 92 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 |
 | 93 | [Witchy Woman](https://open.spotify.com/track/2ue226HXGINwAKcb9ILXZE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:10 |
-| 94 | [Halloween Night](https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg) | [Like Father Like Son](https://open.spotify.com/artist/4LofRCrcDskFp1NnTFujb3) | [Halloween Night](https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5) | 3:26 |
+| 94 | [Halloween Night](https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg) | [Like Father Like Son](https://open.spotify.com/artist/2mYeBf4vKnhNLLiGciwz3O) | [Halloween Night](https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5) | 3:26 |
 | 95 | [A Nightmare On My Street](https://open.spotify.com/track/6z2ioD6ikzth6aTkYWFvSu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:55 |
 | 96 | [Gonna Get Me a Monster](https://open.spotify.com/track/5YaeRgZ2HFIoLGVHvO4JWK) | [Mr\. Singer & The Sharp Cookies](https://open.spotify.com/artist/2cNEUfwTvDZy45RQYjDlHv) | [Happy Haunted Halloween](https://open.spotify.com/album/13f41FYKOgFUuGKyHXWxHH) | 2:22 |
 | 97 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 |

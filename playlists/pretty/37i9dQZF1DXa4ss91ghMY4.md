@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,857 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,974 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 12 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 | 13 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
 | 14 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
-| 15 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 |
-| 16 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
+| 15 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
+| 16 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 |
 | 17 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 |
 | 18 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
 | 19 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 40 | [Sweet but Psycho](https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:07 |
 | 41 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:24 |
 | 42 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
-| 43 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
-| 44 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
+| 43 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
+| 44 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
 | 45 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 46 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 47 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 56 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
 | 57 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
 | 58 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
-| 59 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 |
-| 60 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 59 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 60 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 |
 
-Snapshot ID: `MTY2MjEzMzc5NywwMDAwMDAwMGUyYjU2NjRkNDZlNzFmMWQxYWYxZGU0MGExNWU5MTYz`
+Snapshot ID: `MTY2MjEzMzc5NywwMDAwMDAwMGI0MzU2NThmZjJiZDVhMTcxMDlhZjRlNzQ2Y2FjNGQ2`

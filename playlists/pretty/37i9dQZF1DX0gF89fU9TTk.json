@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 102914,
+  "num_followers": 102952,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMDJhN2JkODE2NGExNTlhNzYyZWNlNzcwNjA3MTdhYWI4",
+  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMGM1MTBlMGIwOWIxZDcxMGE1OTMxZDEwODUxNDQ0ZDlm",
   "tracks": [
     {
       "added_at": "2021-12-31 06:28:29",
@@ -231,22 +231,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "neverfade",
         "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 179857,
       "name": "neverfade",
       "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -351,6 +351,26 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Love Me Like You",
+        "url": "https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Love Me Like You",
+      "url": "https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 199078,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Love Me Like You",
-        "url": "https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Love Me Like You",
-      "url": "https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Yes He Does",
-        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 206606,
-      "name": "Yes He Does",
-      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Revival (Live)",
         "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 200360,
       "name": "Way Truth Life - Live",
       "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Yes He Does",
+        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 206606,
+      "name": "Yes He Does",
+      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Hills & Horizons",
-        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
+        "name": "Better View",
+        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 181426,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
+      "duration_ms": 168853,
+      "name": "Better View",
+      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 224693,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Cre\u00edste en M\u00ed / You Loved Me First",
-        "url": "https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 209088,
-      "name": "You Loved Me First",
-      "url": "https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Through People Like Me",
         "url": "https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 194493,
       "name": "To Get To Me",
       "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Cre\u00edste en M\u00ed / You Loved Me First",
+        "url": "https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 209088,
+      "name": "You Loved Me First",
+      "url": "https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT"
     },
     {
       "added_at": "2021-12-31 06:28:29",

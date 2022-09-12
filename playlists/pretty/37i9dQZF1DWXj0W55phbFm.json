@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 17512,
+  "num_followers": 17558,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyNzcyOCwwMDAwMDAwMDUxMjFhZTVlYWFjZDE3MjI2ZTg2OWE3YTVkNWUzNzgx",
+  "snapshot_id": "MTY2MjYyNzcyOCwwMDAwMDAwMGZlOGJkYTBhMGU1ZWIxY2Q5MTIxYTFiNThlZTkyMWIz",
   "tracks": [
     {
       "added_at": "2022-09-08 09:02:08",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
+        "name": "The Great Pretender",
+        "url": "https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q"
+      },
+      "artists": [
+        {
+          "name": "Lester Bowie",
+          "url": "https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf"
+        }
+      ],
+      "duration_ms": 435066,
+      "name": "Rios Negroes",
+      "url": "https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
         "name": "Fats Navarro Memorial Album",
         "url": "https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 171123,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
-        "name": "The Great Pretender",
-        "url": "https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q"
-      },
-      "artists": [
-        {
-          "name": "Lester Bowie",
-          "url": "https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf"
-        }
-      ],
-      "duration_ms": 435066,
-      "name": "Rios Negroes",
-      "url": "https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4"
     },
     {
       "added_at": "2022-09-08 09:02:08",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
-        "name": "In New York [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 352520,
-      "name": "Solar",
-      "url": "https://open.spotify.com/track/0inE6nSUt8DmS8WzIQ8B9g"
+      "duration_ms": 268506,
+      "name": "Comin' Down",
+      "url": "https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx"
     },
     {
       "added_at": "2022-09-08 09:02:08",
@@ -1335,6 +1335,38 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
+        "name": "Booker Little",
+        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
+      },
+      "artists": [
+        {
+          "name": "Booker Little",
+          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
+        }
+      ],
+      "duration_ms": 413387,
+      "name": "Life's A Little Blue",
+      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 509373,
+      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
         "name": "With The Swedish All Stars Vol. 1",
         "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
       },
@@ -1359,38 +1391,6 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 509373,
-      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
-        "name": "Booker Little",
-        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
-      },
-      "artists": [
-        {
-          "name": "Booker Little",
-          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
-        }
-      ],
-      "duration_ms": 413387,
-      "name": "Life's A Little Blue",
-      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
         "name": "The Happy Horns Of Clark Terry",
         "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 228200,
       "name": "High Towers",
       "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
-        "name": "Standard Time Vol. 2: Intimacy Calling",
-        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 514293,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
     },
     {
       "added_at": "2022-09-08 09:02:08",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
+        "name": "Standard Time Vol. 2: Intimacy Calling",
+        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 514293,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
         "name": "A Rift In Decorum: Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
-        "name": "One Of Many",
-        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wheeler",
-          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
-        },
-        {
-          "name": "John Taylor",
-          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
-        }
-      ],
-      "duration_ms": 359746,
-      "name": "Aneba",
-      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1503,6 +1479,34 @@
       "duration_ms": 148573,
       "name": "Sweet Sue (Just You)",
       "url": "https://open.spotify.com/track/3KYlO842OFhn0z2uEjICjh"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
+        "name": "Gnu High",
+        "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wheeler",
+          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 358760,
+      "name": "Smatter",
+      "url": "https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt"
     },
     {
       "added_at": "2022-09-08 09:02:08",
@@ -1559,66 +1563,6 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
-        "name": "Gnu High",
-        "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wheeler",
-          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
-        },
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Dave Holland",
-          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 358760,
-      "name": "Smatter",
-      "url": "https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 429666,
-      "name": "Concentric Circles",
-      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
         "name": "Brecker Plays Rovatti - Sacred Bond",
         "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
       },
@@ -1639,34 +1583,18 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
       "artists": [
         {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
+      "duration_ms": 429666,
+      "name": "Concentric Circles",
+      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
     },
     {
       "added_at": "2022-09-08 09:02:08",
@@ -1695,6 +1623,62 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
+        "name": "One Of Many",
+        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wheeler",
+          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        {
+          "name": "John Taylor",
+          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+        }
+      ],
+      "duration_ms": 359746,
+      "name": "Aneba",
+      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2022-09-08 09:02:08",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-09-08 09:02:08",
       "album": {
-        "name": "Off To The Races (Remastered)",
-        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 426480,
-      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
-      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
-    },
-    {
-      "added_at": "2022-09-08 09:02:08",
-      "album": {
         "name": "Lotus Flower",
         "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 484000,
       "name": "Rahsan's Run",
       "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
+    },
+    {
+      "added_at": "2022-09-08 09:02:08",
+      "album": {
+        "name": "Off To The Races (Remastered)",
+        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 426480,
+      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
     },
     {
       "added_at": "2022-09-08 09:02:08",

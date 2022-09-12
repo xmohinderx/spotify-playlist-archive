@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! Foto: Oscar D'Le\u00f3n",
-  "num_followers": 128019,
+  "num_followers": 128095,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMDdkMWUyMTI5N2RjZTg4YjNlYjA4NWQxY2NmNzhhNmZl",
+  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMGExYWY4YzNjZGU2OWFiNDUzMDgxNzI4ZWZkMThjM2Rh",
   "tracks": [
     {
       "added_at": "2019-02-21 18:14:14",
@@ -511,6 +511,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Serie Sensacional: Marvin Santiago",
+        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Vasos De Colores",
+      "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Dueno del Soneo",
         "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 300533,
       "name": "A Fuego Lento",
       "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Serie Sensacional: Marvin Santiago",
-        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Vasos De Colores",
-      "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -591,18 +591,18 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Salvaje! 88",
-        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
+        "name": "El Sonero Del Pueblo",
+        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
       },
       "artists": [
         {
-          "name": "Cano Estremera",
-          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
         }
       ],
-      "duration_ms": 389840,
-      "name": "Amame en Camara Lenta",
-      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
+      "duration_ms": 254360,
+      "name": "El Hombre Increible",
+      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -643,6 +643,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Salvaje! 88",
+        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
+      },
+      "artists": [
+        {
+          "name": "Cano Estremera",
+          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
+        }
+      ],
+      "duration_ms": 389840,
+      "name": "Amame en Camara Lenta",
+      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Serie Millennium 21: Paquito Guzman",
         "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 279106,
       "name": "25 Rosas",
       "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "El Sonero Del Pueblo",
-        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "El Hombre Increible",
-      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
     },
     {
       "added_at": "2019-02-21 18:14:14",

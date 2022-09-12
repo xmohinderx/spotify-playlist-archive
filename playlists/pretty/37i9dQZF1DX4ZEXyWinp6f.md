@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,774 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,894 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 45 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 46 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 47 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 |
-| 48 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
-| 49 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
+| 48 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
+| 49 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
 | 50 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 |
 | 51 | [Hell Riders](https://open.spotify.com/track/4WoJjW20CcWFt5S4PVBycE) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1euK7GgNJmBprlctpGtDC5) | 6:47 |
 | 52 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
 | 53 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 |
 | 54 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
-| 55 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
-| 56 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
+| 55 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
+| 56 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
 | 57 | [The Belldog](https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 6:19 |
 | 58 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
 | 59 | [Polygon Window](https://open.spotify.com/track/74yFgfBjzPASPr3wv79aWe) | [The Dice Man](https://open.spotify.com/artist/67znT4w9oHh5dpk4WAHVCM) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 5:12 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 64 | [Subtractive Skies](https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:46 |
 | 65 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 66 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
-| 67 | [Detroit Snackbar Dreamer](https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Stuntman](https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg) | 6:33 |
-| 68 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
+| 67 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
+| 68 | [So weit, so gut](https://open.spotify.com/track/3FN3frDWGsI88XBPqS1c8E) | [Harald Grosskopf](https://open.spotify.com/artist/1yejR2Tszo9sGMXtmuq07K) | [Synthesist](https://open.spotify.com/album/5CrGQOQ2h1mchfGt4T8Qwd) | 5:28 |
 | 69 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
-| 70 | [So weit, so gut](https://open.spotify.com/track/3FN3frDWGsI88XBPqS1c8E) | [Harald Grosskopf](https://open.spotify.com/artist/1yejR2Tszo9sGMXtmuq07K) | [Synthesist](https://open.spotify.com/album/5CrGQOQ2h1mchfGt4T8Qwd) | 5:28 |
+| 70 | [Detroit Snackbar Dreamer](https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Stuntman](https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg) | 6:33 |
 | 71 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 |
 | 72 | [Kagen Sound](https://open.spotify.com/track/65CcRPKQEQcT3bGHNfk2v9) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 3:07 |
-| 73 | [Kill Scene](https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/5uBKGNG8GjtU8UP7I6pfZZ) | 3:54 |
-| 74 | [Yes! Come Parade With Us](https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz) | 4:54 |
+| 73 | [Yes! Come Parade With Us](https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz) | 4:54 |
+| 74 | [Kill Scene](https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/5uBKGNG8GjtU8UP7I6pfZZ) | 3:54 |
 | 75 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
 
-Snapshot ID: `MTY2MTkyMDYwMiwwMDAwMDAwMGFmNmYxMDQ3NDhlZDczZWVjNThiNTZiMWQ0MDYxOWYx`
+Snapshot ID: `MTY2MTkyMDYwMiwwMDAwMDAwMGIzNjgxMjdhODE2MjdlNGRhY2QyOGU3M2U2MzZmMjgw`

@@ -2392,6 +2392,24 @@
     },
     {
       "album": {
+        "name": "Can U Dance (To My Beat)",
+        "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148125,
+      "name": "Can U Dance (To My Beat)",
+      "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
+    },
+    {
+      "album": {
         "name": "Can't Believe / Nadiali",
         "url": "https://open.spotify.com/album/2Y349tpR3zMd1TLzT7NE5e"
       },
@@ -5869,7 +5887,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 155000,
       "name": "God is A DJ",
       "url": "https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k"
@@ -11786,6 +11804,36 @@
     },
     {
       "album": {
+        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
+        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205530,
+      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
+      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+    },
+    {
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/0RJDPJxA2hIGyw4uLWGytu"
       },
@@ -16601,7 +16649,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 188571,
       "name": "Till The End - Jonas Blue & Sam Feldt Present Endless Summer",
       "url": "https://open.spotify.com/track/42NgRCC7M5rfVNKXMaFitZ"

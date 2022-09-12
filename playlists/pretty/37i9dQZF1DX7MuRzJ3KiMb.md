@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,713 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,768 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 38 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 39 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 40 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [ULYSE](https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD) | 3:34 |
-| 41 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
-| 42 | [El Mejor Lugar](https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [El Mejor Lugar](https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme) | 2:55 |
+| 41 | [El Mejor Lugar](https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [El Mejor Lugar](https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme) | 2:55 |
+| 42 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 | 43 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 | 44 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
 | 45 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Tiempo](https://open.spotify.com/track/08S8EziI1G7mKlpLppezs1) | [César Iván](https://open.spotify.com/artist/0FbElMinO7597uQdQNvIIR) | [Tiempo](https://open.spotify.com/album/5CsywNE84L0cjfi7pr2K5B) | 3:09 |
 | 75 | [Aurana Espérame](https://open.spotify.com/track/0JwJElZzKXF4TnzN30uxZw) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:03 |
 
-Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMDg1YmE0YjE3MGM1NjE0MGVlNDczZjA3OWQ0OGNiYjQ1`
+Snapshot ID: `MTY1ODI1Mjk4NCwwMDAwMDAwMDRlNDJmMGZjOTAwNDUwYjZjNTcxNjRhZGIxYzk0ZmY0`

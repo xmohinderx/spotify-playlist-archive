@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 4125,
+  "num_followers": 4154,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjUzNiwwMDAwMDAwMGE0ODQ2OGYzZjk5M2ZiOTFmOGUxZTAzODQ3MzhhMDhj",
+  "snapshot_id": "MTY1ODg1MjUzNiwwMDAwMDAwMGZmNjA3ZDc0ZDQ0NDdjNmVmZjQ0NjIwM2U2OWExMTVl",
   "tracks": [
     {
       "added_at": "2022-07-26 16:22:16",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "L!L!L! (Love the Life We Live)",
-        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
-      },
-      "artists": [
-        {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "\u591c\u660e\u73e0",
-      "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
         "name": "Sing & Smile!!",
         "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 281920,
       "name": "Sing & Smile!!",
       "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "\u591c\u660e\u73e0",
+      "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -496,22 +496,6 @@
       },
       "artists": [
         {
-          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
-          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
-        }
-      ],
-      "duration_ms": 270040,
-      "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
           "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
           "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
         }
@@ -555,6 +539,22 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "duration_ms": 270040,
+      "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
         "name": "Love U my friends",
         "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
-      },
-      "artists": [
-        {
-          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
-          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "I'm Still...",
-      "url": "https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 287626,
       "name": "\u5922\u3078\u306e\u4e00\u6b69",
       "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "I'm Still...",
+      "url": "https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
+        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Poppin' Up!",
+      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
         "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
         "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
-        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Poppin' Up!",
-      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+      "duration_ms": 228213,
+      "name": "\u604b\u3059\u308bMagic!!",
+      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -695,22 +711,6 @@
       "duration_ms": 251386,
       "name": "Toy Doll",
       "url": "https://open.spotify.com/track/7BOoQpM5Ud8zRkDwMDWqOz"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
-      },
-      "artists": [
-        {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "\u604b\u3059\u308bMagic!!",
-      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -784,13 +784,13 @@
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
         }
       ],
-      "duration_ms": 233720,
-      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+      "duration_ms": 204346,
+      "name": "\u7720\u308c\u308b\u68ee\u306b\u884c\u304d\u305f\u3044\u306a",
+      "url": "https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -800,13 +800,13 @@
       },
       "artists": [
         {
-          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
         }
       ],
-      "duration_ms": 204346,
-      "name": "\u7720\u308c\u308b\u68ee\u306b\u884c\u304d\u305f\u3044\u306a",
-      "url": "https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh"
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
     }
   ],
   "unique_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",

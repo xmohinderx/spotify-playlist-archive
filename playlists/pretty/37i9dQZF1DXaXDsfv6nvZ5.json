@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 711778,
+  "num_followers": 711904,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjQ5OSwwMDAwMDAwMGY5MzBjMTI0NmI4YTdkNzIwZGIyNzdmZDc1MTk3NmU0",
+  "snapshot_id": "MTY2MjY5NjQ5OSwwMDAwMDAwMGIxMmVmMDdhYmExMzdhMjAzYTJiMTMyYmEzZmVmOTNm",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-09-09 04:08:19",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+      "duration_ms": 216680,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "VENOLOGY",
@@ -591,18 +607,18 @@
     {
       "added_at": "2022-08-26 04:46:22",
       "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA"
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
       },
       "artists": [
         {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 204000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -619,22 +635,6 @@
       "duration_ms": 168038,
       "name": "Ambience",
       "url": "https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi"
-    },
-    {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1057,6 +1057,26 @@
       "url": "https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 173123,
+      "name": "Love (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Brown Angel",
@@ -1091,22 +1111,6 @@
       "duration_ms": 172493,
       "name": "Take Me Away (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Neva Gonna Break My Heart Again",
-        "url": "https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        }
-      ],
-      "duration_ms": 318521,
-      "name": "Neva Gonna Break My Heart Again",
-      "url": "https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1147,6 +1151,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Neva Gonna Break My Heart Again",
+        "url": "https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        }
+      ],
+      "duration_ms": 318521,
+      "name": "Neva Gonna Break My Heart Again",
+      "url": "https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Stolen Fruit",
         "url": "https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv"
       },
@@ -1159,6 +1179,26 @@
       "duration_ms": 217625,
       "name": "Stolen Fruit",
       "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Outside: From The Redwoods",
+        "url": "https://open.spotify.com/album/0k7LQvKvFfbxZvqFwZ0Dtz"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "What a Fool Believes (with Michael McDonald) - Live",
+      "url": "https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1183,26 +1223,6 @@
       "duration_ms": 387210,
       "name": "Shine [Feat. D Smoke + Tiffany Gouch\u00e9]",
       "url": "https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Outside: From The Redwoods",
-        "url": "https://open.spotify.com/album/0k7LQvKvFfbxZvqFwZ0Dtz"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "What a Fool Believes (with Michael McDonald) - Live",
-      "url": "https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1269,6 +1289,22 @@
       "url": "https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "summer night o8",
@@ -1283,42 +1319,6 @@
       "duration_ms": 203158,
       "name": "summer night o8",
       "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
-      },
-      "artists": [
-        {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
-        }
-      ],
-      "duration_ms": 255109,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Slow Down (Acoustic)",
-        "url": "https://open.spotify.com/album/6oucPVEBijDE1a4Ef2vEU4"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Slow Down - Acoustic",
-      "url": "https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq"
     }
   ],
   "unique_name": "Soul Coffee",

@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2013238,
+  "num_followers": 2013236,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMDdkYWU3MTZjNjE2NzcxMjVlMzVmYjFhODZiOTM5Njky",
+  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMDM4YTNhNDEwOTQ5YWNkYmE0NWIxNmM1NTQ0YzYzMjBi",
   "tracks": [
     {
       "added_at": "2022-08-05 16:21:41",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "01 - EP",
-        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 209542,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Planeando Madrid",
         "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 252736,
       "name": "Planeando Madrid",
       "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "01 - EP",
+        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 209542,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+        "name": "Shakira MTV Unplugged",
+        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 195917,
-      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
-      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+      "duration_ms": 298773,
+      "name": "Estoy Aqu\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Shakira MTV Unplugged",
-        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 298773,
-      "name": "Estoy Aqu\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+      "duration_ms": 195917,
+      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
+      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "Acustico",
         "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 453893,
       "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
       "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Cenizas y Miel",
         "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J"
     },
     {
       "added_at": "2022-08-05 16:21:41",

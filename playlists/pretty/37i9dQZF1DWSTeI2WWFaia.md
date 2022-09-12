@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Royce Da 5'9"
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,192 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,328 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 13 | [50K or Brunch](https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [50K or Brunch](https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE) | 2:38 |
 | 14 | [Freedom of Speech \(with J\. Cole\)](https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:11 |
 | 15 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
-| 16 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 |
+| 16 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 |
 | 17 | [Extra Credit](https://open.spotify.com/track/6MJli89DxGWgOyrCvYeGsm) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Extra Credit](https://open.spotify.com/album/2xpeZujHknYIFaU5IeBNeb) | 2:52 |
-| 18 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 |
+| 18 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 |
 | 19 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
 | 20 | [Times Is Rough](https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy) | [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1) | [Times Is Rough](https://open.spotify.com/album/0p4zzRMfASMefel2C3BM92) | 3:21 |
 | 21 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 |
 | 50 | [Isis \- Remix](https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj), [Catra](https://open.spotify.com/artist/7clv57AT6aP2cMrphyksAb), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [Kvng Moses](https://open.spotify.com/artist/6bke0iSCUylKssEtk3Ltr2) | [Isis \(Remix\)](https://open.spotify.com/album/2FKqCFX8YuORASp2wON4iQ) | 4:56 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDE4MzJjZmE1YTk0MGU3NjQ3NWQ2NmFmZmUzYjk2YTVh`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDNlZjU5ZmVhYTUxYzUyNTlmNGM5Mzg0MGQ1YjhiOGU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > Himnos de estadio para acompañar una tarde de deportes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,169 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,202 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 20 | ['Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
 | 21 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 22 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
-| 23 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
-| 24 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
+| 23 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
+| 24 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
 | 25 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
 | 26 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
 | 27 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 53 | [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 |
 | 54 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
 | 55 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
-| 56 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
-| 57 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
+| 56 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
+| 57 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
 | 58 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 | 59 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 60 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 119 | [Diamonds](https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 3:45 |
 | 120 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
 
-Snapshot ID: `MTY0NDc5MDE1NSwwMDAwMDAwMDFlZDVlODU4ODc1YjU1ZWEzNTM1NzhhYzY5ZWQ0MGU1`
+Snapshot ID: `MTY0NDc5MDE1NSwwMDAwMDAwMDI3MjM4NTRkYTY2NjFmYjRmZjQxY2I5MTBjZGJhMDE1`

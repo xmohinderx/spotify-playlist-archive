@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,375 likes - 65 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,726 likes - 65 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

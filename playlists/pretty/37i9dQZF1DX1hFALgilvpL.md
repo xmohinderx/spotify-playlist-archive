@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,723 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,844 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 6 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 7 | [Springsteen](https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 4:23 |
 | 8 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
-| 9 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
+| 9 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
 | 10 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
 | 11 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
-| 12 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
+| 12 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
 | 13 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 14 | [H.O.L.Y.](https://open.spotify.com/track/0BCy325UZyR9z0t0uxwn2N) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:14 |
 | 15 | [Late To The Party](https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 49 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 50 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGU4NDk1MGM5ZWZlYTY1OGIzODE1ZDM3ZTMyZDYzNTcy`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDg5YzI0ZTYyYWI3ODQyYWNmNTcyMTNlOWM0Y2YwNWE4`

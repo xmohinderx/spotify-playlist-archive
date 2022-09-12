@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Mitraz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,243 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,367 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

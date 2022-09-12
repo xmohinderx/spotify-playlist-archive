@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 
 > A gaming playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,811 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,813 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 28 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
 | 29 | [Legends Never Die](https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Legends Never Die](https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA) | 3:55 |
 | 30 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
-| 31 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
-| 32 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
+| 31 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
+| 32 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 33 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 34 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 35 | [Roar](https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:43 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 49 | [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Alone](https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg) | 4:33 |
 | 50 | [What's Up Danger \(with Black Caviar\)](https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:42 |
 | 51 | [Panini](https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 1:54 |
-| 52 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 |
-| 53 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
+| 52 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
+| 53 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 |
 | 54 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
 | 55 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
 | 56 | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/track/2WH4oy1SYppZrcdgKwSA0j) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/album/7EBPKgQ3ITnvdppu5DEcqF) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 79 | [Tortoise Playing Minecraft](https://open.spotify.com/track/2je07NBiHQZNoZRvTNB0AO) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Tortoise Playing Minecraft](https://open.spotify.com/album/7KhfdyxlNNX1rZ7xS6dx5k) | 2:12 |
 | 80 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/7ahuMdaf5gdVi35BzyU9Qu) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Greatest Hits](https://open.spotify.com/album/1webHYaeCy8j9smqS23sgE) | 3:25 |
 
-Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMGNkZmNkOTk4OTZiMmIxM2JlNWQwMzhmNzYxN2QwOGEx`
+Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMGZhOGE4MzJhNTk1MTQwYjZiOGNjYTUyYTViYmNjODdl`

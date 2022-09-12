@@ -696,6 +696,24 @@
     },
     {
       "album": {
+        "name": "MAGIC MAN",
+        "url": "https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159927,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
+    },
+    {
+      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/0sHfP8xjH0WBDWbSzm6eQt"
       },
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 158457,
       "name": "Handle with Care",
       "url": "https://open.spotify.com/track/6jzhyJiZn9bYHfzoHOzQKS"
@@ -2293,6 +2311,24 @@
       "duration_ms": 144000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/57sXwalzODNWZGm5iYBf1T"
+    },
+    {
+      "album": {
+        "name": "High Forever",
+        "url": "https://open.spotify.com/album/1bx0R8DQSEriOR0xDHPmzh"
+      },
+      "artists": [
+        {
+          "name": "Imhavingabadday.",
+          "url": "https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182696,
+      "name": "High Forever",
+      "url": "https://open.spotify.com/track/6Mm7Z7dy3BEWxfe83jGDK6"
     },
     {
       "album": {
@@ -2685,10 +2721,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 170819,
       "name": "i hate u owe me $$",
       "url": "https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU"
+    },
+    {
+      "album": {
+        "name": "i love u",
+        "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214003,
+      "name": "i love u",
+      "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
     },
     {
       "album": {
@@ -2732,6 +2786,24 @@
     },
     {
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/05t8DqAXfJm99F4H7PzO65"
+      },
+      "artists": [
+        {
+          "name": "Alsa",
+          "url": "https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/40LxkGy1Ubg4GDRM9ThWfX"
+    },
+    {
+      "album": {
         "name": "i wanna be with you",
         "url": "https://open.spotify.com/album/2IsobQl3rf7bfea3v48mRF"
       },
@@ -2743,7 +2815,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 168648,
       "name": "i wanna be with you",
       "url": "https://open.spotify.com/track/6jvoDWyfrYTYycHkUSnJaw"
@@ -3170,6 +3242,28 @@
     },
     {
       "album": {
+        "name": "kitchen light",
+        "url": "https://open.spotify.com/album/34omlcFfOvMIgIOvLnStQo"
+      },
+      "artists": [
+        {
+          "name": "Maggery",
+          "url": "https://open.spotify.com/artist/452UwbEF3N7LK6Zd3bkTzw"
+        },
+        {
+          "name": "Isaac Solo",
+          "url": "https://open.spotify.com/artist/0DqFap2UZBZYFYKEDYMEPa"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137068,
+      "name": "kitchen light",
+      "url": "https://open.spotify.com/track/3y2SDMSFemKDSF9q8xbmm1"
+    },
+    {
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/2MJhau1UjgYtvQJ6LTxYqN"
       },
@@ -3395,6 +3489,24 @@
       "duration_ms": 215913,
       "name": "Like this",
       "url": "https://open.spotify.com/track/7a7hEQhybs7fXP32tNkuFZ"
+    },
+    {
+      "album": {
+        "name": "Live Today",
+        "url": "https://open.spotify.com/album/2jQgSgqdYOhLyX0QVbcGWM"
+      },
+      "artists": [
+        {
+          "name": "Nana Ou-Yang",
+          "url": "https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Live Today",
+      "url": "https://open.spotify.com/track/0JeIlkzCYhNY04TleTstck"
     },
     {
       "album": {
@@ -3677,7 +3789,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 166241,
       "name": "Make Your Mind Up",
       "url": "https://open.spotify.com/track/52pbDXTE0RqQIwyGBjyru2"
@@ -3897,7 +4009,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 242633,
       "name": "never be enough",
       "url": "https://open.spotify.com/track/4NAiXE4zNL3saeFqd91bJZ"
@@ -3977,7 +4089,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 201176,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/45qZ8r4atGNjdFhhBy2Cvw"
@@ -4913,7 +5025,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 200166,
       "name": "Sleep Crying",
       "url": "https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0"
@@ -5896,6 +6008,24 @@
     },
     {
       "album": {
+        "name": "SEND HELP",
+        "url": "https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174846,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz"
+    },
+    {
+      "album": {
         "name": "Unfucktheworld",
         "url": "https://open.spotify.com/album/1QE1W1ZeJEX8PEQc8Ft6DJ"
       },
@@ -6051,7 +6181,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 225747,
       "name": "WANT",
       "url": "https://open.spotify.com/track/7hqlbKbYWLnoIEg9GxyfWu"
@@ -6291,7 +6421,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 220814,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3"

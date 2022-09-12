@@ -4,7 +4,7 @@
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-125 songs - 7 hr 22 min - not published yet
+125 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3c1vQTF1VVUWKQc3iY78Mc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

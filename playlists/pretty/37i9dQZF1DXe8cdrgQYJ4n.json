@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 6858,
+  "num_followers": 6900,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDJiNWFiZDcwNTc1YjExNzdiZmFlYTg5NjA3ZjEzY2Vk",
+  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMGU5NDM1NmY2MWU4MDJlZWEzMTg4MGUwOTRmNzkzMWUw",
   "tracks": [
     {
       "added_at": "2022-08-18 14:26:15",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "TURNED",
+        "url": "https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u"
+      },
+      "artists": [
+        {
+          "name": "KimYeji",
+          "url": "https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "#LOVEMEORHATEME",
         "url": "https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 195312,
       "name": "Tattoo (feat. Jayci yucca, YongYong)",
       "url": "https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "TURNED",
-        "url": "https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u"
-      },
-      "artists": [
-        {
-          "name": "KimYeji",
-          "url": "https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu"
     },
     {
       "added_at": "2022-08-18 14:26:15",

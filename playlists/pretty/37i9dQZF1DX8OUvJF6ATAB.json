@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 157653,
+  "num_followers": 157738,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3ODIyOSwwMDAwMDAwMDE4ZDc4YTc5MmVlZTU4YTk3NTdmNGIwNGQ1ZDJkYmNl",
+  "snapshot_id": "MTY2MjE3ODIyOSwwMDAwMDAwMGY1NjgxMzMxZmM2NWU2ZTFkNzcyNTJkMTNlZTI1Mzlj",
   "tracks": [
     {
       "added_at": "2022-05-02 04:31:17",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm"
     },
     {
-      "added_at": "2022-07-15 05:31:42",
-      "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
-    },
-    {
       "added_at": "2021-10-06 04:12:35",
       "album": {
         "name": "92982",
@@ -267,6 +251,22 @@
       "duration_ms": 427346,
       "name": "92982.3",
       "url": "https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1"
+    },
+    {
+      "added_at": "2022-01-20 20:53:41",
+      "album": {
+        "name": "The Invention of the Human",
+        "url": "https://open.spotify.com/album/7HrfEaITd4aqzxVXSXJIsN"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "duration_ms": 338714,
+      "name": "The Peach Tree Next Door Grew over Our Fence",
+      "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -285,20 +285,36 @@
       "url": "https://open.spotify.com/track/4aoSnKywSeejCyNK9KmHg1"
     },
     {
-      "added_at": "2022-01-20 20:53:41",
+      "added_at": "2022-07-15 05:31:42",
       "album": {
-        "name": "The Invention of the Human",
-        "url": "https://open.spotify.com/album/7HrfEaITd4aqzxVXSXJIsN"
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
       "artists": [
         {
-          "name": "Dylan Henner",
-          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 338714,
-      "name": "The Peach Tree Next Door Grew over Our Fence",
-      "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+    },
+    {
+      "added_at": "2022-03-11 05:41:00",
+      "album": {
+        "name": "Resonant Bodies",
+        "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        }
+      ],
+      "duration_ms": 144320,
+      "name": "Looking You In Silence",
+      "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -331,22 +347,6 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2022-03-11 05:41:00",
-      "album": {
-        "name": "Resonant Bodies",
-        "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
-      },
-      "artists": [
-        {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        }
-      ],
-      "duration_ms": 144320,
-      "name": "Looking You In Silence",
-      "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -451,38 +451,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 237187,
-      "name": "Moderato",
-      "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Irrational Overcast",
-        "url": "https://open.spotify.com/album/3mRYK8bya5UUM4JA695PJv"
-      },
-      "artists": [
-        {
-          "name": "K. Leimer",
-          "url": "https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql"
-        }
-      ],
-      "duration_ms": 211424,
-      "name": "Lament To The Open Air",
-      "url": "https://open.spotify.com/track/4aqbV22jLGsZRle9QFGr4a"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Static Discos 100",
         "url": "https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q"
       },
@@ -515,6 +483,38 @@
       "duration_ms": 267893,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 237187,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Irrational Overcast",
+        "url": "https://open.spotify.com/album/3mRYK8bya5UUM4JA695PJv"
+      },
+      "artists": [
+        {
+          "name": "K. Leimer",
+          "url": "https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql"
+        }
+      ],
+      "duration_ms": 211424,
+      "name": "Lament To The Open Air",
+      "url": "https://open.spotify.com/track/4aqbV22jLGsZRle9QFGr4a"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -681,20 +681,20 @@
       "url": "https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL"
     },
     {
-      "added_at": "2022-08-03 03:15:39",
+      "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
+        "name": "Long Stories",
+        "url": "https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6"
       },
       "artists": [
         {
-          "name": "The Last Days of Our Past",
-          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 291583,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
+      "duration_ms": 220557,
+      "name": "One Shy Morning",
+      "url": "https://open.spotify.com/track/7i2bZi9EjbtOBWulvQikWm"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Long Stories",
-        "url": "https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6"
+        "name": "Yes! Come Parade With Us",
+        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
       "artists": [
         {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+          "name": "Leafcutter John",
+          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
         }
       ],
-      "duration_ms": 220557,
-      "name": "One Shy Morning",
-      "url": "https://open.spotify.com/track/7i2bZi9EjbtOBWulvQikWm"
+      "duration_ms": 294600,
+      "name": "Yes! Come Parade With Us",
+      "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Yes! Come Parade With Us",
-        "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
-      },
-      "artists": [
-        {
-          "name": "Leafcutter John",
-          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Yes! Come Parade With Us",
-      "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2022-08-03 03:15:39",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "duration_ms": 291583,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Pipopapipo",
+        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
+      },
+      "artists": [
+        {
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Whities 029",
         "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
       },
@@ -811,6 +827,22 @@
       "duration_ms": 403694,
       "name": "Waiting in Arisaig",
       "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Gold Fiction Loop Garden",
+        "url": "https://open.spotify.com/album/1xuprH46uojeEL4YAPx6YG"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 150045,
+      "name": "Yellow Calcite",
+      "url": "https://open.spotify.com/track/5eTpf3MIpOMYDbrrJNfTZQ"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -831,22 +863,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Pipopapipo",
-        "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
-      },
-      "artists": [
-        {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pipopapipo",
-      "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Ocean Dreams",
         "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 113000,
       "name": "Ocean Dreams",
       "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Gold Fiction Loop Garden",
-        "url": "https://open.spotify.com/album/1xuprH46uojeEL4YAPx6YG"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 150045,
-      "name": "Yellow Calcite",
-      "url": "https://open.spotify.com/track/5eTpf3MIpOMYDbrrJNfTZQ"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Grass and Trees",
-        "url": "https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7"
-      },
-      "artists": [
-        {
-          "name": "Earthen Sea",
-          "url": "https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Existing Closer or Deeper in Space",
-      "url": "https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Street Talk",
         "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 229367,
       "name": "Street Talk",
       "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Grass and Trees",
+        "url": "https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7"
+      },
+      "artists": [
+        {
+          "name": "Earthen Sea",
+          "url": "https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Existing Closer or Deeper in Space",
+      "url": "https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU"
     },
     {
       "added_at": "2022-04-12 01:39:04",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7"
     },
     {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Recuerdos del Futuro",
+        "url": "https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU"
+      },
+      "artists": [
+        {
+          "name": "Ishtarka",
+          "url": "https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo"
+        }
+      ],
+      "duration_ms": 235555,
+      "name": "Recuerdos del Futuro",
+      "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
+    },
+    {
       "added_at": "2021-12-01 01:52:28",
       "album": {
         "name": "Overlay (KMRU Remix)",
@@ -1351,22 +1367,6 @@
       "duration_ms": 369626,
       "name": "Standing Crosswise in the Square",
       "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Recuerdos del Futuro",
-        "url": "https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU"
-      },
-      "artists": [
-        {
-          "name": "Ishtarka",
-          "url": "https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo"
-        }
-      ],
-      "duration_ms": 235555,
-      "name": "Recuerdos del Futuro",
-      "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1501,54 +1501,6 @@
       "url": "https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E"
     },
     {
-      "added_at": "2022-03-04 04:31:20",
-      "album": {
-        "name": "The Long Count",
-        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
-      },
-      "artists": [
-        {
-          "name": "Debit",
-          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "1st Day",
-      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
-    },
-    {
-      "added_at": "2022-01-07 01:36:34",
-      "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
-      },
-      "artists": [
-        {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Shadows (The Light of Light)",
-        "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
-      },
-      "artists": [
-        {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "Shadows (The Light of Light)",
-      "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
-    },
-    {
       "added_at": "2021-10-06 04:12:35",
       "album": {
         "name": "Blonde",
@@ -1567,6 +1519,54 @@
       "duration_ms": 250040,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR"
+    },
+    {
+      "added_at": "2022-03-04 04:31:20",
+      "album": {
+        "name": "The Long Count",
+        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
+      },
+      "artists": [
+        {
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "1st Day",
+      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Shadows (The Light of Light)",
+        "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "Shadows (The Light of Light)",
+      "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
+    },
+    {
+      "added_at": "2022-01-07 01:36:34",
+      "album": {
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+      },
+      "artists": [
+        {
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
     },
     {
       "added_at": "2022-02-18 05:44:42",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+        "name": "Anoyo",
+        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+      "duration_ms": 288802,
+      "name": "Into the void",
+      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
     }
   ],
   "unique_name": "Exospheres",

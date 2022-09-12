@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,780 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,946 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 87 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
 | 88 | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/track/0VOyLRYrUBufrXQibWBipR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Thomas LaRosa](https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR) | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/album/2g9hsnkWRbKARuVIiRwjBl) | 3:33 |
 | 89 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 |
-| 90 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 |
+| 90 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 |
 | 91 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 |
 | 92 | [On My Mama](https://open.spotify.com/track/5uKaDwrqiCfXMGR2auRqG4) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [On My Mama](https://open.spotify.com/album/06RJFLDhyqbZWchervXQU1) | 2:45 |
 | 93 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Time of the Cottonwood Trees](https://open.spotify.com/track/4yqTF5PlZSTmaFsd2pi54p) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 2:53 |
 | 100 | [what made you think?](https://open.spotify.com/track/3IkCyX2KnQIyuAYQiT1wtR) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what made you think?](https://open.spotify.com/album/7bA8ZMcrVLEoNCIq7ZHutq) | 3:41 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDQzYzFhY2U4YjdmZGNjM2QyMzBkZjA4Mzk1ZDk1NWQ4`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDNkMGNkZDQxMjlhMDkwMTJlZWI1M2MxMDdlZGI3NGZm`

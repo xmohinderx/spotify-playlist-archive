@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Fernanda Ulibarri y Leiden en portada.",
-  "num_followers": 494121,
+  "num_followers": 494257,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3MzQyMiwwMDAwMDAwMDM1MmIwZjQxODQ4MzExMzA1YWFiYmE3OWM0OGJlMzZl",
+  "snapshot_id": "MTY2MjE3MzQyMiwwMDAwMDAwMDk0ZDk0MWE5ZmNjMmM4YmNjMmFhNzRlNzk2MjU0ODI1",
   "tracks": [
     {
       "added_at": "2021-10-16 00:58:48",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
     },
     {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
+        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 189663,
+      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
+      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
+    },
+    {
       "added_at": "2022-04-22 18:07:58",
       "album": {
         "name": "BESITOS Y BESITAS",
@@ -839,22 +855,6 @@
       "duration_ms": 223946,
       "name": "Foto de Perfil",
       "url": "https://open.spotify.com/track/39IkVWszvdXMPozlCYi0yX"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
-        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 189663,
-      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
-      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -911,6 +911,26 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 186852,
+      "name": "Ansia",
+      "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Tal Vez, Quiz\u00e1",
         "url": "https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 205280,
       "name": "Que Sepan Todos",
       "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 186852,
-      "name": "Ansia",
-      "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Armando Manzanero Duetos 2",
         "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 192666,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Drume Negrita (En Vivo Desde Fonobox)",
-        "url": "https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK"
-      },
-      "artists": [
-        {
-          "name": "Priscila F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Drume Negrita",
-      "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "En Las Olas",
         "url": "https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Drume Negrita (En Vivo Desde Fonobox)",
+        "url": "https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK"
+      },
+      "artists": [
+        {
+          "name": "Priscila F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Drume Negrita",
+      "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1461,24 +1461,20 @@
       "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
     },
     {
-      "added_at": "2022-03-04 04:44:16",
+      "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "\u00d3diame",
-        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
       "artists": [
         {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        },
-        {
-          "name": "Michelle Rodriguez",
-          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 193130,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1501,20 +1497,24 @@
       "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
     },
     {
-      "added_at": "2021-10-16 00:58:48",
+      "added_at": "2022-03-04 04:44:16",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
+      "duration_ms": 193130,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
     },
     {
-      "added_at": "2022-04-29 05:00:00",
-      "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
-    },
-    {
       "added_at": "2021-10-16 00:58:48",
       "album": {
         "name": "Mexicana (feat. Lila Downs)",
@@ -1601,6 +1585,22 @@
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
     },
     {
+      "added_at": "2022-04-29 05:00:00",
+      "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
       "added_at": "2021-10-16 00:58:48",
       "album": {
         "name": "Amor de Bolero",
@@ -1615,22 +1615,6 @@
       "duration_ms": 144750,
       "name": "Amor de Bolero",
       "url": "https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1651,22 +1635,18 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Tu Amor No Vale un Bolero",
-        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
       "artists": [
         {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        },
-        {
-          "name": "Lorena Jimenez",
-          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Tu Amor No Vale un Bolero",
-      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1691,6 +1671,26 @@
       "duration_ms": 171973,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Tu Amor No Vale un Bolero",
+        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Lorena Jimenez",
+          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Tu Amor No Vale un Bolero",
+      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Sombras - Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Sombras - Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
     }
   ],
   "unique_name": "Boleros Pop",

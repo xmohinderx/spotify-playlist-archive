@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34641,
+  "num_followers": 34649,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMGU1ZjE5NDc3ZjA4ZDM2NDdlMmFmZjk4YzcyNjRiM2Zm",
+  "snapshot_id": "MTY0Mjc3NzMwOSwwMDAwMDAwMGM2MDQ1Y2VkOThjNzYzYzFmMTEwYjhhNDE5MzliNTNm",
   "tracks": [
     {
       "added_at": "2022-01-21 15:01:49",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Girls Like Us",
-        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV"
-      },
-      "artists": [
-        {
-          "name": "Tusse",
-          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Can You Hear Me Now?",
         "url": "https://open.spotify.com/album/54AUddF7LyGKylFLSNoK8g"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 149210,
       "name": "CHARGER",
       "url": "https://open.spotify.com/track/0iBBOvVQ8QCK7F95boCn3C"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV"
+      },
+      "artists": [
+        {
+          "name": "Tusse",
+          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "1,000,000 X Better",
         "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 201178,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 202090,
-      "name": "have a great day",
-      "url": "https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Ros\u00e9",
         "url": "https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 166160,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 202090,
+      "name": "have a great day",
+      "url": "https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "One Foot in Front of the Other",
-        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "One Foot in Front of the Other",
-      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
-    },
-    {
-      "added_at": "2022-01-21 15:01:49",
-      "album": {
         "name": "Ain't Got No Friends",
         "url": "https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2022-01-21 15:01:49",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG"
+        "name": "One Foot in Front of the Other",
+        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
       },
       "artists": [
         {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 214102,
-      "name": "Sad Song",
-      "url": "https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ"
+      "duration_ms": 192075,
+      "name": "One Foot in Front of the Other",
+      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
     },
     {
       "added_at": "2022-01-21 15:01:49",
@@ -1287,6 +1271,22 @@
       "duration_ms": 171228,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
+    },
+    {
+      "added_at": "2022-01-21 15:01:49",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 214102,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ"
     },
     {
       "added_at": "2022-01-21 15:01:49",

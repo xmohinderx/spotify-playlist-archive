@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Zoé en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,185 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,283 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 56 | [Detrás de los Cerros](https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 3:58 |
 | 57 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 |
 | 58 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
-| 59 | [Europa \(Earth's Cry Heaven's Smile\)](https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Amigos](https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH) | 5:04 |
-| 60 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
+| 59 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
+| 60 | [Europa \(Earth's Cry Heaven's Smile\)](https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Amigos](https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH) | 5:04 |
 | 61 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 62 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 |
 | 63 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 97 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 98 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
 | 99 | [Here We Kum \- MTV Unplugged](https://open.spotify.com/track/4W2MGgZyieERJLtTrzW5cz) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Here We Kum \(MTV Unplugged\)](https://open.spotify.com/album/3Q9jipuRZvFyyS4sZSoaMn) | 4:43 |
-| 100 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
+| 100 | [Si Senor](https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:13 |
 
-Snapshot ID: `MTY2MTM4ODgxNiwwMDAwMDAwMDRlNjczMmEzZDI3Y2EwZjE3MDcwMjk2YjNmMTA0M2Ri`
+Snapshot ID: `MTY2MTM4ODgxNiwwMDAwMDAwMGY3YzI0NjgxYzM2ODVhYTg0ZDljNmVhOWQzOWRkYWYy`

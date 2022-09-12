@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,398 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,477 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
-| 2 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
+| 1 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
+| 2 | [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
 | 3 | [Roadhouse Blues](https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:03 |
 | 4 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 |
 | 5 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:25 |
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 8 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
 | 9 | [Mama Kin](https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:27 |
 | 10 | [Smokin' in the Boy's Room](https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ) | [Brownsville Station](https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu) | [Yeah! \(US Internet Release\)](https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3) | 2:56 |
-| 11 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
-| 12 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 |
+| 11 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 |
+| 12 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 |
 | 13 | [Let's Work Together](https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Future Blues \(Expanded Edition\)](https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh) | 2:50 |
-| 14 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 |
+| 14 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
 | 15 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
 | 16 | [California Man](https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 3:44 |
 | 17 | [Casino Boogie](https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 | 50 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMGUxMWFlNmMzODRlOTAxNjdiMGEyYzE4MzE4NzA5OTVm`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDNkODk3ZmE4MjM0NDhhODVlNmM1YjYwMDQ4N2U3M2Jj`

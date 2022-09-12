@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Pura música fresca para vibrar en cualquier momento de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,457 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,492 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 53 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 |
 | 54 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 |
 | 55 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
-| 56 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 |
-| 57 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
+| 56 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
+| 57 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 |
 | 58 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
 | 59 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 |
 | 60 | [MUSEO](https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:15 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 62 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 |
 | 63 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
 | 64 | [Sci\-Fi](https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sci\-Fi](https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu) | 3:18 |
-| 65 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
+| 65 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 
-Snapshot ID: `MTY2MjM1MjIyMSwwMDAwMDAwMDRlNThiMzZmYTY2MjE3OTBhZTZlYzM2Yjc4ZGJkM2Iz`
+Snapshot ID: `MTY2MjM1MjIyMSwwMDAwMDAwMGY4ZmE1NmJmMDZkMzdmZGI0MTdmNGJhNjYyNzY5MTU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,837 likes - 78 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,857 likes - 78 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 74 | [Leaf Off / The Cave](https://open.spotify.com/track/4GrOV18KKdZnc3jcfvMDgk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Leaf Off / The Cave](https://open.spotify.com/album/6iphI9W2vc54TVx3KD10sJ) | 4:53 |
 | 75 | [Woman Like Me](https://open.spotify.com/track/3YLjiKf34DECifehm1yauN) | [Paleo](https://open.spotify.com/artist/2GDAl6I7NyYDH4QmjPbFkN) | [Death & Taxes: Selected Songs From The Song Diary](https://open.spotify.com/album/1uIqK4VwhSHzHGYX7Gu3aW) | 3:32 |
 | 76 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
-| 77 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
-| 78 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
+| 77 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
+| 78 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGQyZjcyZWU0NGNiZjJmYzUxNGM0YTA0ZTBiYmNjNTFi`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGYxY2EzMDBhMGRkYzZiOTBjZGY0ZDkyNDBhNGMyN2Yx`

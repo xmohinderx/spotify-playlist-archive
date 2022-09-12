@@ -4,7 +4,7 @@
 
 > Upbeat songs that will get the whole family feelin' good!
 
-79 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/7ArTQhm1NXOmGwTxTe92qv)
+80 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/7ArTQhm1NXOmGwTxTe92qv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2022-01-28 |  |
 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 | 2022-01-28 |  |
 | [Lease On Life](https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Lease On Life](https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK) | 2:48 | 2022-01-28 |  |
-| [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 | 2022-01-28 |  |
+| [Let My Rooster Crow](https://open.spotify.com/track/1O4pICQqHPNx5uSgoBD2zk) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/0Ek1rQtRncLXnvTa19r8HM) | 2:37 | 2022-01-28 |  |
+| [Let My Rooster Crow](https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Let My Rooster Crow](https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6) | 2:37 | 2022-01-28 | 2022-09-12 |
 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:52 | 2022-01-28 |  |
 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/7AxzEXLvtVf5zm5JhVzikc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/2NgSxXlI2lFLAPG49soqlT) | 3:52 | 2022-01-28 | 2022-07-29 |
 | [Link](https://open.spotify.com/track/11Yft9qfxqdK9sURatUNZ1) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Link](https://open.spotify.com/album/0fxd2fulWGSw4pFykqbuVR) | 2:09 | 2022-01-28 |  |

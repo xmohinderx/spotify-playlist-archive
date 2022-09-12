@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,914 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,107 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 65 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 | 66 | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [JMV The Producer](https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy) | 3:05 |
 | 67 | [Respirar del Cielo](https://open.spotify.com/track/65bjrimQiPoI4yNO5mBsv6) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz) | 5:46 |
-| 68 | [El rollo y el Cordero](https://open.spotify.com/track/7azBBVR9SOOiEjH4uH6wCW) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [MARIANA & JORGE](https://open.spotify.com/artist/4lUskbAla1pz1aQ5gTkXYG) | [El rollo y el Cordero](https://open.spotify.com/album/2z0FfU7JteYH3TDUkqgwr9) | 8:57 |
+| 68 | [El Rollo y el Cordero](https://open.spotify.com/track/6GLNLZWHlUQnpPK5DFRZXp) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [MARIANA & JORGE](https://open.spotify.com/artist/4lUskbAla1pz1aQ5gTkXYG) | [En Órbita](https://open.spotify.com/album/46HdJMhs9goXDs06f3AJQa) | 8:57 |
 | 69 | [Digno Eres Tú \(Bilingüe\)](https://open.spotify.com/track/1chC3vYLW72tgv2GGcBmoN) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Digno Eres Tú \(Bilingüe\)](https://open.spotify.com/album/34Jd30Axl3rFbMMpT4Ay6G) | 5:23 |
 | 70 | [Yo Te Amo \- Live](https://open.spotify.com/track/0vOMQ15k14fORfW5Q7f3gb) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Maranatha 2 \(Live\)](https://open.spotify.com/album/4yEWKizQPujHcAIci0X75I) | 9:34 |
 | 71 | [De Vuelta al Primer Amor](https://open.spotify.com/track/4KdyaTyB7PyC02zdfnfAVj) | [Eric Phillips](https://open.spotify.com/artist/6ERgDCzMTgsRuQ6nJzVeOY), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [De Vuelta al Primer Amor](https://open.spotify.com/album/14skBuKMgi5MOfEISFnDhE) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Mil Preguntas](https://open.spotify.com/track/5hO2AIo9UgfWsBM2YjT6TW) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Mil Preguntas](https://open.spotify.com/album/5RZ1ZkrtlEuKpMgEdm0bvG) | 3:28 |
 | 100 | [Apoyate en Mi](https://open.spotify.com/track/6e7IOcCCSHhJvUgWh0eryJ) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Apoyate en Mi](https://open.spotify.com/album/0OQXxLR9LOw8UwKRVFVkSs) | 4:19 |
 
-Snapshot ID: `MTY2MjcwOTcyMSwwMDAwMDAwMDk2NDVhNzQyMTRjOTI2NGY5ZTYzOGE4MzM1MmE2ZWRl`
+Snapshot ID: `MTY2MjcwOTcyMSwwMDAwMDAwMDg2OTYyOWRlYzJiMTRiZGE3MjRhYTY4ZGE4MGZkMWM0`

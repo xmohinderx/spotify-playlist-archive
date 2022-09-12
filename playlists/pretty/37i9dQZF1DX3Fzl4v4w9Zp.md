@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Heartless Bastards
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,499 likes - 151 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,547 likes - 151 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 6 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 |
 | 7 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |
 | 8 | [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 |
-| 9 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 |
+| 9 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 |
 | 10 | [Cabin in the Woods](https://open.spotify.com/track/4RdguY01mI6MQsmCxCHwYs) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Cabin in the Woods](https://open.spotify.com/album/0qD8FKdjC8frmDcrCPc0Hm) | 3:44 |
 | 11 | [Years](https://open.spotify.com/track/6BSPlPR4Pxz6WnUIBlrWWQ) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 2:59 |
 | 12 | [The Downward Road](https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1), [Demeanor](https://open.spotify.com/artist/4HlLzCWkEJQvvWRkjt5J0r) | [The Downward Road](https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld) | 3:36 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 47 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 |
 | 48 | [Days Ahead \(feat\. Danielle Haim\)](https://open.spotify.com/track/5ESkRyWJPU5AThTvPa6Yfd) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | ['Flicted](https://open.spotify.com/album/7DmETOdm0xy9UCAwWP2xe8) | 4:58 |
 | 49 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
-| 50 | [John Prine's Cadillac](https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [John Prine's Cadillac](https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA) | 3:21 |
+| 50 | [John Prine's Cadillac](https://open.spotify.com/track/7qvoArGqkTh9Fi5P1orTde) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Wings on My Shoes](https://open.spotify.com/album/3x6qsIvqAjncf61GgRegUv) | 3:21 |
 | 51 | [Simple as Love](https://open.spotify.com/track/1eRGo8yog1epyUUgCU5FqP) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Simple as Love](https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP) | 3:27 |
 | 52 | [Broke Again](https://open.spotify.com/track/7etPAMAqtcun5pn5uW3zbC) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 2:31 |
 | 53 | [Friends \(How To Do It\)](https://open.spotify.com/track/0JYYCDbiTr9xgrdS0F3S1A) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh), [Oliver Wood](https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod) | [Avondale Drive](https://open.spotify.com/album/1mzDiIXe1aZEpEMTpHuVGo) | 3:34 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 150 | [Plain Dealing](https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Plain Dealing](https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM) | 2:49 |
 | 151 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGJjZDZhNmQ0YTRlODQ4NDgzODIzMDlhYTA3YjkyMjg1`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGJiY2FhMjNkODQ1NDk1MzY3MGUxMjFiYTM5Yjg2MmJl`

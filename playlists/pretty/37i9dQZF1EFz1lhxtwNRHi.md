@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,275 likes - 141 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,276 likes - 141 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 60 | [Voodoo](https://open.spotify.com/track/6lhp2HxYk0dPxrKwWEuaWr) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 3:59 |
 | 61 | [Focused](https://open.spotify.com/track/2oEZ1PJ5qpLuQMR7CmtizD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:02 |
 | 62 | [Holy Feeling](https://open.spotify.com/track/4Hxj1xfkSPF02IwgLZhu0B) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Trophies](https://open.spotify.com/album/2AUBG0Hw2pJyULNK5xyDwC) | 4:06 |
-| 63 | [Sign Language](https://open.spotify.com/track/0gSAbPlRBTOqK0cHFVZYNn) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Almost Real](https://open.spotify.com/album/2xroSp0sydZGhmc9UelPzc) | 3:10 |
-| 64 | [Tied to Your Body](https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:09 |
+| 63 | [Tied to Your Body](https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:09 |
+| 64 | [Sign Language](https://open.spotify.com/track/0gSAbPlRBTOqK0cHFVZYNn) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Almost Real](https://open.spotify.com/album/2xroSp0sydZGhmc9UelPzc) | 3:10 |
 | 65 | [Jump On It](https://open.spotify.com/track/66iI77cgWBEdGichkndWJe) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 |
 | 66 | [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 |
 | 67 | [Do You Think About Me \- filous Remix](https://open.spotify.com/track/2pEIHNpqlkkB5fX3lRAObT) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Do You Think About Me \(filous Remix\)](https://open.spotify.com/album/33CstZRv63nadozJiGgfJV) | 2:56 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 77 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
 | 78 | [Body and Soul](https://open.spotify.com/track/26QbQ0G1GcGnna7MaYbDuM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 2:30 |
 | 79 | [Numb \- teddy<3 version](https://open.spotify.com/track/4FSX3VAbyFPLA5UE3z0K0E) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Numb](https://open.spotify.com/album/1Ho3UkeW5DfE812uhE6Q9Q) | 4:31 |
-| 80 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 |
-| 81 | [Under the Blue](https://open.spotify.com/track/5XNiGICOo8gIjqhiauFYjM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:28 |
+| 80 | [Under the Blue](https://open.spotify.com/track/5XNiGICOo8gIjqhiauFYjM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:28 |
+| 81 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 |
 | 82 | [Hurt Me Now](https://open.spotify.com/track/6tDrZQQhEWrHsYafpziiwg) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 3:41 |
 | 83 | [Rivers](https://open.spotify.com/track/7MWlxS6vpJlfPNaerI0lg3) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/0jbizUOHY9uVKoWyjlmyg2) | 2:57 |
 | 84 | [Capital Letters](https://open.spotify.com/track/405B9VswP3UM73ImKdPson) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Capital Letters](https://open.spotify.com/album/4Kgoa65A1pu14huyVVUiux) | 3:35 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 140 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 141 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc3MTQzMDksMDAwMDAwMDBkOTQzMjIwNjE1MGM0ODM4YjQwZDhhMWYzYWIzNWI2YQ==`
+Snapshot ID: `Mjc3MTU3NDksMDAwMDAwMDAwYWFkMWZmOWQyYzNmZjFkYzRkYWVlZDBmMWZmYmRkMQ==`

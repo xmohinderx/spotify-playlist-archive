@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/7FbNJUoNHBx8V0iVBql047)
+165 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/7FbNJUoNHBx8V0iVBql047)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Culpables](https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:48 | 2022-06-04 |  |
 | [Cumpleaños](https://open.spotify.com/track/6La6oWlGposkrgvLjjRJju) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:39 | 2022-06-04 |  |
 | [DALE BANDA](https://open.spotify.com/track/3uvI3MwIB42qk0QEGtQpgT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:55 | 2022-06-04 |  |
-| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-09-08 |  |
+| [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-11 |  |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-09-08 | 2022-09-12 |
 | [Devuelveme](https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:08 | 2022-06-04 |  |
 | [Dinero Y Fama \(feat\. Arcangel\)](https://open.spotify.com/track/2qSO4nIpR5Fdo8lL9K7kH2) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:53 | 2022-06-04 |  |
 | [Duelo \(feat\. Wisin & Oneill\)](https://open.spotify.com/track/5ATch6785ozLDIVk5R6vMd) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Oneill](https://open.spotify.com/artist/3s0EkcVblYhUrWXBmutXit) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 4:13 | 2022-06-04 |  |

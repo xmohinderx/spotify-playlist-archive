@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > Country that made country cool! Cover: Vince Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,476 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,309 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 62 | [You Win My Love](https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:25 |
 | 63 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
 | 64 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
-| 65 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
-| 66 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
+| 65 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
+| 66 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
 | 67 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 |
 | 68 | [Hard Workin' Man](https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Hard Workin' Man](https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y) | 2:58 |
 | 69 | [She's Got It All](https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [I Will Stand](https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO) | 3:25 |
@@ -111,20 +111,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 101 | [I Told You So](https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:39 |
 | 102 | [Two Sparrows In A Hurricane](https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Can't Run From Yourself](https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS) | 4:10 |
 | 103 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 |
-| 104 | [It's A Little Too Late \- 1996 Greatest Hits Version](https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:43 |
+| 104 | [Gone Country](https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 4:20 |
 | 105 | [I Just Want To Dance With You](https://open.spotify.com/track/4cdAXfguhQHYFkvuuzye1m) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [One Step At A Time](https://open.spotify.com/album/2btiLFlL9jzIIHbId5cufS) | 3:30 |
 | 106 | [Boot Scootin' Boogie](https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 3:17 |
-| 107 | [Gone Country](https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 4:20 |
+| 107 | [It's A Little Too Late \- 1996 Greatest Hits Version](https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:43 |
 | 108 | [A Little Less Talk And A Lot More Action](https://open.spotify.com/track/7ojVoUWBAUP701iFpdKnFu) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 2:49 |
 | 109 | [It Matters to Me](https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [It Matters to Me](https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds) | 3:17 |
-| 110 | [Blue](https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 2:49 |
-| 111 | [Drink, Swear, Steal & Lie](https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA) | [Michael Peterson](https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz) | [Michael Peterson](https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC) | 3:02 |
+| 110 | [Drink, Swear, Steal & Lie](https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA) | [Michael Peterson](https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz) | [Michael Peterson](https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC) | 3:02 |
+| 111 | [Blue](https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 2:49 |
 | 112 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
 | 113 | [No News](https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonestar](https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq) | 2:53 |
-| 114 | [Baby Likes To Rock It](https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Tractors](https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96) | 3:56 |
-| 115 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
+| 114 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 |
+| 115 | [Baby Likes To Rock It](https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Tractors](https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96) | 3:56 |
 | 116 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
-| 117 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 |
+| 117 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
 | 118 | [My Maria](https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Borderline](https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL) | 3:30 |
 | 119 | [Thinkin' Problem](https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Thinkin' Problem](https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao) | 3:01 |
 | 120 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 144 | [I Left Something Turned On At Home](https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 3:08 |
 | 145 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |
 | 146 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
-| 147 | [Not On Your Love](https://open.spotify.com/track/04bs5EpVXhbPkqV9uwOAM9) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE) | [Jeff Carson](https://open.spotify.com/album/5p7xZloaAOpHyHLZI8BUcE) | 3:22 |
-| 148 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
+| 147 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
+| 148 | [Not On Your Love](https://open.spotify.com/track/04bs5EpVXhbPkqV9uwOAM9) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE) | [Jeff Carson](https://open.spotify.com/album/5p7xZloaAOpHyHLZI8BUcE) | 3:22 |
 | 149 | [I Think About You](https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [I Think About You](https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu) | 3:26 |
 | 150 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
 
-Snapshot ID: `MTY2MTk3MDg5MywwMDAwMDAwMDg0ZjU3Yzc3M2Q5NDNiZTBlMDEyMGY3MGNjNjQwNTk0`
+Snapshot ID: `MTY2MTk3MDg5MywwMDAwMDAwMGJkMTRlY2ZhN2RhZTA3MDJjZWFkZDUyNDg5Yzg4MjU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,059 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,422 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 19 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 20 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 |
 | 21 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 22 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
-| 23 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
+| 22 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
+| 23 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
 | 24 | [Your Love](https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8) | 3:36 |
 | 25 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
 | 26 | [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 39 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
 | 40 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 41 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
-| 42 | [Heat Of The Moment](https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 3:47 |
-| 43 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
+| 42 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
+| 43 | [Heat Of The Moment](https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 3:47 |
 | 44 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 45 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 |
 | 46 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 68 | [Talking In Your Sleep](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:55 |
 | 69 | [Valerie](https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Talking Back To The Night](https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn) | 4:06 |
 | 70 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 |
-| 71 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 |
+| 71 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 72 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 |
 | 73 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 |
 | 74 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
 | 75 | [Stuck With You](https://open.spotify.com/track/2cFl7utlqyZjCXN1G5nRvA) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:29 |
 | 76 | [You Might Think](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:04 |
-| 77 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
+| 77 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 |
 | 78 | [867\-5309 / Jenny](https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [Tommy Tutone \- 2](https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1) | 3:46 |
 | 79 | [Sister Christian](https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Midnight Madness](https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs) | 5:02 |
 | 80 | [Sowing The Seeds Of Love](https://open.spotify.com/track/0PbAyLrJRDxckQBLQ2Addc) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 99 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
 | 100 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 
-Snapshot ID: `MTY1MzQyMTk0MiwwMDAwMDAwMDczNTAwOTcyOTkzNmM2M2MwNjUyOTZiMWFhOWU5YWQ3`
+Snapshot ID: `MTY1MzQyMTk0MiwwMDAwMDAwMDAwYjkzNmQ0MDdkODJiMzhlNTk4MDFkMmUzOGRjOGQ3`

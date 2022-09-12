@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 412618,
+  "num_followers": 412766,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Mjk3NSwwMDAwMDAwMGJmMzRhY2QyMDc2ODBjMTFmOWU4OGJlYmU4OWIxZGFm",
+  "snapshot_id": "MTY2MjM5Mjk3NSwwMDAwMDAwMDM4Nzg2NWM3MzdkZTYzN2U3ZjQyMjY2ZGJjMTAxYzcz",
   "tracks": [
     {
       "added_at": "2022-09-05 15:49:35",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-09-05 15:49:35",
       "album": {
+        "name": "2 O' CLOCK",
+        "url": "https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "2 O' CLOCK",
+      "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
+    },
+    {
+      "added_at": "2022-09-05 15:49:35",
+      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2022-09-05 15:49:35",
-      "album": {
-        "name": "2 O' CLOCK",
-        "url": "https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil"
-      },
-      "artists": [
-        {
-          "name": "dori",
-          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "2 O' CLOCK",
-      "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
     },
     {
       "added_at": "2022-09-05 15:49:35",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-05 15:49:35",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
-    },
-    {
-      "added_at": "2022-09-05 15:49:35",
-      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2022-09-05 15:49:35",
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
     },
     {
       "added_at": "2022-09-05 15:49:35",
@@ -679,6 +679,30 @@
     {
       "added_at": "2022-09-05 15:49:35",
       "album": {
+        "name": "Morning Diaries EP 1",
+        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 187089,
+      "name": "Gloomy Star (feat. 1ho & Chan)",
+      "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+    },
+    {
+      "added_at": "2022-09-05 15:49:35",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
       },
@@ -715,30 +739,6 @@
       "duration_ms": 202342,
       "name": "Hello Tutorial",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
-    },
-    {
-      "added_at": "2022-09-05 15:49:35",
-      "album": {
-        "name": "Morning Diaries EP 1",
-        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
-      },
-      "artists": [
-        {
-          "name": "Airman",
-          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
-        },
-        {
-          "name": "1ho",
-          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 187089,
-      "name": "Gloomy Star (feat. 1ho & Chan)",
-      "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
     },
     {
       "added_at": "2022-09-05 15:49:35",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-05 15:49:35",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
-    },
-    {
-      "added_at": "2022-09-05 15:49:35",
-      "album": {
         "name": "doodle",
         "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
+    },
+    {
+      "added_at": "2022-09-05 15:49:35",
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
     },
     {
       "added_at": "2022-09-05 15:49:35",

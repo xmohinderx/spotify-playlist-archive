@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 214504,
+  "num_followers": 214569,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4ODc0MCwwMDAwMDAwMDIwNmZkZDNlOGJlMTZkMGFjZGMwMTRiZDQyZDU4NWJl",
+  "snapshot_id": "MTY2MTQ4ODc0MCwwMDAwMDAwMDlhOTM2MjgwMjBmMDMwMDQwYTRjOGI4ZTZmZmRlNWYy",
   "tracks": [
     {
       "added_at": "2022-08-26 04:39:00",
@@ -207,38 +207,6 @@
     {
       "added_at": "2022-08-26 04:39:00",
       "album": {
-        "name": "Funk Wav Bounces Vol.1",
-        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Funk Wav",
-          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
-      "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
-    },
-    {
-      "added_at": "2022-08-26 04:39:00",
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP"
       },
@@ -271,6 +239,38 @@
       "duration_ms": 167065,
       "name": "Like I Can",
       "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+    },
+    {
+      "added_at": "2022-08-26 04:39:00",
+      "album": {
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+      "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
     },
     {
       "added_at": "2022-08-26 04:39:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-08-26 04:39:00",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 213427,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
-    },
-    {
-      "added_at": "2022-08-26 04:39:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
+    },
+    {
+      "added_at": "2022-08-26 04:39:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 213427,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
     },
     {
       "added_at": "2022-08-26 04:39:00",

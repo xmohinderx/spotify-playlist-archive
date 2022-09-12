@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Carin Leon en portada. ",
-  "num_followers": 699000,
+  "num_followers": 699126,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDQyYmIwODE3YjVlNjQyMThlYzEzNzZlNzZkNTg1YmFm",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGVlMmY5Nzg4MDQxNWQzN2FiYTllODlmYTdhNDlkOWZj",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Lo Que Construimos (Spotify Singles)",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Corridones Belicones Duetos",
         "url": "https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 214165,
       "name": "Sigo Aqui",
       "url": "https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Lo Que Construimos (Spotify Singles)",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "El Carrito",
         "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Gente Del Flaco (En Vivo)",
         "url": "https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 195117,
       "name": "Inventame - En Vivo",
       "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "El Plumas (En Vivo)",
+        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 210617,
+      "name": "El Plumas - En Vivo",
+      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 220493,
       "name": "El Poder de Tu Mirada",
       "url": "https://open.spotify.com/track/1eN387v5wRFvSHHBwtCxQW"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "El Plumas (En Vivo)",
-        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 210617,
-      "name": "El Plumas - En Vivo",
-      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Las Dos Promesas",
-        "url": "https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 165224,
-      "name": "Las Dos Promesas",
-      "url": "https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Las Dos Promesas",
+        "url": "https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 165224,
+      "name": "Las Dos Promesas",
+      "url": "https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8"
     },
     {
       "added_at": "2022-08-05 04:00:00",

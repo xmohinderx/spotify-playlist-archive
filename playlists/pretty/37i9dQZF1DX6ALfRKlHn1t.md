@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,036 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,126 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 55 | [Sway](https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Sway](https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD) | 2:16 |
 | 56 | [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 |
 | 57 | [Vacation \(feat\. Train\)](https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Vacation \(feat\. Train\)](https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0) | 3:32 |
-| 58 | [Too Late \(with Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
-| 59 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
-| 60 | [Milk & Coffee](https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [They Might've Even Loved Me](https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1) | 3:55 |
+| 58 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
+| 59 | [Milk & Coffee](https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [They Might've Even Loved Me](https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1) | 3:55 |
+| 60 | [Too Late \(with Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
 | 61 | [Mistakes Like This](https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Why Does Everything Happen So Much EP](https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE) | 3:11 |
 | 62 | [Straight Jacket](https://open.spotify.com/track/6t6bOh1jmVcRke7rmzAegb) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Fountain Tropical EP](https://open.spotify.com/album/7ttLLyyHakisBEXzhedMYm) | 3:25 |
 | 63 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 83 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 |
 | 84 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 |
 | 85 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
-| 86 | [Crazy Mad Beautiful](https://open.spotify.com/track/7aZkSXM4C6XBspwHaLSvaJ) | [Luke Mitrani](https://open.spotify.com/artist/6OzAqsb9KgjKjUyoTjZ6UV) | [Live It Up](https://open.spotify.com/album/6fTrc7CxLHco921W4qT3u2) | 3:08 |
-| 87 | [Memory](https://open.spotify.com/track/21kvruyJddCLQguDk9oklX) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Memory](https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P) | 3:17 |
+| 86 | [Memory](https://open.spotify.com/track/21kvruyJddCLQguDk9oklX) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Memory](https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P) | 3:17 |
+| 87 | [Crazy Mad Beautiful](https://open.spotify.com/track/7aZkSXM4C6XBspwHaLSvaJ) | [Luke Mitrani](https://open.spotify.com/artist/6OzAqsb9KgjKjUyoTjZ6UV) | [Live It Up](https://open.spotify.com/album/6fTrc7CxLHco921W4qT3u2) | 3:08 |
 | 88 | [Lift Me Up](https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Lift Me Up](https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u) | 2:33 |
 | 89 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
 | 90 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 99 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 |
 | 100 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDcyMDdiZTgwNDRjYTk5Zjk5MjdhZmE3NDNmZTI2MWVl`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDY2ZDA1ZTI4YTE5YWVjZWU5YjAyN2UxMGZlOWQxMjkx`

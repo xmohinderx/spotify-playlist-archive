@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421464,
+  "num_followers": 421444,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDcxOGEyZmNkNTZlZGY4NmU5ZjJlZDI4ZGI4ZjYwYmM0",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDYxMjkzODJiYzUyM2I5MjhjZWU1NWUyMGQ2MjdjYjBm",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Devagarin",
-        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 154331,
-      "name": "Devagarin",
-      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Imaginar",
         "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 140689,
       "name": "Imaginar",
       "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Devagarin",
+        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 154331,
+      "name": "Devagarin",
+      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
     },
     {
       "added_at": "2022-08-15 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,680 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,791 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 31 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 32 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 |
 | 33 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
-| 34 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
-| 35 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
+| 34 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
+| 35 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
 | 36 | [Era uma Vez](https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 3:44 |
 | 37 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 |
 | 38 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 53 | [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 |
 | 54 | [remember the mornings](https://open.spotify.com/track/27kcZEJvhkb1rzZS9gCpdA) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [remember the mornings](https://open.spotify.com/album/64FL2oQINZPAIfz3axVOU7) | 3:22 |
 | 55 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
-| 56 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
-| 57 | [Telefonía](https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:04 |
+| 56 | [Telefonía](https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:04 |
+| 57 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
 | 58 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 3:37 |
 | 59 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
 | 60 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
 
-Snapshot ID: `MTY2MDk1MDkzMywwMDAwMDAwMGE1NDAwNjQ3ZmRhMTA1YjJiNDNhN2MxNGExYmI1NThk`
+Snapshot ID: `MTY2MDk1MDkzMywwMDAwMDAwMDJjYzVhOWU5YTQ3NDRmNGJkYWQ3MThmOWZiMzg0ZDE1`

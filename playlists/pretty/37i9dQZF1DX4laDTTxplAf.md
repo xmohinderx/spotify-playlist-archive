@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 
 > All 00s, all ballads\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,812 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,917 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 | 45 | [Incomplete](https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Never Gone](https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV) | 3:59 |
 | 46 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 47 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
-| 48 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 |
-| 49 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
+| 48 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
+| 49 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 |
 | 50 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
 | 51 | [Stop This Train](https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:45 |
 | 52 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4laDTTxplAf.md) - [plain]
 | 69 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 |
 | 70 | [I Never Told You](https://open.spotify.com/track/2rJWnAqSuLMls0KOv416Io) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Breakthrough \(Deluxe Edition\)](https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8) | 3:53 |
 
-Snapshot ID: `MTY1MDQwNzU2MCwwMDAwMDAwMGNlNjA3NmRmZTU1NmE2NGZmZDRlZDMwNzliOWU3OTdk`
+Snapshot ID: `MTY1MDQwNzU2MCwwMDAwMDAwMGUzMTQzZjVlZmU2M2FiMGVmY2IwOGMyMGIyZmMxZWM5`

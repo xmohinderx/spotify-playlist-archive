@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Brent Faiyaz",
-  "num_followers": 34057,
+  "num_followers": 34100,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjU3MCwwMDAwMDAwMGIzNTRkNTM4OGRiNWZhNGI0NjA0NTg1YzIyYmY3MzYz",
+  "snapshot_id": "MTY2MjY5NjU3MCwwMDAwMDAwMDc2NTM5YjU1NDc1ZGY2ZTZmZjVkYTZkYTZiNjRmODI4",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Good & Plenty (Remix)",
@@ -347,26 +363,6 @@
       "duration_ms": 204705,
       "name": "Good & Plenty - Remix",
       "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Closure (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
       "artists": [
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 226278,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+      "duration_ms": 183133,
+      "name": "Closure (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -431,6 +431,22 @@
       "duration_ms": 162006,
       "name": "ROLLING STONE",
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 226278,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
     },
     {
       "added_at": "2022-09-09 04:09:30",
@@ -483,22 +499,6 @@
       "duration_ms": 223414,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
-    },
-    {
-      "added_at": "2022-09-09 04:09:30",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188579,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Letter To Ur Ex",
@@ -619,22 +635,6 @@
       "duration_ms": 195939,
       "name": "Compromise (feat. Rema)",
       "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "3000\u00b0",
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Get Home SAFE (Part 1)",
         "url": "https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 183750,
       "name": "VICES",
       "url": "https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ"
-    },
-    {
-      "added_at": "2022-09-09 04:09:30",
-      "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 163700,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1285,24 +1285,28 @@
       "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-09-09 04:09:30",
       "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     }
   ],
   "unique_name": "Some Kinda Way",

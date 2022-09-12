@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,577 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,663 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 41 | [Champagne](https://open.spotify.com/track/76aYqlXTeHaYMunCPkm3qZ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Champagne](https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od) | 2:28 |
 | 42 | [Disturb](https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Disturb / Pablo Moves](https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM) | 2:52 |
 | 43 | [WHAM](https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [WHAM](https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT) | 2:56 |
-| 44 | [Slow Wine](https://open.spotify.com/track/0SpTGfmaRZ0aDmx8zycjRk) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A), [Simmie](https://open.spotify.com/artist/3730JhzlwPpfNdE6a5qAv9), [Derrick Nealy](https://open.spotify.com/artist/7iEm2OPca5ADgh8uezYD0E) | [Slow Wine](https://open.spotify.com/album/2fhLAs2JQ0HgNG6vMFrDyW) | 3:39 |
+| 44 | [Slow Wine](https://open.spotify.com/track/0SpTGfmaRZ0aDmx8zycjRk) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Simmie](https://open.spotify.com/artist/3730JhzlwPpfNdE6a5qAv9), [Derrick Nealy](https://open.spotify.com/artist/7iEm2OPca5ADgh8uezYD0E) | [Slow Wine](https://open.spotify.com/album/2fhLAs2JQ0HgNG6vMFrDyW) | 3:39 |
 | 45 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 |
 | 46 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
 | 47 | [Looking for Water \(feat\. Boldy James\)](https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Looking for Water \(feat\. Boldy James\)](https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6) | 2:43 |

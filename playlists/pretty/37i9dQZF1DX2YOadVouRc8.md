@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,478 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,491 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 42 | [Osondu](https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 4:18 |
 | 43 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 |
 | 44 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 |
-| 45 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
-| 46 | [History](https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [History](https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0) | 2:57 |
-| 47 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 |
-| 48 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 |
-| 49 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 |
+| 45 | [History](https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [History](https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0) | 2:57 |
+| 46 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 |
+| 47 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
+| 48 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 |
+| 49 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 |
 | 50 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 |
 | 51 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 |
 | 52 | [Brunch](https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Brunch](https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 |
 | 80 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
 
-Snapshot ID: `MTY2MjcxNTQyOSwwMDAwMDAwMGIyY2E0YmY1MzMzY2U2NWJhYmZhOTQxYTkxZjk1ZGJl`
+Snapshot ID: `MTY2MjcxNTQyOSwwMDAwMDAwMDM0N2ExZjkwZGFkYjJkZGViNWVkM2U0ZGQ3YThiZjQ2`

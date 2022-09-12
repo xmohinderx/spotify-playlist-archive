@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > In Nashville for CMA Music Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you! If you can't be there, let this be your soundtrack to Music Fest week\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,686 likes - 113 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,684 likes - 113 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 98 | [Small Town Boy](https://open.spotify.com/track/2YMhrXQYKkm4kXLcXKKd5z) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Current Mood](https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t) | 3:25 |
 | 99 | [Push & Pull](https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Push & Pull](https://open.spotify.com/album/3E0XbQUeBsXhsRDHrLxS4X) | 3:07 |
 | 100 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 |
-| 101 | [Drive](https://open.spotify.com/track/6bBsaqsxVchRk0jCM5BAoe) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:35 |
+| 101 | [Drive](https://open.spotify.com/track/2zqHx2d8a0NfhoE7wVJqqK) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:34 |
 | 102 | [Cheatin’ Songs](https://open.spotify.com/track/01dBLHq3UWyDRWDZJXj235) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Let It Roll](https://open.spotify.com/album/558uSttH0s3zk6tRa0T7tF) | 3:35 |
 | 103 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 |
 | 104 | [Your Momma Still Does](https://open.spotify.com/track/0F7Kxrd27Q1jYhnKVoWnUa) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 2:37 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 112 | [Drunk on Your Love](https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:53 |
 | 113 | [Raised by a Good Time](https://open.spotify.com/track/0IsjGDAqohBEdZWVoTaMjI) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Raised by a Good Time](https://open.spotify.com/album/30alXgSgwOuqtIbwFbHEIV) | 3:12 |
 
-Snapshot ID: `MTY1NTE1MDM4NiwwMDAwMDAwMGU0YjUxYjU3OTgwNDc0OGY0ZWZiMWZkYTI5ZDM0N2Fj`
+Snapshot ID: `MTY1NTE1MDM4NiwwMDAwMDAwMDA5NzVkNzkyNjVkMTZjNGM3ODI5MzY4YjdmN2U3NGI0`

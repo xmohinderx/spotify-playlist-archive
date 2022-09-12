@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 176405,
+  "num_followers": 176507,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDRkMmNmNGY1OWNmMzgzODNiNzE4NzNkZGJlNWMyNWYw",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGIwOTY2NmFiNGE3MGQ1YmM3OWU4OTIyNjgxNmJmZDM5",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 283642,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 283642,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Us vs. Them (feat. Gucci Mane)",
         "url": "https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 216013,
       "name": "Us vs. Them (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "See Wat I\u2019m Sayin",
-        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
         }
       ],
-      "duration_ms": 146732,
-      "name": "See Wat I\u2019m Sayin",
-      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+      "duration_ms": 173600,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
     }
   ],
   "unique_name": "Trophy Room",

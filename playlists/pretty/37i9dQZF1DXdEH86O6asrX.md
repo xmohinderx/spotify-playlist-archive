@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,071 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,046 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 9 | [Love My Way](https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Forever Now](https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV) | 3:33 |
 | 10 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [How Does That Grab You?](https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL) | 2:42 |
 | 11 | [I Am A Man Of Constant Sorrow \- Radio Edit](https://open.spotify.com/track/0YwNdeDFbGP6AGwsQrtzdY) | [The Soggy Bottom Boys](https://open.spotify.com/artist/3T0CG1MKkAu9rxA2ezgyLC), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 3:10 |
-| 12 | [Libre Soy](https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:42 |
-| 13 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
+| 12 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
+| 13 | [Libre Soy](https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:42 |
 | 14 | [A Real Hero](https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b), [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6) | [Innerworld \(Deluxe Edition\)](https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK) | 4:27 |
 | 15 | [Suspirium](https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB) | 3:21 |
 | 16 | [Lebanese Blonde](https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [It Takes A Thief: The Very Best Of Thievery Corporation](https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC) | 4:49 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 44 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 | 45 | [Where Are You Christmas \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 4:07 |
 | 46 | [Believe](https://open.spotify.com/track/2vJAjPkVMPKkR3xd2wacZa) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 4:18 |
-| 47 | [Loved Ones and Leaving](https://open.spotify.com/track/31DXqy0L60lvzl37OMcEoA) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Order Of The Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy) | 3:15 |
+| 47 | [Making Christmas](https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:57 |
 | 48 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 |
 | 49 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 |
-| 50 | [Making Christmas](https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:57 |
+| 50 | [Loved Ones and Leaving](https://open.spotify.com/track/31DXqy0L60lvzl37OMcEoA) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Order Of The Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy) | 3:15 |
 
-Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMDA1Y2Y3ZTdhOGNlZTNiNDAyZDA2NWNmZWE2YmI4Njkz`
+Snapshot ID: `MTY0OTcxODM1NSwwMDAwMDAwMGFjODdmNWYzNjEyZDJiMzExNzkwYWNiN2ViOTdhZTQy`

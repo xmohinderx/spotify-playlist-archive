@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high\-energy, feel\-good rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,878 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,876 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 21 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 |
 | 22 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 |
 | 23 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
-| 24 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
-| 25 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 24 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 25 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 26 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 |
 | 27 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
 | 28 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 42 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
 | 43 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
 | 44 | [Bored To Death](https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:55 |
-| 45 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 |
-| 46 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
+| 45 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
+| 46 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 |
 | 47 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 |
 | 48 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 49 | [Karma](https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:39 |
 | 50 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
-| 51 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
-| 52 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 |
+| 51 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 |
+| 52 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
 | 53 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
 | 54 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
 | 55 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 63 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
 | 64 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
 | 65 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 |
-| 66 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 |
-| 67 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 |
+| 66 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 |
+| 67 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 |
 | 68 | [Bloodfeather](https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 3:54 |
 | 69 | [Be Legendary](https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:23 |
 | 70 | [Freeze Me](https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Outrage! Is Now](https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 74 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 |
 | 75 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDQyNmRjZjRmMGU1ZWRkYjk2MmFkMjMyMWZjM2Q1MDA3`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMGNjZjQ3NmMwODU4YTJkYTZhMzI5MDkxZDA0ODBjZGE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Priscilla Alcantara, Vitor Kley
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,795 likes - 84 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,162 likes - 84 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 47 | [Eu Te Quero \(feat\. Manu Gavassi\) \- Acoustic Version](https://open.spotify.com/track/68qTU56nAFCVOycqBWDzZD) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Eu Te Quero \(feat\. Manu Gavassi\) \[Acoustic Version\]](https://open.spotify.com/album/0F9fIfl3SGezt2kh373Xqv) | 2:52 |
 | 48 | [Olhos Cor de Mel](https://open.spotify.com/track/3E1DgO8G9ej5gMAMuxv0a4) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Olhos Cor de Mel](https://open.spotify.com/album/5NULIbgpUQM0oVmBen5rBM) | 2:21 |
 | 49 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
-| 50 | [Produtividade](https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Produtividade](https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5) | 2:39 |
-| 51 | [Eu Vou Chorar Dançando](https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Eu Vou Chorar Dançando](https://open.spotify.com/album/086wyZc2kXudA59dUTWPVX) | 2:55 |
-| 52 | [No Mesmo Tom](https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [No Mesmo Tom](https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV) | 3:19 |
-| 53 | [Flutuar \- Acústico](https://open.spotify.com/track/5vy6OsbPW9wYkJjFwUCsZT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [O Melhor de Nós](https://open.spotify.com/album/7hk4rtzUoxkzRMpusuEgEq) | 2:50 |
-| 54 | [Dança](https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk) | 2:32 |
+| 50 | [No Mesmo Tom](https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [No Mesmo Tom](https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV) | 3:19 |
+| 51 | [Flutuar \- Acústico](https://open.spotify.com/track/5vy6OsbPW9wYkJjFwUCsZT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [O Melhor de Nós](https://open.spotify.com/album/7hk4rtzUoxkzRMpusuEgEq) | 2:50 |
+| 52 | [Produtividade](https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Produtividade](https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5) | 2:39 |
+| 53 | [Dança](https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk) | 2:32 |
+| 54 | [Eu Vou Chorar Dançando](https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Eu Vou Chorar Dançando](https://open.spotify.com/album/086wyZc2kXudA59dUTWPVX) | 2:55 |
 | 55 | [gostosa](https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [gostosa](https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK) | 2:34 |
-| 56 | [Então Volta](https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Então Volta](https://open.spotify.com/album/37DaFtlhCpwYVDiS8w5c69) | 3:09 |
-| 57 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
+| 56 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
+| 57 | [Então Volta](https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Então Volta](https://open.spotify.com/album/37DaFtlhCpwYVDiS8w5c69) | 3:09 |
 | 58 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 |
 | 59 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 |
 | 60 | [Não Me Chame Pelo Nome](https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph) | [Mu Bispo](https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv) | [Menor Que Três](https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG) | 3:32 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 74 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 |
 | 75 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 |
 | 76 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 |
-| 77 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 |
-| 78 | [Não Sou Boa Com Palavras](https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Mais Uma História de Amor](https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ) | 2:23 |
+| 77 | [Não Sou Boa Com Palavras](https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Mais Uma História de Amor](https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ) | 2:23 |
+| 78 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 |
 | 79 | [Céu Lilás](https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:29 |
 | 80 | [Deus Me Free](https://open.spotify.com/track/1yuTHDSJQXxxA7fCa5WTpz) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Deus Me Free](https://open.spotify.com/album/2MU6hhXi96fna9ojO5aHou) | 2:25 |
 | 81 | [Música para Recomeços](https://open.spotify.com/track/2W5aFc2XGAt4AEH3ZY7427) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Música para Recomeços](https://open.spotify.com/album/0AKpFm7l7y3GiZk0POcVq4) | 2:58 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 83 | [Eu Não Ando Tão Bem Assim](https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Eu Não Ando Tão Bem Assim](https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy) | 3:00 |
 | 84 | [vem pra perto](https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [vem pra perto](https://open.spotify.com/album/7BTA7ELwKm8YRLpZpsG1PE) | 2:49 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDYwNDFmNTRiNTdkNjJmOWI5MTg0OTFjMGJlYzA3M2Rh`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDdlZDI2NmY0ODQyY2YxNjUxMDM0ODk1MGY4ZTc5Mjg0`

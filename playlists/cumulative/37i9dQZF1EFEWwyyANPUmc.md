@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/04Px2zRqzuKCARA4eLARbp)
+52 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/04Px2zRqzuKCARA4eLARbp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bum](https://open.spotify.com/track/4bS57BQrwhwhWROvMPG98U) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Repow](https://open.spotify.com/artist/2o5HEaDbSZee4AcoksPIO2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Bum](https://open.spotify.com/album/5IF6tYxUjg2HPgXkEt8R77) | 2:52 | 2022-06-04 |  |
 | [Cocaina](https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Cocaina](https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk) | 3:04 | 2022-06-04 |  |
 | [Down By The River \(feat\. Emy Perez\)](https://open.spotify.com/track/2rBq9rceYqbr4YIqbSLhNg) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Down By The River \(feat\. Emy Perez\)](https://open.spotify.com/album/1Nl1SBGIkh5xfBRWrJffCg) | 2:20 | 2022-06-04 |  |
-| [Dumb](https://open.spotify.com/track/3XaRZNhz6eOU1Fjk2aYCsE) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Dumb](https://open.spotify.com/album/2LwVV5oGRP5viAyph9T22b) | 3:18 | 2022-06-04 |  |
+| [Dumb](https://open.spotify.com/track/1GDcRmGNKfntcKeyM2ZY3p) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 3:18 | 2022-09-11 |  |
+| [Dumb](https://open.spotify.com/track/3XaRZNhz6eOU1Fjk2aYCsE) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Dumb](https://open.spotify.com/album/2LwVV5oGRP5viAyph9T22b) | 3:18 | 2022-06-04 | 2022-09-12 |
 | [Dutch \(feat\. Emy Perez\)](https://open.spotify.com/track/5Z6JZqMoveVuOC9IPoROmo) | [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Dutch \(feat\. Emy Perez\)](https://open.spotify.com/album/63O2ghuH6gd9LklYmroIFv) | 2:26 | 2022-06-04 | 2022-07-28 |
 | [El Mundo Baila](https://open.spotify.com/track/7ec664OOg6lMzOLz8aztZ8) | [B'Elle](https://open.spotify.com/artist/3Bp4EXpyHUtJn0HNOk7RVz) | [El Mundo Baila](https://open.spotify.com/album/6gfawBHQ4lX5d1G7stPJkt) | 2:36 | 2022-06-04 |  |
 | [Es Amor \(What Is Love\) \(feat\. Nicky Jam & Emy Perez\)](https://open.spotify.com/track/568HkRjcNnuFYjtfH1rqMo) | [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Es Amor \(What Is Love\) \(feat\. Nicky Jam & Emy Perez\)](https://open.spotify.com/album/6VNA1VvqRbL9qfqhsWEYWT) | 3:05 | 2022-06-04 |  |

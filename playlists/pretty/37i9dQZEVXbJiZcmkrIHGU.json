@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2120242,
+  "num_followers": 2120444,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE2MTIwOTI4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE2MjA2MTc5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Wildberry Lillet",
         "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
@@ -25,27 +25,27 @@
       "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 150296,
-      "name": "Eine Idee",
-      "url": "https://open.spotify.com/track/21MlfDYRjL0DuBbiCS9wlB"
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
@@ -69,47 +69,7 @@
       "url": "https://open.spotify.com/track/2EriVX6pX9RcmMsgU8Hsir"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 137475,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/3iYjUEMXpxiXUzKsLFuSNi"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
@@ -129,7 +89,107 @@
       "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 150296,
+      "name": "Eine Idee",
+      "url": "https://open.spotify.com/track/21MlfDYRjL0DuBbiCS9wlB"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Layla (Dutch Version)",
+        "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 137475,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/3iYjUEMXpxiXUzKsLFuSNi"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Nachts wach (Remix EP)",
+        "url": "https://open.spotify.com/album/3iHDtutprAk1q5Fe55till"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Nachts wach (Lila Wolken Bootleg)",
+      "url": "https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Sternenstaub",
         "url": "https://open.spotify.com/album/1gU9sENbkoBnWpWlizlAjj"
@@ -153,47 +213,55 @@
       "url": "https://open.spotify.com/track/0j1whACQqbHlGzSZaUh6uR"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Nachts wach (Remix EP)",
-        "url": "https://open.spotify.com/album/3iHDtutprAk1q5Fe55till"
+        "name": "Beautiful Girl",
+        "url": "https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk"
       },
       "artists": [
         {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Nachts wach (Lila Wolken Bootleg)",
-      "url": "https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3"
+      "duration_ms": 179186,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+        "name": "MIXED FEELINGS",
+        "url": "https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Liaze",
+          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
         }
       ],
-      "duration_ms": 165781,
-      "name": "Letztes Mal",
-      "url": "https://open.spotify.com/track/2ptG9ihX35aWmz7EnsYXBe"
+      "duration_ms": 192975,
+      "name": "PARADISE (MIT DIR)",
+      "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206384,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
@@ -213,183 +281,7 @@
       "url": "https://open.spotify.com/track/41ZYUGtRGAi3SEx23AZXfB"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Layla (Dutch Version)",
-        "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
-      },
-      "artists": [
-        {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
-        },
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Beautiful Girl",
-        "url": "https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Beautiful Girl",
-      "url": "https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "MIXED FEELINGS",
-        "url": "https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc"
-      },
-      "artists": [
-        {
-          "name": "Liaze",
-          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "PARADISE (MIT DIR)",
-      "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 159917,
-      "name": "Alles umsonst",
-      "url": "https://open.spotify.com/track/3XQ6iz7mTpwB1NBiB6LSIK"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 153982,
-      "name": "September",
-      "url": "https://open.spotify.com/track/04EBsGEXJnq4iQtB0W6cUW"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Bounty Killer",
-          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Wer hat Angst",
-      "url": "https://open.spotify.com/track/6clk3RFNYNhqhGdYV3Qon1"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Skandal\u00f6s",
-        "url": "https://open.spotify.com/album/0zq7iAaP9NBa5fmfmIZnNF"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        }
-      ],
-      "duration_ms": 151167,
-      "name": "Skandal\u00f6s",
-      "url": "https://open.spotify.com/track/6tNM8cPyD4epzfUNCcuYp5"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -405,27 +297,7 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/5yJAaEaZ9XpINnyrT6gXMV"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -445,23 +317,7 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
@@ -476,12 +332,12 @@
           "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         }
       ],
-      "duration_ms": 180728,
-      "name": "Unterwegs",
-      "url": "https://open.spotify.com/track/7jUkbdt0mb8bCPGnpVfPVF"
+      "duration_ms": 165781,
+      "name": "Letztes Mal",
+      "url": "https://open.spotify.com/track/2ptG9ihX35aWmz7EnsYXBe"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -497,27 +353,43 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
         },
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
         }
       ],
-      "duration_ms": 143581,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/55dLuyFiHiYaHQOUHJKw4T"
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "F\u00fcr den Himmel durch die H\u00f6lle",
         "url": "https://open.spotify.com/album/5925gOqT0wsG2ZQmdOJXZW"
@@ -541,23 +413,23 @@
       "url": "https://open.spotify.com/track/1DTVCRW8QPPteXXhBlohM2"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Starlight Express",
-        "url": "https://open.spotify.com/album/5YGRAjB4c69vbxkk0LVVHO"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 164881,
-      "name": "Starlight Express",
-      "url": "https://open.spotify.com/track/3QDTkuRdB56wfnZbLgsUbI"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
@@ -581,59 +453,7 @@
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "UFF",
-        "url": "https://open.spotify.com/album/4NgUKQGLe0xvsB3Toopb9L"
-      },
-      "artists": [
-        {
-          "name": "KALIM",
-          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "UFF",
-      "url": "https://open.spotify.com/track/7kmFbfiaWVLlHDCMJo2zVM"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 171061,
-      "name": "Zu sp\u00e4t",
-      "url": "https://open.spotify.com/track/7Lx0Kqy8E9Ud9aUU8gRFkZ"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
@@ -653,27 +473,7 @@
       "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
-      },
-      "artists": [
-        {
-          "name": "Die Zipfelbuben",
-          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
-        },
-        {
-          "name": "DJ Cashi",
-          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -689,23 +489,71 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
       },
       "artists": [
         {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         }
       ],
-      "duration_ms": 151690,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
+      "duration_ms": 159917,
+      "name": "Alles umsonst",
+      "url": "https://open.spotify.com/track/3XQ6iz7mTpwB1NBiB6LSIK"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Skandal\u00f6s",
+        "url": "https://open.spotify.com/album/0zq7iAaP9NBa5fmfmIZnNF"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "duration_ms": 151167,
+      "name": "Skandal\u00f6s",
+      "url": "https://open.spotify.com/track/6tNM8cPyD4epzfUNCcuYp5"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 153982,
+      "name": "September",
+      "url": "https://open.spotify.com/track/04EBsGEXJnq4iQtB0W6cUW"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -721,7 +569,7 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
@@ -734,90 +582,50 @@
         {
           "name": "RAF Camora",
           "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 181862,
-      "name": "Destination",
-      "url": "https://open.spotify.com/track/6jZJHByBqn5QAYGl59YjKH"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/3Sz7mR0kbSHklOv6Nk5duJ"
-      },
-      "artists": [
-        {
-          "name": "OsTEKKe",
-          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
-        }
-      ],
-      "duration_ms": 150595,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/0SHHJc5BFL4pVmxm32Bb8Q"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Bunny Bars (Osterhase)",
-        "url": "https://open.spotify.com/album/6STSuQBHx97jufQT2cB2qK"
-      },
-      "artists": [
-        {
-          "name": "Julien Bam",
-          "url": "https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM"
         },
         {
-          "name": "ELIF",
-          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
-        },
-        {
-          "name": "Jay-C",
-          "url": "https://open.spotify.com/artist/1vMtc8iArxDddkVvrfEYZg"
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
         }
       ],
-      "duration_ms": 171763,
-      "name": "Bunny Bars (Osterhase)",
-      "url": "https://open.spotify.com/track/6WebNoyy2Z4EvmCCPr7vPM"
+      "duration_ms": 188466,
+      "name": "Wer hat Angst",
+      "url": "https://open.spotify.com/track/6clk3RFNYNhqhGdYV3Qon1"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Nachhause",
-        "url": "https://open.spotify.com/album/7JdNBN0nF82SFZJWixJZ4C"
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
       },
       "artists": [
         {
-          "name": "Olexesh",
-          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
         }
       ],
-      "duration_ms": 148351,
-      "name": "Nachhause",
-      "url": "https://open.spotify.com/track/2NK9QAyBdInwUuzNUNZ7G9"
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
         }
       ],
-      "duration_ms": 37481,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/1yovOHmDWHYbQDBtoVG5fx"
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
@@ -833,7 +641,43 @@
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/3Sz7mR0kbSHklOv6Nk5duJ"
+      },
+      "artists": [
+        {
+          "name": "OsTEKKe",
+          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+        }
+      ],
+      "duration_ms": 150595,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/0SHHJc5BFL4pVmxm32Bb8Q"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/5yJAaEaZ9XpINnyrT6gXMV"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
@@ -853,7 +697,47 @@
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 180728,
+      "name": "Unterwegs",
+      "url": "https://open.spotify.com/track/7jUkbdt0mb8bCPGnpVfPVF"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Kernkraft 400 (A Better Day)",
+        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Kernkraft 400 (A Better Day)",
+      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "LEBENSLANG (HBz Remix)",
         "url": "https://open.spotify.com/album/1jW5P0yu4tE2EUwJWNkfRs"
@@ -877,47 +761,23 @@
       "url": "https://open.spotify.com/track/4FXX4P3dxc1JMBx5wVRJ5N"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Kernkraft 400 (A Better Day)",
-        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 165800,
-      "name": "Kernkraft 400 (A Better Day)",
-      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
-      "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/6RIcHWTgNgzOW4moPBdfBM"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        },
-        {
-          "name": "TOPIC42",
-          "url": "https://open.spotify.com/artist/4unaJKYfY4B51exXVQSilo"
-        }
-      ],
-      "duration_ms": 166446,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/76SBSmc38qQQSpkgBenb8U"
-    },
-    {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
         "name": "Percocet Party",
         "url": "https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH"
@@ -937,36 +797,168 @@
       "url": "https://open.spotify.com/track/3JXdzlvJJrKlmfBfoCLsOo"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
       },
       "artists": [
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
     },
     {
-      "added_at": "2022-09-10 10:28:48",
+      "added_at": "2022-09-11 10:09:39",
       "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+      "duration_ms": 143581,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/55dLuyFiHiYaHQOUHJKw4T"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Bunny Bars (Osterhase)",
+        "url": "https://open.spotify.com/album/6STSuQBHx97jufQT2cB2qK"
+      },
+      "artists": [
+        {
+          "name": "Julien Bam",
+          "url": "https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM"
+        },
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
+        },
+        {
+          "name": "Jay-C",
+          "url": "https://open.spotify.com/artist/1vMtc8iArxDddkVvrfEYZg"
+        }
+      ],
+      "duration_ms": 171763,
+      "name": "Bunny Bars (Osterhase)",
+      "url": "https://open.spotify.com/track/6WebNoyy2Z4EvmCCPr7vPM"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Starlight Express",
+        "url": "https://open.spotify.com/album/5YGRAjB4c69vbxkk0LVVHO"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 164881,
+      "name": "Starlight Express",
+      "url": "https://open.spotify.com/track/3QDTkuRdB56wfnZbLgsUbI"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/6RIcHWTgNgzOW4moPBdfBM"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "TOPIC42",
+          "url": "https://open.spotify.com/artist/4unaJKYfY4B51exXVQSilo"
+        }
+      ],
+      "duration_ms": 166446,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/76SBSmc38qQQSpkgBenb8U"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Ohne Benzin",
+        "url": "https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 155136,
+      "name": "Ohne Benzin",
+      "url": "https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "UFF",
+        "url": "https://open.spotify.com/album/4NgUKQGLe0xvsB3Toopb9L"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "UFF",
+      "url": "https://open.spotify.com/track/7kmFbfiaWVLlHDCMJo2zVM"
+    },
+    {
+      "added_at": "2022-09-11 10:09:39",
+      "album": {
+        "name": "Palmen aus Plastik 3",
+        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 171061,
+      "name": "Zu sp\u00e4t",
+      "url": "https://open.spotify.com/track/7Lx0Kqy8E9Ud9aUU8gRFkZ"
     }
   ],
   "unique_name": "Top 50 - Germany",

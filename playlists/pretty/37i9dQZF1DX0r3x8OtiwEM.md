@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,129 likes - 60 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,478 likes - 60 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 41 | [False Reactions](https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 5:11 |
 | 42 | [Hypercolour](https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt), [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Hypercolour](https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu) | 3:29 |
 | 43 | [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 |
-| 44 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 |
-| 45 | [Untold](https://open.spotify.com/track/4k2XhQNH68LpS0YxQDTcov) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/3RrTZKnXObb9lbtUkgySTl) | 6:42 |
+| 44 | [Untold](https://open.spotify.com/track/4k2XhQNH68LpS0YxQDTcov) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/3RrTZKnXObb9lbtUkgySTl) | 6:42 |
+| 45 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 |
 | 46 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 |
 | 47 | [The Blame \- Helsloot Remix](https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [The Blame \(Helsloot Remix\)](https://open.spotify.com/album/6CER3OrpXoQlZxr9rAiGNj) | 6:44 |
 | 48 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 60 | [It's a Fine Day](https://open.spotify.com/track/0ZRVNeTUZVdjIdjss3toAS) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [It's a Fine Day](https://open.spotify.com/album/0uU1QLNOmgVTDdFwhcmvAL) | 3:24 |
 
-Snapshot ID: `MTY2MjE0MjE4NiwwMDAwMDAwMDAzNTA0ZWNlMDlmYjYxMTA2MTdmZmYxZTM2Y2VhNzdh`
+Snapshot ID: `MTY2MjE0MjE4NiwwMDAwMDAwMDg2ZjAwZGNjNDFmMDY1ODBiMDc2NzQ3MjBkMzc3ODMw`

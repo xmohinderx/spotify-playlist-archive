@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,696 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,010 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
-| 2 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
+| 1 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
+| 2 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 |
 | 3 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 |
 | 4 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
 | 5 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 35 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
 | 36 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
 | 37 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
-| 38 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 39 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 |
+| 38 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 |
+| 39 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 40 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
 | 41 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
 | 42 | [Mujeres](https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Animal Nocturno](https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 49 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
 | 50 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
 
-Snapshot ID: `MTY1MDkxNjA5MywwMDAwMDAwMGJlMTUzOGM0OWIwNDQ0MjhhNmZiZjk4MWRhN2EzMDVm`
+Snapshot ID: `MTY1MDkxNjA5MywwMDAwMDAwMGVhYmM2MTkyN2I1ODRhNjk2ODZlMWRiYzEzMTVlZWJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,823 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,824 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 35 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 |
 | 36 | [Ole Santa](https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:45 |
 | 37 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 2:49 |
-| 38 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
-| 39 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
+| 38 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
+| 39 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
 | 40 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 |
 | 41 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 |
-| 42 | [Christmas Bells](https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:43 |
-| 43 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Ultimate Jazz Christmas](https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL) | 2:17 |
-| 44 | [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 |
+| 42 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Ultimate Jazz Christmas](https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL) | 2:17 |
+| 43 | [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 |
+| 44 | [Christmas Bells](https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:43 |
 | 45 | [Let It Snow](https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:40 |
 | 46 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
 | 47 | [Blue Christmas](https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Winter Wonderland](https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 69 | [Let's Share Christmas](https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm) | [Dick Lieb](https://open.spotify.com/artist/7rB4viLXW5N1ioEuo2Iogz) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:55 |
 | 70 | [A Holly Jolly Christmas](https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Christmas Eve](https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP) | 2:22 |
 
-Snapshot ID: `MTY0MTIwMDA0MywwMDAwMDAwMDU2NjlkZGNlOWI2MWIxMWJhOTQwMzI2ZmQ3YzI3NDQy`
+Snapshot ID: `MTY0MTIwMDA0MywwMDAwMDAwMGE1MjQ1NjIzNGY2NjJjM2Q2MmVjZjM3OTg0MGE4NWZj`

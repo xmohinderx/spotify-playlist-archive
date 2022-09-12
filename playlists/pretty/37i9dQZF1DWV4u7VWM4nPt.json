@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 14126,
+  "num_followers": 14203,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMGYzNDJmZjFhNjk2M2JhMTM0YjQwMTljNGEyMTBkZjM5",
+  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMGJlY2VkOTViZWNmMjFkMmE1N2VjN2M3ZjQwZGU3MTA5",
   "tracks": [
     {
       "added_at": "2021-12-22 23:28:32",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+      "duration_ms": 187626,
+      "name": "Samba De Verao",
+      "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
     },
     {
       "added_at": "2021-12-22 23:28:32",
@@ -603,22 +619,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Samba De Verao",
-      "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
         "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Galeria Caribe",
-        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 267186,
-      "name": "Te Enamoraste de Ti",
-      "url": "https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 259146,
       "name": "Sapo de Otro Pozo",
       "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Te Enamoraste de Ti",
+      "url": "https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom"
     },
     {
       "added_at": "2021-12-22 23:28:32",

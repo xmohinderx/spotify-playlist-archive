@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 63689,
+  "num_followers": 63774,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDI5NzNjZDE5NzY1MTIwN2RmYWY1ZGUxYjY4OGQ1ODBi",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDJlMjljN2VmNjU3MGViMWIwNTEyZmQ1MDUzMjM0NTRi",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Swiss Nights, Vol. 3",
-        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 762666,
-      "name": "Tenor madness",
-      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 421853,
       "name": "Senor Blues",
       "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Swiss Nights, Vol. 3",
+        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 762666,
+      "name": "Tenor madness",
+      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 405653,
-      "name": "Doodlin' - Remastered",
-      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Workin'",
         "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
       },
@@ -531,22 +515,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Charlie Parker Memorial, Vol. 2",
-        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Billie's Bounce - Original",
-      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Red's Blues",
         "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
@@ -563,6 +531,38 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Charlie Parker Memorial, Vol. 2",
+        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Billie's Bounce - Original",
+      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 405653,
+      "name": "Doodlin' - Remastered",
+      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 464613,
       "name": "Old Clothes",
       "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 592506,
+      "name": "Blues By Five - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -607,22 +623,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Cookin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 592506,
-      "name": "Blues By Five - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Blues In the Night",
+        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 414666,
+      "name": "Back Slidin'",
+      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -687,22 +703,6 @@
       "duration_ms": 650466,
       "name": "Kelly Blue",
       "url": "https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Blues In the Night",
-        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 414666,
-      "name": "Back Slidin'",
-      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
     },
     {
       "added_at": "2020-10-12 18:15:54",

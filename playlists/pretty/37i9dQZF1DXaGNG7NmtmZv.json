@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 165048,
+  "num_followers": 165100,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDU5YTZiYjY1ZGNlNGM4NGY5NmJkNDU4NTM2ODQwYmQw",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDVhNTVhYjE1NDA2ZTRjYjg1MjI4NjJkMDgxYmQ4NWYx",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Voice of Rebellion",
-        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
-      },
-      "artists": [
-        {
-          "name": "Pro-Pain",
-          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
-        }
-      ],
-      "duration_ms": 241343,
-      "name": "Voice of Rebellion",
-      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 165720,
       "name": "Scratch the Surface",
       "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Voice of Rebellion",
+        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
+      },
+      "artists": [
+        {
+          "name": "Pro-Pain",
+          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
+        }
+      ],
+      "duration_ms": 241343,
+      "name": "Voice of Rebellion",
+      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 124360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Haterz Be Damned: New, Old & Rare",
-        "url": "https://open.spotify.com/album/7cTQVE19wRopoVrkumYTvi"
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
       },
       "artists": [
         {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
         }
       ],
-      "duration_ms": 114027,
-      "name": "Strength Thru Unity",
-      "url": "https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva"
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
     }
   ],
   "unique_name": "Classic Hardcore",

@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 119971,
+  "num_followers": 120062,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMGMwZjk3M2YzYzMzNmVhOTQzZDU4YzRjNmM5N2RiYzg2",
+  "snapshot_id": "MTY2MjY0OTIwMCwwMDAwMDAwMGUwZTZkOTc3YjU3Y2Q4Yzg1Nzk5NjAzOGNhODk1N2Q4",
   "tracks": [
     {
       "added_at": "2022-09-08 15:00:00",
@@ -531,42 +531,6 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "puzzle (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 210338,
-      "name": "puzzle (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
         "name": "yugi",
         "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
@@ -583,18 +547,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "Telegraph",
-        "url": "https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3"
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
       "artists": [
         {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 238720,
-      "name": "Atami",
-      "url": "https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY"
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -615,6 +579,42 @@
       "duration_ms": 217000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "Telegraph",
+        "url": "https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "Atami",
+      "url": "https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "puzzle (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 210338,
+      "name": "puzzle (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -675,22 +675,18 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 231440,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+      "duration_ms": 272657,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -711,18 +707,22 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         }
       ],
-      "duration_ms": 272657,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+      "duration_ms": 231440,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -739,42 +739,6 @@
       "duration_ms": 188210,
       "name": "Rainin' on my parade",
       "url": "https://open.spotify.com/track/4bjbD3oRzJKcGKx0isRWDI"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "It's all about you",
-        "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 191663,
-      "name": "It's all about you",
-      "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4gCkJK3KO7KDYCn5Kq2uEO"
-      },
-      "artists": [
-        {
-          "name": "Roomies",
-          "url": "https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt"
-        }
-      ],
-      "duration_ms": 253409,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0AFmH6T57kBT7ZcVflH2me"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -799,6 +763,42 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4gCkJK3KO7KDYCn5Kq2uEO"
+      },
+      "artists": [
+        {
+          "name": "Roomies",
+          "url": "https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt"
+        }
+      ],
+      "duration_ms": 253409,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0AFmH6T57kBT7ZcVflH2me"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
+        "name": "It's all about you",
+        "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 191663,
+      "name": "It's all about you",
+      "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
     },
     {
       "added_at": "2022-09-08 15:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-09-08 15:00:00",
       "album": {
+        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
+        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
+      },
+      "artists": [
+        {
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
+      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
+    },
+    {
+      "added_at": "2022-09-08 15:00:00",
+      "album": {
         "name": "Sentimental (Neon Mix)",
         "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 219227,
       "name": "Perfect Vacation",
       "url": "https://open.spotify.com/track/3Ur58a9oYjMMhYvbTDfujQ"
-    },
-    {
-      "added_at": "2022-09-08 15:00:00",
-      "album": {
-        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
-        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
-      },
-      "artists": [
-        {
-          "name": "LAYRUS LOOP",
-          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
-      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
     },
     {
       "added_at": "2022-09-08 15:00:00",

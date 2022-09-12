@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,930 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,238 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 39 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
 | 40 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 41 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
-| 42 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
-| 43 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
+| 42 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
+| 43 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 44 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 |
-| 45 | [You'll Never Find Another Love Like Mine](https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:26 |
-| 46 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 |
-| 47 | [O\-o\-h Child](https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [The First Family of Soul: The Best of The Five Stairsteps](https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid) | 3:17 |
-| 48 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
+| 45 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 |
+| 46 | [You'll Never Find Another Love Like Mine](https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:26 |
+| 47 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
+| 48 | [O\-o\-h Child](https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [The First Family of Soul: The Best of The Five Stairsteps](https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid) | 3:17 |
 | 49 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 50 | [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 |
 | 51 | [You Make Me Feel Brand New](https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz) | 4:48 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 64 | [Baby Come Back](https://open.spotify.com/track/2eRYuzlSOBk3HlMsCSOLPJ) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Late Night Tales: Music For Pleasure](https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc) | 3:34 |
 | 65 | [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 |
 
-Snapshot ID: `MTYxMzY0MzkzNiwwMDAwMDAwMGE3NGEzMzFmNjBkOTg0Y2JiN2JiODllMGYyNmRmNDg3`
+Snapshot ID: `MTYxMzY0MzkzNiwwMDAwMDAwMGM5MDEzODNlMzBiYTg4YWI0ZWQ2YzRlNWQyZDc1MzBj`

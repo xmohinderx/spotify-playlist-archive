@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,009 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,071 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 19 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 |
 | 20 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
 | 21 | [Bonnie](https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:37 |
-| 22 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
-| 23 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
-| 24 | [Little Boy Blue](https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:14 |
+| 22 | [Little Boy Blue](https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:14 |
+| 23 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
+| 24 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 25 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 |
 | 26 | [Waiting For The Dawn](https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Waiting For The Dawn](https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV) | 5:50 |
 | 27 | [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 |
 | 28 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
 | 29 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 30 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
-| 31 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
-| 32 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
+| 31 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
+| 32 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
 | 33 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 34 | [Same Old Blues](https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:34 |
 | 35 | [Too Many Dirty Dishes \- Remastered](https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 6:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 45 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
 | 46 | [I Walk Alone](https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS) | [Michael Hardie](https://open.spotify.com/artist/0hoFPHvdknXhVTBp1nq17S) | [Waiting For Perfection](https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O) | 6:15 |
 | 47 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
-| 48 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
-| 49 | [Blues Keep Chasing Me](https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 4:22 |
+| 48 | [Blues Keep Chasing Me](https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 4:22 |
+| 49 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 | 50 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
 
-Snapshot ID: `MTY2MDkzMDU3MSwwMDAwMDAwMDU4YmI4MTcyN2Q5ODY3OWU2OTc5MGIwNWFmZGM2NzE0`
+Snapshot ID: `MTY2MDkzMDU3MSwwMDAwMDAwMDNlZjk4MTI2OTM4MzM5ZDA5MzNmNzQ5NGZlYmU5ZDFm`

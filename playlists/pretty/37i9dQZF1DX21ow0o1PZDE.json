@@ -1,12 +1,12 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Foto: Bizarrap, Quevedo",
-  "num_followers": 582788,
+  "num_followers": 583883,
   "original_name": "Mega \u00c9xitos 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NDcyNiwwMDAwMDAwMDk1MzEzMDVmMGRmYjQ3MDU1MGQ2Y2YwZmFjMjUzN2Zm",
+  "snapshot_id": "MTY2MjY5NDcyNiwwMDAwMDAwMDA0ZmQ3ZDQ3ODNhNTdiYWQ0NWM0Mjc1Yjc5ZDUxODk2",
   "tracks": [
     {
       "added_at": "2022-09-09 03:38:46",
@@ -431,6 +431,30 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 195294,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 195294,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -675,6 +675,34 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -703,34 +731,6 @@
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -895,26 +895,6 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
         "name": "JGL",
         "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
       },
@@ -935,22 +915,22 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
         }
       ],
-      "duration_ms": 192477,
-      "name": "X \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -971,6 +951,26 @@
       "duration_ms": 186828,
       "name": "Siempre Pendientes",
       "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -1083,6 +1051,22 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
         "name": "GIVENCHY",
         "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 182610,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -1159,6 +1139,26 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     },
     {
       "added_at": "2022-09-09 03:38:46",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
-    },
-    {
-      "added_at": "2022-09-09 03:38:46",
-      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -1879,8 +1863,24 @@
     {
       "added_at": "2022-09-09 03:38:46",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-09-09 03:38:46",
+      "album": {
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
       },
       "artists": [
         {
@@ -1888,9 +1888,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     }
   ],
   "unique_name": "Mega \u00c9xitos 2022",

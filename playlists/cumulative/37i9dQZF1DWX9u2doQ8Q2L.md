@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-268 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+269 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Troche](https://open.spotify.com/track/55npd4x5aJgUxgcfuuedSA) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Troche](https://open.spotify.com/album/664yPpos9jz8ONXwcAY84t) | 4:06 | 2022-07-28 | 2022-09-09 |
 | [Utopia](https://open.spotify.com/track/3T0M0Q9hf9zwDtxICrnnHF) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp) | [Utopia](https://open.spotify.com/album/30iuWckM7sIRzKGkQ6iWDZ) | 2:53 | 2022-08-18 | 2022-08-26 |
 | [Vacilando](https://open.spotify.com/track/5hrfHXeMWo5AOdJQZ9o0SO) | [Baku Furukawa](https://open.spotify.com/artist/2em1oRhLgRPKX9yBh9HjR9) | [Vacilando](https://open.spotify.com/album/5rs9U3cLeyrZoRXzHjqN7p) | 4:36 | 2022-06-07 | 2022-07-06 |
-| [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 |  |
+| [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2022-09-08 |  |
+| [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 | 2022-09-12 |
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-06 | 2022-09-10 |
 | [VIBRATION \(feat\. Kotetsu Shoichiro\)](https://open.spotify.com/track/1rZnfqsyxBLLUDVZMg914F) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Kotetsu Shoichiro](https://open.spotify.com/artist/1kKllcBgRqk8eBwcCGWVzc) | [REFLECTION](https://open.spotify.com/album/3YLJWusLf7BKhZU5Wmff1I) | 4:01 | 2022-05-26 | 2022-07-06 |
 | [Void Time](https://open.spotify.com/track/5RaIXJmfqymo3v1IMKFs7W) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Void Time](https://open.spotify.com/album/60hE7KIjUdQEFZNEh4iEfE) | 3:36 | 2022-05-26 | 2022-06-15 |

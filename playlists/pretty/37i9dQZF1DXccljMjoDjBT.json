@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 171948,
+  "num_followers": 172188,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDMxM2JiYjNmYmVkNDBkMGM0MzBmMGE2NzQ5N2MyMmFh",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDUwNTQyYTk3YThlOTdlZGM5OWM4YTU0ZjVjMGVkMWQy",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2022-07-05 15:47:05",
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Martika (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
-      },
-      "artists": [
-        {
-          "name": "Martika",
-          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
-        }
-      ],
-      "duration_ms": 287600,
-      "name": "Toy Soldiers",
-      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
-    },
-    {
       "added_at": "2021-10-12 12:30:27",
       "album": {
         "name": "Bella Donna (2016 Remastered)",
@@ -883,6 +867,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Martika (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
+      },
+      "artists": [
+        {
+          "name": "Martika",
+          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Toy Soldiers",
+      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Richard Marx",
         "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 270693,
       "name": "Endless Summer Nights",
       "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 313706,
-      "name": "Wrapped Around Your Finger",
-      "url": "https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf"
     },
     {
       "added_at": "2021-05-06 11:08:15",
@@ -927,6 +911,22 @@
       "duration_ms": 304800,
       "name": "Big Log - 2006 Remaster",
       "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 313706,
+      "name": "Wrapped Around Your Finger",
+      "url": "https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf"
     },
     {
       "added_at": "2020-12-08 17:52:17",

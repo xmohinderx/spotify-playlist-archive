@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,135 likes - 124 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,419 likes - 124 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 59 | [Crying in the Rain](https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:00 |
 | 60 | [People Get Ready](https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [People Get Ready](https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL) | 2:43 |
 | 61 | [Ferry Cross the Mersey \- Stereo; 1997 Remaster](https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Ferry Cross The Mersey \[Mono And Stereo Version\]](https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD) | 2:23 |
-| 62 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 |
-| 63 | [It Was A Very Good Year](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 4:27 |
+| 62 | [It Was A Very Good Year](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 4:27 |
+| 63 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 |
 | 64 | [In Dreams](https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB) | 2:49 |
 | 65 | [San Francisco \(Be Sure to Wear Some Flowers In Your Hair\)](https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Voice of Scott McKenzie \(Expanded Edition\)](https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ) | 2:58 |
 | 66 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 74 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 75 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 | 76 | [Can't Help Falling In Love \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt) | 3:18 |
-| 77 | [I Wish It Would Rain](https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Wish It Would Rain](https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l) | 2:42 |
-| 78 | [Trust In Me](https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:58 |
+| 77 | [Trust In Me](https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:58 |
+| 78 | [I Wish It Would Rain](https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Wish It Would Rain](https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l) | 2:42 |
 | 79 | [\(Ummmm, Oh Yeah\) Dearest](https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Giant](https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u) | 1:53 |
 | 80 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
 | 81 | [Darling Baby](https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [Hitsville USA \- The Motown Singles Collection 1959\-1971](https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj) | 2:36 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 123 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 | 124 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 
-Snapshot ID: `MTY1MzkxNTYzNywwMDAwMDAwMDZlNDU0NWIwMmY4NGNlZTdlMTJlNjQ3YmU2MjJiOTg1`
+Snapshot ID: `MTY1MzkxNTYzNywwMDAwMDAwMDA1ZTkwNDg2ZjI2NDBjNzYzZGU1MjgyMDI4MmNhMGE0`

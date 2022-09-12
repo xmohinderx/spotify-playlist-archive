@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,531 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,094 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 30 | [Here Always \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 31 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 |
 | 32 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 |
-| 33 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 |
-| 34 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
+| 33 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
+| 34 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 |
 | 35 | [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 |
 | 36 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 | 37 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 42 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
 | 43 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 |
 | 44 | [Is It Still Beautiful](https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
-| 45 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
-| 46 | [긴 밤이 오면](https://open.spotify.com/track/5LiWJsSSjZh7Y3hqml18Ki) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [당신이 잠든 사이에 Pt\. 1 Original Television Soundtrack](https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm) | 3:46 |
+| 45 | [긴 밤이 오면](https://open.spotify.com/track/5LiWJsSSjZh7Y3hqml18Ki) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [당신이 잠든 사이에 Pt\. 1 Original Television Soundtrack](https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm) | 3:46 |
+| 46 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
 | 47 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 |
 | 48 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 |
 | 49 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 50 | [All of My Days](https://open.spotify.com/track/2RBuzNyLuV1jXU8qi84Hiy) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu) | 3:58 |
 
-Snapshot ID: `MTY1NjA1MTUyNCwwMDAwMDAwMDU5MGMxNmQzZDQzOWRhZmJkZDJkNmFkNGI5Y2YxYzY5`
+Snapshot ID: `MTY1NjA1MTUyNCwwMDAwMDAwMDM0N2FhZTlhYWNiZmU5MTc4ODQ0NDg2YWE2ZTQyMmQz`

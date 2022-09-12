@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,332 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,398 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 66 | [Las Vegas](https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:42 |
 | 67 | [How Low](https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [How Low](https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s) | 4:04 |
 | 68 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 |
-| 69 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 |
-| 70 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
+| 69 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
+| 70 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 |
 | 71 | [Absolute Loser](https://open.spotify.com/track/45wGhAr9756RWGrSs35r56) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:51 |
 | 72 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
 | 73 | [Shattered & Hollow](https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 4:04 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 78 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 |
 | 79 | [River Wider](https://open.spotify.com/track/5ucRrHQrCGDeUdL5bKFWk1) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:15 |
 | 80 | [Price of Blue](https://open.spotify.com/track/17R1gfKdZ1m2MBeTBwD68c) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 6:22 |
-| 81 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 |
-| 82 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 |
+| 81 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 |
+| 82 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 |
 | 83 | [Waste Your Time](https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 3:36 |
 | 84 | [Alone but Not Alone](https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [The Waves, The Wake](https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi) | 3:17 |
 | 85 | [The First Day](https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The First Day](https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm) | 4:10 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 91 | [All About Our Love](https://open.spotify.com/track/6Bdb25Xd50dlIZWuSjEuTO) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [3](https://open.spotify.com/album/2WQB0iJb75vXIGyyeQ84ea) | 3:56 |
 | 92 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
 | 93 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 |
-| 94 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 |
-| 95 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 |
-| 96 | [Why You Gotta Be](https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:48 |
-| 97 | [Whatever, Wherever](https://open.spotify.com/track/3IURvsSAiD5EmqZLjtyJsS) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Why Are You OK](https://open.spotify.com/album/4xBayAng8qIv3227mj3xjN) | 4:13 |
+| 94 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 |
+| 95 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 |
+| 96 | [Whatever, Wherever](https://open.spotify.com/track/3IURvsSAiD5EmqZLjtyJsS) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Why Are You OK](https://open.spotify.com/album/4xBayAng8qIv3227mj3xjN) | 4:13 |
+| 97 | [Why You Gotta Be](https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:48 |
 | 98 | [Statues in the Garden \(Arras\)](https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Statues in the Garden \(Arras\)](https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM) | 3:56 |
 | 99 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 100 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
 
-Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMGQ2ZTZkMGYwNTVhNTA0YjExZDgyYTFhYWJkNTJiYTJi`
+Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMDIxZTEyZjE2Mzc4ODRkNjI1MzlmMDk0YmIyNDE4NjA2`

@@ -4,7 +4,7 @@
 
 > For the Sad Cuhs and anyone in their feelings.
 
-246 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
+247 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Eres Tu / </3](https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx) | 3:25 | 2022-02-04 |  |
 | [Es Diferente](https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Es Diferente](https://open.spotify.com/album/1G4PFNNCrqMyZfkEynA0PG) | 4:03 | 2022-01-01 |  |
 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 | 2022-07-22 |  |
-| [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 | 2022-01-01 | 2022-08-17 |
+| [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 | 2022-01-01 |  |
 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 | 2022-07-22 |  |
 | [Esta Noche](https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Esta Noche](https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y) | 3:09 | 2022-04-12 | 2022-07-29 |
 | [Estrella](https://open.spotify.com/track/5vlHwVEq4otgNAZURNqA5v) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [Estrella](https://open.spotify.com/album/5VurQ6J52RM2mFqryFOjqP) | 2:42 | 2022-03-26 | 2022-07-15 |
@@ -149,6 +149,7 @@
 | [Nomás Este Rey \- Bonus Track](https://open.spotify.com/track/2hUWaQPqogx8GeD9G0P2NA) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazon Bohemio](https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5) | 3:36 | 2022-07-22 |  |
 | [Nomás Este Rey \(Bonus Track\)](https://open.spotify.com/track/5roCNZmSZyDweazZPFQ8eq) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazón Bohemio](https://open.spotify.com/album/3rzzhVO4UdMniUo5rl9swK) | 3:36 | 2022-03-26 | 2022-04-20 |
 | [Nos Pertenecemos](https://open.spotify.com/track/6dLVCEQalxLPo6RlfoQVmg) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Nos Pertenecemos](https://open.spotify.com/album/5PTgOHWRNRrgxZSiuXMSKt) | 3:05 | 2022-01-01 | 2022-07-29 |
+| [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-11 |  |
 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 | 2022-01-01 |  |
 | [Ojos Avellana](https://open.spotify.com/track/0zn4NLvBxAxhpfvRwL6WEY) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Ojos Avellana](https://open.spotify.com/album/6qbu0lcrZK62LXFGxn2Af7) | 3:20 | 2022-02-11 | 2022-07-23 |
 | [Olvida El Pasado \(J.R.\) \- Con Tololoche](https://open.spotify.com/track/6s3JSsk3dDVKBPMjh33awl) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35) | [Olvida El Pasado \(J.R.\) \[Con Tololoche\]](https://open.spotify.com/album/5r1K8nHQSzv8K3c4kpwYlH) | 4:06 | 2022-02-04 | 2022-07-23 |
@@ -171,7 +172,7 @@
 | [Por Dentro](https://open.spotify.com/track/59Z1qb7vX4nMksBQ9vIkRr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 5:14 | 2022-01-01 |  |
 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 | 2022-07-22 |  |
 | [Por Enamorarme](https://open.spotify.com/track/5cwNC37WYaYJDNCxjNPOj6) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/2Lvzqi6AhOMQ8w6z8xG3mk) | 2:56 | 2022-01-01 | 2022-07-23 |
-| [Por Eso Te Canto Yo](https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Para Ella](https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J) | 4:05 | 2022-02-25 |  |
+| [Por Eso Te Canto Yo](https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Para Ella](https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J) | 4:05 | 2022-02-25 | 2022-09-12 |
 | [Por Tu Culpa](https://open.spotify.com/track/2OU13apOMaGALVlSb2PzPi) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Por Tu Culpa](https://open.spotify.com/album/3TdJVNZdIfpLVByfjseWcd) | 3:48 | 2022-01-01 | 2022-07-27 |
 | [Que Me Hiciste](https://open.spotify.com/track/7DODSQw9dsnwETuU1UtlSn) | [Estilo Noreste](https://open.spotify.com/artist/1vdVGzUNrVi6PFCUTeFY7r) | [Que Me Hiciste](https://open.spotify.com/album/7vUpsaiqHYSAo9PUqharum) | 4:07 | 2022-06-10 | 2022-07-20 |
 | [Que Paso](https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS) | 3:51 | 2022-01-01 | 2022-07-29 |
@@ -236,7 +237,7 @@
 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 | 2022-01-01 | 2022-07-29 |
 | [Una En Un Millon](https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Dueña De Mi Amor](https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x) | 2:47 | 2022-06-03 | 2022-06-11 |
 | [Vamonos](https://open.spotify.com/track/43jJLJrnFzYdYZOn618RTs) | [Eskuela de Las Calles](https://open.spotify.com/artist/6V11W3tkCfXgwSEZ3VQGfR), [Diego Oyama](https://open.spotify.com/artist/0V47S76UszKBj6IeXYPQL9) | [Vamonos](https://open.spotify.com/album/0tDRWqbDos1mDb9hxOsZb0) | 3:19 | 2022-02-04 | 2022-07-17 |
-| [Vas A Llorar](https://open.spotify.com/track/6lF45hzdxt6Z2hQf1zzyOl) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:05 | 2022-01-01 |  |
+| [Vas A Llorar](https://open.spotify.com/track/6lF45hzdxt6Z2hQf1zzyOl) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:05 | 2022-01-01 | 2022-09-12 |
 | [Vas A Llorar Por Mí](https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:30 | 2022-01-01 | 2022-03-22 |
 | [Versaci](https://open.spotify.com/track/3io4JByoRElfacv61ulr0E) | [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Versaci](https://open.spotify.com/album/6RyZd7QCleEPsG8YROucAQ) | 2:38 | 2022-07-22 |  |
 | [Vete A La :\)](https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Vete A La :\)](https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E) | 3:18 | 2022-06-03 | 2022-07-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska con cuadritos blancos, negros, y tricolores\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,504 likes - 120 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,523 likes - 120 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 33 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 34 | [El Recuento de los Daños](https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [!!Puro Macanazo!!](https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ) | 4:31 |
 | 35 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
-| 36 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
+| 36 | [No Piensa En Ti](https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:09 |
 | 37 | [Suda Mi Cuerpo](https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk) | [Royal Club](https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu) | [15 Años de Fuerza, Corazón y Resistencia](https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu) | 3:57 |
 | 38 | [Esta Noche](https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:26 |
 | 39 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 70 | [Corazón](https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Corazón](https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw) | 3:45 |
 | 71 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 72 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 |
-| 73 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 |
-| 74 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 |
+| 73 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 |
+| 74 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 |
 | 75 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
 | 76 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 |
 | 77 | [Pepepez](https://open.spotify.com/track/37h8TmRSPfWKL7ahi8ckSU) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Los De Abajo](https://open.spotify.com/album/0eGanROLjAFIUSTGk0kYZR) | 4:25 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 90 | [Estereofónica](https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [...y Como Dice Giles! \(Tributo a los Giles\)](https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS) | 3:40 |
 | 91 | [La Ultima Noche](https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR) | [La Ultima Noche](https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT) | 4:08 |
 | 92 | [La Mentira](https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Rude Boy Nights](https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw) | 3:26 |
-| 93 | [No Piensa En Ti](https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:09 |
+| 93 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
 | 94 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 95 | [El Último Ska](https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:34 |
 | 96 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 119 | [Skápate](https://open.spotify.com/track/7yMqPgzklmMsyzIgcnMzof) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Alicia](https://open.spotify.com/album/5uTKnp8Vp2JcNyZAaw238b) | 4:59 |
 | 120 | [Ni un paso atras](https://open.spotify.com/track/18IS6FcCXbJODmeWrM7uAf) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Canciones de Carretera: Conducir Por España](https://open.spotify.com/album/1B7nU2MOVmYdivGbfhoBj9) | 3:37 |
 
-Snapshot ID: `MTY2MjcyOTUyMCwwMDAwMDAwMGZlMjQ0M2E5ZGY5NzE2ODE5ZTllZGE2ODNkY2UyMzk4`
+Snapshot ID: `MTY2MjcyOTUyMCwwMDAwMDAwMDk0NTZiYmVmZWZmZWQ4ZmIwZTc4ZTY1MDJkMTU5MmRj`

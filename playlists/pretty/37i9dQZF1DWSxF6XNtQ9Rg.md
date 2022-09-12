@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da riascoltare in loop\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,022 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,132 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 61 | [Cambiare Adesso](https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0) | [Trap Lovers](https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW) | 3:48 |
 | 62 | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/track/0aQi1JGO1oKWEmKGfvf8TF) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3) | 3:57 |
 | 63 | [Pensando a lei](https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 2:56 |
-| 64 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
-| 65 | [Visiera A Becco](https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 3:07 |
+| 64 | [Visiera A Becco](https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 3:07 |
+| 65 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
 | 66 | [Phi](https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 2:54 |
 | 67 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 |
 | 68 | [Stavo Pensando A Te](https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Fenomeno](https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA) | 4:24 |
 | 69 | [90MIN](https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:51 |
 | 70 | [Stamm Fort \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Potere](https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1) | 2:51 |
 
-Snapshot ID: `MTY2MjU1NzA4MiwwMDAwMDAwMDFjMzZjODg3Mzk1MTY1NmRkNDRhMTRjY2RmNjY0NjI3`
+Snapshot ID: `MTY2MjU1NzA4MiwwMDAwMDAwMDA3NGU4OGYzZmQwMzliNTM1N2ZmMDBiMjQxYThhOWFh`

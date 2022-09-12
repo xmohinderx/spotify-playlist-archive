@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 
 > Long, dark and sustained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,054 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,102 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 23 | [It Takes Time](https://open.spotify.com/track/4wbph7JCthEvpGVM8KbmZt) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [James Joseph](https://open.spotify.com/artist/6JlUOf5B4IdBSZ4gyaBkej) | [It Takes Time](https://open.spotify.com/album/3TWIEDKHkoy1HmeFTOMnRv) | 5:31 |
 | 24 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 |
 | 25 | [In Waves](https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8) | [Loke Rahbek](https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz) | [Elephant](https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs) | 3:16 |
-| 26 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 |
-| 27 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
+| 26 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
+| 27 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 |
 | 28 | [Exit](https://open.spotify.com/track/7ulPUJ5ATvzceGQkdwFNHT) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [0011000](https://open.spotify.com/album/62nXuvzH4ECThotjQqPAhI) | 4:34 |
 | 29 | [Translucence](https://open.spotify.com/track/1GYcCKL23NE44Ypr741C3P) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Translucence](https://open.spotify.com/album/4bjRSLCGqQsViAYIFhD0KG) | 3:03 |
 | 30 | [Getting Ready to Say Goodbye](https://open.spotify.com/track/0JxPSe1YeUwQZLuhiSvK6r) | [Hatsü](https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd) | [Cycles](https://open.spotify.com/album/4dbsWGtWgEkWqJMvRyx4bL) | 4:05 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 47 | [Lobby](https://open.spotify.com/track/4UmwjnEQ4CZy9XmaN52r0I) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:01 |
 | 48 | [Sleeping Since Last Year](https://open.spotify.com/track/2kc18BHDqGI7QGpGN150AG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Sleeping Since Last Year](https://open.spotify.com/album/0hrFPfSOWBFo156sLpdho2) | 5:59 |
 | 49 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 |
-| 50 | [Burn It All Down](https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:31 |
-| 51 | [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 |
-| 52 | [Procession](https://open.spotify.com/track/3aY7DXuLSjhZWylrsxZlvS) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Emanate](https://open.spotify.com/album/1egylUUEu5VyrBX4Sn8LwW) | 5:34 |
-| 53 | [Torn Page](https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Torn Page](https://open.spotify.com/album/7zeAIjVBhbNkgXmcoWWjx9) | 19:54 |
-| 54 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
+| 50 | [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 |
+| 51 | [Procession](https://open.spotify.com/track/3aY7DXuLSjhZWylrsxZlvS) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Emanate](https://open.spotify.com/album/1egylUUEu5VyrBX4Sn8LwW) | 5:34 |
+| 52 | [Burn It All Down](https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:31 |
+| 53 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
+| 54 | [Torn Page](https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Torn Page](https://open.spotify.com/album/7zeAIjVBhbNkgXmcoWWjx9) | 19:54 |
 | 55 | [Other Dimensions](https://open.spotify.com/track/3bLJMScqvqhLRTwqEyzOoF) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Daydreamer](https://open.spotify.com/album/4T2HRIL337joOj4M9t1YmX) | 3:07 |
 | 56 | [eon](https://open.spotify.com/track/6fPnhlrHFNOgqjkbv4IThA) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 6:30 |
-| 57 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 |
-| 58 | [Brilliance](https://open.spotify.com/track/6yESxXi51ypIOiazRTTinL) | [Christoph De Babalon](https://open.spotify.com/artist/4ZrzdbajcxLidPJDPZomzz) | [If You're Into It I'm Out of It](https://open.spotify.com/album/2eFiRk2G9mVxjpZQy2ouTl) | 7:10 |
-| 59 | [Mod Aki Kasa](https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Pararatronic](https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL) | 3:46 |
-| 60 | [Nuuk \(Air\)](https://open.spotify.com/track/4iBVHkmGRBoEOpRRmEqv94) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/3ulAX8iVHCIvzCfcMZiKg9) | 4:47 |
+| 57 | [Brilliance](https://open.spotify.com/track/6yESxXi51ypIOiazRTTinL) | [Christoph De Babalon](https://open.spotify.com/artist/4ZrzdbajcxLidPJDPZomzz) | [If You're Into It I'm Out of It](https://open.spotify.com/album/2eFiRk2G9mVxjpZQy2ouTl) | 7:10 |
+| 58 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 |
+| 59 | [Nuuk \(Air\)](https://open.spotify.com/track/4iBVHkmGRBoEOpRRmEqv94) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/3ulAX8iVHCIvzCfcMZiKg9) | 4:47 |
+| 60 | [Mod Aki Kasa](https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Pararatronic](https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL) | 3:46 |
 
-Snapshot ID: `MTY2MDkyOTkyMywwMDAwMDAwMDM3YzViNjA1ZTE3NjY2ZmIyODIxOGRiNDg3NTFjMTQx`
+Snapshot ID: `MTY2MDkyOTkyMywwMDAwMDAwMGM1Nzc0MTZiNzNkOTY3YTNhMmY0MzViYWJjMDNhOGVi`

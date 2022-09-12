@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Lying flat on the sofa scrolling but with a nice soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,579 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,825 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
-| 2 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
-| 3 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
+| 2 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
+| 3 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
 | 4 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 5 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 6 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 55 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 |
 | 56 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
 | 57 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 |
-| 58 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
-| 59 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
+| 58 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
+| 59 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
 | 60 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 |
 | 61 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 |
-| 62 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
-| 63 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
+| 62 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
+| 63 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
 | 64 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
 | 65 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 |
 | 66 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 74 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 | 75 | [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDBmNWIxNDlmY2FhOTJhNWY4ZDM2NWJmODFhNzRhY2Vj`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDk1YzNiYTJhNGRkMmY1OTgxMzlkMzMzOWI1Y2I0MGY5`

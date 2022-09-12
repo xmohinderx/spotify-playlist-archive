@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Nico ",
-  "num_followers": 50020,
+  "num_followers": 50303,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU3MTUyOCwwMDAwMDAwMDQ5YzMzZTlmYWJmOGYzNzJlZWRkMjc5YjY1MTg1NTVi",
+  "snapshot_id": "MTY2MjU3MTUyOCwwMDAwMDAwMGJhYTdjNGNlZDkyMTlmMWMxMjYzZTkxM2UyYmM0ODgz",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The First Days Of Spring",
-        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 271600,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The First Days Of Spring",
+        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Soviet Kitsch",
-        "url": "https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Cults",
         "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 203066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Soviet Kitsch",
+        "url": "https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Begin to Hope (Special Edition)",
+        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Begin to Hope (Special Edition)",
-        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Fidelity",
-      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Big Echo",
         "url": "https://open.spotify.com/album/5UYmZOpjjA5Y7GyZhjI6fy"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Glow, Pt. 2",
-        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
-      },
-      "artists": [
-        {
-          "name": "The Microphones",
-          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
-        }
-      ],
-      "duration_ms": 332880,
-      "name": "I Want Wind to Blow",
-      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "The Boy With The Arab Strap",
         "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 314173,
       "name": "The Boy With The Arab Strap",
       "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Glow, Pt. 2",
+        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
+      },
+      "artists": [
+        {
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "duration_ms": 332880,
+      "name": "I Want Wind to Blow",
+      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "When I Pretend To Fall",
         "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 245120,
       "name": "Foundations",
       "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM"
+      },
+      "artists": [
+        {
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+        }
+      ],
+      "duration_ms": 122573,
+      "name": "What's Important",
+      "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Begin to Hope",
         "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 182426,
       "name": "We're from Barcelona",
       "url": "https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM"
-      },
-      "artists": [
-        {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
-        }
-      ],
-      "duration_ms": 122573,
-      "name": "What's Important",
-      "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"
     },
     {
       "added_at": "2022-08-26 20:04:38",

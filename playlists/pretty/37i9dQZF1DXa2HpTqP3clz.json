@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Tray Wellington",
-  "num_followers": 110080,
+  "num_followers": 110131,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMGU4ZTFkMTk1ZmQ0ZmRkM2Y2NTAyODIwMmQzMTU2Mzkz",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDE0MjIyZDk5NzBhNGQ0M2Q2ZTZmMzBkOGRjZDk1Mzdh",
   "tracks": [
     {
       "added_at": "2022-09-02 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Turmoil & Tinfoil",
-        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 276004,
-      "name": "While I'm Waiting Here",
-      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "See You Around",
         "url": "https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 188573,
       "name": "Ain\u2019t That Fine",
       "url": "https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Turmoil & Tinfoil",
+        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 276004,
+      "name": "While I'm Waiting Here",
+      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Black Muddy River",
-        "url": "https://open.spotify.com/album/4NEAI6IneYPx1gyD0drCON"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        },
-        {
-          "name": "Anders Osborne",
-          "url": "https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888"
-        }
-      ],
-      "duration_ms": 379576,
-      "name": "Black Muddy River",
-      "url": "https://open.spotify.com/track/4l6NIYohNjIPQQ4h1BTgNL"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Thick As Thieves",
         "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Black Muddy River",
+        "url": "https://open.spotify.com/album/4NEAI6IneYPx1gyD0drCON"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        },
+        {
+          "name": "Anders Osborne",
+          "url": "https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888"
+        }
+      ],
+      "duration_ms": 379576,
+      "name": "Black Muddy River",
+      "url": "https://open.spotify.com/track/4l6NIYohNjIPQQ4h1BTgNL"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
+        "name": "When I'm Free",
+        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
+      },
+      "artists": [
+        {
+          "name": "Hot Rize",
+          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "You Were on My Mind This Morning",
+      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
         "name": "Wild as We Came Here",
         "url": "https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "When I'm Free",
-        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
+        "name": "Seasons Don't Change",
+        "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
       },
       "artists": [
         {
-          "name": "Hot Rize",
-          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
         }
       ],
-      "duration_ms": 182120,
-      "name": "You Were on My Mind This Morning",
-      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
+      "duration_ms": 269133,
+      "name": "Seasons Don't Change",
+      "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 202053,
       "name": "If I Could Talk To A Younger Me",
       "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Seasons Don't Change",
-        "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
-      },
-      "artists": [
-        {
-          "name": "Town Mountain",
-          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Seasons Don't Change",
-      "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Cinnamon Tree",
-        "url": "https://open.spotify.com/album/0arXqCi4zIfsH1wrQeVvux"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Buck Creek Girls",
-      "url": "https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Stress Dreams",
         "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 281953,
       "name": "Monument",
       "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Cinnamon Tree",
+        "url": "https://open.spotify.com/album/0arXqCi4zIfsH1wrQeVvux"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 124013,
+      "name": "Buck Creek Girls",
+      "url": "https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
-      },
-      "artists": [
-        {
-          "name": "Mikele Buck Band",
-          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
-        }
-      ],
-      "duration_ms": 223404,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Narrow Line",
         "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 275746,
       "name": "Narrow Line",
       "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+      },
+      "artists": [
+        {
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+        }
+      ],
+      "duration_ms": 223404,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Firebound Road",
-        "url": "https://open.spotify.com/album/1z3HBD32gxoPdnRUFP0HXR"
-      },
-      "artists": [
-        {
-          "name": "Town Mountain",
-          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Firebound Road",
-      "url": "https://open.spotify.com/track/1IZKl9DScdfu56ssIfg87r"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Honey on My Tongue",
         "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/7dWU9dceisIvOkZuteFl1A"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Firebound Road",
+        "url": "https://open.spotify.com/album/1z3HBD32gxoPdnRUFP0HXR"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Firebound Road",
+      "url": "https://open.spotify.com/track/1IZKl9DScdfu56ssIfg87r"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
       "artists": [
         {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 348849,
       "name": "Planets",
       "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2022-09-02 04:00:00",

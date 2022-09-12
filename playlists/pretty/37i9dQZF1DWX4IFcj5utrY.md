@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm?si=i41oyAQgTGmIXx561D4aLQ">Dave Audinary</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,486 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,510 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

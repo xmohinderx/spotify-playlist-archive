@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,784 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,843 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 17 | [ISoft Life](https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg) | [Kristelle](https://open.spotify.com/artist/1mSLccW06KhvdQfhRj1gQu), [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [ISoft Life](https://open.spotify.com/album/2z6E4fBqrkgUSxECpYyx9T) | 5:48 |
 | 18 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 |
 | 19 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
-| 20 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 20 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 21 | [On Di Low](https://open.spotify.com/track/4bcpjP8x9RovEBXVZwqZeB) | [Alutondo](https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [On Di Low](https://open.spotify.com/album/2gtTIIBEINcTUUFIHv7Mm5) | 3:39 |
 | 22 | [SPETA](https://open.spotify.com/track/7f9YEwrmfVGHkmZP72Py9l) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SPETA](https://open.spotify.com/album/2HOXUFzQ5fEtnCuYlJyzUL) | 2:52 |
 | 23 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |

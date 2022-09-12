@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Thilina Ruhunage
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,444 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,454 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

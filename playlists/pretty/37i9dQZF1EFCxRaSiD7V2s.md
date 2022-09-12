@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 224 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 224 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 34 | [Born To Lose](https://open.spotify.com/track/1RZrM3QXlKVjgRdNyoq1Xh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 3:52 |
 | 35 | [First Person](https://open.spotify.com/track/4WhL9Xll9tCEnxVpCROCTk) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 0:40 |
 | 36 | [Into Words](https://open.spotify.com/track/10uq7ViVwEavMr7UENvJIn) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:46 |
-| 37 | [Home Away from Home](https://open.spotify.com/track/6wm32QUgErztbOXTQFP0EO) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 4:28 |
-| 38 | [Dungeons and Dragons \- Generationals Remix](https://open.spotify.com/track/5Ji8BG6DxqoxigvwSBsat5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 3:44 |
+| 37 | [Dungeons and Dragons \- Generationals Remix](https://open.spotify.com/track/5Ji8BG6DxqoxigvwSBsat5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 3:44 |
+| 38 | [Home Away from Home](https://open.spotify.com/track/6wm32QUgErztbOXTQFP0EO) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 4:28 |
 | 39 | [Clean Break](https://open.spotify.com/track/6tTnQ36V82X5xdTABjCBl5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:02 |
 | 40 | [Tail Lights](https://open.spotify.com/track/2kd4ZriypOQLtGsbek2Xmf) | [rüün](https://open.spotify.com/artist/0JC0YtWmlbdFr4BYmmhy1n), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Jon Green](https://open.spotify.com/artist/6zFRLMTS6x3uxRQNVO0LUc) | [Tail Lights](https://open.spotify.com/album/4XmPok1yxi5k5JNYeLBNMd) | 3:10 |
 | 41 | [If I Didn't Know](https://open.spotify.com/track/1Z4oulm2H19GRohq4y4oW1) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:09 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 223 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 224 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc3MTQzMDksMDAwMDAwMDBmMDFjNDgzODZlMjYyMzZhYzIwY2E3YWEwNDE2ZjJiMQ==`
+Snapshot ID: `Mjc3MTU3NDksMDAwMDAwMDA4ZmFjYjUyYTQzOGZmMmUzMjI2NjRmNWZlYTYzMTQ4Yw==`

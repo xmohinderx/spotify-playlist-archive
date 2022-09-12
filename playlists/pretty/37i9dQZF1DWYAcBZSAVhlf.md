@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,209 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,532 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 28 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 29 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 |
 | 30 | [Tarzan Boy](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Living In The Background](https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9) | 6:18 |
-| 31 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 |
-| 32 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
+| 31 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
+| 32 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 |
 | 33 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
 | 34 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
 | 35 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin \(Reissue\)](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 44 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
 | 45 | [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 |
 | 46 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |
-| 47 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 |
-| 48 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
+| 47 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
+| 48 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 |
 | 49 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
 | 50 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 51 | [Live Is Life \(Digitally Remastered\) \(Single Version\)](https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Live Is Life](https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD) | 4:09 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 88 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
 | 89 | [Lambada \- Original Radio Edit](https://open.spotify.com/track/2VpdG2QLhVv6qAPdDt9Ipr) | [Kaoma](https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu) | [World Beat](https://open.spotify.com/album/3RWIENzO8frYhajwCHl7SL) | 3:28 |
 | 90 | [Break My Stride](https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:00 |
-| 91 | [You Can Leave Your Hat On](https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Cocker](https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1) | 4:15 |
-| 92 | [Stomp!](https://open.spotify.com/track/6VZdUa8JjaGF2LGsiRG9lC) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Light Up The Night](https://open.spotify.com/album/4DN3DenoWmadGEayQw2tDp) | 6:20 |
-| 93 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
+| 91 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
+| 92 | [You Can Leave Your Hat On](https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Cocker](https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1) | 4:15 |
+| 93 | [Stomp!](https://open.spotify.com/track/6VZdUa8JjaGF2LGsiRG9lC) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Light Up The Night](https://open.spotify.com/album/4DN3DenoWmadGEayQw2tDp) | 6:20 |
 | 94 | [You Drive Me Crazy](https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Shaky](https://open.spotify.com/album/05rSaDParyh27b5eomSA8P) | 2:51 |
 | 95 | [Freeze\-Frame](https://open.spotify.com/track/6QqK6a1CmV4L504uMQaGDH) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:57 |
 | 96 | [Get Outta My Dreams, Get into My Car](https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Tear Down These Walls](https://open.spotify.com/album/1tIJAV6PAVmH4E1rRZ5lJj) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 99 | [Hot In The City](https://open.spotify.com/track/5LeDMHIZ5YDZ2b1VOcYVcG) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 3:39 |
 | 100 | [Sisters Are Doin' It for Themselves \- Remastered Version](https://open.spotify.com/track/6pPCOXIQeNMr1oCWJTomSf) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 5:57 |
 
-Snapshot ID: `MTY1NDE1MjExNywwMDAwMDAwMDc1NGNkMDc1NGM3MmRmYTQ4ZGM0NjBmNjU2OTI5ZGI2`
+Snapshot ID: `MTY1NDE1MjExNywwMDAwMDAwMGZhMDdlNzI3YjRhM2U0OTdlNGVjMTdmZDFkYWM2ZDcz`

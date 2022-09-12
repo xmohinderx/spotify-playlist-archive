@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > A selection of the greatest alternative love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,633 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,876 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 35 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
 | 36 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
 | 37 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
-| 38 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
-| 39 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
+| 38 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
+| 39 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
 | 40 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 |
 | 41 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 42 | [You And I](https://open.spotify.com/track/7aohwSiTDju51QmC54AUba) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 57 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
 | 58 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 |
 | 59 | [Young Love \(feat\. Laura Marling\)](https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:22 |
-| 60 | [Into Your Arms](https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come On Feel The Lemonheads](https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq) | 2:44 |
-| 61 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
+| 60 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
+| 61 | [Into Your Arms](https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come On Feel The Lemonheads](https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq) | 2:44 |
 | 62 | [I Melt with You \(7" Mix\)](https://open.spotify.com/track/24y09nBEJNRP46uA0FRQQ2) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ) | 3:50 |
 | 63 | [Change Your Mind](https://open.spotify.com/track/2N7TN76tLuTcdn9UlS8ADT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:12 |
 | 64 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 79 | [English Rose](https://open.spotify.com/track/2R5zO3Zi0Of0v1DyxusWbk) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [All Mod Cons](https://open.spotify.com/album/1zB3OwsKut94AnGBazJUlZ) | 2:49 |
 | 80 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 |
 
-Snapshot ID: `MTY0NDUzNzIyOCwwMDAwMDAwMGZhZjdhMWRhOThjMmYwYzdkNjc5ODAwNzkyNGM0YjJi`
+Snapshot ID: `MTY0NDUzNzIyOCwwMDAwMDAwMGI5Yjk4N2VmNzQ4MDYzZmRlNjc5YjdhZTA0MmYxZDJk`

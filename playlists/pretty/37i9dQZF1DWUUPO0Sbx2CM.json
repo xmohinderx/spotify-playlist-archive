@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 102690,
+  "num_followers": 102769,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGYwZTIzNzA3NzM1Y2QxMzM3YTkyMDA2NWU5MmI2MWMz",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGE2YzYxY2ExYmUxNjE0ZmNjMDc3Y2MxNzlmNmYzZWM1",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 180469,
+      "name": "SLINGSHOT",
+      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+        "name": "Every Move I Make",
+        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
       },
       "artists": [
         {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
         }
       ],
-      "duration_ms": 180469,
-      "name": "SLINGSHOT",
-      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
+      "duration_ms": 132255,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -875,22 +891,6 @@
       "duration_ms": 161323,
       "name": "Fight My Fight For Me",
       "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Every Move I Make",
-        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
-      },
-      "artists": [
-        {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
-        }
-      ],
-      "duration_ms": 132255,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "BUENA ONDA",
-      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Together In This (From The Jungle Beat Motion Picture)",
         "url": "https://open.spotify.com/album/4wsn49kPVdAGxM1GnCVlEt"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "BUENA ONDA",
+      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Who Says?",
         "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Bring The Whole Hood",
-        "url": "https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
       "artists": [
         {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
         }
       ],
-      "duration_ms": 200035,
-      "name": "Bring The Whole Hood",
-      "url": "https://open.spotify.com/track/0T1WTePlsi8e1wAMKkEMi6"
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1103,6 +1087,22 @@
       "duration_ms": 200360,
       "name": "Way Truth Life - Live",
       "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Bring The Whole Hood",
+        "url": "https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 200035,
+      "name": "Bring The Whole Hood",
+      "url": "https://open.spotify.com/track/0T1WTePlsi8e1wAMKkEMi6"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Genesis of Terrian",
         "url": "https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0"
       },
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 221368,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 188473,
       "name": "Stages",
       "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Hills & Horizons",
-        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Better View",
         "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
     }
   ],
   "unique_name": "Christian Dance Party",

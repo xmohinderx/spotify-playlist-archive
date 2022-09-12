@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,858 likes - 54 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,053 likes - 54 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 30 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |
 | 31 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 |
 | 32 | [Cry Me A River](https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:30 |
-| 33 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
-| 34 | [Words Of Love](https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:57 |
+| 33 | [Words Of Love](https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:57 |
+| 34 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
 | 35 | [My Funny Valentine \- Remastered](https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Young Lovers](https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur) | 2:30 |
 | 36 | [Never Be Anyone Else But You \- Remastered](https://open.spotify.com/track/0snHlyyyUp2hKYEz7ffmkx) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:16 |
 | 37 | [Why Do I Love You So \- 1960 \#42 Billboard chart hit](https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:07 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 53 | [You Are My One Desire](https://open.spotify.com/track/4Ypc4CISFdkHHbOrrKQtrn) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:25 |
 | 54 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 
-Snapshot ID: `MTY0MTgxNTE5MSwwMDAwMDAwMGJjZGRiNjhiZDU0ZGQxODUyOTI4YTYwYjU2YTM2YWE5`
+Snapshot ID: `MTY0MTgxNTE5MSwwMDAwMDAwMDlkMTZhYzBiYTViMGM5NGMzOThkZDI4ZDJiYjYyM2Ni`

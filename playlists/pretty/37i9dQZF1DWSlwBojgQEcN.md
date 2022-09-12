@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,720,578 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,720,756 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 20 | [Wait for You](https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj) | 3:13 |
 | 21 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 22 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 |
-| 23 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 |
-| 24 | [Awake My Soul](https://open.spotify.com/track/3khbaRkdMXpwxd6Ege88gj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:15 |
+| 23 | [Awake My Soul](https://open.spotify.com/track/3khbaRkdMXpwxd6Ege88gj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:15 |
+| 24 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 |
 | 25 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 26 | [Breathe Again \- Acoustic](https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again \(Acoustic\)](https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D) | 3:18 |
 | 27 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 57 | [Hate The Way You Love Me](https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI) | 4:03 |
 | 58 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
 | 59 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
-| 60 | [Does Anybody Know](https://open.spotify.com/track/6E7MY8plyVrd0RWUDl63Kn) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 3:27 |
-| 61 | [Reunite](https://open.spotify.com/track/6zAwfCIoQIzw2iWXFHUSiN) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Isbells](https://open.spotify.com/album/6S4G8R2BGAFHzoKo4ngsfh) | 3:54 |
+| 60 | [Reunite](https://open.spotify.com/track/6zAwfCIoQIzw2iWXFHUSiN) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Isbells](https://open.spotify.com/album/6S4G8R2BGAFHzoKo4ngsfh) | 3:54 |
+| 61 | [Does Anybody Know](https://open.spotify.com/track/6E7MY8plyVrd0RWUDl63Kn) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 3:27 |
 | 62 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 63 | [Left for America](https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod) | 2:50 |
 | 64 | [Sea Of Love](https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Sea Of Love](https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg) | 3:23 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 90 | [Lonelily](https://open.spotify.com/track/4bdjQvuoDBAsxdUPmEIltt) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [B\-Sides](https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA) | 3:13 |
 | 91 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 |
 | 92 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 |
-| 93 | [I Can't Keep from Loving You](https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2) | [Andrew James](https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU) | [Shoreline](https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz) | 4:12 |
-| 94 | [Whatever You Do](https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:07 |
+| 93 | [Whatever You Do](https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:07 |
+| 94 | [I Can't Keep from Loving You](https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2) | [Andrew James](https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU) | [Shoreline](https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz) | 4:12 |
 | 95 | [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 |
 | 96 | [She](https://open.spotify.com/track/0VDVW6ui7ar03NepUExkgu) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Sirens](https://open.spotify.com/album/47sjvyYGXQAxXs1cObRdyJ) | 3:33 |
 | 97 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 | 98 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
-| 99 | [From This Valley \(Acoustic\)](https://open.spotify.com/track/479mN2R64gnerKnaOZLGxm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones](https://open.spotify.com/album/3j20dJIvxqGow9FA4LI53d) | 3:29 |
-| 100 | [Come on Love](https://open.spotify.com/track/35pLMarTq9RgZXcrw1z5xa) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [Come on Love](https://open.spotify.com/album/0bKj9xIVBgyql7UW9qZZnL) | 4:32 |
+| 99 | [Come on Love](https://open.spotify.com/track/35pLMarTq9RgZXcrw1z5xa) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [Come on Love](https://open.spotify.com/album/0bKj9xIVBgyql7UW9qZZnL) | 4:32 |
+| 100 | [From This Valley \(Acoustic\)](https://open.spotify.com/track/479mN2R64gnerKnaOZLGxm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones](https://open.spotify.com/album/3j20dJIvxqGow9FA4LI53d) | 3:29 |
 
-Snapshot ID: `MTY0NDg3NDk0MCwwMDAwMDAwMDkyOGEwNTMzMGVhZDZkMjBhN2FmZGUwMWRhNmQ2N2Jj`
+Snapshot ID: `MTY0NDg3NDk0MCwwMDAwMDAwMDI3ZmE1MjIwYzg4ZDU2ZTBjNTNjYTNhN2QyYWNiOGMx`

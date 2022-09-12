@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,325 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,505 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 26 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 |
 | 27 | [Ain't Talkin' 'Bout Dub](https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Electro Glide In Blue](https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8) | 4:30 |
 | 28 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
-| 29 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 |
-| 30 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
+| 29 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
+| 30 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 |
 | 31 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 |
 | 32 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
 | 33 | [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm) | 5:19 |
 | 50 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH) | 4:58 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDU3YTdkMGUwZmFhZGY2OWIwMmE5ZmZjNDhkNGMxOTFk`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDFjZGMwZmIxZWE3MWRjNWQ5NGRkMjk0MjcwZmExYWUz`

@@ -4,7 +4,7 @@
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-126 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/7GSaTmZoXJlwkWZt50V739)
+127 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/7GSaTmZoXJlwkWZt50V739)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 | 2022-06-07 |  |
 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 | 2021-08-18 |  |
 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 | 2021-08-18 |  |
+| [Gita](https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ['Gîtâ'](https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U) | 4:47 | 2021-08-18 |  |
 | [Gita](https://open.spotify.com/track/1DYzTTaSD8KsmzedIuZTO7) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [20 Grandes Sucessos De Raul Seixas](https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU) | 4:48 | 2021-08-18 | 2022-07-29 |
 | [God Only Knows \- Mono / 1997 Remastered](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 | 2021-08-18 |  |
 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2021-08-18 |  |
@@ -110,7 +111,7 @@
 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:53 | 2021-08-18 |  |
 | [Tempos Modernos](https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:44 | 2021-08-18 |  |
 | [This Time Tomorrow](https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:21 | 2021-08-18 | 2022-09-04 |
-| [This Time Tomorrow \(Stereo\) \- 2014 Remastered Version](https://open.spotify.com/track/1hlfAVmWBxdpUp4PK658rR) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:24 | 2021-08-18 |  |
+| [This Time Tomorrow \(Stereo\) \- 2014 Remastered Version](https://open.spotify.com/track/1hlfAVmWBxdpUp4PK658rR) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:24 | 2021-08-18 | 2022-09-12 |
 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 | 2021-08-18 | 2022-07-29 |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2021-08-18 |  |
 | [Time Of The Season](https://open.spotify.com/track/3vMfr8H7hGbOLoddLdCQU4) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey & Oracle\_ 30th Anniversary Edition](https://open.spotify.com/album/4f1WyuUDKJsfFMjUytsbA3) | 3:34 | 2021-08-18 | 2022-06-08 |

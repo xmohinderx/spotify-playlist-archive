@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,835 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,941 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 50 | [Wind of Change](https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1) | [Fred Ventura](https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC) | [Disco Modernism \(1983 \- 2008\)](https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu) | 6:11 |
 | 51 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
 | 52 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
-| 53 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 |
-| 54 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 |
+| 53 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 |
+| 54 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 |
 | 55 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
 | 56 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
 | 57 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 61 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 |
 | 62 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 |
 | 63 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
-| 64 | [Bambina \(Original 12\-Inch Version\)](https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD) | [David Lyme](https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1) | [Bambina c/o Bye Bye Mi Amor](https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb) | 5:31 |
-| 65 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 |
+| 64 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 |
+| 65 | [Bambina \(Original 12\-Inch Version\)](https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD) | [David Lyme](https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1) | [Bambina c/o Bye Bye Mi Amor](https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb) | 5:31 |
 | 66 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
 | 67 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 | 68 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Jamin'](https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:57 |
 | 75 | [Orient Express \- Vocal](https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV) | [Wish Key](https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl) | [Orient Express](https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv) | 7:08 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGFlNDhmYzU4ZmE2NDViNGUxOGQwYTFhYjk2NThmZTgz`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDI3YTdkMTI2M2EzNTI3YWE4ZmVjZGFiNDE2OTkzZWZj`

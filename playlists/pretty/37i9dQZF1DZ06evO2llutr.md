@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,882 likes - 38 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,414 likes - 38 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,26 +25,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 15 | [Motorcycle Drive By](https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:41 |
 | 16 | [Cold Damn Vampires](https://open.spotify.com/track/7y2mezWO3hkfyugI2s9WQp) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 4:52 |
 | 17 | [Revival](https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:41 |
-| 18 | [Snow](https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:58 |
-| 19 | [Us Then](https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:46 |
+| 18 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 |
+| 19 | [Snow](https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:58 |
 | 20 | [Late July](https://open.spotify.com/track/3i7mKjZKmslCFMxS1WM7DO) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:58 |
-| 21 | [Summertime Blues](https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0) | 3:01 |
-| 22 | [Flying or Crying](https://open.spotify.com/track/7oPTiW1fZyvIPeYOZTY4Wh) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:49 |
-| 23 | [Twenty So](https://open.spotify.com/track/6W2PvnTNWUgxCJxRh84ALu) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:19 |
+| 21 | [Us Then](https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 2:46 |
+| 22 | [Summertime Blues](https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0) | 3:01 |
+| 23 | [Flying or Crying](https://open.spotify.com/track/7oPTiW1fZyvIPeYOZTY4Wh) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:49 |
 | 24 | [Happy Instead](https://open.spotify.com/track/6QA2m3HgJaMF62jPguGMry) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 4:09 |
-| 25 | [Let You Down](https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:29 |
-| 26 | [Don't Give up on Me](https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 3:23 |
-| 27 | [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 |
-| 28 | [Leaving](https://open.spotify.com/track/4cA2NmoE75r4yU7oeq4QGG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:27 |
-| 29 | [Traveling Man](https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
-| 30 | [Open the Gate](https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Open the Gate](https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc) | 3:54 |
-| 31 | [Hell or Highwater \- Live](https://open.spotify.com/track/3y8HeC82z6JzIcnLEj0GcO) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Studio A Recordings \(Live\)](https://open.spotify.com/album/6K77XaXUfKyBHyow6u7XPl) | 2:51 |
-| 32 | [From a Lover's Point of View](https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:04 |
-| 33 | [Birmingham](https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:26 |
-| 34 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 |
+| 25 | [Twenty So](https://open.spotify.com/track/6W2PvnTNWUgxCJxRh84ALu) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:19 |
+| 26 | [Let You Down](https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:29 |
+| 27 | [Don't Give up on Me](https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 3:23 |
+| 28 | [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 |
+| 29 | [Leaving](https://open.spotify.com/track/4cA2NmoE75r4yU7oeq4QGG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:27 |
+| 30 | [Traveling Man](https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
+| 31 | [Open the Gate](https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Open the Gate](https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc) | 3:54 |
+| 32 | [Hell or Highwater \- Live](https://open.spotify.com/track/3y8HeC82z6JzIcnLEj0GcO) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Studio A Recordings \(Live\)](https://open.spotify.com/album/6K77XaXUfKyBHyow6u7XPl) | 2:51 |
+| 33 | [From a Lover's Point of View](https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:04 |
+| 34 | [Birmingham](https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:26 |
 | 35 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
 | 36 | [Quiet, Heavy Dreams](https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 2:54 |
 | 37 | [Come as You Are](https://open.spotify.com/track/3j611OSMDlz3IYsJNGj0BY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 4:45 |
 | 38 | [Codeine Pills \- Part One](https://open.spotify.com/track/3OBXZXFYDouFlKdlFO6NLC) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:16 |
 
-Snapshot ID: `Mjc3MTM2MTEsMDAwMDAwMDBiZmI5NjZlZmFkYzlhMDVhYWM2YzM1MDBmNjFhMmNiNw==`
+Snapshot ID: `Mjc3MTUwNDgsMDAwMDAwMDBhOGYzYWE5ZjZlZmRhZTk5NDE1ZDg1MDEwM2FiZjFlOQ==`

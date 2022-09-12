@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,041 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,110 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 46 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 |
 | 47 | [Shadow Boxing](https://open.spotify.com/track/3ZNOVvDYMXlT2mosIkzoiU) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 2:59 |
 | 48 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 |
-| 49 | [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 |
+| 49 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDQwNTFjYWI3YTZjOWM5ODliZjgzNzNjY2M2ZGIxODEx`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDVmODhmODViMDZjZTU4ZmQ0YTQwMDA0MDdkNzQwZDA5`

@@ -1,12 +1,12 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 268037,
+  "num_followers": 268505,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1NDE1OSwwMDAwMDAwMDliMjIxMzZkY2YwMmQxMzk3NzM1MmJkMWZlNTZhYjNh",
+  "snapshot_id": "MTY2MDc1NDE1OSwwMDAwMDAwMGRkNzAzZTRhZDVlYWEyMmQ0N2RkMTJhYWViZGJkNDEy",
   "tracks": [
     {
       "added_at": "2022-03-24 13:07:25",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "A Voz Do Meu Samba - Ao Vivo",
+        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "18K",
         "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 140968,
       "name": "Fun Tonight - Pabllo Vittar Remix",
       "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "A Voz Do Meu Samba - Ao Vivo",
-        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "50 Reais",
-        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 207104,
-      "name": "50 Reais",
-      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Vai Embrazando",
         "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 166060,
       "name": "Vai Embrazando",
       "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "50 Reais",
+        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 207104,
+      "name": "50 Reais",
+      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Ainda Bem Que Eu Segui as Batidas do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2YWDBpZGMXcvkCu05Zb87z"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Ela Me Faz",
-      "url": "https://open.spotify.com/track/2B5AbenHFTVtThonFDvg9x"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Hello mundo (Ao vivo)",
         "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 157494,
       "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
       "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Ainda Bem Que Eu Segui as Batidas do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2YWDBpZGMXcvkCu05Zb87z"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Ela Me Faz",
+      "url": "https://open.spotify.com/track/2B5AbenHFTVtThonFDvg9x"
     },
     {
       "added_at": "2022-03-24 13:07:25",

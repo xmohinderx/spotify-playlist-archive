@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 388056,
+  "num_followers": 388126,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyMjY0NiwwMDAwMDAwMDllODI4NDI0MmJmNWVjNTU3ZTJjNjdiMGFlNGQyOGMz",
+  "snapshot_id": "MTY2MjYyMjY0NiwwMDAwMDAwMGRkOGEwZWU1OGQ1NDA5YTc0YjJmMjg2NjIwZjM3NjNl",
   "tracks": [
     {
       "added_at": "2022-09-08 07:37:26",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
+        "name": "The Impulse Story",
+        "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Groove Waltz",
+      "url": "https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 466600,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "The Impulse Story",
-        "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Groove Waltz",
-      "url": "https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
+        "name": "Heartsongs",
+        "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch Trio",
+          "url": "https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP"
+        }
+      ],
+      "duration_ms": 514897,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
         "name": "Another Standard",
         "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 424132,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "Heartsongs",
-        "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch Trio",
-          "url": "https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP"
-        }
-      ],
-      "duration_ms": 514897,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        }
+      ],
+      "duration_ms": 290447,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -871,6 +887,22 @@
       "duration_ms": 286600,
       "name": "Joy Is Sorrow Unmasked",
       "url": "https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "There Should Be",
+        "url": "https://open.spotify.com/album/5cj8BBEipY6So0TWG7TLJq"
+      },
+      "artists": [
+        {
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "There Should Be",
+      "url": "https://open.spotify.com/track/4OWELAW8bSXtGVdEm0atsP"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -891,18 +923,18 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
-        "name": "There Should Be",
-        "url": "https://open.spotify.com/album/5cj8BBEipY6So0TWG7TLJq"
+        "name": "Uptown, Downtown",
+        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
       },
       "artists": [
         {
-          "name": "Harry Allen",
-          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
         }
       ],
-      "duration_ms": 278386,
-      "name": "There Should Be",
-      "url": "https://open.spotify.com/track/4OWELAW8bSXtGVdEm0atsP"
+      "duration_ms": 405973,
+      "name": "Bon ami",
+      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -935,34 +967,42 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
+        "name": "Moods",
+        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
         }
       ],
-      "duration_ms": 290447,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
+      "duration_ms": 462208,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3"
     },
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
-        "name": "Uptown, Downtown",
-        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
+        "name": "Connections Home",
+        "url": "https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po"
       },
       "artists": [
         {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
         }
       ],
-      "duration_ms": 405973,
-      "name": "Bon ami",
-      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
+      "duration_ms": 335618,
+      "name": "Connections",
+      "url": "https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -987,46 +1027,6 @@
       "duration_ms": 270890,
       "name": "Letter to Evan",
       "url": "https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "Connections Home",
-        "url": "https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 335618,
-      "name": "Connections",
-      "url": "https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "Moods",
-        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
-      },
-      "artists": [
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
-        }
-      ],
-      "duration_ms": 462208,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
-        "name": "The Sequel",
-        "url": "https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum"
-      },
-      "artists": [
-        {
-          "name": "Mulgrew Miller",
-          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
-        },
-        {
-          "name": "Wingspan",
-          "url": "https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd"
-        }
-      ],
-      "duration_ms": 485133,
-      "name": "The Sequel",
-      "url": "https://open.spotify.com/track/4iCOzZYiSCljWB7D7t87JT"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
         "name": "On the Trail",
         "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 298991,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/6KkSnMvEWLyArGwgTP6Jrp"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "The Sequel",
+        "url": "https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum"
+      },
+      "artists": [
+        {
+          "name": "Mulgrew Miller",
+          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
+        },
+        {
+          "name": "Wingspan",
+          "url": "https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd"
+        }
+      ],
+      "duration_ms": 485133,
+      "name": "The Sequel",
+      "url": "https://open.spotify.com/track/4iCOzZYiSCljWB7D7t87JT"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
+        "name": "Send In the Clowns",
+        "url": "https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "duration_ms": 321306,
+      "name": "Send In the Clowns",
+      "url": "https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
         "name": "Phil's Mood",
         "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 391240,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "Send In the Clowns",
-        "url": "https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0"
-      },
-      "artists": [
-        {
-          "name": "Peter Nordahl Trio",
-          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
-        }
-      ],
-      "duration_ms": 321306,
-      "name": "Send In the Clowns",
-      "url": "https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/3fovoZLSTt2B0UuGcmARs6"
-      },
-      "artists": [
-        {
-          "name": "Danny Grissett",
-          "url": "https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Kendrick Scott",
-          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
-        }
-      ],
-      "duration_ms": 423520,
-      "name": "Cambridge Place",
-      "url": "https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
         "name": "Barcode",
         "url": "https://open.spotify.com/album/36Xt075p8VSDs0wTkfcciE"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 264150,
       "name": "It's a Blue World",
       "url": "https://open.spotify.com/track/24FZPmTSx4fba5N24y9rNp"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/3fovoZLSTt2B0UuGcmARs6"
+      },
+      "artists": [
+        {
+          "name": "Danny Grissett",
+          "url": "https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        }
+      ],
+      "duration_ms": 423520,
+      "name": "Cambridge Place",
+      "url": "https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
-        "name": "To Satch and Duke",
-        "url": "https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B"
-      },
-      "artists": [
-        {
-          "name": "Axel Schlosser Quartet",
-          "url": "https://open.spotify.com/artist/1gyU95deycuGxh38euzxip"
-        }
-      ],
-      "duration_ms": 317643,
-      "name": "In a Mellow Tone",
-      "url": "https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 398160,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/11AL6tbocPeqYeriqsjFEZ"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "To Satch and Duke",
+        "url": "https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B"
+      },
+      "artists": [
+        {
+          "name": "Axel Schlosser Quartet",
+          "url": "https://open.spotify.com/artist/1gyU95deycuGxh38euzxip"
+        }
+      ],
+      "duration_ms": 317643,
+      "name": "In a Mellow Tone",
+      "url": "https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1547,6 +1547,74 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
+        "name": "European Quartet: Introspection",
+        "url": "https://open.spotify.com/album/7FQXxckwupKgu1XuqBTPhM"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "duration_ms": 339434,
+      "name": "The Peacocks",
+      "url": "https://open.spotify.com/track/1yPQ2JxsmeE0E2KQqBnFEn"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "The Time is Now",
+        "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Al Foster",
+          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
+        }
+      ],
+      "duration_ms": 405907,
+      "name": "Cabin in the Sky",
+      "url": "https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "A Word from the Wise",
+        "url": "https://open.spotify.com/album/2WwQoU5Zv0lUoUfqwBw46n"
+      },
+      "artists": [
+        {
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
+        }
+      ],
+      "duration_ms": 357935,
+      "name": "A Word from the Wise",
+      "url": "https://open.spotify.com/track/2wBbbh6C5jyUunEvom98pJ"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/2WNi7GjqE18Me0yisREjZV"
       },
@@ -1583,110 +1651,6 @@
       "duration_ms": 316186,
       "name": "A Ballad for Now",
       "url": "https://open.spotify.com/track/6NYcahuBLO4sVuahWWF5V5"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "The Time is Now",
-        "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Al Foster",
-          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
-        }
-      ],
-      "duration_ms": 405907,
-      "name": "Cabin in the Sky",
-      "url": "https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "European Quartet: Introspection",
-        "url": "https://open.spotify.com/album/7FQXxckwupKgu1XuqBTPhM"
-      },
-      "artists": [
-        {
-          "name": "Walt Weiskopf",
-          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Andreas Lang",
-          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
-        }
-      ],
-      "duration_ms": 339434,
-      "name": "The Peacocks",
-      "url": "https://open.spotify.com/track/1yPQ2JxsmeE0E2KQqBnFEn"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "Guardians of the Heart Machine",
-        "url": "https://open.spotify.com/album/0XJ08jnqwmTt8qWDs100Ut"
-      },
-      "artists": [
-        {
-          "name": "Seamus Blake",
-          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
-        },
-        {
-          "name": "Tony Tixier",
-          "url": "https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX"
-        },
-        {
-          "name": "Florent Nisse",
-          "url": "https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA"
-        },
-        {
-          "name": "Gautier Garrigue",
-          "url": "https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Blues for the Real Human Beings",
-      "url": "https://open.spotify.com/track/0z0h5dEifAcrPVRoSYisRO"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "Standards Live",
-        "url": "https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Gary Peacock",
-          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 483533,
-      "name": "The Wrong Blues",
-      "url": "https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1743,6 +1707,58 @@
     {
       "added_at": "2022-09-08 07:37:26",
       "album": {
+        "name": "Standards Live",
+        "url": "https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 483533,
+      "name": "The Wrong Blues",
+      "url": "https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "Guardians of the Heart Machine",
+        "url": "https://open.spotify.com/album/0XJ08jnqwmTt8qWDs100Ut"
+      },
+      "artists": [
+        {
+          "name": "Seamus Blake",
+          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
+        },
+        {
+          "name": "Tony Tixier",
+          "url": "https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX"
+        },
+        {
+          "name": "Florent Nisse",
+          "url": "https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA"
+        },
+        {
+          "name": "Gautier Garrigue",
+          "url": "https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Blues for the Real Human Beings",
+      "url": "https://open.spotify.com/track/0z0h5dEifAcrPVRoSYisRO"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
         "name": "Dimensions",
         "url": "https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 279253,
       "name": "At That Moment",
       "url": "https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "A Word from the Wise",
-        "url": "https://open.spotify.com/album/2WwQoU5Zv0lUoUfqwBw46n"
-      },
-      "artists": [
-        {
-          "name": "Doxas Brothers",
-          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
-        }
-      ],
-      "duration_ms": 357935,
-      "name": "A Word from the Wise",
-      "url": "https://open.spotify.com/track/2wBbbh6C5jyUunEvom98pJ"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1795,6 +1795,22 @@
       "duration_ms": 324133,
       "name": "Song for Selene (I'll Meet You in My Dreams)",
       "url": "https://open.spotify.com/track/7667MFk3EPtbJJrXpPPmAg"
+    },
+    {
+      "added_at": "2022-09-08 07:37:26",
+      "album": {
+        "name": "Scratch",
+        "url": "https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh"
+      },
+      "artists": [
+        {
+          "name": "Hanbeen Park",
+          "url": "https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f"
+        }
+      ],
+      "duration_ms": 349360,
+      "name": "Walking With You",
+      "url": "https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs"
     },
     {
       "added_at": "2022-09-08 07:37:26",
@@ -1855,22 +1871,6 @@
       "duration_ms": 267240,
       "name": "Arthur Go",
       "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
-    },
-    {
-      "added_at": "2022-09-08 07:37:26",
-      "album": {
-        "name": "Scratch",
-        "url": "https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh"
-      },
-      "artists": [
-        {
-          "name": "Hanbeen Park",
-          "url": "https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f"
-        }
-      ],
-      "duration_ms": 349360,
-      "name": "Walking With You",
-      "url": "https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs"
     },
     {
       "added_at": "2022-09-08 07:37:26",

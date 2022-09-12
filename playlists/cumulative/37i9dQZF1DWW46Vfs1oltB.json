@@ -2160,6 +2160,28 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "City Lights (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk"
+    },
+    {
+      "album": {
         "name": "Seoul Vibe (Original Soundtrack from The Netflix Film)",
         "url": "https://open.spotify.com/album/6uZBJUJZY1gkxBGxfksbHs"
       },
@@ -9343,6 +9365,36 @@
       "duration_ms": 168750,
       "name": "Pop It (feat. Koonta)",
       "url": "https://open.spotify.com/track/1cAmgjeeYnrXoRrwEr9Kjr"
+    },
+    {
+      "album": {
+        "name": "Pop It Remix (feat. Coogie, Hash Swan, Woo)",
+        "url": "https://open.spotify.com/album/096cIXel9ix7DufCcaiiUZ"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210042,
+      "name": "Pop It Remix (feat. Coogie, Hash Swan, Woo)",
+      "url": "https://open.spotify.com/track/3CSRoCBnPbLXb0OYKPTux6"
     },
     {
       "album": {

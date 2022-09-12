@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,003 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,045 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 23 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 | 24 | [how big is your brain?](https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:05 |
 | 25 | [She's Quiet \(Acoustic\)](https://open.spotify.com/track/4NlqCEZY5njqLwUR18hcTV) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/6Lr7fmCihSri2QStZmumN4) | 3:20 |
-| 26 | [Down for the Ride](https://open.spotify.com/track/3StdQf9neW5XYw1cQOVq0j) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU), [Jessie Abbey](https://open.spotify.com/artist/4CBfoF9c6LRT464xfoQe1V) | [Revision](https://open.spotify.com/album/2GgNLsLfmPMKseIhslzMFG) | 4:58 |
-| 27 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
+| 26 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
+| 27 | [Down for the Ride](https://open.spotify.com/track/3StdQf9neW5XYw1cQOVq0j) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU), [Jessie Abbey](https://open.spotify.com/artist/4CBfoF9c6LRT464xfoQe1V) | [Revision](https://open.spotify.com/album/2GgNLsLfmPMKseIhslzMFG) | 4:58 |
 | 28 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
 | 29 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 30 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 71 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
 | 72 | [Limits \- Unplugged](https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5) | 3:16 |
 | 73 | [Losing Sleep](https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf) | [Hazel](https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX) | [Losing Sleep](https://open.spotify.com/album/3haT6irm5636PSIscDmtWp) | 3:57 |
-| 74 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
-| 75 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
+| 74 | [Violets](https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Violets](https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7) | 3:54 |
+| 75 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
 
-Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMGMyMjczNzVmYzBiZWM0MGU5ZGY2MjkwZjJhZDJhNWNi`
+Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMDI5YzA2YWMzMWZiMDUxOThjNzY3YWU0NmMyZjY5ZDky`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-541 songs - 1 day 7 hr 8 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
+542 songs - 1 day 7 hr 10 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2021-03-27 | 2021-03-29 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-27\* | 2021-04-11 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-26 |
-| [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-06 |  |
+| [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-06 | 2022-09-12 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-18 | 2022-03-26 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-02 |
@@ -407,6 +407,7 @@
 | [RIP, Love](https://open.spotify.com/track/5bhScOnz96mFv9s2WaUbQ4) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love \(Arem Ozguc & Arman Aydin Remix\)](https://open.spotify.com/album/6XUoqQQB12MiUBfaJ23iYo) | 2:53 | 2022-05-07 | 2022-05-12 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-10-23 | 2021-11-09 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-25 | 2021-12-27 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-11 |  |
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-08-14 |
 | [Rose \- English Version](https://open.spotify.com/track/2shyarF21wZvWew00TdaP3) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-08-01 |
 | [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-08-28 |  |

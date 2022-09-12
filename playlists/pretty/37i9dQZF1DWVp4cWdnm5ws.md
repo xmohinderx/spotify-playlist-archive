@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,168 likes - 41 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,203 likes - 41 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ayoko Pa](https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Ayoko Pa](https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ) | 3:14 |
+| 1 | [Ayoko Pa](https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Cursebox](https://open.spotify.com/artist/52REqNdtIQAapIZ4WEwBVg) | [Ayoko Pa](https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ) | 3:14 |
 | 2 | [Made For All](https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Made For All](https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7) | 2:00 |
 | 3 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 |
 | 4 | [3rd Eye](https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:45 |

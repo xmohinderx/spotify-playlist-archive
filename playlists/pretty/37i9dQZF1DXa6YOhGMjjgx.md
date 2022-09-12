@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > This is the best of today's true alternative rock scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,638 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,675 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 35 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
 | 36 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 |
 | 37 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
-| 38 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
-| 39 | [Lava Lamp Pisco](https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 4:01 |
+| 38 | [Lava Lamp Pisco](https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 4:01 |
+| 39 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
 | 40 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 |
 | 41 | [Robot Writes A Love Song](https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:36 |
 | 42 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 49 | [\[Insert Girls Name Here\]](https://open.spotify.com/track/3TXyUyEa1BtBvxuxxh0bW8) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Room's On Fire](https://open.spotify.com/album/09cAjP3r3Pb0nma7l0wVXM) | 3:08 |
 | 50 | [Wake Me Up](https://open.spotify.com/track/0RlXTPB45QFzwniFiRp0Dw) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Wake Me Up](https://open.spotify.com/album/7zG1k0DfpTEEJatzn0HEFr) | 3:42 |
 | 51 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 |
-| 52 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
-| 53 | [Shame](https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Sego Sucks](https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB) | 3:20 |
+| 52 | [Shame](https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Sego Sucks](https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB) | 3:20 |
+| 53 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
 | 54 | [Rockstar](https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:09 |
 | 55 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
 | 56 | [Back Foot](https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Back Foot](https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 |
 | 100 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 |
 
-Snapshot ID: `MTY1MTIwNDg2MCwwMDAwMDAwMDkxYzZmYWY2NjZlN2EyMGNlNjhhM2Q5YmJlZjcyZjhl`
+Snapshot ID: `MTY1MTIwNDg2MCwwMDAwMDAwMDZkM2ZlYjA1MzJhOTdmZWE2M2U0NjU2MjYxZDFmOGIz`

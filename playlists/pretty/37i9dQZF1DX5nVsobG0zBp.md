@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,688 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,738 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 21 | [Moncler](https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5V9MRkH3TQlZJKtHJl00kV) | 3:40 |
 | 22 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
 | 23 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
-| 24 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
-| 25 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
+| 24 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
+| 25 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 26 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 |
 | 27 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 |
 | 28 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 59 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 60 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDYzMmYxMTA0NTM3ZTI5MWE5Y2Q0YWUwMTEwZjY0Mzcz`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDExZmQ2MjNhNzZjZDYyNzc0NTdhOTQ3OTFiZTQ4NWJl`

@@ -5980,6 +5980,24 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
+    },
+    {
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -6525,7 +6543,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 169047,
       "name": "JAUCIUOSI LAISVAI",
       "url": "https://open.spotify.com/track/73YwAp1830h6nrJeXyuDtS"
@@ -7087,7 +7105,7 @@
       ],
       "date_added": "2021-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 179782,
       "name": "Kunigunda",
       "url": "https://open.spotify.com/track/4y8aCoEUWXCHAgKo0cDcNy"
@@ -9895,7 +9913,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 151730,
       "name": "OG KUSH",
       "url": "https://open.spotify.com/track/0OV10DAExSQ1ELBsriojqi"
@@ -11767,7 +11785,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -13751,7 +13769,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
@@ -15057,7 +15075,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -15801,7 +15819,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"

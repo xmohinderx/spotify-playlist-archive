@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Camaleoa Arte: Isu Kim",
-  "num_followers": 11708,
+  "num_followers": 11717,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGIxNTdkMDJlZjQwNDRkOGYxODlhNTBlMWYzN2Y2ZjBl",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDQxNjUzN2IwNjRkZDU2Y2Q0MzMzZWFiZGEzMGQ3YTQ5",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "N\u00e3o Sou Boa Com Palavras",
+      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "F\u00eanix",
         "url": "https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 226386,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "N\u00e3o Sou Boa Com Palavras",
-      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Chuva de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U"
-      },
-      "artists": [
-        {
-          "name": "Yasmim Silveira",
-          "url": "https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s"
-        },
-        {
-          "name": "Raphael Garrido",
-          "url": "https://open.spotify.com/artist/4NgK77VcKix9IFvO78qzLT"
-        }
-      ],
-      "duration_ms": 180158,
-      "name": "Chuva de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "A ROSA DOS VENTOS",
         "url": "https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf"
       },
@@ -207,6 +187,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Chuva de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U"
+      },
+      "artists": [
+        {
+          "name": "Yasmim Silveira",
+          "url": "https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s"
+        },
+        {
+          "name": "Raphael Garrido",
+          "url": "https://open.spotify.com/artist/4NgK77VcKix9IFvO78qzLT"
+        }
+      ],
+      "duration_ms": 180158,
+      "name": "Chuva de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Rouquid\u00e3o",
         "url": "https://open.spotify.com/album/6Lb82lCrQr6b0ZkhSAox9u"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 161250,
       "name": "Rouquid\u00e3o",
       "url": "https://open.spotify.com/track/4zoAger8ZaHL6bRujicqSF"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Olha Como Eu T\u00f4",
+        "url": "https://open.spotify.com/album/3WNrDFToTMdb3MlPywHOQb"
+      },
+      "artists": [
+        {
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
+        }
+      ],
+      "duration_ms": 157105,
+      "name": "Olha Como Eu T\u00f4",
+      "url": "https://open.spotify.com/track/0i0DDCEvMEG1slOYL3Or7h"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Olha Como Eu T\u00f4",
-        "url": "https://open.spotify.com/album/3WNrDFToTMdb3MlPywHOQb"
-      },
-      "artists": [
-        {
-          "name": "Giovanna",
-          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
-        }
-      ],
-      "duration_ms": 157105,
-      "name": "Olha Como Eu T\u00f4",
-      "url": "https://open.spotify.com/track/0i0DDCEvMEG1slOYL3Or7h"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "DEPRIMIDA",
         "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/3bNEsR5sEVn4EMfpNtLxDS"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "meu bem, meu bem",
         "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 168562,
       "name": "meu bem, meu bem",
       "url": "https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/3bNEsR5sEVn4EMfpNtLxDS"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "<del>",
-        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
-      },
-      "artists": [
-        {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
-        }
-      ],
-      "duration_ms": 114081,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Cicatriz",
         "url": "https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 147413,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "<del>",
+        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 114081,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -523,6 +523,22 @@
       "duration_ms": 145297,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Secos e Molhados",
+        "url": "https://open.spotify.com/album/6vjaUebAivNAnI242kJIIj"
+      },
+      "artists": [
+        {
+          "name": "UTOPIXXXTA",
+          "url": "https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Secos e Molhados",
+      "url": "https://open.spotify.com/track/0GMhjwdwL5MHQGH6xErzQL"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -627,22 +643,34 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Pretinha",
-        "url": "https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56"
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
       },
       "artists": [
         {
-          "name": "Demark",
-          "url": "https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC"
-        },
-        {
-          "name": "Must",
-          "url": "https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt"
+          "name": "Maielle",
+          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
         }
       ],
-      "duration_ms": 106930,
-      "name": "Pretinha",
-      "url": "https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI"
+      "duration_ms": 208264,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+      },
+      "artists": [
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -663,6 +691,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Pretinha",
+        "url": "https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56"
+      },
+      "artists": [
+        {
+          "name": "Demark",
+          "url": "https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC"
+        },
+        {
+          "name": "Must",
+          "url": "https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt"
+        }
+      ],
+      "duration_ms": 106930,
+      "name": "Pretinha",
+      "url": "https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "UM",
         "url": "https://open.spotify.com/album/4BrdjlUCGMUkAqbSVVH7N0"
       },
@@ -679,22 +727,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Secos e Molhados",
-        "url": "https://open.spotify.com/album/6vjaUebAivNAnI242kJIIj"
-      },
-      "artists": [
-        {
-          "name": "UTOPIXXXTA",
-          "url": "https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Secos e Molhados",
-      "url": "https://open.spotify.com/track/0GMhjwdwL5MHQGH6xErzQL"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Rebuli\u00e7o",
         "url": "https://open.spotify.com/album/4fsZp3nHy7vFiFHbov9rbw"
       },
@@ -707,22 +739,6 @@
       "duration_ms": 227637,
       "name": "Rebuli\u00e7o",
       "url": "https://open.spotify.com/track/3l8NUXSdk2sofDn6hcnkR1"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -747,18 +763,34 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
       },
       "artists": [
         {
-          "name": "Maielle",
-          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
         }
       ],
-      "duration_ms": 208264,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/5mp5bJyYlTmwYimlpL3aoV"
+      },
+      "artists": [
+        {
+          "name": "MAD\u00da",
+          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/1ZpViwwk8iEKbPucwMXZR7"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -779,22 +811,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
-      },
-      "artists": [
-        {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
-        }
-      ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "O Fim do Mundo",
         "url": "https://open.spotify.com/album/0divz8MH1pM0Bl0Yc0MXqs"
       },
@@ -807,6 +823,22 @@
       "duration_ms": 169388,
       "name": "O Fim do Mundo",
       "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Toda Vez Que Tu Sorri",
+        "url": "https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Toda Vez Que Tu Sorri",
+      "url": "https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -843,22 +875,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Toda Vez Que Tu Sorri",
-        "url": "https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Toda Vez Que Tu Sorri",
-      "url": "https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Quartas",
         "url": "https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 235337,
       "name": "Quarta Obra",
       "url": "https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/5mp5bJyYlTmwYimlpL3aoV"
-      },
-      "artists": [
-        {
-          "name": "MAD\u00da",
-          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/1ZpViwwk8iEKbPucwMXZR7"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "A Rua e Seus Encantos",
+        "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
+      },
+      "artists": [
+        {
+          "name": "Bella Mattar",
+          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Culpa do Ver\u00e3o",
+      "url": "https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Toda Rabadinha",
         "url": "https://open.spotify.com/album/3g7UnIxeGOJr0PGkRuhXRb"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "A Rua e Seus Encantos",
-        "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
+        "name": "Sedu\u00e7\u00e3o Vegetal",
+        "url": "https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh"
       },
       "artists": [
         {
-          "name": "Bella Mattar",
-          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
+          "name": "Matheus Souto",
+          "url": "https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Culpa do Ver\u00e3o",
-      "url": "https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk"
+      "duration_ms": 335164,
+      "name": "Sedu\u00e7\u00e3o Vegetal",
+      "url": "https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1023,18 +1039,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Sedu\u00e7\u00e3o Vegetal",
-        "url": "https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh"
+        "name": "Boemia, de Fato",
+        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
       },
       "artists": [
         {
-          "name": "Matheus Souto",
-          "url": "https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp"
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "LOX",
+          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
         }
       ],
-      "duration_ms": 335164,
-      "name": "Sedu\u00e7\u00e3o Vegetal",
-      "url": "https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO"
+      "duration_ms": 176000,
+      "name": "Amor de Mar",
+      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1059,22 +1079,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Eu N\u00e3o Aceito",
-        "url": "https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg"
-      },
-      "artists": [
-        {
-          "name": "THAIIS",
-          "url": "https://open.spotify.com/artist/6rk3l4BH83MMtX4snVTZM7"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Eu N\u00e3o Aceito",
-      "url": "https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "bem vi",
         "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
@@ -1091,6 +1095,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Eu N\u00e3o Aceito",
+        "url": "https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg"
+      },
+      "artists": [
+        {
+          "name": "THAIIS",
+          "url": "https://open.spotify.com/artist/6rk3l4BH83MMtX4snVTZM7"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Eu N\u00e3o Aceito",
+      "url": "https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Ida\u00ed",
         "url": "https://open.spotify.com/album/0iVRUGL5GGMetJWjNAKDOM"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 162406,
       "name": "Ida\u00ed",
       "url": "https://open.spotify.com/track/2eB3z0UXLOc9pK6VP9lNZI"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Boemia, de Fato",
-        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "LOX",
-          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Amor de Mar",
-      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1155,6 +1155,26 @@
       "duration_ms": 105263,
       "name": "Longe Daqui",
       "url": "https://open.spotify.com/track/2dLB3PppSIb8Q1FeAEfCW6"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "0800",
+        "url": "https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf"
+      },
+      "artists": [
+        {
+          "name": "enzo dicarlo",
+          "url": "https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2"
+        },
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/6UzTLaO4vzhybwSrD6Mnik"
+        }
+      ],
+      "duration_ms": 189818,
+      "name": "celular",
+      "url": "https://open.spotify.com/track/4Favpt6XGeo3pQ7x9lgfEe"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1283,26 +1303,6 @@
       "duration_ms": 140898,
       "name": "Boi Bacana",
       "url": "https://open.spotify.com/track/3cccuih9bCMA8Q3M9XJttH"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "0800",
-        "url": "https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf"
-      },
-      "artists": [
-        {
-          "name": "enzo dicarlo",
-          "url": "https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2"
-        },
-        {
-          "name": "adieu",
-          "url": "https://open.spotify.com/artist/6UzTLaO4vzhybwSrD6Mnik"
-        }
-      ],
-      "duration_ms": 189818,
-      "name": "celular",
-      "url": "https://open.spotify.com/track/4Favpt6XGeo3pQ7x9lgfEe"
     },
     {
       "added_at": "2022-09-09 03:00:00",

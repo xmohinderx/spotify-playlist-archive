@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: EST Gee
 
-468 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+469 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,8 @@
 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-07-29 | 2022-09-03 |
 | [Very Special](https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Sampler](https://open.spotify.com/album/3wTBdbTjE7aGH1e7WEs7A3) | 2:17 | 2022-04-15 | 2022-07-29 |
 | [Very Special](https://open.spotify.com/track/63udrqw7YGYVqTNdBqgyKy) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:17 | 2022-07-22 | 2022-08-27 |
-| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-06-24 |  |
+| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-06-24 | 2022-09-12 |
+| [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 | 2022-09-02 |  |
 | [Violence](https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Violence](https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3) | 3:54 | 2022-06-24 | 2022-08-13 |
 | [Vlad TV \(feat\. Stove God Cooks, Symba & Major Myjah\)](https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Symba](https://open.spotify.com/artist/01988BWUnQiclJ70TTcnOq), [Major Myjah](https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 4:27 | 2022-02-04 | 2022-03-26 |
 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [BOA Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 | 2022-06-03 | 2022-06-25 |

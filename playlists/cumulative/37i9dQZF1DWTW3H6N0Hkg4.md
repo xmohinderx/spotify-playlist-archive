@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-231 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
+232 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Amigos Nada Más](https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:30 | 2022-06-07 | 2022-07-29 |
 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 | 2022-06-07 |  |
 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 | 2022-06-07 |  |
-| [Amor De Adolescentes](https://open.spotify.com/track/1ksna7ji7FVlKDpq6FUHSE) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98) | 3:10 | 2022-07-19 |  |
+| [Amor De Adolescentes](https://open.spotify.com/track/1ksna7ji7FVlKDpq6FUHSE) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98) | 3:10 | 2022-07-19 | 2022-09-12 |
+| [Amor De Adolescentes](https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:10 | 2022-07-19 |  |
 | [Amor de Internet](https://open.spotify.com/track/0tAxedQQR6bPR26BlfZ8d2) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Amor de Internet](https://open.spotify.com/album/4EUUeYCNRYC0eTdlPKF7Rl) | 3:50 | 2022-07-19 |  |
 | [Amor de Internet](https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Amor de Internet](https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW) | 3:50 | 2021-10-19 | 2022-07-29 |
 | [Amor De Unas Horas](https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Música Sin Limites \- Tropical](https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp) | 2:41 | 2021-10-19 |  |

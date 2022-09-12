@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,505 likes - 48 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,637 likes - 48 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 21 | [El Cuchi Cuchi](https://open.spotify.com/track/4zWXW9mUa0L0v9vxNmsJ0T) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [Mayimbe Full](https://open.spotify.com/album/38iX3I9Fltkp1vk2YVVMW4) | 5:02 |
 | 22 | [La Entrevista \- Remasterizado](https://open.spotify.com/track/4wL59G4Nur3paBanDT6egw) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Charanga Light 2 \(Remasterizado\)](https://open.spotify.com/album/43l3qE1gOKj6mMuNsXJzej) | 4:52 |
 | 23 | [Tu Me Recordarás](https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 6:32 |
-| 24 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
-| 25 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
+| 24 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
+| 25 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 26 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
 | 27 | [La Llamada De Mi Ex](https://open.spotify.com/track/3DsOQD00s3Z6Km4WvtMkJt) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Los Creadores Del Sonido](https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl) | 3:31 |
 | 28 | [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:42 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 |
 | 48 | [Bailando \- Official Salsa Version](https://open.spotify.com/track/2CyRtX6QaCnaDtbqNo9aGU) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Latin Fitness 2015 \(Workout Party Music \- Latin Hits ideal for Running, Fat Burning, Aerobic, Gym, Cardio, Training, Exercise\)](https://open.spotify.com/album/16tOGqmdb9JZMykQt8HBCH) | 4:33 |
 
-Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMGI4OWYzMzhjZDgzNDRhYWVlMjRiYzhmNGYwODUwNjVi`
+Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMDEzYTFmYjU2MWVkMTMwNjVmYjZiZDdlMzc4ZmY5MWFi`

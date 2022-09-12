@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,725 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,918 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

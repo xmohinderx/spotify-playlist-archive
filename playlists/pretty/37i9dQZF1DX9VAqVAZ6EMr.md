@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 
 > De Britney a Madonna, os maiores hits do pop estão reunidos nesta playlist\. Foto: Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,733 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,799 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
-| 2 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
-| 3 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
+| 2 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
+| 3 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
 | 4 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
 | 5 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 6 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 15 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 |
 | 16 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 17 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
-| 18 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
-| 19 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 18 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 19 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 | 20 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 |
 | 21 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 22 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 31 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
 | 32 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 |
 | 33 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
-| 34 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
-| 35 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 |
+| 34 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 |
+| 35 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
 | 36 | [Only Girl \(In The World\)](https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 3:55 |
 | 37 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 |
 | 38 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 43 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 44 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 45 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
-| 46 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
-| 47 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 46 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
+| 47 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
 | 48 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
 | 49 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 50 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 
-Snapshot ID: `MTYzNDI2NjgwMCwwMDAwMDAwMDZiZDQyNmQyNjJmMGNlY2JlYWJiMTUyMGU3YjYwYmE3`
+Snapshot ID: `MTYzNDI2NjgwMCwwMDAwMDAwMDFkMzM1NGEwZjIyNjNmZDZhNzE1MTRmZmE4NDEyZTg3`

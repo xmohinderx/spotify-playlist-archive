@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 138 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 138 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 79 | [Take You Back](https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:49 |
 | 80 | [All the Rage](https://open.spotify.com/track/3YluA8dmCEws59Nm2JHnss) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/58ppn50PYPsFVVkC2L7eFs) | 3:06 |
 | 81 | [Oh God \(feat\. Konshens\)](https://open.spotify.com/track/7cs2ujAGExV7scDYTPLsMX) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Oh God \(feat\. Konshens\)](https://open.spotify.com/album/2puY2Kn8P7AAPV8GuH6f6Q) | 3:17 |
-| 82 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
-| 83 | [Half of You](https://open.spotify.com/track/30H1zqTlhaPLlbGyTD21n6) | [Bram Inscore](https://open.spotify.com/artist/0Utgbb1Imx2ujqQafJU3h9), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:40 |
-| 84 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
+| 82 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
+| 83 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
+| 84 | [Half of You](https://open.spotify.com/track/30H1zqTlhaPLlbGyTD21n6) | [Bram Inscore](https://open.spotify.com/artist/0Utgbb1Imx2ujqQafJU3h9), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:40 |
 | 85 | [SANCTUARY](https://open.spotify.com/track/6DP8nbZpPLgWboZf1ABRzj) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 4:39 |
 | 86 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
 | 87 | [Open Book](https://open.spotify.com/track/0u9EMAFCKDIwiSS2wGLk0K) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why?](https://open.spotify.com/album/48I2gzctst5EmUaVNUsnwL) | 4:48 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 137 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 138 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Mjc3MTQzMTUsMDAwMDAwMDA4MmU0OTk3YmExNTZiYmU4NWE3ZGY0ZGUyZDgyODNjYQ==`
+Snapshot ID: `Mjc3MTU3NTUsMDAwMDAwMDBhMzcxNWRjNmU0NzQzYTI1YmJjZGE3NGZlYjg5NzE3NQ==`

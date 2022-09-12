@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 
 > Soul classics to keep you company in the kitchen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,099 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,135 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 7 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 |
 | 8 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 9 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
-| 10 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
-| 11 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
+| 10 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
+| 11 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 12 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
 | 13 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
 | 14 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 35 | [Try Me](https://open.spotify.com/track/7bFfjakySYhojqSPrAPtc3) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Please, Please, Please](https://open.spotify.com/album/3LtxQmfIb10p6xKrPObqgv) | 2:33 |
 | 36 | [Hung Up On My Baby](https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tough Guys](https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8) | 6:17 |
 | 37 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
-| 38 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
-| 39 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
+| 38 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
+| 39 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
 | 40 | [Chain Gang](https://open.spotify.com/track/7v1858htfU0srTDwhxeka8) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Swing Low](https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq) | 2:35 |
 | 41 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
 | 42 | [You Beat Me To The Punch \- Stereo Version](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 49 | [90% of Me Is You](https://open.spotify.com/track/2VjCG66lTrzYvOBmsKm5pU) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [For Your Love](https://open.spotify.com/album/4YKWpDwRnENw1rq4TdEf7Z) | 2:47 |
 | 50 | [Lawdy Miss Clawdy](https://open.spotify.com/track/0Xwr2EmFyn4hPTnU4lBvRH) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 1:51 |
 
-Snapshot ID: `MTY0ODQ5ODkzNSwwMDAwMDAwMGUzYzZjMzRkNDgyYzExMDc2ZWU2MTk4OGU1YzE4YTMx`
+Snapshot ID: `MTY0ODQ5ODkzNSwwMDAwMDAwMDNlMzQwZWU2MDcxNDJlZmI3NWY1MTkwOWIwM2NmMGUz`

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 398063,
+  "num_followers": 398053,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGMwOGQ0ZDRhZjE4ZjkxMTIxMDAzZTE3ZDNkODc3OWJm",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDgyOGQ4MzJlOTg4MjZjMDk4Y2IxNjZkN2U5ODIwNTU2",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -139,26 +139,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "The Funk",
-        "url": "https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj"
-      },
-      "artists": [
-        {
-          "name": "TIEKS",
-          "url": "https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "The Funk",
-      "url": "https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Exotica (Deluxe)",
         "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "The Funk",
+        "url": "https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj"
+      },
+      "artists": [
+        {
+          "name": "TIEKS",
+          "url": "https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "The Funk",
+      "url": "https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk"
     },
     {
       "added_at": "2022-06-30 22:02:00",

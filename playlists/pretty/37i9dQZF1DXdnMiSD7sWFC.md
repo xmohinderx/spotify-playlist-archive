@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 
 > your guide for a peaceful night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,177 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,271 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,31 +47,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 37 | [On the Outside](https://open.spotify.com/track/2SIAABhWXJWDHLfx51VdDc) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:09 |
 | 38 | [Opaline](https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Opaline](https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79) | 3:12 |
 | 39 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
-| 40 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 |
-| 41 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 |
-| 42 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/7sxr5Pvovng4ECTiCqeSWm) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Ode to Joy](https://open.spotify.com/album/0RR7qfOCOOHXbPAO1P3G5b) | 3:33 |
+| 40 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/7sxr5Pvovng4ECTiCqeSWm) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Ode to Joy](https://open.spotify.com/album/0RR7qfOCOOHXbPAO1P3G5b) | 3:33 |
+| 41 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 |
+| 42 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 |
 | 43 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 44 | [Sugar Baby](https://open.spotify.com/track/2azVRgjUiKxEoUn9loNAFO) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [All Is Well](https://open.spotify.com/album/21MiDyKUukfBWOtMeZa7Ul) | 5:24 |
 | 45 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
 | 46 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
-| 47 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
-| 48 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
+| 47 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
+| 48 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
 | 49 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
 | 50 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
-| 51 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
-| 52 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
+| 51 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
+| 52 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
 | 53 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
 | 54 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
-| 55 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 |
-| 56 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 |
+| 55 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 |
+| 56 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 |
 | 57 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 |
 | 58 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 |
 | 59 | [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 |
 | 60 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
 | 61 | [Thrift Store](https://open.spotify.com/track/73sQ8REIBnQfqg6ZHAgfoz) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Endless Chase: 2020 Singles](https://open.spotify.com/album/3Bwkxb1PPKKBK9ZRpBhsZ9) | 3:22 |
 | 62 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
-| 63 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 |
-| 64 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
+| 63 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
+| 64 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 |
 | 65 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 |
 | 66 | [I Can Go With You](https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [I Can Go With You](https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj) | 3:36 |
 | 67 | [New Auburn \(feat\. Anaïs Mitchell\)](https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 79 | [May Flowers](https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [May Flowers](https://open.spotify.com/album/6b6lr7abIADkzifUd8gNfE) | 3:30 |
 | 80 | [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 |
 
-Snapshot ID: `MTY0MjAxMDMwNCwwMDAwMDAwMDliOTYzNmM4Y2VlZThjY2RmOThkMDNmZjRlOGUxNTgz`
+Snapshot ID: `MTY0MjAxMDMwNCwwMDAwMDAwMGE3YWI1ZjJiYWFhOTA4NGJlNWYzOGEwZjQyNzA1YTIz`

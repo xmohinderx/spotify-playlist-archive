@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 
 > Unwind to these easy classics from the 2010s...
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,097 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,193 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 59 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 |
 | 60 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 |
 | 61 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
-| 62 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
-| 63 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 |
+| 62 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 |
+| 63 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
 | 64 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
 | 65 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
-| 66 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
-| 67 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
+| 66 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
+| 67 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
 | 68 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
 | 69 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
 | 70 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 79 | [Hold On, We're Going Home](https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 3:47 |
 | 80 | [Lego House](https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:05 |
 
-Snapshot ID: `MTY0MjUwNTU4NywwMDAwMDAwMGJhODRlODYwZjQzZTk5ZDkxYmJjMGY4OTdiMmIyZjdi`
+Snapshot ID: `MTY0MjUwNTU4NywwMDAwMDAwMDg4MWRlYzc3YWNhYTA3ODAwYWU4YzljZmQ1ZTQwYWE3`

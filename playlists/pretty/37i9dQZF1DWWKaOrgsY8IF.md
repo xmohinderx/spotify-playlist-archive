@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,564 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,578 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 16 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 |
 | 17 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
 | 18 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 |
-| 19 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 |
-| 20 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 |
+| 19 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 |
+| 20 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 |
 | 21 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 22 | [Agua \(with J Balvin\)](https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:39 |
 | 23 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 49 | [Flamenkito](https://open.spotify.com/track/4fsj5oMLYrCUlTDs4P9qw5) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Flamenkito](https://open.spotify.com/album/1gXu9jczbkEdYN6FNekRqH) | 3:22 |
 | 50 | [4 besos](https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [4 besos](https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC) | 3:52 |
 | 51 | [Ella Dice](https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Ella Dice](https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS) | 2:41 |
-| 52 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 |
+| 52 | [High](https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [High](https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2) | 3:07 |
 | 53 | [El Equivocado](https://open.spotify.com/track/6yCrxyjQxkdYpNexoNixK2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trece](https://open.spotify.com/album/17iAbw8ZsuixaaATKdBIEB) | 3:39 |
-| 54 | [High](https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [High](https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2) | 3:07 |
+| 54 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 |
 | 55 | [La Lá](https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:17 |
 | 56 | [Bésame](https://open.spotify.com/track/2qON8SpeBDBSoWCvDKuwbU) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bésame](https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE) | 3:20 |
 | 57 | [DOSIS](https://open.spotify.com/track/0cDumxvNKhydP1Cmon2S6E) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [DOSIS](https://open.spotify.com/album/0gTAsJ7rKWbnHrZg8mOHVV) | 3:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 | 60 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 
-Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMGE1MjJiNDk3OGE4YTVhYzNlOTMzNmE5ZTE3ODAyZjBh`
+Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMDc4YzhiNDZjZjhhYzk2MDM3YTViMjQ0MGExYmFiMmVj`

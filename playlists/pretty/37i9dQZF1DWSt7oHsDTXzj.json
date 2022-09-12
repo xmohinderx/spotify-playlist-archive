@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110120,
+  "num_followers": 110123,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDZiZTgzYjFjNWZiNzEwMGQ5M2VhN2JlMzk3YWU3MDNm",
+  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDlhNWNmMzBmMTcxNGFlMDZmZmI5MDQ1Zjk2MWU0YWIx",
   "tracks": [
     {
       "added_at": "2021-11-12 17:11:33",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
+        "name": "O\u2019Holy Night",
+        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+      },
+      "artists": [
+        {
+          "name": "Kat Cunning",
+          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "O\u2019Holy Night",
+      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
         "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "O\u2019Holy Night",
-        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge"
       },
       "artists": [
         {
-          "name": "Kat Cunning",
-          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
         }
       ],
-      "duration_ms": 173402,
-      "name": "O\u2019Holy Night",
-      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
+      "duration_ms": 233717,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -695,22 +711,6 @@
       "duration_ms": 188720,
       "name": "Just Like Christmas",
       "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo"
     },
     {
       "added_at": "2021-11-12 17:11:33",

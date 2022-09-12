@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 > The biggest rock songs of the last decade\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,876 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,970 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 11 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |
 | 12 | [BURN IT DOWN](https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:50 |
 | 13 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
-| 14 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
-| 15 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 |
+| 14 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 |
+| 15 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
 | 16 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
 | 17 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
 | 18 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 |
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 41 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
 | 42 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
 | 43 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 |
-| 44 | [Supersoaker](https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
-| 45 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
-| 46 | [Born For Greatness](https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 |
+| 44 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
+| 45 | [Supersoaker](https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
+| 46 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
 | 47 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 |
-| 48 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
+| 48 | [Born For Greatness](https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 |
 | 49 | [Bored To Death](https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:55 |
 | 50 | [Ghost](https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:19 |
 | 51 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 52 | [Kings And Queens](https://open.spotify.com/track/4sjLcE0GQ6urc4iUXsUPe9) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 5:47 |
-| 53 | [Mr\. Doctor Man](https://open.spotify.com/track/1yIMrzF45Ven2FzPFAr0Gg) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Boom Boom Room \(Side A\)](https://open.spotify.com/album/3N9J3rnfoDQmYLHTcRm1VB) | 4:04 |
-| 54 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 |
+| 53 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 |
+| 54 | [Mr\. Doctor Man](https://open.spotify.com/track/1yIMrzF45Ven2FzPFAr0Gg) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Boom Boom Room \(Side A\)](https://open.spotify.com/album/3N9J3rnfoDQmYLHTcRm1VB) | 4:04 |
 | 55 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
 | 56 | [Many of Horror](https://open.spotify.com/track/0Au4QRVX0hwIRVv1svcqhD) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD) | 4:18 |
 | 57 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 69 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
 | 70 | [T\-Shirt Weather](https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers](https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i) | 3:12 |
 
-Snapshot ID: `MTY1ODQxOTU5OSwwMDAwMDAwMDkwZDAxYjQ5ZmM5NmE1ZmQwYjcyN2E0ZjkxMThlZDNj`
+Snapshot ID: `MTY1ODQxOTU5OSwwMDAwMDAwMDg2MjY3MTI2OTllNzZkYjZmY2ExMDY5NTU0MTM2ZWUz`

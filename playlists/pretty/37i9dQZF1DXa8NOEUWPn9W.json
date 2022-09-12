@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: Dom Dolla",
-  "num_followers": 1673169,
+  "num_followers": 1673656,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGMxNTZkOGQ4MjA2MDQ5YzkxYTZmZDUwOGVlZjY0MmRj",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGMyNDk3NWI2ZTdlZGU0NjNmZTNkOGUwMmQ3MWIzYWNl",
   "tracks": [
     {
       "added_at": "2022-07-18 16:40:14",
@@ -547,26 +547,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Check Out",
-        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 174138,
-      "name": "Check Out",
-      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Lauren (I Can't Stay Forever)",
         "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 150991,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Check Out",
+        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 174138,
+      "name": "Check Out",
+      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 194523,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Sete",
         "url": "https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE"
-      },
-      "artists": [
-        {
-          "name": "Jethro Heston",
-          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
-        }
-      ],
-      "duration_ms": 156209,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp"
-    },
-    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "Under The Sun",
@@ -899,6 +883,50 @@
       "duration_ms": 208374,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE"
+      },
+      "artists": [
+        {
+          "name": "Jethro Heston",
+          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
+        }
+      ],
+      "duration_ms": 156209,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Remember (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 199967,
+      "name": "Remember (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -957,34 +985,6 @@
       "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Remember (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Danny Howard",
-          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 199967,
-      "name": "Remember (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
-    },
-    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "My Paradise",
@@ -999,22 +999,6 @@
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Don\u2019t Keep Me Waiting",
-        "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Don\u2019t Keep Me Waiting",
-      "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1039,6 +1023,22 @@
       "duration_ms": 172258,
       "name": "You & I - Emily Nash Remix",
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting",
+        "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Don\u2019t Keep Me Waiting",
+      "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1137,6 +1137,26 @@
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
     },
     {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "Dancing",
@@ -1169,26 +1189,6 @@
       "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "I Want You",
@@ -1203,26 +1203,6 @@
       "duration_ms": 219401,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "I Confess (feat. ROM\u00c9O)",
-        "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "ROM\u00c9O",
-          "url": "https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2"
-        }
-      ],
-      "duration_ms": 157875,
-      "name": "I Confess (feat. ROM\u00c9O)",
-      "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
       "added_at": "2022-08-23 16:47:20",
@@ -1243,6 +1223,26 @@
       "duration_ms": 154859,
       "name": "People Ain't Dancing (feat. Kah-Lo)",
       "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "I Confess (feat. ROM\u00c9O)",
+        "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "ROM\u00c9O",
+          "url": "https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "I Confess (feat. ROM\u00c9O)",
+      "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/1LYnqAYDUa6vsj8IwraI9J"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 165853,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/54C72WBiGX5leus7p8y418"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Love Vibration",
-        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 180487,
-      "name": "Love Vibration",
-      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "This Feeling (Yotto Remix)",
@@ -1719,6 +1703,22 @@
       "duration_ms": 236078,
       "name": "This Feeling - Yotto Remix",
       "url": "https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Love Vibration",
+        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 180487,
+      "name": "Love Vibration",
+      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1779,22 +1779,18 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Tell You What It Is",
-        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         }
       ],
-      "duration_ms": 187491,
-      "name": "Tell You What It Is",
-      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
+      "duration_ms": 191953,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1815,18 +1811,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg"
+        "name": "Tell You What It Is",
+        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
       },
       "artists": [
         {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 191953,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB"
+      "duration_ms": 187491,
+      "name": "Tell You What It Is",
+      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
     },
     {
       "added_at": "2022-08-12 04:02:00",

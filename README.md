@@ -505,6 +505,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Baby Sleep Aid: Rain Sounds](/playlists/pretty/37i9dQZF1DXdp5bwJ1FHFe.md)
 - [Baby Sleep Aid: White Noise](/playlists/pretty/37i9dQZF1DXby8tlLbzqaH.md)
 - [Baby Sleep: Nature Sounds](/playlists/pretty/37i9dQZF1DX5ZTdvWvQHAL.md)
+- [Bach Piano](/playlists/pretty/37i9dQZF1DWTLz6aEnpwGt.md)
 - [Bachata Classics](/playlists/pretty/37i9dQZF1DX65py6HnnlE1.md)
 - [Bachata Lovers](/playlists/pretty/37i9dQZF1DX7MTlMMRl0MD.md)
 - [Bachatéame](/playlists/pretty/37i9dQZF1DX43c0ftmnMBx.md)

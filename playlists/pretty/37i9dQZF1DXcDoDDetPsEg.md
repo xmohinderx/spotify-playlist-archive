@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,076 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,131 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 40 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 41 | [Favourite Girl](https://open.spotify.com/track/1QuiYqQ3zBKzf3bmi6W6bo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:16 |
 | 42 | [Fantasy](https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Fantasy](https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD) | 2:36 |
-| 43 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 43 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 44 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
 | 45 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
 | 46 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/5LYsEBLHY4PwmK1MRic1mr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 3:38 |

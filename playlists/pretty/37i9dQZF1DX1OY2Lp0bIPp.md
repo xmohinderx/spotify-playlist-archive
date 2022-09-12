@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,307 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,326 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 13 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
 | 14 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
 | 15 | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) | 3:49 |
-| 16 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
-| 17 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
+| 16 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
+| 17 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
 | 18 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 |
 | 19 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
 | 20 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 60 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
 | 61 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 |
 | 62 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
-| 63 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 64 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
+| 63 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
+| 64 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 65 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 66 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 |
 | 67 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 99 | [Hideaway](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 4:11 |
 | 100 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 |
 
-Snapshot ID: `MTU5ODU0MzkwMSwwMDAwMDAwMGUxZjYwYWIxNDhkMGI4YTUzNzhkMjMzOGFkZWVkZTE0`
+Snapshot ID: `MTU5ODU0MzkwMSwwMDAwMDAwMDFiZWYwMWNlYzdiZGM3ODY2ZmM4MmM4OTA5ZGJlNDlk`

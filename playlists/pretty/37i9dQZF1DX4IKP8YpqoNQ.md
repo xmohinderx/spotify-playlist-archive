@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,801 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,816 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 73 | [Let's Get It On \- Live At The London Palladium/1976](https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live At The London Palladium](https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU) | 6:21 |
 | 74 | [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \(Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006\)](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 |
 | 75 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 |
-| 76 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
-| 77 | [I'd Rather Go Blind](https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Live From San Francisco](https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn) | 4:55 |
+| 76 | [I'd Rather Go Blind](https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Live From San Francisco](https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn) | 4:55 |
+| 77 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
 | 78 | [Lady \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 8:59 |
 | 79 | [I Wish I Knew How It Would Feel to Be Free \- Live – Montreux Jazz Festival 1976](https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm) | 6:07 |
 | 80 | [Walk With Me \- Live from Blackbird Studio](https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB) | 3:42 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 92 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 |
 | 93 | [A Song for You \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 5:48 |
 | 94 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
-| 95 | [Good Morning Heartache \(feat\. Jill Scott\) \- Live Audio from The Wilshire Theatre](https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Live With Orchestra And Special Guests](https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7) | 5:31 |
-| 96 | [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 |
+| 95 | [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 |
+| 96 | [Good Morning Heartache \(feat\. Jill Scott\) \- Live Audio from The Wilshire Theatre](https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Live With Orchestra And Special Guests](https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7) | 5:31 |
 | 97 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |
 | 98 | [You Can't See for Lookin' \- Live](https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 5:48 |
 | 99 | [California Dreamin' \- Live In Hollywood / 1968](https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack Live](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 6:06 |
 | 100 | [Woman Of The Ghetto \- Live From The Montreux Jazz Festival,Switzerland/1973](https://open.spotify.com/track/3BykBzEvJtKzlUAzlRaxky) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Live At The Montreux](https://open.spotify.com/album/0x0qaQ9pSWLzAgFo2NKmju) | 9:58 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDI5OTg1NjM5OTY2N2YyZmU4MWMzNTM1ZmU5ZDM4YzVh`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDgwYjY5NDcxZWRlNThhYWVmMTBlMzI2ZTc0YWVlNGZk`

@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 159293,
+  "num_followers": 159313,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzMDA3NywwMDAwMDAwMDBhODg3ZTc3ZDZiM2FjMjNiNzk3YzgwZGIzZjgwNzYz",
+  "snapshot_id": "MTY2MjEzMDA3NywwMDAwMDAwMGI2N2NkNzEzYTAyNmJlMjhlNjNkMTFiZWVlZWNhOTQ0",
   "tracks": [
     {
       "added_at": "2022-06-30 13:51:59",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -511,6 +511,22 @@
       "duration_ms": 174000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -579,38 +595,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "The Lady Killer",
-        "url": "https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY"
-      },
-      "artists": [
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "Little Girl Blue (2013 Remastered Version)",
         "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 215746,
       "name": "My Baby Just Cares for Me - 2013 Remastered Version",
       "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "The Lady Killer",
+        "url": "https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"
     },
     {
       "added_at": "2022-06-30 13:51:59",

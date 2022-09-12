@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-133 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+134 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 | 2022-05-18 |  |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2022-02-01 | 2022-05-19 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2022-02-01 |  |
-| [INTO THE UNKNOWN](https://open.spotify.com/track/6RgMjFGFDYSfMSKxbyQseJ) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/3sRYWksIy88qpwLHJTItae) | 3:58 | 2022-07-22 |  |
+| [INTO THE UNKNOWN](https://open.spotify.com/track/3Y6CWrNdkuaJ5iW2Y829fU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 3:58 | 2022-07-22 |  |
+| [INTO THE UNKNOWN](https://open.spotify.com/track/6RgMjFGFDYSfMSKxbyQseJ) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/3sRYWksIy88qpwLHJTItae) | 3:58 | 2022-07-22 | 2022-09-12 |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 | 2022-05-18 | 2022-07-29 |
 | [Jadi Buti](https://open.spotify.com/track/5MZ3ZUvMFbS0zKis6DwmAM) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Music Is The Weapon](https://open.spotify.com/album/0B0YAftqQVpzUD7K12wDVg) | 2:43 | 2021-11-26 | 2022-02-02 |
 | [Jalebi Baby \(Tesher x Jason Derulo\) \[DallasK Remix\]](https://open.spotify.com/track/4zKTu2n2ExlcLkx9KHUpeb) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Jalebi Baby \(Tesher x Jason Derulo\) \[DallasK Remix\]](https://open.spotify.com/album/7Gz8KFyOaJ67RTRicF5n7F) | 2:41 | 2022-02-01 | 2022-05-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 265750,
+  "num_followers": 265913,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNzUyOCwwMDAwMDAwMGMwNTlkMjYyNzMzZmE2ZTMyNzM2MWQ1YjNkOTk4Yjc1",
+  "snapshot_id": "MTY2MjczNzUyOCwwMDAwMDAwMGNmYTFjYjA5NGM1NGM2YzYxNzFmMWEyM2E0NmNhZDJi",
   "tracks": [
     {
       "added_at": "2022-09-09 15:32:07",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Ronda",
-        "url": "https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "Ronda",
-      "url": "https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Ronda",
+        "url": "https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "Ronda",
+      "url": "https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -279,34 +279,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Love Will Tear Us Apart (Tensnake Remix)",
-        "url": "https://open.spotify.com/album/1rp9zBathyKcYfnh34hunq"
-      },
-      "artists": [
-        {
-          "name": "R Plus",
-          "url": "https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh"
-        },
-        {
-          "name": "Amelia Fox",
-          "url": "https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 220776,
-      "name": "Love Will Tear Us Apart - Tensnake Remix",
-      "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Something About",
         "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
@@ -319,6 +291,22 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -355,18 +343,30 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+        "name": "Love Will Tear Us Apart (Tensnake Remix)",
+        "url": "https://open.spotify.com/album/1rp9zBathyKcYfnh34hunq"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "R Plus",
+          "url": "https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh"
+        },
+        {
+          "name": "Amelia Fox",
+          "url": "https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
         }
       ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+      "duration_ms": 220776,
+      "name": "Love Will Tear Us Apart - Tensnake Remix",
+      "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
+        "name": "World Turns",
+        "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
         "name": "The Center Will Not Hold",
         "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 486137,
       "name": "Solar Detroit",
       "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
-        "name": "World Turns",
-        "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 323919,
-      "name": "World Turns",
-      "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 363889,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Unconditional Love",
         "url": "https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 377305,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 363889,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg"
     },
     {
       "added_at": "2022-09-09 15:32:07",

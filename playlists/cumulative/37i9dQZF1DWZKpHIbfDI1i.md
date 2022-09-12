@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Yoss Bones en portada.
 
-251 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/16BvyH2RXxLXWNmCTqr5Js)
+252 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/16BvyH2RXxLXWNmCTqr5Js)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 | 2022-04-23 | 2022-07-16 |
 | [Lo Lindo de Mi Ex](https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo Lindo de Mi Ex](https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa) | 2:12 | 2022-04-08 | 2022-04-20 |
 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 |  |
+| [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 | 2022-09-09 |  |
 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Lo Que un Hombre Debería Saber](https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi) | 3:14 | 2022-03-18 | 2022-09-07 |
 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 | 2022-01-13 | 2022-07-16 |
 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 | 2022-01-13 | 2022-03-12 |
@@ -170,7 +171,7 @@
 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 | 2022-02-11 | 2022-04-26 |
 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 | 2022-07-08 |  |
 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 | 2022-08-16 | 2022-08-19 |
-| [No Me Hace Bien](https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:54 | 2022-05-27 |  |
+| [No Me Hace Bien](https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:54 | 2022-05-27 | 2022-09-12 |
 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 | 2022-04-23 | 2022-07-12 |
 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 | 2022-05-06 |  |
 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-02 |  |

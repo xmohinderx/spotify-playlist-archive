@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,908 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,085 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 37 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 38 | [That's All I Need](https://open.spotify.com/track/2DODPLqY24UuvUokVh2JwF) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Mack Thompson](https://open.spotify.com/artist/26n6ojDqVMAInlzCRGzVxF), [Odie Payne III](https://open.spotify.com/artist/4tcSBbry63txTgC08PNmou) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 3:18 |
 | 39 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 |
-| 40 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 |
-| 41 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
+| 40 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
+| 41 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 |
 | 42 | [Killing Floor](https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT) | [The Electric Flag](https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl) | [A Long Time Comin'](https://open.spotify.com/album/5816bqBdozCXD95olZoLHk) | 4:09 |
 | 43 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
-| 44 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 |
+| 44 | [Rollin' Stone](https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:07 |
 | 45 | [Born In Chicago](https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Blues Brothers 2000](https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ) | 3:05 |
-| 46 | [Rollin' Stone](https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:07 |
+| 46 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 |
 | 47 | [No Good](https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:35 |
-| 48 | [The Super\-Natural](https://open.spotify.com/track/5WralwF47zqlIgIzxYburB) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:55 |
-| 49 | [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 |
-| 50 | [Sweet Home Chicago](https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Buddy Guy/ Freddie King/ Sonny Boy Williamson](https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9) | 4:24 |
+| 48 | [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 |
+| 49 | [Sweet Home Chicago](https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Buddy Guy/ Freddie King/ Sonny Boy Williamson](https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9) | 4:24 |
+| 50 | [Nine Below Zero](https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [His Best](https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj) | 3:27 |
 
-Snapshot ID: `MTY1NjY5NjQxMywwMDAwMDAwMDY3N2E5ODAwOWIxNzRmZWFkYTQxNzA1NWIxMzk1OGEx`
+Snapshot ID: `MTY1NjY5NjQxMywwMDAwMDAwMGZiN2RjMjg3ZDZmYzQyMWQzOGE5OTljYzhmMjgyZTU2`

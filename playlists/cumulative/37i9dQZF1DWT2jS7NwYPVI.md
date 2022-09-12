@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Cassyette
 
-767 songs - 1 day 17 hr 2 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+768 songs - 1 day 17 hr 5 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,8 @@
 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 | 2022-03-04 | 2022-05-28 |
 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 | 2022-05-20 | 2022-06-25 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-07-22 | 2022-07-29 |
-| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-24 |  |
+| [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2022-09-08 |  |
+| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-24 | 2022-09-12 |
 | [Say It](https://open.spotify.com/track/5ede29LU651zKq5FLOJrZ9) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Sophomore Slump](https://open.spotify.com/album/1vHSHdWyM8DPlXy4SrPtp8) | 3:19 | 2022-04-22 | 2022-05-28 |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 | 2022-02-26 |
 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 | 2022-02-25 | 2022-05-28 |

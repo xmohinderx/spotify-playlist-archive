@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,075 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,084 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 39 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 |
 | 40 | [氧化氢](https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN) | 2:15 |
 | 41 | [爱上你](https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG) | 4:01 |
-| 42 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
-| 43 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
+| 42 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
+| 43 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
 | 44 | [Only Have Feelings For You](https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT) | [Fahrenheit](https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g) | [Fahrenheit](https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD) | 3:59 |
 | 45 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 |
 | 46 | [想說](https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [想說](https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T) | 3:20 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 50 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 |
 | 51 | [热恋冰淇淋](https://open.spotify.com/track/3ILYRPbZSmv9z6zIqlYWrS) | [yihuik苡慧](https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e) | [热恋冰淇淋](https://open.spotify.com/album/687L7gtiQqSyN6d6E3Omk3) | 2:09 |
 | 52 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 |
-| 53 | [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 |
-| 54 | [你是我心内的一首歌](https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) | 2:46 |
+| 53 | [你是我心内的一首歌](https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) | 2:46 |
+| 54 | [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 |
 | 55 | [非酋](https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z) | [薛明媛](https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv), [朱贺](https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8) | [非酋](https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG) | 2:52 |
 | 56 | [心动决定](https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r) | [叶琼琳](https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [心动决定](https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv) | 3:23 |
 | 57 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 70 | [溫泉](https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV), [劉美麟](https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G) | [溫泉](https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x) | 4:43 |
 | 71 | [每分每秒](https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF) | [Ours](https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68) | [每分每秒](https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q) | 3:20 |
 | 72 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 |
-| 73 | [So Lucky feat\. 鼓鼓 呂思緯](https://open.spotify.com/track/5V0O06ZqReqCbU2DnGNOWn) | [郭靜 \(Claire Kuo\)](https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [So Lucky](https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7) | 3:11 |
-| 74 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
-| 75 | [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 |
+| 73 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
+| 74 | [So Lucky feat\. 鼓鼓 呂思緯](https://open.spotify.com/track/5V0O06ZqReqCbU2DnGNOWn) | [郭靜 \(Claire Kuo\)](https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [So Lucky](https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7) | 3:11 |
+| 75 | [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 |
 
-Snapshot ID: `MTY2MjM0OTM4MSwwMDAwMDAwMDg0N2JhMjI3YzlmZjU2ODYwNWNhZGY4NTQ2ZThhOTYw`
+Snapshot ID: `MTY2MjM0OTM4MSwwMDAwMDAwMGUxMTQxZmM3YzM0ZjJhYWM1Nzg2Nzc1N2E4ZDI0OWEx`

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Heartless Bastards
 
-335 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+337 songs - 21 hr 2 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Always Saw Coming](https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Always Saw Coming](https://open.spotify.com/album/6Wu31vZfPvx9L4hBwtJm3b) | 3:03 | 2022-05-20 |  |
 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-06-24 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-22 |  |
-| [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 |  |
+| [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-08-19 |  |
+| [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 | 2022-09-12 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-13 | 2022-07-29 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-04-01 | 2022-08-06 |
 | [Been Worryin'](https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk), [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Been Worryin'](https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD) | 3:02 | 2021-12-17 | 2022-04-02 |
@@ -163,7 +164,8 @@
 | [It's Your Fault](https://open.spotify.com/track/3krCWFkCXoLz7cDpElKp1I) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Everyone A Song, Vol\. 2](https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P) | 4:54 | 2021-12-17 | 2022-06-04 |
 | [I’m On Your Side](https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:18 | 2022-06-24 |  |
 | [Jazz on the Autobahn](https://open.spotify.com/track/0X7PaSl2RFGQYTRzTmC8Xf) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS) | 4:32 | 2021-12-17 | 2022-08-06 |
-| [John Prine's Cadillac](https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [John Prine's Cadillac](https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA) | 3:21 | 2022-07-22 |  |
+| [John Prine's Cadillac](https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [John Prine's Cadillac](https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA) | 3:21 | 2022-07-22 | 2022-09-12 |
+| [John Prine's Cadillac](https://open.spotify.com/track/7qvoArGqkTh9Fi5P1orTde) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Wings on My Shoes](https://open.spotify.com/album/3x6qsIvqAjncf61GgRegUv) | 3:21 | 2022-08-19 |  |
 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 | 2022-06-24 |  |
 | [Juanita](https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 3:40 | 2021-12-17 | 2022-09-10 |
 | [Jubilee](https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 2:22 | 2021-12-17 | 2022-06-25 |

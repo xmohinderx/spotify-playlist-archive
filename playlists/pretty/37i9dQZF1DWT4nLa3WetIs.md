@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,485 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,581 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 58 | [Alkayida \(Boys Abre\)](https://open.spotify.com/track/6poPF57AAibYYvIHaujZjt) | [Guru Nkz](https://open.spotify.com/artist/02erLj5S8dJEjZyFYug3Ck) | [Alkayida \(Boys Abre\)](https://open.spotify.com/album/3hBDd8jdTb6jCaX8QENZRR) | 3:38 |
 | 59 | [Bundelele](https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Bundelele](https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5) | 3:25 |
 | 60 | [Yahooze](https://open.spotify.com/track/4vu5c3to9ytYGmEIMpWw4q) | [Olu Maintain](https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc) | [Olu Maintain](https://open.spotify.com/album/2mUdcVpvhrP28q8jHnWdVx) | 4:15 |
-| 61 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
-| 62 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
+| 61 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
+| 62 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
 | 63 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
 | 64 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 65 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Bae \(feat\. Afro B\)](https://open.spotify.com/track/0XAebEOKmFP0QjVplewqbE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Bae \(feat\. Afro B\)](https://open.spotify.com/album/0ae2TKUu1qAZ18GYdrJdNB) | 3:23 |
 | 80 | [Couper décaler](https://open.spotify.com/track/6YrUPrGLY5CzrgyleP5kgG) | [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Retro Zouk Tunes](https://open.spotify.com/album/3LKSt5p2jPVO93JwgllpXP) | 5:29 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMGNkYWM0OTc4ODE3ZjYzYzdlMmNhOTVmNjI4NTg4NzFi`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMGU4YTZiNDBiZmE2Zjg0YTBiNWI3MjM4NThhY2ZiNDJk`

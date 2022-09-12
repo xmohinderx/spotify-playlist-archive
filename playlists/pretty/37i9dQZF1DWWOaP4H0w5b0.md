@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 
 > Want some metal? Better to start with the essentials\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,264 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,667 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 32 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 |
 | 33 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 34 | [Shadow Moses](https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 |
-| 35 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
-| 36 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 |
+| 35 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 |
+| 36 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 37 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 |
 | 38 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
 | 39 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 68 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 69 | [Highway Star](https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 6:08 |
 | 70 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 4:50 |
-| 71 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 |
-| 72 | [Heaven and Hell \- 2008 Remaster](https://open.spotify.com/track/3Jl5GohfNwozDmpzmQBLDI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven and Hell \(2008 Remaster\)](https://open.spotify.com/album/1Wk2g7TV0adbUZ53ruvIdL) | 6:59 |
-| 73 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
+| 71 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
+| 72 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 |
+| 73 | [Heaven and Hell \- 2008 Remaster](https://open.spotify.com/track/3Jl5GohfNwozDmpzmQBLDI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven and Hell \(2008 Remaster\)](https://open.spotify.com/album/1Wk2g7TV0adbUZ53ruvIdL) | 6:59 |
 | 74 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
 | 75 | [Hammer Smashed Face](https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Tomb Of The Mutilated](https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb) | 4:02 |
 | 76 | [L'enfant sauvage](https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 99 | [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 |
 | 100 | [Satan Is Real](https://open.spotify.com/track/14M68PdZSSMRzTBuJNuxO6) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Gods of Violence](https://open.spotify.com/album/6Q0KiThTf1dwHWWsqXjngL) | 4:38 |
 
-Snapshot ID: `MTY2MTU0MDIxNCwwMDAwMDAwMGJhNWJiMGM0MmFjOTk3MDkwMTFhNmI0ZWEwODc5MThi`
+Snapshot ID: `MTY2MTU0MDIxNCwwMDAwMDAwMDliZmRhYWE3NDYwMTI3MGNmMWJkYTdkNmRjNzljOThh`

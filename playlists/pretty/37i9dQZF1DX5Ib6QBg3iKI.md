@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,824 likes - 73 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,823 likes - 73 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 22 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 |
 | 23 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 24 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
-| 25 | [Last Christmas](https://open.spotify.com/track/2Codkc7k9sC2Itz8hEb2w7) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/2KVJoavZbPD84mUEGcFvuW) | 3:08 |
+| 25 | [Last Christmas](https://open.spotify.com/track/0mKbWzFb9EsTJgDwzbYtRc) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/443y0OW2T8uu2sFEOqxzVN) | 3:08 |
 | 26 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
 | 27 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 28 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 72 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 73 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
 
-Snapshot ID: `MTYzOTczMTg1MiwwMDAwMDAwMDVkZDBjNGU0NTdlOTg3Yzc2NzkyNmJkZGFjMjI3Yjc4`
+Snapshot ID: `MTYzOTczMTg1MiwwMDAwMDAwMDFiM2ViMWY2OGQ4MTIwMGVlNDk5Mzg3Njc4NzNlOTU1`

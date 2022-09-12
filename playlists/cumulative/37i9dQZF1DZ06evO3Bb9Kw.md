@@ -4,7 +4,7 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/6ywtkHbzJikVDsVE4oM5Jr)
+53 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/6ywtkHbzJikVDsVE4oM5Jr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 | 2022-09-08 |  |
 | [I Feel A Sin Comin' On](https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:18 | 2022-09-08 |  |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2022-09-08 |  |
-| [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2022-09-08 |  |
+| [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2022-09-08 | 2022-09-12 |
 | [In His Arms](https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:39 | 2022-09-08 |  |
 | [It All Comes Out in the Wash](https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:34 | 2022-09-08 |  |
+| [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 | 2022-09-11 |  |
 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 | 2022-09-08 |  |
 | [Little Red Wagon](https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 3:24 | 2022-09-08 |  |
 | [Makin' Plans](https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:50 | 2022-09-08 |  |

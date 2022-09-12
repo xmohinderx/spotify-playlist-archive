@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Dylan Triplett
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,127 likes - 73 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,164 likes - 73 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

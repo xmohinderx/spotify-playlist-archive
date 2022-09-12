@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,379 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,390 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 13 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
 | 14 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
 | 15 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
-| 16 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
-| 17 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
+| 16 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
+| 17 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 18 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
 | 19 | [Sin control](https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Sin control](https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb) | 3:46 |
 | 20 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
 | 21 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
 | 22 | [Alucinao](https://open.spotify.com/track/6bkbxLo2NwGu7jP5quwsMq) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1), [Estado Unido](https://open.spotify.com/artist/7DZfK2JuwyUwWEP95P35Gw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Illusions of Shameless Abundance](https://open.spotify.com/album/7xULtQ7JrUi2t7fD2sn0B0) | 9:06 |
 | 23 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 |
-| 24 | [Limon Pelado](https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 4:58 |
-| 25 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 |
+| 24 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 |
+| 25 | [Limon Pelado](https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 4:58 |
 | 26 | [they told us it was hard, but they were wrong\. \- Edit](https://open.spotify.com/track/4eChGxuP1HLtOPpQFFXRbP) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [they told us it was hard, but they were wrong.](https://open.spotify.com/album/6PbCwsrFphZdHvDhDneO4v) | 3:45 |
 | 27 | [Koro Kemboro](https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Koro Kemboro](https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF) | 5:03 |
 | 28 | [Descanse](https://open.spotify.com/track/4OQOtq13NDob5sVbAhRla6) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2RLMab2R3icqnFA2dYJKVc) | 4:31 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 33 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
 | 34 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
 | 35 | [Fiebre](https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Fiebre](https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj) | 4:27 |
-| 36 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
-| 37 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
+| 36 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
+| 37 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
 | 38 | [Corazón Lleno de Mil Inviernos](https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Tierra del Fuego](https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa) | 3:54 |
 | 39 | [Corrado](https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2) | [Bufi](https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ), [Kubebe](https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH) | [Bufebe](https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO) | 5:24 |
 | 40 | [Pieles](https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5) | [Tyu](https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM) | [Pieles](https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu) | 8:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 49 | [Tiburon](https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg) | [Dany F](https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV) | [Tiburon](https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4) | 4:54 |
 | 50 | [Dune Dune](https://open.spotify.com/track/4pvAdTqM8fNzMK7QEjovlV) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Dune Dune](https://open.spotify.com/album/4O80Saj92IWtbX9mio39oj) | 5:46 |
 
-Snapshot ID: `MTY2MjM1MTU1NSwwMDAwMDAwMDI1ZjMxOWYzN2ZiOGFhNTMxMDJhYWYxNTgxOTlkNmE0`
+Snapshot ID: `MTY2MjM1MTU1NSwwMDAwMDAwMDNjMWQ1ZThlZWYxM2NmNzA2Mzg5MzMxYzc3ODk2YzRh`

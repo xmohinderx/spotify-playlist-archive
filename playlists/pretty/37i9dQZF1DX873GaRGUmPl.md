@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade so far\. Cover: Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,322 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,552 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 62 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 |
 | 63 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 64 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
-| 65 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
-| 66 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
+| 65 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
+| 66 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
 | 67 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
 | 68 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 | 69 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 74 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 75 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
 | 76 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
-| 77 | [Good Grief](https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:26 |
+| 77 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 78 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
-| 79 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
+| 79 | [Good Grief](https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:26 |
 | 80 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 
-Snapshot ID: `MTY0NTQ0NDcwNywwMDAwMDAwMGQ3Y2ViMTk4YmVmNzI0OWM2N2FhNGY5OWM4MmQzOGU1`
+Snapshot ID: `MTY0NTQ0NDcwNywwMDAwMDAwMDBiNDI3M2I1NTRjYjkxYjFjN2Q4YjNlMTI4ZjQwMzA2`

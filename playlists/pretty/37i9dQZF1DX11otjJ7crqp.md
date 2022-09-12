@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: 5 Seconds of Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,357 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,165 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-83 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/6X8ndrQOY4J5GaSSbdpL1O)
+84 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/6X8ndrQOY4J5GaSSbdpL1O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Portrait Gallery](https://open.spotify.com/track/3oRuCzqdduzZ2CBhAtv8zO) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Sun, Cloud](https://open.spotify.com/album/25ePjvtvxfiYd3XjPQFuDj) | 6:07 | 2021-11-09 | 2022-02-01 |
 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 | 2021-11-09 |  |
 | [Préludes / Book 1, L\. 117: 8\. La fille aux cheveux de lin](https://open.spotify.com/track/1S7KLOhkzdJ4ycKKZCZIWK) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Rodolphe Kars](https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj) | [Debussy: Préludes Books 1 & 2](https://open.spotify.com/album/4dp6Wc8yveqpMTi6EHxyCE) | 2:30 | 2021-11-09 | 2022-07-29 |
-| [Préludes / Book 1, L\. 117: 8\. La fille aux cheveux de lin](https://open.spotify.com/track/5Sive9KlW863OHfEdax2V9) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Rodolphe Kars](https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj) | [Debussy: Music For Concentration](https://open.spotify.com/album/7iFplq55ZNRwmRDWSLWaRw) | 2:30 | 2022-06-21 |  |
+| [Préludes / Book 1, L\. 117: 8\. La fille aux cheveux de lin](https://open.spotify.com/track/51P3NaXFY36BR7d52fh03Y) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Rodolphe Kars](https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj) | [Debussy](https://open.spotify.com/album/2hp2fmMa8Av2CKnTx8B5yS) | 2:30 | 2022-06-21 |  |
+| [Préludes / Book 1, L\. 117: 8\. La fille aux cheveux de lin](https://open.spotify.com/track/5Sive9KlW863OHfEdax2V9) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Rodolphe Kars](https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj) | [Debussy: Music For Concentration](https://open.spotify.com/album/7iFplq55ZNRwmRDWSLWaRw) | 2:30 | 2022-06-21 | 2022-09-12 |
 | [Quietly Quietly](https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Quietly Quietly](https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4) | 3:22 | 2021-11-09 |  |
 | [Reef](https://open.spotify.com/track/14E2KOXyzozxKQHu2bh1VW) | [Antonymes](https://open.spotify.com/artist/1FXNgc8dxBxW9XQzQBWUj7) | [Reef](https://open.spotify.com/album/3MjhtNO02yct2msRjP5g0O) | 4:11 | 2021-11-09 |  |
 | [Saint\-Saëns / Transcr\. Vidal: Le carnaval des animaux, R\. 125: XIII\. Le cygne](https://open.spotify.com/track/08h8ICqh9extUqzotddLRQ) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Douglas Boyd](https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Intuition \- Le Cygne \(The Swan\)](https://open.spotify.com/album/2NU5I6GALggaxdO3fJDKeJ) | 3:28 | 2021-11-09 | 2022-07-29 |

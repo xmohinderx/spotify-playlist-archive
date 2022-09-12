@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > NSG bring all your favourites from the world of afro bashment and afro swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,610 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,646 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

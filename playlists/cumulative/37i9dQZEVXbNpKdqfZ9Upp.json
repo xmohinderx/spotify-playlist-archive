@@ -770,6 +770,28 @@
     },
     {
       "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -3815,7 +3837,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -5161,7 +5183,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 227726,
       "name": "Me Gusta Mi Vida",
       "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
@@ -5223,7 +5245,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -5775,7 +5797,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -6024,6 +6046,32 @@
     },
     {
       "album": {
+        "name": "No Me Conformo",
+        "url": "https://open.spotify.com/album/60qMDnkh443HxIVbZRImIu"
+      },
+      "artists": [
+        {
+          "name": "Koreko",
+          "url": "https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv"
+        },
+        {
+          "name": "Pusho",
+          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
+        },
+        {
+          "name": "Anonimus",
+          "url": "https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281898,
+      "name": "No Me Conformo",
+      "url": "https://open.spotify.com/track/6t8OjozDxyWUprWqIB58IT"
+    },
+    {
+      "album": {
         "name": "No Me Dejes As\u00ed",
         "url": "https://open.spotify.com/album/4n08POuFITwQukkmnc2fAO"
       },
@@ -6249,7 +6297,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
@@ -9609,7 +9657,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"

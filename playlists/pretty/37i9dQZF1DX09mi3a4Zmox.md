@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,946,020 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,946,364 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 18 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 |
 | 19 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 |
 | 20 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 |
-| 21 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
-| 22 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
+| 21 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
+| 22 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 23 | [Te amo](https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Voy](https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR) | 3:53 |
 | 24 | [Por Amarte Así](https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 4:32 |
 | 25 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
 | 26 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
 | 27 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
-| 28 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
-| 29 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
-| 30 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
+| 28 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
+| 29 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
+| 30 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
 | 31 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 |
 | 32 | [Este Corazón](https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:30 |
 | 33 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 69 | [Corazones Invencibles](https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Romántico Desliz](https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt) | 3:37 |
 | 70 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 |
 | 71 | [Te Adoraré](https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:47 |
-| 72 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
-| 73 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
+| 72 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
+| 73 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
 | 74 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
 | 75 | [Antes de las Seis](https://open.spotify.com/track/5J5uyhoBZxJwmjy2Zg6DgF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:54 |
 | 76 | [Un Amor de Verdad](https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Me Enseñaste](https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:41 |
 | 100 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 |
 
-Snapshot ID: `MTY2MjQ4MjIwOSwwMDAwMDAwMGU5ZTIwOWY3ODFmYTQ3YWI2NGM0MzRiNmFiODYzNzY3`
+Snapshot ID: `MTY2MjQ4MjIwOSwwMDAwMDAwMDNkYWIxNDQ2NzAzYWEyZTdhOTUxNzk1ZjM5N2E1MWMw`

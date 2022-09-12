@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,404 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,463 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 57 | [Messiah / You're Beautiful](https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC) | 4:53 |
 | 58 | [Be Enthroned \- Live](https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 8:05 |
 | 59 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
-| 60 | [Throne Room](https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side](https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W) | 4:44 |
+| 60 | [In Christ Alone](https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hymns For The Christian Life](https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz) | 4:17 |
 | 61 | [Lion and the Lamb \- Studio](https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Invisible](https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb) | 4:31 |
-| 62 | [In Christ Alone](https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hymns For The Christian Life](https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz) | 4:17 |
+| 62 | [Throne Room](https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side](https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W) | 4:44 |
 | 63 | [Ain’t No Grave \- Live](https://open.spotify.com/track/7mD7yAQm4GcifSnWqJdZHi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Molly Skaggs](https://open.spotify.com/artist/0cW4RaDqeYZ5YSP2AtRanL) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 8:13 |
 | 64 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
 | 65 | [Blood is Still the Blood \(feat\. Chandler Moore, Nicole Binion, Ryan Ofei\)](https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 10:03 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 84 | [Alive In You \- Live](https://open.spotify.com/track/7IZj7C9LM2jj0ISnyve3Ox) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 5:14 |
 | 85 | [Behold Him](https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him](https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy) | 4:41 |
 | 86 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
-| 87 | [I Speak Jesus](https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [Songs for the Simple Gathering: Vol\. 1](https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl) | 5:09 |
+| 87 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
 | 88 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 |
-| 89 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
-| 90 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
+| 89 | [I Speak Jesus](https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [Songs for the Simple Gathering: Vol\. 1](https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl) | 5:09 |
+| 90 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
 | 91 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
 | 92 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 |
 | 93 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 100 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 
-Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMDQzNjdlNDIwZjQ1ODA1MDAyMWU2OTFjMzdmOTMwMTM2`
+Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMGIyZmJkZTRiNzA1ZGU3NTljMTcxYzAyNzkwOGRiZTUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk?si=Fk48rtV3RzSDO8n9tHkMJw">Sampa the Great</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,109 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,125 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 
 > Songs from the last decade that will make you sing and dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,792 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,852 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 2 | [Cool for the Summer](https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434) | 3:34 |
 | 3 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
 | 4 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
-| 5 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
-| 6 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
+| 5 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
+| 6 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
 | 7 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
 | 8 | [Just A Dream](https://open.spotify.com/track/3ZdJffjzJWFimSQyxgGIxN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [5.0](https://open.spotify.com/album/3mz9p3cA0Cl5oDUlpTxB0c) | 3:57 |
 | 9 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 67 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
 | 68 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
 | 69 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
-| 70 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
-| 71 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 |
+| 70 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 |
+| 71 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
 | 72 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
 | 73 | [Me, Myself & I](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 4:11 |
 | 74 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 99 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 |
 | 100 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMGRjNDc1MWYwMTYwNjlmOTNlMmY1YjM1OWJkZDY3YjM4`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMGQzMjE5MzA3NGQxYmQyZDU1NmU2ZmYwYjlkMjBkZWRk`

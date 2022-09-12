@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,120 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,123 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 35 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
 | 36 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 37 | [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 |
-| 38 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 |
-| 39 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 |
-| 40 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
-| 41 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 |
-| 42 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 |
+| 38 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
+| 39 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 |
+| 40 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 |
+| 41 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 |
+| 42 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 |
 | 43 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
 | 44 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 45 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 49 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
 | 50 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 |
 
-Snapshot ID: `MTY0MTU2OTA3OSwwMDAwMDAwMDZiZTgzYjFjNWZiNzEwMGQ5M2VhN2JlMzk3YWU3MDNm`
+Snapshot ID: `MTY0MTU2OTA3OSwwMDAwMDAwMDlhNWNmMzBmMTcxNGFlMDZmZmI5MDQ1Zjk2MWU0YWIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Celebrating 20 years of Songs For The Deaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,856 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,989 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 52 | [Echoes](https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Elephant Tree](https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt) | 6:07 |
 | 53 | [Death's Door](https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 7:15 |
 | 54 | [What Needs Must Be](https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT) | 4:16 |
-| 55 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
+| 55 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 |
 | 56 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
-| 57 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 |
+| 57 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
 | 58 | [Marijuanaut's Theme](https://open.spotify.com/track/6zIcwUvXpw1cTJWYGYdpX4) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [The Sciences](https://open.spotify.com/album/6X0ErPKlQAxQDhWKNprz7u) | 6:40 |
 | 59 | [Ages Move the Earth](https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh) | [High Priest of Saturn](https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x) | [Son of Earth and Sky](https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu) | 9:09 |
 | 60 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 76 | [Bosses Hang, Pt\. I](https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 4:39 |
 | 77 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
 | 78 | [Black](https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu) | 6:47 |
-| 79 | [The Bottle](https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O) | 4:42 |
-| 80 | [Dopethrone](https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 10:36 |
-| 81 | [Evaporate](https://open.spotify.com/track/3KmM9GEunX8IGyup6rne2z) | [35007](https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft) | [Liquid](https://open.spotify.com/album/2fVeY5ePxT4SQDvL18Sfye) | 5:53 |
-| 82 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
-| 83 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
-| 84 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 |
+| 79 | [Dopethrone](https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 10:36 |
+| 80 | [The Bottle](https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O) | 4:42 |
+| 81 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
+| 82 | [Evaporate](https://open.spotify.com/track/3KmM9GEunX8IGyup6rne2z) | [35007](https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft) | [Liquid](https://open.spotify.com/album/2fVeY5ePxT4SQDvL18Sfye) | 5:53 |
+| 83 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 |
+| 84 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
 | 85 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 |
 | 86 | [Palomino](https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Mobile Babylon](https://open.spotify.com/album/26RaBDkrbF2tZkn3eojKmO) | 3:45 |
 | 87 | [Tired Old Dog](https://open.spotify.com/track/7qRKONExTItyXpvgXh187M) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 6:27 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 92 | [Heavy Low](https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw) | 4:50 |
 | 93 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 |
 | 94 | [Colossal](https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 5:04 |
-| 95 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
+| 95 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
 | 96 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
 | 97 | [Calm Before the Storm](https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [V](https://open.spotify.com/album/2st5WC99waH8DaN3naNq32) | 8:15 |
-| 98 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
+| 98 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
 | 99 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
 | 100 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
 
-Snapshot ID: `MTY2MTUyMDM4OSwwMDAwMDAwMGZkZTU5MTMwZmRkMTA5OTRkZTdhNjg3ZjliMjQ3OWI5`
+Snapshot ID: `MTY2MTUyMDM4OSwwMDAwMDAwMDhkNTU4YmYwZGFmODdmNTE3MmYxNjJhNmJmN2M3Nzcx`

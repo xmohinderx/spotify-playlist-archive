@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,372 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,386 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 71 | [The Good Life](https://open.spotify.com/track/55KYlnsC6nYnr3IykbmJwE) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Life Starts Now](https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4) | 2:53 |
 | 72 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 73 | [Mountain Sound](https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 3:31 |
-| 74 | [Warrior](https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 3:24 |
-| 75 | [Blue on Black](https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue on Black](https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc) | 4:34 |
+| 74 | [Blue on Black](https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue on Black](https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc) | 4:34 |
+| 75 | [Warrior](https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 3:24 |
 | 76 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 77 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
 | 78 | [Run](https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 5:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 99 | [Trenches](https://open.spotify.com/track/3bmYpOfK6nLgr4GAtujhB8) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 3:37 |
 | 100 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
 
-Snapshot ID: `MTY1MDkxNjc1OCwwMDAwMDAwMDQ0ZjQ3YTc2OTZhYzU3MzU0MWQwZmUzZTgyNzg4OGRm`
+Snapshot ID: `MTY1MDkxNjc1OCwwMDAwMDAwMDg3MDFiM2JhZDVkNzgxZjU2OTU1NjQ0NmIzMDgyNjM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 
 > The birth of the blues, as it happened...
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,599 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,623 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

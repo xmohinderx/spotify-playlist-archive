@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,937 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,226 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 47 | [Rockin' With The Rhythm Of The Rain](https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 2:41 |
 | 48 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
 | 49 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 |
-| 50 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
-| 51 | [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 |
+| 50 | [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 |
+| 51 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 52 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
 | 53 | [Meet Me In Montana](https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi), [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 3:56 |
 | 54 | [Drinkin' My Baby Goodbye](https://open.spotify.com/track/1KeWCjmGE74qeB3OSbB5Ax) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Me And The Boys](https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP) | 3:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 65 | [A Lesson In Leavin'](https://open.spotify.com/track/0ImxI6CSbQsrYdhv9C8eUO) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Special Delivery](https://open.spotify.com/album/7B0UmyvEgRMfLGgCOmtsER) | 3:00 |
 | 66 | [Everything That Glitters \(Is Not Gold\)](https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 4:52 |
 | 67 | [Real Love](https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Real Love](https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS) | 3:53 |
-| 68 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
-| 69 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
+| 68 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
+| 69 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
 | 70 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
 | 71 | [You Never Gave Up On Me](https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Crystal Gayle: The Hits](https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa) | 3:09 |
 | 72 | [Honky Tonk Man](https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm) | 2:47 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 83 | [All My Rowdy Friends \(Have Settled Down\)](https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits](https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ) | 4:00 |
 | 84 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
 | 85 | [Redneck Girl](https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd) | 3:28 |
-| 86 | [That's the Way Love Goes](https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:01 |
-| 87 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
+| 86 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
+| 87 | [That's the Way Love Goes](https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:01 |
 | 88 | [Love At The Five & Dime](https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Walk The Way The Wind Blows](https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv) | 3:38 |
 | 89 | [Tight Fittin' Jeans](https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [20th Century Masters: The Millennium Collection: Best Of Conway Twitty](https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE) | 2:50 |
 | 90 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [C.C\. Waterback](https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 3:35 |
 | 150 | [My Baby's Got Good Timing](https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [The Very Best Of Dan Seals](https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC) | 3:29 |
 
-Snapshot ID: `MTY1ODc4NTAxNCwwMDAwMDAwMDg0NjI3ZTU1MDQ4MTdhY2Q3Yzk2NjJjMGFkN2ZmZmQw`
+Snapshot ID: `MTY1ODc4NTAxNCwwMDAwMDAwMDY4YTIwMWMyNDAyNDcxZmViODUzNWZhZTFhNmM2YjE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > The hottest corridos in the US! Bien Al Tiro con Peso Pluma y Luis R Conriquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,543 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,180 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,24 +92,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 82 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
 | 83 | [El Buho](https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:57 |
 | 84 | [El Carrito](https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Carrito](https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98) | 2:58 |
-| 85 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
-| 86 | [El Pocho 43](https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh) | 3:47 |
+| 85 | [El Pocho 43](https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh) | 3:47 |
+| 86 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
 | 87 | [Es Dificil Ser Un Santo](https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Es Dificil Ser Un Santo](https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h) | 3:05 |
 | 88 | [Miami Vibe](https://open.spotify.com/track/6ZUBqOrjrdmkP4eLQLBeaq) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Miami Vibe](https://open.spotify.com/album/2yPySu8gh3DE4dTpwSvLBI) | 3:49 |
 | 89 | [LoLo Felix](https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:34 |
 | 90 | [El Criticado](https://open.spotify.com/track/1BxYaRKQzdaikFV2xJNpxd) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [El Criticado](https://open.spotify.com/album/5mK00alrjJoqCLUUUQW4iy) | 3:11 |
-| 91 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 |
-| 92 | [Se Divisan](https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Divisan](https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ) | 2:40 |
+| 91 | [Se Divisan](https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Divisan](https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ) | 2:40 |
+| 92 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 |
 | 93 | [Hay Niveles](https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hay Niveles](https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL) | 2:02 |
 | 94 | [La Bicicleta](https://open.spotify.com/track/4IMcI4zguv2V9g1DHbK98T) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Bicicleta](https://open.spotify.com/album/10B51Bzh7TxUcm3t08GpQ1) | 3:45 |
 | 95 | [18 Libras](https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 3:05 |
 | 96 | [El Flash](https://open.spotify.com/track/62593s9bGlzxiiL4b57VgX) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [El Flash](https://open.spotify.com/album/2AyGcvhh7k7Odeumn0x6QL) | 3:13 |
 | 97 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 |
 | 98 | [300 Locos](https://open.spotify.com/track/3vuSsB9MXGKftwFcdPXa5b) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [300 Locos](https://open.spotify.com/album/2NiabbGx0zWdPyA9exP1ZH) | 2:56 |
-| 99 | [Desde Abajo](https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Jesus Ojeda](https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr) | [Desde Abajo](https://open.spotify.com/album/0zZqoFO424Fz2mTBqSGNQe) | 3:38 |
+| 99 | [Por el Freeway](https://open.spotify.com/track/1oM1VusFG1nGCDMF7Gipal) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR) | [Por el Free Way](https://open.spotify.com/album/7betwITWXNOT3HGMV0dCWm) | 3:15 |
 | 100 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 |
 | 101 | [De Periódico Un Gallito](https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:17 |
-| 102 | [Por el Freeway](https://open.spotify.com/track/1oM1VusFG1nGCDMF7Gipal) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR) | [Por el Free Way](https://open.spotify.com/album/7betwITWXNOT3HGMV0dCWm) | 3:15 |
+| 102 | [Desde Abajo](https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Jesus Ojeda](https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr) | [Desde Abajo](https://open.spotify.com/album/0zZqoFO424Fz2mTBqSGNQe) | 3:38 |
 | 103 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 |
 | 104 | [Gente del General](https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 2:45 |
 | 105 | [Los Hermanos](https://open.spotify.com/track/5lM1GJ8XjHOOsv7tEeEYkT) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Los Hermanos](https://open.spotify.com/album/4fpW3knDcQlgfrpNOxkgYk) | 3:43 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 119 | [En El Laboratorio](https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [En El Laboratorio](https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc) | 3:05 |
 | 120 | [Pa' Contarla](https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 |
 
-Snapshot ID: `MTY2MjEyOTk2MCwwMDAwMDAwMDA3MTE2ZDVjM2Q1NGRjODBkODVlOTE3ODkzZTY4MTcy`
+Snapshot ID: `MTY2MjEyOTk2MCwwMDAwMDAwMGVhYzhlYjc1OTdmYzdkNzUwMjJkY2Q2NzFlZjYyZTA3`

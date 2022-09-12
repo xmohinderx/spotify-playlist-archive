@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > oops\_i\_did\_it\_again.mp3
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,755 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,763 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 3 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
 | 4 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 |
 | 5 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
-| 6 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
-| 7 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
-| 8 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
+| 6 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
+| 7 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
+| 8 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 9 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 10 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 11 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 31 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 | 32 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 33 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
-| 34 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
-| 35 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
+| 34 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
+| 35 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 36 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 |
 | 37 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 |
 | 38 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 40 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 |
 | 41 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 42 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
-| 43 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
-| 44 | [You Belong With Me](https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:52 |
+| 43 | [You Belong With Me](https://open.spotify.com/track/1GEBsLDvJGw7kviySRI6GX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:52 |
+| 44 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 45 | [Dígale](https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 4:22 |
 | 46 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 |
 | 47 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 76 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 |
 | 77 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 78 | [Feeling Good](https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 3:57 |
-| 79 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
-| 80 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 |
+| 79 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 |
+| 80 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
 | 81 | [Meet Me Halfway](https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:44 |
 | 82 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:15 |
 | 83 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 99 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 100 | [Muriendo Lento \(feat\. Belinda\)](https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Detector De Metal](https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N) | 4:10 |
 
-Snapshot ID: `MTY0MDU0ODczMywwMDAwMDAwMDEzOGI2OWY4NDk1MThlZjAwYmRhNTk1ZTJmNzg1N2Nm`
+Snapshot ID: `MTY0MDU0ODczMywwMDAwMDAwMGU3MGU3MGIxMzU3YWI3NDQ0MjVhOWU5M2I0MjExOThl`

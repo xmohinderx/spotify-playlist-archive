@@ -1,12 +1,12 @@
 {
   "description": "living life in your 250 sq ft micro apt. Cover: Maude Latour",
-  "num_followers": 1421690,
+  "num_followers": 1421945,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyOTMyMiwwMDAwMDAwMDRkNTM4YjYxN2IyNTA1MjdlNDY0MjhlOTY4YWUzNjc1",
+  "snapshot_id": "MTY2MjcyOTMyMiwwMDAwMDAwMDY0ZWFmMjdmYTRmODhkOWViNmU0YTFjNzM1M2JmYzlh",
   "tracks": [
     {
       "added_at": "2022-09-09 13:15:22",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 204179,
-      "name": "Tornado Warnings",
-      "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "i can't help it",
         "url": "https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 177886,
       "name": "i can't help it",
       "url": "https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Tornado Warnings",
+      "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "how deep?",
+        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "how deep?",
+      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "That's Where I Am",
         "url": "https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "how deep?",
-        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
+        "name": "Lego Blocks",
+        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
         }
       ],
-      "duration_ms": 154506,
-      "name": "how deep?",
-      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
+      "duration_ms": 159493,
+      "name": "Lego Blocks",
+      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -799,18 +815,18 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Lego Blocks",
-        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
+        "name": "Friend Like Me",
+        "url": "https://open.spotify.com/album/4KKDXgsupYDgjkXWah9Yea"
       },
       "artists": [
         {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Lego Blocks",
-      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
+      "duration_ms": 152224,
+      "name": "Friend Like Me",
+      "url": "https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -843,22 +859,6 @@
       "duration_ms": 165067,
       "name": "Another Man's Jeans",
       "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Friend Like Me",
-        "url": "https://open.spotify.com/album/4KKDXgsupYDgjkXWah9Yea"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 152224,
-      "name": "Friend Like Me",
-      "url": "https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "Mr. Percocet",
         "url": "https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS"
       },
@@ -1019,6 +1019,26 @@
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "Cherry (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 152511,
+      "name": "Cherry (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1043,26 +1063,6 @@
       "duration_ms": 170564,
       "name": "Friends",
       "url": "https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Cherry (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 152511,
-      "name": "Cherry (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "The Outsider",
         "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 180604,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Fruity",
-        "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Fruity",
-      "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "why u gotta be like that (feat. Nightly)",
         "url": "https://open.spotify.com/album/18I1ughAhwfDLtaU9eX3uW"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
+        "name": "Fruity",
+        "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
       },
       "artists": [
         {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
+      "duration_ms": 193133,
+      "name": "Fruity",
+      "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1419,6 +1403,22 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "EAGER",
+        "url": "https://open.spotify.com/album/3CWSKQfE0DxrZKIiz0YJ5O"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 130088,
+      "name": "EAGER",
+      "url": "https://open.spotify.com/track/3c6XFFyJbaEXuktEOG4aU6"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "Don't You Worry",
         "url": "https://open.spotify.com/album/7gIkct34Wk2H6rGuk9w7yV"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 162172,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Late To The Party",
-        "url": "https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late To The Party",
-      "url": "https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "EAGER",
-        "url": "https://open.spotify.com/album/3CWSKQfE0DxrZKIiz0YJ5O"
+        "name": "Late To The Party",
+        "url": "https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX"
       },
       "artists": [
         {
-          "name": "Britton",
-          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 130088,
-      "name": "EAGER",
-      "url": "https://open.spotify.com/track/3c6XFFyJbaEXuktEOG4aU6"
+      "duration_ms": 177176,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 152230,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Baby Don't Go",
-        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9"
       },
       "artists": [
         {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 152230,
-      "name": "Baby Don't Go",
-      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
+      "duration_ms": 140880,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "No Time (For My Life To Suck)",
-        "url": "https://open.spotify.com/album/69gZ4DnvFsvQ8z9yk4QdYG"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "No Time (For My Life To Suck)",
-      "url": "https://open.spotify.com/track/46FwyEmZaPPzUViyEvloXo"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 219026,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "No Time (For My Life To Suck)",
+        "url": "https://open.spotify.com/album/69gZ4DnvFsvQ8z9yk4QdYG"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "No Time (For My Life To Suck)",
+      "url": "https://open.spotify.com/track/46FwyEmZaPPzUViyEvloXo"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Pickup Lines",
-        "url": "https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Pickup Lines",
-      "url": "https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "let's run away",
         "url": "https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 144861,
       "name": "House With A View",
       "url": "https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "Pickup Lines",
+        "url": "https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Pickup Lines",
+      "url": "https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "saddest happy girl",
-        "url": "https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z"
-      },
-      "artists": [
-        {
-          "name": "Stalking Gia",
-          "url": "https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "saddest happy girl",
-      "url": "https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw"
-    },
-    {
-      "added_at": "2022-09-09 13:15:22",
-      "album": {
         "name": "Zoom",
         "url": "https://open.spotify.com/album/2oAXMZTO9ClrJMESeTYQsC"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 177718,
       "name": "BLONDE",
       "url": "https://open.spotify.com/track/75N877K375q1iE3S1mEcHB"
+    },
+    {
+      "added_at": "2022-09-09 13:15:22",
+      "album": {
+        "name": "saddest happy girl",
+        "url": "https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z"
+      },
+      "artists": [
+        {
+          "name": "Stalking Gia",
+          "url": "https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "saddest happy girl",
+      "url": "https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw"
     },
     {
       "added_at": "2022-09-09 13:15:22",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2022-09-09 13:15:22",
       "album": {
-        "name": "Garden On The Kitchen Floor",
-        "url": "https://open.spotify.com/album/3W527nPkx45Y4Bk49kbS2x"
+        "name": "Cardigan",
+        "url": "https://open.spotify.com/album/5wQ8EAS2zydLRKG6tUUyhN"
       },
       "artists": [
         {
-          "name": "Tors",
-          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
         }
       ],
-      "duration_ms": 219542,
-      "name": "Garden On The Kitchen Floor",
-      "url": "https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5"
+      "duration_ms": 201989,
+      "name": "Cardigan",
+      "url": "https://open.spotify.com/track/3kM85kSAUZBKUJfMxC8clk"
     }
   ],
   "unique_name": "young & free",

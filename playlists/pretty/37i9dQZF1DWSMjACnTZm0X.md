@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=QK8VF93\-R\-W11oGjqH0PSw">Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,789 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,110 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,404 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 82 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 |
 | 83 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
 | 84 | [Secrets](https://open.spotify.com/track/5DKlSWi2DY3uXuwfctcRKi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Around the World and Back \(Deluxe\)](https://open.spotify.com/album/1lLm5kIRG1acxB4DlEZTL8) | 3:44 |
-| 85 | [Kitty Sucker](https://open.spotify.com/track/457BpNlDPJnuf94rY1fuWw) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:44 |
-| 86 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
-| 87 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
+| 85 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
+| 86 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
+| 87 | [Kitty Sucker](https://open.spotify.com/track/457BpNlDPJnuf94rY1fuWw) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:44 |
 | 88 | ['Merican](https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
 | 89 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 90 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
 | 91 | [I Was Wrong](https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 3:57 |
-| 92 | [Injection](https://open.spotify.com/track/1wVUjggKup9hP2jd24gLSg) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:19 |
-| 93 | [Skate or Die](https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [They Came From The Shadows](https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde) | 1:50 |
-| 94 | [City Of Angels](https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:29 |
-| 95 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
-| 96 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
-| 97 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
+| 92 | [Skate or Die](https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [They Came From The Shadows](https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde) | 1:50 |
+| 93 | [Injection](https://open.spotify.com/track/1wVUjggKup9hP2jd24gLSg) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:19 |
+| 94 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
+| 95 | [City Of Angels](https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:29 |
+| 96 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
+| 97 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
 | 98 | [American Attraction](https://open.spotify.com/track/0p8fUOBfWtGcaKGiD9drgJ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:56 |
 | 99 | [I Feel So](https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 4:30 |
 | 100 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 |
 
-Snapshot ID: `MTY1ODg1Mzk3MiwwMDAwMDAwMDE3MTNiYWVlYzU5Yzk4MDNmYTI0YWM3ZDA2OTgwMDBk`
+Snapshot ID: `MTY1ODg1Mzk3MiwwMDAwMDAwMDg1NWI3ZmViYzAwYTNlMzI1YzQwOTcyZWZlZWQ5M2Yx`

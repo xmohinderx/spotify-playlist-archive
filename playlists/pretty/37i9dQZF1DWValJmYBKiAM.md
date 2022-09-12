@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,045 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,171 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 21 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
 | 22 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
 | 23 | [Los Infieles](https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:17 |
-| 24 | [Y Si Te Quedas, ¿Qué?](https://open.spotify.com/track/2CMXO9bnTzOss5Fc6LhND2) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de Caminos](https://open.spotify.com/album/4dGETE1CGn2ZTZq4Sxrng3) | 3:38 |
+| 24 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 25 | [Que Lloro](https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 4:00 |
-| 26 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
+| 26 | [Y Si Te Quedas, ¿Qué?](https://open.spotify.com/track/2CMXO9bnTzOss5Fc6LhND2) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de Caminos](https://open.spotify.com/album/4dGETE1CGn2ZTZq4Sxrng3) | 3:38 |
 | 27 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 |
 | 28 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
 | 29 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 40 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 |
 | 41 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
 | 42 | [Que Me Alcance la Vida](https://open.spotify.com/track/0doPUFYZPjLAFNfqoZy7Jw) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 3:48 |
-| 43 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
-| 44 | [Sinônimos](https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Aqui O Sistema É Bruto](https://open.spotify.com/album/4FTV8aipNFzqQo10minF34) | 4:43 |
+| 43 | [Sinônimos](https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Aqui O Sistema É Bruto](https://open.spotify.com/album/4FTV8aipNFzqQo10minF34) | 4:43 |
+| 44 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
 | 45 | [Desde cuando](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 |
 | 46 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 |
 | 47 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [Asignatura Pendiente](https://open.spotify.com/track/4nYE8K5ozd9HNfB2RC8o2c) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Almas Del Silencio](https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2) | 3:56 |
 | 100 | [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 |
 
-Snapshot ID: `MTY2MTkzMDEyNSwwMDAwMDAwMGNiYTUyY2ZlZGIyNzIzOTQ4YTk0M2ZhYjUzMzlmZWVm`
+Snapshot ID: `MTY2MTkzMDEyNSwwMDAwMDAwMDE2MjFkYWEzMDgzNjU0MzQxYTEwZDE1NTkzZWMyNDNk`

@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 176189,
+  "num_followers": 176327,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMDc3YTJhZDIzMTkzZWY0YTFkYWUxZjFjMmY3YWExYWU5",
+  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMGQxYzNhNzYxNTc4NGNmMzA0ZmE3YTJkZDc4MTg5YmEy",
   "tracks": [
     {
       "added_at": "2022-04-25 03:23:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 234666,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2022-04-25 03:23:16",

@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> New music from NAV, DJ Khaled, Sleepy Hallow, Coi Leray and Big Sean is here!
+> New music from NAV, Sleepy Hallow, Coi Leray and Big Sean is here!
 
-433 songs - 21 hr 48 min - [published](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
+434 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [38 \(feat\. Pressa\)](https://open.spotify.com/track/1QNoq8VTijLPuVXqGAkMAp) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Buy or Bye 2](https://open.spotify.com/album/34dTMVQitxHQO7MXXI1MPf) | 2:37 | 2021-12-31 | 2022-02-05 |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2022-04-01 | 2022-04-16 |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-19 |  |
-| [\[Admire Her\] \(with Gunna\)](https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 2:37 | 2022-04-15 |  |
+| [\[Admire Her\] \(with Gunna\)](https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 2:37 | 2022-04-15 | 2022-09-12 |
 | [Afterlife](https://open.spotify.com/track/2l9m4igR1iU8tqTgVWtjwp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Afterlife](https://open.spotify.com/album/0mU8kILJJ8QZv6C6zSSREv) | 2:29 | 2022-01-28 | 2022-03-05 |
 | [Again](https://open.spotify.com/track/3hJi82FnDZdCsi8NkfaAVj) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk), [J Neat](https://open.spotify.com/artist/1gcJL4VIufEidILrBPsCgq) | [Again](https://open.spotify.com/album/6CZzeVzSatYIOjY3FecBIS) | 3:11 | 2022-01-14 | 2022-02-05 |
 | [AHHH HA](https://open.spotify.com/track/2bPI4TKM4oTxl2SijUXM2J) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:06 | 2022-03-25 | 2022-04-29 |
@@ -259,6 +259,7 @@
 | [More Thoughts \(2019\)](https://open.spotify.com/track/5NFEYDjRq8kmPVQiUdixBp) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit](https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj) | 2:36 | 2022-09-09 |  |
 | [Mountains \(with Fivio Foreign & Young M.A\)](https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:48 | 2022-04-08 | 2022-04-29 |
 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 | 2022-06-03 | 2022-06-18 |
+| [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-12 |  |
 | [Murder Music \(feat\. Benny The Butcher, Jadakiss, Busta Rhymes\)](https://open.spotify.com/track/0UW2IKq84Gn29QkjbT3WNc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Murder Music](https://open.spotify.com/album/7An2d6hIBTIisD0WRyr7No) | 4:04 | 2021-12-31 | 2022-01-15 |
 | [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 | 2022-05-20 | 2022-07-02 |
 | [My 24th Birthday](https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [My 24th Birthday](https://open.spotify.com/album/5Q8Ac801if6yJwkbrFmV5D) | 6:23 | 2022-06-24 | 2022-08-13 |

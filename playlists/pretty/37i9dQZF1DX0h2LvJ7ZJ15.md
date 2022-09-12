@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,135 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,935 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 16 | [help\_urself \- slowed](https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 2:31 |
 | 17 | [vendetta! \- Slowed + Reverb](https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta! \(Slowed + Reverb\)](https://open.spotify.com/album/23BaWXcjrA2P7khBHQLP7N) | 1:57 |
 | 18 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
-| 19 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 |
-| 20 | [Righteous \- SLOW & REVERB](https://open.spotify.com/track/7nXhtM9iHmF8Cffte2nhGo) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/album/1AORwJs3ykui6D9A2yNlCf) | 3:00 |
+| 19 | [Righteous \- SLOW & REVERB](https://open.spotify.com/track/7nXhtM9iHmF8Cffte2nhGo) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/album/1AORwJs3ykui6D9A2yNlCf) | 3:00 |
+| 20 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 |
 | 21 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 |
 | 22 | [go \- Lower & Slower](https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:44 |
 | 23 | [SNAP \- Low and Slow](https://open.spotify.com/track/1XV9T4WLr3N4xacgl58hvT) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
 | 50 | [Feel Like \(Slowed\)](https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo) | [AREZRA](https://open.spotify.com/artist/6CgedJ2dk5GP40gS1OmGgE) | [Feel Like \(Slowed\)](https://open.spotify.com/album/2NT2KC0E0YiiC6YHiuGoNJ) | 3:37 |
 
-Snapshot ID: `MTY2MTU0MTE2MywwMDAwMDAwMDZhNTFkOGE2MDJjNWZlMmQ2ZDg4ZTgyNGM1Y2ExMjU5`
+Snapshot ID: `MTY2MTU0MTE2MywwMDAwMDAwMDA2YWIwZWU0ODhiODJkYmMxMjE3ZTRkNDFmMWEyYmU4`

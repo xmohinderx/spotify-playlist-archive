@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 234279,
+  "num_followers": 234302,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMDBmMjY5NDlhZTdiMWZiZjg1NWQ1NjY4M2ZiOGE1OWFl",
+  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMDBiYzY0Y2Q2OTM5MzcwOGRhNzA5M2I0MTcyNDA4ODI5",
   "tracks": [
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 272742,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "True - The Digital E.P.",
         "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 272742,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1807,6 +1807,38 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Love You For A Long Time",
         "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },
@@ -1823,18 +1855,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+        "name": "To Die For",
+        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 280853,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+      "duration_ms": 193795,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1863,38 +1895,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "To Die For",
-        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Boys And Girls",
         "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
       },
@@ -1907,22 +1907,6 @@
       "duration_ms": 266333,
       "name": "Slave To Love",
       "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Icarus Falls",
-        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1943,6 +1927,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Icarus Falls",
+        "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -1955,6 +1955,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1991,38 +2007,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 199849,
       "name": "What Lovers Do (feat. SZA)",
       "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "This Is the Sea (Deluxe Version)",
         "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 302826,
       "name": "The Whole of the Moon - 2004 Remaster",
       "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The Rubberband Man / Now That We're Together",
-        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "The Rubberband Man",
-      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The Rubberband Man / Now That We're Together",
+        "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "The Rubberband Man",
+      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
     },
     {
       "added_at": "2021-04-30 08:33:50",

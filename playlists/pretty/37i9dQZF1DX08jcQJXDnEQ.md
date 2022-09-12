@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,373 likes - 150 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,783 likes - 150 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,9 +121,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 111 | [Midlife Crisis](https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 4:19 |
 | 112 | [Sick of You](https://open.spotify.com/track/3wYGlCudjkMRvgSC2UqfWS) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Scumdogs of the Universe](https://open.spotify.com/album/2rwHhGJXMCY7IkpnWYV11C) | 3:08 |
 | 113 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
-| 114 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 |
-| 115 | [Metal Warriors](https://open.spotify.com/track/5P2Ghhv0wFYThHfDQaS0g5) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [The Triumph of Steel](https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd) | 3:54 |
-| 116 | [Love Rears Its Ugly Head](https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Time'S Up](https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA) | 4:19 |
+| 114 | [Love Rears Its Ugly Head](https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Time'S Up](https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA) | 4:19 |
+| 115 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 |
+| 116 | [Metal Warriors](https://open.spotify.com/track/5P2Ghhv0wFYThHfDQaS0g5) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [The Triumph of Steel](https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd) | 3:54 |
 | 117 | [Empire \- Remastered 2003](https://open.spotify.com/track/069YqoVkrwNxnfWWj7k3Qk) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:24 |
 | 118 | [Souls of Black](https://open.spotify.com/track/5zAN2OQJsmcBVG1oO5QroD) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Souls of Black](https://open.spotify.com/album/3CFswsRArMIduymEMdBaHi) | 3:22 |
 | 119 | [Empower](https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Do We Speak A Dead Language?](https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt) | 2:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 149 | [Ramones](https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 1:25 |
 | 150 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
 
-Snapshot ID: `MTY2MjAzNzIwMCwwMDAwMDAwMDJmZjg4ZmJlOWY5Y2RlYjY0YWNhNDU5Y2VjOGMxOTBm`
+Snapshot ID: `MTY2MjAzNzIwMCwwMDAwMDAwMGU1NzgzNzg1NzhmODJjMThkZGM5MjczYWJlYjVkZWM0`

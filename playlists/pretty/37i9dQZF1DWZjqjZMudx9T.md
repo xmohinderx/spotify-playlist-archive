@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la CALLE a la CIMA con ROSALÍA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,598,735 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,602,558 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

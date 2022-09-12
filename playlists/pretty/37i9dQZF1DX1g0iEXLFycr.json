@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1052238,
+  "num_followers": 1052209,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDMyZWFmNTI3ODA0N2Q0NmEwMjdmMWRhOTgyZGQxMjRh",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGYwYjJmMWM1ZWM5MGM1MmI4NWI4NTM4YTQxMTQyYzBj",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -899,22 +899,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
-      },
-      "artists": [
-        {
-          "name": "Karmin",
-          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Lupe Fiasco's The Cool",
         "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 289000,
       "name": "Superstar (feat. Matthew Santos)",
       "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
+      },
+      "artists": [
+        {
+          "name": "Karmin",
+          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 207975,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "You've Come A Long Way Baby",
-        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Praise You",
-      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Sunchyme",
+        "url": "https://open.spotify.com/album/7u2rcMeQfGbvLHcm0CTNy4"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Sunchyme - Radio Edit",
+      "url": "https://open.spotify.com/track/4u55sKFBSfsyId54ttqiDD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 198066,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/2fHruzatznikGKFeL9Gujm"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Sunchyme",
-        "url": "https://open.spotify.com/album/7u2rcMeQfGbvLHcm0CTNy4"
-      },
-      "artists": [
-        {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Sunchyme - Radio Edit",
-      "url": "https://open.spotify.com/track/4u55sKFBSfsyId54ttqiDD"
     },
     {
       "added_at": "2020-08-27 16:10:25",

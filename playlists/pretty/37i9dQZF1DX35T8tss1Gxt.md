@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,531 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,577 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 61 | [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 |
 | 62 | [Learning to Forgive](https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Learning to Forgive](https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP) | 3:04 |
 | 63 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 |
-| 64 | [Let You In](https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Let You In](https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ) | 3:23 |
-| 65 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
+| 64 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
+| 65 | [Let You In](https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Let You In](https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ) | 3:23 |
 | 66 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 |
 | 67 | [New Wine Flow](https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [New Wine Flow](https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y) | 3:29 |
 | 68 | [Lovely Day](https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [Lovely Day](https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g) | 1:41 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 78 | [GUIDE MY HEART](https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [GUIDE MY HEART](https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG) | 2:23 |
 | 79 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 |
 | 80 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
-| 81 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 |
-| 82 | [Say Less](https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Say Less](https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw) | 2:47 |
-| 83 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 |
+| 81 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 |
+| 82 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 |
+| 83 | [Say Less](https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Say Less](https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw) | 2:47 |
 | 84 | [God Made](https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [God Made](https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft) | 3:20 |
 | 85 | [Preach](https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Preach](https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj) | 3:00 |
 | 86 | [Caught Up](https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Caught Up](https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
 | 100 | [Cover Me](https://open.spotify.com/track/0kgaxUdgR0wOgVxnpyllLY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Kingdom Come](https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb) | 4:41 |
 
-Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMDY1YzVjMWI5OWJjYmEwZDM2MmZiNWMxZDA5OGRmMGVi`
+Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMGQzMGU1YWQ0YTZiMjIzMGU0Yzk4OTBhMmU4NDY0Yjk4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,679 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,710 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 17 | [Moliendo Café](https://open.spotify.com/track/7eOtKm3fNAeAhAoIZmJuEY) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Iag Bari](https://open.spotify.com/album/6zUrmT5eJIG2lNajO4AxJj) | 2:27 |
 | 18 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 19 | [El Futuro Es Nuestro \(feat\. Goran Bregovic\)](https://open.spotify.com/track/0vJWanOoPwLdy4sgyM1FGC) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 4:26 |
-| 20 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 |
-| 21 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 |
+| 20 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 |
+| 21 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 |
 | 22 | [La Violencia](https://open.spotify.com/track/2ZSh2anXpuTLC6utOkavyb) | [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Violencia](https://open.spotify.com/album/3YgJr7L4JQGqDvA7qwkzYm) | 3:10 |
 | 23 | [Djelem Djelem](https://open.spotify.com/track/03nCB2bLgZMahtLTtKk0pU) | [Barcelona Gipsy Klezmer Orchestra](https://open.spotify.com/artist/3PTfq1DY4qdmJaIySsHinw) | [Imbarca](https://open.spotify.com/album/19MmbEcj7NqppcIlQaaS32) | 4:52 |
 | 24 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Bailando Con las Farolas](https://open.spotify.com/track/6L50NoOHzsy4nqgqMjTU09) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Bailando Con las Farolas](https://open.spotify.com/album/7JdYoEGug2CawZ409DG1U0) | 3:00 |
 | 50 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 |
 
-Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDEzNTU4MzljOTU4MzAxYjI4YmEzYjJiZjY2YjVjYTQ2`
+Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMGViMjM3Y2ZkM2U5Y2EyZWJjODYwYmQxNjIzOTQwZWFj`

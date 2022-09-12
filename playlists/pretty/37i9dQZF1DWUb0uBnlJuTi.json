@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Unc D",
-  "num_followers": 207392,
+  "num_followers": 207641,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDc1YTU0NTAxMmRmMzczMDk0OTFlNTZlMTkwNjgyZjI2",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDAxMjY5YzczYzk0M2QyMDNmN2MzZmMxNDZkMDUxMGRh",
   "tracks": [
     {
       "added_at": "2022-09-02 04:02:00",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "A Go Go",
+        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 406960,
+      "name": "Chank",
+      "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Toots (Radio Edit)",
@@ -519,22 +535,6 @@
       "duration_ms": 352197,
       "name": "Toots - Radio Edit",
       "url": "https://open.spotify.com/track/7GPHQaLK0TrkMKIopusoK4"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "A Go Go",
-        "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 406960,
-      "name": "Chank",
-      "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -657,38 +657,6 @@
       "url": "https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "May The Funk Be With You",
-        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "May The Funk Be With You",
-      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 424040,
-      "name": "So This Is Love?",
-      "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "All Kooked out!",
@@ -711,6 +679,38 @@
       "duration_ms": 299800,
       "name": "Blues for Ben",
       "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 424040,
+      "name": "So This Is Love?",
+      "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Thrust",
@@ -775,6 +759,22 @@
       "duration_ms": 636733,
       "name": "Palm Grease",
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Placebo Years 1971 - 1974",
-        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
-      },
-      "artists": [
-        {
-          "name": "Marc Moulin",
-          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Humpty Dumpty - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "The Resurrection",
@@ -847,6 +831,22 @@
       "duration_ms": 243227,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Placebo Years 1971 - 1974",
+        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
+      },
+      "artists": [
+        {
+          "name": "Marc Moulin",
+          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Humpty Dumpty - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Pigna",
-        "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
-      },
-      "artists": [
-        {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        }
-      ],
-      "duration_ms": 277867,
-      "name": "Midnight Getaway",
-      "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Spoon (Mike Casey Remix)",
@@ -1053,6 +1037,22 @@
       "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Pigna",
+        "url": "https://open.spotify.com/album/5v0rRHYTEggTCkUQSWIqxl"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        }
+      ],
+      "duration_ms": 277867,
+      "name": "Midnight Getaway",
+      "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Gears",
@@ -1067,26 +1067,6 @@
       "duration_ms": 317957,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Confirmation",
-        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
-      },
-      "artists": [
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
-        },
-        {
-          "name": "re os - REO MATSUMOTO",
-          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
-        }
-      ],
-      "duration_ms": 295176,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -1121,6 +1101,26 @@
       "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
+      },
+      "artists": [
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        },
+        {
+          "name": "re os - REO MATSUMOTO",
+          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
+        }
+      ],
+      "duration_ms": 295176,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Declassified",
@@ -1135,6 +1135,22 @@
       "duration_ms": 349440,
       "name": "Everything Is Changing",
       "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "The Positive and the Negative",
+        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "The Positive and the Negative",
+      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -1175,22 +1191,6 @@
       "duration_ms": 241400,
       "name": "Sure Shot",
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
       "added_at": "2021-05-07 04:09:00",
@@ -1293,26 +1293,6 @@
       "url": "https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Interstellar Black Space",
-        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
-      },
-      "artists": [
-        {
-          "name": "Brandon Coleman",
-          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "We Change - Part I",
-      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Sassy",
@@ -1331,6 +1311,26 @@
       "duration_ms": 258242,
       "name": "Sassy",
       "url": "https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Interstellar Black Space",
+        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
+      },
+      "artists": [
+        {
+          "name": "Brandon Coleman",
+          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "We Change - Part I",
+      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
     },
     {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Ay Uh!",
-        "url": "https://open.spotify.com/album/3oQh9kb1PqOGke7qzy25tj"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 123874,
-      "name": "Ay Uh!",
-      "url": "https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Award Tour (We Gettin' Down) / Bonita Applebum (Daylight)",
@@ -1441,28 +1425,56 @@
       "url": "https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
+      "added_at": "2021-07-09 04:01:00",
       "album": {
-        "name": "Deep: The Baritone Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu"
+        "name": "Ay Uh!",
+        "url": "https://open.spotify.com/album/3oQh9kb1PqOGke7qzy25tj"
       },
       "artists": [
         {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        },
-        {
-          "name": "Bobby Sparks II",
-          "url": "https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
         }
       ],
-      "duration_ms": 353546,
-      "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
-      "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
+      "duration_ms": 123874,
+      "name": "Ay Uh!",
+      "url": "https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within",
+        "url": "https://open.spotify.com/album/2Ynmrins1KOecziKB7Hm0V"
+      },
+      "artists": [
+        {
+          "name": "Frank Strazzeri",
+          "url": "https://open.spotify.com/artist/2dwk8DT51a1luYRH1YFLLU"
+        },
+        {
+          "name": "Bobby Shew",
+          "url": "https://open.spotify.com/artist/0bARK3i69D9aD9UVwOQpke"
+        },
+        {
+          "name": "Sam Most",
+          "url": "https://open.spotify.com/artist/6sMhcHW0oL5mjUPEnAHlYy"
+        },
+        {
+          "name": "Harvey Newmark",
+          "url": "https://open.spotify.com/artist/4uJrXxsjaG723m1sCzumQV"
+        },
+        {
+          "name": "Steve Strazzeri",
+          "url": "https://open.spotify.com/artist/714doA9k77jAWpYjmP0HPW"
+        },
+        {
+          "name": "Don Alias",
+          "url": "https://open.spotify.com/artist/7C7gHDXEwGrihpfXqOfV3e"
+        }
+      ],
+      "duration_ms": 594133,
+      "name": "Cloudburst",
+      "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
     }
   ],
   "unique_name": "Jazz-Funk",

@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 85075,
+  "num_followers": 85084,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM0OTM4MSwwMDAwMDAwMDg0N2JhMjI3YzlmZjU2ODYwNWNhZGY4NTQ2ZThhOTYw",
+  "snapshot_id": "MTY2MjM0OTM4MSwwMDAwMDAwMGUxMTQxZmM3YzM0ZjJhYWM1Nzg2Nzc1N2E4ZDI0OWEx",
   "tracks": [
     {
       "added_at": "2022-09-05 03:43:01",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-05 03:43:01",
       "album": {
-        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
-        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
-      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
-    },
-    {
-      "added_at": "2022-09-05 03:43:01",
-      "album": {
         "name": "\u5c0f\u65f6\u5149",
         "url": "https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 155948,
       "name": "\u5c0f\u65f6\u5149",
       "url": "https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE"
+    },
+    {
+      "added_at": "2022-09-05 03:43:01",
+      "album": {
+        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
+        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
     },
     {
       "added_at": "2022-09-05 03:43:01",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-09-05 03:43:01",
       "album": {
+        "name": "\u6539\u8b8a\u81ea\u5df1",
+        "url": "https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
+    },
+    {
+      "added_at": "2022-09-05 03:43:01",
+      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
         "url": "https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 228228,
       "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
       "url": "https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7"
-    },
-    {
-      "added_at": "2022-09-05 03:43:01",
-      "album": {
-        "name": "\u6539\u8b8a\u81ea\u5df1",
-        "url": "https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
     },
     {
       "added_at": "2022-09-05 03:43:01",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-09-05 03:43:01",
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
+          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+        }
+      ],
+      "duration_ms": 206669,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
+    },
+    {
+      "added_at": "2022-09-05 03:43:01",
+      "album": {
         "name": "So Lucky",
         "url": "https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7"
       },
@@ -1267,34 +1283,18 @@
     {
       "added_at": "2022-09-05 03:43:01",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
+        "name": "\u9918\u751f\u90fd\u662f\u4f60",
+        "url": "https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB"
       },
       "artists": [
         {
-          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
-          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+          "name": "Z.TAO",
+          "url": "https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx"
         }
       ],
-      "duration_ms": 206669,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
-    },
-    {
-      "added_at": "2022-09-05 03:43:01",
-      "album": {
-        "name": "\u6162\u6162\u9760\u8fd1",
-        "url": "https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH"
-      },
-      "artists": [
-        {
-          "name": "\u8463\u53c8\u9716",
-          "url": "https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9"
-        }
-      ],
-      "duration_ms": 207371,
-      "name": "\u6162\u6162\u9760\u8fd1",
-      "url": "https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV"
+      "duration_ms": 180776,
+      "name": "\u9918\u751f\u90fd\u662f\u4f60",
+      "url": "https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

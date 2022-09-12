@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,355 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,426 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 18 | [Bodies in the Basement](https://open.spotify.com/track/3wZXkoUcXsTP3iRf6UIH0C) | [Demented Are Go](https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W) | [Welcome Back To Insanity Hall](https://open.spotify.com/album/5pYc0q0qCPcASzOLi03U9k) | 2:28 |
 | 19 | [Who Killed The Cheerleader](https://open.spotify.com/track/3Ero9C3m7RlEf1xu5XhFDC) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 4:09 |
 | 20 | [Last Ride](https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 3:16 |
-| 21 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
-| 22 | [The Way Of The Road](https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 2:24 |
+| 21 | [The Way Of The Road](https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 2:24 |
+| 22 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
 | 23 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
 | 24 | [Gargoyles Over Copenhagen](https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 3:56 |
-| 25 | [Enjoy the Silence](https://open.spotify.com/track/2kL439jP9YGWZ6hdGDDE6l) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [Psychobilly Goes Pop](https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0) | 2:09 |
-| 26 | [Death at My Door](https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 2:10 |
+| 25 | [Death at My Door](https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 2:10 |
+| 26 | [Enjoy the Silence](https://open.spotify.com/track/2kL439jP9YGWZ6hdGDDE6l) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [Psychobilly Goes Pop](https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0) | 2:09 |
 | 27 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
 | 28 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 |
 | 29 | [Stars Are Falling](https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii) | [The Rosedales](https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU) | [Stereoghost](https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 |
 | 50 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMGFlNTdlNWU4ZTI4OWQyMDc2ZWYwNmJkYmE3NTI5NDJl`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDE1OTQzOWJiZTRiNDc1ZDJiOThlNzQ5NzI0NjM0OTY0`

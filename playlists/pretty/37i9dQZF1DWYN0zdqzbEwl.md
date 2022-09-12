@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 
 > Legendarios del rock en español\. Cover: Maná
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,019,711 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,020,133 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 18 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
 | 19 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 |
 | 20 | [En El Muelle De San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
-| 21 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
+| 21 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 22 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
-| 23 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
+| 23 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
 | 24 | [La Célula Que Explota](https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 3:35 |
 | 25 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 26 | [Sabor a Chocolate](https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Lo Que Andábamos Buscando \(Special Para CEV\)](https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h) | 3:51 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 35 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 |
 | 36 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 37 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
-| 38 | [Frijolero](https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 3:30 |
-| 39 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 |
+| 38 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 |
+| 39 | [Frijolero](https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 3:30 |
 | 40 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
 | 41 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
 | 42 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 54 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |
 | 55 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 56 | [Por la boca vive el pez](https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 4:29 |
-| 57 | [Frente a frente \(feat\. Tulsa\)](https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Las Consecuencias](https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO) | 3:53 |
-| 58 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
+| 57 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
+| 58 | [Frente a frente \(feat\. Tulsa\)](https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Las Consecuencias](https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO) | 3:53 |
 | 59 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
 | 60 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
 
-Snapshot ID: `MTY2MTkyNzc0MSwwMDAwMDAwMGU0ZjA3NTJjOTZlZWVhZWFlMzVmYjY4OWFjOTZkNWIy`
+Snapshot ID: `MTY2MTkyNzc0MSwwMDAwMDAwMGFmMDkzZTcyZTQxZTUyODBkNWQ1NDExNzRlNzE3ZTU4`

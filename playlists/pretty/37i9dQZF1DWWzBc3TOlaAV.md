@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,208 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,494 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 38 | [Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:34 |
 | 39 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
 | 40 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 |
-| 41 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
-| 42 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
+| 41 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
+| 42 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
 | 43 | [I Get Around \(Mono\)](https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:14 |
 | 44 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
 | 45 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 69 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
 | 70 | [Good Lovin' \- Single Version](https://open.spotify.com/track/0XnhQGfqfi5CnZXcONJuI5) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [The Young Rascals](https://open.spotify.com/album/2ZhMMZobSh6Pkkv8EK82Fp) | 2:30 |
 
-Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMGFlOWQ5ZWQ1MDc0ZTY2ODQzYzJiMGM5ZDY1ZmVhMGFh`
+Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMGU4YTk3ODIwZDIxNDg4NGFhYzI0MjBjYWFmZTM4NzZi`

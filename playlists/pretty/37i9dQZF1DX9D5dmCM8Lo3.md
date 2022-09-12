@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,618 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,932 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 46 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 |
 | 47 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 48 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
-| 49 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 |
-| 50 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 |
-| 51 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
-| 52 | [Triple Helix](https://open.spotify.com/track/2tqObZaOXyL8KKSME0nmxT) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Levitate](https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM) | 3:35 |
-| 53 | [Through The Hosiery](https://open.spotify.com/track/6pGxDQNsAzAXSTM36XEG4U) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 3:06 |
+| 49 | [Pretty Cvnt](https://open.spotify.com/track/2zFfwBk2frngZUVajhkbxf) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe) | [Sewer//Slvt](https://open.spotify.com/album/1b1tJ7nzqwsCyhtHDGBTHw) | 3:40 |
+| 50 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 |
+| 51 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 |
+| 52 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
+| 53 | [Triple Helix](https://open.spotify.com/track/2tqObZaOXyL8KKSME0nmxT) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Levitate](https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM) | 3:35 |
 | 54 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 |
 | 55 | [Eternal.Temp](https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:36 |
-| 56 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
-| 57 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
-| 58 | [Pretty Cvnt](https://open.spotify.com/track/2zFfwBk2frngZUVajhkbxf) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe) | [Sewer//Slvt](https://open.spotify.com/album/1b1tJ7nzqwsCyhtHDGBTHw) | 3:40 |
+| 56 | [Through The Hosiery](https://open.spotify.com/track/6pGxDQNsAzAXSTM36XEG4U) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 3:06 |
+| 57 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
+| 58 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
 | 59 | [Partymonst3r](https://open.spotify.com/track/40JKHWIqZ6Yhvi13Va054H) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [twilight princess](https://open.spotify.com/album/5inmxPZxsMZIq9GJRJEQtg) | 2:41 |
 | 60 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
 | 61 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 72 | [I'm full of spite mane I'm too fucking petty](https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [TOXIC SHAWTY ANTHEM](https://open.spotify.com/album/41VxLMH698S4R6pCMTG9Xx) | 3:27 |
 | 73 | [Ascending Red](https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 3:05 |
 | 74 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
-| 75 | [Taxi](https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR) | [foster n!x](https://open.spotify.com/artist/5enSh2TLNYisRbvFyT5EKl) | [Drop Five](https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L) | 1:38 |
+| 75 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
 
-Snapshot ID: `MTY0ODgyNTAwNiwwMDAwMDAwMDU5YjUwZGY3NjUzNDcxOWU4Yzg5MTY4ODhjNzU2MjQ0`
+Snapshot ID: `MTY0ODgyNTAwNiwwMDAwMDAwMGZiMDkxZjJlZDJiYjc5ZjUxZjc2NWY0YWVkOGM5MmQ5`

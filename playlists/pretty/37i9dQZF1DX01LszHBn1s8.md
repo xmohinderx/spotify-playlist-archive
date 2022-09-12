@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🌽🌽 it's corn!! a big lump with knobs!! it has the juice!! 🌽🌽
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,747 likes - 577 songs - 1 day 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,962 likes - 577 songs - 1 day 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 149 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 150 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 |
 | 151 | [Syrener](https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Syrener](https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu) | 3:02 |
-| 152 | [\#doyalike](https://open.spotify.com/track/1LFlxasK0IzaAjLdabQU0z) | [AleksFraWish](https://open.spotify.com/artist/42Apv8xhBHxdL0oYZipogm), [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL), [Qufiy](https://open.spotify.com/artist/1W0zls5WrRJ2zpqKUVc5IT) | [\#doyalike](https://open.spotify.com/album/7crEEZZmPA6s9KYdD5TI4K) | 3:03 |
+| 152 | [\#doyalike](https://open.spotify.com/track/0axgY4AiWx0spzdQb1gSjg) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN) | 3:03 |
 | 153 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
 | 154 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 |
 | 155 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 |
@@ -586,4 +586,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 576 | [Cold \(feat\. Future\)](https://open.spotify.com/track/7gwLQ4tZ5UdZ7qNcDyJ8wr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:54 |
 | 577 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
 
-Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMGM4ODA5NDBlODhiODJhYzAwZGJkYmVlZWU5NzU0Nzk5`
+Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMDIxMGE4OGMxNmM4N2RmMTE3OTYzMTVkMGRjNmEzMTI5`

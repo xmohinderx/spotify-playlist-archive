@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Camilo; El Alfa y J Balvin; ROSALÍA; Ghetto Kids; Yoss Bones; Nanpa Básico y Santa Fe Klan; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,067 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,124 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

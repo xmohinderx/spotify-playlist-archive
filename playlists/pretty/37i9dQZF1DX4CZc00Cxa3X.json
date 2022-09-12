@@ -1,12 +1,12 @@
 {
   "description": "Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own. ",
-  "num_followers": 12241,
+  "num_followers": 12312,
   "original_name": "The Listening Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1NjE1MiwwMDAwMDAwMDM4MjAyODhkZTJhYjdhOWMwODFlMmUzODgzYjNhMDVm",
+  "snapshot_id": "MTY2MjU1NjE1MiwwMDAwMDAwMDkzZDlhNGIzMmY1MDU3ZjA2YWMzYjIyNWY4M2Y2M2Q4",
   "tracks": [
     {
       "added_at": "2022-09-07 13:09:12",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
-        "name": "wander into",
-        "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "\u604b\u306e\u4e88\u611f",
-      "url": "https://open.spotify.com/track/7ow2eDOKlvYeNcJ49Zjw6E"
-    },
-    {
-      "added_at": "2022-09-07 13:09:12",
-      "album": {
         "name": "Fools' Harp, Vol. 1",
         "url": "https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
-        "name": "Strands",
-        "url": "https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn"
+        "name": "wander into",
+        "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
       },
       "artists": [
         {
-          "name": "gonima",
-          "url": "https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80"
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
         }
       ],
-      "duration_ms": 155980,
-      "name": "Open Mind",
-      "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
+      "duration_ms": 168750,
+      "name": "\u604b\u306e\u4e88\u611f",
+      "url": "https://open.spotify.com/track/7ow2eDOKlvYeNcJ49Zjw6E"
     },
     {
       "added_at": "2022-09-07 13:09:12",
@@ -303,6 +287,22 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
+        "name": "Strands",
+        "url": "https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn"
+      },
+      "artists": [
+        {
+          "name": "gonima",
+          "url": "https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80"
+        }
+      ],
+      "duration_ms": 155980,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
+    },
+    {
+      "added_at": "2022-09-07 13:09:12",
+      "album": {
         "name": "Antiphonals",
         "url": "https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
-        "name": "Satori",
-        "url": "https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg"
-    },
-    {
-      "added_at": "2022-09-07 13:09:12",
-      "album": {
         "name": "Book of Life",
         "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 264683,
       "name": "Fog",
       "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
+    },
+    {
+      "added_at": "2022-09-07 13:09:12",
+      "album": {
+        "name": "Satori",
+        "url": "https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg"
     },
     {
       "added_at": "2022-09-07 13:09:12",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
+        "name": "Adversarial Policies",
+        "url": "https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Morse",
+          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
+        }
+      ],
+      "duration_ms": 474666,
+      "name": "Nothing but Endless Rejections",
+      "url": "https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp"
+    },
+    {
+      "added_at": "2022-09-07 13:09:12",
+      "album": {
         "name": "Swan Song",
         "url": "https://open.spotify.com/album/1e1iZUHplnFCBXtYmJ0VpE"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 187992,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3"
-    },
-    {
-      "added_at": "2022-09-07 13:09:12",
-      "album": {
-        "name": "Adversarial Policies",
-        "url": "https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Morse",
-          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
-        }
-      ],
-      "duration_ms": 474666,
-      "name": "Nothing but Endless Rejections",
-      "url": "https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp"
     },
     {
       "added_at": "2022-09-07 13:09:12",
@@ -603,22 +603,18 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
-        "name": "Overlay (KMRU Remix)",
-        "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi"
       },
       "artists": [
         {
-          "name": "Koki Nakano",
-          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
-        },
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+          "name": "Le Motel",
+          "url": "https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd"
         }
       ],
-      "duration_ms": 305353,
-      "name": "Overlay - KMRU Remix",
-      "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
+      "duration_ms": 295993,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN"
     },
     {
       "added_at": "2022-09-07 13:09:12",
@@ -639,34 +635,22 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
-        "name": "Ikigai",
-        "url": "https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi"
+        "name": "Overlay (KMRU Remix)",
+        "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
       },
       "artists": [
         {
-          "name": "Le Motel",
-          "url": "https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd"
-        }
-      ],
-      "duration_ms": 295993,
-      "name": "Ikigai",
-      "url": "https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN"
-    },
-    {
-      "added_at": "2022-09-07 13:09:12",
-      "album": {
-        "name": "Orchestral Tape Studies",
-        "url": "https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP"
-      },
-      "artists": [
+          "name": "Koki Nakano",
+          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
+        },
         {
-          "name": "zak\u00e8",
-          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
         }
       ],
-      "duration_ms": 367053,
-      "name": "Solar",
-      "url": "https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW"
+      "duration_ms": 305353,
+      "name": "Overlay - KMRU Remix",
+      "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
     },
     {
       "added_at": "2022-09-07 13:09:12",
@@ -683,6 +667,22 @@
       "duration_ms": 373894,
       "name": "Surfacing",
       "url": "https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j"
+    },
+    {
+      "added_at": "2022-09-07 13:09:12",
+      "album": {
+        "name": "Orchestral Tape Studies",
+        "url": "https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        }
+      ],
+      "duration_ms": 367053,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW"
     },
     {
       "added_at": "2022-09-07 13:09:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-07 13:09:12",
       "album": {
-        "name": "Grafts (Expanded Reissue)",
-        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 472500,
-      "name": "2c",
-      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
-    },
-    {
-      "added_at": "2022-09-07 13:09:12",
-      "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 351379,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo"
+    },
+    {
+      "added_at": "2022-09-07 13:09:12",
+      "album": {
+        "name": "Grafts (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 472500,
+      "name": "2c",
+      "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
     },
     {
       "added_at": "2022-09-07 13:09:12",

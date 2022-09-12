@@ -4,7 +4,7 @@
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-218 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/7hzvHKwkDQ5iYg92Vjtc0a)
+219 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/7hzvHKwkDQ5iYg92Vjtc0a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,8 +212,9 @@
 | [Trust My Lonely](https://open.spotify.com/track/7eXT7U3FKrOM88xr1DsNwc) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:19 | 2021-08-25 |  |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2021-08-25 |  |
 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 | 2021-08-25 |  |
+| [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 | 2021-08-25 |  |
 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- Singles 1992\-2006](https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO) | 3:49 | 2021-08-25 | 2022-07-29 |
-| [Virtual Insanity \- Remastered](https://open.spotify.com/track/49TQfrsm60j5ZFKS59JOdU) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/290mciLlwjKmpNgv95xTSO) | 3:49 | 2021-08-25 |  |
+| [Virtual Insanity \- Remastered](https://open.spotify.com/track/49TQfrsm60j5ZFKS59JOdU) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/290mciLlwjKmpNgv95xTSO) | 3:49 | 2021-08-25 | 2022-09-12 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2021-08-25 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2021-08-25 |  |
 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 | 2022-04-13 |  |

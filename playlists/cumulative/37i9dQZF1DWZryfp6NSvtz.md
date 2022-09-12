@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Nickelback
 
-1,887 songs - 4 day 11 hr 46 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,888 songs - 4 day 11 hr 49 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,7 +925,8 @@
 | [Let It Rain](https://open.spotify.com/track/3r7PiXUMvOrIb5nEcFP6uB) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Let It Rain](https://open.spotify.com/album/411K9uONbXWDxo9aEgEyE0) | 4:39 | 2022-05-19 | 2022-05-27 |
 | [Let It Ride](https://open.spotify.com/track/05OVSWB2Xd9G9CM8rHZuqC) | [Tom Meighan](https://open.spotify.com/artist/3EgsCrH1gSJmJqfWAcvZRn) | [Let It Ride](https://open.spotify.com/album/6mcmbrj12OHFy76gABKu3u) | 3:41 | 2022-04-07 | 2022-04-15 |
 | [Let Me Dream](https://open.spotify.com/track/4GOchfJRfUG6ZyCmhXTJZH) | [Kill Strings](https://open.spotify.com/artist/6dmCo3M8DyCxZ4qR6ImCI0) | [Let Me Dream](https://open.spotify.com/album/62NHLUUfQWpHyYN879sFwi) | 3:57 | 2022-04-28 | 2022-05-06 |
-| [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-01 |  |
+| [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2022-09-08 |  |
+| [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-01 | 2022-09-12 |
 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 | 2022-07-29 | 2022-08-06 |
 | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/track/0JX13l9ixwzb9BBTG5vaNV) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/album/6FDZMfAhiOT1vgZ21iupjV) | 3:25 | 2022-08-12 | 2022-08-20 |
 | [Let's Go](https://open.spotify.com/track/6ZbOvsuccPdEO3Rsc2tcce) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Tastes Like Gold](https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW) | 3:44 | 2022-06-16 | 2022-06-24 |

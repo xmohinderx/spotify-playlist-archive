@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1453188,
+  "num_followers": 1453281,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMDc3N2U5ZmU1ZWNlYWM5ODk4ZTRiYjAzMTZkYTc1ZWQy",
+  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMGQ5NzRlMzQxNmRjODhjNzNmYzA4ZTU2NzU4NDFlZmE3",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -275,22 +275,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -327,18 +323,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Songs to Break Up To",
         "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Wild Love (Acoustic)",
         "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1187,6 +1187,22 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Long Blue Light",
         "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Love Like That",
         "url": "https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi"
       },
@@ -1547,6 +1547,30 @@
       "duration_ms": 249535,
       "name": "Grenade - Acoustic",
       "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Starving (Acoustic)",
+        "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Starving - Acoustic",
+      "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1599,30 +1623,6 @@
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Starving (Acoustic)",
-        "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Starving - Acoustic",
-      "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Time Without Consequence",
-        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 297120,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Breathe Again (Acoustic)",
         "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 198381,
       "name": "Breathe Again - Acoustic",
       "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Time Without Consequence",
+        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 297120,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Tee Shirt",
-        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Tee Shirt - Soundtrack Version",
-      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Tee Shirt",
+        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Tee Shirt - Soundtrack Version",
+      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
     },
     {
       "added_at": "2022-07-22 04:00:00",

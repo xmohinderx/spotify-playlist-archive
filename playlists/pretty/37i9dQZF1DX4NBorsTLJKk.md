@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,793 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,822 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 8 | [滯留鋒](https://open.spotify.com/track/4lMNnQmrG15MzxbFXECbCy) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/6cHxc7xRPejbtlr0VfOgxJ) | 5:07 |
 | 9 | [雨天](https://open.spotify.com/track/5tZbcQ5PYID0xB0VNblmrK) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [My Story 2006 新歌+精選](https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g) | 4:01 |
 | 10 | [晴天雨天](https://open.spotify.com/track/1AzQjh998Ha3YKhVsUMnd5) | [唐貓 SUGARCAT](https://open.spotify.com/artist/4aWERTpHN8Z4OEtq9hcLR9) | [晴天雨天](https://open.spotify.com/album/5df0AO6gNJBe5KvX4C3tKw) | 3:47 |
-| 11 | [你的世界是否也下著雨](https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac) | [碧欣](https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3) | [你的世界是否也下著雨](https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj) | 4:34 |
-| 12 | [雨下一整晚](https://open.spotify.com/track/1wAiIIAskptjT45tgR35ad) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:14 |
+| 11 | [雨下一整晚](https://open.spotify.com/track/1wAiIIAskptjT45tgR35ad) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:14 |
+| 12 | [你的世界是否也下著雨](https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac) | [碧欣](https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3) | [你的世界是否也下著雨](https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj) | 4:34 |
 | 13 | [下雨的夜晚](https://open.spotify.com/track/0SH79vh3rXHDWFwerUsAkZ) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [冬 未了](https://open.spotify.com/album/3ocSaUwFSAOecoSc4I6ZkU) | 4:30 |
 | 14 | [偶陣雨](https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [愛久見人心](https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F) | 4:26 |
 | 15 | [突然一场雨](https://open.spotify.com/track/3z2KgOHzQ2DyetrAmNVdM8) | [蓝心羽](https://open.spotify.com/artist/5IUx51U4VsEk4wGQvZQcf2) | [突然一场雨](https://open.spotify.com/album/4m8AS1PYiVX3eNgApqDuis) | 3:50 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 72 | [雨與你](https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi) | [海洋音樂創作專輯](https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE) | 6:09 |
 | 73 | [雨和太陽](https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 3:20 |
 | 74 | [淋雨中](https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO) | [林宇中](https://open.spotify.com/artist/5v5S1It3qh2HHacQj24HO2) | [淋雨中](https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO) | 3:58 |
-| 75 | [雨天練習](https://open.spotify.com/track/2DOi724KaHE6Ymcxs1Skut) | [依錚依靜](https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8) | [心靈感應](https://open.spotify.com/album/5IwnwzK6VmLCP6kFubDN8l) | 1:40 |
+| 75 | [等雨](https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [拾](https://open.spotify.com/album/5AgltDdpS6cBwYNsctFypI) | 4:09 |
 
-Snapshot ID: `MTY2MjM0NzE5NywwMDAwMDAwMDAwMDVhOTFjZmIwYTJkMDM0ZjRkMzA2NmMxMjIwNmZl`
+Snapshot ID: `MTY2MjM0NzE5NywwMDAwMDAwMDE4MjMwODM2ZjFiMzEyZTA1N2QzYTE4ZTQyNDBmYTc3`

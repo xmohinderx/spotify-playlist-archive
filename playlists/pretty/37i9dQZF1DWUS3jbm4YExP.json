@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 526918,
+  "num_followers": 527200,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczMDI4OSwwMDAwMDAwMDg5MGNmNmE3NmEyNzZmMDZiMTU0ZGU0MGM5MzEzYTFl",
+  "snapshot_id": "MTY2Mjg2NzgzOCwwMDAwMDAwMDI2OGE2NjNkZWU3MTNmZjQ2YWEwZjNmNWQ3ZmQ0NjE5",
   "tracks": [
     {
       "added_at": "2022-09-09 03:16:34",
@@ -413,6 +413,26 @@
       "url": "https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0"
     },
     {
+      "added_at": "2022-09-11 03:43:58",
+      "album": {
+        "name": "Boogie With Your Baby",
+        "url": "https://open.spotify.com/album/0JRKtByiknT9qvpDQVy3ui"
+      },
+      "artists": [
+        {
+          "name": "Funkool Orchestra",
+          "url": "https://open.spotify.com/artist/4gaQmpOSxtcveUg7jdcC6i"
+        },
+        {
+          "name": "Golden Rules",
+          "url": "https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz"
+        }
+      ],
+      "duration_ms": 253749,
+      "name": "Boogie With Your Baby",
+      "url": "https://open.spotify.com/track/6eVf9JIPNNEZ9xAwKTG4cx"
+    },
+    {
       "added_at": "2022-02-11 00:29:03",
       "album": {
         "name": "Chan Chan",
@@ -443,26 +463,6 @@
       "duration_ms": 308301,
       "name": "One Inch Punch",
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
-    },
-    {
-      "added_at": "2022-04-17 18:22:38",
-      "album": {
-        "name": "Alegr\u00eda (Yuksek Remix) - Single",
-        "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
-      },
-      "artists": [
-        {
-          "name": "Elia y Elizabeth",
-          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
-        },
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        }
-      ],
-      "duration_ms": 258235,
-      "name": "Alegr\u00eda - Yuksek Remix",
-      "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -501,6 +501,26 @@
       "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
     },
     {
+      "added_at": "2022-04-17 18:22:38",
+      "album": {
+        "name": "Alegr\u00eda (Yuksek Remix) - Single",
+        "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
+      },
+      "artists": [
+        {
+          "name": "Elia y Elizabeth",
+          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "duration_ms": 258235,
+      "name": "Alegr\u00eda - Yuksek Remix",
+      "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
+    },
+    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Mr Bongo Record Club, Vol. 1",
@@ -535,22 +555,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "All News Is Good News",
-        "url": "https://open.spotify.com/album/2keTegvdCIABoSTHXBArbI"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 261395,
-      "name": "All News Is Good News",
-      "url": "https://open.spotify.com/track/6xNouwojGWhHlweVGfAI9H"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -567,18 +571,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
+        "name": "All News Is Good News",
+        "url": "https://open.spotify.com/album/2keTegvdCIABoSTHXBArbI"
       },
       "artists": [
         {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
+      "duration_ms": 261395,
+      "name": "All News Is Good News",
+      "url": "https://open.spotify.com/track/6xNouwojGWhHlweVGfAI9H"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -595,6 +599,22 @@
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -633,6 +653,22 @@
       "url": "https://open.spotify.com/track/438vUZj0qwC0zM4HMF3trH"
     },
     {
+      "added_at": "2022-08-03 03:47:10",
+      "album": {
+        "name": "Money Music",
+        "url": "https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg"
+    },
+    {
       "added_at": "2022-04-17 19:52:01",
       "album": {
         "name": "Mistakes on Purpose (Ethiopiques 30)",
@@ -653,20 +689,24 @@
       "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
     },
     {
-      "added_at": "2022-08-03 03:47:10",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Money Music",
-        "url": "https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM"
+        "name": "Satingarona, Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
       "artists": [
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Laurene P Magnani",
+          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
         }
       ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg"
+      "duration_ms": 294499,
+      "name": "Agua fr\u00eda",
+      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
     },
     {
       "added_at": "2022-06-03 16:50:58",
@@ -691,22 +731,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Satingarona, Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+        "name": "Mordechai Remixes",
+        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
       "artists": [
         {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         },
         {
-          "name": "Laurene P Magnani",
-          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 294499,
-      "name": "Agua fr\u00eda",
-      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+      "duration_ms": 301995,
+      "name": "Pelota (Cut a Rug Mix)",
+      "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -727,26 +767,6 @@
       "duration_ms": 432963,
       "name": "Spies Are Watching Me",
       "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Mordechai Remixes",
-        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 301995,
-      "name": "Pelota (Cut a Rug Mix)",
-      "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1017,6 +1037,22 @@
       "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Je k'abere",
+        "url": "https://open.spotify.com/album/29vQ4mgLzNjx3t7GB4Qbr1"
+      },
+      "artists": [
+        {
+          "name": "Surv",
+          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
+        }
+      ],
+      "duration_ms": 261167,
+      "name": "Je k'abere",
+      "url": "https://open.spotify.com/track/0mNYzvTXVvwWlmywEqnzHv"
+    },
+    {
       "added_at": "2022-04-26 02:37:33",
       "album": {
         "name": "Let the Festivities Begin!",
@@ -1035,18 +1071,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Je k'abere",
-        "url": "https://open.spotify.com/album/29vQ4mgLzNjx3t7GB4Qbr1"
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
       "artists": [
         {
-          "name": "Surv",
-          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
         }
       ],
-      "duration_ms": 261167,
-      "name": "Je k'abere",
-      "url": "https://open.spotify.com/track/0mNYzvTXVvwWlmywEqnzHv"
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1087,26 +1127,6 @@
       "duration_ms": 213749,
       "name": "Unathi",
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1181,6 +1201,22 @@
       "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+    },
+    {
       "added_at": "2022-04-17 20:13:34",
       "album": {
         "name": "Roots in the Air",
@@ -1199,22 +1235,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
@@ -1227,6 +1247,42 @@
       "duration_ms": 390121,
       "name": "I Like It (Don't Stop)",
       "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Road Of The Lonely Ones",
+        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Road Of The Lonely Ones",
+      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Voiciii",
+        "url": "https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        }
+      ],
+      "duration_ms": 288569,
+      "name": "Ben Bene La",
+      "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
     },
     {
       "added_at": "2022-08-09 18:35:48",
@@ -1251,22 +1307,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Road Of The Lonely Ones",
-        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
-      },
-      "artists": [
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Road Of The Lonely Ones",
-      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "The Rabbit That Hunts Tigers",
         "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
@@ -1279,26 +1319,6 @@
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Voiciii",
-        "url": "https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH"
-      },
-      "artists": [
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        }
-      ],
-      "duration_ms": 288569,
-      "name": "Ben Bene La",
-      "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1359,6 +1379,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Wahala Wahala",
         "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
       },
@@ -1375,22 +1411,6 @@
       "duration_ms": 361715,
       "name": "Suro Nipa",
       "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1527,22 +1547,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Gun Metal Grey",
         "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
       },
@@ -1555,6 +1559,22 @@
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1643,22 +1663,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Bijou voyou caillou",
-        "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
-      },
-      "artists": [
-        {
-          "name": "Florian Pellissier Quintet",
-          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Coup de foudre \u00e0 Thessalonique",
-      "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Various Bilongo",
         "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
       },
@@ -1671,6 +1675,22 @@
       "duration_ms": 336133,
       "name": "Jungle Music",
       "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Bijou voyou caillou",
+        "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
+      },
+      "artists": [
+        {
+          "name": "Florian Pellissier Quintet",
+          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Coup de foudre \u00e0 Thessalonique",
+      "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1731,22 +1751,6 @@
       "duration_ms": 203076,
       "name": "No Me Quieres (feat. Fabi Reyna)",
       "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 284070,
-      "name": "Musa Paradisa",
-      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
     }
   ],
   "unique_name": "Global Groove",

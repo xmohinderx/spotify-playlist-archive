@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,272 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,281 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 28 | [Roy's Toy](https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [You Had It Coming](https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft) | 3:35 |
 | 29 | [FaiBless](https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:19 |
 | 30 | [Sunroof Diesel Blues](https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 3:44 |
-| 31 | [Right Now](https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Leaf Dog](https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6) | [Dog 'n' Bone](https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa) | 2:37 |
-| 32 | [Heavy On My Heart](https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf) | [Caiti Baker](https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P) | [Heavy On My Heart](https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf) | 3:30 |
+| 31 | [Heavy On My Heart](https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf) | [Caiti Baker](https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P) | [Heavy On My Heart](https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf) | 3:30 |
+| 32 | [Right Now](https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Leaf Dog](https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6) | [Dog 'n' Bone](https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa) | 2:37 |
 | 33 | [Stick Em Up](https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o), [Grid Division](https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt) | [Stick Em Up](https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk) | 3:56 |
 | 34 | [Please Don't Stay](https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 2:58 |
 | 35 | [Ride On](https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 5:21 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 46 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
 | 47 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
 | 48 | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t) | [Wolfgang Wee](https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV) | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ) | 3:58 |
-| 49 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
-| 50 | [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 |
+| 49 | [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 |
+| 50 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDY2ODRmNDI2MGY1YWRjZDUxYzk1MGNkMjIyMWQzZGE5`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDc5ZGNhMmU4NzBkNmUxMTBmMzgxZTliMTM1NTViMDJl`

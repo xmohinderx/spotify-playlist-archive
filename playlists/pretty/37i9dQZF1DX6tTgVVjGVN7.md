@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 
 > Bandas legendarias y canciones que hicieron historia\. Foto: Los Prisioneros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,667 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,746 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 | 24 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
 | 25 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
 | 26 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
-| 27 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
-| 28 | [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
+| 27 | [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
+| 28 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
 | 29 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 30 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 | 31 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
 | 32 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 33 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 |
-| 34 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
-| 35 | [Cuando Pase El Temblor \- Remasterizado 2007](https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:49 |
+| 34 | [Cuando Pase El Temblor \- Remasterizado 2007](https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:49 |
+| 35 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
 | 36 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
 | 37 | [No Dejes Que...](https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:39 |
 | 38 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 | 46 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 47 | [Así Es la Vida](https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 5:10 |
 | 48 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
-| 49 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
-| 50 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 |
+| 49 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 |
+| 50 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
 
-Snapshot ID: `MTY2MjQwMzQ2MSwwMDAwMDAwMGY5Mzg3M2Q3ZTZmZTMwMzBhZDBjN2U1NmI5MjY1YmZh`
+Snapshot ID: `MTY2MjQwMzQ2MSwwMDAwMDAwMGU5OTU5ODcwOTMwMTk2OGM2ZjBmZjY0OTAwNWM3YTQx`

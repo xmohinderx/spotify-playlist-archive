@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,888 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,119 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 65 | [mirrorball](https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore: the long pond studio sessions \(from the Disney+ special\) \[deluxe edition\]](https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z) | 3:28 |
 | 66 | [Last Time](https://open.spotify.com/track/63msGdgRl82cT88247E2kz) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:13 |
 | 67 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
-| 68 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
-| 69 | [Timshel](https://open.spotify.com/track/4c3zZWPPYkvjSV07Cv95oJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 2:53 |
-| 70 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
-| 71 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
+| 68 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
+| 69 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
+| 70 | [Timshel](https://open.spotify.com/track/4c3zZWPPYkvjSV07Cv95oJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 2:53 |
+| 71 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
 | 72 | [Unfortunate Love](https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx), [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Unfortunate Love](https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6) | 3:46 |
 | 73 | [Warm Foothills](https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:45 |
 | 74 | [the bottom of the well](https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the bottom of the well](https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy) | 4:15 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 77 | [Glad I Got You](https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 2:40 |
 | 78 | [Love You Twice](https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Love You Twice](https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5) | 3:24 |
 | 79 | [The Wolves and the Ravens](https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [False Floors](https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT) | 4:16 |
-| 80 | [Wild](https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Holding](https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh) | 3:17 |
-| 81 | [Old Flame](https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Old Flame](https://open.spotify.com/album/7dyZsFX4g5jcHpSnMkKoHZ) | 2:47 |
+| 80 | [Old Flame](https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Old Flame](https://open.spotify.com/album/7dyZsFX4g5jcHpSnMkKoHZ) | 2:47 |
+| 81 | [Wild](https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Holding](https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh) | 3:17 |
 | 82 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
-| 83 | [ANSWERS](https://open.spotify.com/track/6bm9OoERWQ8zfnIcN0pykg) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TAPE 2/FOMALHAUT](https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD) | 4:05 |
-| 84 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 |
+| 83 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 |
+| 84 | [ANSWERS](https://open.spotify.com/track/6bm9OoERWQ8zfnIcN0pykg) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TAPE 2/FOMALHAUT](https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD) | 4:05 |
 | 85 | [Bones](https://open.spotify.com/track/0Em2XljAKp5THmpNvS83cp) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle) | 5:45 |
 | 86 | [we’ll be fine \- acoustic](https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we’ll be fine \(acoustic\)](https://open.spotify.com/album/2lzdWQWTB2ZJkfrXMiPDSC) | 4:56 |
 | 87 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 99 | [Racing Stripes](https://open.spotify.com/track/3mOlGrCrh3rJYbjmhfMTiQ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 4:06 |
 | 100 | [Waiting](https://open.spotify.com/track/5RgQixDEabaSuMdeT5Hf7l) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:32 |
 
-Snapshot ID: `MTY0MTU3ODA3MCwwMDAwMDAwMGMzNjY4NTNlZDI3OTgwMTdhZmQ5NDE3N2E1NjVlYzBk`
+Snapshot ID: `MTY0MTU3ODA3MCwwMDAwMDAwMDE1ZTViNzAyYWUxZTllOGUwNmVjNzA5MDRjMmI1ZGE1`

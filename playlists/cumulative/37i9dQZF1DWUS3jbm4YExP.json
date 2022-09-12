@@ -1048,6 +1048,28 @@
     },
     {
       "album": {
+        "name": "Boogie With Your Baby",
+        "url": "https://open.spotify.com/album/0JRKtByiknT9qvpDQVy3ui"
+      },
+      "artists": [
+        {
+          "name": "Funkool Orchestra",
+          "url": "https://open.spotify.com/artist/4gaQmpOSxtcveUg7jdcC6i"
+        },
+        {
+          "name": "Golden Rules",
+          "url": "https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253749,
+      "name": "Boogie With Your Baby",
+      "url": "https://open.spotify.com/track/6eVf9JIPNNEZ9xAwKTG4cx"
+    },
+    {
+      "album": {
         "name": "My Life at 45, Pt. 4",
         "url": "https://open.spotify.com/album/6vAvbAt502YomvMJ0Rrh7U"
       },
@@ -5483,7 +5505,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 284070,
       "name": "Musa Paradisa",
       "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"

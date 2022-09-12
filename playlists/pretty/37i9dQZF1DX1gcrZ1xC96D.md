@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,091 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,158 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 39 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 |
 | 40 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
 | 41 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
-| 42 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
-| 43 | [Cut Me Loose \- Edit](https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(Edit\)](https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR) | 3:22 |
+| 42 | [Cut Me Loose \- Edit](https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(Edit\)](https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR) | 3:22 |
+| 43 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 44 | [Your Body](https://open.spotify.com/track/697HW34FLNURvRAbSieICv) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Your Body](https://open.spotify.com/album/6mHS5vgGYalErBmxhX3TXx) | 3:27 |
 | 45 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 46 | [Didn't Know](https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 49 | [Deep Inside](https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs) | 3:22 |
 | 50 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
 
-Snapshot ID: `MTY2MjM2ODkzMSwwMDAwMDAwMGNhMjJlYTFmMjFkYjJiNmUwZjkzMDhmZjVkNTE2MTg0`
+Snapshot ID: `MTY2MjM2ODkzMSwwMDAwMDAwMGNjMjQzZDZmZGM2ZWJlNjYxODM4YmEwMjlhNDJhZTMx`

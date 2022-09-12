@@ -1,12 +1,12 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
-  "num_followers": 5889329,
+  "num_followers": 5890002,
   "original_name": "Hit Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2NTQxNCwwMDAwMDAwMGNiMjk1OTQ4ZTEzM2VjY2NiMGNlNDg4NzI1MDExNGM2",
+  "snapshot_id": "MTY2MDc2NTQxNCwwMDAwMDAwMDgxNzE5ZmZkZmQ5NTUyN2RiMjI3YjhkYzM4MjVkY2M4",
   "tracks": [
     {
       "added_at": "2022-08-17 19:43:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 197266,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1551,6 +1551,58 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 197993,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Drag Me Down",
+      "url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -1583,54 +1635,26 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP"
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         },
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 197993,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 192120,
-      "name": "Drag Me Down",
-      "url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+      "duration_ms": 199386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1679,30 +1703,6 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Sweet Talker (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
       },
       "artists": [
         {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 212120,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
     }
   ],
   "unique_name": "Hit Rewind",

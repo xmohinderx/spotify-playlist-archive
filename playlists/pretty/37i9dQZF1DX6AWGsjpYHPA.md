@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,640 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,713 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 42 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 |
 | 43 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
 | 44 | [Romeo \(feat\. Bas\)](https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Romeo \(feat\. Bas\)](https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir) | 2:46 |
-| 45 | [Clarity](https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/1SCoPxlKCVvW2DqWI2Ddfu) | 4:05 |
-| 46 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
+| 45 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
+| 46 | [Clarity](https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/1SCoPxlKCVvW2DqWI2Ddfu) | 4:05 |
 | 47 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
 | 48 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 |
 | 49 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 52 | [Kali](https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Kali](https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK) | 3:33 |
 | 53 | [Szikra](https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Szikra](https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi) | 6:41 |
 | 54 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
-| 55 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
+| 55 | [Imagineering](https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Imagineering](https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n) | 4:34 |
 | 56 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 |
-| 57 | [Imagineering](https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Imagineering](https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n) | 4:34 |
+| 57 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
 | 58 | [Flowers](https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Flowers](https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks) | 8:52 |
 | 59 | [Desmond's Empire](https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 4:36 |
 | 60 | [Sunshower](https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq) | 4:05 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 67 | [Nterini \- A COLORS SHOW](https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Nterini \- A COLORS SHOW](https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq) | 3:51 |
 | 68 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
 | 69 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 |
-| 70 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
-| 71 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
+| 70 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
+| 71 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
 | 72 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 | 73 | [Jazz Vol\. 1](https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Jazz Vol\. 1](https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV) | 6:37 |
 | 74 | [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 |
 | 75 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 |
 
-Snapshot ID: `MTY2MTc5MDA1NSwwMDAwMDAwMDgwZmU5NGUxZjUzYmY3NzU3OGE3OWZjNmQ3ZWQ0ZjE3`
+Snapshot ID: `MTY2MTc5MDA1NSwwMDAwMDAwMGQzNGZhZjhiOGI4ZTEwYjk2ZTdhZTc1MmQ5NzMxYzBl`

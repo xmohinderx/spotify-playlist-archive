@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+181 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:07 | 2021-12-27 |  |
 | [My Own Hero](https://open.spotify.com/track/0KednpCIKKLMC17fcW80cN) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:29 | 2021-12-27 |  |
 | [My Religion](https://open.spotify.com/track/7BK6xn13rJRZ4OCbvAszUk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:05 | 2021-12-27 |  |
+| [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 | 2022-09-11 |  |
 | [Never Not](https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:28 | 2021-12-27 |  |
 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 | 2021-12-27 |  |
 | [Night Crawling](https://open.spotify.com/track/4GLjg3elUDHCN6rDUvVATN) | [Corvyx](https://open.spotify.com/artist/0zkDZprypgQxrMA9ZrF4PQ), [Joey Dean](https://open.spotify.com/artist/7pH9mlzg8GBZux3gf3rNVe) | [Night Crawling](https://open.spotify.com/album/5fNIEkDsJvcWaWRyHGUh9H) | 3:09 | 2021-12-27 | 2022-02-15 |

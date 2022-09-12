@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,614,251 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,614,812 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 2 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 3 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
-| 4 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 4 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 5 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 |
 | 6 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 7 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |

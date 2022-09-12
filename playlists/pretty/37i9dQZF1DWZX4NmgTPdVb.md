@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 
 > The songs of the 1970s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,164 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,206 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 38 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
 | 39 | [Take Me Home, Country Roads](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
 | 40 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
-| 41 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
-| 42 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
+| 41 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
+| 42 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
 | 43 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 44 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:32 |
 | 45 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 57 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
 | 58 | [I Will Survive](https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Love Tracks](https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX) | 4:56 |
 | 59 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
-| 60 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
-| 61 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 |
+| 60 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 |
+| 61 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
 | 62 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
 | 63 | [Joy To The World](https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Naturally](https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM) | 3:40 |
 | 64 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 74 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 |
 | 75 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang \(Reissue\)](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDE0NzVhNTM2ZmExNDgzZTkwNjM2NWQ0MTgyNmQ1ZjIz`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDczYzc0Y2E4ZGU2ZjQ2OTJhMmRjZjBlYzlhYzU3Zjc2`

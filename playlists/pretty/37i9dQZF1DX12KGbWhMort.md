@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,409 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,519 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 30 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
 | 31 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 32 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
-| 33 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
-| 34 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
+| 33 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
+| 34 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 35 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 36 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
 | 37 | [Ojalá](https://open.spotify.com/track/75KrTLbcLWgCcldZGxZR12) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:38 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 69 | [Tanto Amor](https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:48 |
 | 70 | [Tal Vez](https://open.spotify.com/track/2VspVkHity8i4H9jammhhR) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Almas Del Silencio](https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2) | 4:39 |
 | 71 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
-| 72 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
-| 73 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Rock De Mi Pueblo](https://open.spotify.com/album/605XadNlpraxshOvMt9UXl) | 3:34 |
+| 72 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Rock De Mi Pueblo](https://open.spotify.com/album/605XadNlpraxshOvMt9UXl) | 3:34 |
+| 73 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
 | 74 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 75 | [Se fué](https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 4:40 |
 | 76 | [Voy a Amarte](https://open.spotify.com/track/6BpNwnC1AhLye17vvScERY) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo \(Deluxe Edition\)](https://open.spotify.com/album/0iWxtbk9nmFlbUIpoFYVBR) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 99 | [Desde el Principio](https://open.spotify.com/track/2zQW4cVDdtx6ILz9rNdPLD) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Libre](https://open.spotify.com/album/6gHHe4wRRfwGbhBTk7hDEx) | 3:04 |
 | 100 | [Lo Que Son las Cosas](https://open.spotify.com/track/6TanzeHh5Ffh5EP2AJnGD3) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Son las Cosas](https://open.spotify.com/album/7LiVEl4UrNRnVAydhYjCfl) | 3:52 |
 
-Snapshot ID: `MTYzNDg3MTYwMCwwMDAwMDAwMDM5NjQyN2JhMWI2YzAyMDFmYzdlNTRmODkwMjQyZTA3`
+Snapshot ID: `MTYzNDg3MTYwMCwwMDAwMDAwMDQ2MzYyOWJhNmRmNTZhNTQxODAyODI5ZDhhZDcxNGJh`

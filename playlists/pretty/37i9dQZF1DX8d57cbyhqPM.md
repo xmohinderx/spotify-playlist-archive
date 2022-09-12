@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Serge Ibaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,949 likes - 85 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,992 likes - 85 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

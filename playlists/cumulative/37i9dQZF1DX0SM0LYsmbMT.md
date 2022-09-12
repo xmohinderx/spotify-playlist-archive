@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,005 songs - 4 day 20 hr 24 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,006 songs - 4 day 20 hr 26 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,7 @@
 | [City Sleeps](https://open.spotify.com/track/7rv8aeCH0uWvVssMgChboz) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v) | [Reset](https://open.spotify.com/album/4Dp3u3b6nubEnkQGZU2fqz) | 2:28 | 2020-09-18 | 2021-05-07 |
 | [City Street Rhapsody](https://open.spotify.com/track/0AAZ0rhfw3fjlBh26wxe46) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [City Street Rhapsody](https://open.spotify.com/album/4oHQn4tk9K2D9iYceb8m60) | 4:33 | 2019-06-08 | 2019-11-06 |
 | [City Stroll](https://open.spotify.com/track/1YG7HsQ6msnV0z2FDTptnf) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [City Stroll](https://open.spotify.com/album/2pckLaBwPp8n2hCvdAdmF2) | 2:38 | 2019-12-11 | 2020-03-31 |
-| [City Walks](https://open.spotify.com/track/7f0kjCwkamKO8UOKtxVM2U) | [Depf](https://open.spotify.com/artist/225saUhtIHdeXvHEpiGI6r) | [City Walks](https://open.spotify.com/album/3tfaGwxjnoV6N4PCxOT8HS) | 1:02 | 2022-01-20 |  |
+| [City Walks](https://open.spotify.com/track/7f0kjCwkamKO8UOKtxVM2U) | [Depf](https://open.spotify.com/artist/225saUhtIHdeXvHEpiGI6r) | [City Walks](https://open.spotify.com/album/3tfaGwxjnoV6N4PCxOT8HS) | 1:02 | 2022-01-20 | 2022-09-12 |
 | [Clean Up](https://open.spotify.com/track/31J5q25XnU9Mmt8B9tH3ko) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Clean Up](https://open.spotify.com/album/7mV6dK2LAdqizBLDenY51b) | 2:07 | 2022-01-06 | 2022-01-28 |
 | [Clear Sky](https://open.spotify.com/track/4GG95MoZNuj2spqbqmts9J) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Clear Sky](https://open.spotify.com/album/7vkhROUmnA9za7HUw3kwVP) | 2:04 | 2020-10-30 | 2021-03-06 |
 | [Climbing Trees](https://open.spotify.com/track/0oA83B0PRG1XUbsAJBe84J) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Climbing Trees](https://open.spotify.com/album/6Sh61q7yoXvsPM5xBav3iY) | 2:33 | 2019-09-06 | 2020-02-22 |
@@ -1010,6 +1010,7 @@
 | [Golden Hours](https://open.spotify.com/track/5erclU5xvRpWIJVAGV1Mj2) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Golden Hours](https://open.spotify.com/album/0bIXU9KRbrJNfetSM0bGqT) | 2:29 | 2021-07-09 | 2021-08-20 |
 | [Golden Route](https://open.spotify.com/track/5sdRMVfel2Bc5pTpkhjsbv) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Golden Route](https://open.spotify.com/album/2rRVx1Ujfr2HwYipoJwO5a) | 1:58 | 2022-04-21 |  |
 | [Golf](https://open.spotify.com/track/4Q0ZofPES3MtMsPS5tiAtm) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Clueless Alchemy](https://open.spotify.com/album/0rfCvbnokYvLxSccXTll9c) | 2:33 | 2022-05-26 | 2022-06-22 |
+| [Gonfa](https://open.spotify.com/track/2MiOFnEyKmEcQsJ3RTl9aL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gonfa // Land of Birds](https://open.spotify.com/album/09Jqw7b6tIszpoBreOsoEK) | 1:43 | 2022-09-08 |  |
 | [Good Life](https://open.spotify.com/track/5BPKNG6yHbj0Q2W6ksMbbH) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Good Life](https://open.spotify.com/album/14nfJf9nfZN9RcigywyrMI) | 2:20 | 2021-11-19 | 2021-12-11 |
 | [Good Morning](https://open.spotify.com/track/0RVzAEJdh4VsuRIkLqmo7t) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Good Morning](https://open.spotify.com/album/4SCB9uNYIdzpQeicMrtFFy) | 1:05 | 2020-01-17 | 2020-04-24 |
 | [Good Morning](https://open.spotify.com/track/2Vn2PKznrf5e1FtVcoIwQe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Good Morning](https://open.spotify.com/album/1u1P4U3OIqGZGjS974agRk) | 1:36 | 2022-03-10 |  |

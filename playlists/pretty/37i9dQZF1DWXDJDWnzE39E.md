@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: Scene Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,501 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,591 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 41 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
 | 42 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 |
 | 43 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
-| 44 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
-| 45 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 |
+| 44 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 |
+| 45 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
 | 46 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 |
 | 47 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 48 | [Freedom \- The Wolves Within \-](https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 50 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 |
 | 51 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
 | 52 | [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 |
-| 53 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 |
-| 54 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 |
+| 53 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 |
+| 54 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 |
 | 55 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 |
 | 56 | [I Disagree](https://open.spotify.com/track/61ypvgEm3ovCFbSIq2PsRX) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree \(more\)](https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ) | 3:13 |
 | 57 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 64 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 |
 | 65 | [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 |
 | 66 | [Mark Of The Grave](https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering](https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6) | 4:23 |
-| 67 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 |
-| 68 | [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 |
+| 67 | [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 |
+| 68 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 |
 | 69 | [Lift Me Up](https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:29 |
 | 70 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
-| 71 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
-| 72 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 |
+| 71 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 |
+| 72 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
 | 73 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 74 | [Flux](https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD) | 5:00 |
 | 75 | [One Second](https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Vertigo](https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Initiation](https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M) | 3:09 |
 | 80 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
 
-Snapshot ID: `MTY0NzYwODU4NCwwMDAwMDAwMGRhMmUwNmVlNmNhODQ2MWI4MmRiMmEyMmUyMDBmZWMz`
+Snapshot ID: `MTY0NzYwODU4NCwwMDAwMDAwMGVhZTMyODI5Y2JmNTAwYTFlMjAzNGE5ZTQwYjJjYzcw`

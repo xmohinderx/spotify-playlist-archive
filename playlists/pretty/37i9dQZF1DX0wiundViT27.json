@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611878,
+  "num_followers": 611876,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDQyNmRjZjRmMGU1ZWRkYjk2MmFkMjMyMWZjM2Q1MDA3",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGNjZjQ3NmMwODU4YTJkYTZhMzI5MDkxZDA0ODBjZGE2",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Ramon Ayala",
-        "url": "https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Ramon Ayala",
+        "url": "https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 256071,
-      "name": "hometown",
-      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Don't Miss",
         "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 186156,
       "name": "Don't Miss",
       "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "\u2022NOTDEAD!\u2022",
-        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 190188,
-      "name": "\u2022NOTDEAD!\u2022",
-      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Something Loud",
         "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 196618,
       "name": "Something Loud",
       "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "\u2022NOTDEAD!\u2022",
+        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 190188,
+      "name": "\u2022NOTDEAD!\u2022",
+      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
     },
     {
       "added_at": "2022-08-19 04:00:00",

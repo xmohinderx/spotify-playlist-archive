@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,186 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,612 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 8 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 9 | [For the Damaged Coda](https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN) | 2:37 |
 | 10 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
-| 11 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
+| 11 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 |
 | 12 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 |
-| 13 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 |
+| 13 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
 | 14 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 15 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 16 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 43 | [Crazy for You](https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:01 |
 | 44 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
 | 45 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 |
-| 46 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
-| 47 | [Avril 14th](https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr) | [Sub Versions](https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z) | 2:10 |
+| 46 | [Avril 14th](https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr) | [Sub Versions](https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z) | 2:10 |
+| 47 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 48 | [In Particular](https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN) | 6:05 |
 | 49 | [She Hangs Brightly](https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 6:24 |
 | 50 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
 
-Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMDZlZDBiNDk3MjExMjFmMTExMDcxZDE1YzVlMTQxMDU1`
+Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMDZiY2NjZjQ1MjVjNTIwOTAyYWE2MjQ3NWE4MDA1MGY1`

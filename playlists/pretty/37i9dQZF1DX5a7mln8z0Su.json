@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3859,
+  "num_followers": 3879,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDk0NjE1OTI3MmJkZGRhMWE2OTBiODNhODFiMjk2NGU4",
+  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDRhODQyZjY2ZTYzODJmYTQ0MDVkZmZhM2UzNDkxNWQ5",
   "tracks": [
     {
       "added_at": "2022-09-05 15:55:02",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 217106,
       "name": "Sun Dance",
       "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -511,22 +511,22 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Hold tight",
-        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         },
         {
-          "name": "Jaw",
-          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 174975,
-      "name": "Hold tight",
-      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+      "duration_ms": 226866,
+      "name": "Room for You (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -547,22 +547,22 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Blank",
-        "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
+        "name": "Hold tight",
+        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         },
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Jaw",
+          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Room for You (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
+      "duration_ms": 174975,
+      "name": "Hold tight",
+      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
         "name": "Beautiful struggle",
         "url": "https://open.spotify.com/album/17X67myikY9mktuS1UHAyx"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 198875,
       "name": "Love like a bouquet,",
       "url": "https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
-      },
-      "artists": [
-        {
-          "name": "Son Dong Woon",
-          "url": "https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Today's Weather",
-      "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
+      },
+      "artists": [
+        {
+          "name": "Son Dong Woon",
+          "url": "https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Today's Weather",
+      "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
+        "name": "monochrome",
+        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
+      },
+      "artists": [
+        {
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+        }
+      ],
+      "duration_ms": 261941,
+      "name": "monochrome",
+      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
-        "name": "monochrome",
-        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
-      },
-      "artists": [
-        {
-          "name": "Kisnue",
-          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
-        }
-      ],
-      "duration_ms": 261941,
-      "name": "monochrome",
-      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
     },
     {
       "added_at": "2022-09-05 15:55:02",

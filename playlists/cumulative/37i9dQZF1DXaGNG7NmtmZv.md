@@ -4,7 +4,7 @@
 
 > Classic songs from the legends of the hardcore scene.
 
-86 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/47UJ8RmOikLRz8ibfhHOqe)
+87 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/47UJ8RmOikLRz8ibfhHOqe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 | 2020-12-08 |  |
 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 | 2020-12-08 |  |
 | [Shark Ethic](https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV) | 3:40 | 2020-12-08 | 2022-09-01 |
+| [Shark Ethic](https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU) | 3:40 | 2020-12-08 |  |
 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 | 2020-12-08 |  |
 | [Some Came Running](https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA) | [Bane](https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi) | [Give Blood](https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9) | 2:37 | 2020-12-08 |  |
 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 | 2020-12-08 |  |
@@ -78,7 +79,7 @@
 | [Step Down](https://open.spotify.com/track/6DE037vHREtIRYjqzZ8fkf) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64ZNLvblppwORqskxoMbG1) | 3:09 | 2020-12-08 |  |
 | [Step Down](https://open.spotify.com/track/2t4jzAAzlt4BasOuHPrJ0k) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch The Surface](https://open.spotify.com/album/76TWjo9O40anFFnKtyACcd) | 3:10 | 2020-12-08 | 2022-07-29 |
 | [Strength Through Unity](https://open.spotify.com/track/4k1avYF42hK2l4iKprwzij) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Strength Through Unity](https://open.spotify.com/album/63xBmhjFGPDlnvNA31Nzwd) | 1:54 | 2020-12-08 | 2022-07-15 |
-| [Strength Thru Unity](https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Haterz Be Damned: New, Old & Rare](https://open.spotify.com/album/7cTQVE19wRopoVrkumYTvi) | 1:54 | 2020-12-08 |  |
+| [Strength Thru Unity](https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Haterz Be Damned: New, Old & Rare](https://open.spotify.com/album/7cTQVE19wRopoVrkumYTvi) | 1:54 | 2020-12-08 | 2022-09-12 |
 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 | 2020-12-08 |  |
 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 | 2020-12-08 |  |
 | [The Disconnect](https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0) | 3:56 | 2020-12-08 | 2022-07-28 |

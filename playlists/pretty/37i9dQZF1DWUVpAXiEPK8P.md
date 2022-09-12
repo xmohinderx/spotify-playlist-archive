@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,019,101 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,019,828 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 47 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
 | 48 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
 | 49 | [F.N](https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:44 |
-| 50 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 |
+| 50 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
 
-Snapshot ID: `MTY1NjA1OTQ3OSwwMDAwMDAwMGE4YzE3MDAwNjQ5MjRhYzQ2ZjJiNDQyZDE2ZDEyZWJh`
+Snapshot ID: `MTY1NjA1OTQ3OSwwMDAwMDAwMGI0MTdhZTM4NjZmZDU2M2EwODU5OGQ4MzViNmZmNTRm`

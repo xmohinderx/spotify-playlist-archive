@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Sit back and unwind to the most selamba songs around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,805 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,840 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 45 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 |
 | 46 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 |
 | 47 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
-| 48 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
-| 49 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 |
+| 48 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 |
+| 49 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
 | 50 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
 | 51 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
 | 52 | [Other Half](https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Other Half](https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv) | 3:35 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 62 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 |
 | 63 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
 | 64 | [Hopelessly Devoted To You](https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Hopelessly Devoted To You](https://open.spotify.com/album/2MK7qxuZhopOH2KzdnHds2) | 3:38 |
-| 65 | [Restless Love](https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Restless Love](https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl) | 3:50 |
-| 66 | [no space](https://open.spotify.com/track/3W1wvz416f8ZaGJyTlaCBq) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [no space](https://open.spotify.com/album/1U1lgG9SK27rA9rVNdKZci) | 2:57 |
-| 67 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
-| 68 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
-| 69 | [Teenage Dream](https://open.spotify.com/track/3cr8XcChCFSkZogQnCNGXl) | [Wen Wei](https://open.spotify.com/artist/12LXmUdAbhmRP9CCa7wGHn) | [Teenage Dream](https://open.spotify.com/album/6qKAa3lbkxOIRXYNzNBFJ4) | 3:45 |
+| 65 | [no space](https://open.spotify.com/track/3W1wvz416f8ZaGJyTlaCBq) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [no space](https://open.spotify.com/album/1U1lgG9SK27rA9rVNdKZci) | 2:57 |
+| 66 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
+| 67 | [Restless Love](https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Restless Love](https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl) | 3:50 |
+| 68 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
+| 69 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 70 | [Better With You](https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Better With You](https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC) | 2:46 |
 
-Snapshot ID: `MTY2MjY5NDI0NywwMDAwMDAwMGQ4ZjFhYTJiOGRlYzk5ZjllYWIyYzM0ZGUyYWNiMGE1`
+Snapshot ID: `MTY2MjY5NDI0NywwMDAwMDAwMDg3OTBlOGVmMjUxMjdkOTI0ZmEwMmM5MTc1YWRkODhl`

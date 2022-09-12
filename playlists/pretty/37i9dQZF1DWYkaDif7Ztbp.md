@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=ByeLDPJRQ5a8oz1ceRHNNA"> Asake </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,499 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,393 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 9 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
 | 10 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 11 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 |
-| 12 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 12 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 13 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 14 | [Wait On Me](https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Wait On Me](https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE) | 4:07 |
 | 15 | [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Nelcno](https://open.spotify.com/artist/5SkemdsKsPDdaZ5Z05hQ6x), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 |

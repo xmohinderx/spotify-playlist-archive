@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 
 > los tenis bien limpios y la bocina retumbando
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,843 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,967 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 25 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 | 26 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 27 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 |
-| 28 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
+| 28 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 |
 | 29 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
 | 30 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 |
 | 31 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 93 | [Bombos y Tarolas](https://open.spotify.com/track/5MyEACD2kRFeh231Z6FkdE) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP) | 4:52 |
 | 94 | [Pa Que Sepan](https://open.spotify.com/track/4EJKQ9fDwPddxk44CyxYin) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:44 |
 | 95 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 |
-| 96 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 |
+| 96 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
 | 97 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 |
 | 98 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
 | 99 | [Clave Ali](https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:21 |
 | 100 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
 
-Snapshot ID: `MTY2MjU4NTU1NiwwMDAwMDAwMGRmZjYyY2FmZWMwMzQ5YjdhOWMxNDZjNjY5NDcxNGI0`
+Snapshot ID: `MTY2MjU4NTU1NiwwMDAwMDAwMDJmYzdiZDg3MjMwMjA3ZmU2NDdkMmQzZTFhZTZlODNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,629 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,739 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

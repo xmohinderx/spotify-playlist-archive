@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 28322,
+  "num_followers": 28378,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMGJlNGNkZjQwMWM2ZDU2MWI5NjZiMzgyOTA0M2VlOTY4",
+  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMGY5NGU2M2Y3ZjA5N2NmNmQ1NDRlMGQxNzkzZmQ1OTIz",
   "tracks": [
     {
       "added_at": "2022-07-15 04:40:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Never Gonna Let You Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Turn the Beat Around - 7\" Single Edit",
-      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 335720,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Never Gonna Let You Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Turn the Beat Around - 7\" Single Edit",
+      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Put Your Body In It",
-      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 274960,
-      "name": "My Forbidden Lover - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
+      "duration_ms": 244733,
+      "name": "Put Your Body In It",
+      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -971,6 +955,22 @@
       "duration_ms": 371706,
       "name": "Casanova - Extended Version",
       "url": "https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 274960,
+      "name": "My Forbidden Lover - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Miss Gladys Knight",
-        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 351453,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Philadelphia International Records: The Tom Moulton Remixes",
         "url": "https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 750560,
       "name": "The Love I Lost - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Miss Gladys Knight",
+        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 351453,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Slippin' and Dippin' (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
-        }
-      ],
-      "duration_ms": 460880,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 338973,
       "name": "Sinner Man",
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Slippin' and Dippin' (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
+        }
+      ],
+      "duration_ms": 460880,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
     },
     {
       "added_at": "2022-07-15 04:40:14",

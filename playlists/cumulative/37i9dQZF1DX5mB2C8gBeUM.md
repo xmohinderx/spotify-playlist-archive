@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Levi Hummon
 
-267 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+268 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,8 +144,9 @@
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-06-10 |  |
 | [I'm The One](https://open.spotify.com/track/1oX0dEo74asYCL9sBVPec3) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [I'm The One](https://open.spotify.com/album/4qn0GauE7JcVX5WlzYv9UD) | 2:24 | 2022-02-04 |  |
 | [Independent With You](https://open.spotify.com/track/3e90277REF5UJoUrZQPnIY) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Independent With You](https://open.spotify.com/album/3KXIuxq6GgclGOfde5I0mK) | 2:42 | 2022-02-25 |  |
+| [Intertwined](https://open.spotify.com/track/18Qv73U7BZXaO9bvMGgQuI) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:02 | 2022-09-09 |  |
 | [Intertwined](https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Intertwined](https://open.spotify.com/album/5S2n9RJ2VwNFXwHdPJSjQD) | 3:02 | 2021-12-10 | 2022-07-29 |
-| [Intertwined](https://open.spotify.com/track/6fp5VnTQX4esPpou7YmcYh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:02 | 2022-07-22 |  |
+| [Intertwined](https://open.spotify.com/track/6fp5VnTQX4esPpou7YmcYh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:02 | 2022-07-22 | 2022-09-12 |
 | [Islands To Nashville](https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Islands To Nashville](https://open.spotify.com/album/7IDtDfgOiykmk79S7lcZiM) | 3:14 | 2021-12-10 |  |
 | [JOSIE \(feat\. Jimmie Allen\)](https://open.spotify.com/track/6BHcMNbc3ZMU4aVjWeluJb) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Monte Nido](https://open.spotify.com/album/3hFdLwXe8yCZOE4W6lGSsl) | 3:47 | 2021-12-10 | 2022-06-25 |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2021-12-10 | 2022-02-26 |

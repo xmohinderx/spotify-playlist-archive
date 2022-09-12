@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain]
 
 > Turn up for the big game!
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,919 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,110 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain]
 | 26 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
 | 27 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
 | 28 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
-| 29 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 |
-| 30 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
+| 29 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
+| 30 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 |
 | 31 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 |
 | 32 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 |
 | 33 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxTsNp0Bzwq.md) - [plain]
 | 49 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 |
 | 50 | [m.A.A.d city](https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:50 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGM1YjYxNDZlNjEyNzM3NTA5YzYxODUwMTU3ZjJhYjhi`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDY5MzA5YTAzN2E0MDVlNmRmM2Y0MGZiNGM2NzViNDU3`

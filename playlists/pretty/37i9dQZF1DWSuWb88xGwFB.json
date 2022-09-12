@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 21664,
+  "num_followers": 21688,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDhhZTMwMThjMjI4OTZkNzhiY2IyNWNlMTliZTAxMTIx",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGIxZjcyNDhiNjgzMmFlODEwYzg5YjFlOGE0NWRiOWNk",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sinfonia Della Notte",
-        "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 445946,
-      "name": "Sinfonia Della Notte",
-      "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 392668,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Sinfonia Della Notte",
+        "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "duration_ms": 445946,
+      "name": "Sinfonia Della Notte",
+      "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+      },
+      "artists": [
+        {
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+        "name": "Strictly George Morel",
+        "url": "https://open.spotify.com/album/3lG38OKSc0AHVmbY3V685C"
       },
       "artists": [
         {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
+      "duration_ms": 417466,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/09YDYNdzjCbKI3lF8Sr2UO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -403,22 +419,6 @@
       "duration_ms": 368466,
       "name": "Equinox - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly George Morel",
-        "url": "https://open.spotify.com/album/3lG38OKSc0AHVmbY3V685C"
-      },
-      "artists": [
-        {
-          "name": "George Morel",
-          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
-        }
-      ],
-      "duration_ms": 417466,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/09YDYNdzjCbKI3lF8Sr2UO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Thang",
-        "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
-      },
-      "artists": [
-        {
-          "name": "Banji Boys",
-          "url": "https://open.spotify.com/artist/3h4cnmNl9WSJpS64ChcVLA"
-        }
-      ],
-      "duration_ms": 325350,
-      "name": "Love Thang - Cat Walk Mix",
-      "url": "https://open.spotify.com/track/2AyTUoMOGcRYynqJlZpNjn"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Keep On Groovin'",
         "url": "https://open.spotify.com/album/1h9nWxBoi8vd4TGyezFnRG"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 463571,
       "name": "Keep On Groovin' - Pitch Disco Mix",
       "url": "https://open.spotify.com/track/4bSPTJrXI4YLZ1Hh8C94lW"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Love Thang",
+        "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
+      },
+      "artists": [
+        {
+          "name": "Banji Boys",
+          "url": "https://open.spotify.com/artist/3h4cnmNl9WSJpS64ChcVLA"
+        }
+      ],
+      "duration_ms": 325350,
+      "name": "Love Thang - Cat Walk Mix",
+      "url": "https://open.spotify.com/track/2AyTUoMOGcRYynqJlZpNjn"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
-        }
-      ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
-      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
       "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
+        }
+      ],
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
+      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410973,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 473477,
       "name": "Choices - Choices Vocal Mix",
       "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410973,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
-        }
-      ],
-      "duration_ms": 337901,
-      "name": "Just An Organ - Just An Organ Mix",
-      "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
         "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just An Organ - Just An Organ Mix",
+      "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
       "artists": [
         {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+          "name": "Joey Washington",
+          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
+        },
+        {
+          "name": "The Men's Club",
+          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
         }
       ],
-      "duration_ms": 440320,
-      "name": "Curious - Vocal Mix",
-      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
+      "duration_ms": 227173,
+      "name": "Just Us - B.O.P. Radio Joint",
+      "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
       },
       "artists": [
         {
-          "name": "Joey Washington",
-          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
-        },
-        {
-          "name": "The Men's Club",
-          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
         }
       ],
-      "duration_ms": 227173,
-      "name": "Just Us - B.O.P. Radio Joint",
-      "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
+      "duration_ms": 440320,
+      "name": "Curious - Vocal Mix",
+      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+        "name": "Keep On Jumpin' (feat. Chazzie)",
+        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
       },
       "artists": [
         {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+          "name": "Beatboxx",
+          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
+        },
+        {
+          "name": "Chazzie",
+          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
         }
       ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+      "duration_ms": 381076,
+      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
+      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
       },
       "artists": [
         {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
         }
       ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
-      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",

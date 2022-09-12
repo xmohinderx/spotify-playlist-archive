@@ -4,12 +4,13 @@
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-68 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/1FcICrbevbT0gAXUKq6YSS)
+69 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/1FcICrbevbT0gAXUKq6YSS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Cars](https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [4 Cars](https://open.spotify.com/album/02jDWz1Dyidvl6zV05SOJn) | 3:29 | 2022-05-19 | 2022-07-29 |
 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 | 2022-05-19 |  |
+| [Ain't No Easy Way](https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:36 | 2022-05-19 |  |
 | [Ain't No Easy Way](https://open.spotify.com/track/3mwYCSicojJnRCGEjFpCRf) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/4ThAx2fMZkAdaqHm1v34PP) | 2:36 | 2022-05-19 | 2022-07-29 |
 | [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 | 2022-05-19 | 2022-08-04 |
 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 | 2022-05-19 |  |
@@ -58,7 +59,7 @@
 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 | 2022-05-19 |  |
 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 | 2022-05-19 |  |
 | [Roll Your Moneymaker](https://open.spotify.com/track/0CXE1U8eTHRabdF9pMVB3E) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/2FsioagiJwt1rWioB55Y6x) | 4:01 | 2022-05-19 | 2022-07-29 |
-| [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 | 2022-05-19 |  |
+| [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 | 2022-05-19 | 2022-09-12 |
 | [Running On Faith \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 6:30 | 2022-05-19 |  |
 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 9:53 | 2022-05-19 |  |
 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ) | 9:54 | 2022-05-19 | 2022-07-29 |

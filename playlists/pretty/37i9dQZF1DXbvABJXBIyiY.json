@@ -1,12 +1,12 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 413406,
+  "num_followers": 413490,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMGQxYWM5ZDNiNGM1ODEzMWI1YjI0Yjk0MDIzYzM2MGFi",
+  "snapshot_id": "MTYzMzA2MDg2MCwwMDAwMDAwMGE0MTUzN2E0YzQ5MjFlMmJkZmFhNzJlODc2NGY3ODFj",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 211794,
-      "name": "The Rains",
-      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
         "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 196613,
       "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
       "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 211794,
+      "name": "The Rains",
+      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Dark Child",
         "url": "https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 237122,
       "name": "Dark Child - Single Edit",
       "url": "https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 183773,
       "name": "Howl",
       "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2021-10-01 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,406 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,490 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 20 | [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 |
 | 21 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 |
 | 22 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 |
-| 23 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
-| 24 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
+| 23 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
+| 24 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 25 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 26 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 |
 | 27 | [O I Long to Feel Your Arms Around Me](https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 2:23 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 47 | [In a Week \(feat\. Karen Cowley\)](https://open.spotify.com/track/5F55SiWwEEytk6vsQXHxQW) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Karen Cowley](https://open.spotify.com/artist/0pANuDFzZpuOm7NK5L478T) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 5:18 |
 | 48 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
 | 49 | [Caught in the Strange](https://open.spotify.com/track/67SFgwRk1tnYDIIB10j78g) | [Racing Glaciers](https://open.spotify.com/artist/11iuJcoaqtToPVCJ3DeBev) | [Caught in the Strange \(Deluxe\)](https://open.spotify.com/album/74vkVl8dlwKGSv9Unn6JKf) | 3:25 |
-| 50 | [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 |
-| 51 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
+| 50 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
+| 51 | [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 |
 | 52 | [Throwing Good After Bad](https://open.spotify.com/track/2FYOven3y63Jxubz8E7jl6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 4:07 |
 | 53 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 |
-| 54 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
-| 55 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
+| 54 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
+| 55 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
 | 56 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
 | 57 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
-| 58 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
-| 59 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
+| 58 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
+| 59 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 | 60 | [Rain at Night](https://open.spotify.com/track/1jkiqya3S2nRjGnrX71vve) | [Oh So Quiet](https://open.spotify.com/artist/4UGuJEkwLTxptNDsGkzRET) | [Oh So Quiet EP](https://open.spotify.com/album/3QwjPo03Ezq8WTctuQu3iK) | 3:48 |
 
-Snapshot ID: `MTYzMzA2MDg2MCwwMDAwMDAwMGQxYWM5ZDNiNGM1ODEzMWI1YjI0Yjk0MDIzYzM2MGFi`
+Snapshot ID: `MTYzMzA2MDg2MCwwMDAwMDAwMGE0MTUzN2E0YzQ5MjFlMmJkZmFhNzJlODc2NGY3ODFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The Corridos of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,576 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,597 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 56 | [El Niño De La Tuna](https://open.spotify.com/track/6FooQEHlzu2d38aZ9SjJvV) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [El Nino De La Tuna](https://open.spotify.com/album/2pga97tsZosoiHW5y9Mtco) | 3:36 |
 | 57 | [La Hummer Y El Camaro 2 "La Revancha"](https://open.spotify.com/track/3Wjhw44kAAQS6BRRtMvdcv) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl) | [Y Ahora Resulta](https://open.spotify.com/album/1a5ieU77NxfKsZKYZuZno9) | 3:29 |
 | 58 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
-| 59 | [24 Horas](https://open.spotify.com/track/4JQcKMOUepzCmolc4gSadK) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [24 Horas](https://open.spotify.com/album/7C74lKPBCaRmM5HqyESNis) | 4:16 |
-| 60 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
+| 59 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
+| 60 | [24 Horas](https://open.spotify.com/track/4JQcKMOUepzCmolc4gSadK) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [24 Horas](https://open.spotify.com/album/7C74lKPBCaRmM5HqyESNis) | 4:16 |
 | 61 | [El Moreño](https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [14 Exitos](https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp) | 2:54 |
 | 62 | [Laurita Garza](https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Corridos Bien Perrones](https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic) | 3:10 |
 | 63 | [El Centenario](https://open.spotify.com/track/1KrleiVgBHPcWE1dW74BUt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Retro\-Corridos](https://open.spotify.com/album/0PALWRVlB3wINtVW95GXN4) | 2:38 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 76 | [Eslabón Por Eslabón](https://open.spotify.com/track/5S26gp6JrEpG9JW1zFinAB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 3:02 |
 | 77 | [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDI5M2NlNzQzMGU1MTkwNjdlNDdjZGUyOTBjMGFiZTk0`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDE1MWMwMTk4ZmExODhlNjYzZTUyZWY4MDQxMGIwNmQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,739 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,752 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 55 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 | 56 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 |
 | 57 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
-| 58 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 |
-| 59 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
+| 58 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
+| 59 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 |
 | 60 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 61 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
 | 62 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 70 | [L'Amour Toujours](https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d) | 4:02 |
 | 71 | [Hangover](https://open.spotify.com/track/5pmL3RzOy3IvGFaSDi4hZL) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 4:04 |
 | 72 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
-| 73 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
-| 74 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
+| 73 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
+| 74 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
 | 75 | [Hard To Handle](https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 3:08 |
 | 76 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
 | 77 | [Take Me Home, Country Roads](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
-| 78 | [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 |
-| 79 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 |
+| 78 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 |
+| 79 | [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 |
 | 80 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 
-Snapshot ID: `MTY0MjUxNjkwMCwwMDAwMDAwMGY4NDRlODFkMDBlZTc0NmVmODQ2MDBmODM3NjkyNTk4`
+Snapshot ID: `MTY0MjUxNjkwMCwwMDAwMDAwMGU2NGJhMzgyMTY2OWJiZWY0NzE3NzA2ODQyMGM2OTFl`

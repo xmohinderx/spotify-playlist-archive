@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 
 > The soundtrack of the Summer 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,063 likes - 52 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,053 likes - 52 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 5 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 6 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 7 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |
-| 8 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
-| 9 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
+| 8 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
+| 9 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
 | 10 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 |
 | 11 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 |
 | 12 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 45 | [Trompeta](https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns) | 2:48 |
 | 46 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 47 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
-| 48 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
-| 49 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
+| 48 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
+| 49 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
 | 50 | [Coco Song](https://open.spotify.com/track/5yrsBz5ofgvLXd9MUFdjTY) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Flamingoz](https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL) | [Coco Song](https://open.spotify.com/album/3mHQChzmCdUaeMALpcs4fl) | 2:57 |
 | 51 | [Getting Better](https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:46 |
 | 52 | [On & On](https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [On & On](https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0) | 2:43 |
 
-Snapshot ID: `MTY1NjYyNjUyMCwwMDAwMDAwMGMwOGQ0ZDRhZjE4ZjkxMTIxMDAzZTE3ZDNkODc3OWJm`
+Snapshot ID: `MTY1NjYyNjUyMCwwMDAwMDAwMDgyOGQ4MzJlOTg4MjZjMDk4Y2IxNjZkN2U5ODIwNTU2`

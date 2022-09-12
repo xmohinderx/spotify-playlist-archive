@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Celebrating songwriter and pop powerhouse Bebe Rexha!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,376,958 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377,181 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 35 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 36 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 | 37 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 38 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
-| 39 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
+| 38 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
+| 39 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 40 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 41 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
 | 42 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
@@ -57,26 +57,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 47 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 48 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 49 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 |
-| 50 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
-| 51 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
+| 50 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
+| 51 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
 | 52 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 |
 | 53 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 54 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
-| 55 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 |
-| 56 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
+| 55 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
+| 56 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 |
 | 57 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
 | 58 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
 | 59 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 60 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 |
 | 61 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
-| 62 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
-| 63 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
+| 62 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
+| 63 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
 | 64 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
 | 65 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
-| 66 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
-| 67 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
+| 66 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
+| 67 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 68 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
-| 69 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
+| 69 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
 | 70 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 71 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
 | 72 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 74 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 75 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 
-Snapshot ID: `MTY2MjE1NzIyOSwwMDAwMDAwMDJkNjFhNzI2MzZlOGFkZjliMzI0NDJiYmNkZWRiN2Qy`
+Snapshot ID: `MTY2MjE1NzIyOSwwMDAwMDAwMDVkMmY2Y2E0OWFkM2NmYzYxOWNkZjA0YTk2ZDI0ODdl`

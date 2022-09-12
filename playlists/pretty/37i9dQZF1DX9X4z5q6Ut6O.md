@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,054 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,142 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 23 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 24 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 25 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
-| 26 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
-| 27 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 |
+| 26 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 |
+| 27 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
 | 28 | [Alguien Mejor](https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:39 |
 | 29 | [Mi Bello Ángel](https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 2:45 |
 | 30 | [Qué Tal Si Eres Tu](https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Realidades](https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411) | 2:58 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 44 | [Eres](https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:12 |
 | 45 | [Mi Meta Contigo](https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:08 |
 | 46 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
-| 47 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
-| 48 | [Mi Buena Suerte](https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:09 |
+| 47 | [Mi Buena Suerte](https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:09 |
+| 48 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
 | 49 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 50 | [Te Volvería A Elegir](https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Te Volvería A Elegir](https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4) | 3:00 |
 | 51 | [A Mi Me Interesa](https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 74 | [Mi Tesoro](https://open.spotify.com/track/5m6szBmTaELvhSmq41oAaf) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Más Romántico De](https://open.spotify.com/album/5eFvvGAuy0zFn4fmgL75mp) | 3:04 |
 | 75 | [Te Volvería A Elegir](https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Número 1 De](https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd) | 3:00 |
 
-Snapshot ID: `MTY1MzM0MjgwNCwwMDAwMDAwMGIzNzI1NDNjMDIyNzY2MTIzNTk4NzA3YzIxZDY1MzBj`
+Snapshot ID: `MTY1MzM0MjgwNCwwMDAwMDAwMDBjZDI4MDFkNTliMDYzMzlmMTYyMjYzNDI4ODkwNjQw`

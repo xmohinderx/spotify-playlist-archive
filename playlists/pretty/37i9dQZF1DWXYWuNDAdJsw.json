@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 792764,
+  "num_followers": 792861,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjg3NiwwMDAwMDAwMGI0MjliNjc4YTYyOWQ2MmFlMDJmM2FkMDgzMzA3YWQz",
+  "snapshot_id": "MTY1OTcxNjg3NiwwMDAwMDAwMGE3NGZkMzcxNDgwMTkzMmZmODYyNTU2NWVhZDc4NTZh",
   "tracks": [
     {
       "added_at": "2022-08-05 16:27:56",
@@ -351,6 +351,26 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 204700,
       "name": "Bella y Sensual",
       "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "PORFA",
         "url": "https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 233000,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "OTRO FILI",
-        "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "OTRO FILI",
-      "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "S\u00edgueme (Remix)",
         "url": "https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 202546,
       "name": "S\u00edgueme - Remix",
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "OTRO FILI",
+        "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "OTRO FILI",
+      "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Des/Amor",
         "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
@@ -1455,22 +1439,18 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "No Te Veo",
-        "url": "https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
       "artists": [
         {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 252440,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38"
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1487,6 +1467,26 @@
       "duration_ms": 254480,
       "name": "Pobre Diabla",
       "url": "https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Me Gusta (Remix)",
-        "url": "https://open.spotify.com/album/1D7lFbv4p8DjJVKOcHfX1r"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Me Gusta - Remix",
-      "url": "https://open.spotify.com/track/17G9G5tBsdzmKmoHIh00sX"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Realidad",
         "url": "https://open.spotify.com/album/1OOSq9FkFZ7GcIpaJr9dYL"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 235315,
       "name": "No Quiero Amarte (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/2p9iGnFlpJ3HoO7croTATl"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Me Gusta (Remix)",
+        "url": "https://open.spotify.com/album/1D7lFbv4p8DjJVKOcHfX1r"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Me Gusta - Remix",
+      "url": "https://open.spotify.com/track/17G9G5tBsdzmKmoHIh00sX"
     },
     {
       "added_at": "2022-08-05 16:27:56",

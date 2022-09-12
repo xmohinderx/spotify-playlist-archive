@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 2760,
+  "num_followers": 2763,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDgwYzI5YmMyNTI5MjI5MzM3OWZlNGE3MThkMjE3OWM0",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGIyYWRmODI2ZWEzOTBkYjhhZDgyODQxMGI0NzFkMDRl",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -63,6 +63,26 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "World's Greatest Piano Rags",
+        "url": "https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ"
+      },
+      "artists": [
+        {
+          "name": "Artie Matthews",
+          "url": "https://open.spotify.com/artist/2KIguemK1D0eYCp8ZNMlIL"
+        },
+        {
+          "name": "Richard Dowling",
+          "url": "https://open.spotify.com/artist/7JWgPh8XaVXPsaqbSyOL77"
+        }
+      ],
+      "duration_ms": 122760,
+      "name": "Pastime Rag No. 4",
+      "url": "https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Oh Baby!",
         "url": "https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry"
       },
@@ -91,26 +111,6 @@
       "duration_ms": 176173,
       "name": "Frog Legs Rag",
       "url": "https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "World's Greatest Piano Rags",
-        "url": "https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ"
-      },
-      "artists": [
-        {
-          "name": "Artie Matthews",
-          "url": "https://open.spotify.com/artist/2KIguemK1D0eYCp8ZNMlIL"
-        },
-        {
-          "name": "Richard Dowling",
-          "url": "https://open.spotify.com/artist/7JWgPh8XaVXPsaqbSyOL77"
-        }
-      ],
-      "duration_ms": 122760,
-      "name": "Pastime Rag No. 4",
-      "url": "https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -243,22 +243,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Bolling & Boogie (Enregistrements de 1977 & 2003)",
-        "url": "https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz"
-      },
-      "artists": [
-        {
-          "name": "Claude Bolling",
-          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Gladiolus Rag",
-      "url": "https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime Revival",
         "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 200000,
       "name": "Bohemia Rag",
       "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime Bolling & Boogie (Enregistrements de 1977 & 2003)",
+        "url": "https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz"
+      },
+      "artists": [
+        {
+          "name": "Claude Bolling",
+          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Gladiolus Rag",
+      "url": "https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -391,6 +391,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Scott Joplin Greatest Hits",
+        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
+      },
+      "artists": [
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sugar Cane",
+      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Ragtime Revival",
         "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 210000,
       "name": "Ragtime Oriole",
       "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Magnetic Rag",
-        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
-      },
-      "artists": [
-        {
-          "name": "Waldham Ragtime Pianos",
-          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
-        }
-      ],
-      "duration_ms": 164568,
-      "name": "Operatic Rag",
-      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -443,18 +443,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Scott Joplin Greatest Hits",
-        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
+        "name": "Magnetic Rag",
+        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
       },
       "artists": [
         {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
         }
       ],
-      "duration_ms": 181026,
-      "name": "Sugar Cane",
-      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
+      "duration_ms": 164568,
+      "name": "Operatic Rag",
+      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Takes Two",
-        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
-      },
-      "artists": [
-        {
-          "name": "Jack & Chris Bradshaw",
-          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Possum and Taters",
-      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
         "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime, Vol. 1",
-        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
-      },
-      "artists": [
-        {
-          "name": "Squeek Steele",
-          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Broadway Rag",
-      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Classic Rags Piano Solos, Vol. 4",
         "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 165382,
       "name": "Paramount Rag",
       "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Takes Two",
+        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
+      },
+      "artists": [
+        {
+          "name": "Jack & Chris Bradshaw",
+          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Possum and Taters",
+      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime, Vol. 1",
+        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
+      },
+      "artists": [
+        {
+          "name": "Squeek Steele",
+          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Broadway Rag",
+      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Charleston Rag",
-        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
-      },
-      "artists": [
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
-        }
-      ],
-      "duration_ms": 186671,
-      "name": "Peace and Plenty Rag",
-      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Hilarity",
         "url": "https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 203360,
       "name": "Patricia Rag",
       "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Charleston Rag",
+        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
+      },
+      "artists": [
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "duration_ms": 186671,
+      "name": "Peace and Plenty Rag",
+      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
     },
     {
       "added_at": "2020-08-19 17:18:36",

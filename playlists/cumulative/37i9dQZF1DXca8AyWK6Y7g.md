@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: Maude Latour
 
-1,264 songs - 2 day 17 hr 17 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,265 songs - 2 day 17 hr 20 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-06-24 | 2022-09-03 |
 | [Can't Stop Your Lovin' – Sandy's Remix](https://open.spotify.com/track/4G7aXmShhUGQtSFbkpHbmN) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Sandy's](https://open.spotify.com/artist/25uk210UmVGsLFuHXu4Tk4) | [Can't Stop Your Lovin' – Sandy's Remix](https://open.spotify.com/album/5CwB0a1RLClJTDn76JYW5d) | 4:17 | 2020-02-19 | 2021-10-16 |
 | [Cannonball](https://open.spotify.com/track/4YOAzHBhNgRYdZ1d6y0Mhf) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Cannonball](https://open.spotify.com/album/0kbea7FLhporH5drZqrevb) | 2:43 | 2022-06-06 | 2022-08-27 |
+| [Cardigan](https://open.spotify.com/track/3kM85kSAUZBKUJfMxC8clk) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Cardigan](https://open.spotify.com/album/5wQ8EAS2zydLRKG6tUUyhN) | 3:21 | 2022-09-09 |  |
 | [carpool](https://open.spotify.com/track/6fAfv4dn8FbcIsXhU0Jed7) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [carpool](https://open.spotify.com/album/6Qmh14clhZEPZEHfsRjZno) | 2:44 | 2021-04-05 | 2021-11-20 |
 | [Cashmoney](https://open.spotify.com/track/5FYYGR9dUsN7qSbuKriwxO) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Cashmoney](https://open.spotify.com/album/1el6RrtaRiqEJAswpYYmm6) | 3:18 | 2019-05-26\* | 2021-05-20 |
 | [Catch Me](https://open.spotify.com/track/5IBPyTUe3K7yylGa6Rto8e) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Catch Me](https://open.spotify.com/album/4EwLgrKRZ91jY03RCBeQIN) | 2:03 | 2019-06-27 | 2020-02-19 |
@@ -410,7 +411,7 @@
 | [Gallery](https://open.spotify.com/track/01m7F2DCkedBoRNrZsx6gW) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Gallery](https://open.spotify.com/album/4kPPz52cl2ty77rxz9rkGf) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [GAMEBOY](https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [GAMEBOY](https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W) | 2:11 | 2021-12-24 | 2022-01-29 |
 | [garden of devotion](https://open.spotify.com/track/2zNegAKuYFUovXpeSGrjfK) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [garden of devotion](https://open.spotify.com/album/1X1MVOluBxDGT8j3fvG2QY) | 3:04 | 2021-12-24 | 2022-01-15 |
-| [Garden On The Kitchen Floor](https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Garden On The Kitchen Floor](https://open.spotify.com/album/3W527nPkx45Y4Bk49kbS2x) | 3:39 | 2022-06-17 |  |
+| [Garden On The Kitchen Floor](https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Garden On The Kitchen Floor](https://open.spotify.com/album/3W527nPkx45Y4Bk49kbS2x) | 3:39 | 2022-06-17 | 2022-09-12 |
 | [Gemini](https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Gemini](https://open.spotify.com/album/7tR4JqtjMggHZFWi64rons) | 3:11 | 2022-05-20 |  |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 |  |
 | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/track/2BwmVotuzB5dBokJzgeqLf) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/album/1eYHNv4azTXo1Gpzfe2OKl) | 2:55 | 2020-07-18 | 2021-05-28 |

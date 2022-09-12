@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for summer days.",
-  "num_followers": 27072,
+  "num_followers": 27082,
   "original_name": "Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDNkZTJmNzkyNTE5ODgyNDUxYmQ4MDM1NTZkMzQyYTg1",
+  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDA2MzkyM2RiNzdlZTA4N2RkZjRhNjQ3OWI2YzMzZDFi",
   "tracks": [
     {
       "added_at": "2022-04-01 17:23:34",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
     },
     {
-      "added_at": "2022-06-17 12:12:36",
-      "album": {
-        "name": "CHEMICALS",
-        "url": "https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 211701,
-      "name": "CHEMICALS",
-      "url": "https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut"
-    },
-    {
       "added_at": "2022-04-01 17:23:34",
       "album": {
         "name": "Summer Is a Curse",
@@ -967,6 +951,22 @@
       "duration_ms": 181216,
       "name": "Summer Is a Curse",
       "url": "https://open.spotify.com/track/0cSNN4fgW1RFDQV58eVRKK"
+    },
+    {
+      "added_at": "2022-06-17 12:12:36",
+      "album": {
+        "name": "CHEMICALS",
+        "url": "https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 211701,
+      "name": "CHEMICALS",
+      "url": "https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Miracle Pill",
-        "url": "https://open.spotify.com/album/6YkjHyoVbR8Qx9STl3veBl"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 197968,
-      "name": "Miracle Pill",
-      "url": "https://open.spotify.com/track/7Az7CZGlPdRMq8E4rfOAS3"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "S.I.D.E.S.",
         "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 186933,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Miracle Pill",
+        "url": "https://open.spotify.com/album/6YkjHyoVbR8Qx9STl3veBl"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 197968,
+      "name": "Miracle Pill",
+      "url": "https://open.spotify.com/track/7Az7CZGlPdRMq8E4rfOAS3"
     },
     {
       "added_at": "2022-04-01 17:23:34",

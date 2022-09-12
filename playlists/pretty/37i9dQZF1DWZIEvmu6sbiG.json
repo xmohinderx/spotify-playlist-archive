@@ -1,12 +1,12 @@
 {
   "description": "Scopa, paletta e musica!",
-  "num_followers": 72002,
+  "num_followers": 72043,
   "original_name": "Pulizie di Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNjcxNDMwNywwMDAwMDAwMDE1Yjk5ODQ2MzNlNTEzYzg5YzBjMzI5ODBiN2M4OTFk",
+  "snapshot_id": "MTYyNjcxNDMwNywwMDAwMDAwMGNhYWZiMmJkYTIzNjlmZTFkYzU1OGUzMmI2MDYzNzhi",
   "tracks": [
     {
       "added_at": "2021-07-19 17:05:07",
@@ -551,26 +551,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -875,6 +875,22 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 329733,
-      "name": "Californication",
-      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 329733,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1015,22 +1015,6 @@
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1255,6 +1239,22 @@
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "everything means nothing",
-        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 188343,
-      "name": "hot girl bummer",
-      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "everything means nothing",
+        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 188343,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "The Reason (15th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "The Reason (15th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
     },
     {
       "added_at": "2021-07-19 17:05:07",

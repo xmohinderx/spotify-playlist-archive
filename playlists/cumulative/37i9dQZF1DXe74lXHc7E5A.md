@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: DJ Khaled
 
-73 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/7hMCvjkaTpfWbLIl5i39jB)
+74 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/7hMCvjkaTpfWbLIl5i39jB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-27 | 2022-09-10 |
 | [Verdansk](https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:02 | 2022-07-27 |  |
-| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-07-27 |  |
+| [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 | 2022-07-27 | 2022-09-12 |
+| [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 | 2022-07-27 |  |
 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-09-09 |  |
 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 | 2022-07-27 |  |
 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 | 2022-07-27 | 2022-09-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Get happy with today's dose of feel-good songs!",
-  "num_followers": 7228853,
+  "num_followers": 7229662,
   "original_name": "Mood Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDUzMjJmMjdkNzYxM2I0M2E2YTBjZDM2ZWI4MGU2YzYx",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGY5YjQ5M2IyYjMxNTU0Njg0ZTgyOGM2YmJiNGMzYjNl",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2022-09-09 04:00:00",

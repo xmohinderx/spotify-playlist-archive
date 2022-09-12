@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-174 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
+175 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [La Bruja](https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ten Spins Round the Sun \(10 Year Anniversary Album\)](https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi) | 3:39 | 2022-03-30 | 2022-07-29 |
 | [La Canícula](https://open.spotify.com/track/5kQ2OzJ6OJZgkc3u7P65ey) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Canícula](https://open.spotify.com/album/5fw1tmc1GBEunY8wjXgGBA) | 3:07 | 2021-10-16 | 2022-07-29 |
 | [La Cumbia Del Cafe Martinez](https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 3:57 | 2021-10-16 |  |
-| [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2022-07-15 |  |
+| [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2022-07-15 | 2022-09-12 |
 | [La Luna en tu Mirada](https://open.spotify.com/track/1hloghDRJ041GPwg7mdLlX) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Bossa Cubana](https://open.spotify.com/album/2FzEVO0AIoZRFxiqw8RDF2) | 2:35 | 2021-10-16 | 2022-07-27 |
 | [la luna enamorada](https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:50 | 2021-10-16 |  |
 | [la luna enamorada](https://open.spotify.com/track/3YF2p7XLImHilI4gOvAjzl) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/0GaMO6MLhbmtAFnKmKrdXB) | 1:50 | 2021-10-16 | 2022-07-20 |
@@ -117,6 +117,7 @@
 | [Marineros](https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Marineros](https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0) | 2:08 | 2022-08-08 | 2022-08-14 |
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-16 | 2022-09-04 |
 | [Maz Paz](https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-16 |  |
+| [Mañana](https://open.spotify.com/track/1jBwdd7dkhx9nVUx2gWc25) | [Abraxas](https://open.spotify.com/artist/5WZcFSCHJoBfjHWNaNRUTV) | [Mañana](https://open.spotify.com/album/3tp5Dkyp89uBT3BUvCLTI3) | 3:38 | 2022-09-11 |  |
 | [MCA](https://open.spotify.com/track/56cf07K2eebAbL5S0vo2ee) | [Los Choclok](https://open.spotify.com/artist/2iEDalkx4bi0VkRuW0QkYD), [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [MCA](https://open.spotify.com/album/3ILyFiZlUZfS7xnONgK75C) | 3:05 | 2022-09-03 |  |
 | [Mentiras Con Cariño](https://open.spotify.com/track/6fG0RBjFWG2ptGMWKmL7rK) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/1hSA9BiaGVr9aqNoQ0jWQB) | 3:48 | 2022-03-30 | 2022-07-28 |
 | [Mentiras Con Cariño](https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:48 | 2022-03-30 | 2022-08-10 |

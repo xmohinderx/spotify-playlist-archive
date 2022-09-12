@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 388132,
       "name": "Dear Old Thing",
       "url": "https://open.spotify.com/track/0pZzAYPfcYXXHkflWkV0rB"
@@ -2277,6 +2277,24 @@
       "duration_ms": 504456,
       "name": "Ham Hocks and Cabbage",
       "url": "https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc"
+      },
+      "artists": [
+        {
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt"
     },
     {
       "album": {

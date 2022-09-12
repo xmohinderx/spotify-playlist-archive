@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,245,316 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,245,563 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 37 | [You Were Meant For Me](https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 4:14 |
 | 38 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |
 | 39 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
-| 40 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 |
-| 41 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |
+| 40 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |
+| 41 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 |
 | 42 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 |
 | 43 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
 | 44 | [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Cover Me](https://open.spotify.com/track/5Bb88WRO4906ngHGMvkv4P) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:45 |
 | 75 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 
-Snapshot ID: `MTY1NzcwMDQxOCwwMDAwMDAwMGI2MDQ4MTc2MDA2ZDM3MzlkOWM3ZTEwODdkZTY3NWZk`
+Snapshot ID: `MTY1NzcwMDQxOCwwMDAwMDAwMDY5N2FhODdjOTA0YTZkNGZjZDY0NTFlMGNiYjMxZTNh`

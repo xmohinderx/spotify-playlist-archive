@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 76038,
+  "num_followers": 76120,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDAwOGUwYTE1ZGY2Nzg3YjQxMTVjMDVkNDI0OGFjZWQw",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDJlZWRhZGM4ZDc5ODAzNjRjOWFhMzM1ODkwNTYzNzky",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -871,6 +871,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Gangalee",
         "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 289906,
       "name": "La Cartera",
       "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1011,22 +1011,26 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Contra La Pared",
-        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Contra La Pared",
-      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1059,26 +1063,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+        "name": "Contra La Pared",
+        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
       },
       "artists": [
         {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+      "duration_ms": 224680,
+      "name": "Contra La Pared",
+      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 215459,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 215459,
-      "name": "Whine Up",
-      "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Toco Toco To",
+        "url": "https://open.spotify.com/album/2CfH5pST5AjnE4MZsbdoFm"
+      },
+      "artists": [
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        }
+      ],
+      "duration_ms": 181557,
+      "name": "Toco Toco To",
+      "url": "https://open.spotify.com/track/2od5sSNb5SsiYvlfsdx3UK"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/3pOj4mmxL5MUwR1IR8LPzL"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 210000,
       "name": "Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce]",
       "url": "https://open.spotify.com/track/0wt9RjddODlWDetpuaXfRK"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Toco Toco To",
-        "url": "https://open.spotify.com/album/2CfH5pST5AjnE4MZsbdoFm"
-      },
-      "artists": [
-        {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        }
-      ],
-      "duration_ms": 181557,
-      "name": "Toco Toco To",
-      "url": "https://open.spotify.com/track/2od5sSNb5SsiYvlfsdx3UK"
     },
     {
       "added_at": "2020-07-02 17:35:53",

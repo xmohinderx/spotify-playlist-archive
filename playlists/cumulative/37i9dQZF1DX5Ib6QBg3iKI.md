@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-101 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/3fipqYb0w1LRACIkepntXi)
+102 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/3fipqYb0w1LRACIkepntXi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-17 |  |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-17 |  |
 | [Kissin' In The Cold](https://open.spotify.com/track/55RPsmS26gaFInEnM63VcB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1AZKNNCWpJl7VOy0jAv0bH) | 3:44 | 2021-12-17 | 2022-07-29 |
-| [Last Christmas](https://open.spotify.com/track/2Codkc7k9sC2Itz8hEb2w7) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/2KVJoavZbPD84mUEGcFvuW) | 3:08 | 2021-12-17 |  |
+| [Last Christmas](https://open.spotify.com/track/0mKbWzFb9EsTJgDwzbYtRc) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/443y0OW2T8uu2sFEOqxzVN) | 3:08 | 2021-12-17 |  |
+| [Last Christmas](https://open.spotify.com/track/2Codkc7k9sC2Itz8hEb2w7) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/2KVJoavZbPD84mUEGcFvuW) | 3:08 | 2021-12-17 | 2022-09-12 |
 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 | 2021-12-17 |  |
 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 | 2021-12-17 |  |
 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 | 2021-12-17 |  |

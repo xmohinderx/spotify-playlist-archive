@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,906 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,049 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 89 | [There For You](https://open.spotify.com/track/1zv1uaP9iNiayFjeprolnB) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:47 |
 | 90 | [Doomsday \- Piano Reprise](https://open.spotify.com/track/5uH7FUDrEoEk7ii23XIxQD) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Doomsday \(Piano Reprise\)](https://open.spotify.com/album/3qugOscI33flKHeUONCfLh) | 4:05 |
 | 91 | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt) | 3:39 |
-| 92 | [Quiet Now](https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can´t Stop](https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE) | 4:14 |
+| 92 | [Stealing Life](https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [THREAD](https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT) | 5:04 |
 | 93 | [St\. Marie](https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:27 |
-| 94 | [Stealing Life](https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [THREAD](https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT) | 5:04 |
+| 94 | [Quiet Now](https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can´t Stop](https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE) | 4:14 |
 | 95 | [Til Kingdom Come](https://open.spotify.com/track/34DkG8okUA8MhwbAwqc1wy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 5:39 |
 | 96 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
 | 97 | [Lost In You](https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Black and White Rainbows \(Deluxe Edition\)](https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 99 | [Wake Up Call](https://open.spotify.com/track/1AXMG1DXnkXlUufkMwcS9A) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:55 |
 | 100 | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/track/3t9seJl7Y0B556M2ndthl1) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Mark Morales](https://open.spotify.com/artist/5QPc5gUxdETGecetdI8o8O) | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/album/3pvMWJSHWaSjFMDkk93JAE) | 3:15 |
 
-Snapshot ID: `MTY2MjczNTM2MCwwMDAwMDAwMDdjNjZlMWQwMmQxZWZlZWUwMThjNThiMGI0M2E2MjRj`
+Snapshot ID: `MTY2MjczNTM2MCwwMDAwMDAwMDgwOWQwMzdmOWRmYTZkNzY3ZmFlNzhhZGFkOTdiYjk2`

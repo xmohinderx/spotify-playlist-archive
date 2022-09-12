@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,750 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,809 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 45 | [Tantas Escaleras](https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:03 |
 | 46 | [Terminales](https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:21 |
 | 47 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
-| 48 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 |
-| 49 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
+| 48 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
+| 49 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 |
 | 50 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
 | 51 | [Soy](https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ) | 3:11 |
 | 52 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 79 | [100 Años](https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:01 |
 | 80 | [Cielo De Un Solo Color](https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:04 |
 
-Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDc1YjVkYjE2YWFhOTcwMDk4MzgyYmYxN2EzNmI5ZGM5`
+Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDM4NDg1OTRmYjE3MjY3ZmJjYzZkYjM3ODZlNWI5MWYw`

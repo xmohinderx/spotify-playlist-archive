@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > It's 3pm and we've peaced out for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,166 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,276 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 20 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
 | 21 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
 | 22 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 |
-| 23 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
-| 24 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 23 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 24 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
 | 25 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 |
 | 26 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 |
 | 27 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 29 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 30 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 31 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
-| 32 | [You Are the Right One](https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 2:52 |
-| 33 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
+| 32 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
+| 33 | [You Are the Right One](https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 2:52 |
 | 34 | [Thinking out Loud](https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:41 |
 | 35 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
 | 36 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 |
 | 37 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
 | 38 | [She Needs Him](https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 5:14 |
 | 39 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 |
-| 40 | [golden years](https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [golden years](https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt) | 2:49 |
-| 41 | [Rich Girl](https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine EP](https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z) | 3:37 |
+| 40 | [Rich Girl](https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine EP](https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z) | 3:37 |
+| 41 | [golden years](https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [golden years](https://open.spotify.com/album/09knoNCuy7aCw2Ze6g5lBt) | 2:49 |
 | 42 | [Birch Tree](https://open.spotify.com/track/2isf9DCebk6mUhGagcD5bf) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Taking My Time to Be](https://open.spotify.com/album/2ljZoj8pjImMAznXAkeJne) | 4:40 |
 | 43 | [Secrets from a Girl \(Who's Seen it All\)](https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:38 |
 | 44 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 49 | [The Way I Am](https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls And Boys](https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z) | 2:15 |
 | 50 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 |
 | 51 | [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 |
-| 52 | [California](https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:11 |
-| 53 | [Slow Dancing](https://open.spotify.com/track/0tTEImoPqWvU1SiOduW1iy) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/4KWQ59OXCizPTrq9kADYQi) | 4:27 |
+| 52 | [Slow Dancing](https://open.spotify.com/track/0tTEImoPqWvU1SiOduW1iy) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/4KWQ59OXCizPTrq9kADYQi) | 4:27 |
+| 53 | [California](https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:11 |
 | 54 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 |
 | 55 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
 | 56 | [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 64 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 |
 | 65 | [Angels](https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels](https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie) | 3:34 |
 
-Snapshot ID: `MTY2MjgyMjUwNiwwMDAwMDAwMDlmZTgxNmFhNzhiYTgzOTFmYjAyZGEyYjQ2N2Q0MWNj`
+Snapshot ID: `MTY2MjgyMjUwNiwwMDAwMDAwMDFkZWZlNjI4YmE2NzY4OGQwOWM5MjFhZWI4ZTM0YjIx`

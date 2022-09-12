@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,106 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,214 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 47 | [Teenage Heartbreak](https://open.spotify.com/track/0skv6CWu2KWa97zeAFaSTb) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:08 |
 | 48 | [problems](https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:48 |
 | 49 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 |
-| 50 | [Alone](https://open.spotify.com/track/5lnKrYXmiDqVcHbhrLqSYx) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:13 |
+| 50 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
 
-Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMGUzMzRlYjk4OWY0MWQxYWZlMGY3M2RhODkzNmYyOTk1`
+Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMDg0ZWY4YjI2ZDJkN2JjZmY2YjVkYmU4OGI5MTgyMjRh`

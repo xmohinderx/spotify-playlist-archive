@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 784560,
       "name": "Abu Gil - Live",
       "url": "https://open.spotify.com/track/3X0BvVXZ5Xpx0oPN0di5yO"
@@ -375,10 +375,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 832160,
       "name": "Darbari Extension I",
       "url": "https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443773,
+      "name": "Darbari Extension II",
+      "url": "https://open.spotify.com/track/7yeOaqzx9sciyl2vOyUzrD"
     },
     {
       "album": {
@@ -393,7 +411,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 242200,
       "name": "Delicado",
       "url": "https://open.spotify.com/track/6OqlazjaFOPqlZI6gWvuvJ"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 293973,
       "name": "Empire II",
       "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
@@ -689,6 +707,40 @@
           "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
         }
       ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403186,
+      "name": "Itimad",
+      "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": "2022-08-28",
@@ -767,7 +819,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 392933,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2s9A9QkP6poey6gfYdTeJF"
@@ -857,7 +909,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 427400,
       "name": "Ndeya",
       "url": "https://open.spotify.com/track/3d5NKtguBkKIHjvsNqK6hc"
@@ -915,7 +967,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 403040,
       "name": "Northline - Live",
       "url": "https://open.spotify.com/track/1m3zsapoK5CGtujd680k4c"
@@ -991,7 +1043,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 239706,
       "name": "Pastorale Vassant",
       "url": "https://open.spotify.com/track/7429GeBCGutDEUPy1L4Uv4"
@@ -1143,7 +1195,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 293373,
       "name": "Sundown Dance",
       "url": "https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx"
@@ -1223,7 +1275,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 499546,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6eQWCVgV708C306UXiyJ9V"

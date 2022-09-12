@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 667473,
+  "num_followers": 667539,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDc2ZTIyZjk3N2E0NjVkM2FjMTNkYzMzZGMzN2ZhZGM2",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDJjMTI2OGYzY2Y0ZDI2MmU2NWJiODJhNTk2YWQwMTQw",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Shut Off The Lights",
-        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 187363,
-      "name": "Shut Off The Lights",
-      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "When I Was Younger",
         "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 177773,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Shut Off The Lights",
+        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 187363,
+      "name": "Shut Off The Lights",
+      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "tryhard",
-        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Daphne Blue",
-      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Adderall",
         "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 218025,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "tryhard",
+        "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Daphne Blue",
+      "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "pretty kids",
-        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "pretty kids",
-      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Moment In The Sun",
         "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 189634,
       "name": "Moment In The Sun",
       "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1507,38 +1507,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Heights",
-        "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
-      },
-      "artists": [
-        {
-          "name": "Knox Hamilton",
-          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Pretty Way to Fight",
-      "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "SUPERBLOOM",
-        "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "3 small words",
-      "url": "https://open.spotify.com/track/3TWkAgxg2LKjmJ4CiEvOkr"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
@@ -1551,22 +1519,6 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1587,6 +1539,54 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "SUPERBLOOM",
+        "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "3 small words",
+      "url": "https://open.spotify.com/track/3TWkAgxg2LKjmJ4CiEvOkr"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "The Heights",
+        "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
+      },
+      "artists": [
+        {
+          "name": "Knox Hamilton",
+          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Pretty Way to Fight",
+      "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "landline",
-        "url": "https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "landline",
-      "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 233976,
       "name": "Why Did You Run?",
       "url": "https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "landline",
+        "url": "https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op"
+      },
+      "artists": [
+        {
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "landline",
+      "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Gimme Twice",
+      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
         "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
       },
       "artists": [
         {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 204226,
-      "name": "Gimme Twice",
-      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 175029,
       "name": "i h8 that i still feel bad for u",
       "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 203651,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Lean Into Life",
         "url": "https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 237400,
       "name": "DON'T TELL THE BOYS",
       "url": "https://open.spotify.com/track/5RuMsudDPFkRC1XQsiheGT"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 203651,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Nella Vita",
-        "url": "https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Do You Really Wanna Know?",
         "url": "https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 178333,
       "name": "Do You Really Wanna Know?",
       "url": "https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Nella Vita",
+        "url": "https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "I Don't Like Being Honest",
-        "url": "https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Painting (Masterpiece)",
         "url": "https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 243413,
       "name": "Painting (Masterpiece)",
       "url": "https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "I Don't Like Being Honest",
+        "url": "https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "High Again",
-        "url": "https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "High Again",
-      "url": "https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Take It Easy",
         "url": "https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "High Again",
+        "url": "https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 175820,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic"
     },
     {
       "added_at": "2022-08-12 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia\. Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,121 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,502 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [PYPPARE](https://open.spotify.com/track/2jDqFufZErKkm9JXgPc4lF) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [PYPPARE](https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U) | 2:36 |
 | 50 | [NON É COLPA MIA](https://open.spotify.com/track/168k2KmrWRYJWPrNvW2Y0p) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ) | [FAIV](https://open.spotify.com/album/39lorAlGAFUXFhJT1rYBlI) | 3:00 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGRhMmUxYWYzMWU3NjNmMjZmN2IzMzE5YTRkOGVjNWU0`
+Snapshot ID: `MTY2MjkxNzMxOCwwMDAwMDAwMGJkYzgxOTQ3N2M1ZTVjOThjNWUzYWEzZTllNmNkYThl`

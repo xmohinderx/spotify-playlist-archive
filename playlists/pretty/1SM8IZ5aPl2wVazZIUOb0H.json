@@ -6,7 +6,7 @@
     "name": "Telkin",
     "url": "https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8"
   },
-  "snapshot_id": "NDgsMDE4ZTc4NGY5NWVhYTJiNDVhZjYxYWExMGM1NGM0N2Y5NmNkODg5Zg==",
+  "snapshot_id": "NTAsMTg0M2VmZTg5NTRlMTk3MzFlZTg2N2RkNDc1MzgyYTdiMmYzNTEyNw==",
   "tracks": [
     {
       "added_at": "2022-09-05 08:22:57",
@@ -747,6 +747,38 @@
       "duration_ms": 285324,
       "name": "edge of the world",
       "url": "https://open.spotify.com/track/2jd0X87fTd5947SPnsQNmp"
+    },
+    {
+      "added_at": "2022-09-11 06:08:25",
+      "album": {
+        "name": "Teenage Sound",
+        "url": "https://open.spotify.com/album/2D8dV3fLbJH4isDduuIxHt"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "duration_ms": 171900,
+      "name": "Teenage Sound",
+      "url": "https://open.spotify.com/track/06xPdNtt4iuQPKxQhBAQtb"
+    },
+    {
+      "added_at": "2022-09-11 21:44:53",
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Ruler of Everything",
+      "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
     }
   ],
   "unique_name": "Grindstone Mix v2",

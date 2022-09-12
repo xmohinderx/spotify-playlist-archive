@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1759230,
+  "num_followers": 1759320,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE2MTI1OTc3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE2MjEyNDI3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Satin Panthers",
         "url": "https://open.spotify.com/album/0d99LxnQpiPLgSGDRuU9HT"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Munch (Feelin\u2019 U)",
         "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -93,39 +93,7 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "Run Away to Mars",
-        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
@@ -141,7 +109,39 @@
       "url": "https://open.spotify.com/track/03ZwNF6FTvazNuOXNQf8k8"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
@@ -157,43 +157,7 @@
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "Manavaalan Thug (From \"Thallumaala\")",
-        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
-      },
-      "artists": [
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "SA",
-          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Manavaalan Thug - From \"Thallumaala\"",
-      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "SHADOW",
         "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
@@ -213,7 +177,43 @@
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Manavaalan Thug (From \"Thallumaala\")",
+        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "SA",
+          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Manavaalan Thug - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "|BONKERS|",
         "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Nasha (Equals Sessions) - Single",
         "url": "https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Sevmi\u015f Gibi",
         "url": "https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Ben Bazen",
         "url": "https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "202",
         "url": "https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Wildberry Lillet",
         "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
@@ -353,27 +353,23 @@
       "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
-        "name": "Kalbin bana kald\u0131",
-        "url": "https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW"
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
       "artists": [
         {
-          "name": "ALIZADE",
-          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
-        },
-        {
-          "name": "BEGE",
-          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Kalbin bana kald\u0131",
-      "url": "https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J"
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
         "url": "https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y"
@@ -393,23 +389,27 @@
       "url": "https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+        "name": "Kalbin bana kald\u0131",
+        "url": "https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "ALIZADE",
+          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
+        },
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
         }
       ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+      "duration_ms": 144000,
+      "name": "Kalbin bana kald\u0131",
+      "url": "https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "A Culpa \u00c9 Tua Voc\u00ea Falou pra Fulana",
         "url": "https://open.spotify.com/album/4GmjiPFA9UDECDAfdyXdxP"
@@ -429,7 +429,23 @@
       "url": "https://open.spotify.com/track/3jdvNmhtvtk9bFb3vb6E9s"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -449,23 +465,7 @@
       "url": "https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "DOUBLE M'S",
         "url": "https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui"
@@ -485,23 +485,7 @@
       "url": "https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -517,23 +501,23 @@
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
-        "name": "Babalik Sa'yo (from 2 Good 2 Be True)",
-        "url": "https://open.spotify.com/album/5Sw8579gMyFd8JcKaeEbXx"
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
       },
       "artists": [
         {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 229711,
-      "name": "Babalik Sa'yo - from 2 Good 2 Be True",
-      "url": "https://open.spotify.com/track/2e7iqtA42EPXTtiiAlblC1"
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Thenmozhi (From \"Thiruchitrambalam\")",
         "url": "https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr"
@@ -553,7 +537,23 @@
       "url": "https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Babalik Sa'yo (from 2 Good 2 Be True)",
+        "url": "https://open.spotify.com/album/5Sw8579gMyFd8JcKaeEbXx"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 229711,
+      "name": "Babalik Sa'yo - from 2 Good 2 Be True",
+      "url": "https://open.spotify.com/track/2e7iqtA42EPXTtiiAlblC1"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Summer High",
         "url": "https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Sneakers",
         "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
@@ -601,39 +601,7 @@
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
@@ -649,7 +617,103 @@
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Give Me A Kiss",
+        "url": "https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 169204,
+      "name": "Give Me A Kiss",
+      "url": "https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "God Save The Queen",
+      "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "El Jami",
+        "url": "https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO"
+      },
+      "artists": [
+        {
+          "name": "Grupo 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Dutton Ranch Freestyle",
+        "url": "https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "duration_ms": 143787,
+      "name": "Dutton Ranch Freestyle",
+      "url": "https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Bafora o Lan\u00e7a (Remix)",
         "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
@@ -669,71 +733,7 @@
       "url": "https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "Dutton Ranch Freestyle",
-        "url": "https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA"
-      },
-      "artists": [
-        {
-          "name": "David Morris",
-          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
-        }
-      ],
-      "duration_ms": 143787,
-      "name": "Dutton Ranch Freestyle",
-      "url": "https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "El Jami",
-        "url": "https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO"
-      },
-      "artists": [
-        {
-          "name": "Grupo 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 179610,
-      "name": "El Jami",
-      "url": "https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "you were there for me",
-        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "you were there for me",
-      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
@@ -749,7 +749,39 @@
       "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "you were there for me",
+        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "you were there for me",
+      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Nerdesin",
         "url": "https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q"
@@ -765,7 +797,27 @@
       "url": "https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
+      "album": {
+        "name": "Sita Ramam (Telugu) (Extended Version) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        }
+      ],
+      "duration_ms": 218808,
+      "name": "Inthandham",
+      "url": "https://open.spotify.com/track/0gE8ZP2cTXpRDz53bTkpu6"
+    },
+    {
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Next Thing You Know",
         "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
@@ -781,55 +833,23 @@
       "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
-        "name": "V16",
-        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
       },
       "artists": [
         {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 119106,
-      "name": "V16",
-      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
-        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "God Save The Queen",
-      "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
+      "added_at": "2022-09-11 11:53:47",
       "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
@@ -843,22 +863,6 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2022-09-10 11:52:57",
-      "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
-      },
-      "artists": [
-        {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
     }
   ],
   "unique_name": "Viral 50 - Global",

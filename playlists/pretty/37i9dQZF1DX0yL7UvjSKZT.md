@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Brothers Comatose
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,260 likes - 138 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,292 likes - 138 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

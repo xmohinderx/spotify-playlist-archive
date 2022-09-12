@@ -6614,6 +6614,28 @@
     },
     {
       "album": {
+        "name": "Songbook: A Collection Of Hits",
+        "url": "https://open.spotify.com/album/4B7Py5rD8NGboCG8Fr0BHE"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        },
+        {
+          "name": "Garth Brooks",
+          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "In Another's Eyes",
+      "url": "https://open.spotify.com/track/0KVQvSTvLAzAIQ108XzZ0m"
+    },
+    {
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
@@ -8349,7 +8371,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
@@ -10853,7 +10875,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
@@ -14549,6 +14571,28 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "album": {
+        "name": "Where Your Road Leads",
+        "url": "https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz"
+      },
+      "artists": [
+        {
+          "name": "Garth Brooks",
+          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
+        },
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Where Your Road Leads",
+      "url": "https://open.spotify.com/track/4Y8EyXnq5CLR8A7EHXxx7L"
     },
     {
       "album": {

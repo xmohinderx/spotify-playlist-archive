@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,900 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,952 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 67 | [Brutalidad](https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:03 |
 | 68 | [Reggae Respect \- Live](https://open.spotify.com/track/6RyawEEdxTWMFtwRBpfFV3) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Gran Omar](https://open.spotify.com/artist/0Fb7RqTb9p5NCJx5yOTKJe) | [Live](https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ) | 2:13 |
 | 69 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
-| 70 | [Playero 38](https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa) | 3:17 |
-| 71 | [Viernes 13 \- Parte 1](https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Dos Tiempos Bajo Un Mismo Tono](https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj) | 5:06 |
+| 70 | [Viernes 13 \- Parte 1](https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Dos Tiempos Bajo Un Mismo Tono](https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj) | 5:06 |
+| 71 | [Playero 38](https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa) | 3:17 |
 | 72 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
 | 73 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 74 | [Las Pistolas Seguiran](https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 4:35 |
 | 75 | [Quiero Estar Contigo](https://open.spotify.com/track/38ItcgEkN3anw5LbfYihJX) | [Maicol & Manuel](https://open.spotify.com/artist/7wwygDw32gRhhUshm3ZGYN) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDYyMTM2Mjk2MDYzODQyMzNiMTQzNjZhMGYzNDQ5Zjkw`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDYwMjkzODU3OTE2MGFkYTM5MjYzNDU3N2I2MTFjZWI3`

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to being the best version of you.",
-  "num_followers": 386935,
+  "num_followers": 386997,
   "original_name": "The Glow Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2ODI1NywwMDAwMDAwMGU0ZWIxNzc4ZTc1ZWE3MjNjNTVmZDk3MmVmMGQ4Nzc0",
+  "snapshot_id": "MTY2MjM2ODI1NywwMDAwMDAwMDhkMWVjM2JiNjRmNjQ0MDM0YzEyNzNiODc4YmY0ZjA4",
   "tracks": [
     {
       "added_at": "2022-09-05 08:57:37",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-09-05 08:57:37",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2022-09-05 08:57:37",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
-    },
-    {
-      "added_at": "2022-09-05 08:57:37",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2022-09-05 08:57:37",

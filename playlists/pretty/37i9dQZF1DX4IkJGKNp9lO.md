@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,272 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,274 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 43 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
 | 44 | [Psykist Instabil](https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Med is i magen](https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2) | 2:47 |
 | 45 | [Feta Gubbar](https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:03 |
-| 46 | [Jag lämnar festen](https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:54 |
+| 46 | [Solglasögon](https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N) | [Docent Död](https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM) | [Docent Död \(Mini\-LP\)](https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT) | 2:27 |
 | 47 | [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 |
-| 48 | [När Världssamvetet Tog Semester](https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:20 |
-| 49 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 |
+| 48 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 |
+| 49 | [Jag lämnar festen](https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:54 |
 | 50 | [Några Jävla Spänn](https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD) | 3:16 |
-| 51 | [Solglasögon](https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N) | [Docent Död](https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM) | [Docent Död \(Mini\-LP\)](https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT) | 2:27 |
+| 51 | [När Världssamvetet Tog Semester](https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:20 |
 | 52 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
 | 53 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 |
 | 54 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Pappa Betalar](https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:31 |
 | 65 | [Abab](https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [MNW Digital Archive 1979](https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV) | 2:03 |
 
-Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMDlkYzgyY2M0MWNlMTBlOWJjZTc2ZDg5MzM3YzU5MWM2`
+Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMDUwNTQ2MGE3NTNkOWIzOWY5NGM3MzdlOWY4MzcwNTdj`

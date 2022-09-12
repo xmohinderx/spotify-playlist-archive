@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Małgola, No \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,104 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,109 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

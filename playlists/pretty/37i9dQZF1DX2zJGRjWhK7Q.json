@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 140129,
+  "num_followers": 140194,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDdhYmZiYzM4ZDJhNmY2MDU0NjRjZmJjM2I0Zjk3MWU1",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDMwZTRmNDEzYzAzM2YxYWFkODQ3ZWM1Mzc5NGY2ZmYz",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -179,18 +179,22 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+        "name": "Plant\u00e9 Bandera",
+        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
       },
       "artists": [
         {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Chamaco Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
         }
       ],
-      "duration_ms": 229355,
-      "name": "Sigue Tu Camino",
-      "url": "https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O"
+      "duration_ms": 302413,
+      "name": "Trucutu",
+      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -211,22 +215,18 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Plant\u00e9 Bandera",
-        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Chamaco Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
         }
       ],
-      "duration_ms": 302413,
-      "name": "Trucutu",
-      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
+      "duration_ms": 229355,
+      "name": "Sigue Tu Camino",
+      "url": "https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 386306,
-      "name": "La Rueda",
-      "url": "https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Billo's Caracas Boys vs. Dimension Latina",
         "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 225140,
       "name": "Lloraras - Edit",
       "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 386306,
+      "name": "La Rueda",
+      "url": "https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa"
     },
     {
       "added_at": "2022-02-18 16:03:15",

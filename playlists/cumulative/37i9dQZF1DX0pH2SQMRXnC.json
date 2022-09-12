@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 225449,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0XWQtIOEmws7pNwODEH6hW"
@@ -4435,7 +4435,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 170295,
       "name": "Jaipur - Radio Edit",
       "url": "https://open.spotify.com/track/0toVxnrTHTMb0RbILsF4a0"
@@ -6859,10 +6859,36 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 185209,
       "name": "Runaway (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/3y2QrAjiVUzCCAyO35HYOH"
+    },
+    {
+      "album": {
+        "name": "Runaway [(Hardstyle) - Sped Up]",
+        "url": "https://open.spotify.com/album/2xp6OBqyUXUwtOykQqGuju"
+      },
+      "artists": [
+        {
+          "name": "BAKI",
+          "url": "https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW"
+        },
+        {
+          "name": "ZYZZ",
+          "url": "https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM"
+        },
+        {
+          "name": "GYM HARDSTYLE",
+          "url": "https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185721,
+      "name": "Runaway - (Hardstyle) - Sped Up",
+      "url": "https://open.spotify.com/track/4jRwGx5L9OvtNGEpncuxI5"
     },
     {
       "album": {

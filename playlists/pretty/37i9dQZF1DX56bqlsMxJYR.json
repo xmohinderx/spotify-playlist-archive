@@ -1,12 +1,12 @@
 {
   "description": "All of the classic hits from the 50s and 60s.",
-  "num_followers": 839939,
+  "num_followers": 840359,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMDhlNGFhNWYwMGNkMGNiYWNkZDRhZjllOTM5Mjg0NzE0",
+  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMDBlOTU1NmE0MGZlMTI3NmJhN2FiYzFiOWIyZWU3ZmRl",
   "tracks": [
     {
       "added_at": "2022-03-07 23:38:19",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Gettin' Ready (Expanded Edition)",
         "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 156173,
       "name": "Ain't Too Proud To Beg",
       "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 144146,
-      "name": "Do Wah Diddy Diddy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/69sEXPrKQ5PtCxel5csSXs"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
         "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 256120,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 144146,
+      "name": "Do Wah Diddy Diddy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/69sEXPrKQ5PtCxel5csSXs"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Sings the Songs that Made Him Famous",
         "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 163045,
       "name": "I Walk The Line - Single Version",
       "url": "https://open.spotify.com/track/1TKPfF2fvn6gVLVfp3iG4j"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+      },
+      "artists": [
+        {
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Sugar, Sugar",
         "url": "https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169626,
       "name": "Sugar, Sugar",
       "url": "https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Duke Of Earl",
-        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Gene Chandler",
-          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 147841,
-      "name": "Duke of Earl",
-      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "The Duke Of Earl",
+        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Gene Chandler",
+          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 147841,
+      "name": "Duke of Earl",
+      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Dancing In The Street - Stereo",
-      "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Best Of Frankie Lymon & The Teenagers",
         "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
@@ -1627,18 +1611,34 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "It's Your Thing: The Story Of The Isley Brothers",
-        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 166506,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw"
+      "duration_ms": 159000,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Tommy James and The Shondells: Anthology",
+        "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU"
     }
   ],
   "unique_name": "Classic Oldies",

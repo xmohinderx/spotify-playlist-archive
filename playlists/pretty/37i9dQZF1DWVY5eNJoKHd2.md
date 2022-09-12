@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > Music that makes you feel like you're levitating\. Cover: The Carina Nebula, NASA
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,302 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,763 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 36 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 37 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 |
 | 38 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 |
-| 39 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
-| 40 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 |
+| 39 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 |
+| 40 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
 | 41 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 |
 | 42 | [Mr\. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:54 |
 | 43 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 47 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 48 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 49 | [Purple Hearts](https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:29 |
-| 50 | [Easily](https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:30 |
+| 50 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDBkMDdlMjQ1ZGMxYTQyY2MwNzIwNmNiN2RhMGNkOWIx`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDYwOTVlMGY5NDlkZmFmMWU3NzdlMzRiZmFhN2U3YzVl`

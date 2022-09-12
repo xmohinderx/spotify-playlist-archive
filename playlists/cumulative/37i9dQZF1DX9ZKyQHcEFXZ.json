@@ -1454,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "Regaetton Hits",
+        "url": "https://open.spotify.com/album/17zIDSCD7jEwW4afb8P7IU"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242520,
+      "name": "Metele Saz\u00f3n",
+      "url": "https://open.spotify.com/track/0TGXhbsTJ1LohY8HvmxSvT"
+    },
+    {
+      "album": {
         "name": "Mi Ni\u00f1a",
         "url": "https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS"
       },
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 242573,
       "name": "M\u00e9tele Saz\u00f3n",
       "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"

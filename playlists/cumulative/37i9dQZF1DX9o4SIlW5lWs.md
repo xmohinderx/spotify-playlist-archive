@@ -4,7 +4,7 @@
 
 > Al corazón!
 
-254 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
+255 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 | 2022-01-14 |  |
 | [Detente](https://open.spotify.com/track/0WrzoYSsOWbQ3b4ZFiD21m) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Detente](https://open.spotify.com/album/0G2y3AhSTSVYaQZbCz8yBi) | 3:05 | 2022-04-08 | 2022-05-20 |
 | [Dile Tu \- En Vivo](https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Éxitos de Siempre \(En Vivo\)](https://open.spotify.com/album/5CprFOLiFLLU2EDC3BOUB6) | 2:00 | 2022-01-21 | 2022-07-12 |
-| [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 | 2022-02-18 |  |
+| [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 | 2022-02-18 | 2022-09-12 |
 | [Donde Estas](https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Donde Estas](https://open.spotify.com/album/2josnzGzDa3cSeWJndXVEj) | 2:55 | 2022-01-21 | 2022-06-17 |
 | [Dueles](https://open.spotify.com/track/3j4K4BR0vC1nUq2WgukHJv) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Dueles](https://open.spotify.com/album/02FXUJdRn38OuHguwpSAkM) | 3:20 | 2022-01-21 | 2022-07-17 |
 | [Dueles](https://open.spotify.com/track/1QuGDS0fic3lyKzJhIMX99) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Dueles](https://open.spotify.com/album/4L1MCvgaAeK5Ot0bRjCj4P) | 4:24 | 2022-01-21 | 2022-06-29 |
@@ -138,6 +138,7 @@
 | [Me Va Mejor Con el Alcohol](https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Me Va Mejor Con el Alcohol](https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB) | 3:17 | 2022-03-18 | 2022-06-13 |
 | [Me Vas a Extrañar](https://open.spotify.com/track/20G9tFLFSjdBSz65LlASqk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Me Vas a Extrañar](https://open.spotify.com/album/3S6YMdtMKGqZMQ9Lq3GMMy) | 3:37 | 2022-01-21 | 2022-07-28 |
 | [Mentiras / Es Mi Culpa / Lo Intentamos \- En Vivo](https://open.spotify.com/track/6T3rr3WFTuwQ35v178QIyk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mentiras / Es Mi Culpa / Lo Intentamos \(En Vivo\)](https://open.spotify.com/album/5SU7PDzbzYTJW9ZkfzM9yM) | 7:54 | 2022-02-18 | 2022-07-05 |
+| [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2022-09-09 |  |
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2022-01-21 | 2022-09-11 |
 | [Mi Figurita](https://open.spotify.com/track/0e1ZHxouYIXP1XaxdTEO7V) | [Como Suena](https://open.spotify.com/artist/6mMF00MGSqk8MT3c31YRSg), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Mi Figurita](https://open.spotify.com/album/3qIZHzb0e132TyVGJQtTxd) | 3:04 | 2022-02-04 | 2022-07-12 |
 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 | 2022-01-14 |  |

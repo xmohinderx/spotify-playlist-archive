@@ -1,12 +1,12 @@
 {
   "description": "These progressive R&B and soul tracks can't be put in a box. Cover: Greentea Peng",
-  "num_followers": 1287362,
+  "num_followers": 1287450,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjQwMCwwMDAwMDAwMGZjNWQ4Njc3NTNhNjkyMjM1NGY3OTFmMTQ3YjMyOTUz",
+  "snapshot_id": "MTY2MjY5NjQwMCwwMDAwMDAwMDYyOWIwMWViNDQ3MDA5MmQ5MTdiNGYxYTFkYmE4Nzk2",
   "tracks": [
     {
       "added_at": "2022-07-24 03:13:05",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
       "added_at": "2022-07-29 04:14:33",
       "album": {
         "name": "NOT TiGHT",
@@ -681,20 +697,20 @@
       "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-29 04:14:33",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
         }
       ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+      "duration_ms": 114416,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 216760,
       "name": "careless (feat. daniel caesar)",
       "url": "https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi"
-    },
-    {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 114416,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
     },
     {
-      "added_at": "2022-07-22 04:15:47",
-      "album": {
-        "name": "quinn",
-        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 186485,
-      "name": "two door tiffany",
-      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Most Wanted (Deluxe)",
@@ -1005,24 +989,20 @@
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
     },
     {
-      "added_at": "2022-07-29 04:14:33",
+      "added_at": "2022-07-22 04:15:47",
       "album": {
-        "name": "All Masks",
-        "url": "https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx"
+        "name": "quinn",
+        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 270118,
-      "name": "All Masks [Feat. Masego]",
-      "url": "https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en"
+      "duration_ms": 186485,
+      "name": "two door tiffany",
+      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
     },
     {
       "added_at": "2022-08-26 04:05:16",
@@ -1043,22 +1023,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173774,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -1075,6 +1039,42 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 173774,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "All Masks",
+        "url": "https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 270118,
+      "name": "All Masks [Feat. Masego]",
+      "url": "https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en"
     },
     {
       "added_at": "2022-07-22 04:15:47",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "flora + fana",
+        "url": "https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 169579,
+      "name": "BAD bad",
+      "url": "https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG"
+    },
+    {
       "added_at": "2022-08-05 04:14:30",
       "album": {
         "name": "GHOST",
@@ -1205,20 +1221,24 @@
       "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-08-26 04:05:16",
       "album": {
-        "name": "flora + fana",
-        "url": "https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1"
+        "name": "Red To Violet (Feat. Jamila Woods)",
+        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 169579,
-      "name": "BAD bad",
-      "url": "https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG"
+      "duration_ms": 202746,
+      "name": "Red To Violet - Feat. Jamila Woods",
+      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1253,44 +1273,24 @@
       "url": "https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB"
     },
     {
-      "added_at": "2022-08-19 04:17:01",
-      "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Jst Ray",
-          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Bitches Be (with Jst Ray)",
-      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
-    },
-    {
       "added_at": "2022-08-26 04:05:16",
       "album": {
-        "name": "Red To Violet (Feat. Jamila Woods)",
-        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         },
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         }
       ],
-      "duration_ms": 202746,
-      "name": "Red To Violet - Feat. Jamila Woods",
-      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
+      "duration_ms": 202213,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1313,44 +1313,60 @@
       "url": "https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv"
     },
     {
-      "added_at": "2022-08-26 04:05:16",
+      "added_at": "2022-08-19 04:17:01",
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          "name": "Jst Ray",
+          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
         }
       ],
-      "duration_ms": 202213,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
+      "duration_ms": 204440,
+      "name": "Bitches Be (with Jst Ray)",
+      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
     },
     {
-      "added_at": "2022-07-15 04:16:10",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "What If? / Leave It",
-        "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
+        "name": "Automatic (Orion Sun Remix)",
+        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
       },
       "artists": [
         {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+          "name": "Spencer.",
+          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
         },
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
+      "duration_ms": 124736,
+      "name": "Automatic - Orion Sun Remix",
+      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1373,40 +1389,24 @@
       "url": "https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-15 04:16:10",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+        "name": "What If? / Leave It",
+        "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
       "artists": [
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Automatic (Orion Sun Remix)",
-        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
-      },
-      "artists": [
-        {
-          "name": "Spencer.",
-          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
         },
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 124736,
-      "name": "Automatic - Orion Sun Remix",
-      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
+      "duration_ms": 232500,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
     },
     {
       "added_at": "2022-08-19 04:17:01",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-07-15 04:02:46",
       "album": {
-        "name": "Keep Your Head Up",
-        "url": "https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8"
-      },
-      "artists": [
-        {
-          "name": "Khi Infinite",
-          "url": "https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs"
-        }
-      ],
-      "duration_ms": 163725,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
         "name": "Brown Angel",
         "url": "https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 182000,
       "name": "Brown Angel",
       "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
+    },
+    {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8"
+      },
+      "artists": [
+        {
+          "name": "Khi Infinite",
+          "url": "https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs"
+        }
+      ],
+      "duration_ms": 163725,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1597,20 +1597,20 @@
       "url": "https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE"
     },
     {
-      "added_at": "2022-07-22 04:15:47",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Unless",
-        "url": "https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague"
+        "name": "Home Maker",
+        "url": "https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU"
       },
       "artists": [
         {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
         }
       ],
-      "duration_ms": 96806,
-      "name": "Unless",
-      "url": "https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0"
+      "duration_ms": 232967,
+      "name": "Home Maker (Edit)",
+      "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
     },
     {
       "added_at": "2022-08-12 04:15:41",
@@ -1629,20 +1629,20 @@
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-22 04:15:47",
       "album": {
-        "name": "Home Maker",
-        "url": "https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU"
+        "name": "Unless",
+        "url": "https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
         }
       ],
-      "duration_ms": 232967,
-      "name": "Home Maker (Edit)",
-      "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
+      "duration_ms": 96806,
+      "name": "Unless",
+      "url": "https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1713,20 +1713,24 @@
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-29 04:14:33",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN"
+        "name": "Into The Blue Light",
+        "url": "https://open.spotify.com/album/5Y5hByZ0qL2hMLgIBmn44A"
       },
       "artists": [
         {
-          "name": "Shanuka",
-          "url": "https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny"
+          "name": "ImaniCarolyn",
+          "url": "https://open.spotify.com/artist/1XxDHmr1Cb6x8JtKD8W9OX"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 254526,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
+      "duration_ms": 218054,
+      "name": "About A Gemini, Pt. 3",
+      "url": "https://open.spotify.com/track/5nsNIkhHNiatcdavaoGkly"
     }
   ],
   "unique_name": "Alternative R&B",

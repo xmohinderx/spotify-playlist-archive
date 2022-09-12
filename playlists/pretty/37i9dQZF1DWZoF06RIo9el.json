@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones Latinas de agosto 2022.",
-  "num_followers": 1492751,
+  "num_followers": 1492966,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjA3MywwMDAwMDAwMDgyYjk1MzcyNGY2NDQzNDBjMTQ1OWE1NGNjMjU0NmJi",
+  "snapshot_id": "MTY2MjQ4MjA3MywwMDAwMDAwMDY3NzRjZTU0MWQ2NjhmMzFlNTgzMDQzOTdlMDgxOGFl",
   "tracks": [
     {
       "added_at": "2022-09-01 20:29:26",
@@ -303,34 +303,6 @@
     {
       "added_at": "2022-09-01 20:29:26",
       "album": {
-        "name": "Somos Iguales",
-        "url": "https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Louchie Lou",
-          "url": "https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ"
-        },
-        {
-          "name": "Michie One",
-          "url": "https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi"
-        }
-      ],
-      "duration_ms": 172414,
-      "name": "Somos Iguales",
-      "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
-    },
-    {
-      "added_at": "2022-09-01 20:29:26",
-      "album": {
         "name": "Como \u00d1engo (feat. Jota Rosa)",
         "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
       },
@@ -359,6 +331,34 @@
     {
       "added_at": "2022-09-01 20:29:26",
       "album": {
+        "name": "Somos Iguales",
+        "url": "https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Louchie Lou",
+          "url": "https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ"
+        },
+        {
+          "name": "Michie One",
+          "url": "https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi"
+        }
+      ],
+      "duration_ms": 172414,
+      "name": "Somos Iguales",
+      "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
+    },
+    {
+      "added_at": "2022-09-01 20:29:26",
+      "album": {
         "name": "El Mensaje",
         "url": "https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 182000,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
-    },
-    {
-      "added_at": "2022-09-01 20:29:26",
-      "album": {
-        "name": "Reggaetonea",
-        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Amor De Una Noche",
-      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
     },
     {
       "added_at": "2022-09-01 20:29:26",
@@ -407,6 +391,22 @@
       "duration_ms": 191094,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
+    },
+    {
+      "added_at": "2022-09-01 20:29:26",
+      "album": {
+        "name": "Reggaetonea",
+        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Amor De Una Noche",
+      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
     },
     {
       "added_at": "2022-09-01 20:29:26",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-09-01 20:29:26",
       "album": {
+        "name": "Bad Bichi",
+        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Bad Bichi",
+      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
+    },
+    {
+      "added_at": "2022-09-01 20:29:26",
+      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 197733,
       "name": "Cumbia Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
-    },
-    {
-      "added_at": "2022-09-01 20:29:26",
-      "album": {
-        "name": "Bad Bichi",
-        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Bad Bichi",
-      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
     },
     {
       "added_at": "2022-09-01 20:29:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,010 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,090 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 19 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 20 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 |
 | 21 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
-| 22 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
+| 22 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 |
 | 23 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
-| 24 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 |
+| 24 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
 | 25 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
 | 26 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
 | 27 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 68 | [LALALA](https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/1oOiiAylUiGg1ccIvP5wha) | 2:42 |
 | 69 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
 | 70 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
-| 71 | [Soltera](https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Soltera](https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7) | 3:02 |
-| 72 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
+| 71 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
+| 72 | [Soltera](https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Soltera](https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7) | 3:02 |
 | 73 | [lovin kind](https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:00 |
 | 74 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
 | 75 | [Sin Aire](https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Sin Aire](https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn) | 2:53 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 80 | [Qué Será](https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Qué Será](https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd) | 3:13 |
 | 81 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
 | 82 | [Chanteito Pa' un Ex](https://open.spotify.com/track/4mK5PG0R3ch1hJoOW9pFe2) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Chanteito Pa' un Ex](https://open.spotify.com/album/1kmys6i9MjDcH2loOM1ZVB) | 3:36 |
-| 83 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
-| 84 | [Vuelve](https://open.spotify.com/track/5WGHknjgYatHVCFRTFB8QP) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:47 |
-| 85 | [Extranjera](https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Extranjera](https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK) | 3:28 |
+| 83 | [Extranjera](https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Extranjera](https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK) | 3:28 |
+| 84 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
+| 85 | [Vuelve](https://open.spotify.com/track/5WGHknjgYatHVCFRTFB8QP) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:47 |
 | 86 | [Pa' Mi Entero](https://open.spotify.com/track/1oUYEiQ669zjwQOMKGMuKH) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 2:52 |
 | 87 | [Cuando Hay Amor](https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuando Hay Amor](https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z) | 4:01 |
 | 88 | [No Pasa Nada \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 99 | [Noches en Miami](https://open.spotify.com/track/6MkRRQcKD5n3bLmFA3rJbd) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Noches en Miami](https://open.spotify.com/album/2dCZVCwASQV3KKhnAXY7Py) | 2:34 |
 | 100 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
 
-Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMDNjMzE3OTA5YWU3YzQzNDM1NWE5ZjlhY2YwYTk0N2My`
+Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMGZlOGRmY2ZhZDhkZGJmOThlM2I1OWEzYmNhOTczYTli`

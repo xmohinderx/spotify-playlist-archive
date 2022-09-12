@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-148 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+149 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 | 2021-12-12 |  |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-12 |  |
 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-12-12 |  |
-| [Last Christmas](https://open.spotify.com/track/2Codkc7k9sC2Itz8hEb2w7) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/2KVJoavZbPD84mUEGcFvuW) | 3:08 | 2021-12-12 |  |
+| [Last Christmas](https://open.spotify.com/track/0mKbWzFb9EsTJgDwzbYtRc) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/443y0OW2T8uu2sFEOqxzVN) | 3:08 | 2021-12-12 |  |
+| [Last Christmas](https://open.spotify.com/track/2Codkc7k9sC2Itz8hEb2w7) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/2KVJoavZbPD84mUEGcFvuW) | 3:08 | 2021-12-12 | 2022-09-12 |
 | [Let It Snow](https://open.spotify.com/track/1RxNjmDI7SKo1g2SWTaADo) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Let It Snow](https://open.spotify.com/album/7EA6UqU5i8V4D1097xbLNz) | 2:38 | 2021-12-12 |  |
 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 | 2021-12-12 |  |
 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 | 2021-12-12 |  |

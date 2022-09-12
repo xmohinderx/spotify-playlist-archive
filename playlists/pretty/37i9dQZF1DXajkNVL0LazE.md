@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,126 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,270 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 32 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 33 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 34 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
-| 35 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
-| 36 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 35 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 36 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
 | 37 | [Elephant Gun](https://open.spotify.com/track/5loVmc3MmtYGsTw12eDgcU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 5:45 |
 | 38 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 39 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 87 | [Four Winds](https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Cassadaga](https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB) | 4:16 |
 | 88 | [Sycamore](https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Woke On A Whaleheart](https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH) | 5:35 |
 | 89 | [The Modern Leper](https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 3:48 |
-| 90 | [Knife](https://open.spotify.com/track/4BmtCb6sdMqECAItGmFDvU) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6rVRNvNpzh0O2nSxFG7Ziz) | 5:14 |
-| 91 | [Strictly Rule](https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 4:28 |
+| 90 | [Strictly Rule](https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 4:28 |
+| 91 | [Knife](https://open.spotify.com/track/4BmtCb6sdMqECAItGmFDvU) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6rVRNvNpzh0O2nSxFG7Ziz) | 5:14 |
 | 92 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
 | 93 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 | 94 | [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [Painter in Your Pocket](https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Destroyer's Rubies](https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii) | 4:10 |
 | 100 | [If I Were](https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Lookaftering](https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n) | 2:15 |
 
-Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMDA0YjhmYmJiOTE2ZTg2ZWEyOTM2NzM4YWQxNTAzNDgw`
+Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMDA4YzRlNTMxY2Q3ODhhYTM2ZWE0Y2Y5MjBhZDdiMDVi`

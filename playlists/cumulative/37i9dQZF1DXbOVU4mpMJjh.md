@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-381 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+382 songs - 1 day 8 hr 18 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2022-04-14 |  |
 | [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2022-04-14 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/6q79ug6e5EVGmkeEuJtDQu) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 9:56 | 2022-04-14 | 2022-07-29 |
-| [Dear Old Thing](https://open.spotify.com/track/0pZzAYPfcYXXHkflWkV0rB) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Awakening](https://open.spotify.com/album/1H8iVgSGr10YYPGxjp0kt6) | 6:28 | 2022-08-29 |  |
+| [Dear Old Thing](https://open.spotify.com/track/0pZzAYPfcYXXHkflWkV0rB) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Awakening](https://open.spotify.com/album/1H8iVgSGr10YYPGxjp0kt6) | 6:28 | 2022-08-29 | 2022-09-12 |
 | [Dear Old Thing](https://open.spotify.com/track/4hxj5xy0RFnMlV2gEkR3Vo) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Dear Old Thing](https://open.spotify.com/album/6tHI7rtkHvUHedrPq6xOMT) | 6:28 | 2022-04-14 | 2022-07-29 |
 | [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 | 2022-06-30 |  |
 | [Dim](https://open.spotify.com/track/50ma4LjaP5XDL1BsHrZ1D9) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/0GiNCOob4dZtBafvM8JrHG) | 6:05 | 2022-04-14 | 2022-07-28 |
@@ -126,6 +126,7 @@
 | [Got That Feeling](https://open.spotify.com/track/2VY6cGSr6iDouF55iOS6Ok) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:59 | 2022-04-14 | 2022-07-29 |
 | [Gramercy Sunset](https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 4:15 | 2022-04-14 |  |
 | [Ham Hocks and Cabbage](https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:24 | 2022-04-14 |  |
+| [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-09-08 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 | 2022-04-14 |  |
 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 | 2022-05-19 |  |
 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 | 2022-04-14 | 2022-05-03 |

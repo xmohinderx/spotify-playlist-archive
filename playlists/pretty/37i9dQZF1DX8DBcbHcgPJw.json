@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rei.",
-  "num_followers": 1139153,
+  "num_followers": 1139200,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDNkNDIzZTg3YTE1ODk5NzYzZWNhNWUwZDlmZmRmOThi",
+  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDJmZjFiMjM4YmYwZTE5ZDJmNDAyYTAzYjhmNmNmNDY1",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Tranquila",
         "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 183430,
       "name": "Tranquila",
       "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -227,38 +227,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Gracias a Vos",
-        "url": "https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 129505,
-      "name": "Gracias a Vos",
-      "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -279,22 +247,50 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Noche de Party",
-        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
+        "name": "Gracias a Vos",
+        "url": "https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr"
       },
       "artists": [
         {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         }
       ],
-      "duration_ms": 152942,
-      "name": "Noche de Party",
-      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
+      "duration_ms": 129505,
+      "name": "Gracias a Vos",
+      "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -319,18 +315,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+        "name": "Noche de Party",
+        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+      "duration_ms": 152942,
+      "name": "Noche de Party",
+      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -411,34 +411,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Hoy Volvi a Verte (Remix)",
-        "url": "https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "El Retutu",
-          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Hoy Volvi a Verte - Remix",
-      "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -499,6 +471,34 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Hoy Volvi a Verte (Remix)",
+        "url": "https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "El Retutu",
+          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Hoy Volvi a Verte - Remix",
+      "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -551,6 +551,26 @@
       "duration_ms": 156325,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -623,26 +643,6 @@
       "duration_ms": 312737,
       "name": "Messirve Mix 5",
       "url": "https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
       },
       "artists": [
         {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 199495,
-      "name": "La Noche No Es para Dormir",
-      "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
         }
       ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
+      "duration_ms": 199495,
+      "name": "La Noche No Es para Dormir",
+      "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 475951,
-      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
-      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 135400,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 475951,
+      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
+      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "B\u00e9same (Remix)",
         "url": "https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX"
       },
@@ -1411,6 +1395,38 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
+      },
+      "artists": [
+        {
+          "name": "Zona Cumbia",
+          "url": "https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Coraz\u00f3n de Cemento",
         "url": "https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 240451,
       "name": "Coraz\u00f3n de Cemento",
       "url": "https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
-      },
-      "artists": [
-        {
-          "name": "Zona Cumbia",
-          "url": "https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
-        "url": "https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5"
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
       "artists": [
         {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 241461,
-      "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
-      "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
+      "duration_ms": 176640,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
+        "url": "https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "duration_ms": 241461,
+      "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
+      "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 126615,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Donde Estas",
-        "url": "https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Enganchado #TocoParaVos (Cumbia mix)",
         "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 180035,
       "name": "Enganchado #TocoParaVos - Cumbia Mix",
       "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Donde Estas",
+        "url": "https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE"
     },
     {
       "added_at": "2022-09-02 03:00:00",

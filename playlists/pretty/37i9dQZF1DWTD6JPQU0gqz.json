@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44814,
+  "num_followers": 44811,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg1MTk5NywwMDAwMDAwMGU2NThjNDQzYjYxNzQ2NjVlMmIxMWNjMDcyYTQzOGNj",
+  "snapshot_id": "MTY1NDg1MTk5NywwMDAwMDAwMDlmZjcxZDJmYjU5NTNmYjY1YTE5ZjMzNGY2MGJhMDhj",
   "tracks": [
     {
       "added_at": "2022-06-10 09:06:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Se Acab\u00f3 (feat. Mozart La Para)",
         "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 186216,
       "name": "Se Acab\u00f3 (feat. Mozart La Para)",
       "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     },
     {
       "added_at": "2022-06-10 09:06:37",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "Haters y Fan\u00e1ticos",
-        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
-      },
-      "artists": [
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Fettuccine",
-      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Tambores y Cantos",
         "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 288586,
       "name": "Prende La Vela",
       "url": "https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "Haters y Fan\u00e1ticos",
+        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Fettuccine",
+      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
     },
     {
       "added_at": "2022-06-10 09:06:37",

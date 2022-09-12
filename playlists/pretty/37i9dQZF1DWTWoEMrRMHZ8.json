@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9 Ramalho",
-  "num_followers": 322589,
+  "num_followers": 322683,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGU4MzI3MmVjMWExODk3OGNjYTNiM2I4NmU0YzAyOWEx",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGZkYTEyYzRiNjYwNTc0YTk5ZmEyNGJlMzNhZTk3Mjg0",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 160121,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/1mWjgRmbkSgUsHDevU7jT9"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -987,30 +987,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Choro Sim",
-        "url": "https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P"
-      },
-      "artists": [
-        {
-          "name": "Matheus VK",
-          "url": "https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl"
-        },
-        {
-          "name": "Caio Prado",
-          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
-        },
-        {
-          "name": "Jo\u00e3o Cavalcanti",
-          "url": "https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK"
-        }
-      ],
-      "duration_ms": 204214,
-      "name": "Choro Sim",
-      "url": "https://open.spotify.com/track/7c9dHMvFEGcAy8293IsYp5"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Tocando Em Frente",
         "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
@@ -1035,22 +1011,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Jasmim Parte 1",
         "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
       },
@@ -1063,6 +1023,46 @@
       "duration_ms": 199693,
       "name": "Jasmim Parte 1",
       "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Choro Sim",
+        "url": "https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P"
+      },
+      "artists": [
+        {
+          "name": "Matheus VK",
+          "url": "https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl"
+        },
+        {
+          "name": "Caio Prado",
+          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
+        },
+        {
+          "name": "Jo\u00e3o Cavalcanti",
+          "url": "https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK"
+        }
+      ],
+      "duration_ms": 204214,
+      "name": "Choro Sim",
+      "url": "https://open.spotify.com/track/7c9dHMvFEGcAy8293IsYp5"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+        "name": "Humbiumbi",
+        "url": "https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
+      "duration_ms": 237996,
+      "name": "HUMBIUMBI",
+      "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Humbiumbi",
-        "url": "https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM"
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
       },
       "artists": [
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 237996,
-      "name": "HUMBIUMBI",
-      "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Pra Sorrir",
-        "url": "https://open.spotify.com/album/3S6O5n8DR48FIiaGwrCv0c"
-      },
-      "artists": [
-        {
-          "name": "Douglas Lopes",
-          "url": "https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl"
-        },
-        {
-          "name": "Nano Vianna",
-          "url": "https://open.spotify.com/artist/1LP64FKTCHAOS8msavxB9P"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Pra Sorrir",
-      "url": "https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "cantar (ao vivo no bona)",
         "url": "https://open.spotify.com/album/4cxTrMMLnNp0x1kW3GkVge"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 266093,
       "name": "cantar - ao vivo no bona",
       "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Pra Sorrir",
+        "url": "https://open.spotify.com/album/3S6O5n8DR48FIiaGwrCv0c"
+      },
+      "artists": [
+        {
+          "name": "Douglas Lopes",
+          "url": "https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl"
+        },
+        {
+          "name": "Nano Vianna",
+          "url": "https://open.spotify.com/artist/1LP64FKTCHAOS8msavxB9P"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Pra Sorrir",
+      "url": "https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Mesti\u00e7o",
-        "url": "https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp"
-      },
-      "artists": [
-        {
-          "name": "Nobat",
-          "url": "https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK"
-        },
-        {
-          "name": "Luli",
-          "url": "https://open.spotify.com/artist/7sTgq75BwYI4szMTbH0KZU"
-        }
-      ],
-      "duration_ms": 250602,
-      "name": "Beira Do Mar",
-      "url": "https://open.spotify.com/track/0kX5ljJYzOU7a0gnRNqBcx"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "CAEIRO - vol.1",
         "url": "https://open.spotify.com/album/1EPJIK1b3H80aw0rIxIh2c"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 118528,
       "name": "Passo, Fico",
       "url": "https://open.spotify.com/track/5x1HapLgaHX2rDahFGYTo3"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Mesti\u00e7o",
+        "url": "https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp"
+      },
+      "artists": [
+        {
+          "name": "Nobat",
+          "url": "https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK"
+        },
+        {
+          "name": "Luli",
+          "url": "https://open.spotify.com/artist/7sTgq75BwYI4szMTbH0KZU"
+        }
+      ],
+      "duration_ms": 250602,
+      "name": "Beira Do Mar",
+      "url": "https://open.spotify.com/track/0kX5ljJYzOU7a0gnRNqBcx"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1847,8 +1847,8 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Banho de Cheiro",
-        "url": "https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5"
+        "name": "Mal Acostumada",
+        "url": "https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi"
       },
       "artists": [
         {
@@ -1856,13 +1856,13 @@
           "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
         },
         {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 193186,
-      "name": "Banho de Cheiro",
-      "url": "https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa"
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1891,8 +1891,8 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Mal Acostumada",
-        "url": "https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi"
+        "name": "Banho de Cheiro",
+        "url": "https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5"
       },
       "artists": [
         {
@@ -1900,13 +1900,13 @@
           "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
+      "duration_ms": 193186,
+      "name": "Banho de Cheiro",
+      "url": "https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa"
     }
   ],
   "unique_name": "Divina MPB",

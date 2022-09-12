@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-381 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/4IDWvFyBzZfAJ3pkT7fy9U)
+382 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/4IDWvFyBzZfAJ3pkT7fy9U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cada Quien](https://open.spotify.com/track/2CGbKCiVUTHxhIJtP6Gvdi) | [Grupo F1rmo](https://open.spotify.com/artist/1TvpKRrUuwpyfFHRC3OJ6N), [Malumma](https://open.spotify.com/artist/2FC37ksP8mB49ORkV2Rojp) | [Cada Quien](https://open.spotify.com/album/5ynfLHCOh3DDbyUWsvdio0) | 3:16 | 2021-12-13 | 2021-12-15 |
 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 | 2021-12-11 | 2022-01-12 |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-27 |  |
+| [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2022-09-11 |  |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2021-12-27 | 2022-02-16 |
 | [Callaita](https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:10 | 2022-05-07 |  |
 | [CAMPEÓN](https://open.spotify.com/track/7IatvjEcXEeeXnHC2gMZ2j) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:14 | 2022-03-26 | 2022-03-28 |
@@ -382,7 +383,7 @@
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-19 |  |
 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 | 2021-08-31 | 2022-05-05 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-06-17 |
-| [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 |  |
+| [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-09-12 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-04-02 | 2022-05-08 |
 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 | 2021-03-30 | 2022-01-26 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 |  |

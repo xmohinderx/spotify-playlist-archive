@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 
 > The perfect noughties blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,052 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,122 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 24 | [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 |
 | 25 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 26 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
-| 27 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
-| 28 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
-| 29 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
-| 30 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
+| 27 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 28 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 29 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
+| 30 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
 | 31 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 32 | [So Sick](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:27 |
 | 33 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 37 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
 | 38 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 39 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
-| 40 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
-| 41 | [Apologize \- feat\. One Republic](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 |
+| 40 | [Apologize \- feat\. One Republic](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 |
+| 41 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
 | 42 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
 | 43 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 44 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 49 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 50 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
 
-Snapshot ID: `MTY1MDI0NzM3NiwwMDAwMDAwMDQ5NWY3N2UzNGNlZGUzNGJlNWY4OTRlNWVhZmFjOGE1`
+Snapshot ID: `MTY1MDI0NzM3NiwwMDAwMDAwMDMzNmRmOWFkYmQ4ZDU1OGU3ZDRiZmRiMTJhMmU4YjQ2`

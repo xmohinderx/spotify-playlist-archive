@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 38950,
+  "num_followers": 38984,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDZjOTJkODQ1YjRkNDRiOTM4N2Q1Yjg4OGQ3MTk5Njcz",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGYxMmY5NWVlMmYyODhhYTUxNzA1YzhjMjU3MmFiZGU4",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
-      },
-      "artists": [
-        {
-          "name": "Jeff Golub",
-          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "On The Wes Side",
-      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Tequila Moon",
         "url": "https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 276333,
       "name": "Tequila Moon",
       "url": "https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Golub",
+          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "On The Wes Side",
+      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Keepin' It Real",
-        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
-      },
-      "artists": [
-        {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Keepin' It Real",
-      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Chillin'",
         "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 239333,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Keepin' It Real",
+        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Keepin' It Real",
+      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Tale of Two Cities",
-      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 283266,
       "name": "Eye 2 Eye",
       "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Tale of Two Cities",
+      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
     },
     {
       "added_at": "2020-08-19 19:15:51",

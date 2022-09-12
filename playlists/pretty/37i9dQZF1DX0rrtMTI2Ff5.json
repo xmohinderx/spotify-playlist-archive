@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos internacionales que no pasan de moda.\nPara novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
-  "num_followers": 161858,
+  "num_followers": 162049,
   "original_name": "In English: Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYzMjE4MCwwMDAwMDAwMGI0MDUxODFkNjQzNDA1MTkxMmU4OGE3NDc5OGNjNjZk",
+  "snapshot_id": "MTY1NDYzMjE4MCwwMDAwMDAwMGE5ZDA0NWZkMDRmZDA5ODExZTMyY2U3YjRhZWQ0Zjg5",
   "tracks": [
     {
       "added_at": "2022-06-07 20:03:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 269560,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 194087,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "DNCE",
         "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
@@ -1267,18 +1251,34 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Kiss Me More (feat. SZA)",
-        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Kiss Me More (feat. SZA)",
+        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1511,38 +1511,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -1567,6 +1535,38 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2022-06-07 20:03:00",

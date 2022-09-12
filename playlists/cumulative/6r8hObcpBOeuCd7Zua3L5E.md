@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
 
-112 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
+113 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/7lvhSCtmWUyIreSJ2sonuM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Ice Ice Baby](https://open.spotify.com/track/11d9oUiwHuYt216EFA2tiz) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [To The Extreme](https://open.spotify.com/album/1LHacvoBTd7o2d7wwQ9EZD) | 4:31 | 2020-03-31 | 2022-07-19 |
 | [Imma Be](https://open.spotify.com/track/5OiLJ8tjUPFiPX2gVM8fxJ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:17 | 2020-03-31 | 2022-07-19 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2020-03-31 | 2022-07-19 |
-| [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2022-07-18 |  |
+| [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2022-07-18 | 2022-09-12 |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-07-18 |  |
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-07-18 |  |
 | [Just Dance](https://open.spotify.com/track/6HkjpGIOHv4y0IBAxUbE5z) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/2FBA8NCSuQNi8jaR2Xjbal) | 4:01 | 2020-03-31 | 2022-07-19 |
@@ -78,6 +78,7 @@
 | [mona lisa \- sped up](https://open.spotify.com/track/2K7YLBqzKW6sg8cOFC8cJG) | [xmxtoon](https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi) | [mona lisa](https://open.spotify.com/album/1T6pSOp4SAC3gnm1EHPYyK) | 2:42 | 2022-07-18 | 2022-09-09 |
 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 | 2022-07-18 |  |
 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/2LNbLA2JSQlv6NRz1xdZRj) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:21 | 2020-03-31 | 2022-07-19 |
+| [My Love \- Higher & Faster](https://open.spotify.com/track/6yquPPoRTlNEIVAINQMP9D) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love \(Higher & Faster\)](https://open.spotify.com/album/7pddsm8GypEIeIP6k9bUjK) | 2:11 | 2022-09-11 |  |
 | [Never Say Never](https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Never Say Never \- The Remixes](https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw) | 3:47 | 2020-03-31 | 2022-07-19 |
 | [nina \(sped up\)](https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8) | [4everd4nny](https://open.spotify.com/artist/5ycCQZx5Go6Hqcg1iHzsdu) | [nina](https://open.spotify.com/album/45XlVtRzkFnM59zSqj5Mfi) | 1:15 | 2022-07-18 | 2022-09-09 |
 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-07-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,571 likes - 55 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,581 likes - 55 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 39 | [La mamá de Jimmy \- Leí](https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r) | 3:39 |
 | 40 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 |
 | 41 | [Ana No Duerme](https://open.spotify.com/track/4ev0iQn9HTKQHxcSDxklhu) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:46 |
-| 42 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
-| 43 | [Hoy Te Queremos Cantar](https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv) | [Alma Y Vida](https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG) | [Alma y Vida, Vol\. 2](https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl) | 2:45 |
+| 42 | [Hoy Te Queremos Cantar](https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv) | [Alma Y Vida](https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG) | [Alma y Vida, Vol\. 2](https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl) | 2:45 |
+| 43 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
 | 44 | [Apocalipsis](https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 4:47 |
 | 45 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
 | 46 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [Envases de Todo](https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [David Lebon](https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC) | 7:11 |
 | 55 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 
-Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDc2YTNjNDEyYTZmNDM3MjE2YTUyYjc1OWFlMzk5ZWU1`
+Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMGViZWEyOWFmNWIwMjMxMDU2ZjcxNmZhZTgyNDhhN2Y4`

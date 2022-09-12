@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,157 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,166 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 9 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
 | 10 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 |
 | 11 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 |
-| 12 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
-| 13 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 |
+| 12 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 |
+| 13 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
 | 14 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 |
 | 15 | [פעמון](https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [פעמון](https://open.spotify.com/album/5wQZzk2q5CM90DIvSB7LRH) | 3:00 |
 | 16 | [Hawaiian Party](https://open.spotify.com/track/13aTJyIiL95yMLU5df5jts) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [BATS](https://open.spotify.com/album/1AJzEn7qQlNfheoRp2tXQN) | 4:02 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 43 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 | 44 | [PLS](https://open.spotify.com/track/57xPM0jBBOp7veS1iRdhUK) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [PLS](https://open.spotify.com/album/22EjrJkCcqfRJxvpzrYFSi) | 3:09 |
 | 45 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 |
-| 46 | [Spread It](https://open.spotify.com/track/0fyGNLHZ7I575UpsA8So7c) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Spread It](https://open.spotify.com/album/7r4G8VYnSiDkxsAakhTz2Y) | 5:11 |
-| 47 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 |
+| 46 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 |
+| 47 | [Spread It](https://open.spotify.com/track/0fyGNLHZ7I575UpsA8So7c) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Spread It](https://open.spotify.com/album/7r4G8VYnSiDkxsAakhTz2Y) | 5:11 |
 | 48 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
 | 49 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 |
 | 50 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/7fAIvRHDjuIZLK14loAHZn) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:11 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 57 | [Kalawakan](https://open.spotify.com/track/4txCTC5NOcDLwUQdFhr9XM) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kalawakan](https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT) | 4:03 |
 | 58 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
 | 59 | [DWYSSWM \(Don't Worry Your Secret's Safe with Me\)](https://open.spotify.com/track/6iPiRxI2j02GQBFQLu06G2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:09 |
-| 60 | [Tírame al fondo del mar](https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:27 |
-| 61 | [No Shade](https://open.spotify.com/track/6xCud6wZFurFX88A0BWFrh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [No Shade](https://open.spotify.com/album/5kBWzi2RMeS03PDNuF7dRR) | 2:48 |
+| 60 | [No Shade](https://open.spotify.com/track/6xCud6wZFurFX88A0BWFrh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [No Shade](https://open.spotify.com/album/5kBWzi2RMeS03PDNuF7dRR) | 2:48 |
+| 61 | [Tírame al fondo del mar](https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:27 |
 | 62 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 |
 | 63 | [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 |
 | 64 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 65 | [Monster](https://open.spotify.com/track/7KRJHqHvQmbLgeM9n2Y2m4) | [Julia Alfrida](https://open.spotify.com/artist/4GcW03232y77FiMhneVmKd) | [Monster](https://open.spotify.com/album/4iaPPEoGvmlZAYQNa6Sw79) | 2:53 |
-| 66 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 |
-| 67 | [You're \(Still\) in Love](https://open.spotify.com/track/6YLJSseL1MrX9ribPhyBQx) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [You're \(Still\) in Love](https://open.spotify.com/album/37rfmyvdEnTu9cWsJAJjcb) | 4:20 |
+| 66 | [You're \(Still\) in Love](https://open.spotify.com/track/6YLJSseL1MrX9ribPhyBQx) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [You're \(Still\) in Love](https://open.spotify.com/album/37rfmyvdEnTu9cWsJAJjcb) | 4:20 |
+| 67 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 |
 | 68 | [Tavern Kween](https://open.spotify.com/track/7h62eL1f1ujScn9lvQ0rH9) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Desire](https://open.spotify.com/album/025L0VtAaySW1AwMJOq4b2) | 5:08 |
 | 69 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 |
 | 70 | [Child Of The Government](https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Child Of The Government](https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L) | 3:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 89 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:46 |
 | 90 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDYzNmU5MzhlYjU0NjE1NDc2NDIzZjM1ZGU0ZGI5M2Rl`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMGU2NWRkN2Q0OTRjZmQzN2MzZjJhNjE4ZGMwMTNiYzIx`

@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-321 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+322 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-12-10 | 2022-07-27 |
 | [Before You](https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold Fast](https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF) | 2:47 | 2022-06-08 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-10 |  |
-| [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 |  |
+| [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 | 2022-09-12 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-12-10 |  |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2021-12-10 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-06-08 |  |
@@ -121,6 +121,7 @@
 | [How I Miss You](https://open.spotify.com/track/5QNxAH2pQLs8i7w6M9wH2x) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 2:50 | 2022-01-21 | 2022-07-18 |
 | [Human](https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Human](https://open.spotify.com/album/1CG4EjCxgzgQgadPN0piBA) | 3:54 | 2021-12-10 | 2022-07-29 |
 | [Hung the Moon](https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Hung the Moon](https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI) | 3:10 | 2021-12-10 |  |
+| [Hurts \(But It Goes Away\) \- Acoustic](https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue \(Acoustic\)](https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ) | 3:08 | 2022-09-09 |  |
 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 | 2021-12-10 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:11 | 2021-12-10 | 2022-06-09 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-06-08 |  |

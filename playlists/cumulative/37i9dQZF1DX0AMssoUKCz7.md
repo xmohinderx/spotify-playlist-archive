@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-493 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+494 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [I Did Most](https://open.spotify.com/track/2Etyq5tttA45vDBH7Ephtf) | [SANDMO](https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF), [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li) | [I Did Most](https://open.spotify.com/album/5Gsewmhw0j9GzPfvJsPQmG) | 2:28 | 2022-07-22 |  |
 | [I Do](https://open.spotify.com/track/2QrzydidcPv4eqmPxYDUSO) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [I Do](https://open.spotify.com/album/4Qdapsj5nkoSYyvWbg8Thd) | 3:18 | 2022-01-14 |  |
 | [I Feel So Bad](https://open.spotify.com/track/6SqX9J8tXk7rXaspk7GWX1) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Ephemerals](https://open.spotify.com/artist/3iKatcdLBE1YxiAyvcow4w) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:26 | 2022-02-18 | 2022-04-02 |
-| [I Follow](https://open.spotify.com/track/1OMFpwCfs1AgmT2hrkVv1P) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [I Follow](https://open.spotify.com/album/1SBx5Hh7eJFDiOrajWXud3) | 2:48 | 2022-01-14 |  |
+| [I Follow](https://open.spotify.com/track/1OMFpwCfs1AgmT2hrkVv1P) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [I Follow](https://open.spotify.com/album/1SBx5Hh7eJFDiOrajWXud3) | 2:48 | 2022-01-14 | 2022-09-12 |
 | [I Got U](https://open.spotify.com/track/4r8hRPbidDIoDPphxi78aY) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [I Got U](https://open.spotify.com/album/5F47pY1Lmj3DXPg1mzLjkE) | 4:45 | 2022-01-14 | 2022-04-21 |
 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 | 2022-07-22 |  |
 | [I Just Died In Your Arms Tonight](https://open.spotify.com/track/6wGJqxCSM2Ooo3171l1uch) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7) | [I Just Died In Your Arms Tonight](https://open.spotify.com/album/55EjSFq0Z4J4uYe974KkXD) | 2:42 | 2022-01-14 | 2022-07-29 |
@@ -234,6 +234,7 @@
 | [Jubel \- Nora En Pure Remix](https://open.spotify.com/track/1SC2baSJpW1wSy09LEU9aT) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Remixes\)](https://open.spotify.com/album/18ecyDssonw23eqZ690WUM) | 6:18 | 2022-01-14 | 2022-05-07 |
 | [just like this](https://open.spotify.com/track/2BpYaI9sstZ8MDqqp1iu0I) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [just like this](https://open.spotify.com/album/3S7D4HBTZuskrHi2LJJ4Zs) | 2:14 | 2022-08-12 |  |
 | [Karibu \- Radio Edit](https://open.spotify.com/track/5ZTPowK41qACT8FFuorbXW) | [Lago](https://open.spotify.com/artist/6dJi7tkU0GjHJtB2A586kj) | [Karibu](https://open.spotify.com/album/2MTl3uV62fuLLTer8eC0kZ) | 3:30 | 2022-01-14 | 2022-04-21 |
+| [Knockin' On Heaven's Door](https://open.spotify.com/track/4zWbO2jh3xzgylLksw37Fu) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Knockin' On Heaven's Door](https://open.spotify.com/album/3Zhg5HmHcCJea6KvPBf5uu) | 2:29 | 2022-09-09 |  |
 | [Kuala Lumpur](https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Kuala Lumpur](https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK) | 3:02 | 2022-05-20 |  |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2022-04-01 | 2022-07-02 |
 | [Kyoto](https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Kyoto](https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS) | 3:40 | 2022-04-01 | 2022-07-30 |

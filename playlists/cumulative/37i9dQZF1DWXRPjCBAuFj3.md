@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Lil Baby
 
-181 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/7nFpRUHzCdFcv1vSsvGf3y)
+182 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/7nFpRUHzCdFcv1vSsvGf3y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fantasy](https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Fantasy](https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD) | 2:36 | 2022-07-26 | 2022-08-30 |
 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 | 2022-08-05 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-05-10 |  |
+| [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2022-09-08 |  |
 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 | 2022-05-10 | 2022-07-29 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2022-05-10 |  |
 | [Freeze Raël](https://open.spotify.com/track/6DPrYPPGYK218iVIZDix3i) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [LMF](https://open.spotify.com/album/7zrUnXByeOKHbXY3fyn6vz) | 4:28 | 2022-07-26 | 2022-07-30 |
@@ -136,7 +137,7 @@
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-05-10 | 2022-07-29 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2022-07-28 |  |
 | [PUTO \(feat\. French Montana\)](https://open.spotify.com/track/5R1RXd5Og15AT9RfUX8nJ1) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:53 | 2022-05-10 | 2022-07-29 |
-| [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 | 2022-07-01 |  |
+| [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 | 2022-07-01 | 2022-09-12 |
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2022-07-28 |  |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2022-05-10 | 2022-07-29 |
 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-29 |  |

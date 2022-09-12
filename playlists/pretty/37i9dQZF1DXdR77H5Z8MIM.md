@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,678 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,788 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 38 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
 | 39 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 |
 | 40 | [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 |
-| 41 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
-| 42 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
+| 41 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
+| 42 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
 | 43 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 |
 | 44 | [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 |
 | 45 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 64 | [9 and Three Quarters \(Run Away\)](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:31 |
 | 65 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 |
 | 66 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
-| 67 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 |
+| 67 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
 | 68 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
-| 69 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
+| 69 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 |
 | 70 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 |
 
-Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMGNlZWMzYTE2NzAzOGQ2M2I2YWNjN2NiYmYwNjBiMDRl`
+Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMGNmZDk2Y2U5OGQ5ODJhNzY3NjljZDJkYzRmODMxMjk0`

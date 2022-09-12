@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -2261,7 +2261,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 229146,
       "name": "Bound 2",
       "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
@@ -5389,7 +5389,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 176124,
       "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
@@ -7663,7 +7663,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -13420,6 +13420,24 @@
     },
     {
       "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
       },
@@ -15199,7 +15217,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"

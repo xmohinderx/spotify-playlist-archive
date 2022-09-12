@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Kleine John
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,869 likes - 71 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,903 likes - 71 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

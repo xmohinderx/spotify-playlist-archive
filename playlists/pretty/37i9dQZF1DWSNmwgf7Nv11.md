@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,163 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,267 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 48 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
 | 49 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
 | 50 | [Maybe](https://open.spotify.com/track/5UaSj2MSrh6AU9ZiU9IYHy) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/3jm07S9cFjyxY7kJ0cPuUx) | 4:06 |
-| 51 | [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 |
+| 51 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 52 | [The Giver](https://open.spotify.com/track/5bamaE0kFXh3Sf8fcVe3rN) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:15 |
 | 53 | [We Don't Get More Time](https://open.spotify.com/track/5fuSpSp9IFwS4Iu239L5Nv) | [I See Rivers](https://open.spotify.com/artist/50y0b4AuxvWpH2jlNqGMmg) | [We Don't Get More Time](https://open.spotify.com/album/1A7VyATvNpZqW6U7AqH24C) | 2:36 |
 | 54 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMGI2NTdmN2E3YjNhOGNjYzU3MzQ3YjI4MzYxN2FjNzI5`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDA2ZWFlMzhiYzA5MzcxOWFkZWFmMThkMzk2YWI2MzRj`

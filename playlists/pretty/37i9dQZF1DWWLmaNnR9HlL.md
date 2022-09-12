@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,016 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,044 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 13 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 14 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 15 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 |
-| 16 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
-| 17 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
+| 16 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
+| 17 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 18 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 |
 | 19 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
 | 20 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 56 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 |
 | 57 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 |
 | 58 | [You Wish](https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 3:30 |
-| 59 | [Oh My God](https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:07 |
-| 60 | [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 |
-| 61 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
-| 62 | [About A Girl](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
-| 63 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |
+| 59 | [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 |
+| 60 | [Oh My God](https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:07 |
+| 61 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |
+| 62 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
+| 63 | [About A Girl](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
 | 64 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
 | 65 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 |
 | 66 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 74 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 | 75 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 |
 
-Snapshot ID: `MTYyOTM2NTIzOCwwMDAwMDAwMDFhYWViNDNiNTYxNGRmMzZiYjAxYzllYzExOGNhNTJj`
+Snapshot ID: `MTYyOTM2NTIzOCwwMDAwMDAwMDVlNDdiNDdmOWEyYzU1YTVkYjk2YTBhZTdiODQ5ZTI3`

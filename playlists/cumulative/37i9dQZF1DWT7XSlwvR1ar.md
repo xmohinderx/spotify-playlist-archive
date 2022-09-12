@@ -4,14 +4,14 @@
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-347 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
+348 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2019-08-12 | 2021-03-23 |
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2019-07-29\* |  |
 | [A Couple Things](https://open.spotify.com/track/3RMfsHdRlQRlaK7Szrosi6) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A Couple Things](https://open.spotify.com/album/0nj3aFMmrKfmJ7rCEg38IB) | 2:40 | 2020-06-12 | 2022-04-20 |
-| [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-05-27 |  |
+| [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-05-27 | 2022-09-12 |
 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2qS1Bdyf7auoGgaknhdda9) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/5z6BU4hFDdsZ1z208K5K0a) | 3:59 | 2020-11-04 | 2021-01-12 |
 | [Absolutely](https://open.spotify.com/track/5kjaMjkQxkJYZiDSIbuIF8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Absolutely](https://open.spotify.com/album/2lOIFb6xgtMIYmBNxUZ4be) | 3:46 | 2019-07-29\* | 2019-08-15 |
 | [Adeline \(feat\. Kathleen\)](https://open.spotify.com/track/4upefrum9ayh1aAgo52f4k) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j), [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Adeline](https://open.spotify.com/album/5vhWPJmfv17WuWHpmMtbUb) | 3:49 | 2020-10-07 | 2022-06-11 |
@@ -270,6 +270,7 @@
 | [Stars](https://open.spotify.com/track/1LHE8cxWt7SVCitinqEhyl) | [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Future Generations](https://open.spotify.com/album/3bIqG0mLXWMFgACHLxDI7m) | 3:53 | 2019-07-29\* | 2021-10-11 |
 | [Stay High](https://open.spotify.com/track/3fDqdR9QqcsgFTRFqy14Ki) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High](https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c) | 3:11 | 2019-08-27 | 2022-04-21 |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-03-11 | 2022-07-29 |
+| [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 | 2022-08-12 |  |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-08-12 |  |
 | [Story Of A Fish](https://open.spotify.com/track/6QvLssSgD8MhY4UrvQ3WrF) | [Jeremy Ivey](https://open.spotify.com/artist/08Gc0o3GdjIKtQVoNYaVNG) | [Story Of A Fish](https://open.spotify.com/album/1JBQiowIA9EjwO3Q1EnPtp) | 3:22 | 2019-10-03 | 2022-04-18 |
 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2020-08-05 | 2022-04-21 |

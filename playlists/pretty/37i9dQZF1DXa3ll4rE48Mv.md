@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Big Joanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,712 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,814 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 72 | [Big Shouty](https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Big Shouty](https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH) | 1:26 |
 | 73 | [Jillian](https://open.spotify.com/track/5l3tZXrt8t84oaQMArZv6q) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/0V68qsHQh9pancGCrfcxev) | 2:39 |
 | 74 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
-| 75 | [Unclear](https://open.spotify.com/track/4CfTJJC1Aku6YOmKmMc4gf) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Dumpster Diving](https://open.spotify.com/album/3fAul5QlrJzaynv29yPDy7) | 6:34 |
-| 76 | [Snowball](https://open.spotify.com/track/30MPTi1NdJlN4WeEiXWmPC) | [Royal Brat](https://open.spotify.com/artist/2nsqDdnAg6Wlgkfxv5MlKC) | [Eyesore](https://open.spotify.com/album/17ayOXluk76ZIBqAtyCk4g) | 1:15 |
+| 75 | [Snowball](https://open.spotify.com/track/30MPTi1NdJlN4WeEiXWmPC) | [Royal Brat](https://open.spotify.com/artist/2nsqDdnAg6Wlgkfxv5MlKC) | [Eyesore](https://open.spotify.com/album/17ayOXluk76ZIBqAtyCk4g) | 1:15 |
+| 76 | [Unclear](https://open.spotify.com/track/4CfTJJC1Aku6YOmKmMc4gf) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Dumpster Diving](https://open.spotify.com/album/3fAul5QlrJzaynv29yPDy7) | 6:34 |
 | 77 | [Eden on Acid](https://open.spotify.com/track/1RNfuLU3uGrhUDitaQ0AW8) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [I Found the Answers and Now I Want More](https://open.spotify.com/album/0tDPveQFHjPpuSTYaOP9Cl) | 1:26 |
 | 78 | [All The Sweet Stuff](https://open.spotify.com/track/0TYzOSQD8m7XJT0zv9XbXg) | [Gravy Train!!!!](https://open.spotify.com/artist/43q75UPPaYM6brcFIdeH2P) | [All the Sweet Stuff](https://open.spotify.com/album/5aoNatUKyUDGrMpL7HtsR7) | 3:01 |
 | 79 | [For Matt](https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D) | [Slash Fiction](https://open.spotify.com/artist/51lcK4r9QlqmtGQxLedO9M) | [For Matt](https://open.spotify.com/album/1l2zfAh6tsE6FfYZVxF3cE) | 5:44 |
 | 80 | [The Thing I Do Best](https://open.spotify.com/track/5Ae7KzPFdnb8PgrMBjI1oo) | [Dyke Drama](https://open.spotify.com/artist/2mEd7XiiEr2Ym4JMeWE7t1) | [Tender Resignation](https://open.spotify.com/album/7zqUAHgtvrGDgrQMe3MVha) | 2:10 |
 
-Snapshot ID: `MTY1NDAzODA2MCwwMDAwMDAwMGU2YzZkZWFkMjJjYjgxYjY4M2M4YjM2OWQyODI1MTk2`
+Snapshot ID: `MTY1NDAzODA2MCwwMDAwMDAwMDA0YjQ0YmRjYjBlZTc5ODY2M2Q5MGMxOWZmZmVjM2Mw`

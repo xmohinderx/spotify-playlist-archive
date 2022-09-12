@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only grooves, with some of  <a href=“spotify:artist:3R80OE4RViOWbnuvqh0j8a”>Thuy's</a> inspirations\. Cover: Thuy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,224 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,278 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 20 | [Sting](https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Sting](https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR) | 3:07 |
 | 21 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 |
 | 22 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 |
-| 23 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 |
-| 24 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
+| 23 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
+| 24 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 |
 | 25 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
 | 26 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
 | 27 | [Trending](https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:02 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 |
 | 32 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:30 |
 | 33 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 |
-| 34 | [Runaway Blue](https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Runaway Blue](https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL) | 3:33 |
-| 35 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 |
+| 34 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 |
+| 35 | [Runaway Blue](https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Runaway Blue](https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL) | 3:33 |
 | 36 | [Virginity](https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Virginity](https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw) | 2:18 |
 | 37 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 |
-| 38 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
+| 38 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 |
 | 39 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 |
-| 40 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 |
-| 41 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 |
+| 40 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
+| 41 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 |
 | 42 | [Woman's Intuition](https://open.spotify.com/track/5ob35mzMNNo72Zy4XkMw3a) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Woman's Intuition](https://open.spotify.com/album/57Dbljkv1NHd9PHGWhWQmh) | 2:29 |
 | 43 | [FALL BACK](https://open.spotify.com/track/2vbrodbHlus3zzc1Ai3ooO) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [FALL BACK](https://open.spotify.com/album/4Ujy3pnuLg6FpXt8D5L7iS) | 1:51 |
 | 44 | [Summer Love](https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/05mmPNGroDOEiOgo4vpIxh) | 3:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 48 | [Rewind \- VNSSA Remix](https://open.spotify.com/track/0XTmNmJIek7886IJxhE88P) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [infina ad nausea: the remixes](https://open.spotify.com/album/5rYdZ1anFLc0tJFoukAzoY) | 6:22 |
 | 49 | [ONLY ONE](https://open.spotify.com/track/6FCMfT9bWZ8bcrEK7wbjgY) | [Ruby](https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI) | [BEDTIME](https://open.spotify.com/album/5ZWsqSYied2r8qQk1rYdDO) | 2:09 |
 
-Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMGUxNTFmOTNkNDM2MmE0MGU1YTJkMjgxNzRkMzViYWM2`
+Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMDhhNDYzMDRjYWI4MTdmM2MyODQ0NDM2ODM2YzUwMzM4`

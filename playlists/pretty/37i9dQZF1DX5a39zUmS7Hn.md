@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Billy Idol
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,096 likes - 80 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,216 likes - 80 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 75 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
 | 76 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 |
 | 77 | [Are 'Friends' Electric?](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 |
-| 78 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 |
-| 79 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
+| 78 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
+| 79 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 |
 | 80 | [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 |
 
-Snapshot ID: `MTY2MjcyOTIyOCwwMDAwMDAwMDdiNzBkZTY5YmRlNDcwM2I5MTE1ZTRmNzdhNDBkNzVh`
+Snapshot ID: `MTY2MjcyOTIyOCwwMDAwMDAwMGUwZTMzYWI3ZmM1YjQ4ZDAyMzgwMjJkYzgwN2Y0ZWIz`

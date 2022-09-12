@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,414 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,413 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 104 | [All I Want for Christmas Is You](https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/2KgepIGt89PNbVoGJuEaud) | 3:02 |
 | 105 | [White Christmas](https://open.spotify.com/track/4ud5nPW0fN8Li4FyIq0rh5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:02 |
 | 106 | [Feeling Like Christmas](https://open.spotify.com/track/1e7LS0PWP7talj49ML8Q8i) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Feeling Like Christmas](https://open.spotify.com/album/3QZHJ8B1nZBgJHOGMdU9RE) | 4:34 |
-| 107 | [Last Christmas](https://open.spotify.com/track/2Codkc7k9sC2Itz8hEb2w7) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/2KVJoavZbPD84mUEGcFvuW) | 3:08 |
+| 107 | [Last Christmas](https://open.spotify.com/track/0mKbWzFb9EsTJgDwzbYtRc) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/443y0OW2T8uu2sFEOqxzVN) | 3:08 |
 | 108 | [The Christmas Song](https://open.spotify.com/track/69J4F1pG1e8uGvgiARFjab) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [The Season](https://open.spotify.com/album/1Mw4vvs9yvuIQ5AMcO7cTJ) | 3:31 |
 | 109 | [Love in the Winter](https://open.spotify.com/track/3LPWkKJL62Rnqr2862pt2T) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Love in the Winter](https://open.spotify.com/album/1ZosF50PwxWJqSDJcdnsBg) | 2:29 |
 | 110 | [Christmas Time](https://open.spotify.com/track/48MV8x16rfzobe0FgRRqsx) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Christmas Time](https://open.spotify.com/album/51wRsctcjyGlHYp7ut6zxq) | 4:07 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 121 | [True Love](https://open.spotify.com/track/4NRF1B6kriUmtXflcVmed7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:46 |
 | 122 | [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 |
 
-Snapshot ID: `MTY0MDAwODQ2NywwMDAwMDAwMDc1NzIxMjliYmQ5MTZlYTQxNzlhZDc2MTViZjBmZjdj`
+Snapshot ID: `MTY0MDAwODQ2NywwMDAwMDAwMDk5OTBhM2M3MTRhZjAxOTVhMjVlOTI4MmIzYjc1N2Y0`

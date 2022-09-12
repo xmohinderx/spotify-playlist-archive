@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Vit\u00e3o, Pabllo Vittar\n\n",
-  "num_followers": 100076,
+  "num_followers": 100088,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDFiNzAzY2JhMmQ5Mjc4ZTg1NmE3OWZmYjJmZDU2YTU0",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGFmMzU5YzZlNzJkNjllNDFjM2NkNGI1Zjc5MjJiMWRh",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 196363,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Don't Go Yet",
         "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 190658,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "El Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Million Dollar Baby",
-      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 187888,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1315,6 +1331,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Easy Lover (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 215937,
+      "name": "Easy Lover (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1347,26 +1383,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Easy Lover (feat. Big Sean)",
-        "url": "https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 215937,
-      "name": "Easy Lover (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6EuPz5zzV6JLMZKrb7LIsu"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 153391,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Forget Me",
-        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203472,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "madhouse",
+        "url": "https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 125720,
+      "name": "madhouse",
+      "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 186188,
       "name": "Desculpa por Eu N\u00e3o Te Amar",
       "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "madhouse",
-        "url": "https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 125720,
-      "name": "madhouse",
-      "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Don't I Make It Look Easy",
+        "url": "https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154888,
+      "name": "Don't I Make It Look Easy",
+      "url": "https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 321266,
       "name": "Mother's Daughter X Boys Don't Cry (feat. Anitta) - Live",
       "url": "https://open.spotify.com/track/53y0mmxDWZ0oBIpBgDVI4T"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Don't I Make It Look Easy",
-        "url": "https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 154888,
-      "name": "Don't I Make It Look Easy",
-      "url": "https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO"
     },
     {
       "added_at": "2022-09-09 03:00:00",

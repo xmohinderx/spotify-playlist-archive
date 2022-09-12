@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > ¡Ponte cursi con las canciones más románticas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,620 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,987 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 49 | [Deja](https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 2:36 |
 | 50 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 |
 | 51 | [Con Ese Corazón](https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [En Las Buenas Y En Las Malas](https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ) | 3:12 |
-| 52 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 |
-| 53 | [Historia sin fin](https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 3:04 |
+| 52 | [Historia sin fin](https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 3:04 |
+| 53 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 |
 | 54 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
 | 55 | [Eres](https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:12 |
 | 56 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 74 | [Sólo Tú](https://open.spotify.com/track/0qsalPjF8AzMdkxjnGXttQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Sólo Tú](https://open.spotify.com/album/3x37MdKulZX2v4YRGqbUX7) | 3:13 |
 | 75 | [Porque Te Quiero](https://open.spotify.com/track/3lhHsnoOc8n1Xz2XZu2Q5Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Más Fuerte Que Nunca](https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX) | 3:36 |
 
-Snapshot ID: `MTY1NTc1OTg5MCwwMDAwMDAwMDNjMGEzMTE4ZmE2Mzc3ZTEyOTM4YzA4ZDhmY2M3Y2Q5`
+Snapshot ID: `MTY1NTc1OTg5MCwwMDAwMDAwMDAyODdkOGQwYjQ0ZTNlMGNjYWUwNzgzZDE2MGIzZjU2`

@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-332 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/6Gckw6wUqYAIpQL71hAiF8)
+333 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/6Gckw6wUqYAIpQL71hAiF8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,9 +330,10 @@
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-06-10 | 2022-07-16 |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-01-14 | 2022-04-20 |
 | [Wild \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/4rVW6XqAsSaf5vOwc8FREW) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:16 | 2021-12-17 | 2022-06-09 |
-| [willow](https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:34 | 2021-12-17 |  |
+| [willow](https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:34 | 2021-12-17 | 2022-09-12 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-19 |  |
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-12-17 | 2022-08-27 |
+| [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-09 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-12-17 | 2022-04-20 |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-12-17 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-17 | 2022-04-26 |

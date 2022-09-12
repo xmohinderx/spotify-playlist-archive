@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1065536,
+  "num_followers": 1065819,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGU0YThhOGU0M2FiM2Q3YTA3MmYyYWYxMzZlZDI3ODI5",
+  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGQwMTNlMDBhYTNiYTg4NGJlZDE1MDM0YThhMjgwMDg5",
   "tracks": [
     {
       "added_at": "2022-08-12 03:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "La parte de adelante",
-      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "Signos (Remastered)",
         "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 317613,
       "name": "Pr\u00f3fugos - Remasterizado 2007",
       "url": "https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "La parte de adelante",
+      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Ser\u00fa Gir\u00e1n (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 202513,
-      "name": "Seminare (Remasterizado 2021)",
-      "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "Vol I",
         "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 266786,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Ser\u00fa Gir\u00e1n (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 202513,
+      "name": "Seminare (Remasterizado 2021)",
+      "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+      "duration_ms": 245266,
+      "name": "Te V\u00ed en un Tren",
+      "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 256386,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo"
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+      "duration_ms": 256386,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -891,6 +887,26 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
         "name": "Sue\u00f1o Stereo (Remastered)",
         "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 269760,
       "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
       "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Te V\u00ed en un Tren",
-      "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece En La Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "GIT, El Album",
         "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 313840,
       "name": "Es Por Amor",
       "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece En La Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
+        "name": "Los Fabulosos Cadillacs - Vol. V",
+        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
         "name": "El Tesoro de los Inocentes (Bingo Fuel)",
         "url": "https://open.spotify.com/album/6c7d0efZpNxeQCOm6Af7fD"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 258866,
       "name": "El Tesoro de los Inocentes",
       "url": "https://open.spotify.com/track/7qGn9WweEDJw8KZwJqB1KN"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
-        "name": "Los Fabulosos Cadillacs - Vol. V",
-        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
     },
     {
       "added_at": "2022-08-12 03:00:00",

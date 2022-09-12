@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 76161,
+  "num_followers": 76298,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDljNTQ5NTUzM2YzZGY1Y2I3MTU1Mzk5ZDE3MThmZmFm",
+  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDk5YmRiNmE2NjM4ZTliYjY4NDg1NmU0ZjkzZDkwNzY0",
   "tracks": [
     {
       "added_at": "2022-08-26 02:09:12",
@@ -795,22 +795,18 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 262466,
-      "name": "Compassion (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
+      "duration_ms": 198137,
+      "name": "Falling Higher",
+      "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -831,18 +827,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
       "artists": [
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
         }
       ],
-      "duration_ms": 198137,
-      "name": "Falling Higher",
-      "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
+      "duration_ms": 262466,
+      "name": "Compassion (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Lullaby (feat. Syd)",
-      "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+      },
+      "artists": [
+        {
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Lullaby (feat. Syd)",
+      "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
     },
     {
       "added_at": "2022-08-26 02:09:12",

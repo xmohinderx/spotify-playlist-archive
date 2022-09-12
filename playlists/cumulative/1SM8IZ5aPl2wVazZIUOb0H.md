@@ -4,7 +4,7 @@
 
 > 
 
-46 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/46IFbT9EmHSsUsqaEhrkiL)
+48 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/46IFbT9EmHSsUsqaEhrkiL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,11 +41,13 @@
 | [Passerine](https://open.spotify.com/track/5AdK2iCPCaWnHfuoO0FoGw) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Eurus](https://open.spotify.com/album/3yvSrU3Kb4JVfQJxCPmJAx) | 3:43 | 2022-09-09 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2022-09-09 |  |
 | [Rule \#21 \- Momento Mori](https://open.spotify.com/track/5DeZowL9q9wS0OBdud4Wy1) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Waterfall](https://open.spotify.com/album/4RX7OLRicCMQ4ORUJTQVTm) | 3:09 | 2022-09-05 |  |
+| [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 | 2022-09-11 |  |
 | [Shona](https://open.spotify.com/track/0JNRE2AVZvGfJdNNabrVIg) | [Jake Chudnow](https://open.spotify.com/artist/0IhZsSjGTFJBXIM5unqzdV) | [Shona](https://open.spotify.com/album/3sKv18MCypZJzh9bEncv5G) | 5:15 | 2022-09-09 |  |
 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 | 2022-09-09 |  |
 | [Suburbia Overture / Greetings from Mary Bell Township! / \(Vampire\) Culture / Love Me, Normally](https://open.spotify.com/track/5iiuKcrjqMns675Z0cBoa2) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 6:16 | 2022-09-05 |  |
 | [Summer](https://open.spotify.com/track/08MjeBiHlinMM6VHH0kvQN) | [Circadian Clock](https://open.spotify.com/artist/5nfGpTvDUwfZzo7IR3LF9w), [Baethoven](https://open.spotify.com/artist/4aDq8u0yWYdK1WEZZCwVYi) | [Summer](https://open.spotify.com/album/3zu34ZndCHIm2bST2SDM39) | 2:35 | 2022-09-05 |  |
 | [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 | 2022-09-09 |  |
+| [Teenage Sound](https://open.spotify.com/track/06xPdNtt4iuQPKxQhBAQtb) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Teenage Sound](https://open.spotify.com/album/2D8dV3fLbJH4isDduuIxHt) | 2:51 | 2022-09-11 |  |
 | [The Fall](https://open.spotify.com/track/1tODQXkLNhg0uyILdjcGBs) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:04 | 2022-09-09 |  |
 | [The Good Part](https://open.spotify.com/track/0dgrFwOa0RrFzWcM0azTzx) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click](https://open.spotify.com/album/2nwTJuSqvCygeyI8U7vpeI) | 3:47 | 2022-09-05 |  |
 | [The Moon Will Sing](https://open.spotify.com/track/4c0tJe2ENJwrZbn9Bap2qs) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/5J8ItxI5pye6qNYSyhBs4z) | 3:40 | 2022-09-09 |  |

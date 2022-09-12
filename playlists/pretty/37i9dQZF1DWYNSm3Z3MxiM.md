@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 
 > Anthems only\. For an extra rep, an extra set or an extra mile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,825 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,053 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

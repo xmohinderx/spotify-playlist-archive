@@ -3346,6 +3346,24 @@
     },
     {
       "album": {
+        "name": "Cardigan",
+        "url": "https://open.spotify.com/album/5wQ8EAS2zydLRKG6tUUyhN"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201989,
+      "name": "Cardigan",
+      "url": "https://open.spotify.com/track/3kM85kSAUZBKUJfMxC8clk"
+    },
+    {
+      "album": {
         "name": "carpool",
         "url": "https://open.spotify.com/album/6Qmh14clhZEPZEHfsRjZno"
       },
@@ -7763,7 +7781,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 219542,
       "name": "Garden On The Kitchen Floor",
       "url": "https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5"

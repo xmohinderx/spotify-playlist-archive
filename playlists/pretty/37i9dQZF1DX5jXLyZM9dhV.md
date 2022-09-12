@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,444 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,470 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 33 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 34 | [Rivers of Babylon](https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Nightflight to Venus](https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd) | 4:21 |
 | 35 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
-| 36 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
-| 37 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
-| 38 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
-| 39 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
+| 36 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
+| 37 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
+| 38 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
+| 39 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 40 | [Long Cool Woman \(In a Black Dress\) \- 1999 Remaster](https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Distant Light \(1999 Remaster\)](https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w) | 3:19 |
 | 41 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
 | 42 | [Me llamas](https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:35 |
-| 43 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
-| 44 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 |
+| 43 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 |
+| 44 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
 | 45 | [Vive](https://open.spotify.com/track/4YTsQ1axezXF9S6DmX45LS) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:04 |
 | 46 | [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 |
 | 47 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 74 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 |
 | 75 | [Esta Cobardía \- Remasterizado](https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o) | [Chiquetete](https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z) | [Eres Mía \(Remasterizado\)](https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj) | 3:39 |
 
-Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMDU0ZTE4NDVhYTI2YzNmZDk1MmYyNmNhNzk2NjI1YTAx`
+Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMDI4Njc0MDkzZGI1ZjY4MjNhYjc1MDIzZmI1MDRmY2Fk`

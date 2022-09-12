@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 156681,
+  "num_followers": 156921,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5NDM0OCwwMDAwMDAwMGQ0NTdlNTRkMmI5ZTRkYTgyNTBmMDUwNGQ3MmEyOWNl",
+  "snapshot_id": "MTY2MTE5NDM0OCwwMDAwMDAwMGYwZDFmNzdhYzA0NTU1MzY4NDBkMzhlYzY3MzhkMzEw",
   "tracks": [
     {
       "added_at": "2022-08-22 18:52:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
-      },
-      "artists": [
-        {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "Such Great Heights - Remastered",
-      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Such Great Heights - Remastered",
+      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "No Angel",
-        "url": "https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk"
-      },
-      "artists": [
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/751gBcu62kORDelX7FV0mM"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "No Angel",
+        "url": "https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/751gBcu62kORDelX7FV0mM"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "She Moves In Her Own Way",
-      "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Around the Well",
         "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
+      "duration_ms": 169306,
+      "name": "She Moves In Her Own Way",
+      "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -1195,6 +1179,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
     },
     {
       "added_at": "2022-08-22 18:52:28",

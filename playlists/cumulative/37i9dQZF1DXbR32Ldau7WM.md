@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ONE OK ROCK
 
-311 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+313 songs - 20 hr 40 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
 | [LET JERRY ROLL](https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [LET JERRY ROLL](https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE) | 3:23 | 2022-05-12 | 2022-07-26 |
-| [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-30 |  |
+| [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2022-09-08 |  |
+| [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-30 | 2022-09-12 |
 | [Let Me Let You Go \- Japanese Version](https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-30 | 2022-09-02 |
 | [Light It Up](https://open.spotify.com/track/27H9AHFWDxMjxbUzIAzqwg) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light It Up](https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd) | 3:10 | 2022-09-08 |  |
 | [Light it up](https://open.spotify.com/track/2vMoL8XqftPhCFE38Z8abj) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light it up](https://open.spotify.com/album/4sVEnfI07lxARCXUyTtZ6q) | 3:10 | 2022-09-08 | 2022-09-10 |
@@ -137,7 +138,7 @@
 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 | 2022-05-10 | 2022-05-21 |
 | [S.O.S\. \[Share One Sorrow\] \- feat.Tokyo Tanaka & Jean\-Ken Johnny](https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Tokyo Tanaka](https://open.spotify.com/artist/1CCYrklxWCwWnOEm2mn4zC), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [S.O.S\. \[Share One Sorrow\] \(feat.Tokyo Tanaka & Jean\-Ken Johnny\)](https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr) | 4:02 | 2022-05-12 | 2022-07-28 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-06-23 | 2022-07-29 |
-| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-28 |  |
+| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-28 | 2022-09-12 |
 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 | 2022-05-10 |  |
 | [seasons change](https://open.spotify.com/track/4KmylhamK7Vpzxn0iS1DbZ) | [Small Circle of Friends](https://open.spotify.com/artist/3CJQBC8srg8KknVotylRsC) | [seasons change](https://open.spotify.com/album/1PHKDL7Zf6a4bFdriImVE8) | 3:16 | 2022-05-10 | 2022-07-29 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-19 |  |
@@ -175,7 +176,8 @@
 | [United Sparrows](https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj) | 3:42 | 2022-05-12 | 2022-07-16 |
 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-08-09 |  |
 | [Unnamed Song](https://open.spotify.com/track/5jf15rbmGjj6E8k7EJMTV6) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Unnamed Song](https://open.spotify.com/album/4XRTzbvLTIPyHnngt3bfiZ) | 2:58 | 2022-07-26 | 2022-08-03 |
-| [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 |  |
+| [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2022-09-08 |  |
+| [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 | 2022-09-12 |
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-06 | 2022-09-09 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-10 |  |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
@@ -305,7 +307,7 @@
 | [眠れない](https://open.spotify.com/track/3wGXqwM5r5b3UY2upNZ0RZ) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [眠れない](https://open.spotify.com/album/0P6SfXlvQdEfCS0s9jdLi7) | 4:14 | 2022-05-17 | 2022-07-28 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-10 |  |
 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 | 2022-05-10 |  |
-| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 | 2022-09-10 |
+| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 |  |
 | [群青](https://open.spotify.com/track/06x5F8O4ZqSTgdo9EqiE3T) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [七色とかげ](https://open.spotify.com/album/38PMNzLOxdREwrxOS87crH) | 3:34 | 2022-05-10 | 2022-05-24 |
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 |  |
 | [証](https://open.spotify.com/track/1Nm8xR8SIiphGCW1sn11Qr) | [ZIGGY](https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb) | [証](https://open.spotify.com/album/2JqFzGT35Ted5pM3PKP6Os) | 3:26 | 2022-05-12 | 2022-07-26 |

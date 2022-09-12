@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,234 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,243 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 22 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
 | 23 | [Rudeboy Love](https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Rudeboy Love](https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn) | 3:40 |
 | 24 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 |
-| 25 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
-| 26 | [Bonus På Kortet](https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:43 |
-| 27 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
+| 25 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
+| 26 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
+| 27 | [Bonus På Kortet](https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:43 |
 | 28 | [Som Bob Marley](https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Dancehall](https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9) | 3:18 |
 | 29 | [Babylonsjukan](https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Helt Off](https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV) | 3:49 |
 | 30 | [Jag Minns](https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Rikslarm](https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz) | [Kartellen](https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Slutpläderingen](https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs) | 2:36 |
 | 50 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 
-Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMDc0MjIyNjk4MjE2MmQzNWFhOTk4MjlkNjJkYzVmYzBj`
+Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMDk0NDQxOWQ3M2U4MWY1MzA5ZDMwMDAyMDhiY2JkN2Ew`

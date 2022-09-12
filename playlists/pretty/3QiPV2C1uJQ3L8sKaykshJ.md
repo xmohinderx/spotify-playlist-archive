@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from RCA Records featuring music from Steve Lacy, Chris Brown, SZA, Flo Milli, Latto, and more\. Cover: Steve Lacy
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,223 likes - 25 songs - 1 hr 18 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,224 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 | 5 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 |
 | 6 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 | 7 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 |
-| 8 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 8 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 9 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 10 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
 | 11 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |

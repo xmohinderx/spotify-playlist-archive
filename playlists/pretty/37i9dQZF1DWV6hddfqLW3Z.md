@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,324 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,480 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 8 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
 | 9 | [Só Hoje \- Acústico](https://open.spotify.com/track/3dQlFoNRi1mjKBPVXXEjYt) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:07 |
 | 10 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 |
-| 11 | [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 |
-| 12 | [O Sol](https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 3:31 |
+| 11 | [O Sol](https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 3:31 |
+| 12 | [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 |
 | 13 | [Ninguém](https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Onde?](https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS) | 3:10 |
 | 14 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 |
 | 15 | [Dona Cila](https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:31 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 19 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 20 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 21 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
-| 22 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
+| 22 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
 | 23 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 |
-| 24 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
+| 24 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
 | 25 | [Paciência](https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Na Pressão](https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG) | 4:44 |
 | 26 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 |
 | 27 | [Partilhar](https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 5:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Piquete](https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Rivo III e a Fé](https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf) | 4:13 |
 | 70 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
 
-Snapshot ID: `MTY2MjEyOTcyNCwwMDAwMDAwMDEzOTlmMzVmYjgzOGE1MTE2MDNmNWMwNDJmODVlNjZj`
+Snapshot ID: `MTY2MjEyOTcyNCwwMDAwMDAwMGMwNzU3OWRiNjkwYzczZGQ2M2RmMjNkNjYwMzZhMWQ1`

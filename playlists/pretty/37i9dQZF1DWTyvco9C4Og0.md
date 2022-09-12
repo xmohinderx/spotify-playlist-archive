@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Marco Antonio Solís en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,812 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,261 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 67 | [Al Sabor Del Champagne](https://open.spotify.com/track/31CBLt8Zkp2kEE6JX8aWx0) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Al Sabor Del Champagne](https://open.spotify.com/album/2Fg4m6JftW78wXMQ1bEaUG) | 2:52 |
 | 68 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
 | 69 | [El Loco](https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:54 |
-| 70 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 |
+| 70 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
 | 71 | [Entiende Que Ya](https://open.spotify.com/track/7kyNkviFUetu9nSrn1wtZr) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 2:46 |
 | 72 | [Qué Ganas De Verte](https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Qué Ganas De Verte](https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM) | 3:18 |
 | 73 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/00zD9aiaLdQcIwSNoWD0pW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:55 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 75 | [Cheque En Blanco](https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [En Vivo, Desde Su Lugar](https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC) | 2:42 |
 | 76 | [Como Tú Decidas](https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 3:07 |
 | 77 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
-| 78 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
+| 78 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 |
 | 79 | [¿Por Qué Dejaste Que Te Amara?](https://open.spotify.com/track/4v54y645UMsIsbHP1kzkvi) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:44 |
 | 80 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
 | 81 | [Amanecí En Tus Brazos](https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lo Mejor De Lucha Villa](https://open.spotify.com/album/05yE3cp9cIYw1aJjE8ybgs) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 | 100 | [Media Vuelta](https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Mexicanisimo](https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj) | 2:11 |
 
-Snapshot ID: `MTY1Nzg2MTIwMCwwMDAwMDAwMGQxMDM4N2RjMmY5ZjlhZTQxZjc3MzkwZTMwNzRhY2Mz`
+Snapshot ID: `MTY1Nzg2MTIwMCwwMDAwMDAwMDgyNDRmODAwZjY3OGZhNjA0YTAxOWVjMzBhYzJlOTU3`

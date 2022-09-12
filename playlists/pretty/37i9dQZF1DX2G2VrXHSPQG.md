@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,852 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,874 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 31 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 32 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 33 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
-| 34 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
-| 35 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 |
+| 34 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 |
+| 35 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
 | 36 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 |
 | 37 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 |
 | 38 | [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [Preach](https://open.spotify.com/track/4wxTn03zuXvkQwNvI6oHyF) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 3:04 |
 | 75 | [The Best](https://open.spotify.com/track/1t4wa5r7E7oZ2D4G07JFsI) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:43 |
 
-Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMDQ3MWZkOTA1ZWZkZWNkMjI4ZGI4YzJhNzllNDdmNDE5`
+Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMDA1YTA3MGM5Y2JiMjNhODBhNTI2MzJkMjAyNTMyNWIy`

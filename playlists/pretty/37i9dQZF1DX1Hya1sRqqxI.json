@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 128002,
+  "num_followers": 128278,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMDRmZTRhYTM4MmYxNjQ0YTg0YzBjYzZhY2JjNDJiNjg2",
+  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMDRjNDQ3NjQ3OWIwZjliZTM2YzM2MzUwMWNlNjk3M2U3",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Eagles (2013 Remaster)",
@@ -535,6 +519,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Move on Up",
@@ -935,6 +919,22 @@
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Stumblin' In (2017 Remaster)",
@@ -1227,6 +1211,22 @@
       "duration_ms": 239611,
       "name": "Stumblin' In - 2017 Remaster",
       "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Spirits Having Flown",
         "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
       },
@@ -1389,56 +1373,20 @@
       "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
-    },
-    {
-      "added_at": "2022-08-11 07:51:07",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "We Go Together - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1459,6 +1407,58 @@
       "duration_ms": 239213,
       "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
       "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
+    },
+    {
+      "added_at": "2022-08-11 07:51:07",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "We Go Together - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "3+3",
-        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 334386,
-      "name": "That Lady, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Caribou",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 224933,
       "name": "The Bitch Is Back",
       "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 334386,
+      "name": "That Lady, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 439866,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "If You Knew Suzi\u2026 (2017 Remaster)",
@@ -2215,6 +2199,22 @@
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2249,22 +2249,6 @@
       "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Sky High",
-        "url": "https://open.spotify.com/album/0Iytoyo5RIovN9CL5Ii8nW"
-      },
-      "artists": [
-        {
-          "name": "Tavares",
-          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
-        }
-      ],
-      "duration_ms": 393013,
-      "name": "Heaven Must Be Missing An Angel - Pt. 1",
-      "url": "https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "I Love The Way You Love",
@@ -2283,6 +2267,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Sky High",
+        "url": "https://open.spotify.com/album/0Iytoyo5RIovN9CL5Ii8nW"
+      },
+      "artists": [
+        {
+          "name": "Tavares",
+          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
+        }
+      ],
+      "duration_ms": 393013,
+      "name": "Heaven Must Be Missing An Angel - Pt. 1",
+      "url": "https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Sweet Fanny Adams",
         "url": "https://open.spotify.com/album/26FFCS8Hx6Ocr6MovNitos"
       },
@@ -2295,22 +2295,6 @@
       "duration_ms": 242200,
       "name": "The Ballroom Blitz",
       "url": "https://open.spotify.com/track/6WpLICh9bBL5C4DPjdK4XF"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2327,6 +2311,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Superfly (O.S.T.)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 213453,
       "name": "Loves Me Like a Rock",
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Superfly (O.S.T.)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2021-09-08 13:31:49",

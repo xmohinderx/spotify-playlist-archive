@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: The National & Bon Iver
 
-1,222 songs - 3 day 0 hr 57 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,223 songs - 3 day 1 hr 0 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Hopprock](https://open.spotify.com/track/51IkXj5HbmwxDXVoUnshYK) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Hopprock](https://open.spotify.com/album/5Dm54tjeZCHrasMimSTbw3) | 3:27 | 2021-01-13 | 2021-05-22 |
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-04-20 | 2022-03-11 |
 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 | 2022-07-08 | 2022-09-10 |
+| [Hot Mess](https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z) | 2:54 | 2022-09-09 |  |
 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 | 2021-07-19 | 2022-03-11 |
 | [How Can I Make It OK?](https://open.spotify.com/track/4esseJdxrcatxtl7Zk8Q5V) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/5OxxXTUecFQgCVqztbcynb) | 4:47 | 2021-06-22 | 2022-04-05 |
 | [How Dare You Want More](https://open.spotify.com/track/3ofm3iqaRbHBCGvqf5jK7H) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [How Dare You Want More](https://open.spotify.com/album/5VcCCWAqGq1Sl9VgSU7DOv) | 4:00 | 2021-06-22 | 2022-01-29 |
@@ -1183,7 +1184,7 @@
 | [Whatever Tomorrow](https://open.spotify.com/track/7hI6O280FAYYtNBOH2o8qM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Whatever Tomorrow](https://open.spotify.com/album/5V3AIqbOWsO3rf0W3cQMpt) | 4:23 | 2021-04-20 | 2022-01-03 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2019-05-26\* | 2020-03-14 |
 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/album/5bIbXSqZjr3m6DBm6t7HPQ) | 3:45 | 2022-05-06 | 2022-07-27 |
-| [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-07-15 |  |
+| [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-07-15 | 2022-09-12 |
 | [Where Do You Go](https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Where Do You Go](https://open.spotify.com/album/7ffU7oeQlFNtNoAk2KI5PS) | 3:22 | 2021-11-19 | 2022-01-06 |
 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 | 2020-04-03 | 2021-07-20 |
 | [White Dress](https://open.spotify.com/track/4Hl9rOqYomojCmxYfr25im) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:33 | 2021-04-12 | 2021-05-28 |

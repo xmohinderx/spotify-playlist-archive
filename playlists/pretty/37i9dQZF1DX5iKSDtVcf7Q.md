@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,533 likes - 104 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,538 likes - 104 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 47 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
 | 48 | [Chillin' It](https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:16 |
 | 49 | [Where I Come From](https://open.spotify.com/track/1YR1ChVR8n5EtLRIIDhRTF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Rebels On The Run](https://open.spotify.com/album/7otXAli6yLnxuaOKZXv06c) | 3:21 |
-| 50 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
-| 51 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 |
+| 50 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 |
+| 51 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 52 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 53 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
 | 54 | [Free](https://open.spotify.com/track/4BaAxwS4VoeCYk9TuXQs7f) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:48 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 58 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 |
 | 59 | [Fly Over States](https://open.spotify.com/track/17X2tSzibD9n9QRjdExcWT) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:38 |
 | 60 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
-| 61 | [The Outskirts](https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:18 |
-| 62 | [What Makes You Country](https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:55 |
+| 61 | [What Makes You Country](https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:55 |
+| 62 | [The Outskirts](https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:18 |
 | 63 | [Small Town Crazy](https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Small Town Crazy](https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq) | 2:42 |
 | 64 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 |
 | 65 | [Amarillo Sky](https://open.spotify.com/track/0axUHkhMMY0YSC1jFBVWqv) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Jason Aldean](https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA) | 3:22 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 103 | [Brother](https://open.spotify.com/track/2RnEMVSTAG2BQh3LHXS9te) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Brother](https://open.spotify.com/album/0BjVN6PAH15jTwfQZG8dLQ) | 3:56 |
 | 104 | [I Called Mama](https://open.spotify.com/track/2oWuBmQtYMx3LEgahIsJvs) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:32 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGFlMTYxYWQwOTc0ZTgzYThiYTBiNzk4YzI1M2Y0Y2Q5`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDM3N2YzYWUyNTJmNGZmNzU3ODhjYTQ1MGIwNDU3NmRh`

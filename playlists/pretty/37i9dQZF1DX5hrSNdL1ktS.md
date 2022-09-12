@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,161 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,155 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 36 | [La Duda](https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [La Duda](https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm) | 3:21 |
 | 37 | [Jake Long](https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Jake Long](https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM) | 2:38 |
 | 38 | [Última Cena](https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C) | [Bernalú](https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay) | [Última Cena](https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6) | 2:45 |
-| 39 | [Pa' Siempre](https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz) | [Daniel Vargas](https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5) | [Pa' Siempre](https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM) | 2:19 |
-| 40 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
+| 39 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
+| 40 | [Pa' Siempre](https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz) | [Daniel Vargas](https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5) | [Pa' Siempre](https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM) | 2:19 |
 | 41 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 |
 | 42 | [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 |
 | 43 | [LUZ APAGÁ](https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [ANA SOCLASH](https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs) | [LUZ APAGÁ](https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0) | 2:57 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Swipe Up](https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Alan Marcos](https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t), [Super Kai](https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK) | [Swipe Up](https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ) | 3:32 |
 | 55 | [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGI3N2UyODc3NDUwMWRlNGI5NTk1Y2E0OTc3ZDg4Y2M3`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGE0NzkwNTNjYTAwMmJjZDAwNzI0MDM1YWFkNTk2OWZl`

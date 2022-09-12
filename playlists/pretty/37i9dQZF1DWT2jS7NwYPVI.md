@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,141 likes - 126 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,779 likes - 126 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 18 | [Every Night](https://open.spotify.com/track/342eeP9yZTw5mpqNUDh8I0) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Every Night](https://open.spotify.com/album/1erO19ZiBDTVHMOVj9dFUI) | 3:20 |
 | 19 | [watery](https://open.spotify.com/track/3R0GEzbTqMY6Iba9ftP4ll) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [watery](https://open.spotify.com/album/5Kxux1R2Ke01Uh5oa1loXi) | 2:28 |
 | 20 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 |
-| 21 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
+| 21 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 |
 | 22 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
 | 23 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 24 | [YOU DON'T KNOW WHAT LOVE MEANS](https://open.spotify.com/track/2Ktf2I6JdWIczgrBpLEnXn) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [YOU DON’T KNOW WHAT LOVE MEANS](https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR) | 4:08 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [stay volk](https://open.spotify.com/track/3JphgObk2MgLvmS0Fu26pL) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [stay volk](https://open.spotify.com/album/2gxXQJm3eMeZDP7OHKCibZ) | 2:48 |
 | 126 | [Dangerous State of Mind](https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Dangerous State of Mind](https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD) | 1:55 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDQ2M2VmNDgxMDkzZTA2YTNiNjIzZmM0MWQ1ZTI2NjQ3`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDg0MDZiMjUxOGZkMjlhOTkxN2JlNjgxMzU5YjFhZmFi`

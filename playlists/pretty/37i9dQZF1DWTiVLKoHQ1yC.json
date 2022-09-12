@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 117226,
+  "num_followers": 117334,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMGQwYmNjOWM4Mjc4OTJiY2Q1ZDNjNzE5NGJhM2MzZDJh",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDFhNjkzOTZmMDc3YmNkMGZiNjQwYTI1Y2EyODM0YTk5",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Hope In Balance",
+        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
+      },
+      "artists": [
+        {
+          "name": "S\u00e3o Miguel",
+          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
+        },
+        {
+          "name": "Sebastian Reynoso",
+          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
+        }
+      ],
+      "duration_ms": 278796,
+      "name": "Hope In Balance",
+      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Brightest Lights Remixed",
         "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Hope In Balance",
-        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
-      },
-      "artists": [
-        {
-          "name": "S\u00e3o Miguel",
-          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
-        },
-        {
-          "name": "Sebastian Reynoso",
-          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
-        }
-      ],
-      "duration_ms": 278796,
-      "name": "Hope In Balance",
-      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Calling EP",
-        "url": "https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 249677,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Calling EP",
+        "url": "https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "High Priestess-Jupiter",
-        "url": "https://open.spotify.com/album/1Bg000mySnXr2Sk4OZ5j6G"
-      },
-      "artists": [
-        {
-          "name": "The Yard Woman",
-          "url": "https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE"
-        }
-      ],
-      "duration_ms": 380487,
-      "name": "High Priestess - Original Mix",
-      "url": "https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 466035,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "High Priestess-Jupiter",
+        "url": "https://open.spotify.com/album/1Bg000mySnXr2Sk4OZ5j6G"
+      },
+      "artists": [
+        {
+          "name": "The Yard Woman",
+          "url": "https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE"
+        }
+      ],
+      "duration_ms": 380487,
+      "name": "High Priestess - Original Mix",
+      "url": "https://open.spotify.com/track/0fzsMh6uGsW3k8hZCOPidw"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Froozen / Balloons",
-        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
-      },
-      "artists": [
-        {
-          "name": "Hosini",
-          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
-        }
-      ],
-      "duration_ms": 234744,
-      "name": "Balloons",
-      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Satisfied (Qrion Remix)",
         "url": "https://open.spotify.com/album/7Aqx2HgGpIP8dmyMO3pbwQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 266099,
       "name": "Satisfied - Qrion Remix",
       "url": "https://open.spotify.com/track/75s1E7gtxXQaKkHMyOOtOp"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Froozen / Balloons",
+        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
+      },
+      "artists": [
+        {
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
+        }
+      ],
+      "duration_ms": 234744,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
     },
     {
       "added_at": "2022-01-14 10:50:05",

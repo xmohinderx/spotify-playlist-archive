@@ -4,7 +4,7 @@
 
 > Todo calor latino está aqui! 🔥  Foto: Camilo
 
-179 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
+180 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,10 @@
 | [Caliente](https://open.spotify.com/track/1zcUajLDVXY1SFWcAwMme8) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Caliente](https://open.spotify.com/album/1DDvu6cNcAgindgxdPsdkX) | 2:37 | 2022-06-17 | 2022-08-06 |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2021-12-31 | 2022-08-20 |
 | [Candela](https://open.spotify.com/track/6iDf1hf6tSPIlLwnLZ5DUO) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Candela](https://open.spotify.com/album/4ReNwrN1yAVgZl7xldnZZN) | 2:27 | 2022-08-26 | 2022-09-05 |
-| [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2021-12-31 |  |
+| [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2021-12-31 | 2022-09-12 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-02-25 | 2022-04-02 |
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2021-12-31 | 2022-04-23 |
+| [CHIRI](https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:00 | 2022-09-09 |  |
 | [Cintura Mole](https://open.spotify.com/track/2H0VgNi7cIA0v7tKORmoiv) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [DJ Tawan](https://open.spotify.com/artist/2ydsW9VfcxiyJBwUj1LM5b) | [Cintura Mole](https://open.spotify.com/album/3ooSkVBSCALG5BRds3WHYX) | 3:28 | 2022-01-14 | 2022-02-01 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-21 |  |
 | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \- Remix](https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \[Remix\]](https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On) | 3:32 | 2022-06-10 |  |

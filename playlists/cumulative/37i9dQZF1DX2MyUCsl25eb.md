@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-394 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+395 songs - 23 hr 11 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Donna](https://open.spotify.com/track/08uQ0afWImiJrCDB2UoLJW) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ) | 3:05 | 2021-08-04 | 2022-04-01 |
 | [Drawn to You](https://open.spotify.com/track/3raxhmKSaQl8c5mDlSi4zA) | [Airpark](https://open.spotify.com/artist/3FhYulv2HI8so6GZy7AaU4), [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [Drawn to You](https://open.spotify.com/album/4naCoL5HV9x5094350Vtuc) | 3:17 | 2022-09-02 | 2022-09-10 |
 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 | 2022-09-05 |
+| [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-07-01 |  |
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2022-07-29 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-22 |  |
 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 | 2022-06-24 |  |
@@ -293,7 +294,7 @@
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 |  |
 | [Retrograde](https://open.spotify.com/track/3lHtxy7keWMXYBQU5LkUXH) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:11 | 2021-08-04 | 2022-04-02 |
 | [Ride or Die](https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/4ogV05oprfriua7n9icbvN) | 4:14 | 2021-08-04 | 2022-04-13 |
-| [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 | 2021-08-04 |  |
+| [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 | 2021-08-04 | 2022-09-12 |
 | [Right From The Start](https://open.spotify.com/track/59VD7n3YZQ3IHzBBcH8IeF) | [SÍOMHA](https://open.spotify.com/artist/52TEDX6nDCwmhO5pKc2eRn) | [Right From The Start](https://open.spotify.com/album/5qInjs3rPqx4u37dk3BNg7) | 4:28 | 2022-02-18 | 2022-04-12 |
 | [Right on Time](https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time](https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd) | 3:05 | 2021-10-22 | 2022-07-25 |
 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 | 2022-09-02 | 2022-09-10 |

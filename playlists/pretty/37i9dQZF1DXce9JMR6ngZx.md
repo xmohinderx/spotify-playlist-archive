@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,652 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,770 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 47 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
 | 48 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
 | 49 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 |
-| 50 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
-| 51 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
+| 50 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
+| 51 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 52 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
 | 53 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 54 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 99 | [O Astronauta de Mármore \(Starman\)](https://open.spotify.com/track/5zbutV48aKhYIUOdAuGAuX) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Cardume](https://open.spotify.com/album/4wKkE7jcQe8eKT9fMU1puv) | 3:15 |
 | 100 | [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 |
 
-Snapshot ID: `MTU5MzAwOTQ0MCwwMDAwMDAwMDYyZDQ0ZGI4YzZkNmJkODU3MWI5MmMxZTY3NDVkMjdl`
+Snapshot ID: `MTU5MzAwOTQ0MCwwMDAwMDAwMGJiOGQxOTQzNzZlM2ZiYThmNTE2NmNjYzk5MDVlMWM0`

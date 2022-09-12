@@ -4,7 +4,7 @@
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-153 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
+154 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Covers One](https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F) | 4:09 | 2021-10-01 |  |
 | [Doobie Bronson](https://open.spotify.com/track/4kyNjgLHuGVyGsuBAqaFxK) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Doobie Bronson](https://open.spotify.com/album/2OTofjuBeWsDsx9YdSIE1l) | 3:23 | 2021-10-01 | 2022-07-29 |
 | [Down in the Country](https://open.spotify.com/track/1mqvBKZIGTtyYDjRaLFsK3) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/2iJyZLkfU2VlUMsXVo0oe9) | 3:34 | 2021-10-01 | 2022-07-29 |
+| [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 | 2021-10-01 |  |
 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 | 2021-10-01 | 2022-07-29 |
 | [Drugs](https://open.spotify.com/track/4nVonORlG4CxVHQPVssBtM) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Maybe We Never Die](https://open.spotify.com/album/1WIPkEx2uQtjMIIrSdbYSY) | 3:06 | 2021-10-01 | 2022-07-29 |
 | [Edge of Seventeen](https://open.spotify.com/track/42HGl10TZF0LLfLgMWNtfw) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Covers One](https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F) | 5:27 | 2021-10-01 | 2022-04-20 |
@@ -57,7 +58,7 @@
 | [Going In](https://open.spotify.com/track/2ZJ1cbWdNlBjMlWPnpSvYT) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/4g7qJhcnulLDRNqhtolo6X) | 2:41 | 2021-10-01 | 2022-07-29 |
 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 | 2021-10-01 |  |
 | [Gold Rush](https://open.spotify.com/track/7rzLSvxdfEr5Nt2i8tmdkY) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/00VIGPygVKjYbWXfoOaqHa) | 3:33 | 2021-10-01 | 2022-04-21 |
-| [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 | 2021-10-01 |  |
+| [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 | 2021-10-01 | 2022-09-12 |
 | [Good Luck, Kid](https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:36 | 2021-10-01 | 2022-07-29 |
 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 | 2021-10-01 |  |
 | [Green Eyes and a Heart of Gold](https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [The Lone Bellow](https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB) | 4:12 | 2021-10-01 |  |

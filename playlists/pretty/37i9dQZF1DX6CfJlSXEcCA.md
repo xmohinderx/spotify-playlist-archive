@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,684 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,702 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 19 | [Silver\-winged Star \- Valstrax](https://open.spotify.com/track/3lvbr6VJPV8kfrIcyfsdqa) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [MONSTER HUNTER RISE Extra Tracks](https://open.spotify.com/album/02v01ZbI91kG3WAQMqCOlf) | 4:03 |
 | 20 | [追究 〜つきとめたくて](https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC) | [岩垂徳行](https://open.spotify.com/artist/00mQlPRw20tGWmJeEivmge) | [逆転検事2 オリジナル・サウンドトラック](https://open.spotify.com/album/2gtH1BW56OyOl68hDJqQgB) | 2:47 |
 | 21 | [Theme of Ryu \-SFIV Arrange\-](https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターIVシリーズ サウンドBOX](https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu) | 3:19 |
-| 22 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1IzXLyd1gOY7W9ElazmSBv) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [Resident Evil 6 Original Soundtrack](https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi) | 3:50 |
-| 23 | [OPENING STAGE](https://open.spotify.com/track/5AuhTgpU1Q99tq1mv4TUIi) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:35 |
+| 22 | [OPENING STAGE](https://open.spotify.com/track/5AuhTgpU1Q99tq1mv4TUIi) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:35 |
+| 23 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1IzXLyd1gOY7W9ElazmSBv) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [Resident Evil 6 Original Soundtrack](https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi) | 3:50 |
 | 24 | [Domain of Dust and Desolation](https://open.spotify.com/track/7fh6upeBBPHJqOesusuMbe) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [MONSTER HUNTER RISE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT) | 4:14 |
 | 25 | [Guile's Theme](https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Super Street Fighter II Turbo Original Soundtrack](https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6) | 3:43 |
 | 26 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
 | 27 | [Ripples in the Calm](https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 2:22 |
 | 28 | [Mega Man 2 / Dr\. Wily Stage 1](https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg) | 3:53 |
 | 29 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
-| 30 | [Esperanto](https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [MEGAMAN ZERO/ZX SOUND BOX](https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE) | 2:19 |
-| 31 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:54 |
+| 30 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:54 |
+| 31 | [Esperanto](https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [MEGAMAN ZERO/ZX SOUND BOX](https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE) | 2:19 |
 | 32 | [Dr\. Wily Stage](https://open.spotify.com/track/23zLcVodVC5TkZ1tcNon15) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [MEGAMAN 11 Original Soundtrack](https://open.spotify.com/album/3H6eQfGMjmwJ6JCO22t2hx) | 3:03 |
 | 33 | [Free From Fear](https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq) | [Saori Maeda](https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 2:06 |
 | 34 | [暴砂の巨城/オディバトラス](https://open.spotify.com/track/1Tc7rnUznYbFfyGZOPVnLJ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [モンスターハンター フロンティアG オリジナル・サウンドトラック](https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE) | 5:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Total Result](https://open.spotify.com/track/4o62B2S9hKbrNPM1Q8mlMJ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 1:19 |
 
-Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMGE5ODg1MGQ3MjYyZjZmODk1MjJjNTZiODNhOWJkNGJl`
+Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMGJkMjE1ZWQ3ZjUyMjFlYmVjZDNiNDRhYTIwYmM4YjY5`

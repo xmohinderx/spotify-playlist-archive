@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,151 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,231 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 58 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:36 |
 | 59 | [You and Me](https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 3:20 |
 | 60 | [I Can Help](https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [The Best Of Billy Swan](https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi) | 3:58 |
-| 61 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
+| 61 | [Wasted Days And Wasted Nights](https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:51 |
 | 62 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
 | 63 | [Country Sunshine](https://open.spotify.com/track/4jE0JNXJ2H3UdhoYBeu8st) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [The Essential Dottie West](https://open.spotify.com/album/0dVCPUNJWfXOw5DZqwzmT1) | 2:03 |
-| 64 | [Wasted Days And Wasted Nights](https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:51 |
+| 64 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
 | 65 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
-| 66 | [If You Love Me \(Let Me Know\)](https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:16 |
+| 66 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
 | 67 | [Love Is Like a Butterfly](https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 2:20 |
-| 68 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
+| 68 | [If You Love Me \(Let Me Know\)](https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:16 |
 | 69 | [Pure Love](https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Pure Love](https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5) | 2:21 |
-| 70 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 |
-| 71 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
+| 70 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
+| 71 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 |
 | 72 | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [Winners](https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f) | 2:31 |
 | 73 | [San Antonio Stroll](https://open.spotify.com/track/2qXR5YWhvtYIoewHjvflss) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker's Greatest Hits](https://open.spotify.com/album/5T6WDAskZxpghDeEdHUtXn) | 2:50 |
 | 74 | [Funny Face](https://open.spotify.com/track/27145diX1C7BE6m6FzONqb) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/album/5YfLHOqGzEjVKZMTTgZnyn) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [This Time](https://open.spotify.com/track/03T4H6czLK426qcW870hBZ) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:24 |
 | 100 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 |
 
-Snapshot ID: `MTY1ODc4NDk1NSwwMDAwMDAwMGY5YjBjOTFmMmU1YzhmNzE5ZTZmNWE2YTA1ZGFiYWRj`
+Snapshot ID: `MTY1ODc4NDk1NSwwMDAwMDAwMDhkZWViNmZmNGQyNWNiNDA2YmZmZDc5OTZhNDVjMmI2`

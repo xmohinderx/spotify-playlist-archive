@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,183 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,186 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 16 | [L.S.D](https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [L.S.D](https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W) | 3:37 |
 | 17 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
 | 18 | [I'm Not Making out With You](https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sad Boys](https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C) | 2:39 |
-| 19 | [T\-Shirt Weather](https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers](https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i) | 3:12 |
-| 20 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
+| 19 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
+| 20 | [T\-Shirt Weather](https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers](https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i) | 3:12 |
 | 21 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
 | 22 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 23 | [Stay Away](https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:31 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 31 | [Sick Shit](https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 4:06 |
 | 32 | [My Wave](https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:12 |
 | 33 | [Lets Go Surfing](https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l) | 2:55 |
-| 34 | [Think Of You](https://open.spotify.com/track/5W3Auo6qVL6wwbIruLFju7) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/3bKH6xVFa2W0wbgsbn99wX) | 2:41 |
-| 35 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
+| 34 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
+| 35 | [Think Of You](https://open.spotify.com/track/5W3Auo6qVL6wwbIruLFju7) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/3bKH6xVFa2W0wbgsbn99wX) | 2:41 |
 | 36 | [Toe Cutter \- Thumb Buster](https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 3:32 |
 | 37 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 |
 | 38 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 47 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
 | 48 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
 | 49 | [Space Cadet](https://open.spotify.com/track/3bkP8LtaC6fWnBPkuqDlQa) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/3Jwlm2yPSjIld9S1sCNw4G) | 3:10 |
-| 50 | [Reservoir Dawgs](https://open.spotify.com/track/5QiqeGYwJDzZh2qCmXbooc) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/1AW9OdUZ9PK4x1VH5Tg300) | 3:29 |
-| 51 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
+| 50 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
+| 51 | [Reservoir Dawgs](https://open.spotify.com/track/5QiqeGYwJDzZh2qCmXbooc) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/1AW9OdUZ9PK4x1VH5Tg300) | 3:29 |
 | 52 | [Hot Wax](https://open.spotify.com/track/6gVfpnD2z6Dvgvzy2mass1) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/3SXEbeWpI8iGgoH11zkgh0) | 3:29 |
 | 53 | [Girlfriend](https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 2:12 |
 | 54 | [Lick the Bag](https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Black Moon Spell](https://open.spotify.com/track/6V3zT1j43wmQU8Mk2rT35K) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 4:53 |
 | 60 | [Nerve Jamming](https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 2:36 |
 
-Snapshot ID: `MTY0ODA1MDUxNSwwMDAwMDAwMDIxYmZkNGY1MjUxODQwY2Y0NWQ0NWVhODM2MjVjODNh`
+Snapshot ID: `MTY0ODA1MDUxNSwwMDAwMDAwMDRiMmUyNDNiZjFiY2FiMDM1NzFiNjY4ZjI1N2YxMGQ4`

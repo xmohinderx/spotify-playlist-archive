@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > Lay back\. Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,161 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,298 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 44 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
 | 45 | [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 |
 | 46 | [Getting Late](https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 6:46 |
-| 47 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
+| 47 | [Falling Higher](https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:18 |
 | 48 | [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 |
-| 49 | [Falling Higher](https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:18 |
+| 49 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
 | 50 | [3 Hour Drive \(feat\. Sampha\)](https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:01 |
 | 51 | [Alright](https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Lost And Found](https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq) | 4:37 |
 | 52 | [Livid](https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC) | 4:29 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 59 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 |
 | 60 | [Only With Time \- A COLORS SHOW](https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Only With Time \- A COLORS SHOW](https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78) | 5:04 |
 | 61 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 |
-| 62 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |
-| 63 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
+| 62 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
+| 63 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |
 | 64 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
 | 65 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
 | 66 | [Lay](https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 69 | [Love In Full Bloom](https://open.spotify.com/track/4LCxUSGC5gg291GXE0CUwL) | [Karla Felecia Scaife](https://open.spotify.com/artist/10cEgWO5EK436JaZkGQUKj) | [Love in Full Bloom](https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG) | 3:51 |
 | 70 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 |
 
-Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMDljNTQ5NTUzM2YzZGY1Y2I3MTU1Mzk5ZDE3MThmZmFm`
+Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMDk5YmRiNmE2NjM4ZTliYjY4NDg1NmU0ZjkzZDkwNzY0`

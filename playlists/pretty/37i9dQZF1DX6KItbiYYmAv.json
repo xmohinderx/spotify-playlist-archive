@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 685720,
+  "num_followers": 685907,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMGUxMzk2Njg5ZDI3MDJiYzA0YTMwMjRkZTU4MDYxYjVl",
+  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMDZhZTNjMzg4OWRhOGM1Y2EwMDg4M2IwNTgwZmI0MmU5",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Young North",
         "url": "https://open.spotify.com/album/5ERrBoi8CAlmG0pNLjLtsn"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 191773,
       "name": "Paint",
       "url": "https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Coming Up for Air (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Hard Settle, Ain't Troubled",
         "url": "https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 203869,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Coming Up for Air (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 384080,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Making All Things New",
         "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+      "duration_ms": 384080,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -931,6 +915,22 @@
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
@@ -1283,6 +1299,22 @@
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1319,22 +1351,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Gulag Orkestar",
         "url": "https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 257480,
       "name": "Postcards from Italy",
       "url": "https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "hemispheres",
         "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 232360,
       "name": "Take It Slowly",
       "url": "https://open.spotify.com/track/0GXBDT4AVhWrKKkk2IXlFO"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
-      },
-      "artists": [
-        {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Forever Ago",
-      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "3 Rounds and a Sound",
         "url": "https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 266960,
       "name": "3 Rounds and a Sound",
       "url": "https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Forever Ago",
+      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/2w5KeioTKKUi2rLyH54WVD"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 204857,
       "name": "If Only",
       "url": "https://open.spotify.com/track/05DjGdZSV6nEeUkd78afBO"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 193453,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2022-08-18 22:01:00",

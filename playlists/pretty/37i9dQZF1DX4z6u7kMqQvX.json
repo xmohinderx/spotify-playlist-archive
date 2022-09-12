@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 84696,
+  "num_followers": 84746,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDBlODAzM2Q4ZGFiMTg4OWNkN2VjMWZhMDFmYzFhOGQ2",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGI2NGY1MmVlNzcwYTIyZjJmMzY4MWE1M2I0NjU0M2My",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "La Declaraci\u00f3n",
-        "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "La Declaraci\u00f3n",
-      "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Parque Acu\u00e1tico",
         "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 172646,
       "name": "Parque Acu\u00e1tico",
       "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "La Declaraci\u00f3n",
+        "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "La Declaraci\u00f3n",
+      "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "Ya mi mama me dec\u00eda",
-      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "Ya mi mama me dec\u00eda",
+      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Las Voces",
-        "url": "https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP"
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 210911,
-      "name": "Las Voces",
-      "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+        "name": "Las Voces",
+        "url": "https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+      "duration_ms": 210911,
+      "name": "Las Voces",
+      "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Cosas para Decirte",
-      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "El Paradise",
         "url": "https://open.spotify.com/album/1Mu2ASzYyaoygPrhFH6xME"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 255240,
       "name": "Esp\u00e9rame (feat. Elastic Bond)",
       "url": "https://open.spotify.com/track/0iMhQB3iXc3I4Ef1261lrr"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Cosas para Decirte",
+      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Ya Me Hiciste Mal",
-        "url": "https://open.spotify.com/album/4Z6qD5QRi4xbFUhTxmd5au"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 199189,
-      "name": "Ya Me Hiciste Mal",
-      "url": "https://open.spotify.com/track/5FO2fNgerif5MMQMGQ6GXt"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "La Mexicana - Single",
         "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
+        "name": "Ya Me Hiciste Mal",
+        "url": "https://open.spotify.com/album/4Z6qD5QRi4xbFUhTxmd5au"
       },
       "artists": [
         {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
         }
       ],
-      "duration_ms": 191475,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
+      "duration_ms": 199189,
+      "name": "Ya Me Hiciste Mal",
+      "url": "https://open.spotify.com/track/5FO2fNgerif5MMQMGQ6GXt"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -915,6 +899,22 @@
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Te Pienso Todo el Tiempo",
         "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 213993,
       "name": "Te Pienso Todo el Tiempo",
       "url": "https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+      },
+      "artists": [
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 215967,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 225264,
       "name": "Desnuda",
       "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 215967,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        },
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 160678,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1347,38 +1363,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "pierdo",
-        "url": "https://open.spotify.com/album/7qnFpZr8wt6zXg7aAdtFut"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 128794,
-      "name": "pierdo",
-      "url": "https://open.spotify.com/track/4ZiEpvfNIzEOWnGYECSEc8"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Otros Colores",
         "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "pierdo",
+        "url": "https://open.spotify.com/album/7qnFpZr8wt6zXg7aAdtFut"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 128794,
+      "name": "pierdo",
+      "url": "https://open.spotify.com/track/4ZiEpvfNIzEOWnGYECSEc8"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 122456,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2022-09-09 03:00:00",

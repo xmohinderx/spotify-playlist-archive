@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,992 likes - 63 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,057 likes - 63 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

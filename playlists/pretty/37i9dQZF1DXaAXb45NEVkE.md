@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 
 > Hold up, run that back\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,674 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,735 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 | 67 | [Turks \(with Gunna & ft\. Travis Scott\)](https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:41 |
 | 68 | [Richer \(feat\. Polo G\)](https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:10 |
 | 69 | [Flocky Flocky \(feat\. Travis Scott\)](https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:03 |
-| 70 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC) | 3:45 |
-| 71 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 |
+| 70 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 |
+| 71 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC) | 3:45 |
 | 72 | [Seeing Green \(with Drake & Lil Wayne\)](https://open.spotify.com/track/1TZv3bujNaYz646eezRE91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 5:39 |
 | 73 | [Kacey Talk](https://open.spotify.com/track/1SF8piqsZWn86DajVKih8F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:31 |
 | 74 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:18 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 | 100 | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \- Remix](https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \[Remix\]](https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD) | 3:31 |
 | 101 | [OK Cool \(Bonus\)](https://open.spotify.com/track/39LnvWUhzakLqVG9T6zUsa) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Happy Halloween 3](https://open.spotify.com/album/46LePqtYMzI7vzy4J2rrSG) | 2:57 |
 
-Snapshot ID: `MTY1OTMyMDk0OCwwMDAwMDAwMDQ2YTc2YjhkNDRmOWRjODQ1YTBkOWYxZDEyYzE1MDRh`
+Snapshot ID: `MTY1OTMyMDk0OCwwMDAwMDAwMDNlOGFhMWMxYTc1MWQzYzQ0OTk0ZTVkOGU4OTMyMjg1`

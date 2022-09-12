@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Chill\. The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,532 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,586 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 39 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
 | 40 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
 | 41 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 |
-| 42 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 |
-| 43 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
+| 42 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
+| 43 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 |
 | 44 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 45 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 |
 | 46 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 53 | [Playground](https://open.spotify.com/track/4IroNECciKcq3M2QtSTus7) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:33 |
 | 54 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
 | 55 | [Asc\. Scorpio](https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk) | 2:46 |
-| 56 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
+| 56 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 57 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
-| 58 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
+| 58 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
 | 59 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 |
 | 60 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 |
 | 61 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 |
 | 62 | [Sarah](https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:56 |
-| 63 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
-| 64 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
+| 63 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
+| 64 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
 | 65 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
 | 66 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
 | 67 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
-| 68 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 |
-| 69 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
+| 68 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
+| 69 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 |
 | 70 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 71 | [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 |
 | 72 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 74 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 |
 | 75 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
 
-Snapshot ID: `MTY2MjU2NjYzMywwMDAwMDAwMDQwNDRmYWJkYTVhYjc2MjNhMWQxYWMyMDE3ZGM3MTZh`
+Snapshot ID: `MTY2MjU2NjYzMywwMDAwMDAwMGNkYjY1ZTc4NTkwZDU0NmRkODFiYTU4OTY0MDQ4ZmMx`

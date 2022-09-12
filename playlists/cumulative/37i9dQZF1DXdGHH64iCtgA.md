@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-159 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+160 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Birdie](https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL) | [Squire](https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8) | [Birdie](https://open.spotify.com/album/5QopGkCvcxWJRIKkblX89H) | 6:57 | 2022-06-14 |  |
 | [Birdie](https://open.spotify.com/track/6oIBzo2Ui4wTSPp056zkQx) | [Squire](https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8) | [Birdie](https://open.spotify.com/album/60EgIDZePpe2lxomhx6e6n) | 6:57 | 2022-05-06 | 2022-07-29 |
 | [BLACK MAGIC](https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/7wFHTmHUtg2OL02ADttmT9) | 4:05 | 2022-05-06 | 2022-06-26 |
-| [BLACK MAGIC](https://open.spotify.com/track/2aCG0g9uxi8nK1OUZ7A65j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/6ROB2tyKtYqao9nbX7XdtY) | 4:05 | 2022-06-14 |  |
+| [BLACK MAGIC](https://open.spotify.com/track/2aCG0g9uxi8nK1OUZ7A65j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/6ROB2tyKtYqao9nbX7XdtY) | 4:05 | 2022-06-14 | 2022-09-12 |
+| [BLACK MAGIC](https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:05 | 2022-09-02 |  |
 | [Blessed \- Virgil Abloh Future\-Jazz Remix](https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Blessed / Cleopatra Remixes](https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg) | 6:38 | 2022-05-06 | 2022-07-28 |
 | [Boylife in EU](https://open.spotify.com/track/1WA5dWFBwokGf1dIRLYwVD) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 3:36 | 2022-05-06 |  |
 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 | 2022-05-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SOLE\(쏠\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,673 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,800 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 52 | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b) | 3:36 |
 | 53 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
 | 54 | [HOLO](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) | 2:58 |
-| 55 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
-| 56 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |
+| 55 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |
+| 56 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
 | 57 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
 | 58 | [Irene](https://open.spotify.com/track/7KwxU8kseYKf5pLbuI25g0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Irene](https://open.spotify.com/album/2eXjByavfoB2DYM1AKUJPg) | 3:19 |
 | 59 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 62 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:30 |
 | 63 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
 | 64 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 |
-| 65 | [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 |
+| 65 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO](https://open.spotify.com/artist/2dKlQqn4EbrUriR9IhQkTK), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
 | 66 | [Dancing In The Rain](https://open.spotify.com/track/1ouGYz9Qvou12hFOwYOV66) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [Scene](https://open.spotify.com/album/3Eq7lSl4bvV5CNP6IbLkkl) | 3:23 |
-| 67 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
-| 68 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO](https://open.spotify.com/artist/2dKlQqn4EbrUriR9IhQkTK), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
+| 67 | [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 |
+| 68 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
 | 69 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 |
 | 70 | [i got you](https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [i got you](https://open.spotify.com/album/6yhXV3FtUQ8kDhBwhDuTKZ) | 2:12 |
 
-Snapshot ID: `MTY2MjY0NDQ3NSwwMDAwMDAwMDNkNWNmMzIyZmM2YTYzYzk0OTYzZTZjMGY1YTg5YTUy`
+Snapshot ID: `MTY2MjY0NDQ3NSwwMDAwMDAwMGU2ZjE4NWM5YzQwOGZiYjg1NzA0ZmIwZmNiYTEzYzYy`

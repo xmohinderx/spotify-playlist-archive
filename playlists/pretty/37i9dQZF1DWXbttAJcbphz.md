@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 
 > The most essential R&B songs from the 2010s\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,050 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,185 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 35 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 36 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
 | 37 | [Deep](https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:32 |
-| 38 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
-| 39 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
+| 38 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
+| 39 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
 | 40 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 41 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 |
 | 42 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 99 | [Boo'd Up](https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:59 |
 | 100 | [D'Evils](https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 2:51 |
 
-Snapshot ID: `MTY2MjYxNjQyNywwMDAwMDAwMDk1YWZlY2NmMmZkOTlkOWM5YTgxMWU5YWUxY2Q5MGQw`
+Snapshot ID: `MTY2MjYxNjQyNywwMDAwMDAwMGJmMjY0NGM5OTQ0ZGM1ZTk5OGVmNTk4ZGFjMTJhNDU2`

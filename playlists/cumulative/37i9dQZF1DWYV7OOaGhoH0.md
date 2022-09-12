@@ -4,7 +4,7 @@
 
 > Explore the ever\-evolving folk & roots scene\. Cover: Katie Pruitt
 
-283 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
+284 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-12-10 | 2022-01-22 |
 | [An Alien In Minneapolis](https://open.spotify.com/track/6g7jWCRDBhLAABHKbiAiSv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 5:25 | 2022-06-24 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-06-24 | 2022-08-20 |
-| [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 |  |
+| [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-08-19 |  |
+| [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 | 2022-09-12 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 | 2022-07-29 |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-12-10 | 2022-01-29 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-03-18 | 2022-04-29 |

@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-521 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
+522 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-09-24 |  |
 | [forest fire](https://open.spotify.com/track/0bjuiE299R2r3Bv5P3PZ9X) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 3:48 | 2022-06-10 | 2022-06-17 |
 | [Forever](https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f) | 2:49 | 2021-10-15 | 2022-07-28 |
+| [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 |  |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 | 2022-07-26 |
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-06-07 | 2022-04-21 |
 | [Girls Like You](https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:35 | 2021-06-07 | 2022-04-16 |
@@ -324,7 +325,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-06-07 | 2022-04-19 |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2021-12-17 | 2022-04-15 |
 | [motive \(with Doja Cat\)](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:47 | 2021-06-07 | 2022-04-19 |
-| [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-06 |  |
+| [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-06 | 2022-09-12 |
 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-08-20 | 2022-04-20 |
 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-05-17 |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-19 |

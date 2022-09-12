@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,106 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,619 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 40 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 | 41 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 | 42 | [Monitor](https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 5:34 |
-| 43 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
-| 44 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
+| 43 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
+| 44 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
 | 45 | [Dominion / Mother Russia](https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 7:00 |
 | 46 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 |
 | 47 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 50 | [Sacrifice](https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH) | [London After Midnight](https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer) | [Selected Scenes from the End of the World](https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN) | 7:35 |
 | 51 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |
 | 52 | [Wax And Wane](https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Garlands](https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29) | 4:04 |
-| 53 | [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 |
-| 54 | [Break The Chain](https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/0xJ8E1zEm9QBkzfEXP3agI) | 4:48 |
+| 53 | [Break The Chain](https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/0xJ8E1zEm9QBkzfEXP3agI) | 4:48 |
+| 54 | [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 |
 | 55 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 |
 | 56 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 |
 | 57 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 71 | [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 |
 | 72 | [Indigo Eyes](https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm) | 5:54 |
 | 73 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
-| 74 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
-| 75 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
-| 76 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 |
+| 74 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
+| 75 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 |
+| 76 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
 | 77 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 |
 | 78 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 79 | [I Walk the Line](https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp) | 4:51 |
 | 80 | [Somewhere](https://open.spotify.com/track/5XYCe2ek8lMcTQXYDgQAGG) | [The Danse Society](https://open.spotify.com/artist/0WkypWGtWi9gAlB6aIKESl) | [Seduction \(The Society Collection\)](https://open.spotify.com/album/0NbtabKulAdSkbnzu94bJ9) | 4:20 |
 
-Snapshot ID: `MTY2MDAwOTA2OCwwMDAwMDAwMDQzYjZiMjZkM2RhY2U5MDU4OTA5NzY4YmE4NGFkNDc1`
+Snapshot ID: `MTY2MDAwOTA2OCwwMDAwMDAwMGY5Y2RhMTI4NzYyNzFiYjk3ODUwNWZhZjJhYjhkZTgw`

@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Under The Falling Sky",
+        "url": "https://open.spotify.com/album/30IMv7jvl0uGinaXg4Lp0T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home",
+      "url": "https://open.spotify.com/track/4E2HtOs7OvTqXCLvvHXCfj"
+    },
+    {
+      "album": {
         "name": "Gerald's Evil Game The Complete Fantasy Playlist",
         "url": "https://open.spotify.com/album/58iea9RDlr1v2yM7yh1788"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 187533,
       "name": "Can't Find My Way Home",
       "url": "https://open.spotify.com/track/7nIykpm45vKrsuW0KCEQ6i"
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 213666,
       "name": "Good Man, Good Woman",
       "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 308320,
       "name": "Love Has No Pride (with Bonnie Raitt)",
       "url": "https://open.spotify.com/track/3Yu08KtR7UlHpKMgnWsEBZ"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 244560,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 221600,
       "name": "Rainy Day Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/6K6uLBktAdE5MSx7fBOM9k"

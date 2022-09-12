@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > Celebrating some of the most iconic female voices of all time\.  Cover: Barbra Streisand
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,803 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,951 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 32 | [Skyscraper](https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:41 |
 | 33 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 | 34 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 |
-| 35 | [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 |
-| 36 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |
+| 35 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |
+| 36 | [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 |
 | 37 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
 | 38 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
 | 39 | [The Rose](https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Rose](https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 49 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 4:58 |
 | 50 | [Super Duper Love](https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions](https://open.spotify.com/album/188TILSlxecPremJwHDkk7) | 4:20 |
 
-Snapshot ID: `MTY1NzU1Njg3NiwwMDAwMDAwMDc0NDE1YjMyMGJmNTIwZDkxMzhkZmM3NTlhZDY4ZmM1`
+Snapshot ID: `MTY1NzU1Njg3NiwwMDAwMDAwMDA5M2NlZDQ0NGJlZWI1ZGRkODg5NTMzMDNmMzRiNzM4`

@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 111273,
+  "num_followers": 111340,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDU2YTAxOWVhODVlYTZmNWMwNzk5YmFjOTlkNTJhZDQw",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDBkMGVjNWQ0MzYwN2UzYjRlZTFjZjlhMTk1ZGJiYzAx",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Way Up!",
-        "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
-      },
-      "artists": [
-        {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Get Down On It",
-      "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 268280,
       "name": "World Go Round",
       "url": "https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Way Up!",
+        "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
+      },
+      "artists": [
+        {
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Get Down On It",
+      "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "We Are All You (Extended Edition)",
+        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Aeon",
+      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Cerulean Blue",
         "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 246692,
       "name": "Sun Chaser",
       "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "We Are All You (Extended Edition)",
-        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Aeon",
-      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        }
+      ],
+      "duration_ms": 192361,
+      "name": "Don't Look Back Again",
+      "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Notes With Attachments",
         "url": "https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 154361,
       "name": "Off The Cuff",
       "url": "https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827"
-      },
-      "artists": [
-        {
-          "name": "Charles Berthoud",
-          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
-        }
-      ],
-      "duration_ms": 192361,
-      "name": "Don't Look Back Again",
-      "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
     },
     {
       "added_at": "2021-05-06 21:09:12",

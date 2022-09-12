@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-994 songs - 2 day 10 hr 49 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+995 songs - 2 day 10 hr 52 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,7 +837,8 @@
 | [The Greatest Speech \(feat\. The Great Dictator\)](https://open.spotify.com/track/2VJc4bhwtkvX1tZ6so5MtR) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW), [The Great Dictators](https://open.spotify.com/artist/5lLz1TtyX6e2LlUdbbAsJH) | [The Greatest Speech \(feat\. The Great Dictator\)](https://open.spotify.com/album/61uopuAi6ygHua7CR1iWlA) | 3:12 | 2019-08-09\* | 2019-09-14 |
 | [The Love \- Radio Edit](https://open.spotify.com/track/0KsaCnz9s91lcpENdkVOCi) | [Antillas](https://open.spotify.com/artist/32jVfYlA5WRROJEYwCa1oo), [Alpha Force](https://open.spotify.com/artist/2pbQBBUdY1wTAzCHMsAAYG), [Lauren Evans](https://open.spotify.com/artist/3C7ueB5rQVcVfh0ryluAvk) | [The Love](https://open.spotify.com/album/6X1g5POkgeJLOAhgVEh0nR) | 3:23 | 2019-08-09\* | 2019-09-13 |
 | [The Music](https://open.spotify.com/track/6sHnGmF9ntOvM4vn1YtOTU) | [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [The Music](https://open.spotify.com/album/6iZSqAC9uz8EIs6BK2GciP) | 4:51 | 2019-08-09\* | 2019-08-27 |
-| [The One](https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/1pwdgZDc9u1jeoMNLdaMJk) | 3:06 | 2022-07-29 |  |
+| [The One](https://open.spotify.com/track/1hxF3FkEkDPoRHfkghEdjw) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 3:06 | 2022-07-29 |  |
+| [The One](https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/1pwdgZDc9u1jeoMNLdaMJk) | 3:06 | 2022-07-29 | 2022-09-12 |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-05-13 | 2022-08-27 |
 | [The Rope \(feat\. POLIÇA\) \- Le Youth Remix](https://open.spotify.com/track/7toata3kAxgvAPer5XCwHE) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [The Rope](https://open.spotify.com/album/3V1XuaywmPel3z1iw4tAfY) | 4:39 | 2020-03-30 | 2021-09-25 |
 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 | 2019-08-09\* | 2019-09-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,559 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,628 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

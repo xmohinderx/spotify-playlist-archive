@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,408 likes - 110 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,686 likes - 110 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 45 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
 | 46 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
 | 47 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 |
-| 48 | [Under and Over It](https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:38 |
-| 49 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
+| 48 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
+| 49 | [Under and Over It](https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:38 |
 | 50 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
 | 51 | [Feuer frei!](https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 3:08 |
 | 52 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 61 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
 | 62 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
 | 63 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
-| 64 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
-| 65 | [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 |
+| 64 | [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 |
+| 65 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
 | 66 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 |
 | 67 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
 | 68 | [Cloud Connected](https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Reroute to Remain](https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh) | 3:40 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 109 | [Keep Your Distance](https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe) | [The Other Side](https://open.spotify.com/album/6wkTgZzU6KpCazo4vJInGH) | 2:51 |
 | 110 | [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 |
 
-Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMDViZjgzM2NmMTk3MWY3YzZkOGI2YWI2M2Y1ZTBiYTdh`
+Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMDM4M2FjNjdjNmU0ODA4NmYxMzU3YzI5YWVkYjZjOTdk`

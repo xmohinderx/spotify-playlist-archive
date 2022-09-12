@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. In cover, Nerone.
 
-215 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
+216 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Giorni matti \(feat\. Ape, Zampa\)](https://open.spotify.com/track/0rn3RZZWJz10OQts57pnX9) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Ape](https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM), [Zampa](https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8) | [Classe 73](https://open.spotify.com/album/5ojuD49ScbKa49NyxyaqMx) | 3:42 | 2022-05-05 |  |
 | [Grande](https://open.spotify.com/track/12IMXVPVItGGUCPckxOjPl) | [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [La rivincita dei buoni](https://open.spotify.com/album/6zE5zYm0iIQ0eRlXBIYF92) | 4:35 | 2022-05-05 | 2022-07-28 |
 | [Guardie&Ladri \(feat\. Nayt\)](https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 2:59 | 2022-05-12 |  |
-| [Guerra E Pace](https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Chico Mdee](https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek), [Anna Marotta](https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr) | [107 Elementi](https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o) | 4:53 | 2022-05-05 |  |
+| [Guerra E Pace](https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Chico Mdee](https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek), [Anna Marotta](https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr) | [107 Elementi](https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o) | 4:53 | 2022-05-05 | 2022-09-12 |
 | [Hashishin](https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp) | [Lanz Khan](https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL), [Weirdo](https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6), [DJ Lil Cut](https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Luigi XVI](https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs) | 3:05 | 2022-09-09 |  |
 | [Hashishin \(feat\. Axos\)](https://open.spotify.com/track/0uOVYFcPUSqp3i5o6KGv5L) | [Lanz Khan](https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Luigi XVI](https://open.spotify.com/album/2UUL2KiO5wsQxH4GWpPgnR) | 3:03 | 2022-05-05 | 2022-08-30 |
 | [Il 6° Senso](https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [kARMA](https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N) | 3:58 | 2022-06-02 | 2022-07-26 |
@@ -84,6 +84,7 @@
 | [Il cielo su Roma](https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Scienza Doppia H](https://open.spotify.com/album/3u4WgJNCy0yd3nToIOpCjo) | 4:48 | 2022-07-28 |  |
 | [Il cielo su Roma](https://open.spotify.com/track/4mrWDWjC6Y9dnIMPxgIoYv) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Scienza Doppia H](https://open.spotify.com/album/6iP6Jd4qxKDuZix6wu7dVk) | 4:48 | 2022-05-05 | 2022-07-29 |
 | [Il mare](https://open.spotify.com/track/3EJYbCaCVlBp5NyJA4hpNb) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Il mare](https://open.spotify.com/album/2zpk2E75vc1zFbhUrsMx1E) | 3:38 | 2022-05-12 | 2022-07-24 |
+| [Il Mio Giorno Migliore](https://open.spotify.com/track/18Mm631s6Vr11mYyAJYL9A) | [Al Castellana](https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Il Mio Giorno Migliore](https://open.spotify.com/album/6ALhJ6zXjLDaiuy4OU2TjW) | 4:49 | 2022-09-09 |  |
 | [Incubi](https://open.spotify.com/track/70bR9llwrqj7jAeAYtNAsq) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4) | [Incubi](https://open.spotify.com/album/3fZ7dqVr0vlpMBC9wR64pD) | 9:59 | 2022-05-05 | 2022-07-29 |
 | [Int 'o Rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi More pe' Mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 | 2022-05-12 |  |
 | [Invisibili \(feat\. Claver Gold\)](https://open.spotify.com/track/0mCZ8kuH5wRZ1t7sovDDxf) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \- Episodio Tre](https://open.spotify.com/album/3Rk9Z7j5nAzPSmg0OHPSSo) | 2:50 | 2022-05-12 | 2022-07-27 |

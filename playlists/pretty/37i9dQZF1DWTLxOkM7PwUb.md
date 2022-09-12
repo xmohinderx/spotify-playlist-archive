@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,014 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,053 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 35 | [INESTABLE](https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3) | 2:28 |
 | 36 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
 | 37 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 |
-| 38 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
-| 39 | [GPS \(feat\. French Montana\)](https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [GPS \(feat\. French Montana\)](https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q) | 3:36 |
+| 38 | [GPS \(feat\. French Montana\)](https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [GPS \(feat\. French Montana\)](https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q) | 3:36 |
+| 39 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
 | 40 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 41 | [Cerca de ti \(feat\. Rusherking, Bhavi, Tobi\) \- Remix](https://open.spotify.com/track/7ifCZvsDAyzveOHqUYbrpz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Cerca de ti \(feat\. Rusherking, Bhavi, Tobi\) \[Remix\]](https://open.spotify.com/album/6vrYsaL806YXpu93pEqFY3) | 4:01 |
 | 42 | [Si Te Vas](https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Te Vas](https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
 | 100 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
 
-Snapshot ID: `MTY2MjM5MTU5OCwwMDAwMDAwMDNlNjZjZmNhMzc0YjM1MTVkZTU0YzVmNWQ0ZmJjYTk2`
+Snapshot ID: `MTY2MjM5MTU5OCwwMDAwMDAwMDY3NDFiYjFlNzk0MzZhNGFiNDQ4MzcyMGNjNTlhNjlk`

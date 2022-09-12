@@ -1,12 +1,12 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2731492,
+  "num_followers": 2731985,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGUyMGJkYjZhYzc2YjkxNTQyM2IwYzk0OWVjNzQzZWJj",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGFlNzdmYzY0NDA2ZGJiODcyMDBiMTlmNmQ0ODJkZDg1",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -707,6 +707,30 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        }
-      ],
-      "duration_ms": 184732,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -787,26 +787,26 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Sweet Talker (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
         }
       ],
-      "duration_ms": 199386,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+      "duration_ms": 184732,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "AV\u012aCI (01)",
-        "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 181672,
-      "name": "Without You (feat. Sandro Cavazza)",
-      "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "boyfriend",
         "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 186106,
       "name": "boyfriend (with Social House)",
       "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "AV\u012aCI (01)",
+        "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 181672,
+      "name": "Without You (feat. Sandro Cavazza)",
+      "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 204013,
       "name": "Fight Song",
       "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "You Need To Calm Down",
-      "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+      "duration_ms": 171360,
+      "name": "You Need To Calm Down",
+      "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
     },
     {
       "added_at": "2022-06-30 22:02:00",

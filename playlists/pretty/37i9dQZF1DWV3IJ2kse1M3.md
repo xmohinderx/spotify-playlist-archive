@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>怎麼先熾熱的卻先變冷了，慢熱的卻停不了還在沸騰著。
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,184 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,206 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 24 | [楓](https://open.spotify.com/track/2YzJaHvzsEb1LzGugXIduK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 4:35 |
 | 25 | [像魚](https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S) | [王貳浪](https://open.spotify.com/artist/6jNRSV0cd0kL5Tfz6JPxZA) | [像魚](https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v) | 4:45 |
 | 26 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
-| 27 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
-| 28 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
+| 27 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
+| 28 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
 | 29 | [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 |
 | 30 | [最長的電影](https://open.spotify.com/track/6C9w3NKP7yKqGLBP09iEL4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY) | 3:55 |
 | 31 | [人質](https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我要快樂 \(Deluxe Version\)](https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 49 | [如果沒有你](https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [如果沒有你](https://open.spotify.com/album/67rYAc50qw4Da0Rp2PavMK) | 4:47 |
 | 50 | [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 |
 
-Snapshot ID: `MTY1NDA0Nzg4OSwwMDAwMDAwMDAwZTgzODM2NjNlY2FlMzY3Nzc1M2JmM2E0MDRiYTNm`
+Snapshot ID: `MTY1NDA0Nzg4OSwwMDAwMDAwMDhiNDBlZTYyOGE2NDg5MmY1YmZlMjNhYTQ1M2QzNmE0`

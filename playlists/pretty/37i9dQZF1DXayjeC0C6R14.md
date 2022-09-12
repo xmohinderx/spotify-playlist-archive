@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,321 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,386 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 2 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 |
-| 3 | [No Te Apartes de Mí](https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico 5](https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky) | 3:18 |
+| 3 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 |
 | 4 | [Te Robaste Mi Corazón](https://open.spotify.com/track/4rz1uz4tBkNIQzLqse6w9D) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Robaste Mi Corazón](https://open.spotify.com/album/7y1Yb6yojBy210n7Ha8DRR) | 3:40 |
-| 5 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 |
+| 5 | [No Te Apartes de Mí](https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico 5](https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky) | 3:18 |
 | 6 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 |
 | 7 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 |
 | 8 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 34 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 |
 | 35 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 36 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 |
-| 37 | [Atado a un Sentimiento](https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 3:17 |
-| 38 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
+| 37 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
+| 38 | [Atado a un Sentimiento](https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 3:17 |
 | 39 | [Viviré para Ti](https://open.spotify.com/track/2urjF7QhprjmNRK2aqLnxE) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:27 |
 | 40 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
 | 41 | [Sol de Medianoche](https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 49 | [Llamame, Si Me Necesitas](https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:29 |
 | 50 | [El Oasis](https://open.spotify.com/track/0QnqvWRqa5SGHBw1F8EFgM) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:47 |
 
-Snapshot ID: `MTY2MDA2NTUzNywwMDAwMDAwMDE0ZjcyN2E3ZjkzZGIxZmYyMTUwZTg1YWU3ZmI5N2Zl`
+Snapshot ID: `MTY2MDA2NTUzNywwMDAwMDAwMDc1OTRmZGZhYWE2MGJlM2RkNTczZDIxMzQ0NzJlMGNk`

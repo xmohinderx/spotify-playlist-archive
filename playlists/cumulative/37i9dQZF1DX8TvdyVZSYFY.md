@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-407 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/15USUzNR9YKdH5WRjqJCtH)
+408 songs - 1 day 0 hr 13 min - [published](https://open.spotify.com/playlist/15USUzNR9YKdH5WRjqJCtH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2021-07-29 |  |
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 | 2021-03-09 |  |
 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 | 2021-03-09 |  |
-| [Demons \- Live London Sessions / 2013](https://open.spotify.com/track/1Jle5IfWWuetgt8fvW2Q69) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Live London Sessions\)](https://open.spotify.com/album/2RQtDABXELc8EqB7pujcEi) | 3:07 | 2022-01-10 |  |
+| [Demons \- Live London Sessions / 2013](https://open.spotify.com/track/2nwYodyzUBEAfqzzyQXoGx) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Expanded Edition / Super Deluxe\)](https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh) | 3:07 | 2022-01-10 |  |
+| [Demons \- Live London Sessions / 2013](https://open.spotify.com/track/1Jle5IfWWuetgt8fvW2Q69) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Live London Sessions\)](https://open.spotify.com/album/2RQtDABXELc8EqB7pujcEi) | 3:07 | 2022-01-10 | 2022-09-12 |
 | [Demons \- Live London Sessions / 2013](https://open.spotify.com/track/4Y2ZHikCR0EApcIR3cdCdj) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Live London Sessions\)](https://open.spotify.com/album/1L8DJDaKjKVfsXb26o9wRQ) | 3:07 | 2021-03-09 | 2022-07-29 |
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2021-03-09 |  |
 | [Diamonds](https://open.spotify.com/track/1xFsUSKR7r6B2kOyWjqLHV) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Diamonds](https://open.spotify.com/album/4pANGdgJmTNkQbPgs7Zw4Q) | 3:09 | 2021-03-09 |  |

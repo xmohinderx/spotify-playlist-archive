@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,241 likes - 106 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,303 likes - 106 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

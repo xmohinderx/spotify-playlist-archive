@@ -4,7 +4,7 @@
 
 > Acuérdate de estas canciones clásicas\. Foto: Wisin & Yandel, el Dúo de la Historia.
 
-342 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+343 songs - 20 hr 44 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Besos Mojados](https://open.spotify.com/track/0cpzO8YjhyR8JfLzfm5cOr) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolución \- Evolution \(International Version\)](https://open.spotify.com/album/7CCfcuCn7J3dvHYziLI4T1) | 4:24 | 2021-12-17 | 2022-07-29 |
 | [Bien Loco](https://open.spotify.com/track/4ObjArCiona7v0xbZ83rUZ) | [Nova y Jory](https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V) | [Bien Loco](https://open.spotify.com/album/6IgRN2hP7uOTeZmL7np7Kd) | 3:38 | 2021-12-17 |  |
 | [Blue Zone](https://open.spotify.com/track/54qJreodUijhQWqnsJDI8Q) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [iDon](https://open.spotify.com/album/0GfdLiEs9KzWGSkkmLvO1I) | 3:31 | 2021-12-17 | 2022-07-29 |
-| [Cae la Noche](https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:58 | 2021-12-17 |  |
+| [Busco una Mujer](https://open.spotify.com/track/4j0E4Ir45e3EddzqcjL20b) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Guanabanas](https://open.spotify.com/artist/65PHKFCs7HHGUXdOlqHwvK) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:33 | 2022-09-01 |  |
+| [Cae la Noche](https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:58 | 2021-12-17 | 2022-09-12 |
 | [Caile](https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 3:11 | 2021-12-17 |  |
 | [Calentamiento](https://open.spotify.com/track/0qdtqLSltKJK7TXtXca2zr) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw) | [El Tsunami](https://open.spotify.com/album/04P2E4ZJalvqAZGeQCI2OB) | 3:38 | 2022-07-27 |  |
 | [Cantinero](https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Cantinero](https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1) | 3:41 | 2022-05-13 | 2022-06-09 |

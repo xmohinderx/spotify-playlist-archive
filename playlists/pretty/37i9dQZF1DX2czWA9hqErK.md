@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,754 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,821 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,17 +43,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 33 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 |
 | 34 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 |
 | 35 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 |
-| 36 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 |
-| 37 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 |
+| 36 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 |
+| 37 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 |
 | 38 | [Take My Hand](https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n) | 3:59 |
-| 39 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 |
-| 40 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
+| 39 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
+| 40 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 |
 | 41 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 |
 | 42 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 |
 | 43 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 44 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 |
-| 45 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
-| 46 | [Crisis](https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 3:09 |
+| 45 | [Crisis](https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 3:09 |
+| 46 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
 | 47 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 |
 | 48 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
 | 49 | [Warm](https://open.spotify.com/track/2DCTvd3tTAfyg0a1to4STY) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/0j1wU0GZ4LbqqXxiYQN2Jn) | 3:03 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 61 | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey) | 3:24 |
 | 62 | [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 |
 | 63 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 |
-| 64 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
-| 65 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 |
+| 64 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 |
+| 65 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
 | 66 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
 | 67 | [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 |
-| 68 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 |
-| 69 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
+| 68 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
+| 69 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 |
 | 70 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 |
 | 71 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 |
 | 72 | [Hero](https://open.spotify.com/track/5TMAescvs6Z6FlgQjfj3Vp) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Hero](https://open.spotify.com/album/7pFWRKpjaEFnX0gJSVQMIO) | 3:13 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 74 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 |
 | 75 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 |
 | 76 | [Give You Love](https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Give You Love](https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0) | 3:38 |
-| 77 | [Alone](https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Alone](https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4) | 3:25 |
-| 78 | [Jealous](https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9) | 3:54 |
+| 77 | [Jealous](https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9) | 3:54 |
+| 78 | [Alone](https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Alone](https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4) | 3:25 |
 | 79 | [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 |
-| 80 | [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 |
+| 80 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 |
 
-Snapshot ID: `MTY1OTQ1NzIxNiwwMDAwMDAwMDBkYTkwZTJiMGUwOTA3YWI2NzYzM2YwYWJlYjBkNzIy`
+Snapshot ID: `MTY1OTQ1NzIxNiwwMDAwMDAwMGM2MDUzNDIxMDY5MWEzYjliMDFlYTcyZGNjYjA3OWEx`

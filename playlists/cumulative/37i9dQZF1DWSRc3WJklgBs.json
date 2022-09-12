@@ -17902,6 +17902,28 @@
     },
     {
       "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1hxF3FkEkDPoRHfkghEdjw"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/1pwdgZDc9u1jeoMNLdaMJk"
       },
@@ -17917,7 +17939,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 186400,
       "name": "The One",
       "url": "https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp"

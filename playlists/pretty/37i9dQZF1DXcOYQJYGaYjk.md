@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Papa Roach
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,862 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,847 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 40 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 41 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
 | 42 | [Pet](https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:34 |
-| 43 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
-| 44 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
+| 43 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
+| 44 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 45 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 |
 | 46 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
 | 47 | [Low](https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Pressure](https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP) | 3:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 69 | [The Sinner](https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 4:02 |
 | 70 | [Heart Of Fire](https://open.spotify.com/track/7ej1r1ngI0fAYBHfGtwi7Y) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Black Veil Brides](https://open.spotify.com/album/4TZA3mmUxcMwinJFCg5M1H) | 3:21 |
 
-Snapshot ID: `MTY2MDMyNTk2MCwwMDAwMDAwMDZmMjQ2ZWUyMGQ1OTg0NjQyMGZjOGI5MzE3OTljYjA5`
+Snapshot ID: `MTY2MDMyNTk2MCwwMDAwMDAwMGNhMWNkNDdjYzUxNTY3OGRlNjZhNDgyYmI5ZTZmMmJj`

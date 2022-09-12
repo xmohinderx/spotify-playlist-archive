@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 
 > Si estuviésemo' en el kínder te enviaba cartita'...
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 | 9 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 |
 | 10 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 |
 | 11 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
-| 12 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 |
-| 13 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
+| 12 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
+| 13 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 |
 | 14 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 |
 | 15 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
 | 16 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 | 49 | [Amándote](https://open.spotify.com/track/0FpOSszlI29MFCyzTjCSXb) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Amándote](https://open.spotify.com/album/2uVA35O8O1eqJtCjI3c1KY) | 2:51 |
 | 50 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
 
-Snapshot ID: `MTY2MjM5NzI0MywwMDAwMDAwMGZiNDFkNjA5MTc4MzhhMzBjNGJjNTIxNmY2YTY2NDFk`
+Snapshot ID: `MTY2MjM5NzI0MywwMDAwMDAwMDlkMDVmNmVkZTE4OWQ3Mzc1YmMyNTVhMzI0ODhjYzI0`

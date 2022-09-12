@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Iqlipse Nova, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,694 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,732 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

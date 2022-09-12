@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-185 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
+186 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/2xEYlodwFsYYobn5qckSqi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Delia Derbyshire](https://open.spotify.com/track/10XqHuEZdzhpW0zuzDja4M) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/7IziEb0NfH22cwJtFxGvMt) | 6:10 | 2021-10-27 | 2022-07-29 |
 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 | 2021-10-27 |  |
 | [Der Luftbusen des kleinen Fritz](https://open.spotify.com/track/4nUFTEaSnWyyIr3GYbtbAB) | [Ditterich von Euler\-Donnersperg](https://open.spotify.com/artist/0OgIuiKHzwJK7tSZN3TcP7) | [Weisheit aus des Kindes Mund tut uns stets die Wahrheit kund](https://open.spotify.com/album/28dWBubs4Bm3Xp2yKFQVi8) | 5:01 | 2021-10-27 | 2022-07-29 |
+| [Dero](https://open.spotify.com/track/25HisYhsb9dXkcFQJC7FgL) | [Heith](https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy) | [Dero](https://open.spotify.com/album/1acIsjkwiQqk74P1HImtjo) | 4:37 | 2022-09-11 |  |
 | [Die Dosis macht das Gift](https://open.spotify.com/track/0xq0GbMjRnrKfTV9fw02fR) | [ToiToiToi](https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De) | [Intermission](https://open.spotify.com/album/0rm9V0EQIpQyHi0X7zRswR) | 4:13 | 2021-10-27 | 2022-07-29 |
 | [Echo Lake](https://open.spotify.com/track/4huXXKJvjyEpsAYd2IrhfY) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [All The Mirrors In The House \[Home Recordings 1979 \- 1986 Volume 1\]](https://open.spotify.com/album/1p3jAwtkoUsHXaW4jcanVV) | 3:43 | 2021-10-27 | 2022-07-28 |
 | [Eulogy](https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 3:39 | 2021-10-27 |  |
@@ -148,7 +149,7 @@
 | [The Assistant \(Marten\)](https://open.spotify.com/track/7uFE0yDqQd5TidEqrqiv6E) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(I\)](https://open.spotify.com/album/40xczYiXnO5hCLrvhldF73) | 3:33 | 2022-04-06 | 2022-09-10 |
 | [the be colony](https://open.spotify.com/track/66tkKvIRiNOVuZ4VLQRquL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU), [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age](https://open.spotify.com/album/43Y7JtQBJlB8wwMypodS6S) | 4:31 | 2021-10-27 |  |
 | [The Beach At Redpoint](https://open.spotify.com/track/7IFLsGyxJUX4cCWauaWG6U) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 4:18 | 2021-10-27 |  |
-| [The Black Drop](https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i) | [Mount Vernon Arts Lab](https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY) | [Séance at Hobs Lane](https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6) | 3:13 | 2021-10-27 |  |
+| [The Black Drop](https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i) | [Mount Vernon Arts Lab](https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY) | [Séance at Hobs Lane](https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6) | 3:13 | 2021-10-27 | 2022-09-12 |
 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 | 2021-10-27 |  |
 | [The Burned Wretch](https://open.spotify.com/track/6AHp595UrB4D6oORflyENV) | [IX Tab](https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT) | [The Outer Church](https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP) | 5:27 | 2021-10-27 | 2022-07-29 |
 | [The First I love You](https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:26 | 2021-10-27 |  |

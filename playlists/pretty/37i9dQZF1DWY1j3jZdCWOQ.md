@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > A "screw this" type beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,535 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,885 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 39 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
 | 40 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
 | 41 | [The Drug In Me Is You](https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:38 |
-| 42 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
-| 43 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
+| 42 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
+| 43 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
 | 44 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 |
 | 45 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 46 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 49 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 |
 | 50 | [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB) | 3:40 |
 
-Snapshot ID: `MTY2Mjc1ODIzMSwwMDAwMDAwMGIzM2YwNjI0NWQ5MDU1MWE1YjEzODljZGIyNzIzYmRh`
+Snapshot ID: `MTY2Mjc1ODIzMSwwMDAwMDAwMDBiZmUwZGYzYTMyZGQ5ZmNkZmU3MjZhOWFhYTg2YWEx`

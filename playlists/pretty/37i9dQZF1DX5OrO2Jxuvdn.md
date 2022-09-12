@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,476 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,543 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 27 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 28 | [Parachute](https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:13 |
 | 29 | [She's Country](https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:40 |
-| 30 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
-| 31 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
+| 30 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
+| 31 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
 | 32 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 |
 | 33 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 |
 | 34 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 60 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
 | 61 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
 | 62 | [Break Up with Him](https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:27 |
-| 63 | [Summer Nights](https://open.spotify.com/track/2F08d4KocfOdWhn7aK3gDI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unstoppable](https://open.spotify.com/album/6xDwYyGCOkD2t9GuBikEL8) | 4:02 |
-| 64 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
-| 65 | [Honky Tonk Badonkadonk](https://open.spotify.com/track/5iDfnRTdV2mrvMK886TLRg) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Songs About Me](https://open.spotify.com/album/3XWgiQQ5dMilsbpKDWmzSA) | 4:01 |
+| 63 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
+| 64 | [Honky Tonk Badonkadonk](https://open.spotify.com/track/5iDfnRTdV2mrvMK886TLRg) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Songs About Me](https://open.spotify.com/album/3XWgiQQ5dMilsbpKDWmzSA) | 4:01 |
+| 65 | [Summer Nights](https://open.spotify.com/track/2F08d4KocfOdWhn7aK3gDI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unstoppable](https://open.spotify.com/album/6xDwYyGCOkD2t9GuBikEL8) | 4:02 |
 | 66 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
 | 67 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 68 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 99 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |
 | 100 | [Hell Of A Night](https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:10 |
 
-Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMDVkY2Y3ZDE4Mzg4YzFmMTgxOTcwMjI3MGYyYTU2YTJi`
+Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMGZlNjg1MTZjYzlkZjkxMWFjZWExMWMxNDEzNDIzYjM1`

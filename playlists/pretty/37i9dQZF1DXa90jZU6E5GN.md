@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > a little glitter never hurt anyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,612 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,745 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 39 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 |
 | 40 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
 | 41 | [Fancy](https://open.spotify.com/track/0FtV0YbnnjD7PXpLHFHPhn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Rumor Has It](https://open.spotify.com/album/5XrjQp24z8Pr5dsB1SnsIQ) | 4:59 |
-| 42 | [Woman \(feat\. The Dap\-Kings Horns\)](https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:16 |
-| 43 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
-| 44 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
-| 45 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
+| 42 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
+| 43 | [Woman \(feat\. The Dap\-Kings Horns\)](https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:16 |
+| 44 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
+| 45 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 46 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
 | 47 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 |
 | 48 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 74 | [Blame It on Your Heart](https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 3:33 |
 | 75 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 |
 
-Snapshot ID: `MTY1NTkyMDk1MSwwMDAwMDAwMDVhNDllZTk1MGY5ZjkwNDcxY2ZjNGZhZmRjOWQ4ODAy`
+Snapshot ID: `MTY1NTkyMDk1MSwwMDAwMDAwMGVmYTllNTg0OWNiNTJmYThjZjZlMWFkMDI2OGIzZTQ3`

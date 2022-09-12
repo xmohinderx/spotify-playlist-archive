@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,636 likes - 70 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,034 likes - 70 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 39 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 40 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 41 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
-| 42 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
-| 43 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
-| 44 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
-| 45 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
+| 42 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
+| 43 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
+| 44 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
+| 45 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 46 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 47 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 48 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 69 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
 | 70 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
 
-Snapshot ID: `MTY2MjEwMjk5MSwwMDAwMDAwMDQ1YzU1OTExYjI2Y2I2MzNjYjZkYTNhZTE1NTEyMWM5`
+Snapshot ID: `MTY2MjEwMjk5MSwwMDAwMDAwMGNjYzBkMjZjYzcyMGY4OTE0ZDM4MDZhZTJhOGY5MzAx`

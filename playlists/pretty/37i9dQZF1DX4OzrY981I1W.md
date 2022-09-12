@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 
 > every main character needs their soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745,611 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,901 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 16 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 17 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 18 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 |
-| 19 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
-| 20 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
+| 19 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 |
+| 20 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
 | 21 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
 | 22 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
 | 23 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
-| 24 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 |
+| 24 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 25 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 26 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 27 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 58 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 59 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
 | 60 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
-| 61 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 61 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 |
 | 62 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
-| 63 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
-| 64 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
-| 65 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 |
+| 63 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 64 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
+| 65 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
 | 66 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 67 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 |
 | 68 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 89 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 |
 | 90 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 91 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
-| 92 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |
-| 93 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
-| 94 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
+| 92 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
+| 93 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |
+| 94 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
 | 95 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 96 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 |
 | 97 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 99 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 100 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
 
-Snapshot ID: `MTY2Mjc0Nzk5MSwwMDAwMDAwMGQyMjlmNzZjNjEyMGFkMjdhZjVhYjQ2MzRmMTBjY2Q3`
+Snapshot ID: `MTY2Mjc0Nzk5MSwwMDAwMDAwMDRjZTkyZDUyYjRmZjRhNjRkYzRhZWUwNzgzMjE4MTFh`

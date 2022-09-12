@@ -4,7 +4,7 @@
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-308 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+309 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 | 2021-05-07 | 2022-04-18 |
 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-12 |  |
 | [Meru](https://open.spotify.com/track/0g6ETeguyh9nVpvXunhCzb) | [Gil Zambrano](https://open.spotify.com/artist/0unsoQpK3DQyCnKzWcDfJ0) | [Meru](https://open.spotify.com/album/6nvbxjQkkmoKSFs31HhhHu) | 3:52 | 2021-05-07 | 2022-06-30 |
+| [Midnight](https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Midnight / Equal](https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU) | 8:00 | 2022-08-26 |  |
 | [Miracles](https://open.spotify.com/track/3BaywzVZGn8Z1kmVGUvmCz) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Miracles](https://open.spotify.com/album/5TUntnLcRe7YdSjrVQFOoF) | 3:03 | 2021-05-07 | 2022-05-16 |
 | [Monkey & Disorder](https://open.spotify.com/track/7JCFsXGVsFPEhzvTkdjFsf) | [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ) | [Prélude](https://open.spotify.com/album/6bbYm4X9iwpNE1BIjtuAkd) | 6:07 | 2021-05-07 | 2022-04-21 |
 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2021-05-07 | 2022-08-14 |
@@ -311,7 +312,7 @@
 | [Welcome to the New ISS](https://open.spotify.com/track/1id8NiNXh8C6WfQjnVd2RW) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick), [1Planet](https://open.spotify.com/artist/2SicE6NIltXyozzT8sUnaS) | [Welcome to the New ISS](https://open.spotify.com/album/6kb2y0tpZzeAMtloBJthU5) | 5:28 | 2021-05-07 | 2022-04-21 |
 | [Win Win \- Yotto Remix](https://open.spotify.com/track/6n8Rao9bqH5zQnXiY6d7tr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Win Win \(Yotto Remix\)](https://open.spotify.com/album/0lMeXS3yHep1snwNDuBKNG) | 4:03 | 2021-05-07 | 2022-04-21 |
 | [Womaa](https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9) | [Womaa](https://open.spotify.com/album/63709yULZc1XOJXhPeudYZ) | 6:51 | 2021-05-07 | 2022-07-29 |
-| [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 |  |
+| [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 | 2022-09-12 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 |  |
 | [Your Eyes](https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes](https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS) | 3:39 | 2021-12-10 | 2022-07-29 |
 | [Your Mind \- Epic Edit](https://open.spotify.com/track/58MI1jBCURLQ9BIUlOsUSP) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind](https://open.spotify.com/album/1Vm1f8irxwi2mkr3CZlFm4) | 3:36 | 2022-09-02 |  |

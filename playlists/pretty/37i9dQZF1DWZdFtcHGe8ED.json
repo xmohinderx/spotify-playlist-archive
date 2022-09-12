@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Slayer",
-  "num_followers": 473805,
+  "num_followers": 473872,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyODQwMCwwMDAwMDAwMDQxYTkwY2RhY2ExNGU5ZTA0ZGIzYzNmNWZiOWUwODY3",
+  "snapshot_id": "MTY2MjcyODQwMCwwMDAwMDAwMDhjMjM1OGM1YjdiMzc3ZjFkMzAwMjliNzU5YmE0ZmEy",
   "tracks": [
     {
       "added_at": "2022-09-09 13:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Cycle of Suffering",
-        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "I Sever",
-      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 225800,
       "name": "Start the Fire",
       "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Cycle of Suffering",
+        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "I Sever",
+      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Worlds Torn Asunder",
-        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
-      },
-      "artists": [
-        {
-          "name": "Warbringer",
-          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Living Weapon",
-      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "No Absolution",
         "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 250253,
       "name": "No Absolution",
       "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Worlds Torn Asunder",
+        "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
+      },
+      "artists": [
+        {
+          "name": "Warbringer",
+          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Living Weapon",
+      "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Convicted",
-        "url": "https://open.spotify.com/album/7mHgdfVzpEFJ3w5ZMM1Ehv"
-      },
-      "artists": [
-        {
-          "name": "Cryptic Slaughter",
-          "url": "https://open.spotify.com/artist/20ml1U2ibB2HPnPpWrJIKT"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Ahi K\u0101",
         "url": "https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "The Wings of War",
-        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
+        "name": "Convicted",
+        "url": "https://open.spotify.com/album/7mHgdfVzpEFJ3w5ZMM1Ehv"
       },
       "artists": [
         {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+          "name": "Cryptic Slaughter",
+          "url": "https://open.spotify.com/artist/20ml1U2ibB2HPnPpWrJIKT"
         }
       ],
-      "duration_ms": 349386,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
+      "duration_ms": 152280,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "The Wings of War",
+        "url": "https://open.spotify.com/album/2IUZN5c0AVdrnQKfxdMaPK"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 349386,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "666-Pack",
         "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Electrified Brain",
-        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Crank The Heat",
-      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Darkness Descends",
         "url": "https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 347093,
       "name": "Darkness Descends",
       "url": "https://open.spotify.com/track/1zI8yKFcmjtgdFbEoTHn94"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Electrified Brain",
+        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Crank The Heat",
+      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Eternal Nightmare",
-        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Eternal Nightmare",
-      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 384853,
       "name": "Through Eyes of Glass",
       "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Eternal Nightmare",
+        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
+      },
+      "artists": [
+        {
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
+        }
+      ],
+      "duration_ms": 370400,
+      "name": "Eternal Nightmare",
+      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Blood in the Water",
-        "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Reaggression",
-      "url": "https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
         "url": "https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 229580,
       "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
       "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Blood in the Water",
+        "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Reaggression",
+      "url": "https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "No Place For Disgrace",
+        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 373013,
+      "name": "No Place for Disgrace",
+      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "Generation Antichrist",
         "url": "https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj"
       },
@@ -1783,18 +1799,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "No Place For Disgrace",
-        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
+        "name": "Infernal Overkill",
+        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
       },
       "artists": [
         {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
         }
       ],
-      "duration_ms": 373013,
-      "name": "No Place for Disgrace",
-      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
+      "duration_ms": 276106,
+      "name": "Bestial Invasion",
+      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1811,22 +1827,6 @@
       "duration_ms": 254826,
       "name": "Certain Death",
       "url": "https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Infernal Overkill",
-        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Bestial Invasion",
-      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
     },
     {
       "added_at": "2022-09-09 13:00:00",

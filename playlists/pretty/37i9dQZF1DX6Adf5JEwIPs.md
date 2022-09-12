@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Los Gemelos de Sinaloa
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,572 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,601 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

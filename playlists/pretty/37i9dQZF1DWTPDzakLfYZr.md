@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,226 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,425 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,542 likes - 93 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,592 likes - 93 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

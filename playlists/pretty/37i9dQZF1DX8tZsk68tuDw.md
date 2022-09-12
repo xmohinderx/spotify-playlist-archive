@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Eliza Rose.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,994,140 likes - 97 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994,306 likes - 97 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

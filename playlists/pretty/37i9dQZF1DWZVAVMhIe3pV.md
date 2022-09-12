@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,393 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,767 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 28 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 29 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
 | 30 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
-| 31 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
-| 32 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
+| 31 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
+| 32 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
 | 33 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
 | 34 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
 | 35 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 70 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
 | 71 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 |
 | 72 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
-| 73 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
-| 74 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
+| 73 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
+| 74 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
 | 75 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 |
 | 76 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
 | 77 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 84 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 85 | [Falling Away from Me](https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 4:30 |
 | 86 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 |
-| 87 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 |
-| 88 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 |
+| 87 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 |
+| 88 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 |
 | 89 | [Black Betty](https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [Ram Jam](https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD) | 3:58 |
 | 90 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
 | 91 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
-| 92 | [Hero](https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:06 |
-| 93 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
-| 94 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
+| 92 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
+| 93 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
+| 94 | [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 |
 | 95 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
 | 96 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
-| 97 | [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 |
+| 97 | [Hero](https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:06 |
 | 98 | [Rooster](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 |
 | 99 | [Rock N Roll Train](https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 4:21 |
 | 100 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 
-Snapshot ID: `MTY1OTQzNjc3NywwMDAwMDAwMDJiNWM2ZjUzZWU0ODU3OTA2ZGQwNzVmZDdlYmNlOGMz`
+Snapshot ID: `MTY1OTQzNjc3NywwMDAwMDAwMGI2NDczNDM2MTlmZmQ1NzI5OWI5NTNkNDg1Y2Q3NGM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > Slow burners for late nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,263 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,947 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 26 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 |
 | 27 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 |
 | 28 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 |
-| 29 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 |
-| 30 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
+| 29 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
+| 30 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 |
 | 31 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 32 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 33 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 |
 | 34 | [Preoccupied](https://open.spotify.com/track/6N4WUdbz6HVKy6u6JX1KqK) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:59 |
 | 35 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 36 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
-| 37 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
+| 37 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
 | 38 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
-| 39 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
+| 39 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 40 | [Puddles](https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Puddles](https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM) | 1:49 |
 | 41 | [Cherry](https://open.spotify.com/track/4sRmzVSedvFkENbSJ342Ex) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Cherry \(Deluxe\)](https://open.spotify.com/album/6OqegZkCUq29CJarqL8trP) | 4:31 |
 | 42 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 44 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
 | 45 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 46 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
-| 47 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 |
-| 48 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 |
-| 49 | [Slacks](https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3) | 3:26 |
+| 47 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 |
+| 48 | [Slacks](https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3) | 3:26 |
+| 49 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 |
 | 50 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 |
 | 51 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
 | 52 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 74 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 |
 | 75 | [Drunk](https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Drunk](https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7) | 3:11 |
 
-Snapshot ID: `MTY2Mjc0OTYwMSwwMDAwMDAwMDJhMDExNDZhNjdhYmU0NDI5ZGIzYzJjNGIzMjM1YmJi`
+Snapshot ID: `MTY2Mjc0OTYwMSwwMDAwMDAwMDZmMWEyMjQ5M2I2ZDBmZTg2ODZiMGFiYjA3OGJmNGM2`

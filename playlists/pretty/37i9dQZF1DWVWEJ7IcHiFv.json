@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 89804,
+  "num_followers": 89843,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDJlMmMwNjhiOWRjZjc4ZDRhMTBlZTE3ZmY5MjFlZTgx",
+  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDY3OTgxYTEyOTgwYzIwNWIxNGRmMGI0NDM1OWJlMDc0",
   "tracks": [
     {
       "added_at": "2022-08-31 07:27:49",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 161440,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Que Hago Aqu\u00ed?",
-        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Dr. Psiquiatra",
-      "url": "https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "No Es Pecado -Remasters",
         "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 205306,
       "name": "A qui\u00e9n le importa",
       "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Que Hago Aqu\u00ed?",
+        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Dr. Psiquiatra",
+      "url": "https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY"
     },
     {
       "added_at": "2022-08-31 07:27:49",

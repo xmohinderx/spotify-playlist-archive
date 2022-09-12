@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Måneskin
 
-110 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
+111 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Bed Head](https://open.spotify.com/track/5yqYLlMg2c0J883O33QuqA) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 4:04 | 2021-12-01 |  |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-01 | 2022-07-29 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2021-12-01 |  |
-| [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2021-12-01 |  |
+| [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2021-12-01 | 2022-09-12 |
 | [Broken Heart of Gold](https://open.spotify.com/track/5DLqCKIi1lquKvGTIjlf6I) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/5cL6DxdZ1QRc9VlFkEZdXT) | 4:13 | 2021-12-01 | 2022-07-29 |
+| [Broken Heart of Gold \- Japanese Version](https://open.spotify.com/track/6p7w2b3OeUd5uG6WsSVSwE) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 4:13 | 2021-12-01 |  |
 | [Control](https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Control](https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG) | 3:15 | 2021-12-01 |  |
 | [Crawling Kingsnake](https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 6:08 | 2021-12-01 |  |
 | [Dad Vibes](https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:12 | 2021-12-01 |  |
