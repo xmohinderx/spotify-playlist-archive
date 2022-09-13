@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,666 likes - 71 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,768 likes - 72 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,17 +67,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 57 | [Phantom Pain II](https://open.spotify.com/track/2HLymJLrqUZjh9eiS3grD3) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Phantom Pain](https://open.spotify.com/album/2kM4gSqUX2rwG8QB8uzlD3) | 4:30 |
 | 58 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
 | 59 | [Bucket Hat Remix](https://open.spotify.com/track/0FMxWnQmpkrqkRajdRovVc) | [Khristo](https://open.spotify.com/artist/2oS5omVcA1G6YbOPMn6CTn), [Angelo Reeves](https://open.spotify.com/artist/69PtiuIXUHBwxTaRDLsli7), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bucket Hat Remix](https://open.spotify.com/album/2CZzEk6mU1kE73qAAB1tKC) | 3:37 |
-| 60 | [El Regalo Más Bonito](https://open.spotify.com/track/7gMaQvTSfutFSWkmhIgwOb) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [El Regalo Más Bonito](https://open.spotify.com/album/4gW7DEcLPYdfGHmDYiyGWm) | 3:22 |
-| 61 | [Cruel](https://open.spotify.com/track/4m2A5OHjj4RDMrX5ZRw2MZ) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Cruel](https://open.spotify.com/album/6QySmEGrl5YPwnaXhHc8kx) | 3:00 |
-| 62 | [VOLVIÓ A LATIR](https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Chila Jatun](https://open.spotify.com/artist/1pbcskpK1qePXm3sYvYu4o) | [VOLVIÓ A LATIR](https://open.spotify.com/album/0AtMFNvWJk3z2FKnunBUz9) | 3:49 |
-| 63 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 |
-| 64 | [No Dudo](https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [No Dudo](https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA) | 3:20 |
-| 65 | [Maldita Actitud](https://open.spotify.com/track/5JB1a5AXqZwDRBWH6NPJhN) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Maldita Actitud](https://open.spotify.com/album/4cNOmK00U8CLa0iOTaP2Cf) | 3:03 |
-| 66 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 |
-| 67 | [Cavalo de Pau](https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Cavalo de Pau](https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y) | 2:44 |
-| 68 | [Video Caseiro](https://open.spotify.com/track/3hB1WZbng6mDmFnGt7EUYC) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Video Caseiro](https://open.spotify.com/album/74eq2PIoEW59ZhxEQ2CBry) | 2:06 |
-| 69 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 |
-| 70 | [Tira Essa Calcinha](https://open.spotify.com/track/69CmX6WtBZ2VmB2kCXknkY) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Tira Essa Calcinha](https://open.spotify.com/album/0YJQe5avgJlkUbo3eRIuoG) | 2:24 |
-| 71 | [Seu Abraço](https://open.spotify.com/track/5TKiwBbtSbQw0Kj9iNNwaY) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Seu Abraço](https://open.spotify.com/album/2Q5lkRZfRjzncyLqBC60hT) | 2:55 |
+| 60 | [Makinon](https://open.spotify.com/track/6S5fC1oR4Kg5m7B5JAgjsR) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Cocaine Beatz](https://open.spotify.com/artist/48JWvL8oBhNC8xEhOUU4xY) | [Makinon](https://open.spotify.com/album/2qY7FX6s6WyRk0itXmMUmU) | 2:46 |
+| 61 | [El Regalo Más Bonito](https://open.spotify.com/track/7gMaQvTSfutFSWkmhIgwOb) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [El Regalo Más Bonito](https://open.spotify.com/album/4gW7DEcLPYdfGHmDYiyGWm) | 3:22 |
+| 62 | [Cruel](https://open.spotify.com/track/4m2A5OHjj4RDMrX5ZRw2MZ) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Cruel](https://open.spotify.com/album/6QySmEGrl5YPwnaXhHc8kx) | 3:00 |
+| 63 | [VOLVIÓ A LATIR](https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Chila Jatun](https://open.spotify.com/artist/1pbcskpK1qePXm3sYvYu4o) | [VOLVIÓ A LATIR](https://open.spotify.com/album/0AtMFNvWJk3z2FKnunBUz9) | 3:49 |
+| 64 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 |
+| 65 | [No Dudo](https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [No Dudo](https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA) | 3:20 |
+| 66 | [Maldita Actitud](https://open.spotify.com/track/5JB1a5AXqZwDRBWH6NPJhN) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Maldita Actitud](https://open.spotify.com/album/4cNOmK00U8CLa0iOTaP2Cf) | 3:03 |
+| 67 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 |
+| 68 | [Cavalo de Pau](https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Cavalo de Pau](https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y) | 2:44 |
+| 69 | [Video Caseiro](https://open.spotify.com/track/3hB1WZbng6mDmFnGt7EUYC) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Video Caseiro](https://open.spotify.com/album/74eq2PIoEW59ZhxEQ2CBry) | 2:06 |
+| 70 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 |
+| 71 | [Tira Essa Calcinha](https://open.spotify.com/track/69CmX6WtBZ2VmB2kCXknkY) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Tira Essa Calcinha](https://open.spotify.com/album/0YJQe5avgJlkUbo3eRIuoG) | 2:24 |
+| 72 | [Seu Abraço](https://open.spotify.com/track/5TKiwBbtSbQw0Kj9iNNwaY) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Seu Abraço](https://open.spotify.com/album/2Q5lkRZfRjzncyLqBC60hT) | 2:55 |
 
 Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGQ2MDg0OThiNzdmMzhmYjA2NzNmZTgwYmQxZWFlMTVl`

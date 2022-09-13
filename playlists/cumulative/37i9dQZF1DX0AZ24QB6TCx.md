@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-211 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
+212 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Breaking Hearts feat\. Amos \- Black Coffee Remix](https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Breaking Hearts feat\. Amos](https://open.spotify.com/album/42Qi6nkOLmcUoMK3tJI7Ah) | 8:18 | 2022-01-21 | 2022-05-03 |
 | [Broken Promises](https://open.spotify.com/track/7wYm3DH6khozGDQ7wrrjXT) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Remind Me Tomorrow](https://open.spotify.com/album/5EYZr4IlOijDD05kllzVUk) | 7:00 | 2022-06-17 | 2022-07-22 |
 | [Burning Out](https://open.spotify.com/track/4G3pmmd9wvdU526OfIRZ0t) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out](https://open.spotify.com/album/7iyQSMVIGjqaexRkvNGEqz) | 4:44 | 2021-12-23 | 2022-07-29 |
+| [Burning Sun](https://open.spotify.com/track/2ybxXZvwT6lje7Y1HY4fX7) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Burning Sun](https://open.spotify.com/album/3UVk7K3ddWmMvrf0Z4iD3L) | 3:36 | 2022-09-09 |  |
 | [Calling \- Made by Pete Remix](https://open.spotify.com/track/6oQPOcjcSLSFRi2MR9Gsaw) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [UNDERHER](https://open.spotify.com/artist/450wFwmuEK6ytahAaWlhbX), [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa) | [Calling \(Made by Pete Remix\)](https://open.spotify.com/album/2dZa8NGFrj87oxQ1ALrTi0) | 7:37 | 2022-04-04 | 2022-07-27 |
 | [Caminando de Noche](https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ) | [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM), [Robbie Akbal](https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H), [Ay Sarita](https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS) | [15 Years of Akbal Music, Pt\. 2](https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT) | 7:44 | 2021-12-23 | 2022-01-27 |
 | [Cashmere](https://open.spotify.com/track/303c3Z3xF0KgPJkqy7U9bK) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Happy Little Accidents, Pt\. 2](https://open.spotify.com/album/4F2s8ObhQWBPdEiGXaeb90) | 4:44 | 2021-12-23 | 2022-04-16 |
@@ -214,7 +215,7 @@
 | [What You Expected](https://open.spotify.com/track/77r4MAR9vAqQgRDH3NfcIr) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Send Return](https://open.spotify.com/album/3SuTviA27RWZUirHX7ybgE) | 6:43 | 2022-04-04 | 2022-04-21 |
 | [Wilwarin](https://open.spotify.com/track/61Sd5TMgCg7tEfimBsSwnu) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Wilwarin](https://open.spotify.com/album/7iYtgdeRAndJeQ8OFBdOy6) | 8:00 | 2022-04-04 | 2022-04-21 |
 | [Without You Here](https://open.spotify.com/track/7CKvFXhkP3fwujxNuecJ0z) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Without You Here](https://open.spotify.com/album/3jEeo4bNMpkvUoOTgBva1b) | 4:48 | 2022-05-13 | 2022-07-27 |
-| [Wolfgang](https://open.spotify.com/track/7fKQzhjitdrzOeJh43aydQ) | [Gunjah](https://open.spotify.com/artist/3D6qY2EBzhd0HsFrPZKNQo), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Wolfgang](https://open.spotify.com/album/3MqKJtMkjaIei2hB87qV7C) | 7:40 | 2021-12-23 |  |
+| [Wolfgang](https://open.spotify.com/track/7fKQzhjitdrzOeJh43aydQ) | [Gunjah](https://open.spotify.com/artist/3D6qY2EBzhd0HsFrPZKNQo), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Wolfgang](https://open.spotify.com/album/3MqKJtMkjaIei2hB87qV7C) | 7:40 | 2021-12-23 | 2022-09-13 |
 | [Woodstock](https://open.spotify.com/track/3g4avljMWYvDFkCJHkuMf1) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Woodstock](https://open.spotify.com/album/024cAg70IbTCbNvaAJ0u3C) | 4:47 | 2021-12-23 | 2022-07-09 |
 | [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-02 |  |
 | [You \- Patrice Bäumel Remix](https://open.spotify.com/track/32Z4xpbCmDnIpHDhsPAYG7) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [You \(Patrice Bäumel Remix\)](https://open.spotify.com/album/18ro9DQc6DxZqYEEcKlyTW) | 4:01 | 2021-12-23 | 2022-07-20 |

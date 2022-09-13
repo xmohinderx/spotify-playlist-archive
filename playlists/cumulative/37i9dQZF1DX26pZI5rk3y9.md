@@ -4,7 +4,7 @@
 
 > Classic music for cooking and eating with friends.
 
-82 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
+83 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 | 2022-05-25 |  |
 | [Baby What You Want Me to Do](https://open.spotify.com/track/4vSYWhfcmqeQpwpGMaRKh7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:18 | 2022-07-01 |  |
 | [Back Water Blues](https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [The Soul Queen Of New Orleans: 50th Anniversary Celebration](https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs) | 3:30 | 2022-05-25 |  |
-| [Bacon Fat \- Remastered](https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:04 | 2022-05-25 |  |
+| [Bacon Fat \- Remastered](https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:04 | 2022-05-25 | 2022-09-13 |
 | [Barbecue Any Old Time](https://open.spotify.com/track/4IUtUHmpRJXQo8jfem5fON) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:48 | 2022-05-25 |  |
 | [Barbecue Blues](https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m) | [Barbecue Bob](https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ) | [Barbecue Bob Vol\. 1 \(1927 \- 1928\)](https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31) | 3:12 | 2022-05-25 |  |
 | [Barbecue Blues](https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Lucille Bogan \(Bessie Jackson\) Vol\. 3 \(1934\-1935\)](https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i) | 2:42 | 2022-05-25 |  |
@@ -43,6 +43,7 @@
 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 5: The Final Chapter](https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3) | 3:30 | 2022-05-25 |  |
 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 | 2022-05-25 |  |
 | [Hear My Train a Comin'](https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 5:41 | 2022-07-29 |  |
+| [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 | 2022-09-12 |  |
 | [Honey Bee \(feat\. Willie Buck\)](https://open.spotify.com/track/2T857BosTppifCEGyKjkNz) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Willie Buck](https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:20 | 2022-07-29 |  |
 | [Hoochie Coochie Man](https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:52 | 2022-05-25 |  |
 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 | 2022-05-25 |  |

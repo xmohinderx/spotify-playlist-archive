@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 30520,
+  "num_followers": 30945,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMGY5YWJhNjEwMjYxNGZkZDRlMjg0MGY2ZjU5MzFhNjYx",
+  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDViODY0ZGEyZmZiNjAwODQzYmM5NGY2ODk1ZjJhYWFi",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -251,18 +251,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
         }
       ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -283,22 +287,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
       "artists": [
         {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Asura EP",
         "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 393740,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo"
-      },
-      "artists": [
-        {
-          "name": "Mario Ochoa",
-          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
-        }
-      ],
-      "duration_ms": 396992,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Sense EP",
         "url": "https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 415077,
       "name": "Sense",
       "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "duration_ms": 396992,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
     },
     {
       "added_at": "2022-09-09 16:00:00",

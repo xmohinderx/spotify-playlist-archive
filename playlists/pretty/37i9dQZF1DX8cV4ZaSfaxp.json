@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: SURAN(\uc218\ub780)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 28544,
+  "num_followers": 28635,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Mjg2MywwMDAwMDAwMGVlZmI0ZGQ5MWY1MTIwYjYyOGQ0NDQwZDY1OTYyMzZi",
+  "snapshot_id": "MTY2MjM5Mjg2MywwMDAwMDAwMGJjYWY1OTI1M2YxMjJlYTQyZmUxNDNkN2JmZTEyODk0",
   "tracks": [
     {
       "added_at": "2022-09-05 15:47:43",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+      "duration_ms": 245598,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -383,22 +399,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 245598,
-      "name": "Look",
-      "url": "https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "CATNIP",
         "url": "https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "nokdu ep vol.1",
-        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
-      },
-      "artists": [
-        {
-          "name": "nokdu",
-          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "A Night Like This",
-      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
       },
@@ -443,6 +427,38 @@
       "duration_ms": 221160,
       "name": "1/6",
       "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 245320,
+      "name": "Cherries Jubiles",
+      "url": "https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
+      },
+      "artists": [
+        {
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -495,22 +511,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 245320,
-      "name": "Cherries Jubiles",
-      "url": "https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "\u90fd\u5e02\u5973\u5b50",
         "url": "https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m"
       },
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 146373,
+      "name": "NEON 1989",
+      "url": "https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "East Shore",
         "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
@@ -579,6 +595,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
+      },
+      "artists": [
+        {
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "Color of Night",
         "url": "https://open.spotify.com/album/11TnZ6QezfxP2XCK37HSZ2"
       },
@@ -595,22 +627,6 @@
       "duration_ms": 209156,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5KpdmJ4LiyUIIuqcquCX9d"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
-      },
-      "artists": [
-        {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -671,22 +687,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 146373,
-      "name": "NEON 1989",
-      "url": "https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 220526,
       "name": "Where are you?",
       "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "SOUL LADY",
+      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -811,22 +827,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "SOUL LADY",
-      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Drive to 1980 Love",
-        "url": "https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT"
-      },
-      "artists": [
-        {
-          "name": "JANE POP",
-          "url": "https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Drive to 1980 Love",
-      "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 257451,
       "name": "Thanks to",
       "url": "https://open.spotify.com/track/1KQrnUtKigVAtDZc6M7UsM"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Drive to 1980 Love",
+        "url": "https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT"
+      },
+      "artists": [
+        {
+          "name": "JANE POP",
+          "url": "https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj"
+        }
+      ],
+      "duration_ms": 191103,
+      "name": "Drive to 1980 Love",
+      "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Pink Tape - The 2nd Album",
         "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 214847,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 270270,
-      "name": "Orange Road (with YUKIKA)",
-      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1075,6 +1055,26 @@
       "duration_ms": 248078,
       "name": "& New",
       "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 270270,
+      "name": "Orange Road (with YUKIKA)",
+      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "Sweet Girl",
+        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Sweet Girl",
+      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Sweet Girl",
-        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
       "artists": [
         {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         }
       ],
-      "duration_ms": 248986,
-      "name": "Sweet Girl",
-      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+      "duration_ms": 233306,
+      "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
+      "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp"
       },
       "artists": [
         {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 233306,
-      "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
-      "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
+      "duration_ms": 210136,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1271,22 +1287,6 @@
       "duration_ms": 252798,
       "name": "Suddenly - Digging Club Seoul Version",
       "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+      },
+      "artists": [
+        {
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
+        }
+      ],
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
         "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
       "artists": [
         {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1639,22 +1655,6 @@
       "duration_ms": 241542,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2022-09-05 15:47:43",

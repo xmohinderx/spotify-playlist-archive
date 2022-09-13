@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 6215,
+  "num_followers": 6261,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDJjNGI4Yjg3NWIwZGJmNGQwMTFmYjVkMDhiNzA5MmRj",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGQyNGYyMmQ5ZTgxYmFkNzg1YzlmNjdkZTgwMzU3NjIy",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/5iVNIJ2EE9JS7KVLxwWSFC"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Dripfield",
-        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 426602,
-      "name": "Hungersite",
-      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "I Am The Moon: II. Ascension",
@@ -199,22 +183,6 @@
       "duration_ms": 250335,
       "name": "Playing With My Emotions",
       "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Joyfell",
-        "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
-      },
-      "artists": [
-        {
-          "name": "Underground Springhouse",
-          "url": "https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt"
-        }
-      ],
-      "duration_ms": 308798,
-      "name": "Joyfell",
-      "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -239,6 +207,38 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Dripfield",
+        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 426602,
+      "name": "Hungersite",
+      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Joyfell",
+        "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
+      },
+      "artists": [
+        {
+          "name": "Underground Springhouse",
+          "url": "https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt"
+        }
+      ],
+      "duration_ms": 308798,
+      "name": "Joyfell",
+      "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Best Kept Secrets",
         "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 259826,
       "name": "Keep Your Hands to Yourself",
       "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -299,22 +315,6 @@
       "duration_ms": 306840,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Best in Show",
         "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 485880,
       "name": "Random Company",
       "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
       "added_at": "2022-06-23 13:45:43",

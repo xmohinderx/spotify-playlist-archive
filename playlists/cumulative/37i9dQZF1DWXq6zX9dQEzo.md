@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-354 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+355 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [No Grease](https://open.spotify.com/track/6RW6ihCKtotVvzWQwLJzGe) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [No Grease](https://open.spotify.com/album/4oXuRArsqxFAhl2q4Qoh6K) | 2:15 | 2022-03-11 | 2022-03-24 |
 | [No Limit](https://open.spotify.com/track/1v6rWUa92xdkPOYDyKfqV2) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14), [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [Secession](https://open.spotify.com/album/6duqIYCOd15xRiaGFTuEOc) | 2:09 | 2022-02-04 |  |
 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 | 2022-09-03 |  |
+| [NO WEAPON](https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [NO WEAPON](https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF) | 3:44 | 2022-09-03 |  |
 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 | 2022-02-04 | 2022-07-16 |
 | [Nostalgia](https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Nostalgia](https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD) | 4:56 | 2022-09-03 |  |
 | [Not A Monster](https://open.spotify.com/track/46eyVsonXTfTmLcUVYskUw) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Not A Monster](https://open.spotify.com/album/5lRFlm41b8JwBWgKtW1eqm) | 2:32 | 2022-02-04 | 2022-07-29 |
@@ -247,7 +248,7 @@
 | [Power Rangers](https://open.spotify.com/track/2GUwW9Mqp7cuMmoJp4WIfY) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe), [Sage](https://open.spotify.com/artist/0FqvthTRYBBBHLglDvc95x) | [Power Rangers](https://open.spotify.com/album/3ZfBrSpdyDPzw7gkLzkDjg) | 3:45 | 2022-03-11 | 2022-03-24 |
 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 | 2022-08-06 |  |
 | [Praying Hands](https://open.spotify.com/track/1UBJn7Gl6weQ4vZ68EAphl) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Destined For Greatness](https://open.spotify.com/album/3gKB01Zw0wFbUxPg47AQ0M) | 3:37 | 2022-02-04 |  |
-| [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2022-07-17 |  |
+| [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2022-07-17 | 2022-09-13 |
 | [Probao](https://open.spotify.com/track/69QW2gAqjCTlpSTW7TVCbh) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Temporadas](https://open.spotify.com/album/5xEKZw2IoJpe5Lh6bEYC45) | 2:41 | 2022-09-03 |  |
 | [PROBLEMATIC \(feat\. Travis Hobson\) \- Remix](https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Travis Hobson](https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR) | [PROBLEMATIC \(Remix\) \[feat\. Travis Hobson\]](https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86) | 2:23 | 2022-04-30 | 2022-08-22 |
 | [Prosper \(Remix\)](https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [Prosper \(Remix\)](https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF) | 3:10 | 2022-02-04 |  |

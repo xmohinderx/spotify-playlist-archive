@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-558 songs - 1 day 0 hr 57 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+559 songs - 1 day 0 hr 59 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Regler \(Båset\)](https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Regler \(Båset\)](https://open.spotify.com/album/6jNGKJ3Wxs20bRzmTqyLr9) | 2:36 | 2022-03-10 | 2022-05-27 |
 | [RIDER](https://open.spotify.com/track/4ons6ezzymryQi34IU9P3G) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [RIDER](https://open.spotify.com/album/3Z6p6XI0OOELH3Q88jCbO3) | 2:45 | 2022-07-29 | 2022-09-09 |
 | [RIDER](https://open.spotify.com/track/6dx0d36ID1nrusuAUqcaEv) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:22 | 2022-01-06 | 2022-04-01 |
+| [Röd Laser](https://open.spotify.com/track/3hVHWx8UILDq3tSEg5trOZ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Röd Laser](https://open.spotify.com/album/4XQSMJeqCRczYBbhW7pE3P) | 2:11 | 2022-09-12 |  |
 | [Sagrada Familia](https://open.spotify.com/track/3ocHxXV8fDZ1R6iMoEIYan) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:49 | 2021-12-16 | 2022-02-11 |
 | [SALT TILL SOCKER](https://open.spotify.com/track/77rmhU3V7x6SxMnxpYt9Gh) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29) | [SALT TILL SOCKER](https://open.spotify.com/album/4jWEG47HF6fhWpY5sNwNqv) | 2:25 | 2021-12-16 | 2022-01-20 |
 | [Sanna Mina Ord](https://open.spotify.com/track/44hAJUprrCA7RIdLD6yP7y) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Kev1n](https://open.spotify.com/artist/1IyxRn0N23zPoQNCp2Keap) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 3:11 | 2022-02-25 | 2022-04-08 |

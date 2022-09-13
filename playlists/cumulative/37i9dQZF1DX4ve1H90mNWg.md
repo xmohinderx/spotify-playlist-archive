@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
-> Texas music breaking waves\. Cover, Teezo Touchdown
+> Texas music breaking waves\. Cover, Teezo Don Toliver
 
 252 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 

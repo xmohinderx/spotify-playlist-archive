@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!!  \nCover: Kendall Marvel",
-  "num_followers": 470814,
+  "num_followers": 470945,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczMDU2MywwMDAwMDAwMDVmZTc5MGRkNmNjZTYyMGZlZmM0Mjk1YmUzNzY3MDQy",
+  "snapshot_id": "MTY2MjczMDU2MywwMDAwMDAwMGZiNDNkNGVlYTM0YmE3YzNhMzM1ZWNhOTY0M2Q5YTJk",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 222653,
       "name": "Midnight Train To Memphis",
       "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Antioch",
-        "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 245643,
-      "name": "Antioch",
-      "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Antioch",
+        "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 245643,
+      "name": "Antioch",
+      "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Never Change",
-        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Never Change",
-      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
         "url": "https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 169600,
       "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
       "url": "https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Never Change",
+        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Whole World Gone Crazy",
-        "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
+        "name": "What Do I Know (feat. HARDY)",
+        "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Robert Counts",
+          "url": "https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Whole World Gone Crazy",
-      "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
+      "duration_ms": 208418,
+      "name": "What Do I Know (feat. HARDY)",
+      "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "What Do I Know (feat. HARDY)",
-        "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
+        "name": "Whole World Gone Crazy",
+        "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
       },
       "artists": [
         {
-          "name": "Robert Counts",
-          "url": "https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 208418,
-      "name": "What Do I Know (feat. HARDY)",
-      "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+      "duration_ms": 184760,
+      "name": "Whole World Gone Crazy",
+      "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Solid Gold Sounds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        }
-      ],
-      "duration_ms": 251437,
-      "name": "Hard Time With The Truth",
-      "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "To Whom ...",
         "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 218201,
       "name": "To Whom ...",
       "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Solid Gold Sounds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        }
+      ],
+      "duration_ms": 251437,
+      "name": "Hard Time With The Truth",
+      "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Another Mile",
-        "url": "https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz"
+        "name": "Truck In The Yard",
+        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
       },
       "artists": [
         {
-          "name": "A Thousand Horses",
-          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Another Mile",
-      "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
+      "duration_ms": 182624,
+      "name": "Truck In The Yard",
+      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Truck In The Yard",
-        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
+        "name": "Another Mile",
+        "url": "https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz"
       },
       "artists": [
         {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
         }
       ],
-      "duration_ms": 182624,
-      "name": "Truck In The Yard",
-      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
+      "duration_ms": 216626,
+      "name": "Another Mile",
+      "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "You Hear Georgia",
-        "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 245838,
-      "name": "You Hear Georgia",
-      "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Pickin\u2019 Up Girls (feat. The Cadillac Three)",
         "url": "https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 201451,
       "name": "Pickin\u2019 Up Girls (feat. The Cadillac Three)",
       "url": "https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "You Hear Georgia",
+        "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 245838,
+      "name": "You Hear Georgia",
+      "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
     },
     {
       "added_at": "2022-08-26 04:02:00",

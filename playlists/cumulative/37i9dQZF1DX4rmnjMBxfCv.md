@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Wegz & Ash.
 
-70 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+71 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-04 |  |
 | [Valhalla](https://open.spotify.com/track/62XbDU9C904nhFkcjFXnEQ) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Randall](https://open.spotify.com/artist/2SqO0ejUsZ0Z0Rvh4w09Dp) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 3:56 | 2022-03-30 |  |
 | [W Maak](https://open.spotify.com/track/2x4A8I4dHDoilUNfkcCT3V) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:41 | 2022-03-30 |  |
+| [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 4:09 | 2022-09-12 |  |
 | [Wesh Gabak](https://open.spotify.com/track/7sRWrhHBNDpUyPsjApWqYF) | [DEEJAY TAMER](https://open.spotify.com/artist/4NhgtxJKalwNrFHNGmOUeh) | [Wesh Gabak](https://open.spotify.com/album/1XqsRHBc8YU3Ix5jsvBXWK) | 4:09 | 2022-08-14 |  |
 | [Win \- Lesstars Remix](https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz) | [Halim yousfi](https://open.spotify.com/artist/6EUe84nUL0UynwPD7ddtgp), [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba), [Lesstars](https://open.spotify.com/artist/6QKz2YMVPepGdsvvOqeAg9) | [Win \(Lesstars Remix\)](https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS) | 4:17 | 2022-06-23 |  |
 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-12 |  |

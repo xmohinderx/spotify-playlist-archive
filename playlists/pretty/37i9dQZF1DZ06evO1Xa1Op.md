@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,708 likes - 46 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,714 likes - 46 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 45 | [Goydiotodam](https://open.spotify.com/track/2fqcpLdEA1wVrL3mGNQ32v) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 6:24 |
 | 46 | [Toungere](https://open.spotify.com/track/0K3W6FrcGzkgYJjYwa8m17) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 7:31 |
 
-Snapshot ID: `Mjc3MTUwNDgsMDAwMDAwMDBlOTQ4N2U3YWFiZDI0OWJjZDZmYTA0NTIzODhiZTcwZQ==`
+Snapshot ID: `Mjc3MTY0ODksMDAwMDAwMDAwMDBjNzIzNDhmMGQwZGNmZWU1OGRjMTZjMzEwZTRiYg==`

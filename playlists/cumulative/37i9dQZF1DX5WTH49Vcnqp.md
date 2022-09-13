@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. Sampa The Great
 
-540 songs - 1 day 6 hr 55 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+541 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 | 2022-01-06 | 2022-03-01 |
 | [F It ILY](https://open.spotify.com/track/6hEl2GPGZq7kMIYI6TTKHL) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4), [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [F it ILY](https://open.spotify.com/album/440TI3MdHIwAZIz6Dd0B1l) | 2:22 | 2021-12-28 | 2022-01-28 |
 | [Facts of Life](https://open.spotify.com/track/1VDSmyonWfkUKkDGyr7BDf) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Facts of Life](https://open.spotify.com/album/1iwq4GcEquagnE6V3oAIr2) | 4:08 | 2022-04-11 | 2022-07-22 |
+| [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 | 2022-09-12 |  |
 | [Faisal \(Envelops Me\)](https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Faisal \(Envelops Me\)](https://open.spotify.com/album/4ypZdBrZq9WRWbEkpqUA4D) | 4:10 | 2021-12-28 | 2022-01-14 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-02-24 | 2022-03-25 |
 | [Falling Away](https://open.spotify.com/track/1a5Ai6hDNiFwCsxIw9d8b5) | [edith](https://open.spotify.com/artist/6l9Hv70cP4vLDZIMl9KfKQ), [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Falling Away](https://open.spotify.com/album/3yjeisWRJnusRrjswpZCqi) | 3:39 | 2022-05-12 | 2022-07-08 |
@@ -260,7 +261,7 @@
 | [It's Been a Long Day](https://open.spotify.com/track/3deMLKUGOk1FTcm2eqPpwI) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [It's Been a Long Day](https://open.spotify.com/album/49oWmrrTgigMNm6qMkd8Nd) | 4:04 | 2022-04-07 | 2022-06-24 |
 | [JANUARY](https://open.spotify.com/track/0gNep5C5Vb0qgYUc3M4G6W) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [JANUARY](https://open.spotify.com/album/4fK5S753I5OACZuv7m5okG) | 2:19 | 2022-01-27 | 2022-03-08 |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-01-13 | 2022-03-04 |
-| [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 | 2022-06-30 |  |
+| [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 | 2022-06-30 | 2022-09-13 |
 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 | 2022-06-16 | 2022-08-05 |
 | [Jump This Train](https://open.spotify.com/track/33jw2GFtEmZ4AOU7xVaCa0) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Jump This Train](https://open.spotify.com/album/63dD81EQ530DjyiS7Szd5f) | 4:01 | 2022-05-26 | 2022-07-22 |
 | [Junk Truck Head Fuck \(feat\. MAY\-A\)](https://open.spotify.com/track/3OUfmxHEPbquSsj20ZnH9l) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Junk Truck Head Fuck \(feat\. MAY\-A\)](https://open.spotify.com/album/2o01Euy0RonzKRJOyBOX2o) | 2:34 | 2021-12-28 | 2022-03-11 |

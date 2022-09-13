@@ -4,11 +4,12 @@
 
 > Kick back and relax to these chilled Blues classics.
 
-88 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/69IojyGEsmd2inrDrCpDQa)
+91 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/69IojyGEsmd2inrDrCpDQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 o'clock blues](https://open.spotify.com/track/7gpV8JIKrNf2GeiXhCXW0X) | [DC Carnes](https://open.spotify.com/artist/5ZQ80vxl5XEGaFdWzRFXNf) | [3 o'clock blues](https://open.spotify.com/album/5qHlckJho80RrUvy864iWR) | 5:16 | 2022-07-29 |  |
+| [A Apolitical Blues](https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 3:28 | 2022-09-12 |  |
 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 | 2022-07-29 |  |
 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 | 2022-07-29 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-29 |  |
@@ -21,6 +22,7 @@
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2022-07-29 |  |
 | [Blues Chase up a Rabbit](https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:39 | 2022-07-29 |  |
 | [Blues For Duke Robillard](https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 7:43 | 2022-07-29 |  |
+| [Blues for Marili](https://open.spotify.com/track/1n9E1KOzRRexvQ7pyfJpUm) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:20 | 2022-09-12 |  |
 | [Breadwinner](https://open.spotify.com/track/2nT0mY6172fHVa71weoplF) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Breadwinner](https://open.spotify.com/album/31rWdk9uDmDdhpMSSi8Ar2) | 3:50 | 2022-07-29 |  |
 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 | 2022-07-29 |  |
 | [Cold Hearted Woman](https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x) | [Tin Pan Alley](https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT) | 5:22 | 2022-07-29 |  |
@@ -81,6 +83,7 @@
 | [Still Got the Blues](https://open.spotify.com/track/4foKEzs442JODnkwNRro1R) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v) | 5:54 | 2022-07-29 |  |
 | [Still Playing The Blues](https://open.spotify.com/track/6r8tIzbytSlvy93QN9QN58) | [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [Blues Guitar Boss](https://open.spotify.com/album/2iQzxhuaHkajpwyXr4dIit) | 4:25 | 2022-07-29 |  |
 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 | 2022-07-29 |  |
+| [Strollin'](https://open.spotify.com/track/0pUAdVqND0XXjePlFjW6Gm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:01 | 2022-09-12 |  |
 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 | 2022-07-29 |  |
 | [The Devil Must Be Laughing](https://open.spotify.com/track/0nRUHZAYFMLDK8gvnqdWSS) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Talk About That](https://open.spotify.com/album/1gTVAZSkF1c6uJdZXDrtnp) | 6:57 | 2022-07-29 |  |
 | [The Lily](https://open.spotify.com/track/4JRBXDPXRhsO5vizkvQ4Gi) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 9:32 | 2022-07-29 |  |

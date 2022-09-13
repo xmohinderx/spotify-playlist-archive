@@ -202,6 +202,24 @@
     },
     {
       "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/6gpmtNqKezX1vcJLljbZZB"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121306,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/7upF3UTuPtrWKf3LU9Jn4t"
       },
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 142528,
       "name": "Love Song - TrillzAL Jersey Edit",
       "url": "https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx"

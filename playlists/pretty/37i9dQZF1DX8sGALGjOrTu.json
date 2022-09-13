@@ -1,12 +1,12 @@
 {
   "description": "When emo and hardcore fell hard for each other.",
-  "num_followers": 325630,
+  "num_followers": 325900,
   "original_name": "2000s Screamo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjUzMSwwMDAwMDAwMDA2Y2JiNDg2ZmZlODEyZGMxYzM4ZGQ4ZjhhYTk5NzFh",
+  "snapshot_id": "MTY1MDkxNjUzMSwwMDAwMDAwMGUwNzRjZDc2OWU0ZjNkMjFkN2RhNDc2YTg3NTNmZjNh",
   "tracks": [
     {
       "added_at": "2021-12-07 15:50:41",
@@ -255,6 +255,22 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
+        "name": "The Drug In Me Is You",
+        "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "I'm Not A Vampire",
+      "url": "https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
         "name": "Selfish Machines",
         "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 374973,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
-        "name": "The Drug In Me Is You",
-        "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "I'm Not A Vampire",
-      "url": "https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "False Pretense",
-      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "False Pretense",
+      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Stand Up And Scream",
-        "url": "https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 242080,
-      "name": "The Final Episode (Let's Change Channel)",
-      "url": "https://open.spotify.com/track/0CqCpm4LLQbHUX5ysizWJS"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "In Keeping Secrets Of Silent Earth: 3",
         "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 234706,
       "name": "A Favor House Atlantic",
       "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Stand Up And Scream",
+        "url": "https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 242080,
+      "name": "The Final Episode (Let's Change Channel)",
+      "url": "https://open.spotify.com/track/0CqCpm4LLQbHUX5ysizWJS"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "If Only You Were Lonely",
         "url": "https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 187680,
       "name": "Saying Sorry",
       "url": "https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
+        "name": "The Silence In Black And White (Re-Issue)",
+        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 239520,
+      "name": "Niki Fm",
+      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 257693,
       "name": "The Difference Between Medicine And Poison Is In The Dose",
       "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
-        "name": "The Silence In Black And White (Re-Issue)",
-        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "Niki Fm",
-      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "After The Eulogy",
-        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
-      },
-      "artists": [
-        {
-          "name": "Boysetsfire",
-          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Rookie",
-      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "Dear Diary, My Teen Angst Has A Body Count",
         "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 233762,
       "name": "Note to Self",
       "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "After The Eulogy",
+        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
+      },
+      "artists": [
+        {
+          "name": "Boysetsfire",
+          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Relativity",
-        "url": "https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 273653,
-      "name": "The Past Should Stay Dead",
-      "url": "https://open.spotify.com/track/3ybttms1Zl5kfsSl2QxIbP"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
         "url": "https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+        "name": "Relativity",
+        "url": "https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+      "duration_ms": 273653,
+      "name": "The Past Should Stay Dead",
+      "url": "https://open.spotify.com/track/3ybttms1Zl5kfsSl2QxIbP"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Try This With Your Eyes Closed",
-        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
       "artists": [
         {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
         }
       ],
-      "duration_ms": 249613,
-      "name": "Apology",
-      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1359,18 +1343,34 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Emarosa",
-        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
+        "name": "New Medicines",
+        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
       },
       "artists": [
         {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+          "name": "Dead Poetic",
+          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
         }
       ],
-      "duration_ms": 228986,
-      "name": "A Toast to the future kids!",
-      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
+      "duration_ms": 242040,
+      "name": "New Medicines",
+      "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Try This With Your Eyes Closed",
+        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1387,22 +1387,6 @@
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
-        "name": "New Medicines",
-        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
-      },
-      "artists": [
-        {
-          "name": "Dead Poetic",
-          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "New Medicines",
-      "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1435,6 +1419,22 @@
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Emarosa",
+        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "A Toast to the future kids!",
+      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "Ape Dos Mil",
-      "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "The Fiction We Live",
         "url": "https://open.spotify.com/album/4nGaOcWtMYbPfclwah1kHw"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 303093,
+      "name": "Ape Dos Mil",
+      "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
     },
     {
       "added_at": "2021-12-07 15:50:41",

@@ -1616,6 +1616,28 @@
     },
     {
       "album": {
+        "name": "Kiss U",
+        "url": "https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335043,
+      "name": "Kiss U",
+      "url": "https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr"
+    },
+    {
+      "album": {
         "name": "Two Beauties",
         "url": "https://open.spotify.com/album/6cTVO4cyNK7bFGFh2ivUHQ"
       },

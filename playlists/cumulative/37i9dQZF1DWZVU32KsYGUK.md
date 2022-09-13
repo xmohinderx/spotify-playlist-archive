@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-258 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
+264 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alma](https://open.spotify.com/track/7kz2rN1A7TmTxLO5JT9dfd) | [Dawskjar](https://open.spotify.com/artist/1vWB8VeQZCKtz0tp0n8mkB) | [Alma](https://open.spotify.com/album/6TicudJT7W8MDjuSZj2UA4) | 2:18 | 2022-04-27 |  |
 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 | 2022-04-27 |  |
 | [Amore Eterno](https://open.spotify.com/track/7w9HyzWXYGqok3S1y2yKW2) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Amore Eterno](https://open.spotify.com/album/5LCdLCsWE3PHpc6j6908pm) | 1:34 | 2022-05-27 |  |
+| [An Autumn Waltz](https://open.spotify.com/track/0PWS0IcWdSMbQnjvZ1zlIm) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [An Autumn Waltz](https://open.spotify.com/album/53h6w8SlgCw3TpJrNUWdpa) | 2:20 | 2022-09-12 |  |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-04-27 | 2022-06-07 |
 | [Anticipation](https://open.spotify.com/track/4TlbUWl0xAEzahCwTFLyDS) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Anticipation](https://open.spotify.com/album/7lEEv2hwrCanO1SduHSI2T) | 2:33 | 2022-08-03 |  |
 | [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-04-27 | 2022-05-21 |
@@ -162,6 +163,7 @@
 | [Notes From Tom](https://open.spotify.com/track/0MXNBq9JKgNoUprg9PMQwA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Notes From Tom](https://open.spotify.com/album/4IMq0YcdnE2gFvU68hQfQa) | 2:47 | 2022-04-27 |  |
 | [Numéro 7](https://open.spotify.com/track/17wwSS2zbCQR9oHAlA0pIS) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 7](https://open.spotify.com/album/6qrJhLrfjTLvlmQaHnB6AM) | 2:18 | 2022-06-06 |  |
 | [Old Summer Romance](https://open.spotify.com/track/0PsVxQjMyJSNYo9R3zZnNR) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Old Summer Romance](https://open.spotify.com/album/1mG03oOljZ3ynqzhuWVKah) | 2:36 | 2022-04-27 | 2022-08-04 |
+| [On My Mind](https://open.spotify.com/track/6TCSfHF0eHg3F81hYU4Elk) | [Linguis](https://open.spotify.com/artist/3KsRwelc9kJMkls9wetyYl) | [Eventide](https://open.spotify.com/album/5KjQr5YjWgML26mGd6olkO) | 2:05 | 2022-09-12 |  |
 | [On the Other Side](https://open.spotify.com/track/7GhkhTL5VK9Co25CbiBf9T) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [On the Other Side](https://open.spotify.com/album/633hqMGhBHeMIyTOFfNzm7) | 2:50 | 2022-04-27 |  |
 | [Once More](https://open.spotify.com/track/6fE1QsCn1UPxiXgOPvqKo0) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Once More](https://open.spotify.com/album/4nXhrvBpJYkIpiBZ9m43R6) | 2:23 | 2022-04-27 |  |
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2022-04-27 | 2022-06-07 |
@@ -233,8 +235,10 @@
 | [Timelapse](https://open.spotify.com/track/1AyZlUfEdW8pBzILc2Zd5D) | [Minnie Scolanti](https://open.spotify.com/artist/6pu5iA6AU2eSYpbyqeOdjr) | [Timelapse](https://open.spotify.com/album/4eobXM7Zc9BmPjpJ5Gg0jf) | 2:02 | 2022-04-27 |  |
 | [Timeless](https://open.spotify.com/track/2iKJY18ZbvwC6rGIGh1pIE) | [Allister Romans](https://open.spotify.com/artist/2iXh00erHUEAsyIw0s2UGh) | [Timeless](https://open.spotify.com/album/465XayPaIKMC649uN3VNIE) | 2:26 | 2022-04-27 |  |
 | [Tournesols](https://open.spotify.com/track/7lssMgk6U5ikJZ8yxt3xw0) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Tournesols](https://open.spotify.com/album/4jq8FPznCCPIAIkI2hCFzS) | 2:32 | 2022-07-07 |  |
+| [Trapèze](https://open.spotify.com/track/65jKH7EzzFRmtfCM3xTI2V) | [Gaelle Gregoire](https://open.spotify.com/artist/2Lo6AyG7yPXfFRUoI7G2mX) | [Les formes](https://open.spotify.com/album/6w22F75zm6WePNXxjV4QYu) | 1:59 | 2022-09-12 |  |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2022-04-27 |  |
 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 | 2022-04-27 |  |
+| [Triangulaire](https://open.spotify.com/track/2gXBGGoqqapnj2Utu5GNhh) | [Gaelle Gregoire](https://open.spotify.com/artist/2Lo6AyG7yPXfFRUoI7G2mX) | [Triangulaire](https://open.spotify.com/album/7miIZQPwI7MxRkHOlrQAtd) | 2:11 | 2022-09-12 |  |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-04-27 |  |
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-04-27 |  |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-04-27 |  |
@@ -247,7 +251,9 @@
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-27 |  |
 | [verträumt](https://open.spotify.com/track/2VrSJrGv8MBnQY5M6OkeeB) | [Friedrich Hauser](https://open.spotify.com/artist/3Y8frXJquHsEiB2pg3oVUy) | [schlaflos](https://open.spotify.com/album/7IaFRUsh4JDjZg0AsRg1BQ) | 2:55 | 2022-04-27 |  |
 | [Vicino Al Mare](https://open.spotify.com/track/0evg2YZZKEKnKkjraD4LGQ) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 2:08 | 2022-05-04 |  |
+| [Virgil's Keep](https://open.spotify.com/track/0XwIXwm8GgFI3IlSB7eKNE) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Virgil's Keep](https://open.spotify.com/album/0H0intbJCcPJKpvailkeTb) | 3:08 | 2022-09-12 |  |
 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 | 2022-04-27 | 2022-08-30 |
+| [Waltz in C Minor](https://open.spotify.com/track/4o86gIkaHCVK1oYIMK5vaO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in C Minor](https://open.spotify.com/album/3buukblHjCzRQfK0qYKBra) | 2:20 | 2022-09-12 |  |
 | [Warte nicht](https://open.spotify.com/track/5Xlh98VsKAev1Zh7WcXSWN) | [Marcel Kaestner](https://open.spotify.com/artist/1pf4PEw1mtKsExJGa3gBdG) | [Warte nicht](https://open.spotify.com/album/4pVWrF9JXwvM0ZTSRYzpcp) | 1:38 | 2022-04-27 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-27 |  |
 | [Waves](https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL) | [Oscar Basza](https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ) | [Waves](https://open.spotify.com/album/1othuB5lIGVpjNe7OUvzln) | 2:07 | 2022-04-27 | 2022-05-21 |

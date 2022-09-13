@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-363 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+364 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Garantizame](https://open.spotify.com/track/090s13Cs50MXLpg0ZTKjxY) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Guerrera/Soldado](https://open.spotify.com/album/6DpYoyH9mPlgvhc8BNhRvC) | 2:57 | 2022-07-01 | 2022-07-27 |
 | [Golpe de Suerte](https://open.spotify.com/track/7dfDXDGJCLzpIuVzMLSmnP) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe De \(M\)suerte](https://open.spotify.com/album/1InbGrgp8Ibrb3TU8BwHAu) | 1:37 | 2022-07-01 | 2022-07-17 |
 | [Grafiti](https://open.spotify.com/track/1aFlsKEfs9P4lDi2lc3WKx) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [Grafiti](https://open.spotify.com/album/32uPCjT6QxwYc1SdhpcF8F) | 2:26 | 2022-06-03 | 2022-07-24 |
-| [GULA](https://open.spotify.com/track/0LPse67daGLaALSH1mWcMx) | [Madiba](https://open.spotify.com/artist/6BkNASSNLsbqrhDlpX2V6X), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [GULA](https://open.spotify.com/album/2uYsAPcXA3NCB2V5xnWaGB) | 4:20 | 2022-07-15 |  |
+| [GULA](https://open.spotify.com/track/0LPse67daGLaALSH1mWcMx) | [Madiba](https://open.spotify.com/artist/6BkNASSNLsbqrhDlpX2V6X), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [GULA](https://open.spotify.com/album/2uYsAPcXA3NCB2V5xnWaGB) | 4:20 | 2022-07-15 | 2022-09-13 |
 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 | 2022-07-01 | 2022-07-22 |
 | [Hasta las Manos](https://open.spotify.com/track/48fKz4eB2t1NQmlemKTQYg) | [Hojas Secas](https://open.spotify.com/artist/61kl8a9uwRmmNjBExAEqiH) | [Zodíaco y Político](https://open.spotify.com/album/1sfaQkIUH3Vv25FFgjh471) | 4:23 | 2022-06-03 | 2022-07-23 |
 | [Hawaii](https://open.spotify.com/track/5FtxrdtDGFOSoPN67qN172) | [Las Piñas](https://open.spotify.com/artist/7zKaxLmOXQAoSqtu2Ck93e) | [Espanto Caribe](https://open.spotify.com/album/5oWKNvRZJ9616naxtq9OgZ) | 2:13 | 2022-07-01 | 2022-07-25 |
@@ -315,6 +315,7 @@
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-06-03 | 2022-07-24 |
 | [Sin Rumbo](https://open.spotify.com/track/5joIidA3kxvecf66OB9B4f) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Sin Rumbo](https://open.spotify.com/album/4chLnKWpCmDv2FP8rN4nsQ) | 3:24 | 2022-07-01 | 2022-07-28 |
 | [Sola](https://open.spotify.com/track/7oIT0iV7XScuix6hKOvank) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Sola](https://open.spotify.com/album/2JyuCXnaPdo4vNOVbuClkZ) | 4:01 | 2022-09-09 |  |
+| [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2022-09-09 |  |
 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 | 2022-07-01 |  |
 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 | 2022-06-03 |  |
 | [Soy del Río](https://open.spotify.com/track/7AiqcYIPa3avpgW26fNFdA) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Transeúntes](https://open.spotify.com/artist/5c7ZnZV7FK9QnX18a3JMfU) | [Soy del Río](https://open.spotify.com/album/330kotZDGpRWJMZSw20DWc) | 5:02 | 2022-07-01 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-755 songs - 2 day 5 hr 51 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+756 songs - 2 day 5 hr 55 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Celebrate Life \- Radio Edit](https://open.spotify.com/track/5QzjMZIc5x912xEt4M28sz) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Celebrate Life](https://open.spotify.com/album/072NAze3WiHDcf5INavWkf) | 3:16 | 2019-06-22 | 2020-10-19 |
 | [Changes](https://open.spotify.com/track/1dft5btNQcSsHx1MR2RZfC) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 6:20 | 2021-02-26 | 2021-03-09 |
 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 | 2022-01-26 | 2022-07-29 |
-| [cheated](https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [cheated](https://open.spotify.com/album/2mfDkNurewVsH4q3ieTnIE) | 1:54 | 2022-02-04 |  |
+| [cheated](https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [cheated](https://open.spotify.com/album/2mfDkNurewVsH4q3ieTnIE) | 1:54 | 2022-02-04 | 2022-09-13 |
 | [Cherry](https://open.spotify.com/track/0eeKPPnYhpEZPWzMpYN5bl) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 3:15 | 2019-06-19\* | 2020-08-26 |
 | [chill](https://open.spotify.com/track/2yX8nS9n0uZ70OrnUYpkyW) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 1:48 | 2019-06-19\* | 2020-10-22 |
 | [Claim It](https://open.spotify.com/track/3uSjp9rT55R0WjPSfnoyT8) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Lifetime](https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY) | 6:30 | 2021-07-23 | 2022-04-20 |
@@ -741,6 +741,7 @@
 | [Wave Propagation](https://open.spotify.com/track/34p5mFJ2yMJJBewufyvq4s) | [10th Letter](https://open.spotify.com/artist/157BopKUKZXtvl8CFdUok2) | [Prism Scale](https://open.spotify.com/album/4FHp17Yu5qXZ5yOnDCmYZt) | 2:47 | 2020-08-26 | 2021-03-06 |
 | [Waves](https://open.spotify.com/track/6jgTOfIBnT1TdQqUf85OVx) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Waves](https://open.spotify.com/album/5kRDYz9MhpOr3JYgnZBe66) | 3:49 | 2019-05-26\* | 2020-08-26 |
 | [We All Need a Friend](https://open.spotify.com/track/6UKD0o25JviZYk8hXDYmaf) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL) | [We All Need a Friend](https://open.spotify.com/album/7ApsWXhi53apgxxrI4b6uK) | 4:04 | 2019-06-22 | 2020-10-22 |
+| [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-09-09 |  |
 | [Weird Summer](https://open.spotify.com/track/2KmGCjvla5f5wjUAoVRwJ1) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 0:42 | 2019-06-19\* | 2020-10-19 |
 | [Whalphin](https://open.spotify.com/track/0PcQvfwgwYWzqj2TtjtH3F) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL) | [Whalphin](https://open.spotify.com/album/2f5ob10kPgbTAzqGbXfTHc) | 2:44 | 2019-05-26\* | 2022-04-19 |
 | [What It Takes](https://open.spotify.com/track/0qXbs6RjB73qVRqmdgppZT) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/5gWWMy8wggZzv84wbLuQPT) | 3:23 | 2020-05-18 | 2020-10-22 |

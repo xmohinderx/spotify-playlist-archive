@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 ### [Ripple Effect:  Midwest](https://open.spotify.com/playlist/37i9dQZF1DX9Xlyj8WKw1E)
 
-> Midwest music breaking waves\. Ohana Bam
+> Midwest music breaking waves\. Cover, Midwxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,283 likes - 54 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287 likes - 54 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 53 | [Only Us \(feat\. Babyface Ray\)](https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Only Us \(feat\. Babyface Ray\)](https://open.spotify.com/album/70JVltVkQblqp2cuoCfeMV) | 3:24 |
 | 54 | [The Present Is a Gift](https://open.spotify.com/track/6Lp5QVSsAFVX3tSdQXmWG0) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [The Present Is a Gift](https://open.spotify.com/album/1a3P5dc4h5NHeMd2PR1Rnz) | 3:42 |
 
-Snapshot ID: `MTY2Mjc0OTkwMywwMDAwMDAwMDZkZWZhYjE4NGI3OTMwMmY4ODk1NDQ3YWU5NDgzOTk0`
+Snapshot ID: `MTY2Mjk5ODg5NiwwMDAwMDAwMDY3YjM1NmY1YjQ0ZWM1MzhiNThkMTMxNDFhZTIyMDdl`

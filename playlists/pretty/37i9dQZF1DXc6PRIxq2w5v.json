@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Samuel Shikoba, SAMU\u00c9U",
-  "num_followers": 92383,
+  "num_followers": 92444,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDJiOWI4NDJjNDQ1MmYyY2QzZWVhZWUyYWUyYTk2YzNm",
+  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDFhNDg0OTIyYmVlNmUxYmUyYjVlZTE0NTExYjI0NDdh",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "J\u00e1 Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "J\u00e1 Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Diamante na Lama",
         "url": "https://open.spotify.com/album/0D5Yz9YNHe2DVSLjXfGD7o"
       },
@@ -279,38 +295,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Rei",
-        "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
+        "name": "Tudo E\u0301 Vaidade",
+        "url": "https://open.spotify.com/album/3HUEAsnvTveLPcRPIEaWCm"
       },
       "artists": [
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
         },
         {
-          "name": "Sensei Songs",
-          "url": "https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb"
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
         }
       ],
-      "duration_ms": 143530,
-      "name": "Rei",
-      "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "J\u00e1 Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "J\u00e1 Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
+      "duration_ms": 205440,
+      "name": "Tudo E\u0301 Vaidade",
+      "url": "https://open.spotify.com/track/6nnDsAsZLFLrAja13FlHbk"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -331,22 +331,38 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Tudo E\u0301 Vaidade",
-        "url": "https://open.spotify.com/album/3HUEAsnvTveLPcRPIEaWCm"
+        "name": "Rei",
+        "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
       },
       "artists": [
         {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         },
         {
-          "name": "Cefas Music",
-          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+          "name": "Sensei Songs",
+          "url": "https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Tudo E\u0301 Vaidade",
-      "url": "https://open.spotify.com/track/6nnDsAsZLFLrAja13FlHbk"
+      "duration_ms": 143530,
+      "name": "Rei",
+      "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Prazer Jesus",
+        "url": "https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Prazer Jesus",
+      "url": "https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -411,54 +427,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
-        "url": "https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q"
-      },
-      "artists": [
-        {
-          "name": "OnSet",
-          "url": "https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI"
-        },
-        {
-          "name": "Ago de Souza",
-          "url": "https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk"
-        },
-        {
-          "name": "Stella Yeshua",
-          "url": "https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW"
-        },
-        {
-          "name": "Dablyo",
-          "url": "https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz"
-        },
-        {
-          "name": "Jana Baps",
-          "url": "https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
-      "url": "https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Prazer Jesus",
-        "url": "https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Prazer Jesus",
-      "url": "https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Em Cima da Laje",
         "url": "https://open.spotify.com/album/4QJJR3ExxmcUEo8SAjdhVd"
       },
@@ -495,6 +463,38 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
+        "url": "https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q"
+      },
+      "artists": [
+        {
+          "name": "OnSet",
+          "url": "https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI"
+        },
+        {
+          "name": "Ago de Souza",
+          "url": "https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk"
+        },
+        {
+          "name": "Stella Yeshua",
+          "url": "https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW"
+        },
+        {
+          "name": "Dablyo",
+          "url": "https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz"
+        },
+        {
+          "name": "Jana Baps",
+          "url": "https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
+      "url": "https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Flow Rei Davi",
         "url": "https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 118285,
       "name": "Flow Rei Davi",
       "url": "https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Ainda N\u00e3o \u00c9 o Fim",
+        "url": "https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 161425,
+      "name": "Ainda N\u00e3o \u00c9 o Fim",
+      "url": "https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -539,22 +555,6 @@
       "duration_ms": 282000,
       "name": "O Pecado Te Prometeu",
       "url": "https://open.spotify.com/track/5y7B1Wc64S5ezzFYHEyxAI"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Ainda N\u00e3o \u00c9 o Fim",
-        "url": "https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 161425,
-      "name": "Ainda N\u00e3o \u00c9 o Fim",
-      "url": "https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
-        "url": "https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S"
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 206000,
-      "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
-      "url": "https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2"
+      "duration_ms": 185430,
+      "name": "Reino",
+      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -679,42 +679,6 @@
       "duration_ms": 184658,
       "name": "Voc\u00ea Sabe",
       "url": "https://open.spotify.com/track/27jTj00B4DJ0bNfiJPq4dL"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 185430,
-      "name": "Reino",
-      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Pedra",
-        "url": "https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 190270,
-      "name": "Pedra",
-      "url": "https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -759,6 +723,42 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
+        "url": "https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
+      "url": "https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Pedra",
+        "url": "https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 190270,
+      "name": "Pedra",
+      "url": "https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Baptizo",
+        "url": "https://open.spotify.com/album/7oDywhCIJcJqhEgy78uscV"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 200565,
+      "name": "Baptizo",
+      "url": "https://open.spotify.com/track/0pV4StfIqMhVAKccs3DD9n"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Vai Mudar",
         "url": "https://open.spotify.com/album/78s4csR8NETKObiZTMkvXJ"
       },
@@ -819,6 +835,22 @@
       "duration_ms": 227795,
       "name": "Vai Mudar",
       "url": "https://open.spotify.com/track/1q6OSrmIVmh5gOm7iGu2IJ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "\u00c1guias",
+        "url": "https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 213929,
+      "name": "\u00c1guias",
+      "url": "https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -859,22 +891,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "\u00c1guias",
-        "url": "https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 213929,
-      "name": "\u00c1guias",
-      "url": "https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Notas de um Cora\u00e7\u00e3o Amado",
         "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 133653,
       "name": "Al\u00e9m",
       "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Baptizo",
-        "url": "https://open.spotify.com/album/7oDywhCIJcJqhEgy78uscV"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 200565,
-      "name": "Baptizo",
-      "url": "https://open.spotify.com/track/0pV4StfIqMhVAKccs3DD9n"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Vazio",
         "url": "https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 154390,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Iluminado",
-        "url": "https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd"
-      },
-      "artists": [
-        {
-          "name": "Mc Miller",
-          "url": "https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6"
-        }
-      ],
-      "duration_ms": 233100,
-      "name": "Eu Sou Iluminado",
-      "url": "https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/4dzKbTq1stnawn67OPO024"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 147000,
       "name": "BABY",
       "url": "https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd"
+      },
+      "artists": [
+        {
+          "name": "Mc Miller",
+          "url": "https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6"
+        }
+      ],
+      "duration_ms": 233100,
+      "name": "Eu Sou Iluminado",
+      "url": "https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "\u00c9 Verdade Esse Bilete",
-        "url": "https://open.spotify.com/album/1CEstB0kyjgFBdu7kGDWJu"
+        "name": "CQC",
+        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
       },
       "artists": [
         {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 193868,
-      "name": "\u00c9 Verdade Esse Bilete",
-      "url": "https://open.spotify.com/track/3KtQHdub9wOOGGNcC68nHr"
+      "duration_ms": 181090,
+      "name": "CQC",
+      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "CQC",
-        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
+        "name": "\u00c9 Verdade Esse Bilete",
+        "url": "https://open.spotify.com/album/1CEstB0kyjgFBdu7kGDWJu"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 181090,
-      "name": "CQC",
-      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
+      "duration_ms": 193868,
+      "name": "\u00c9 Verdade Esse Bilete",
+      "url": "https://open.spotify.com/track/3KtQHdub9wOOGGNcC68nHr"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "O \u00danico",
-        "url": "https://open.spotify.com/album/3BjqoK95j0hdBWLludsc2S"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "O \u00danico",
-      "url": "https://open.spotify.com/track/0ahTUkq5B6miJJFEAb02uU"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Escola do Crime",
         "url": "https://open.spotify.com/album/0CR7CEwmTwYJcXs7svuPQ7"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 140089,
       "name": "Escola do Crime",
       "url": "https://open.spotify.com/track/3E9gQR89YBL51q3o0jqnR3"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "O \u00danico",
+        "url": "https://open.spotify.com/album/3BjqoK95j0hdBWLludsc2S"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "O \u00danico",
+      "url": "https://open.spotify.com/track/0ahTUkq5B6miJJFEAb02uU"
     },
     {
       "added_at": "2022-09-02 03:00:00",

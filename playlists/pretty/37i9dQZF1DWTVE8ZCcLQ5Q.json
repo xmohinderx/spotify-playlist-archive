@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421444,
+  "num_followers": 421442,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDYxMjkzODJiYzUyM2I5MjhjZWU1NWUyMGQ2MjdjYjBm",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDY5YjlkYTRkMjFkYWFhODZlOTc0NzZlOTc4NGM1NTE2",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Incrivel Jogando a Potranca",
-        "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "DJ Swat",
-          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Incrivel Jogando a Potranca",
-      "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "INVEJOSO",
         "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Incrivel Jogando a Potranca",
+        "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "DJ Swat",
+          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Incrivel Jogando a Potranca",
+      "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "aff...",
-        "url": "https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 164471,
-      "name": "aff...",
-      "url": "https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Garrafa Colorida",
         "url": "https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 164000,
       "name": "Garrafa Colorida",
       "url": "https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "aff...",
+        "url": "https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 164471,
+      "name": "aff...",
+      "url": "https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Capa de Revista",
-        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Capa de Revista",
-      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Comum - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 211428,
       "name": "Comum - A COLORS SHOW",
       "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Capa de Revista",
+        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Capa de Revista",
+      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -891,22 +891,18 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
+        "name": "Sextou BB 4 Completo (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw"
       },
       "artists": [
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
+      "duration_ms": 163879,
+      "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -931,18 +927,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Sextou BB 4 Completo (Ao Vivo em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw"
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
       },
       "artists": [
         {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
         }
       ],
-      "duration_ms": 163879,
-      "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
+      "duration_ms": 222857,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Devagarin",
-        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 154331,
-      "name": "Devagarin",
-      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -1151,6 +1135,38 @@
       "duration_ms": 303550,
       "name": "Baile de M\u00e1scaras (Recarnaval)",
       "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Devagarin",
+        "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 154331,
+      "name": "Devagarin",
+      "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Mais Uma Can\u00e7\u00e3o Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 288383,
+      "name": "Mais Uma Can\u00e7\u00e3o Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1191,34 +1207,6 @@
       "duration_ms": 166987,
       "name": "Jogo de Aposta",
       "url": "https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Lu\u00edsa Nascim",
-          "url": "https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU"
-        },
-        {
-          "name": "Marley no Beat",
-          "url": "https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH"
-        },
-        {
-          "name": "Tombc",
-          "url": "https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6"
-        }
-      ],
-      "duration_ms": 135285,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp"
     }
   ],
   "unique_name": "RADAR Brasil",

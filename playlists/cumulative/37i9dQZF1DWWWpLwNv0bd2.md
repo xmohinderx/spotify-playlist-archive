@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-81 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+82 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Kankoththi Paravaye \(From "Vattam"\)](https://open.spotify.com/track/4vweFWzWXPxQDgjs9j47Zu) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Kankoththi Paravaye \(From "Vattam"\)](https://open.spotify.com/album/0QEPSYBGO2izXOh7M6ciCi) | 4:50 | 2022-07-14 |  |
 | [Kannaatti \- From "Nooru Kodi Vaanavil"](https://open.spotify.com/track/078WZFboD5e0uQeYR2xpqd) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kannaatti \(From "Nooru Kodi Vaanavil"\)](https://open.spotify.com/album/3nqzwf8h7PsjuurResxVIp) | 3:21 | 2022-03-11 |  |
 | [Kone Komaane](https://open.spotify.com/track/0pgcemvSQD0ZdZBDtZqY5o) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 5:35 | 2022-05-31 | 2022-08-08 |
+| [Kurumugil \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/5e2eJl3qNNGWllzSFCYrad) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kurumugil \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/3QbblpY2hZM0cEhAs3baV7) | 3:38 | 2022-09-12 |  |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-11-29 |  |
 | [Kylaa \- From "Captain"](https://open.spotify.com/track/6QCx1Fq1kwpLQZaHySfVEH) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Kylaa \(From "Captain"\)](https://open.spotify.com/album/1t1JfkhPB3F0ulqq1MYmNg) | 4:26 | 2022-08-12 |  |
 | [Little Little](https://open.spotify.com/track/6Crs0KY6mHL9e1YEKNYUAl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Galatta Kalyaanam](https://open.spotify.com/album/4gAUrEjPH7kC6Hwtnx5uhj) | 4:17 | 2021-12-13 |  |

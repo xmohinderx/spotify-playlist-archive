@@ -4,12 +4,13 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-210 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+211 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4AM \(feat\. HOLT.\)](https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:14 | 2021-12-03 |  |
-| [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-11 |  |
+| [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-11 | 2022-09-13 |
+| [about you](https://open.spotify.com/track/5Q9TqsxESs6B2GqOambNLm) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:47 | 2022-07-15 |  |
 | [Affection](https://open.spotify.com/track/4SSTO88KFsMLeYF7kuMzWl) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Affection](https://open.spotify.com/album/1YsdHyHqR7rC8JdjXW5mtF) | 3:32 | 2021-12-03 | 2022-02-12 |
 | [Affliction \(Tiësto & Zaxx, feat\. Olivera\)](https://open.spotify.com/track/3p7KP0WUSpQf5r2xtkws1F) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Zaxx](https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 5:31 | 2021-12-03 | 2022-05-07 |
 | [Afraid of Love](https://open.spotify.com/track/36bE2OPOL9wwxAuFEjigbZ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Stondon Massey](https://open.spotify.com/artist/0f5OmOrnXOokDq55o3osxg) | [Afraid of Love](https://open.spotify.com/album/26rQDtJrRtWzA5L0dg0sJF) | 2:31 | 2022-03-25 |  |

@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Baby, Gucci Mane and Yeat.
+> RIP PnB Rock.
 
-1,346 songs - 2 day 21 hr 20 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,347 songs - 2 day 21 hr 24 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -989,6 +989,7 @@
 | [See You Space Cowboy...](https://open.spotify.com/track/2wRHD4n81GyhlVMxYJ0nks) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 4:00 | 2021-07-31 | 2021-08-14 |
 | [Seeing Green \(with Drake & Lil Wayne\)](https://open.spotify.com/track/1TZv3bujNaYz646eezRE91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 5:39 | 2021-05-15 | 2021-08-21 |
 | [Self Control](https://open.spotify.com/track/6kyT7ubem08Egg9a8f77OL) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Continuance](https://open.spotify.com/album/2I9XHDB70SfH4Kkjakc90X) | 3:05 | 2019-09-06 | 2019-12-13 |
+| [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 | 2022-09-13 |  |
 | [Serial Killers](https://open.spotify.com/track/5KcZNsrl7PMIxJ2xBbTwH3) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Serial Killers](https://open.spotify.com/album/1Odwcvb4QNe1pCYZnG8K25) | 3:08 | 2022-04-15 | 2022-07-09 |
 | [Set Up Story Part 1](https://open.spotify.com/track/3t6HeF7UPZmdA3DLupbyqJ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Set Up Story Part 1](https://open.spotify.com/album/2ujkEL9F2W32Sg5GTSvuVI) | 2:49 | 2022-05-27 | 2022-06-11 |
 | [Sextasy](https://open.spotify.com/track/5jlLBqK31dOqXECKn3jlMX) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sextasy](https://open.spotify.com/album/5AHaOSqgHl1KLpfujwLpRR) | 3:45 | 2019-08-16 | 2019-08-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1SM8IZ5aPl2wVazZIUOb0H.md) - [plain]
 
 > 
 
-[Telkin](https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8) - 5 likes - 48 songs - 2 hr 54 min
+[Telkin](https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8) - 6 likes - 48 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

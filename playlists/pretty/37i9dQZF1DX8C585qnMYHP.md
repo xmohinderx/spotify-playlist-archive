@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Cameron Morse Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,499 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,539 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 17 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 |
 | 18 | [Open Mind](https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ) | [gonima](https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80) | [Strands](https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn) | 2:35 |
 | 19 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
-| 20 | [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 |
-| 21 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
+| 20 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
+| 21 | [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 |
 | 22 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
-| 23 | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk) | 6:23 |
-| 24 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
-| 25 | [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 |
+| 23 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
+| 24 | [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 |
+| 25 | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk) | 6:23 |
 | 26 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
 | 27 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 |
 | 28 | [Time Traveller](https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a) | [Koloah](https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM) | [Time Traveller](https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L) | 4:29 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 31 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
 | 32 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 |
 | 33 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
-| 34 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 |
-| 35 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
-| 36 | [Wildfire](https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM) | [Minru](https://open.spotify.com/artist/7ofDeyinYugiOywRxjs5c2) | [Liminality](https://open.spotify.com/album/35b5EStxb2BkZnfyJr2CiR) | 4:06 |
-| 37 | [La Brume](https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Image Langage](https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy) | 5:38 |
-| 38 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
+| 34 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
+| 35 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 |
+| 36 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
+| 37 | [Wildfire](https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM) | [Minru](https://open.spotify.com/artist/7ofDeyinYugiOywRxjs5c2) | [Liminality](https://open.spotify.com/album/35b5EStxb2BkZnfyJr2CiR) | 4:06 |
+| 38 | [La Brume](https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Image Langage](https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy) | 5:38 |
 | 39 | [sunflower](https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [it's a secret / sunflower](https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6) | 3:44 |
 | 40 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 |
-| 41 | [⥀.003 Zoom](https://open.spotify.com/track/5YlEL3r8ASHb1c7sdwJ9CF) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Grow! \(Re\-sync\)](https://open.spotify.com/album/1VzZwAZzmehSqYk2aDsDmP) | 2:42 |
-| 42 | [you're always with me](https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [you're always with me](https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id) | 4:08 |
+| 41 | [you're always with me](https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [you're always with me](https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id) | 4:08 |
+| 42 | [⥀.003 Zoom](https://open.spotify.com/track/5YlEL3r8ASHb1c7sdwJ9CF) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Grow! \(Re\-sync\)](https://open.spotify.com/album/1VzZwAZzmehSqYk2aDsDmP) | 2:42 |
 | 43 | [UFO](https://open.spotify.com/track/0UUtE4lVu3L0TWGlMSDwQd) | [Krischvn](https://open.spotify.com/artist/4VT88y8BOxQjndfg6LS2Od) | [UFO](https://open.spotify.com/album/51ED2mdClgKUQEEvwoleqR) | 2:57 |
 | 44 | [Spirito della Domenica](https://open.spotify.com/track/49BcVeFV0VuU9v73JxQFL1) | [Arieti Rilassati](https://open.spotify.com/artist/6TWgi8oIy1OFh9P7EglVUt) | [Vacanza Tranquilla](https://open.spotify.com/album/4Sh3OGcoT7T8ViG262Wgwf) | 4:58 |
-| 45 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 |
-| 46 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
+| 45 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
+| 46 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 |
 | 47 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 |
 | 48 | [Clear \(Eight\-Circuit Mix\)](https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC) | [FFT](https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6) | [Clear](https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ) | 3:33 |
-| 49 | [Recklessly](https://open.spotify.com/track/7MPIHBgqA4UN1WpZ8iaDrC) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [Third Places](https://open.spotify.com/album/3IcMehEpCefcsYx1GESzZb) | 4:01 |
-| 50 | [Daniel](https://open.spotify.com/track/0zRORRGfCQ0EeUpmNnhl9W) | [Oppressive Nights](https://open.spotify.com/artist/2YJuZXllTuUURll8JrPhCh) | [Ambient 3](https://open.spotify.com/album/4VALxWn2hbFSr9UbIkRq2a) | 3:09 |
+| 49 | [Daniel](https://open.spotify.com/track/0zRORRGfCQ0EeUpmNnhl9W) | [Oppressive Nights](https://open.spotify.com/artist/2YJuZXllTuUURll8JrPhCh) | [Ambient 3](https://open.spotify.com/album/4VALxWn2hbFSr9UbIkRq2a) | 3:09 |
+| 50 | [Recklessly](https://open.spotify.com/track/7MPIHBgqA4UN1WpZ8iaDrC) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [Third Places](https://open.spotify.com/album/3IcMehEpCefcsYx1GESzZb) | 4:01 |
 
-Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMDJiZWIwYjkzMDZmNzUwNTllMzY3M2EyNGU3ODdiNDE0`
+Snapshot ID: `MTY2MjUyMzIwMCwwMDAwMDAwMDg1NWFlYzgxZDI4YzQ5YzgxMjdjNThjODhhZGQ0Yjc3`

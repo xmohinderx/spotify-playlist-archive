@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Murder (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3jF1i3eP1K4G9U2iAExVs2"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274466,
+      "name": "Bheegey Hont",
+      "url": "https://open.spotify.com/track/7cJ8Sf6z8E7tPyVuo0ETGz"
+    },
+    {
+      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/6c2zupXpRImauhHNbuGmM8"
       },
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 346520,
       "name": "Dekho Na",
       "url": "https://open.spotify.com/track/0ZqrMtN3KBwTG4U6yD7dXW"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-783 songs - 1 day 18 hr 44 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+784 songs - 1 day 18 hr 47 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Babalik Sa'yo \- from 2 Good 2 Be True](https://open.spotify.com/track/2e7iqtA42EPXTtiiAlblC1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Babalik Sa'yo \(from 2 Good 2 Be True\)](https://open.spotify.com/album/5Sw8579gMyFd8JcKaeEbXx) | 3:49 | 2022-08-29 |  |
 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 | 2022-02-25 | 2022-03-22 |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-04-04 | 2022-04-20 |
-| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-26 |  |
+| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-26 | 2022-09-13 |
 | [Bafora o Lança \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Bafora o Lança \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 | 2022-08-13 |  |
 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 | 2022-05-24 | 2022-06-08 |
 | [Baile no Morro](https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Baile no Morro](https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230) | 2:20 | 2022-07-05 | 2022-07-27 |
@@ -278,6 +278,7 @@
 | [God Bless The U.S.A.](https://open.spotify.com/track/4pDU8T52yTGZutyDQd8qSF) | [Lee Greenwood](https://open.spotify.com/artist/3g229vTyhsdwm9SO2p1FPL) | [You've Got A Good Love Comin'](https://open.spotify.com/album/4sOTQhdDVzGJaG3GUJttnq) | 3:10 | 2022-07-06 | 2022-07-10 |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-03-01 | 2022-03-07 |
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2021-12-27 | 2022-01-04 |
+| [God Save Our Queen \(British National Anthem\)](https://open.spotify.com/track/0iIJAyiAZHoIxKYMhsfmCA) | [The Royal British Choir](https://open.spotify.com/artist/1zNParmMHxdwIuU2ueURwi) | [God Save Our Queen \(British National Anthem\)](https://open.spotify.com/album/0DnTUxwfKBrp9F0nu3gNc9) | 2:22 | 2022-09-12 |  |
 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 | 2022-09-10 |  |
 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-08-24 |  |
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-24 | 2022-06-22 |

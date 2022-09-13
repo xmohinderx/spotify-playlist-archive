@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en summer vibes! Cover: Kleine John
 
-163 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+164 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Gallis](https://open.spotify.com/track/7q8Tp091I66Nv4Vki6u2ru) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Doe Het Nou Gewoon](https://open.spotify.com/album/3ltzF8mEkuEygpncv6S9Ut) | 2:34 | 2022-07-27 | 2022-08-12 |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2022-07-14 | 2022-08-26 |
 | [Good Girls](https://open.spotify.com/track/4CAaHP9HwaaJeh1sJrsNrR) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Jordan Knows](https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId) | [Good Girls](https://open.spotify.com/album/321080p33tt05xgRoJHEov) | 2:46 | 2022-09-08 |  |
+| [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-12 |  |
 | [Hasta Abajo](https://open.spotify.com/track/48GWHY9Eizq0Hfbk2eXGga) | [Jorda](https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5), [Godwonder](https://open.spotify.com/artist/6BleBBYjao1MPvOoJ5yYSv) | [Hasta Abajo](https://open.spotify.com/album/6N5hxh9kJdRtKllzb14BID) | 2:06 | 2022-07-14 | 2022-07-22 |
 | [HEAVY](https://open.spotify.com/track/7gLBmiTRzVqJ9curo0dj1N) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [HEAVY](https://open.spotify.com/album/1aUbkV0ro5B4f2HJMd2FMY) | 2:57 | 2022-07-14 | 2022-08-26 |
 | [Herra](https://open.spotify.com/track/4NaDrj1SBAmEhMFlFgLkAk) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Herra](https://open.spotify.com/album/6caYCKQZPQwGwQMCVj0lDd) | 2:06 | 2022-07-21 | 2022-08-24 |
@@ -166,7 +167,7 @@
 | [What It Do](https://open.spotify.com/track/2V3mQTPHYkxbkYxXMjnKFA) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [What It Do](https://open.spotify.com/album/6mGvNyQkTHVENlyF7qjRnG) | 2:35 | 2022-07-14 | 2022-07-28 |
 | [Whine It](https://open.spotify.com/track/6cXYZU8NJoWrMhHpABkRVS) | [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Eshconinco](https://open.spotify.com/artist/4GcktEVE1rB4Kyv1woxUrx), [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Whine It](https://open.spotify.com/album/5NwUOJu0jq2XlQS4lAOIN0) | 2:30 | 2022-07-14 | 2022-08-24 |
 | [Yoga](https://open.spotify.com/track/6o8XenxD6Tu9QrJQVfAEpr) | [Oli Yayo](https://open.spotify.com/artist/4DCi3ihpMPqe9l3D9sGbJI), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Yoga](https://open.spotify.com/album/3ZLui3PucbtRIc8oRiv6K5) | 2:30 | 2022-08-11 |  |
-| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 |  |
+| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-09-13 |
 | [Zeg niks meer \(feat\. Henkie T\)](https://open.spotify.com/track/1DXfyistEKhll1oHNYYCiJ) | [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W), [Hakmadafack](https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Zeg niks meer \(feat\. Henkie T\)](https://open.spotify.com/album/7aqf8j31O1SWsMNxMTC2h0) | 2:11 | 2022-07-14 | 2022-07-29 |
 | [Zet Het](https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Zet Het](https://open.spotify.com/album/7ty1ahSMTnaaYOng1VyZoU) | 2:59 | 2022-07-14 | 2022-07-28 |
 | [Zet Je Goed](https://open.spotify.com/track/2KEZIZyGqQPWGwy3Smg4ax) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Zet Je Goed](https://open.spotify.com/album/5j7eL60BT8KMN8TyAuRhBh) | 2:53 | 2022-08-04 | 2022-08-26 |

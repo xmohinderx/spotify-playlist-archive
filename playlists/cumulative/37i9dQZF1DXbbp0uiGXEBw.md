@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Chi Pu
 
-105 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+106 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Got You](https://open.spotify.com/track/28mj6cmfJWSxOCdeNRbyWw) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Got You](https://open.spotify.com/album/3UjnX1grSaDSrfGG4NWaM2) | 4:25 | 2021-12-07 | 2022-01-01 |
 | [Gái Độc Thân](https://open.spotify.com/track/2klsSb2iTfgDh95Ak9uWY2) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Gái Độc Thân](https://open.spotify.com/album/4gDgccYkth0VxOc4m5IpIJ) | 3:05 | 2021-12-07 |  |
 | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/track/3pyHABNUu0QxeyH1x8p7yf) | [Hiền Hồ](https://open.spotify.com/artist/6ZmHJcmCcc9X2sAyz6cHng), [Vuong Anh Tu](https://open.spotify.com/artist/3OeYidiG0MAcGmiSwTHZf6) | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/album/3fAy66dEycL2DFH0oqzBHU) | 4:36 | 2021-12-07 | 2022-07-29 |
-| [Gặp Nhưng Không Ở Lại](https://open.spotify.com/track/6jvCnAiPiiy5OORy8x4hRI) | [Hiền Hồ](https://open.spotify.com/artist/6ZmHJcmCcc9X2sAyz6cHng), [Vuong Anh Tu](https://open.spotify.com/artist/3OeYidiG0MAcGmiSwTHZf6) | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/album/2cCbF4TfEyyk4nldCGvXNR) | 4:36 | 2022-07-24 |  |
+| [Gặp Nhưng Không Ở Lại](https://open.spotify.com/track/6jvCnAiPiiy5OORy8x4hRI) | [Hiền Hồ](https://open.spotify.com/artist/6ZmHJcmCcc9X2sAyz6cHng), [Vuong Anh Tu](https://open.spotify.com/artist/3OeYidiG0MAcGmiSwTHZf6) | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/album/2cCbF4TfEyyk4nldCGvXNR) | 4:36 | 2022-07-24 | 2022-09-13 |
 | [hai mươi hai \(22\)](https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [hai mươi hai \(22\)](https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v) | 3:58 | 2022-05-27 | 2022-07-06 |
 | [hai mươi hai \(22\) \[feat\. AMEE\]](https://open.spotify.com/track/0dHUKYXP9PJMN0RpR9dpFR) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 3:58 | 2022-06-30 |  |
 | [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 | 2022-07-24 |  |
@@ -81,6 +81,7 @@
 | [Phố Đã Lên Đèn](https://open.spotify.com/track/47Y12sZlWlug3AceKoS5Hh) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Phố Đã Lên Đèn](https://open.spotify.com/album/1JHWAfIDkPEz3Cs10s8nuR) | 4:46 | 2021-12-07 | 2022-07-29 |
 | [Quá Non](https://open.spotify.com/track/54ALpltRItn7C0DWJNjLAb) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Quá Non](https://open.spotify.com/album/2jCy87EiceLYBY2ktDg0rf) | 3:28 | 2021-12-30 | 2022-02-02 |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2021-12-07 |  |
+| [Sashimi](https://open.spotify.com/track/48ogJnwdNJGgHj2aNZhZq6) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Sashimi](https://open.spotify.com/album/04EHUwLYoqGaFYv9d7AJFG) | 3:51 | 2022-09-12 |  |
 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 | 2022-06-01 |  |
 | [Sau Nay, Hay Gap Lai Nhau Khi Hoa No](https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Hom Qua Hom Nay Va Sau Nay](https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar) | 4:36 | 2021-12-07 |  |
 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 | 2022-02-23 |  |

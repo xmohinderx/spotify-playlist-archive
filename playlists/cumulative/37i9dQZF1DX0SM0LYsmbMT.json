@@ -4424,6 +4424,24 @@
     },
     {
       "album": {
+        "name": "Banana Brains",
+        "url": "https://open.spotify.com/album/0TQAW3JUS4Rpfy6B6uvjOq"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132941,
+      "name": "Banana Brains",
+      "url": "https://open.spotify.com/track/6gP1JTKQELhAlPy3a1fPve"
+    },
+    {
+      "album": {
         "name": "Baqi Manda",
         "url": "https://open.spotify.com/album/1ZT8WJKVvrQ4CTdjBd678z"
       },
@@ -12543,7 +12561,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 96666,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/59TBfOXD5YhMkWdX82QhBi"
@@ -16782,6 +16800,28 @@
     },
     {
       "album": {
+        "name": "Mesame",
+        "url": "https://open.spotify.com/album/3gqQXgNVRFrTeuRthwyWAP"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Waywell",
+          "url": "https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Fettuccine",
+      "url": "https://open.spotify.com/track/3wP2ULHLvS3CRbaBe3vGBO"
+    },
+    {
+      "album": {
         "name": "Flamagra",
         "url": "https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl"
       },
@@ -19984,6 +20024,24 @@
     },
     {
       "album": {
+        "name": "Golden Milk",
+        "url": "https://open.spotify.com/album/1NY4dtqFmerWnLiaS8OWxK"
+      },
+      "artists": [
+        {
+          "name": "Malia L\u00f8u",
+          "url": "https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121980,
+      "name": "Golden Milk",
+      "url": "https://open.spotify.com/track/45YuK4uUIJxlrOUjYL9IyJ"
+    },
+    {
+      "album": {
         "name": "Golden Route",
         "url": "https://open.spotify.com/album/2rRVx1Ujfr2HwYipoJwO5a"
       },
@@ -20683,7 +20741,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 144878,
       "name": "Guanako",
       "url": "https://open.spotify.com/track/2dQtPhq5uiuRG2JaZ4DTiw"
@@ -35637,7 +35695,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 87159,
       "name": "New music",
       "url": "https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5"

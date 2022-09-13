@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,400 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 |
 | 50 | [Trench](https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/5XfEUtLHyx1mcHQ9bwWLZN) | 2:36 |
 
-Snapshot ID: `MTY2MjcyODQwMCwwMDAwMDAwMDBlYmJhN2YwMTM1MWI2ZjAwMDQ4NzFkM2FjYzUxNWEw`
+Snapshot ID: `MTY2MzAwOTk2OCwwMDAwMDAwMDVmYTExNjI1NWFlNWEzNDNhMTgzMGQyOWE1MGJiMjM1`

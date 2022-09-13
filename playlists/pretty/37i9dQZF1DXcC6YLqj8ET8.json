@@ -1,12 +1,12 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 172164,
+  "num_followers": 172253,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTMyMDg5NCwwMDAwMDAwMDVkNjNlYWU0MjIzMDk0OWQxOTdhNjk2NGI3MDMxNDlk",
+  "snapshot_id": "MTY0OTMyMDg5NCwwMDAwMDAwMDllN2Q1YTlkN2RkZjcyNDRjYjUxNzI1MmQyNTBhYTli",
   "tracks": [
     {
       "added_at": "2022-04-07 08:41:34",
@@ -159,6 +159,26 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
+        "name": "Duhan",
+        "url": "https://open.spotify.com/album/2rkrJKi74QsaWlV1ECTdEY"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Mazlum Uruc",
+          "url": "https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Duhan",
+      "url": "https://open.spotify.com/track/7w749aVZCoiZZwxhMLslw5"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
         "name": "Morocco",
         "url": "https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ"
       },
@@ -187,6 +207,38 @@
       "duration_ms": 184634,
       "name": "End",
       "url": "https://open.spotify.com/track/6oT2r8c9cKa1ZrYcRuB0Xy"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "Dam",
+        "url": "https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Dam",
+      "url": "https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "GHADAB",
+        "url": "https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG"
+      },
+      "artists": [
+        {
+          "name": "El-M3allem",
+          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+        }
+      ],
+      "duration_ms": 151158,
+      "name": "GHADAB",
+      "url": "https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -223,58 +275,6 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Duhan",
-        "url": "https://open.spotify.com/album/2rkrJKi74QsaWlV1ECTdEY"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        },
-        {
-          "name": "Mazlum Uruc",
-          "url": "https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Duhan",
-      "url": "https://open.spotify.com/track/7w749aVZCoiZZwxhMLslw5"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 170197,
-      "name": "Fury",
-      "url": "https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
-        "name": "Dam",
-        "url": "https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Dam",
-      "url": "https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
         "name": "Drop It Again",
         "url": "https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q"
       },
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "GHADAB",
-        "url": "https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG"
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW"
       },
       "artists": [
         {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
         }
       ],
-      "duration_ms": 151158,
-      "name": "GHADAB",
-      "url": "https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU"
+      "duration_ms": 170197,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Nouba",
-        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
-      },
-      "artists": [
-        {
-          "name": "RAMSSEY",
-          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
-        }
-      ],
-      "duration_ms": 178187,
-      "name": "Nouba",
-      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
         "name": "Raqsni",
         "url": "https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 176535,
       "name": "Izdaja",
       "url": "https://open.spotify.com/track/2oUAGVmjS4FMaHKxa7KQDh"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "Nouba",
+        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
+      },
+      "artists": [
+        {
+          "name": "RAMSSEY",
+          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
+        }
+      ],
+      "duration_ms": 178187,
+      "name": "Nouba",
+      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
-        "name": "Mazikah",
-        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
-      },
-      "artists": [
-        {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "Mazikah",
-      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 162346,
       "name": "Up",
       "url": "https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
+        "name": "Mazikah",
+        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
+      },
+      "artists": [
+        {
+          "name": "El-M3allem",
+          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "Mazikah",
+      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
     },
     {
       "added_at": "2022-04-07 08:41:34",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-04-07 08:41:34",
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Romel",
+          "url": "https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV"
+    },
+    {
+      "added_at": "2022-04-07 08:41:34",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 185600,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
-    },
-    {
-      "added_at": "2022-04-07 08:41:34",
-      "album": {
-        "name": "ALMAZAT",
-        "url": "https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ"
-      },
-      "artists": [
-        {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
-        }
-      ],
-      "duration_ms": 188722,
-      "name": "ALMAZAT",
-      "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
     }
   ],
   "unique_name": "Arabic Trap",

@@ -2604,6 +2604,24 @@
     },
     {
       "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "album": {
         "name": "Faisal (Envelops Me)",
         "url": "https://open.spotify.com/album/4ypZdBrZq9WRWbEkpqUA4D"
       },
@@ -4787,7 +4805,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 166751,
       "name": "Jinx",
       "url": "https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis"

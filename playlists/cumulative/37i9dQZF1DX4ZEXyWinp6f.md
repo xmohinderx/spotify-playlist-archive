@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-277 songs - 1 day 0 hr 41 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
+278 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Kaini Industries](https://open.spotify.com/track/3aqXL0g0eeZrS4Qlf7dV8O) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 0:59 | 2021-02-27 | 2021-05-23 |
 | [kaleido\_](https://open.spotify.com/track/0LFENddTet2slx0gC2Rncm) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM), [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [kaleido\_](https://open.spotify.com/album/3rTBoED7VcTPHLKSmI47hg) | 3:56 | 2021-01-21 | 2022-07-29 |
 | [Ki](https://open.spotify.com/track/6nCW5Ju2Yo3zCFKNYtNQvA) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 1:32 | 2020-07-07\* |  |
-| [Kill Scene](https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/5uBKGNG8GjtU8UP7I6pfZZ) | 3:54 | 2021-10-20 |  |
+| [Kill Scene](https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/5uBKGNG8GjtU8UP7I6pfZZ) | 3:54 | 2021-10-20 | 2022-09-13 |
 | [Kill Scene](https://open.spotify.com/track/6BcgUVvdkVAzuCIaneC9BG) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/0LCm7rJJdvgJp0GqZAYGpA) | 3:54 | 2020-09-08 | 2022-07-29 |
 | [Kompod](https://open.spotify.com/track/0i2IjtW0GaTSAYfmKEGtXB) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/6Vgdflce6Ty8CADUFC3Zu3) | 4:10 | 2020-07-07\* | 2022-07-29 |
 | [Konta Chorus](https://open.spotify.com/track/7uA1xAkVspG60nRdgi9Xhr) | [The Utopia Strong](https://open.spotify.com/artist/5Y2lwqHK1mYYIylNw18D2w) | [Konta Chorus](https://open.spotify.com/album/26dA0ID4M0Wz5TzhuvqaYv) | 3:37 | 2020-07-07\* | 2022-07-09 |
@@ -168,6 +168,7 @@
 | [Mineral](https://open.spotify.com/track/5l4XtEgfT0li1rjMxWWgfH) | [Camedor](https://open.spotify.com/artist/2Tiv6XRYSJm0WUy7447n3c) | [Portal](https://open.spotify.com/album/6qoTf6fG9Q3CqTXHvhZgrC) | 4:58 | 2020-07-07\* | 2022-07-29 |
 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 | 2021-10-07 |  |
 | [Mono No Aware 1.1](https://open.spotify.com/track/2Sd2YWMCCJUrYHRDlioiXO) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/6WcmuATLX8bEwJETYwaH3J) | 5:39 | 2020-10-20 | 2022-07-27 |
+| [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 | 2021-10-20 |  |
 | [Moon Dance](https://open.spotify.com/track/7FM0p2F07jhQknBY7svHjb) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 7:41 | 2022-02-21 | 2022-07-28 |
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2021-01-27 | 2022-07-16 |
 | [Motel \(Remastered\)](https://open.spotify.com/track/5kHLaixDc1OE8zytSqe8TK) | [Theremyn\_4](https://open.spotify.com/artist/5R37WmSrdy1f75boRjwLXU) | [Fluorescente Verde en el Patio \(Edición Especial 20 Aniversario\)](https://open.spotify.com/album/0gEv3PyCGNVrPBTOn8ulWI) | 5:02 | 2020-09-08 | 2021-03-23 |

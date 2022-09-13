@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Jaze on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,594 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,602 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,25 +27,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 17 | [La Soledad de los Números Primos](https://open.spotify.com/track/5xYxNW66uokmYiuAqV2n60) | [Cold Tropics](https://open.spotify.com/artist/5tmZlLEprz8Q802ACS5uKn) | [La Soledad de los Números Primos](https://open.spotify.com/album/174x34bB5RPR4gcT4eCudy) | 3:15 |
 | 18 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 |
 | 19 | [Fumar en el Cine](https://open.spotify.com/track/4U4gAOrhVCaCz1qdV4cT5z) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Fumar en el Cine](https://open.spotify.com/album/3U1fAnbdelWZ3dKxCISPvr) | 3:20 |
-| 20 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 21 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 |
-| 22 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
+| 20 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 |
+| 21 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
+| 22 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
 | 23 | [what she wants \(lo que ella quiere\)](https://open.spotify.com/track/4aj2NlhP3oA8Kku2uxKmrB) | [mg the realest](https://open.spotify.com/artist/1um42f3vCpcV9AW0pasfEY) | [what she wants \(lo que ella quiere\)](https://open.spotify.com/album/35mQtgVQMFLyHjzEQMy57n) | 2:18 |
 | 24 | [Acantilados](https://open.spotify.com/track/0CqNDLl4FNttIkXRsGseGW) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Acantilados](https://open.spotify.com/album/6zwTdrtd3h7xbuTK3a6fpM) | 3:11 |
 | 25 | [No Me Quieras Tanto](https://open.spotify.com/track/3SALW0JHFPsrk4WZGeqJA3) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:34 |
 | 26 | [La Fortuna](https://open.spotify.com/track/6mRo583BXJeOOSaUYqHvjU) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [La Fortuna](https://open.spotify.com/album/3dCPMqwndPfb2270NUjymY) | 2:58 |
-| 27 | [Burbujas de Papel](https://open.spotify.com/track/6e1VIdmvIfMgRPVoMUZxRq) | [Nique](https://open.spotify.com/artist/74Init4LokK2sCAMn6ne9Z) | [Burbujas de Papel](https://open.spotify.com/album/6OcVk4O3aHFSfvudJkgB5O) | 3:32 |
-| 28 | [Quiero Volver a Repetir](https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6) | 3:58 |
-| 29 | [Comprende](https://open.spotify.com/track/1ii8yeKRIJLDmmQjWPe4Kd) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Comprende](https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB) | 4:37 |
-| 30 | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU) | 3:29 |
+| 27 | [Quiero Volver a Repetir](https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6) | 3:58 |
+| 28 | [Burbujas de Papel](https://open.spotify.com/track/6e1VIdmvIfMgRPVoMUZxRq) | [Nique](https://open.spotify.com/artist/74Init4LokK2sCAMn6ne9Z) | [Burbujas de Papel](https://open.spotify.com/album/6OcVk4O3aHFSfvudJkgB5O) | 3:32 |
+| 29 | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU) | 3:29 |
+| 30 | [Comprende](https://open.spotify.com/track/1ii8yeKRIJLDmmQjWPe4Kd) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Comprende](https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB) | 4:37 |
 | 31 | [Naufragio](https://open.spotify.com/track/2DrfPQ6ONLQaWB7nSbrf8i) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Naufragio](https://open.spotify.com/album/78adW0Bc0zg5E6PqYdc3Vk) | 2:25 |
 | 32 | [Fuego](https://open.spotify.com/track/6XkTyoyuTotgPCDpDEQTOx) | [Kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT) | [Fuego](https://open.spotify.com/album/5K672EviATQUJg8QgeRzsm) | 2:05 |
 | 33 | [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 |
 | 34 | [First Date](https://open.spotify.com/track/1mJV99GhAgTMD5Zbn0oUQA) | [Joe Jazz](https://open.spotify.com/artist/6fRmaeJjxC3dVJTIDxnjN3) | [Traición](https://open.spotify.com/album/3F0FHxO3ZWnUJErPB0dM2k) | 3:12 |
 | 35 | [Luna](https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH) | [Laika en el Espacio](https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq) | [Luna](https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n) | 4:34 |
 | 36 | [Lo Que Dijimos](https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl) | [Mojo Myst](https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG) | [Lo Que Dijimos](https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3) | 3:56 |
-| 37 | [Fiebre](https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd) | [Fiebre](https://open.spotify.com/album/78jUy0XXm515NQnbkgPnFb) | 3:52 |
-| 38 | [Jardin de Rosas](https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C) | [Ramona Vee](https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B) | [Jardin de Rosas](https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR) | 3:22 |
+| 37 | [Jardin de Rosas](https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C) | [Ramona Vee](https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B) | [Jardin de Rosas](https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR) | 3:22 |
+| 38 | [Fiebre](https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd) | [Fiebre](https://open.spotify.com/album/78jUy0XXm515NQnbkgPnFb) | 3:52 |
 | 39 | [Boo](https://open.spotify.com/track/4THT4PeY7mKdgBUBBWHffc) | [JWolfy](https://open.spotify.com/artist/5rp4jlQq85cE30TVO7uYVm) | [No Me da Sueño](https://open.spotify.com/album/3SnYlBmch7TYVQnstjj9kJ) | 3:37 |
 | 40 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 |
 | 41 | [Lejos de Casa](https://open.spotify.com/track/73XCdtCioLUTL4EAvrKcqk) | [Victoria Yoi](https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T) | [Lejos de Casa](https://open.spotify.com/album/1wJMSBcODlTX2jN877SqqI) | 3:04 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 44 | [Mixta](https://open.spotify.com/track/5FfPTznt4H4MC4C0IyvM3H) | [Antuantu](https://open.spotify.com/artist/6uVAKYhqGGGvQg1UXB3ckV), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [Música tonta](https://open.spotify.com/album/3e37E07ITqzsxf0a3UfZnA) | 3:17 |
 | 45 | [Cariño](https://open.spotify.com/track/3IaaiGAn3anrqkGiYt6S5p) | [Bella Rabbit](https://open.spotify.com/artist/6XGWdlLPFBNsSRuLwpoyhy) | [Cariño](https://open.spotify.com/album/60AcpZ3D5zf3YgKq8iMOXn) | 3:14 |
 | 46 | [María](https://open.spotify.com/track/0Pe7U91cqrdUFW46STjAjV) | [Odin Parada](https://open.spotify.com/artist/0ZrCTT7qjo9iFI7ArCPoZE), [Andres Landon](https://open.spotify.com/artist/1E2YZnjGxFq8SxaQpDgG5o) | [María](https://open.spotify.com/album/1ONh865o0F9ugVXw7QQso5) | 4:15 |
-| 47 | [Chicomiel](https://open.spotify.com/track/4pdl1r8KGscHXTarQzP0it) | [Apollo No Te Vayas](https://open.spotify.com/artist/2EcTh9qrj4sDwdZCVQ55oW) | [Chicomiel](https://open.spotify.com/album/6X6DJXkpN2vkZRS6OMmalu) | 3:32 |
-| 48 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
+| 47 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
+| 48 | [Chicomiel](https://open.spotify.com/track/4pdl1r8KGscHXTarQzP0it) | [Apollo No Te Vayas](https://open.spotify.com/artist/2EcTh9qrj4sDwdZCVQ55oW) | [Chicomiel](https://open.spotify.com/album/6X6DJXkpN2vkZRS6OMmalu) | 3:32 |
 | 49 | [Piedra Angular](https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL) | [FE](https://open.spotify.com/artist/3rIhIOOuEkwLUu9FBNp30q) | [Piedra Angular](https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N) | 2:37 |
 | 50 | [Fugaz](https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG) | [Kev Sanart](https://open.spotify.com/artist/6xn2WeEucmAz1GRL2DlFS4) | [Fugaz](https://open.spotify.com/album/3buvXjwKjbGsOOg2fiwQL6) | 4:44 |
 
-Snapshot ID: `MTY2MjU3NDQ0NywwMDAwMDAwMGExOWFkMjdiMWZlZjc5MjhlNTVkMWE1Njc0YzllYjdl`
+Snapshot ID: `MTY2MjU3NDQ0NywwMDAwMDAwMDA3NDlkMjQxYTYwZjc4MDRkY2EwMTczNDNmMjk0NmEw`

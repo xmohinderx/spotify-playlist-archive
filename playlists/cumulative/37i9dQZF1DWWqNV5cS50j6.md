@@ -4,7 +4,7 @@
 
 > Gorillaz make anti pop.
 
-1,073 songs - 2 day 4 hr 9 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,074 songs - 2 day 4 hr 13 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [car](https://open.spotify.com/track/67T47UzX4SkgsSN5vNI0ec) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [exhausted\. / car](https://open.spotify.com/album/08g6Iht3H6hh9jnETTp7lI) | 2:06 | 2020-10-13\* | 2021-05-03 |
 | [Car](https://open.spotify.com/track/0r04MG8C4jr7yCirWGi03Y) | [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [Car](https://open.spotify.com/album/2Nc2587YJw9Lu2gYAk1hAz) | 3:46 | 2022-02-04 | 2022-05-10 |
 | [CARBON FIBER](https://open.spotify.com/track/2df0yoUDN2sroDcAwRqBWu) | [Sora](https://open.spotify.com/artist/152c4om9YE0xnviYewG7qH) | [CARBON FIBER](https://open.spotify.com/album/0lPCbnt0zPOUmoI8DKbZCv) | 4:07 | 2022-01-28 | 2022-03-01 |
+| [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 |  |
 | [CASTLE](https://open.spotify.com/track/7oEQApCP6NihfIYfNqlYlw) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [CASTLE](https://open.spotify.com/album/4bBkAvyBa03RflwiflLN8h) | 2:32 | 2020-11-13 | 2022-02-05 |
 | [Caught Up](https://open.spotify.com/track/2q6U5nhaGir7u5JdDlyBcE) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Caught Up](https://open.spotify.com/album/3wS0gOhNVeC22pYC7OlTSn) | 2:14 | 2020-10-13\* | 2021-03-26 |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 |  |
@@ -744,7 +745,7 @@
 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-10 | 2022-04-10 |
 | [Prison Break](https://open.spotify.com/track/67j6YdAlDwAiyh8D0dts9o) | [Jared Evan](https://open.spotify.com/artist/6HfPfjqkmkpLbYqYhTeNuB), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Dark Days](https://open.spotify.com/album/6ahoLVwIKFRhXOLWvW7Z2y) | 3:36 | 2021-10-22 | 2022-02-05 |
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2021-06-27 | 2021-09-11 |
-| [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC) | 4:40 | 2021-08-20 |  |
+| [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC) | 4:40 | 2021-08-20 | 2022-09-13 |
 | [Psycho](https://open.spotify.com/track/5YD7FHoqjqRIrKCoZqwxMJ) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [Psycho](https://open.spotify.com/album/0yxU5sgwYriCQ1b1NltxS2) | 3:55 | 2021-08-26 | 2021-09-08 |
 | [Pull A James Baldwin](https://open.spotify.com/track/4O8036TCZJZBl2We78Ju3A) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Pull A James Baldwin](https://open.spotify.com/album/029Zu1Q81NzzXNgI5S8fuh) | 2:13 | 2021-01-16 | 2021-06-05 |
 | [punk rock](https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [punk rock](https://open.spotify.com/album/08WWzkcjNxPpC8kAkTAkis) | 2:22 | 2022-07-29 | 2022-08-06 |

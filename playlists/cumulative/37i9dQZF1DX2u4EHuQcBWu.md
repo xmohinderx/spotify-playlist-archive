@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-264 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
+265 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 | 2021-09-24 | 2022-07-29 |
 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 | 2022-04-01 |  |
 | [Abuso de Autoridad](https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 2:01 | 2021-09-24 |  |
-| [Al Centro de la Injusticia](https://open.spotify.com/track/4yT9oSQbXPp3FpWgzmhM8g) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Isabel Canta a Violeta](https://open.spotify.com/album/0N19bDrMu1S7MgaF2q2wb3) | 3:20 | 2021-09-24 |  |
+| [Al Centro de la Injusticia](https://open.spotify.com/track/4yT9oSQbXPp3FpWgzmhM8g) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Isabel Canta a Violeta](https://open.spotify.com/album/0N19bDrMu1S7MgaF2q2wb3) | 3:20 | 2021-09-24 | 2022-09-13 |
 | [Al Final del Mundo Feat\. Claudio Parra](https://open.spotify.com/track/2xEDfYNXlRnJ4Af8SjwaLX) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Al Final del Mundo Feat\. Claudio Parra](https://open.spotify.com/album/7zRBnodaqIZzp0GxG2i9D8) | 4:05 | 2021-09-24 | 2022-07-17 |
 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 | 2021-09-24 |  |
 | [Al Pueblo Le Asusta la Revolución](https://open.spotify.com/track/0aAEMtiLmRrYlPO2PrK5E2) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R de Revolución](https://open.spotify.com/album/04OmvONxLNTgMcu6Rjf4m4) | 4:28 | 2021-09-24 | 2022-07-27 |
@@ -242,6 +242,7 @@
 | [Sobreviviendo](https://open.spotify.com/track/550EfMa9YTG5hUz0r5M528) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia \- 2da Parte](https://open.spotify.com/album/3tMmbUTG6koA8IHzenaEFj) | 5:46 | 2021-09-24 | 2022-07-29 |
 | [Sobreviviendo](https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia Del Folklore \(2da Parte\)](https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5) | 5:46 | 2021-09-24 |  |
 | [Soldado Sin Cara \(Radio Edit\)](https://open.spotify.com/track/3rX8hB8G35YMlGTC3h8w4X) | [Los Macuanos](https://open.spotify.com/artist/4bYrlBddwEtF2kYpMm9gBG) | [Soldado Sin Cara \(Radio Edit\)](https://open.spotify.com/album/1J5MXcrrdggZD2fmlg5D9s) | 4:20 | 2021-09-24 | 2022-07-28 |
+| [Somos fuerza](https://open.spotify.com/track/0LUAnwFYiHiQvkl5Q3wljH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Somos fuerza](https://open.spotify.com/album/5shCavByeevmLtNUzdEkMx) | 3:41 | 2022-09-12 |  |
 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 | 2021-09-24 |  |
 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 | 2021-09-24 |  |
 | [Somos Más Americanos](https://open.spotify.com/track/7ruHDQSfqJygovzRn7nzaN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/6eaHfflY8fJzRoUFkIA9Bj) | 4:10 | 2021-09-24 | 2022-07-29 |

@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Alpha Doll",
+        "url": "https://open.spotify.com/album/3vOH7G0k3MWCMkLWuz6Rlt"
+      },
+      "artists": [
+        {
+          "name": "Lidia",
+          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "Alpha Doll",
+      "url": "https://open.spotify.com/track/5JwxdYpoZPJasiOjpmeeB0"
+    },
+    {
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil"
       },
@@ -10793,7 +10811,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 240106,
       "name": "S' Agapao",
       "url": "https://open.spotify.com/track/6tfajS9NU9zqfOZdByVbV1"
@@ -14507,7 +14525,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 230755,
       "name": "\u0410+\u0413=\u0412\u041d\u041b",
       "url": "https://open.spotify.com/track/5bYyQzaUSXpGGrJuGZfafd"
@@ -14595,7 +14613,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 207326,
       "name": "\u0411\u0435\u0437 \u043b\u0435\u0434",
       "url": "https://open.spotify.com/track/18y7QMqWhkkd1akp6FmXgA"

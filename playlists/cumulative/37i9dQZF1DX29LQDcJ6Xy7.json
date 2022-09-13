@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
@@ -1189,6 +1189,24 @@
       "duration_ms": 299680,
       "name": "Head Like A Hole",
       "url": "https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe"
+    },
+    {
+      "album": {
+        "name": "Front By Front",
+        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302640,
+      "name": "Headhunter V1.0",
+      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
     },
     {
       "album": {

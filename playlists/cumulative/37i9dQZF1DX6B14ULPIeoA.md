@@ -4,7 +4,7 @@
 
 > ¡Dulces, verdes y rojos! Con su champurrado calientito.
 
-171 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/73UOu4GnK799VXnAbtt9LK)
+172 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/73UOu4GnK799VXnAbtt9LK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 | 2022-01-12 |  |
 | [La enramada \(Arr\. R\. Jonas\)](https://open.spotify.com/track/738P4VYhJCQOg7yXtFnwVy) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9) | 2:50 | 2022-01-12 | 2022-07-29 |
 | [La feria de las flores \(Arr\. R\. Jonas\)](https://open.spotify.com/track/3UpBtWoZJgJQWUYWjs51LY) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9) | 3:06 | 2022-01-12 | 2022-07-29 |
-| [La hiedra \(arr\. R\. Jonas\)](https://open.spotify.com/track/4XxMsPO1y0bIApGUdgMvHm) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 2:51 | 2022-01-12 |  |
+| [La feria de las flores \(arr\. R\. Jonas\)](https://open.spotify.com/track/6YNbMaPx4W3DPu7fhhwsrK) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:06 | 2022-01-12 |  |
+| [La hiedra \(arr\. R\. Jonas\)](https://open.spotify.com/track/4XxMsPO1y0bIApGUdgMvHm) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 2:51 | 2022-01-12 | 2022-09-13 |
 | [La hiedra \(Arr\. R\. Jonas\)](https://open.spotify.com/track/6nrmaEzad0hHGN6PPGlyH6) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/4EfsZRb9EGyKIAPrGHOeKT) | 2:51 | 2022-01-12 | 2022-07-29 |
 | [La Incondicional](https://open.spotify.com/track/3kPxCBbjKUubZRo9fSCtJg) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [La Incondicional](https://open.spotify.com/album/0jFyqIlb60Syz3EWhszmEE) | 3:00 | 2022-01-12 | 2022-07-28 |
 | [La llorona](https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 8:31 | 2022-01-12 |  |

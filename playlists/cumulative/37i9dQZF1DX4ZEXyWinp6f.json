@@ -2277,7 +2277,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 234795,
       "name": "Kill Scene",
       "url": "https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt"
@@ -2989,6 +2989,28 @@
       "duration_ms": 339954,
       "name": "Mono No Aware 1.1",
       "url": "https://open.spotify.com/track/2Sd2YWMCCJUrYHRDlioiXO"
+    },
+    {
+      "album": {
+        "name": "Selva Oscura",
+        "url": "https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339954,
+      "name": "Mono No Aware 1.1",
+      "url": "https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: Bbyafricka
+> California music breaking waves\. Cover: Zyah Belle
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,932 likes - 53 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,942 likes - 53 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 52 | [Secret's Safe](https://open.spotify.com/track/1sdusXPv3BquvE9Sg6chPB) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz), [Kezia](https://open.spotify.com/artist/6QRZexC48OMSnzGpiLxTHK) | [Songs That I Hate to Sing](https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW) | 3:37 |
 | 53 | [Majestic](https://open.spotify.com/track/1VlibpJ8m2PupJBQbvYcGJ) | [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [Heartbreak In Paradise](https://open.spotify.com/album/3Tfcie42AVpHIgWkkjzrKh) | 2:19 |
 
-Snapshot ID: `MTY2Mjc0OTYzOCwwMDAwMDAwMDk2MTE2ODNhMDZjZjA1N2Q4ZGU2ZWRkZGY2NzQ3ZDU4`
+Snapshot ID: `MTY2Mjk5ODEyMSwwMDAwMDAwMGI0NjY1NDlmNzQ2Yzk4ZDg5YmFjZWQ2NDEwZDg0MDg2`

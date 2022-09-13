@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14060,
+  "num_followers": 14069,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGYxMTZiZmMzYjI2YWI3ZWU1YzY2NmE2ZjA2NjUzNjM3",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGI2MjVhOTIyYmNiODdlYThkYjI1ZDk2MmI4YzZlMmZl",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Pump the Brakes (LP Giobbi Remix)",
+        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 279685,
+      "name": "Pump the Brakes - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Pump the Brakes (LP Giobbi Remix)",
-        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 279685,
-      "name": "Pump the Brakes - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Bad Things (Remixes)",
+        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Kaidro",
+          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
+        }
+      ],
+      "duration_ms": 282162,
+      "name": "Bad Things - Kaidro Remix",
+      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Where The Lights Are Low (TCTS Remix)",
         "url": "https://open.spotify.com/album/0nygPueuIT8Z6s12xrBDnW"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 178064,
       "name": "Where The Lights Are Low - TCTS Remix",
       "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Bad Things (Remixes)",
-        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Kaidro",
-          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
-        }
-      ],
-      "duration_ms": 282162,
-      "name": "Bad Things - Kaidro Remix",
-      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1963,34 +1963,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Desire (Vintage Culture & Kiko Franco Remix)",
-        "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
-      "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Pomegranate (Jay Robinson Remix)",
         "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
       },
@@ -2011,26 +1983,6 @@
       "duration_ms": 332691,
       "name": "Pomegranate - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2059,6 +2011,54 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Desire (Vintage Culture & Kiko Franco Remix)",
+        "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
+      "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Paradise (Wh0 Remix)",
         "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
       },
@@ -2079,26 +2079,6 @@
       "duration_ms": 222720,
       "name": "Paradise - Wh0 Remix",
       "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2127,6 +2107,26 @@
       "duration_ms": 218234,
       "name": "Impact - Soulwax Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/1bHrUhSO0HYL1bM8QeYJww"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
         "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
       },
@@ -2207,6 +2187,26 @@
       "duration_ms": 185652,
       "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
       "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2231,30 +2231,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        }
-      ],
-      "duration_ms": 221032,
-      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Thing Called Love (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
       },
@@ -2275,6 +2251,30 @@
       "duration_ms": 338442,
       "name": "Thing Called Love - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        }
+      ],
+      "duration_ms": 221032,
+      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
     },
     {
       "added_at": "2021-07-30 04:00:00",

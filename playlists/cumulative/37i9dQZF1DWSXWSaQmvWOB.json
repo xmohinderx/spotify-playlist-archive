@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "Your daily dose of soul-infused music! Cover: Cory Henry",
+  "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
   "name": "Soul 'n' the City",
   "published_playlist_ids": [
     "6qA0E068EG9WMYU2rtBJTj"
@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/7hnrKp9gJfTwMyu87ORT7I"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/3imW9xm9mC6koegNba6pL9"
+    },
+    {
+      "album": {
         "name": "Bounce Back",
         "url": "https://open.spotify.com/album/6zq9FyVRD3V4RtriLDmCny"
       },
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 279453,
       "name": "deeper",
       "url": "https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H"
@@ -5533,7 +5551,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 228702,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1"
@@ -8429,6 +8447,28 @@
       "duration_ms": 206875,
       "name": "Story Starts Today",
       "url": "https://open.spotify.com/track/1MHelwASBBLimX8lgto9nP"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195963,
+      "name": "Strawberry Blush (feat. Free Nationals)",
+      "url": "https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210"
     },
     {
       "album": {

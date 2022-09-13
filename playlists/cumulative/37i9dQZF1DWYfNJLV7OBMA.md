@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- Thilina Ruhunage
 
-130 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
+131 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Obemai Saamada](https://open.spotify.com/track/485ntWBqpWmGixodoIaFhx) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Obemai Saamada](https://open.spotify.com/album/59TSQkKSrr7Qia8gDB9qfa) | 3:09 | 2022-06-16 |  |
 | [Omari](https://open.spotify.com/track/0iIFDg202oHMi5Lh9BdNvM) | [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Omari](https://open.spotify.com/album/0ER2ytZDbMjyeM6IAnMGHg) | 3:04 | 2022-06-16 |  |
 | [Paata Gawe Man](https://open.spotify.com/track/4orf12TDpLYIh6AKSSNn1D) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Paata Gawe Man](https://open.spotify.com/album/539f3h6YfO0KKFCRgZ1puS) | 2:45 | 2022-06-16 |  |
+| [Paddapan](https://open.spotify.com/track/6CJtK2aCUDoEiAgOMxwe0E) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Lucky Lakmina](https://open.spotify.com/artist/7og53mhidfE1YT2UuF6fPo), [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Paddapan](https://open.spotify.com/album/5UriVjM9Ui8QPLIibXp1WL) | 3:29 | 2022-09-12 |  |
 | [Pahase](https://open.spotify.com/track/25z3LhoeJlEZW39PkYWtMK) | [Hirushi](https://open.spotify.com/artist/6ExeegxzaEVPX1727ozoRF), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi) | [Pahase](https://open.spotify.com/album/3XYdfJaBpRoH6YekM1GDn8) | 3:01 | 2022-06-16 |  |
 | [Palamu Haduwa](https://open.spotify.com/track/1tqF6Jd78jtwqiYXeV3tfP) | [Dilki Uresha](https://open.spotify.com/artist/2cikzwXVq83CvsKLNIwol4), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Palamu Haduwa](https://open.spotify.com/album/2ZuWD737KcgH6qseFVsQil) | 3:44 | 2022-06-16 |  |
 | [Palu Para](https://open.spotify.com/track/1ZtauuV73qklhDRpWQj0UV) | [Maduwa](https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV) | [Palu Para](https://open.spotify.com/album/6uyqQMbWvD2BOHhIagGYQf) | 3:46 | 2022-06-16 |  |

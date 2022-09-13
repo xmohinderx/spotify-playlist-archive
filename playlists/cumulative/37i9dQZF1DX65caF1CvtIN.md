@@ -4,12 +4,13 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-117 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
+122 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11Pm\. Brilla](https://open.spotify.com/track/04040bSQ8gNzSmxuY8fU11) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [11Pm\. Brilla \(Dreaming of Chopin\)](https://open.spotify.com/album/4WA7u4WEccPGhEIpg34KGq) | 4:10 | 2022-08-03 |  |
 | [A Faint Qualm for the Future](https://open.spotify.com/track/6Rp5W8wwFK4pKpmT06yNsq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 2:41 | 2022-08-03 |  |
+| [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 | 2022-09-12 |  |
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2022-08-03 |  |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-08-03 |  |
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-08-03 |  |
@@ -41,8 +42,9 @@
 | [Excavation](https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Ruminate](https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz) | 3:24 | 2022-08-03 |  |
 | [Exhale](https://open.spotify.com/track/2laiFYFccYEb3TS39Fhufw) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Exhale](https://open.spotify.com/album/5SMNK84TSO4tRpITMJrjDJ) | 2:17 | 2022-08-03 |  |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-03 |  |
-| [F Sharp For You](https://open.spotify.com/track/2J6iktYw8vLp2QzxffSNxV) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [F Sharp For You](https://open.spotify.com/album/5X3DST59ra3NlevOvLCyyz) | 2:14 | 2022-08-26 |  |
+| [F Sharp For You](https://open.spotify.com/track/2J6iktYw8vLp2QzxffSNxV) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [F Sharp For You](https://open.spotify.com/album/5X3DST59ra3NlevOvLCyyz) | 2:14 | 2022-08-26 | 2022-09-13 |
 | [Fidèle](https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Fidèle](https://open.spotify.com/album/6mMQd8GdvPdq6QDScKV3PP) | 3:23 | 2022-08-03 |  |
+| [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-12 |  |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-08-03 |  |
 | [Glitter](https://open.spotify.com/track/3v9Pk1fxLg5MvKm9i5WraZ) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Glitter](https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX) | 2:52 | 2022-08-26 |  |
 | [Golden Hour](https://open.spotify.com/track/7cY9kWU1cPLJ1wxxvKEZMh) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 1:34 | 2022-08-03 |  |
@@ -52,7 +54,7 @@
 | [Hues](https://open.spotify.com/track/69liE6Bhwv1vDcUyYuLlTn) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Dave Lewis](https://open.spotify.com/artist/11oTVF7PmAEYQKcD4HdBQ3) | [Hues](https://open.spotify.com/album/1TEVz8WnwhUyBB2KaJCoEH) | 2:45 | 2022-08-03 |  |
 | [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 | 2022-08-03 |  |
 | [I Don't Belong Here](https://open.spotify.com/track/7ybM9pHxEFFnqUo9WPpgV1) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [I Don't Belong Here](https://open.spotify.com/album/3dBWDCzAoabtTyNdqXn6Qg) | 2:30 | 2022-08-26 |  |
-| [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-08-03 |  |
+| [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-08-03 | 2022-09-13 |
 | [Indian Yellow](https://open.spotify.com/track/6j8KPn7rmbTwlkpEbHcrS1) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 3:14 | 2022-08-03 |  |
 | [Intertwining](https://open.spotify.com/track/4DrbKyHiDUDBAMSvLmDIYN) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Intertwining](https://open.spotify.com/album/4v2uvSANeRjevB4F7EhXIt) | 2:25 | 2022-08-03 |  |
 | [Island II](https://open.spotify.com/track/2vUY8WL94C9ortPW7AwwEE) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sol Novo](https://open.spotify.com/album/3JWpVOW9aj9y5eoMaUFbFN) | 2:23 | 2022-08-03 |  |
@@ -85,6 +87,7 @@
 | [Painting A Texture](https://open.spotify.com/track/4vd1101k8rmE0zjtjO6t5U) | [Simon Chastain](https://open.spotify.com/artist/2U2iir4URsSDyXADroQqnD) | [Painting A Texture](https://open.spotify.com/album/5D6gdAJmKFdjIySmXY64Eb) | 2:27 | 2022-08-03 |  |
 | [Parc / парк / 公园](https://open.spotify.com/track/04vw8zznloH6w6L8JF1U7v) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [PACE](https://open.spotify.com/album/1ZWV1cpZ8FXdo15VFPAU1s) | 1:52 | 2022-08-03 |  |
 | [Persistence Of Lost Time](https://open.spotify.com/track/1tTWdpNyr5tlQpmRSkkWOe) | [How It All Ends](https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j), [Arthur Baptista Galvão](https://open.spotify.com/artist/1Kf5YJ4yaDOSOBbkkzaQ2V) | [Persistence Of Lost Time](https://open.spotify.com/album/43inTGMMSmUjfbWzJ0rBzd) | 1:48 | 2022-08-03 |  |
+| [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-12 |  |
 | [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 | 2022-08-03 |  |
 | [Poets night](https://open.spotify.com/track/3tBaAnnYtDovnTsohJxGby) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Poets night](https://open.spotify.com/album/0WtuAtlDonPKHRCRCTJE7a) | 3:22 | 2022-08-29 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-08-03 |  |
@@ -114,6 +117,7 @@
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-08-03 |  |
 | [Thank You](https://open.spotify.com/track/0KNqmxuXFi0DsyfvcQ1fS3) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Equinox](https://open.spotify.com/album/4eacjxBMXpKHtx1OQJa2Ao) | 3:22 | 2022-08-03 |  |
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 |  |
+| [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2022-08-03 |  |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-08-26 |  |
 | [Tournon](https://open.spotify.com/track/7eKZVHMsyq7BtPJA2O2xvE) | [Pazice](https://open.spotify.com/artist/5so0FZWVgBOL7MDkSueVCj) | [Tournon](https://open.spotify.com/album/0Wk3Fd60WAcDGFZf5esowg) | 2:09 | 2022-08-03 |  |
@@ -121,6 +125,7 @@
 | [Tuesday](https://open.spotify.com/track/3TXgtWFkb8MlIqtzBtyI5D) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Hertz](https://open.spotify.com/album/7jmsYzJVkPjYDhsesqBqHD) | 3:11 | 2022-08-03 |  |
 | [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 | 2022-08-03 |  |
 | [Visible Nostalgia](https://open.spotify.com/track/2ZzDOEVfUt3dQ0REaMWEjL) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Visible Nostalgia](https://open.spotify.com/album/24iCgh0neVrQeYstMk56ie) | 2:40 | 2022-08-03 |  |
+| [We Together](https://open.spotify.com/track/45hG7DYmo87yN0hQ1MeJ0C) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [We Together](https://open.spotify.com/album/6ruK7Ax6fmYBopQ22j59RU) | 2:02 | 2022-09-12 |  |
 | [What Matters Most](https://open.spotify.com/track/597PVVj8epaZ5L8vmHvNlW) | [Art Bandini](https://open.spotify.com/artist/5qCbYD7FoGfRfi4UpgiVko) | [What Matters Most](https://open.spotify.com/album/5iExwcFIoM0ZNzalpnrOKW) | 2:40 | 2022-08-03 |  |
 | [Willmine](https://open.spotify.com/track/3gdErGbZwv6gjdF0sJdzhK) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Fredenwalde \- Teil I](https://open.spotify.com/album/6qdMFbDQ5og47ujZmZjwhF) | 3:31 | 2022-08-03 |  |
 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 | 2022-08-26 |  |

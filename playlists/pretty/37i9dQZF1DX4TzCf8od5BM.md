@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,290 likes - 154 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,309 likes - 154 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

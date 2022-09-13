@@ -1,12 +1,12 @@
 {
   "description": "Female-identifying only grooves, with some of  <a href=\u201cspotify:artist:3R80OE4RViOWbnuvqh0j8a\u201d>Thuy's</a> inspirations. Cover: Thuy",
-  "num_followers": 20278,
+  "num_followers": 20289,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUyMzIwMCwwMDAwMDAwMDhhNDYzMDRjYWI4MTdmM2MyODQ0NDM2ODM2YzUwMzM4",
+  "snapshot_id": "MTY2MzAyNDMyMiwwMDAwMDAwMGU2MzViMTI0OTM5Yzc3YTA2NzVkYjZlMzU1ZGY5NDAw",
   "tracks": [
     {
       "added_at": "2022-09-07 04:00:00",
@@ -73,20 +73,24 @@
       "url": "https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu"
     },
     {
-      "added_at": "2022-09-07 04:00:00",
+      "added_at": "2022-09-12 23:12:02",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
+      "duration_ms": 167312,
+      "name": "chances",
+      "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -153,24 +157,20 @@
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
     },
     {
-      "added_at": "2022-09-07 04:00:00",
+      "added_at": "2022-09-12 23:12:02",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 186627,
+      "name": "universe",
+      "url": "https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "Somethin' Bout You",
-        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Somethin' Bout You",
-      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
         "name": "MUTUAL FRIEND",
         "url": "https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT"
       },
@@ -351,6 +371,22 @@
       "duration_ms": 206943,
       "name": "MUTUAL FRIEND",
       "url": "https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq"
+    },
+    {
+      "added_at": "2022-09-12 23:12:02",
+      "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "figured u out",
+      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -435,18 +471,18 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -463,6 +499,22 @@
       "duration_ms": 210631,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -563,6 +615,22 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
+        "name": "OMG BRITT",
+        "url": "https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "OMG BRITT",
+      "url": "https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
         "name": "PHASE",
         "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
       },
@@ -575,38 +643,6 @@
       "duration_ms": 140571,
       "name": "WASTE TIME",
       "url": "https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Runaway Blue",
-        "url": "https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL"
-      },
-      "artists": [
-        {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
-        }
-      ],
-      "duration_ms": 213942,
-      "name": "Runaway Blue",
-      "url": "https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Virginity",
-        "url": "https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 138661,
-      "name": "Virginity",
-      "url": "https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -627,18 +663,34 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "OMG BRITT",
-        "url": "https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx"
+        "name": "Virginity",
+        "url": "https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
         }
       ],
-      "duration_ms": 172266,
-      "name": "OMG BRITT",
-      "url": "https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE"
+      "duration_ms": 138661,
+      "name": "Virginity",
+      "url": "https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "Runaway Blue",
+        "url": "https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 213942,
+      "name": "Runaway Blue",
+      "url": "https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -783,42 +835,6 @@
       "duration_ms": 148205,
       "name": "Day Like This",
       "url": "https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "infina ad nausea: the remixes",
-        "url": "https://open.spotify.com/album/5rYdZ1anFLc0tJFoukAzoY"
-      },
-      "artists": [
-        {
-          "name": "QRTR",
-          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
-        },
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 382251,
-      "name": "Rewind - VNSSA Remix",
-      "url": "https://open.spotify.com/track/0XTmNmJIek7886IJxhE88P"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "BEDTIME",
-        "url": "https://open.spotify.com/album/5ZWsqSYied2r8qQk1rYdDO"
-      },
-      "artists": [
-        {
-          "name": "Ruby",
-          "url": "https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI"
-        }
-      ],
-      "duration_ms": 129966,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/6FCMfT9bWZ8bcrEK7wbjgY"
     }
   ],
   "unique_name": "EQUAL US",

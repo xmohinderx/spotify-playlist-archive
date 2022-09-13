@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-784 songs - 1 day 17 hr 2 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+785 songs - 1 day 17 hr 5 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-11-17 | 2022-02-06 |
 | [Energi](https://open.spotify.com/track/4TKFESih6yVusnSFn5EkOA) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Energi](https://open.spotify.com/album/5wTWvifR3vGqkOIw6jaAUv) | 2:20 | 2021-06-13 | 2021-07-11 |
 | [Engangspik](https://open.spotify.com/track/32kqn6XdFwXRShzBmS8VzC) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Engangspik](https://open.spotify.com/album/3hH3AtkT9ROiHyGMJVMTdx) | 2:36 | 2022-07-16 |  |
-| [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/track/1k7bDVNh318BxL8gFeLd8N) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/album/5gfJBCODehnpEB4lhfquUj) | 2:29 | 2022-05-21 |  |
+| [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/track/1k7bDVNh318BxL8gFeLd8N) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Er Det For Sent? \(feat\. TopGunn\) \- Remix](https://open.spotify.com/album/5gfJBCODehnpEB4lhfquUj) | 2:29 | 2022-05-21 | 2022-09-13 |
 | [Er Her \(Artigeardit X KESI\)](https://open.spotify.com/track/63ODxpk6cCmFw8VvoeRD0O) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Er Her \(Artigeardit X KESI\)](https://open.spotify.com/album/3VZTddLxjfvzvfAADCvSjK) | 2:37 | 2021-05-16 | 2021-05-30 |
 | [Er Her \(Artigeardit, KESI\)](https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:37 | 2021-05-30 |  |
 | [ErruDumEllaHvad](https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ErruDumEllaHvad](https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN) | 2:28 | 2021-04-02 | 2022-07-06 |
@@ -437,6 +437,7 @@
 | [Kronisk Skeptisk](https://open.spotify.com/track/3ePrkdVdaGpT5EZBnMe2lZ) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 1:45 | 2022-09-03 | 2022-09-05 |
 | [Krop Som En Sten](https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:08 | 2022-01-08 | 2022-04-15 |
 | [Krystalkuglen](https://open.spotify.com/track/0lVG3xhpjArK0F589JEjHV) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 0:38 | 2022-01-08 | 2022-01-12 |
+| [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-12 |  |
 | [Kun Med Dig](https://open.spotify.com/track/22ureEREoYmAIwxm8ZBSIK) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Kun Med Dig](https://open.spotify.com/album/3PhijiZGRTGtAT2HCG8guv) | 3:07 | 2022-09-05 |  |
 | [Kærlighed](https://open.spotify.com/track/1HT4tiNLC1CnHcVTuDwD2P) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kærlighed](https://open.spotify.com/album/0UKQ7Tm0wYJc7laBIzg51b) | 3:11 | 2021-05-09 | 2021-08-22 |
 | [Kærlighed I Luften](https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Kærlighed I Luften](https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR) | 3:03 | 2022-04-30 | 2022-06-05 |

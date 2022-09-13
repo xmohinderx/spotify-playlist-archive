@@ -1,12 +1,12 @@
 {
   "description": "Rave season is upon us. Cover: Yotto",
-  "num_followers": 10612,
+  "num_followers": 10667,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcxNDAwNCwwMDAwMDAwMDQwMDc3ODVhM2I3Y2JhZTc4ZDZhYjkwNDVmZTJkMzY4",
+  "snapshot_id": "MTY2MjcxNDAwNCwwMDAwMDAwMDBjNGUyOWExMmI4MmE1ODliNDE2OTNlZjAzMDlmMTEz",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Dancing In The Shadows",
+        "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 277432,
+      "name": "Dancing In The Shadows",
+      "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -843,22 +863,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Dancing In The Shadows",
-        "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
         }
       ],
-      "duration_ms": 277432,
-      "name": "Dancing In The Shadows",
-      "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
+      "duration_ms": 183112,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Rise Again",
-        "url": "https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi"
+        "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
       "artists": [
         {
-          "name": "Adelphi Music Factory",
-          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 183112,
-      "name": "Rise Again",
-      "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -911,22 +927,6 @@
       "duration_ms": 206250,
       "name": "Touch (feat. Rromarin)",
       "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Dance With Me EP",
-        "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 391590,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Finder",
-        "url": "https://open.spotify.com/album/11fQed1lTippkC0Emeah41"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 206368,
-      "name": "Finder - Radio-Edit",
-      "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/37abhSU412bkiwXr3ShshM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 236000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Finder",
+        "url": "https://open.spotify.com/album/11fQed1lTippkC0Emeah41"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "duration_ms": 206368,
+      "name": "Finder - Radio-Edit",
+      "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "No One's Talking",
+        "url": "https://open.spotify.com/album/0vgaUCekb4UwGJffXDjLPB"
+      },
+      "artists": [
+        {
+          "name": "Simon Field",
+          "url": "https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "No One's Talking - Radio edit",
+      "url": "https://open.spotify.com/track/4k7QmOsCj7UVNMxOrUezRk"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Eat Your Own Ears Recordings EP 1",
         "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "No One's Talking",
-        "url": "https://open.spotify.com/album/0vgaUCekb4UwGJffXDjLPB"
-      },
-      "artists": [
-        {
-          "name": "Simon Field",
-          "url": "https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "No One's Talking - Radio edit",
-      "url": "https://open.spotify.com/track/4k7QmOsCj7UVNMxOrUezRk"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0"
       },
@@ -1327,26 +1327,6 @@
       "duration_ms": 227603,
       "name": "A Dedication",
       "url": "https://open.spotify.com/track/7BijkGObSbahOwYpriNHPh"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Champion (HAAi Remix)",
-        "url": "https://open.spotify.com/album/1aQydyPLYxofm9AdxCAvgb"
-      },
-      "artists": [
-        {
-          "name": "Warpaint",
-          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 297370,
-      "name": "Champion - HAAi Remix",
-      "url": "https://open.spotify.com/track/6TamSDSwsdyRCRGCMKCaT8"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1379,6 +1359,26 @@
       "duration_ms": 211810,
       "name": "Bh\u0101vachakra",
       "url": "https://open.spotify.com/track/1nz0SvhvjKHHX8NoSUeG3P"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Champion (HAAi Remix)",
+        "url": "https://open.spotify.com/album/1aQydyPLYxofm9AdxCAvgb"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 297370,
+      "name": "Champion - HAAi Remix",
+      "url": "https://open.spotify.com/track/6TamSDSwsdyRCRGCMKCaT8"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 359785,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Kami EP",
         "url": "https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 359785,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ"
     },
     {
+      "added_at": "2022-09-09 09:00:03",
+      "album": {
+        "name": "Can Do This",
+        "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 276695,
+      "name": "Can Do This",
+      "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
+    },
+    {
       "added_at": "2022-09-08 22:00:00",
       "album": {
         "name": "YAP EP",
@@ -1753,22 +1769,6 @@
       "url": "https://open.spotify.com/track/09AT2nLfUrq96f4rTx8BQr"
     },
     {
-      "added_at": "2022-09-09 09:00:03",
-      "album": {
-        "name": "Can Do This",
-        "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 276695,
-      "name": "Can Do This",
-      "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
-    },
-    {
       "added_at": "2022-09-08 22:00:00",
       "album": {
         "name": "In Mindibu",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Like Me",
-        "url": "https://open.spotify.com/album/55ctcV31rSIjUUlCfENH2L"
+        "name": "Organic Cold Brewed Hipster Funk EP",
+        "url": "https://open.spotify.com/album/1o7PXwcPMX6o3JELys9le2"
       },
       "artists": [
         {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
         }
       ],
-      "duration_ms": 252206,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/6IJjV6gI4bKMSXoH2a35bn"
+      "duration_ms": 235132,
+      "name": "Organic Cold Brewed Hipster Funk",
+      "url": "https://open.spotify.com/track/3phBxj9avtQDkWblVg7s02"
     }
   ],
   "unique_name": "Open Air",

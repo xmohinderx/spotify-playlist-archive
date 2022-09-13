@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1017962,
+  "num_followers": 1018293,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY4NjEzNCwwMDAwMDAwMDYzNjhhODY4OTExYjliYTRiZThmNWIxZDY2NGE5MTYw",
+  "snapshot_id": "MTY1NjY4NjEzNCwwMDAwMDAwMGZjMDE4MTY0M2U0YzMwNmZjNzlkZWE3ZDNiYmQyOTE0",
   "tracks": [
     {
       "added_at": "2021-10-14 22:02:43",
@@ -199,22 +199,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -399,6 +399,22 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 185223,
       "name": "Oh Klahoma",
       "url": "https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
-        "name": "Flaming Hot Cheetos",
-        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 123884,
-      "name": "Flaming Hot Cheetos",
-      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
     },
     {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
-    },
-    {
       "added_at": "2022-02-10 20:19:57",
       "album": {
         "name": "Cavetown",
@@ -523,6 +507,38 @@
       "duration_ms": 265010,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
     },
     {
       "added_at": "2022-02-10 20:30:00",
@@ -555,22 +571,6 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2021-09-10 20:10:10",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf"
     },
     {
-      "added_at": "2022-02-02 17:42:52",
-      "album": {
-        "name": "pouring outside",
-        "url": "https://open.spotify.com/album/6P5mONYxeYoklwHZa8VLFx"
-      },
-      "artists": [
-        {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "pouring outside",
-      "url": "https://open.spotify.com/track/7g1251d41qVR8kq6yz9XXa"
-    },
-    {
       "added_at": "2021-02-27 16:02:07",
       "album": {
         "name": "Lucy",
@@ -767,6 +751,22 @@
       "duration_ms": 142500,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
+    },
+    {
+      "added_at": "2022-02-02 17:42:52",
+      "album": {
+        "name": "pouring outside",
+        "url": "https://open.spotify.com/album/6P5mONYxeYoklwHZa8VLFx"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "pouring outside",
+      "url": "https://open.spotify.com/track/7g1251d41qVR8kq6yz9XXa"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Never Had The Balls",
-      "url": "https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 156342,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Never Had The Balls",
+      "url": "https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
-      "added_at": "2021-07-19 15:56:04",
-      "album": {
-        "name": "Waltzing Back",
-        "url": "https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Waltzing Back",
-      "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
-    },
-    {
       "added_at": "2021-02-27 16:02:07",
       "album": {
         "name": "Stereo",
@@ -1135,6 +1119,22 @@
       "duration_ms": 127272,
       "name": "Ugotme",
       "url": "https://open.spotify.com/track/2NCBjlH7FHEG7hXcnvUaWA"
+    },
+    {
+      "added_at": "2021-07-19 15:56:04",
+      "album": {
+        "name": "Waltzing Back",
+        "url": "https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Waltzing Back",
+      "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T"
     },
     {
+      "added_at": "2021-08-27 20:55:21",
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 188301,
+      "name": "Tree Among Shrubs",
+      "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
+    },
+    {
       "added_at": "2022-03-04 17:18:32",
       "album": {
         "name": "La Novela",
@@ -1219,22 +1235,6 @@
       "duration_ms": 154115,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u"
-    },
-    {
-      "added_at": "2021-08-27 20:55:21",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 188301,
-      "name": "Tree Among Shrubs",
-      "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
     },
     {
       "added_at": "2022-03-04 17:18:32",
@@ -1401,6 +1401,22 @@
       "url": "https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY"
     },
     {
+      "added_at": "2021-04-02 17:47:23",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
+    },
+    {
       "added_at": "2021-10-29 19:49:36",
       "album": {
         "name": "The Shark in Your Water",
@@ -1481,10 +1497,10 @@
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
     },
     {
-      "added_at": "2021-04-02 17:47:23",
+      "added_at": "2021-02-27 16:02:07",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
+        "name": "Cut Out",
+        "url": "https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB"
       },
       "artists": [
         {
@@ -1492,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
+      "duration_ms": 155984,
+      "name": "Bends",
+      "url": "https://open.spotify.com/track/7neXef29cogkuASB5rTafo"
     },
     {
       "added_at": "2021-02-27 16:02:07",
@@ -1625,38 +1641,6 @@
       "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
     },
     {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2021-02-27 16:02:07",
-      "album": {
-        "name": "Cut Out",
-        "url": "https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 155984,
-      "name": "Bends",
-      "url": "https://open.spotify.com/track/7neXef29cogkuASB5rTafo"
-    },
-    {
       "added_at": "2021-08-27 20:55:21",
       "album": {
         "name": "Satellite",
@@ -1671,6 +1655,22 @@
       "duration_ms": 191505,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4"
+    },
+    {
+      "added_at": "2021-02-27 16:02:07",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2021-09-10 20:10:10",
@@ -1757,22 +1757,6 @@
       "url": "https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I"
     },
     {
-      "added_at": "2021-11-19 18:32:59",
-      "album": {
-        "name": "MESS U MADE",
-        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
-    },
-    {
       "added_at": "2021-06-04 04:00:00",
       "album": {
         "name": "Sharpener",
@@ -1835,6 +1819,22 @@
       "duration_ms": 232200,
       "name": "Nothing in Return",
       "url": "https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A"
+    },
+    {
+      "added_at": "2021-11-19 18:32:59",
+      "album": {
+        "name": "MESS U MADE",
+        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "MESS U MADE",
+      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
     },
     {
       "added_at": "2021-03-26 19:23:14",

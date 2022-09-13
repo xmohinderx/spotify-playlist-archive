@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-86 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+87 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Give Me One Reason](https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 4:23 | 2022-06-24 |  |
 | [Give Me One Reason](https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc) | [Earl Thomas](https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2) | [Unplugged At Caffe Calabria](https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK) | 5:48 | 2022-06-24 |  |
 | [Give Me One Reason](https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv) | [Lee Ritenour's 6 String Theory](https://open.spotify.com/artist/4kMQjLEnWTWmseztv5uOOo), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [6 String Theory](https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5) | 5:14 | 2022-06-24 |  |
+| [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 | 2022-09-12 |  |
 | [Hesitation Blues \- Live](https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Hot Tuna](https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL) | 5:06 | 2022-06-24 |  |
 | [Honky Tonk Woman](https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 4:43 | 2022-06-24 |  |
 | [Hoochie Coochie Man](https://open.spotify.com/track/3XEiDurjDQL0WF7SwqR4qt) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W) | 5:13 | 2022-06-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: King's X",
-  "num_followers": 448066,
+  "num_followers": 448140,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDVjN2YzMWU5Yzg0MWJkZmNkZmQ1MTM0MzUzYWUzMWUz",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGRjMDA4MDVjNDQwZWRmNmEwMGI3ZGM1MjU5ZWQ2ODJh",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
       },
@@ -123,18 +139,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+      "duration_ms": 195706,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/0DVxWV6V1nWa7Ml68Frd3D"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -155,22 +171,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/0DVxWV6V1nWa7Ml68Frd3D"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -183,38 +183,6 @@
       "duration_ms": 264200,
       "name": "Are You In?",
       "url": "https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "John The Fisherman",
-      "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 336440,
-      "name": "Take The Power Back",
-      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -235,6 +203,38 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "311",
+        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "All Mixed Up",
+      "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
+      },
+      "artists": [
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "John The Fisherman",
+      "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 233066,
       "name": "Always On The Run",
       "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 336440,
+      "name": "Take The Power Back",
+      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -267,22 +283,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "311",
-        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "All Mixed Up",
-      "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Porno For Pyros",
         "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 216733,
       "name": "Pets",
       "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "A Certain Shade of Green",
-      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "A Certain Shade of Green",
+      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Rage Against The Machine",
-        "url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Bombtrack",
-      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -395,6 +379,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Rage Against The Machine",
+        "url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Bombtrack",
+      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Ritual De Lo Habitual",
         "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
       },
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 265733,
+      "name": "Summer Romance (Anti-Gravity Love Song)",
+      "url": "https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Good God's Urge",
         "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 233093,
       "name": "Little Miss Can't Be Wrong",
       "url": "https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 265733,
-      "name": "Summer Romance (Anti-Gravity Love Song)",
-      "url": "https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Jerry Was A Race Car Driver",
-      "url": "https://open.spotify.com/track/0EMLtepZpcY9T64AVEmyyv"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Groove Family Cyco / Snapped Lika Mutha",
         "url": "https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 256293,
       "name": "Violent & Funky",
       "url": "https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
+      },
+      "artists": [
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Jerry Was A Race Car Driver",
+      "url": "https://open.spotify.com/track/0EMLtepZpcY9T64AVEmyyv"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -767,6 +767,38 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Mas Borracho",
+        "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
+      },
+      "artists": [
+        {
+          "name": "Infectious Grooves",
+          "url": "https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Please Excuse This Funk Up",
+      "url": "https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Dogman",
+        "url": "https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S"
+      },
+      "artists": [
+        {
+          "name": "King's X",
+          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Black the Sky",
+      "url": "https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "They Can't All Be Zingers",
         "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
@@ -815,38 +847,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Mas Borracho",
-        "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
-      },
-      "artists": [
-        {
-          "name": "Infectious Grooves",
-          "url": "https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Please Excuse This Funk Up",
-      "url": "https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Dogman",
-        "url": "https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S"
-      },
-      "artists": [
-        {
-          "name": "King's X",
-          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Black the Sky",
-      "url": "https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Soundsystem",
         "url": "https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
-      },
-      "artists": [
-        {
-          "name": "Screaming Headless Torsos",
-          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Vinnie",
-      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Street Sweeper Social Club",
         "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 235373,
       "name": "Clap For The Killers",
       "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
+      },
+      "artists": [
+        {
+          "name": "Screaming Headless Torsos",
+          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Vinnie",
+      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
     },
     {
       "added_at": "2022-02-04 05:02:00",

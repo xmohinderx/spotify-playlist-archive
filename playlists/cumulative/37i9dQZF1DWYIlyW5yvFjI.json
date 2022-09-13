@@ -1510,6 +1510,24 @@
     },
     {
       "album": {
+        "name": "we are infinite",
+        "url": "https://open.spotify.com/album/48QAV9vK0nBqEPgVTvIcC1"
+      },
+      "artists": [
+        {
+          "name": "Paper Ocean",
+          "url": "https://open.spotify.com/artist/68XRCDJOwzgKgyX6AbPtlS"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "we are infinite",
+      "url": "https://open.spotify.com/track/4hdSVXAKI8LEM2fON1D1Mv"
+    },
+    {
+      "album": {
         "name": "Under My Skin I Am Laughing",
         "url": "https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH"
       },

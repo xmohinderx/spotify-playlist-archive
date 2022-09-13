@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 25290,
+  "num_followers": 25305,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDBiOWIzOGIxNjU2NTc1ODgxMzljZDgzZWYzN2FmZmEw",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDg5ZDkzNDJkYzU2ZWY4NmNlZTRmYmNlMzEzYmZiYjc5",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -248,6 +248,26 @@
       },
       "artists": [
         {
+          "name": "M.C. Vickey",
+          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
+        },
+        {
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Sarrainodu",
+        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
+      },
+      "artists": [
+        {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         },
@@ -271,26 +291,6 @@
       "duration_ms": 304987,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/37S2kL71k5LOmGxzJ7JLzE"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Sarrainodu",
-        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
-      },
-      "artists": [
-        {
-          "name": "M.C. Vickey",
-          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
-        },
-        {
-          "name": "M. M. Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Private Party",
-      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -399,6 +399,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Holi Special Songs",
+        "url": "https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A"
+      },
+      "artists": [
+        {
+          "name": "Narendra",
+          "url": "https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "Colorful Chilaka",
+      "url": "https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Janatha Garage",
         "url": "https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 259329,
       "name": "Pakka Local",
       "url": "https://open.spotify.com/track/3oLSlzMt3SD5PYSMf1Aqo0"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Holi Special Songs",
-        "url": "https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A"
-      },
-      "artists": [
-        {
-          "name": "Narendra",
-          "url": "https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Colorful Chilaka",
-      "url": "https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -551,26 +551,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
-      },
-      "artists": [
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Box Badhalai Poyi",
-      "url": "https://open.spotify.com/track/2tXmqzOJHKDsIWJ2y2ntAe"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Khaidi No 150",
         "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 208157,
       "name": "Ammadu Let's Do Kummudu",
       "url": "https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
+      },
+      "artists": [
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Box Badhalai Poyi",
+      "url": "https://open.spotify.com/track/2tXmqzOJHKDsIWJ2y2ntAe"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "MCA",
-        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 197321,
-      "name": "MCA",
-      "url": "https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Yuva",
         "url": "https://open.spotify.com/album/5U5RVTmAcY6BK39u5TWTa5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 274080,
       "name": "Deham Thiri",
       "url": "https://open.spotify.com/track/0870CqL7MYh5JsMEbCbWQy"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "MCA",
+        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 197321,
+      "name": "MCA",
+      "url": "https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG"
     },
     {
       "added_at": "2022-07-22 12:42:47",
@@ -963,6 +963,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Spyder (Telugu)",
+        "url": "https://open.spotify.com/album/6kooJUFnkhm3RBIfr9PgtS"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 254617,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/5W4pohpSOIHfD2GRMLPVKx"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Bulreddy (From \"Sita\")",
         "url": "https://open.spotify.com/album/3JW4hoixkVxtq6rUYZB2qF"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 236890,
       "name": "Bulreddy (From \"Sita\")",
       "url": "https://open.spotify.com/track/7My3AYHEIuZzF08WnFxHiL"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Spyder (Telugu)",
-        "url": "https://open.spotify.com/album/6kooJUFnkhm3RBIfr9PgtS"
-      },
-      "artists": [
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 254617,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/5W4pohpSOIHfD2GRMLPVKx"
     },
     {
       "added_at": "2021-06-24 14:44:57",

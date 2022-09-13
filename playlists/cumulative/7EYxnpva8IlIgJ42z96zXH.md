@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-481 songs - 1 day 1 hr 15 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
+482 songs - 1 day 1 hr 19 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Follow Me](https://open.spotify.com/track/7E6epct8kB8MVe49b60WK1) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Follow Me](https://open.spotify.com/album/7gBk0REWVMEGtIup4NHCOa) | 2:34 | 2021-02-01 | 2021-02-26 |
 | [Follow Me \(Nobody Listens To Techno\)](https://open.spotify.com/track/7IlpTSHwOrnNCsBg7aTJSz) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ) | [Follow Me \(Nobody Listens To Techno\)](https://open.spotify.com/album/1dB8M1580MSrjCRQDWIQ8m) | 2:30 | 2022-07-08 | 2022-08-20 |
 | [Follow Your Lead](https://open.spotify.com/track/5LSh55CFknIIE3fx4nNM2k) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC) | [Follow Your Lead](https://open.spotify.com/album/1vXk4rx17ThGvzcSJ7Hx1l) | 2:44 | 2020-12-01 | 2020-12-07 |
+| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2022-09-12 |  |
 | [Forever and Ever](https://open.spotify.com/track/6LQvXuT1B693YJ32QqoOd4) | [Kilter](https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ), [Brain Flowers](https://open.spotify.com/artist/31imdiZgUutxbuMl8PH20G) | [Forever and Ever](https://open.spotify.com/album/3YX7OgGVq28qpQo4585WRm) | 3:52 | 2022-06-09 | 2022-07-16 |
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-01-13 | 2022-01-28 |
 | [Free \(feat\. Chris Nichols\)](https://open.spotify.com/track/5qaj5FBz1l4Lck3KpK69pK) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Chris Nichols](https://open.spotify.com/artist/4XVhziV4quD1z8cWWhp4fe) | [Free \(feat\. Chris Nichols\)](https://open.spotify.com/album/50b1TjI1E4WLcwOT4J7SqZ) | 4:04 | 2021-06-19 | 2021-07-23 |
@@ -305,7 +306,7 @@
 | [Nowhere](https://open.spotify.com/track/717yTlcMr1mOOsZGPBLX68) | [Otosan](https://open.spotify.com/artist/1syjYeo2PptHbZlvJQsjUO), [Julia Lostrom](https://open.spotify.com/artist/6LhvyFKJgz8TdcwOkmPnv0) | [Nowhere](https://open.spotify.com/album/28dAUA6OF4hpjtLqS3EFEQ) | 3:31 | 2020-12-11 | 2021-01-15 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-09 | 2022-09-03 |
 | [Oh No \(Remix\)](https://open.spotify.com/track/1U3fV86b5w51waiFONENNd) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [HOOX](https://open.spotify.com/artist/2n83kKZFMPXPOgfhmQwPRO) | [Oh No \(Remix\)](https://open.spotify.com/album/3dKoHMuyH3KvHRaljZTh8E) | 2:50 | 2021-10-08 | 2021-10-22 |
-| [Old Dogs Groove](https://open.spotify.com/track/2DFDqK6DZgboonzKhGjhdr) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Old Dogs Groove / Pure NRG](https://open.spotify.com/album/2UphPjQMbhOQ4QaLSTdb5s) | 5:06 | 2022-07-29 |  |
+| [Old Dogs Groove](https://open.spotify.com/track/2DFDqK6DZgboonzKhGjhdr) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Old Dogs Groove / Pure NRG](https://open.spotify.com/album/2UphPjQMbhOQ4QaLSTdb5s) | 5:06 | 2022-07-29 | 2022-09-13 |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2021-09-24 | 2021-10-01 |
 | [On the Floor](https://open.spotify.com/track/2BfKINPpYuLiLI3Jt60vXx) | [Huge Carter](https://open.spotify.com/artist/7fcYps98veQHsSCp6VNybc), [Bass Project](https://open.spotify.com/artist/7gnEEjTSDjPQNcvILDIfWf) | [On the Floor](https://open.spotify.com/album/3rYXqEcIu3MYM9Qte2mE3l) | 3:11 | 2021-08-07 | 2021-08-14 |
 | [One Day](https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [One Day](https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ) | 2:32 | 2022-04-22 | 2022-06-18 |

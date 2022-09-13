@@ -1,13 +1,29 @@
 {
   "description": "because a little left of center is best. cover: magdalena bay ",
-  "num_followers": 927995,
+  "num_followers": 927990,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc0MzA5MCwwMDAwMDAwMDQ5OTA4MjhiZDY0MmYxODI2NGNmYmYyMDhlNGE5NjI1",
+  "snapshot_id": "MTY2MzAzMTQzNSwwMDAwMDAwMDdmZDgxOGE2ZTcxYmY0MTQyZTI2ZmU0MjI3MjBhOTA3",
   "tracks": [
+    {
+      "added_at": "2022-09-13 01:10:35",
+      "album": {
+        "name": "It's Not Just Me, It's Everybody",
+        "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
+    },
     {
       "added_at": "2022-09-09 17:04:50",
       "album": {
@@ -73,40 +89,24 @@
       "url": "https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv"
     },
     {
-      "added_at": "2022-07-15 12:08:06",
+      "added_at": "2022-09-13 01:10:35",
       "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+        "name": "Genetic World",
+        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
       },
       "artists": [
         {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
-    },
-    {
-      "added_at": "2022-09-09 17:04:50",
-      "album": {
-        "name": "CYBERKISS 2 U*",
-        "url": "https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ"
-      },
-      "artists": [
-        {
-          "name": "BLACKSTARKIDS",
-          "url": "https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E"
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
         },
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
         }
       ],
-      "duration_ms": 188569,
-      "name": "CYBERKISS 2 U*",
-      "url": "https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf"
+      "duration_ms": 282240,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
     },
     {
       "added_at": "2022-09-07 16:04:53",
@@ -139,6 +139,22 @@
       "duration_ms": 252596,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "added_at": "2022-07-15 12:08:06",
+      "album": {
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -209,6 +225,22 @@
       "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
     },
     {
+      "added_at": "2022-08-24 19:01:53",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+    },
+    {
       "added_at": "2022-09-09 17:04:50",
       "album": {
         "name": "Is It Worth It Now?",
@@ -241,6 +273,22 @@
       "url": "https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd"
     },
     {
+      "added_at": "2022-08-09 23:24:22",
+      "album": {
+        "name": "THREAT",
+        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 170793,
+      "name": "THREAT",
+      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
+    },
+    {
       "added_at": "2022-08-26 04:40:34",
       "album": {
         "name": "YUKON (INTERLUDE)",
@@ -255,6 +303,22 @@
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
+    },
+    {
+      "added_at": "2022-08-18 15:56:09",
+      "album": {
+        "name": "Runaway Blue",
+        "url": "https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 213942,
+      "name": "Runaway Blue",
+      "url": "https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe"
     },
     {
       "added_at": "2022-08-24 19:01:53",
@@ -289,36 +353,36 @@
       "url": "https://open.spotify.com/track/0rsVGAZYDgvvMBnAgqAamg"
     },
     {
-      "added_at": "2022-08-24 19:01:53",
+      "added_at": "2022-09-13 01:10:35",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
         }
       ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
-      "added_at": "2022-08-09 23:24:22",
+      "added_at": "2022-08-18 17:28:11",
       "album": {
-        "name": "THREAT",
-        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 170793,
-      "name": "THREAT",
-      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
+      "duration_ms": 221082,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -335,6 +399,42 @@
       "duration_ms": 224561,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
+    },
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "CYBERKISS 2 U*",
+        "url": "https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKSTARKIDS",
+          "url": "https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 188569,
+      "name": "CYBERKISS 2 U*",
+      "url": "https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Angelhood",
+        "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
+      },
+      "artists": [
+        {
+          "name": "grandma",
+          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "soft-glow",
+      "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -385,36 +485,20 @@
       "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
-      "added_at": "2022-08-18 15:56:09",
+      "added_at": "2022-08-26 04:40:34",
       "album": {
-        "name": "Runaway Blue",
-        "url": "https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL"
+        "name": "biking to your house",
+        "url": "https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO"
       },
       "artists": [
         {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
         }
       ],
-      "duration_ms": 213942,
-      "name": "Runaway Blue",
-      "url": "https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Angelhood",
-        "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
-      },
-      "artists": [
-        {
-          "name": "grandma",
-          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "soft-glow",
-      "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
+      "duration_ms": 222000,
+      "name": "biking to your house",
+      "url": "https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -431,22 +515,6 @@
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "added_at": "2022-08-18 17:28:11",
-      "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
     },
     {
       "added_at": "2022-06-09 14:58:29",
@@ -479,22 +547,6 @@
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
-    },
-    {
-      "added_at": "2022-08-26 04:40:34",
-      "album": {
-        "name": "biking to your house",
-        "url": "https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "biking to your house",
-      "url": "https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx"
     },
     {
       "added_at": "2022-08-04 04:00:00",
@@ -709,22 +761,6 @@
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
-      "added_at": "2022-08-26 04:40:34",
-      "album": {
-        "name": "Bird Sing",
-        "url": "https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Bird Sing",
-      "url": "https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk"
-    },
-    {
       "added_at": "2022-08-18 15:56:09",
       "album": {
         "name": "54321",
@@ -815,30 +851,6 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Pigeons & Planes presents: See You Next Year",
-        "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
-      },
-      "artists": [
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        },
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        },
-        {
-          "name": "MIKE DEAN",
-          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
-        }
-      ],
-      "duration_ms": 174155,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/0hzVEWIYibIGxMdn2NkjXw"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -955,22 +967,6 @@
       "duration_ms": 188520,
       "name": "Want Want",
       "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
-    },
-    {
-      "added_at": "2022-08-12 18:05:22",
-      "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2022-07-15 12:08:06",

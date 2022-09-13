@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 239890,
+  "num_followers": 239929,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDBmNTc2ZjhiODk2MGFkODRjNjlmYmE0NTc4MWM2M2U1",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGVlZjA1NDFmM2I1YjRhNzgxZWYyOTgxMTZlZjFhNjk3",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -163,22 +163,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Besidju",
         "url": "https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 107441,
       "name": "Besidju",
       "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
       "added_at": "2019-09-16 15:44:25",
@@ -215,18 +215,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
       "artists": [
         {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
         }
       ],
-      "duration_ms": 191986,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -351,22 +351,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Green Twins",
         "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 225360,
       "name": "Bet She Looks Like You",
       "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -647,6 +647,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Naps",
+        "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 238148,
+      "name": "Naps",
+      "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "After the Tone with Lossapardo",
         "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Naps",
-        "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 238148,
-      "name": "Naps",
-      "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
-      },
-      "artists": [
-        {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
-        }
-      ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2018-12-11 21:12:31",

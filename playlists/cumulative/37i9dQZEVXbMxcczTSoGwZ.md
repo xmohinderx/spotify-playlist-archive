@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-989 songs - 2 day 6 hr 46 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+990 songs - 2 day 6 hr 49 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Kuuma jäbä](https://open.spotify.com/track/352xZpOxYzVTcsESmgCilA) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Kuuma jäbä](https://open.spotify.com/album/2jzWY3p5CNVMHOvcXkd8M8) | 2:59 | 2022-01-22 | 2022-03-06 |
 | [Kuuma kesä](https://open.spotify.com/track/3nqyrh7jYfc07FKMjUX1yf) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Pohjantähden alla](https://open.spotify.com/album/2Dl01K663ypobdsB7hezyR) | 3:03 | 2021-06-27 | 2022-06-28 |
 | [Kylmää](https://open.spotify.com/track/6mkIVmVRwXYKjgf5h2c8E2) | [Aitoarttu](https://open.spotify.com/artist/4zgPXHmA2SQlzEy047yBL8) | [Kylmää](https://open.spotify.com/album/52OiMxalpZrQQVTeM7blMY) | 2:16 | 2022-07-02 | 2022-08-28 |
-| [Kyläbaari](https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Kyläbaari](https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW) | 3:46 | 2022-01-02 |  |
+| [Kyläbaari](https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Kyläbaari](https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW) | 3:46 | 2022-01-02 | 2022-09-13 |
 | [Kyläbaari](https://open.spotify.com/track/3H1AVr1EZqacjtG0btvXML) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Kyläbaari](https://open.spotify.com/album/1nFfc7DtNWDpXUQmSmymEI) | 3:46 | 2021-03-27\* | 2021-09-28 |
 | [Kynnet, kynnet \(Vain elämää kausi 12\)](https://open.spotify.com/track/0wXy9Xy7i1mRQ4y2pzPjoZ) | [Chisu](https://open.spotify.com/artist/0Wo2rgrMZVYn0u0uxlDPJP) | [Kynnet, kynnet \(Vain elämää kausi 12\)](https://open.spotify.com/album/5AKgrCasIVDdOODsJA6U4a) | 2:50 | 2021-11-28 | 2021-12-04 |
 | [Kysy mua ulos](https://open.spotify.com/track/3cZ0G6mmgj0FXOukUWWf1C) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Kysy mua ulos](https://open.spotify.com/album/4Nj3pEZDAX4CWFC3qSPQfh) | 3:12 | 2021-06-06 | 2021-07-04 |
@@ -678,6 +678,7 @@
 | [Pohjola](https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Pohjola](https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo) | 2:55 | 2021-09-04 | 2022-08-30 |
 | [Pohjolan tuulet](https://open.spotify.com/track/646tEy4xiSYa4aoWv2Wbca) | [Kuningasidea](https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP) | [Nimi on enne](https://open.spotify.com/album/29IfZvSZhuwoq3b5TLkCxm) | 3:20 | 2021-03-27\* | 2021-04-26 |
 | [Poika saunoo](https://open.spotify.com/track/203wlY7jCBMZq5h4DOIDRL) | [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn) | [Panokset kovenee](https://open.spotify.com/album/2UXdxO0rvG1dOb1myeiL0R) | 2:52 | 2021-06-08 | 2022-06-04 |
+| [Poltetaan tää maa](https://open.spotify.com/track/3aJwkAUGiKB27Hlnw4iQQg) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C), [Ellis](https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu) | [Poltetaan tää maa](https://open.spotify.com/album/2niqgV1keLwVBCiQD72koE) | 3:15 | 2022-09-12 |  |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-15 | 2021-12-16 |
 | [Poppaan \- Remix](https://open.spotify.com/track/4GpomcfWG2ZRs2CqU9W27b) | [65uge](https://open.spotify.com/artist/6tvuL78PsuNYvzT8DWLcIv), [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Poppaan \(Remix\)](https://open.spotify.com/album/6GqgyhweZWHRgWAOkT9jG7) | 3:18 | 2022-01-08 | 2022-01-10 |
 | [Porto](https://open.spotify.com/track/43XeiHD8vA8tTxzudb93rn) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [Porto](https://open.spotify.com/album/2nDCZhhxVQobLsU3DO83m1) | 3:15 | 2021-09-26 | 2021-10-04 |

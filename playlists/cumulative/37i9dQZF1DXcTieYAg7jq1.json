@@ -1116,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Drippin' In Love",
+        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
+      },
+      "artists": [
+        {
+          "name": "Frankie Zulferino",
+          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Drippin' In Love",
+      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
+    },
+    {
+      "album": {
         "name": "Dry Bones",
         "url": "https://open.spotify.com/album/4fbOSnKV77GDqa54vORMym"
       },
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 250933,
       "name": "Final Days",
       "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"

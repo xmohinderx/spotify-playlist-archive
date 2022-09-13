@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10560,
+  "num_followers": 10566,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDYzYWRjY2JiNjk0MTM4NDNkZDkzYjcxMjlhMjk5Y2Nm",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDlhMzMwZjgwNzM2NDMyZWY1OGI0OTg0Y2M0MWYxMzdk",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Bria's Interlude (feat. Omarion)",
+      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -147,6 +167,22 @@
       "duration_ms": 91249,
       "name": "Big Boss (Interlude)",
       "url": "https://open.spotify.com/track/7EuktT4CgA637ci366IrYW"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "End",
+      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -171,26 +207,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Bria's Interlude (feat. Omarion)",
-      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Take Me Apart",
         "url": "https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 72043,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "End",
-      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 141440,
+      "name": "F.U.S.S. (Interlude)",
+      "url": "https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Songs In A Minor (Expanded Edition)",
         "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 64733,
       "name": "You Loving Me (Session)",
       "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 141440,
-      "name": "F.U.S.S. (Interlude)",
-      "url": "https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Danity Kane",
+        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 104093,
+      "name": "Come Over Interlude",
+      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 176733,
       "name": "Nobody Not Really (Interlude)",
       "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Danity Kane",
-        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
-      },
-      "artists": [
-        {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
-        }
-      ],
-      "duration_ms": 104093,
-      "name": "Come Over Interlude",
-      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 55360,
-      "name": "I Dedicate (Pt. 2)",
-      "url": "https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 55360,
+      "name": "I Dedicate (Pt. 2)",
+      "url": "https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 150226,
       "name": "Makings Of You - Interlude",
       "url": "https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 110466,
+      "name": "Sexy You (Interlude)",
+      "url": "https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 110466,
-      "name": "Sexy You (Interlude)",
-      "url": "https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 100680,
       "name": "Puff's Intro",
       "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 89066,
-      "name": "I Dedicate (Pt. 1)",
-      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 39600,
-      "name": "J.L (Interlude)",
-      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
+      "duration_ms": 89066,
+      "name": "I Dedicate (Pt. 1)",
+      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -819,6 +803,22 @@
       "duration_ms": 103995,
       "name": "Why (Interlude)",
       "url": "https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 39600,
+      "name": "J.L (Interlude)",
+      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -859,22 +859,6 @@
       "duration_ms": 65866,
       "name": "I've Changed (feat. Lil' Mo) - Interlude",
       "url": "https://open.spotify.com/track/6BqzBaFjRWUbZx59inQaY8"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 130693,
-      "name": "Room 454: De Vante's \" Inhermission\"",
-      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -943,18 +927,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Soul Of A Woman",
-        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
       "artists": [
         {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 76533,
-      "name": "Don't Go Away (Interlude)",
-      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
+      "duration_ms": 130693,
+      "name": "Room 454: De Vante's \" Inhermission\"",
+      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 74173,
       "name": "I Surrender - Interlude",
       "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Soul Of A Woman",
+        "url": "https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u"
+      },
+      "artists": [
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        }
+      ],
+      "duration_ms": 76533,
+      "name": "Don't Go Away (Interlude)",
+      "url": "https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 76173,
-      "name": "The Meaning - Interlude",
-      "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1087,34 +1087,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Kima, Keisha & Pam",
-        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 158030,
-      "name": "There Will Be No Fuck Tonight (Interlude)",
-      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
+      "duration_ms": 76173,
+      "name": "The Meaning - Interlude",
+      "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Kima, Keisha & Pam",
+        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 158030,
+      "name": "There Will Be No Fuck Tonight (Interlude)",
+      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Keep the Faith",
         "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Kima, Keisha & Pam",
-        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+        "name": "20 Y.O.",
+        "url": "https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 124360,
-      "name": "I Tried (Interlude)",
-      "url": "https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI"
+      "duration_ms": 27146,
+      "name": "20 - Pt. 2 / Interlude",
+      "url": "https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "20 Y.O.",
-        "url": "https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA"
+        "name": "Kima, Keisha & Pam",
+        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
         }
       ],
-      "duration_ms": 27146,
-      "name": "20 - Pt. 2 / Interlude",
-      "url": "https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0"
+      "duration_ms": 124360,
+      "name": "I Tried (Interlude)",
+      "url": "https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI"
     },
     {
       "added_at": "2022-08-26 04:00:00",

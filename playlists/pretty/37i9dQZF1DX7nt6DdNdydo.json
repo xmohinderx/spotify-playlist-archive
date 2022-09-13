@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 34924,
+  "num_followers": 34947,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDU1YzNjMDIwYTNhMDFlYjNhYzRhN2E1NGRhODQ1ZjYw",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGQyNDBmZThmNWVhNmZhMzRkYWY4MTMxOTQ2NGViZGJm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
-        }
-      ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Roy Milton And His Solid Senders",
         "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 163840,
       "name": "Big Fat Mama",
       "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Wild Wild Young Men",
+      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Jump, Jive An' Wail: The Essential",
         "url": "https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 209413,
       "name": "Jump, Jive, An' Wail - Remastered 1996",
       "url": "https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Wild Wild Young Men",
-      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 114813,
+      "name": "Bradshaw Boogie",
+      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Mardi Gras Blues",
         "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 191306,
       "name": "Say Hey (The Willie Mays Song)",
       "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Swingsation: Lionel Hampton",
-        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
-      },
-      "artists": [
-        {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
-      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
+        "name": "Swingsation: Lionel Hampton",
+        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
       },
       "artists": [
         {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
         }
       ],
-      "duration_ms": 114813,
-      "name": "Bradshaw Boogie",
-      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
+      "duration_ms": 202933,
+      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
+      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -471,6 +471,26 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
+        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
+      },
+      "artists": [
+        {
+          "name": "Humphrey Lyttelton",
+          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
+        },
+        {
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "Mr. Five By Five",
+      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -491,22 +511,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
-        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
       },
       "artists": [
         {
-          "name": "Humphrey Lyttelton",
-          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
-        },
-        {
-          "name": "Jimmy Rushing",
-          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 116933,
-      "name": "Mr. Five By Five",
-      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+      "duration_ms": 135853,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -559,34 +575,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+        "name": "Dootone Rock 'N' Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
       },
       "artists": [
         {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+          "name": "Helen Humes",
+          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Joe Williams' Finest Hour",
-        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 371893,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+      "duration_ms": 136255,
+      "name": "Real Fine Daddy",
+      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -623,34 +623,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Dootone Rock 'N' Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
+        "name": "Joe Williams' Finest Hour",
+        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
       },
       "artists": [
         {
-          "name": "Helen Humes",
-          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 136255,
-      "name": "Real Fine Daddy",
-      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
+      "duration_ms": 371893,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Shorty",
         "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Travelin' Blues",
-        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 117040,
-      "name": "Let the Four Winds Blow",
-      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
         "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 145852,
       "name": "Ravin' At The Haven",
       "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Travelin' Blues",
+        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
+      },
+      "artists": [
+        {
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+        }
+      ],
+      "duration_ms": 117040,
+      "name": "Let the Four Winds Blow",
+      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
     },
     {
       "added_at": "2022-03-28 19:44:25",

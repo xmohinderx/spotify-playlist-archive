@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1052209,
+  "num_followers": 1052196,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGYwYjJmMWM1ZWM5MGM1MmI4NWI4NTM4YTQxMTQyYzBj",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDA5M2ZjODEzYzI5N2VhZDkxYThjNjJlYzQwZGE1OWRi",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
-      },
-      "artists": [
-        {
-          "name": "Karmin",
-          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 212446,
       "name": "Pretty Shining People",
       "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
+      },
+      "artists": [
+        {
+          "name": "Karmin",
+          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
     },
     {
       "added_at": "2020-08-27 16:10:25",

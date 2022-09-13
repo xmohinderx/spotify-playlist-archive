@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-444 songs - 1 day 8 hr 57 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+445 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Boogie](https://open.spotify.com/track/1udnVMUpzoMzVdHI5FnhQO) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS II](https://open.spotify.com/album/6GJ3n96Nj0u2E6YhAngJko) | 5:48 | 2021-10-06 |  |
 | [Boogie With Your Baby](https://open.spotify.com/track/6eVf9JIPNNEZ9xAwKTG4cx) | [Funkool Orchestra](https://open.spotify.com/artist/4gaQmpOSxtcveUg7jdcC6i), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Boogie With Your Baby](https://open.spotify.com/album/0JRKtByiknT9qvpDQVy3ui) | 4:13 | 2022-09-11 |  |
 | [Boom!](https://open.spotify.com/track/2gsD0Bf0Bb0UCaSlWenzMD) | [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [John Turrell](https://open.spotify.com/artist/3Odb0uTggeSc8OefBAE3Av) | [My Life at 45, Pt\. 4](https://open.spotify.com/album/6vAvbAt502YomvMJ0Rrh7U) | 3:29 | 2021-10-06 | 2022-04-18 |
-| [Boul Bayi](https://open.spotify.com/track/1aJ0avSZwIt5qlJKt9aYXX) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Boul Bayi](https://open.spotify.com/album/5fnjE6FP4f2JzhEu22tzWb) | 3:25 | 2022-08-13 |  |
+| [Boul Bayi](https://open.spotify.com/track/1aJ0avSZwIt5qlJKt9aYXX) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Boul Bayi](https://open.spotify.com/album/5fnjE6FP4f2JzhEu22tzWb) | 3:25 | 2022-08-13 | 2022-09-13 |
 | [Brondesbury Park](https://open.spotify.com/track/1EKDGVTyTvaFeWvlDEh5qn) | [Ziggy Funk](https://open.spotify.com/artist/0UxVmzj48CkaBKISsYF9Ia) | [Brondesbury Park](https://open.spotify.com/album/1E7PZsd3kQPIQNzySwA076) | 5:37 | 2022-04-17 | 2022-06-17 |
 | [Bukaroo Bank](https://open.spotify.com/track/4mAXzM7ZF1nFrJY6qSjdpX) | [The Mauskovic Dance Band](https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS) | [Bukaroo Bank](https://open.spotify.com/album/6gwODjchuMhNcNRfbwsrZw) | 3:19 | 2022-09-09 |  |
 | [C'est Vrai](https://open.spotify.com/track/2o727Omitml7Jvj7AVEa4f) | [Prosper](https://open.spotify.com/artist/46Vmd1YA5zUO017xsfAAIa), [Le Marabout](https://open.spotify.com/artist/4YXND3dd55ervyH4b8G1hS), [Fou Malade](https://open.spotify.com/artist/6c96fgZXjavQnU9WxH1P2D), [Niagass](https://open.spotify.com/artist/0EQjerybhkqKvlfnVIvAOW) | [C'est Vrai](https://open.spotify.com/album/6OiJQ75UZXmMjltmTNIHXb) | 4:27 | 2022-04-22 | 2022-05-25 |
@@ -97,6 +97,7 @@
 | [Day By Day](https://open.spotify.com/track/2nJTbCUSqva9qCjLFFQJhu) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Day By Day](https://open.spotify.com/album/48n17knZcV17EROw3ndSRm) | 4:55 | 2021-10-06 | 2022-07-01 |
 | [Ddoje Facce](https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:21 | 2021-10-06 |  |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-10-06 | 2022-04-18 |
+| [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2022-09-12 |  |
 | [Despedida: Ensayo Silencio](https://open.spotify.com/track/6OSiOuTNk6XkfaLuvcnWN9) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn) | […dreaming in lions…](https://open.spotify.com/album/0pkU2fBus3YM1SgsaXcpj3) | 5:21 | 2021-10-06 | 2022-07-28 |
 | [Despierta \(feat\. Noel GC\) \- Main Mix](https://open.spotify.com/track/1LoCHLNw862XmsQNDPqH4i) | [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0), [Noel GC](https://open.spotify.com/artist/0Lh1YzhAgTeHmXP7BFox6g) | [Despierta \(feat\. Noel GC\) \[Main Mix\]](https://open.spotify.com/album/2DkW8upSVCkkD0j9176hhC) | 4:14 | 2022-03-29 | 2022-04-20 |
 | [Destroy The Empire](https://open.spotify.com/track/1yLiawLcVNGjEFz8NFxOmY) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Destroy The Empire](https://open.spotify.com/album/7xrCykN0UTFWE2yD8zu2Is) | 3:24 | 2021-10-06 | 2022-07-28 |

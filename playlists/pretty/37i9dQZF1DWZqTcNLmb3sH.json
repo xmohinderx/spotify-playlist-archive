@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vikrant Rona",
-  "num_followers": 39805,
+  "num_followers": 39877,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcwMDg3OCwwMDAwMDAwMDk5YjIyYTIxYjFlNTZlMDg3YzJlMWYyYTE3ZTFlOTE3",
+  "snapshot_id": "MTY2Mjk4OTA1MiwwMDAwMDAwMDZjNzVmYzA0ZGUzYWViZjg4MWYxMmYxNmY5ODFiM2My",
   "tracks": [
     {
       "added_at": "2022-09-06 06:48:32",
@@ -157,6 +157,26 @@
       "url": "https://open.spotify.com/track/4m1sMGCkpOHTndQJEQ2zVO"
     },
     {
+      "added_at": "2022-09-12 13:24:12",
+      "album": {
+        "name": "Confusion Song (From \"Nodi Swamy Ivanu Irode Heege\")",
+        "url": "https://open.spotify.com/album/4Fkw1OonmuprIHTDRp81Op"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Sivaraman",
+          "url": "https://open.spotify.com/artist/3VsrVjGesZwWFS9bFO44I9"
+        },
+        {
+          "name": "Udith Haritas",
+          "url": "https://open.spotify.com/artist/1HK9cAtlIq54t9dBWU5q3R"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "Confusion Song (From \"Nodi Swamy Ivanu Irode Heege\")",
+      "url": "https://open.spotify.com/track/7fNZhwvoERmTsGD8XI9Dud"
+    },
+    {
       "added_at": "2022-07-18 06:13:34",
       "album": {
         "name": "Maaya Gange (From \"Banaras\")",
@@ -175,6 +195,26 @@
       "duration_ms": 275039,
       "name": "Maaya Gange (From \"Banaras\")",
       "url": "https://open.spotify.com/track/58H1xLatriC2xieOvwWqnN"
+    },
+    {
+      "added_at": "2022-09-12 13:24:12",
+      "album": {
+        "name": "Devare Devare (From \"Dhum\")",
+        "url": "https://open.spotify.com/album/5Cvk5TqY4JmnHDnr4Uo4I0"
+      },
+      "artists": [
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/0Onta8EyTOllw3wCIs5fW1"
+        },
+        {
+          "name": "Jeeva Varshini",
+          "url": "https://open.spotify.com/artist/1yt89S4FnIyv2xOnVe3mMj"
+        }
+      ],
+      "duration_ms": 330500,
+      "name": "Devare Devare - From \"Dhum\"",
+      "url": "https://open.spotify.com/track/4uda53f6sun2I9o0KueHrv"
     },
     {
       "added_at": "2022-09-09 05:19:40",

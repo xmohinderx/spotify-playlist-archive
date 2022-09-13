@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Den BB & Oskar Westerlin
 
-232 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+233 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Goddess](https://open.spotify.com/track/0w1Qg8R267fYdcPDDi2Yoj) | [Olje](https://open.spotify.com/artist/0DA5Q5urbnY2wrnXF5hTVp) | [Goddess](https://open.spotify.com/album/53BLBDKlPB8fvOQwifBiRB) | 2:40 | 2022-04-28 | 2022-05-28 |
 | [Granada](https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar med dobbelseng](https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y) | 3:10 | 2022-07-28 |  |
 | [Granada](https://open.spotify.com/track/7mBxJDprUn3C1uRWBe3DJa) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Ungkar Med Dobbelseng](https://open.spotify.com/album/1s98zJHIwTJg5nBkkEeBRo) | 3:10 | 2021-12-16 | 2022-07-20 |
-| [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 | 2022-01-06 |  |
+| [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 | 2022-01-06 | 2022-09-13 |
 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL\-Project](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 | 2022-08-25 |  |
 | [HAALAND](https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [HAALAND](https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl) | 1:44 | 2022-08-31 |  |
 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 | 2022-07-28 |
@@ -178,6 +178,7 @@
 | [På'n igjen](https://open.spotify.com/track/5Msl0GQxuRnzPPYyGXT2Fa) | [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [På'n igjen](https://open.spotify.com/album/2SMqoxFDfII83BER8hvtm3) | 3:28 | 2021-12-16 | 2022-07-29 |
 | [Ragga hela natten lång](https://open.spotify.com/track/7J25gtDdoUSZEncSE8TRMF) | [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Ragga hela natten lång](https://open.spotify.com/album/7z51vxq0wO45vZIjNssBXh) | 2:05 | 2022-04-21 | 2022-04-29 |
 | [Ragga runt](https://open.spotify.com/track/0ZikbghBZwvTuWANNZ3tSO) | [Lasaronen](https://open.spotify.com/artist/1SngJIvUVzHysyQsm8RJks), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Ragga runt](https://open.spotify.com/album/2UUUaYP34NrB0e2gQ7H6uD) | 2:30 | 2021-12-16 | 2022-04-18 |
+| [RAGGA VÄRLDEN RUNT](https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Lurifaks](https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [RAGGA VÄRLDEN RUNT](https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ) | 2:30 | 2022-09-08 |  |
 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 | 2021-12-16 |  |
 | [Ragge](https://open.spotify.com/track/6Zs81zXoJ7SVL9vmwRMV8i) | [Thomassen & Berg](https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2) | [Ragge](https://open.spotify.com/album/4P1Pf5kUXT5XUSYUqdtKxO) | 2:05 | 2022-01-20 | 2022-07-03 |
 | [Raggen](https://open.spotify.com/track/33C7lhLNX5KKMyzrIi4bEo) | [Chris og Colada](https://open.spotify.com/artist/0YVbhK3PygEi4q70SrSPfB) | [Raggen](https://open.spotify.com/album/0UcMYS1DaPVY48qykyef6p) | 2:28 | 2022-04-14 | 2022-06-24 |

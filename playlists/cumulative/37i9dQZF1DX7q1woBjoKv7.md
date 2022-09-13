@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: Bbyafricka
+> California music breaking waves\. Cover: Zyah Belle
 
 481 songs - 1 day 0 hr 3 min - [published](https://open.spotify.com/playlist/7aCz9WTkVveWry6ECm9qAk)
 

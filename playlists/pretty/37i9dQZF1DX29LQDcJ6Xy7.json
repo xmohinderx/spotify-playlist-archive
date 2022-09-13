@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 230327,
+  "num_followers": 230491,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU5Njk1NCwwMDAwMDAwMDdlNjQ2NDFmZWUzNmMzNWNjMWRhNzRmZDVhMzk2OGZi",
+  "snapshot_id": "MTY2MDU5Njk1NCwwMDAwMDAwMDk5YmYxZTAwMDhkYjM1NTc4ZjJlMjZmMjE4NmVlNzM0",
   "tracks": [
     {
       "added_at": "2022-07-01 00:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 255845,
       "name": "Zeig dich",
       "url": "https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2022-08-12 13:00:00",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I"
     },
     {
-      "added_at": "2022-08-12 13:00:00",
-      "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/49KrtYvUHrMbO4kYKmxQly"
-      },
-      "artists": [
-        {
-          "name": "Mindless Self Indulgence",
-          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Never Wanted To Dance",
-      "url": "https://open.spotify.com/track/3nM1EJJ80pJGiG32WFfJxc"
-    },
-    {
       "added_at": "2022-07-01 00:00:00",
       "album": {
         "name": "Digimortal",
@@ -427,6 +411,38 @@
       "duration_ms": 194173,
       "name": "Bombshell",
       "url": "https://open.spotify.com/track/2yY4ojg6wfEFBGVZoJuXqK"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/49KrtYvUHrMbO4kYKmxQly"
+      },
+      "artists": [
+        {
+          "name": "Mindless Self Indulgence",
+          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Never Wanted To Dance",
+      "url": "https://open.spotify.com/track/3nM1EJJ80pJGiG32WFfJxc"
     },
     {
       "added_at": "2022-08-12 13:00:00",
@@ -477,22 +493,6 @@
       "url": "https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy"
     },
     {
-      "added_at": "2022-08-12 13:00:00",
-      "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
-    },
-    {
       "added_at": "2022-07-01 00:00:00",
       "album": {
         "name": "Wisconsin Death Trip",
@@ -507,22 +507,6 @@
       "duration_ms": 204626,
       "name": "I'm With Stupid",
       "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Deutschland",
-        "url": "https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 322339,
-      "name": "Deutschland",
-      "url": "https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
+        "name": "Deutschland",
+        "url": "https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 322339,
+      "name": "Deutschland",
+      "url": "https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
         "name": "Demanufacture (Special Edition)",
         "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 237360,
       "name": "Replica",
       "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
+    },
+    {
+      "added_at": "2022-08-12 13:00:00",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Every Day Is Exactly The Same",
+      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -603,22 +619,6 @@
       "duration_ms": 302693,
       "name": "Switchback",
       "url": "https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je"
-    },
-    {
-      "added_at": "2022-08-12 13:00:00",
-      "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Every Day Is Exactly The Same",
-      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/6hvBZMTNAJTCei1BxEATzK"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
-      },
-      "artists": [
-        {
-          "name": "SKYND",
-          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
-        }
-      ],
-      "duration_ms": 291502,
-      "name": "Tyler Hadley",
-      "url": "https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F"
-    },
-    {
       "added_at": "2022-08-12 13:00:00",
       "album": {
         "name": "Lost Highway",
@@ -731,6 +715,22 @@
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
+      },
+      "artists": [
+        {
+          "name": "SKYND",
+          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
+        }
+      ],
+      "duration_ms": 291502,
+      "name": "Tyler Hadley",
+      "url": "https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
       },
       "artists": [
         {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
         }
       ],
-      "duration_ms": 216840,
-      "name": "The Thing I Hate",
-      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -973,20 +973,20 @@
       "url": "https://open.spotify.com/track/1rY7BUQ7wAfejpvRjSIgZ0"
     },
     {
-      "added_at": "2022-08-12 13:00:00",
+      "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
       "artists": [
         {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
         }
       ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
+      "duration_ms": 216840,
+      "name": "The Thing I Hate",
+      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "TILL THE END",
-        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
-      },
-      "artists": [
-        {
-          "name": "NA CHUI",
-          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "TILL THE END",
-      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 394285,
       "name": "Jim Jones",
       "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "TILL THE END",
+        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
+      },
+      "artists": [
+        {
+          "name": "NA CHUI",
+          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "TILL THE END",
+      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Bring You Down (Project Regeneration)",
+      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
         "name": "Hengit\u00e4",
         "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2022-07-01 00:00:00",
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "One Fire",
+        "url": "https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Bring You Down (Project Regeneration)",
-      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+      "duration_ms": 255194,
+      "name": "Hate Like Me",
+      "url": "https://open.spotify.com/track/5iwwHtW8mghDtFh42V4ZyR"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 240159,
       "name": "Golgotha Tenement Blues",
       "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
-    },
-    {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "One Fire",
-        "url": "https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 255194,
-      "name": "Hate Like Me",
-      "url": "https://open.spotify.com/track/5iwwHtW8mghDtFh42V4ZyR"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
-      "album": {
-        "name": "Out For Blood",
-        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
-    },
-    {
       "added_at": "2022-08-12 13:00:00",
       "album": {
         "name": "Animal",
@@ -1323,6 +1307,22 @@
       "duration_ms": 255111,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
+    },
+    {
+      "added_at": "2022-07-01 00:00:00",
+      "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
     },
     {
       "added_at": "2022-07-01 00:00:00",
@@ -1613,24 +1613,20 @@
       "url": "https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS"
     },
     {
-      "added_at": "2022-07-01 00:00:00",
+      "added_at": "2022-08-12 13:00:00",
       "album": {
-        "name": "Don't Question Me",
-        "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
+        "name": "Front By Front",
+        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
       },
       "artists": [
         {
-          "name": "Boom Kitty",
-          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
-        },
-        {
-          "name": "Waylon Reavis",
-          "url": "https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww"
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
         }
       ],
-      "duration_ms": 201184,
-      "name": "Don't Question Me",
-      "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+      "duration_ms": 302640,
+      "name": "Headhunter V1.0",
+      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
     }
   ],
   "unique_name": "Industrial Metal",

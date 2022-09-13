@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 32347,
+  "num_followers": 32430,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMGYyODk2YzE5MGQxN2VjZDQ1MWYzMzVlYmMzYjkwZWE4",
+  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMGRmYzEwZGNmYTUxYTk3NzlkYTkzZDY2MDA0MDZmZGFl",
   "tracks": [
     {
       "added_at": "2022-09-07 13:39:46",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "SNOW",
         "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 240000,
       "name": "Snow (Feat. Lee Moon Sae)",
       "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -587,6 +571,42 @@
       "duration_ms": 222576,
       "name": "Friendzone (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+      },
+      "artists": [
+        {
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 267051,
+      "name": "We are all Muse (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -623,26 +643,6 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
-      },
-      "artists": [
-        {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 267051,
-      "name": "We are all Muse (Feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -783,6 +783,26 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
+      },
+      "artists": [
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        },
+        {
+          "name": "Inyu",
+          "url": "https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2"
+        }
+      ],
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Our Cinema #2 - Dancing",
         "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 254600,
       "name": "Watercolour",
       "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Leave like this",
-        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
-      },
-      "artists": [
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
-        },
-        {
-          "name": "Inyu",
-          "url": "https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Leave like this",
-      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta"
-      },
-      "artists": [
-        {
-          "name": "Kayla",
-          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 251653,
       "name": "Fuzzy peach",
       "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta"
+      },
+      "artists": [
+        {
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "ONF:MY NAME",
+        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Thermometer - ON Team Version",
+      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 164640,
       "name": "Propose",
       "url": "https://open.spotify.com/track/5yygP5IhQWB6NExGRGziYZ"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "ONF:MY NAME",
-        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Thermometer - ON Team Version",
-      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1227,22 +1227,26 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
+        "name": "Forever yours",
+        "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
       "artists": [
         {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
+          "name": "Kim Yeon Woo",
+          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
         },
         {
-          "name": "SONG JU HEE \uc1a1\uc8fc\ud76c",
-          "url": "https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU"
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Yoo Inna",
+          "url": "https://open.spotify.com/artist/6fKnb4HDyGqFaYgSFu5k17"
         }
       ],
-      "duration_ms": 178886,
-      "name": "ROSE",
-      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
+      "duration_ms": 190146,
+      "name": "Play the field (With ONEW, Yoo Inna)",
+      "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

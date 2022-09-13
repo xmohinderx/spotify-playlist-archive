@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 195200,
       "name": "Astro Funk",
       "url": "https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE"
@@ -3823,6 +3823,28 @@
       "duration_ms": 147200,
       "name": "Run It (feat. Bok Nero)",
       "url": "https://open.spotify.com/track/3iLmFedCb8sGWtLbXbY8go"
+    },
+    {
+      "album": {
+        "name": "Run It Up EP",
+        "url": "https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa"
     },
     {
       "album": {

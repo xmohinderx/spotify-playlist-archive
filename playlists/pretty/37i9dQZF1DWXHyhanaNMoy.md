@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Kleine John
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,903 likes - 71 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,940 likes - 71 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 18 | [OK](https://open.spotify.com/track/1iOuMmgWQGonnhIwvow7Ac) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [OK](https://open.spotify.com/album/6KDkAd47FLbeLIaymhkiYG) | 2:00 |
 | 19 | [Lock That Door](https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [Lock That Door](https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx) | 2:46 |
 | 20 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 |
-| 21 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 |
-| 22 | [Tempty](https://open.spotify.com/track/4J2t3e9qK5fPxvMqkuBY6E) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Tempty](https://open.spotify.com/album/4IvU6iu0w5I8gDNX9K9k3E) | 2:30 |
-| 23 | [Mijn Baby](https://open.spotify.com/track/2a2Dkwi2hOpjEo2JALKPXN) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Mijn Baby](https://open.spotify.com/album/1QIPelJFczpWwTC82DdJTW) | 2:06 |
+| 21 | [Tempty](https://open.spotify.com/track/4J2t3e9qK5fPxvMqkuBY6E) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Tempty](https://open.spotify.com/album/4IvU6iu0w5I8gDNX9K9k3E) | 2:30 |
+| 22 | [Mijn Baby](https://open.spotify.com/track/2a2Dkwi2hOpjEo2JALKPXN) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Mijn Baby](https://open.spotify.com/album/1QIPelJFczpWwTC82DdJTW) | 2:06 |
+| 23 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 |
 | 24 | [ICE \(feat\. Dopebwoy & Murda\)](https://open.spotify.com/track/2Drq3S61mlk0IJFWtQktyU) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 3:08 |
 | 25 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
 | 26 | [Chupa Tonto](https://open.spotify.com/track/1xfiNgEAnLhwMJQdT829iL) | [Kya](https://open.spotify.com/artist/4C9S9vrrPc9RWGeA5X9jAr), [Finest Sno](https://open.spotify.com/artist/2jZdMwF6R1JW2QPNLwMcSz), [Chris Strick](https://open.spotify.com/artist/7poupxpx7K01XVTYoQruRZ) | [Chupa Tonto](https://open.spotify.com/album/2IU0d9EhLFTdpGm8KDHt73) | 2:14 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 70 | [Freaky](https://open.spotify.com/track/3ZxJ1LT3SAHn9zJ1Sqjdab) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Freaky](https://open.spotify.com/album/2pwqqB5fGJ77AUsBe69wuL) | 3:07 |
 | 71 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
 
-Snapshot ID: `MTY2MjcwMjI2MiwwMDAwMDAwMDk4ZjNkZGQ3YzZmODNiODI1NzJlN2U1ZGRlYTAwYTJj`
+Snapshot ID: `MTY2Mjk4NTY3NSwwMDAwMDAwMDA4OWE1Y2FmOTRjOWFkYTg1OTY2ZmVlZmRkY2Y0OTU0`

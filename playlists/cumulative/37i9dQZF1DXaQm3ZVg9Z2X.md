@@ -2,7 +2,7 @@
 
 ### [This Is Coldplay](https://open.spotify.com/playlist/37i9dQZF1DXaQm3ZVg9Z2X)
 
-> Celebrating 20 years of ‘Rush Of Blood To The Head’\. Watch now!
+> The essential tracks, all in one playlist.
 
 54 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/1oCJ3Q02CA2EhAiPR90yH4)
 

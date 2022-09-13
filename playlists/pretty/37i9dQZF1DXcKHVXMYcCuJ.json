@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 66115,
+  "num_followers": 66178,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDllM2U0MmE2NmNiMDcyZDRkZDk0NzlhNjJkYTJlNjFi",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDgzNjFmOWNlM2U5MTVmYzFiNTg3YjkxODBkYTdiODk0",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "OK Computer OKNOTOK 1997 2017",
-        "url": "https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Lift",
-      "url": "https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 285329,
       "name": "Gunman",
       "url": "https://open.spotify.com/track/1hreMeBwxRRmChwRSjP1Kk"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "OK Computer OKNOTOK 1997 2017",
+        "url": "https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Lift",
+      "url": "https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Abstract Figures in the Dark",
-        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 246005,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Sound As Ever",
         "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Buds",
-        "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
+        "name": "Abstract Figures in the Dark",
+        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
       },
       "artists": [
         {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
         }
       ],
-      "duration_ms": 97543,
-      "name": "Baby Shea",
-      "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
+      "duration_ms": 246005,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -407,6 +391,22 @@
       "duration_ms": 136826,
       "name": "Shed",
       "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Buds",
+        "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 97543,
+      "name": "Baby Shea",
+      "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Four of Arrows",
-        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 281173,
       "name": "Driveway to Driveway",
       "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Four of Arrows",
+        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
-      },
-      "artists": [
-        {
-          "name": "Reuben",
-          "url": "https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Freddy Kreuger",
-      "url": "https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Workbook",
         "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 212066,
       "name": "See A Little Light",
       "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
+      },
+      "artists": [
+        {
+          "name": "Reuben",
+          "url": "https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Freddy Kreuger",
+      "url": "https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 268519,
       "name": "Vacation Forever",
       "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Handsome",
-        "url": "https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid"
-      },
-      "artists": [
-        {
-          "name": "Handsome",
-          "url": "https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Needles",
-      "url": "https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 221120,
       "name": "Kettling",
       "url": "https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Handsome",
+        "url": "https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid"
+      },
+      "artists": [
+        {
+          "name": "Handsome",
+          "url": "https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Needles",
+      "url": "https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz"
     },
     {
       "added_at": "2022-06-23 14:53:44",

@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: HALIENE.
 
-241 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+242 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Flare](https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Mirrors](https://open.spotify.com/album/6rPIY9dx2jNh9VFsX86ErA) | 3:10 | 2022-07-08 |  |
 | [Floating Through The Sky](https://open.spotify.com/track/1RurO5tWqos1i8Lg1ROZyI) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [TRØVES](https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg) | [Floating Through The Sky](https://open.spotify.com/album/3bnBt9QTkHPu7KFZJeccTJ) | 4:17 | 2022-07-08 | 2022-07-24 |
 | [FLOW IN YOU](https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [FLOW IN YOU](https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu) | 3:05 | 2022-07-08 | 2022-08-13 |
-| [For The First Time](https://open.spotify.com/track/6y5Nl8wL8RAlcM1tlyWqoF) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [For The First Time](https://open.spotify.com/album/7Hj8SJiME4AwfwZhYhSRUX) | 3:06 | 2022-07-08 |  |
+| [For The First Time](https://open.spotify.com/track/6y5Nl8wL8RAlcM1tlyWqoF) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [For The First Time](https://open.spotify.com/album/7Hj8SJiME4AwfwZhYhSRUX) | 3:06 | 2022-07-08 | 2022-09-13 |
 | [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 | 2022-07-08 |  |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-07-08 |  |
 | [Forgive You Anyway](https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Heavenly](https://open.spotify.com/album/5yWY4gVRl4oJEuRSBbBOHq) | 4:29 | 2022-08-26 |  |
@@ -132,6 +132,7 @@
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 |  |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
+| [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 |  |
 | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw) | 4:44 | 2022-07-08 |  |
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-07-08 |  |
 | [Lightspeed](https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Planet Oasis](https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG) | 3:00 | 2022-07-08 |  |

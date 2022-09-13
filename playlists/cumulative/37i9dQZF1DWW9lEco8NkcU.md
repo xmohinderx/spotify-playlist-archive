@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-66 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
+67 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [untitled nine](https://open.spotify.com/track/4T5EfAG0xFrKyLLRX26ijT) | [rees111](https://open.spotify.com/artist/4DQAGENt8yDnztCIWkS7hT) | [3e](https://open.spotify.com/album/3C2UcCjHmBUrJh5DwBfiAs) | 3:45 | 2022-07-08 |  |
 | [Untold](https://open.spotify.com/track/1RbRF5lPKVSwFWV1RGe9MN) | [Aster](https://open.spotify.com/artist/1ie4JpANX38QqUcnNRht7e) | [One Path](https://open.spotify.com/album/0LcPF7MaRplUP7N37LrEUo) | 3:32 | 2022-07-08 |  |
 | [Waiting in shadows](https://open.spotify.com/track/0h41LAkIIxgV9d1tUvpday) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Closer than ever](https://open.spotify.com/album/0pbsNfhs6ha5ff0mUD03Mg) | 2:02 | 2022-07-08 |  |
-| [Water Fairy Moon](https://open.spotify.com/track/4L5zE3VJSKi6ERhsjrS2Xk) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [Nymph Tones](https://open.spotify.com/album/77rg7n08qydML6kMXvOw1c) | 2:58 | 2022-07-08 |  |
+| [Water Fairy Moon](https://open.spotify.com/track/2XKiW8QkcpWExtzFP6uba5) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [Nymph Tones](https://open.spotify.com/album/5vEMPjJgxW0rb2Z52FRdhK) | 2:58 | 2022-08-19 |  |
+| [Water Fairy Moon](https://open.spotify.com/track/4L5zE3VJSKi6ERhsjrS2Xk) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [Nymph Tones](https://open.spotify.com/album/77rg7n08qydML6kMXvOw1c) | 2:58 | 2022-07-08 | 2022-09-13 |
 | [We Swarm \- Ambient Version](https://open.spotify.com/track/4sRHMdHWVgKcQmRZzmwGMA) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Drink the Sea \(Ambient Version\)](https://open.spotify.com/album/1gHeBH5qZs2OGKfp0eGjjM) | 3:42 | 2022-07-08 |  |
 | [Where My Brap At?](https://open.spotify.com/track/1N5Qa1qMw2kwvjf3RKHouV) | [disc](https://open.spotify.com/artist/4a9B5A5fVCayFnAnup5thw) | [Tigerbeat Inc disc 1](https://open.spotify.com/album/3ojlAzwrhbB7hsRxrmNNCX) | 2:58 | 2022-07-08 |  |
 | [wires](https://open.spotify.com/track/1vmclJdKKG2ae0MiCTDTan) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [01 / 02 / 1996](https://open.spotify.com/album/70hZhOpZrDIqzi776yG1EX) | 2:35 | 2022-07-08 |  |

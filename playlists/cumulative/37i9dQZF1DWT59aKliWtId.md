@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: Madison Cunningham
 
-471 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+473 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 | 2022-07-01 |  |
 | [My Body My Choice](https://open.spotify.com/track/1z4T68QEPNs4FSfk8MDlqL) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [My Body My Choice](https://open.spotify.com/album/0FQ7ZlKnhQAyY6pSEyXMDM) | 3:07 | 2022-07-08 | 2022-08-13 |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-06 | 2022-07-29 |
-| [My Boy](https://open.spotify.com/track/5PHbusMmCka1GbXiYoSD47) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/67UzYNh0EZimd6Cp0usqSN) | 2:43 | 2022-07-22 |  |
+| [My Boy](https://open.spotify.com/track/5PHbusMmCka1GbXiYoSD47) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/67UzYNh0EZimd6Cp0usqSN) | 2:43 | 2022-07-22 | 2022-09-13 |
+| [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-09-02 |  |
 | [My Love](https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 3:51 | 2022-03-11 |  |
 | [Nervous At Night](https://open.spotify.com/track/6JwzTGQGzLvYEf0T1qdMge) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Dandelions](https://open.spotify.com/album/0pZgWeVFEMFEkLljfazaCr) | 4:14 | 2022-04-08 | 2022-07-02 |
 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 | 2022-06-17 |  |
@@ -417,8 +418,9 @@
 | [There's A Moon On](https://open.spotify.com/track/7075wZ2Rmp2NSCsO4RjkPm) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [There's A Moon On](https://open.spotify.com/album/68fbHjtzq0wZR0tuhsZU7u) | 2:50 | 2022-06-10 | 2022-07-16 |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-09-02 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-10 | 2022-08-06 |
-| [Thinking Of Nina](https://open.spotify.com/track/0RuAxLY0kcwKu2r2LK3Hej) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Thinking Of Nina](https://open.spotify.com/album/4HMmeChxjWsAgqXozzytkR) | 3:16 | 2022-07-22 |  |
+| [Thinking Of Nina](https://open.spotify.com/track/0RuAxLY0kcwKu2r2LK3Hej) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Thinking Of Nina](https://open.spotify.com/album/4HMmeChxjWsAgqXozzytkR) | 3:16 | 2022-07-22 | 2022-09-13 |
 | [Thinking Of Nina](https://open.spotify.com/track/29gkgCwkQdU1OrqAkSNxpC) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Thinking Of Nina](https://open.spotify.com/album/6OIGPi1ShcRlf3CYwFkV7m) | 3:16 | 2022-06-17 | 2022-07-29 |
+| [Thinking Of Nina](https://open.spotify.com/track/4g3dRdPPil0iHxsb9NIYh0) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 3:16 | 2022-09-02 |  |
 | [This Happiness](https://open.spotify.com/track/4PQsjg2Bfm7b7OhwLsbtio) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [This Happiness](https://open.spotify.com/album/4IyxEZYcdlaGjd34JZN9tK) | 3:52 | 2022-04-22 | 2022-05-20 |
 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-05-13 | 2022-07-02 |
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-07-01 |  |

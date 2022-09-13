@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-189 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+190 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-12 |  |
 | [HWW](https://open.spotify.com/track/13PWS1EyJVMRNcQSjmiQFN) | [gong](https://open.spotify.com/artist/5LQTnNZ1ERYqjhUhzD17nt) | [The Garden Of Love](https://open.spotify.com/album/6AWhV1O0vSS0os4vtol4bS) | 3:37 | 2022-05-11 | 2022-07-15 |
 | [I am love](https://open.spotify.com/track/5Ep4t2sMihbA3uyoKBAqLJ) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Flowering](https://open.spotify.com/album/3QMTRNOl3kXYTzOldDAHm6) | 2:53 | 2022-05-11 | 2022-07-09 |
+| [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 |  |
 | [I don’t want to](https://open.spotify.com/track/5BCbtI9gGtE0vD2btEgDha) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [childhood of the sea](https://open.spotify.com/album/6azHgQ3LbUgkGXmYnAwtET) | 3:49 | 2022-05-11 | 2022-07-28 |
 | [I had a dream](https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:46 | 2022-05-11 | 2022-07-28 |
 | [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 | 2022-07-24 |
@@ -85,7 +86,7 @@
 | [In Paris \(feat\. Kaya\)](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/0paoXjLBxGQ5F4tujUG0g5) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-05-11 | 2022-07-27 |
 | [Just Chill](https://open.spotify.com/track/3qNeyEagP4606J5B61jHa3) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 3:25 | 2022-05-11 | 2022-06-04 |
 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 | 2022-05-11 |  |
-| [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 |  |
+| [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 | 2022-09-13 |
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-09 | 2022-07-24 |
 | [layoff \(feat\. Churry\)](https://open.spotify.com/track/6Nw61ToXv3kwGyEOiobt3q) | [Layton](https://open.spotify.com/artist/2YQOlJnew5D6w1lWqIUBXE), [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [layoff](https://open.spotify.com/album/5Bd7lzlhF329D4gEHYBv69) | 3:49 | 2022-06-20 | 2022-06-30 |
 | [Leave](https://open.spotify.com/track/4AmbGf0dfkPzPgBChdl4Sg) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [Leave](https://open.spotify.com/album/1IoT9EPJG4bYJkdrMiAIHI) | 3:05 | 2022-07-08 | 2022-07-19 |

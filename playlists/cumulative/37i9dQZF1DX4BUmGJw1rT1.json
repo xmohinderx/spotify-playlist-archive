@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Dry Run",
+        "url": "https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ"
+    },
+    {
+      "album": {
         "name": "Juice Me Up",
         "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
       },
@@ -1188,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "Country Ghetto",
+        "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        },
+        {
+          "name": "Mofro",
+          "url": "https://open.spotify.com/artist/7sDt65UhJuh1P4pN9kAbmQ"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268200,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
+    },
+    {
+      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
       },
@@ -1311,7 +1351,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
@@ -1539,7 +1579,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 225026,
       "name": "Singing the Blues",
       "url": "https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1"

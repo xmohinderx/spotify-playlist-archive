@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Estopa con Beret.
 
-173 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+174 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Gotas](https://open.spotify.com/track/62gGpZumuoV79n8groGV4s) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Gotas](https://open.spotify.com/album/5poBsCI8udX6rnYxNdChAG) | 2:56 | 2022-05-19 | 2022-06-10 |
 | [Historia de dos ciudades](https://open.spotify.com/track/143bxX8ra8hQdZNVFTpGtU) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Diario de una tregua](https://open.spotify.com/album/7cmVvrFXZuMgiEakavUfQO) | 4:57 | 2022-05-19 | 2022-05-27 |
 | [Hormigon, Mujeres y Alcohol \- Edición 35 aniversario](https://open.spotify.com/track/2kdcgSLw6FzxdL0gkhAT16) | [Ramoncin](https://open.spotify.com/artist/1S83AICkpMqmowvInvbizT) | [Arañando La Ciudad \- 35 aniversario](https://open.spotify.com/album/1ckB2GAUFFgnlAUjyWptsY) | 2:27 | 2022-05-26 | 2022-07-13 |
+| [Huracán](https://open.spotify.com/track/6O7hrtBvhn0IiBNeoWzJqs) | [Durden](https://open.spotify.com/artist/1yDmWUrmHWA7zyCXghkdrT) | [Huracán](https://open.spotify.com/album/22xy4FjzKtCspqWdEMNg9x) | 3:31 | 2022-09-12 |  |
 | [Ininteligible](https://open.spotify.com/track/6t2H68ea16ggJMqOngaHnN) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Ininteligible](https://open.spotify.com/album/21apSkaSzhLuBoTjoq2h5z) | 6:43 | 2022-05-30 | 2022-06-24 |
 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 | 2022-05-19 |  |
 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 | 2022-05-19 |  |
@@ -124,7 +125,7 @@
 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 | 2022-06-09 | 2022-07-29 |
 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 | 2022-05-19 |  |
 | [Ni Yo para Ti, Ni Tú para Mí](https://open.spotify.com/track/0en5Nqka9QXEuUQGrHRO2g) | [Uge](https://open.spotify.com/artist/05JI76GAuZpyhT7W9y54Ut), [Pau Donés](https://open.spotify.com/artist/29g0ReLnpcvjzLZoAmAzKJ), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Ni Yo para Ti, Ni Tú para Mí](https://open.spotify.com/album/0PfoFrcdQNDSPiAFCHpVoe) | 4:29 | 2022-06-23 | 2022-07-22 |
-| [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 | 2022-07-21 |  |
+| [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 | 2022-07-21 | 2022-09-13 |
 | [No Hay Tregua](https://open.spotify.com/track/40lauWDcbFQgigWgrVyoqM) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Todo Barricada](https://open.spotify.com/album/5dFoK9nYAxK0JXgDoSz61f) | 2:58 | 2022-05-19 | 2022-07-29 |
 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 | 2022-05-19 |  |
 | [Noche Oscura \(feat\. Leiva\)](https://open.spotify.com/track/5YHKrFUEX8aQJRPCS1Yl9W) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Noche Oscura \(feat\. Leiva\)](https://open.spotify.com/album/1jPnCEyNgE8SSiSZn3qq5b) | 3:50 | 2022-06-16 | 2022-06-21 |

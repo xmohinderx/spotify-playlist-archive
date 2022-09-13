@@ -4,7 +4,7 @@
 
 > ft\. Ninajirachi
 
-1,418 songs - 2 day 16 hr 25 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,419 songs - 2 day 16 hr 28 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [BWYRN](https://open.spotify.com/track/2EWeNRaZOWy87uTYx7QwNP) | [Fantasyluv](https://open.spotify.com/artist/0ADXdLkKzHptTccz47JK2r) | [BWYRN](https://open.spotify.com/album/1O4fluj4jeY2Ft8t6YAhuR) | 2:54 | 2021-02-10 | 2021-07-17 |
 | [c.w.u.c](https://open.spotify.com/track/1zZo5HS1jPKm0yWcrL7gxy) | [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN) | [c.w.u.c](https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C) | 2:41 | 2022-06-17 | 2022-08-03 |
 | [cabin fever](https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [cabin fever](https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6) | 1:13 | 2022-04-01 |  |
+| [caffeine](https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [caffeine](https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2) | 3:18 | 2022-09-12 |  |
 | [calcimine](https://open.spotify.com/track/2vhjmUOgdBZT9jZdX5CUX7) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l), [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [calcimine](https://open.spotify.com/album/0qeHMBQEDT3IOzw9K1KBvg) | 3:27 | 2022-03-04 | 2022-05-12 |
 | [Calcium](https://open.spotify.com/track/0D6MyCMzbniMYWHYyCcv5N) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 3:44 | 2020-12-11 | 2021-01-08 |
 | [Calcium](https://open.spotify.com/track/1l3Aiqc1f7rTSlUfntBrLr) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [Effective\. Power](https://open.spotify.com/album/6ciHbf3kLyynyVQrB79b88) | 3:26 | 2020-10-16 | 2021-02-10 |

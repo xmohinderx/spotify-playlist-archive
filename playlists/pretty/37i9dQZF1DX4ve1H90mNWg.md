@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 ### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
-> Texas music breaking waves\. Cover, Teezo Touchdown
+> Texas music breaking waves\. Cover, Teezo Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,709 likes - 58 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,716 likes - 58 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 57 | [I’m Not Kidding](https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [I’m Not Kidding](https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV) | 3:52 |
 | 58 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 |
 
-Snapshot ID: `MTY2Mjc0OTczNCwwMDAwMDAwMGQ5N2ZjODQ3NjIwYTgxYjQ5YTIwZDc0NzA3Mzg5YjQz`
+Snapshot ID: `MTY2Mjk5ODk4OSwwMDAwMDAwMDMxZWE1MWU3NDdkYTc1ZTdlODQ5MjYyNDljY2JiNDYz`

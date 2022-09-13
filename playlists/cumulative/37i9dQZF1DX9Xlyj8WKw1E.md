@@ -2,7 +2,7 @@
 
 ### [Ripple Effect:  Midwest](https://open.spotify.com/playlist/37i9dQZF1DX9Xlyj8WKw1E)
 
-> Midwest music breaking waves\. Ohana Bam
+> Midwest music breaking waves\. Cover, Midwxst
 
 240 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
 

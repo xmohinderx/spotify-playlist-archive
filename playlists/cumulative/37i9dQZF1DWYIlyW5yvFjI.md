@@ -4,7 +4,7 @@
 
 > Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-90 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+91 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Valerian \(her voice honeyed\)](https://open.spotify.com/track/2kMIvpGaR9R029KX6CTIci) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 5:58 | 2022-04-08 |  |
 | [Vapor Trails](https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 9:04 | 2022-04-08 |  |
 | [Wander](https://open.spotify.com/track/2d3Mr1U4jskIPwxj4OV5ut) | [Threading](https://open.spotify.com/artist/4IuvDi4ag4P9pPehjdY4dm) | [You Are Never Enough](https://open.spotify.com/album/3lBNc4MA6kiW7wNeFoTy7j) | 2:20 | 2022-04-08 |  |
+| [we are infinite](https://open.spotify.com/track/4hdSVXAKI8LEM2fON1D1Mv) | [Paper Ocean](https://open.spotify.com/artist/68XRCDJOwzgKgyX6AbPtlS) | [we are infinite](https://open.spotify.com/album/48QAV9vK0nBqEPgVTvIcC1) | 4:12 | 2022-09-12 |  |
 | [We Could Be Sisters](https://open.spotify.com/track/2Zk5qPjHCiKZzpNvGKEHN1) | [Earwig](https://open.spotify.com/artist/78NksjxycSNgUfmuO88KLO) | [Under My Skin I Am Laughing](https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH) | 5:10 | 2022-04-08 |  |
 | [what's on the inside](https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2) | [what's on the inside](https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67) | 4:10 | 2022-08-19 |  |
 | [Who Told You This Room Exists?](https://open.spotify.com/track/6mTzUqZvb9wq9LLMx7p3LP) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:05 | 2022-04-08 |  |

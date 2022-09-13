@@ -2730,6 +2730,24 @@
     },
     {
       "album": {
+        "name": "Kill us all",
+        "url": "https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF"
+      },
+      "artists": [
+        {
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The kids aren't alright",
+      "url": "https://open.spotify.com/track/3v7u4pUZcvpxDtPgwMMh5u"
+    },
+    {
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs"
       },
@@ -3355,7 +3373,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 228500,
       "name": "Young and Beautiful",
       "url": "https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J"

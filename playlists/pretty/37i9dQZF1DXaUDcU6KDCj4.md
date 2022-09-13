@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Head And The Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,596 likes - 155 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,814 likes - 155 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

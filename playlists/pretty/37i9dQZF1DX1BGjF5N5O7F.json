@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 520807,
+  "num_followers": 520885,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMGM4OTU0ZjI0NmQ2ZWNiOTYwODAxNWI5MjFmNTc4YzA1",
+  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDhmNjMxYTg3MzFjNWFkZjViMjA3NjMwNmZiNGY5YmRm",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 313867,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
     },
     {
       "added_at": "2021-03-19 04:02:00",

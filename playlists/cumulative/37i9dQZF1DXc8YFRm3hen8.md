@@ -4,7 +4,7 @@
 
 > La banda de sonido de tu día.
 
-213 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/6uKtZmuH4Vyq05i2Hozphj)
+214 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/6uKtZmuH4Vyq05i2Hozphj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Carolina](https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [A Cielo Abierto \- El año del tigre](https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq) | 3:14 | 2022-06-29 | 2022-07-27 |
 | [Caronte](https://open.spotify.com/track/2JgcShs8JycDzmfcazU9pX) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Caronte](https://open.spotify.com/album/3o7hOrguLg6GIFURGsUeZG) | 3:53 | 2022-07-19 | 2022-07-28 |
 | [Casualidad](https://open.spotify.com/track/6DKUK1wABPWg7DoulUEzrs) | [Cony la Tuquera](https://open.spotify.com/artist/0GqHNuocCl9kNENsJNgvQJ), [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Casualidad](https://open.spotify.com/album/4i9TJ0ixbMoJIC0ud6UZJ1) | 4:14 | 2022-07-01 | 2022-07-29 |
-| [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-06-29 |  |
+| [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-06-29 | 2022-09-13 |
 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 | 2022-07-19 |  |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-29 | 2022-07-28 |
 | [Como Alí](https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx) | 3:31 | 2022-07-19 |  |
@@ -97,6 +97,7 @@
 | [La Doctora II](https://open.spotify.com/track/4DoJ4n5pnwDZKAuTEyHCUO) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [La Doctora II](https://open.spotify.com/album/1ZHX4z9901fRhJ5obRea9P) | 5:37 | 2022-06-29 | 2022-07-29 |
 | [La Internacional](https://open.spotify.com/track/718vbMDxlet0Lu9aGEpVC7) | [Acorazado Potemkin](https://open.spotify.com/artist/4QDSqX4vtsftXfEAlKBVXR) | [La Internacional](https://open.spotify.com/album/2xpQLebO0FIFD3T5Y2Murk) | 3:33 | 2022-07-19 | 2022-07-21 |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-06-29 | 2022-07-22 |
+| [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 | 2022-09-09 |  |
 | [La Luz Sin Aclarar](https://open.spotify.com/track/0Zlzbmiy9VfrxAnI37f9s6) | [Andando Descalzo](https://open.spotify.com/artist/6NHW6BsssESLzyucE7DFId), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [La Luz Sin Aclarar](https://open.spotify.com/album/5ZtRTyr1fkCLOLTwJu4Qyi) | 3:34 | 2022-07-19 | 2022-07-29 |
 | [La Noche Sin Tí](https://open.spotify.com/track/0mdnJMB8I5rioFrxazCgJj) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [La Noche Sin Tí](https://open.spotify.com/album/02A4nDVsZBgNFVnt65Xgay) | 5:46 | 2022-07-06 | 2022-07-09 |
 | [La Noche Sin Tí](https://open.spotify.com/track/5bD9swNJ4PH8c5w4wgNKoz) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [La Noche Sin Tí](https://open.spotify.com/album/7nfnV1ohLhlKMz8HAhr3cm) | 5:46 | 2022-07-06 | 2022-07-12 |

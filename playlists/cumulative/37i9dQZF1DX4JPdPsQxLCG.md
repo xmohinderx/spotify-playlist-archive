@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for life at the cottage.
 
-290 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/53dtueIOJq1n4EVVrLjqp4)
+291 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/53dtueIOJq1n4EVVrLjqp4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [You Got To Run \(Spirit of the Wind\)](https://open.spotify.com/track/7JIASZ9uaGF4uKnvh4rpZ4) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x), [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Medicine Songs](https://open.spotify.com/album/5MtNWw5VzcKCnwjP0QeipE) | 3:42 | 2022-05-02 | 2022-06-29 |
 | [You May Be Right](https://open.spotify.com/track/2QXLECDuQIRDFb3cRtyp9p) | [The Grapes Of Wrath](https://open.spotify.com/artist/6KTmPBGgfdy9tcUlLJ9afR) | [These Days](https://open.spotify.com/album/3b3H4mGy4Bi4BUaQ7fEmRd) | 5:10 | 2022-05-02 | 2022-07-25 |
 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 | 2022-05-02 | 2022-09-11 |
-| [You've Got to Hide Your Love Away](https://open.spotify.com/track/2PT9QDg6vNIoYVhApXsbKj) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [I Am Sam \(Original Soundtrack\)](https://open.spotify.com/album/2AlXF48eRaZ3vAOfx4csas) | 2:09 | 2022-09-10 |  |
+| [You've Got to Hide Your Love Away](https://open.spotify.com/track/2PT9QDg6vNIoYVhApXsbKj) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [I Am Sam \(Original Soundtrack\)](https://open.spotify.com/album/2AlXF48eRaZ3vAOfx4csas) | 2:09 | 2022-09-10 | 2022-09-13 |
+| [You've Got To Hide Your Love Away \- Remastered 2009](https://open.spotify.com/track/4F1AgKpuFRMLEgtPETVwZk) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:09 | 2022-09-12 |  |
 | [Young And Restless](https://open.spotify.com/track/60f6zNViKi3WxrMXFs6H6L) | [Prism](https://open.spotify.com/artist/5LRNWnDWFkMtRmlxtYdW3I) | [Young And Restless](https://open.spotify.com/album/3Q4XTqJDNWTcbjJgZa1XLu) | 3:30 | 2022-05-02 | 2022-07-29 |
 | [Your Daddy Don't Know](https://open.spotify.com/track/7l5e4LE8XfewYpePTSg4Oa) | [Toronto](https://open.spotify.com/artist/2HGQd1vKFmNzTZ8CZ8tU83) | [Get It On Credit](https://open.spotify.com/album/0rXrFjK0Hun1cd8DTyJ5vl) | 3:17 | 2022-05-02 | 2022-07-29 |
 

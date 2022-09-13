@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110123,
+  "num_followers": 110121,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDlhNWNmMzBmMTcxNGFlMDZmZmI5MDQ1Zjk2MWU0YWIx",
+  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDAwN2RmYjRlNjRkM2IzZmEzYjMxMjQ1NzJjMDA3NjZl",
   "tracks": [
     {
       "added_at": "2021-11-12 17:11:33",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX"
     },
     {
-      "added_at": "2021-12-15 16:04:04",
-      "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
-    },
-    {
       "added_at": "2021-12-03 14:19:15",
       "album": {
         "name": "This December (slow)",
@@ -223,6 +207,22 @@
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
+    },
+    {
+      "added_at": "2021-12-15 16:04:04",
+      "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2021-12-03 14:19:15",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
     },
     {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
-    },
-    {
       "added_at": "2021-11-12 17:14:44",
       "album": {
         "name": "Home To You (This Christmas)",
@@ -367,6 +351,22 @@
       "duration_ms": 225817,
       "name": "Home To You (This Christmas)",
       "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
     },
     {
       "added_at": "2021-12-09 22:40:48",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Every Holiday",
-        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 224275,
-      "name": "Every Holiday",
-      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "7 O'Clock News / Silent Night",
         "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 120426,
       "name": "7 O'Clock News / Silent Night",
       "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "Every Holiday",
+        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 224275,
+      "name": "Every Holiday",
+      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
     },
     {
       "added_at": "2021-12-15 16:04:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188720,
       "name": "Just Like Christmas",
       "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo"
     },
     {
       "added_at": "2021-11-12 17:11:33",

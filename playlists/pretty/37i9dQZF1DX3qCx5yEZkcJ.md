@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,104 likes - 80 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,139 likes - 80 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 24 | [Kurumi](https://open.spotify.com/track/5pniszt2JxZLIIbrhTPrf6) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 2:43 |
 | 25 | [Napping](https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL) | 1:55 |
 | 26 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 |
-| 27 | [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL), [Lo'fi Boy](https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 |
-| 28 | [Rubberband](https://open.spotify.com/track/3gCnoDKLaiHoScvQuUAKeh) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/3YTUVIwwsncLHLshRd6saT) | 1:51 |
+| 27 | [Rubberband](https://open.spotify.com/track/3gCnoDKLaiHoScvQuUAKeh) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/3YTUVIwwsncLHLshRd6saT) | 1:51 |
+| 28 | [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL), [Lo'fi Boy](https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 |
 | 29 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
 | 30 | [Cosmic](https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Cosmic](https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs) | 1:34 |
 | 31 | [Black Tea](https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Black Tea](https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M) | 2:39 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 60 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
 | 61 | [dreams](https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9) | [Sakura](https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD) | [Power Jump](https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my) | 2:22 |
 | 62 | [Recuring Dream](https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [The Scenic Route](https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo) | 2:53 |
-| 63 | [waves](https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw) | 2:15 |
-| 64 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 |
+| 63 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 |
+| 64 | [waves](https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw) | 2:15 |
 | 65 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 |
 | 66 | [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 |
 | 67 | [Fogào Love](https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Fogào Love](https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi) | 1:44 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 69 | [Caffeine](https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Caffeine](https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd) | 1:28 |
 | 70 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 |
 | 71 | [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 |
-| 72 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 |
-| 73 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 |
+| 72 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 |
+| 73 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 |
 | 74 | [Warmer Together](https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB) | 2:37 |
 | 75 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 |
 | 76 | [birchwood](https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM) | [sus9th](https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC) | [aura collis](https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00) | 3:27 |
 | 77 | [Undercurrent](https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Undercurrent](https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv) | 2:07 |
-| 78 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
-| 79 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 |
+| 78 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 |
+| 79 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
 | 80 | [Love Letter](https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:56 |
 
-Snapshot ID: `MTY2MTQzOTYwMCwwMDAwMDAwMDZlNDI0MDBjMTE2MGNiZDlkYzJmZWQ1YjI0ZDc0N2Ez`
+Snapshot ID: `MTY2MTQzOTYwMCwwMDAwMDAwMDU5ZTczNGJiMmIyZDI0MTBkZTk5NDdkODY3Mzk3YmJi`

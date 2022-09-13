@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 
 > The ultimate playlist to water your plants to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,041 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,040 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Burning Piles \(Slowed\)](https://open.spotify.com/track/1LXQGofZiVKV1u7FNg6Yfi) | [Tooney Tunes](https://open.spotify.com/artist/6Vve3uh2knAhvVLKa2dvlS) | [Burning Piles \(Slowed\)](https://open.spotify.com/album/07bhsLYSg2xouNnOcSPgPM) | 5:27 |
+| 1 | [Burning Pile Slowed](https://open.spotify.com/track/2qaJKtEUiWSxX8MfP97LzW) | [YounganYoungan](https://open.spotify.com/artist/7CgEnGp4hEhpLEedNgG2oF) | [Burning Pile Slowed](https://open.spotify.com/album/5t7bAfLepngxW6xsCUCD3s) | 5:27 |
 | 2 | [Violent \- slowed + reverb](https://open.spotify.com/track/04qNn4YcbE0O0UJXZosaQe) | [Leverutlo](https://open.spotify.com/artist/0yVpvGeAKY4QMkYUopBu7a) | [Violent \(slowed + reverb\)](https://open.spotify.com/album/6XAdZ91yspefbJXDEzgFZW) | 2:32 |
 | 3 | [Aesthetic Girl \(Slowed + Reverb\) \[Love Making Ver\]](https://open.spotify.com/track/5077oyWMFY3CVOX53UfPpd) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl \(Slowed + Reverb\) \[Love Making Ver\]](https://open.spotify.com/album/6EMVGd2CgjonyXdwKUY19U) | 5:19 |
 | 4 | [Hopeless Romantic \(Slowed + Reverb\)](https://open.spotify.com/track/1NkyGvvH5Vai7qC24P9bqm) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Hopeless Romantic \(Slowed + Reverb\)](https://open.spotify.com/album/1tvVMZ79HjX4vwnUXHgJDz) | 5:16 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 | 26 | [jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 |
 | 27 | [The Fall](https://open.spotify.com/track/4aoUYp6DBRT2JjDw9qOFO5) | [Blake Leyh](https://open.spotify.com/artist/2gKgSA1quoNlsq2RnNIQu8) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 1:50 |
 
-Snapshot ID: `MTYyMTI5NDAzMCwwMDAwMDAwMDI0MGRmMzQ4MzBiYTgzNzNlZjU2MzA2ZjYyNmRjZThi`
+Snapshot ID: `MTYyMTI5NDAzMCwwMDAwMDAwMDAxNmU4MmM3Nzg4MDRjMDFjNzhhMjI1OWUzMzBlMDUw`

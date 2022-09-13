@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: 5 Seconds of Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,165 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,223 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 83 | [digital gf](https://open.spotify.com/track/5vXkAnl3w8PadChqmfLZFJ) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/6pVtFoRe5MnaTC751A2paD) | 2:43 |
 | 84 | [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 |
 | 85 | [twice](https://open.spotify.com/track/3VV8J6Zy11zsU4yBGroexd) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [twice](https://open.spotify.com/album/6BXAJhLPQTUjOi45aoiE7t) | 1:54 |
-| 86 | [Killing Me](https://open.spotify.com/track/1E9OxtPYXVqFGKm8Q4eeVY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Killing Me](https://open.spotify.com/album/4cj0lhzyzTnshmDz6SFbHm) | 2:55 |
+| 86 | [Killing Me](https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:55 |
 | 87 | [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 |
 | 88 | [Scooby Doo](https://open.spotify.com/track/1tCniaSfd4ayt8A04maOX5) | [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [Scooby Doo](https://open.spotify.com/album/5KzUsLLE9FqZ4S1KQW6mmM) | 2:15 |
 | 89 | [I NEED U!](https://open.spotify.com/track/7hZ3u3pUVIydZnz1hZxu4U) | [André Molina](https://open.spotify.com/artist/76fjZnZXETM3bnCiTOAjIy) | [I NEED U!](https://open.spotify.com/album/0Nw11hwbkgZVkI23H40aLT) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Lie Like This](https://open.spotify.com/track/0Vza8xv9EmTgei0HxLO8L3) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Lie Like This](https://open.spotify.com/album/0PPoojYIbOnbEnUuhULL9k) | 3:04 |
 | 100 | [Sunburn Days](https://open.spotify.com/track/7Baq4fSz0I8NTRaJXcNK9h) | [Wes Chiller](https://open.spotify.com/artist/2Db2n5HtwOIHl77l8wlyQZ), [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV), [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [Sunburn Days](https://open.spotify.com/album/5IaQUiBkOujjDJf4yesPMO) | 4:00 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDRhNjBjMGUyMTdkNWYxOGU1MzI2OTZhNDFhNjA3NzZm`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDYyOWNkNzYwY2UwMzIxNDVkNDY5Mzk0OGI3YTcxZDNk`

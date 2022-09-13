@@ -3234,6 +3234,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e"
+      },
+      "artists": [
+        {
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238085,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
+    },
+    {
+      "album": {
         "name": "Forever and Ever",
         "url": "https://open.spotify.com/album/3YX7OgGVq28qpQo4585WRm"
       },
@@ -6441,7 +6459,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 306883,
       "name": "Old Dogs Groove",
       "url": "https://open.spotify.com/track/2DFDqK6DZgboonzKhGjhdr"

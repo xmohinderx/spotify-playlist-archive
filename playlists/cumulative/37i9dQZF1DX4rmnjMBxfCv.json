@@ -1220,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "Ya Fatenny",
+        "url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Wadina Baeid (Bonus Track)",
+      "url": "https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql"
+    },
+    {
+      "album": {
         "name": "Wesh Gabak",
         "url": "https://open.spotify.com/album/1XqsRHBc8YU3Ix5jsvBXWK"
       },

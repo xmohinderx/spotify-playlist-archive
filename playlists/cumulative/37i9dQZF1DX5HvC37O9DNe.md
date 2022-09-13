@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-212 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
+213 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2022-04-27 | 2022-07-28 |
 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 | 2022-06-10 | 2022-06-22 |
 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 | 2022-04-27 | 2022-07-29 |
-| [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-04-27 |  |
+| [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-04-27 | 2022-09-13 |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 | 2022-07-26 |  |
 | [I love you baby](https://open.spotify.com/track/1v9ABGLSpdhPDEWyQ10NFD) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [Mediterraneo](https://open.spotify.com/album/2PPHtMDuk5L0lMdxuXkn5w) | 3:32 | 2022-04-27 | 2022-07-29 |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2022-07-26 |  |
@@ -200,6 +200,7 @@
 | [Tsunami](https://open.spotify.com/track/2YfmCkG1uJxbduwSWxV9QV) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Nuda](https://open.spotify.com/album/0rYFyxXmrcyOarZX0cpFYe) | 3:45 | 2022-04-27 | 2022-07-28 |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2022-07-26 |  |
 | [Tuttecose \(feat\. Mara Sattei\)](https://open.spotify.com/track/6KLjClrXcuXiX4PWGHtmDk) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tuttecose \(feat\. Mara Sattei\)](https://open.spotify.com/album/2hIq0z8amoUx0UxHWpvu2w) | 3:17 | 2022-04-27 | 2022-07-29 |
+| [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 | 2022-07-29 |  |
 | [Un milione di cose da dirti](https://open.spotify.com/track/5kYheNyo7xHKPsUWAFzXr3) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Un milione di cose da dirti](https://open.spotify.com/album/0yt2jc1ck4L119SQKsm0Ef) | 3:31 | 2022-05-30 | 2022-06-30 |
 | [Un'altra volta](https://open.spotify.com/track/6SYs6LpcQaYvFcHmJDjTdy) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Un'altra volta](https://open.spotify.com/album/1ZCjKIKZFIO3V62Yx6mkTr) | 2:05 | 2022-04-27 | 2022-05-25 |
 | [uNa DiReZioNe giUsTa](https://open.spotify.com/track/1ktyKCzfI8hooCJP3X2yP5) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [uNa DiReZioNe giUsTa](https://open.spotify.com/album/51yDwPiJNSAOouxDtp1t3G) | 3:35 | 2022-04-27 | 2022-07-29 |

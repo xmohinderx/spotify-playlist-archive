@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: 5 Seconds of Summer
 
-1,503 songs - 3 day 2 hr 53 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,504 songs - 3 day 2 hr 56 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,7 +759,8 @@
 | [Kill For Your Love](https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Kill For Your Love](https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ) | 3:12 | 2022-09-09 |  |
 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 | 2022-07-09 |
 | [Killing Me](https://open.spotify.com/track/4rXfbIpiDnGxZYIflm8LSQ) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 2:45 | 2022-03-25 | 2022-04-16 |
-| [Killing Me](https://open.spotify.com/track/1E9OxtPYXVqFGKm8Q4eeVY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Killing Me](https://open.spotify.com/album/4cj0lhzyzTnshmDz6SFbHm) | 2:55 | 2022-09-02 |  |
+| [Killing Me](https://open.spotify.com/track/1E9OxtPYXVqFGKm8Q4eeVY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Killing Me](https://open.spotify.com/album/4cj0lhzyzTnshmDz6SFbHm) | 2:55 | 2022-09-02 | 2022-09-13 |
+| [Killing Me](https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:55 | 2022-09-09 |  |
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-11 | 2022-03-26 |
 | [Kinda Funny \(feat\. Audrey Mika\)](https://open.spotify.com/track/1FxHNKoRql64kL15iccqz1) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Kinda Funny \(feat\. Audrey Mika\)](https://open.spotify.com/album/2fdpHqEU8XfNlKmM5P9uH6) | 2:01 | 2022-07-29 | 2022-08-13 |
 | [Kinda Over It](https://open.spotify.com/track/78r9R93YbMNE7WQvSpBWR4) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Kinda Over It](https://open.spotify.com/album/3FXr77jmhTdbWNeFEUs7Da) | 2:39 | 2022-05-27 | 2022-06-18 |

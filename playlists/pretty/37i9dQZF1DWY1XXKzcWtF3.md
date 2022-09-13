@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,735 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,734 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 171 | [Stone To The Bone](https://open.spotify.com/track/4vlYqr4IxzIKNl718kxszR) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Payback](https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl) | 10:14 |
 | 172 | [Life on Mars](https://open.spotify.com/track/7JuqNiRZcLsPqa33eMFwyP) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Life on Mars](https://open.spotify.com/album/2AWYJNKdCCLaOPsAA96IC8) | 5:49 |
 | 173 | [Sunday Session \(Vocal Mix\)](https://open.spotify.com/track/1OgXwuINNA09GnLdXiOkKs) | [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL), [Weekender](https://open.spotify.com/artist/21SzYIUL0P893blBnI0GVN) | [Deep House Classics \- Luxury Deep House Grooves \(House Warming\) \- Chilled and Funky Sessions](https://open.spotify.com/album/5bIMttZhzbs54WSA6PteKJ) | 7:44 |
-| 174 | [Trip to Your Mind](https://open.spotify.com/track/1yKOtLCWRVAl0fttw5zqex) | [Hudson People](https://open.spotify.com/artist/4Gq2njeNuSrg6dVZZkXUXA) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/6zFB83PujO6TtFvmLbthA9) | 9:49 |
+| 174 | [Trip To Your Mind](https://open.spotify.com/track/0mgba29rFUf5r6wHnTpK2y) | [Hudson People](https://open.spotify.com/artist/4Gq2njeNuSrg6dVZZkXUXA) | [Be Arisionable Vol.2](https://open.spotify.com/album/4FI3nnUrQ0w0ec6g5nVkmM) | 9:58 |
 | 175 | [Love Hangover \- 12" Version](https://open.spotify.com/track/7G2lPglBJSiy92ZIkxQVPA) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All The Great Hits](https://open.spotify.com/album/2xI3bjKy4cHzjpizdoMbQK) | 7:54 |
 | 176 | [Boneman Connection](https://open.spotify.com/track/58LGEbknMNgN215XfBCwRZ) | [Nicodemus](https://open.spotify.com/artist/74yVVJyUgsoTHl4zNXX7RV) | [Reggae Anthology: Henry "Junjo" Lawes \- Volcano Eruption](https://open.spotify.com/album/3wP8LVNERYS9g2PHEsJWGn) | 3:05 |
 | 177 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMDM3MjlkNTMyNTlkMjFhNzBkODM5YWQwNmQyOTYzZDA4`
+Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMGY1Yjc3YzRiMjg0ZWE2ZmZhMmY5YjVmNzllNWY5MTdi`

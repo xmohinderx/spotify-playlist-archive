@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nuha Bahrin, Naufal Azrin
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,224 likes - 53 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,294 likes - 53 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: paopao",
-  "num_followers": 58612,
+  "num_followers": 58636,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3NjgwMCwwMDAwMDAwMDkxZDVjNjg0MWJkMDgxOTA2OWViMmJjNDNlZGJkMDU4",
+  "snapshot_id": "MTY2MjA3NjgwMCwwMDAwMDAwMGI3NzQ3MWVjYzU1Mzc1MzE4ZTljMThjZjQyMGQwYWVm",
   "tracks": [
     {
       "added_at": "2022-09-02 00:00:00",
@@ -319,34 +319,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -403,6 +375,34 @@
       "duration_ms": 200653,
       "name": "Morena Cachetona",
       "url": "https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
         "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
         "url": "https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp"
+        "name": "Me Juquie",
+        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
       },
       "artists": [
         {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 217080,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w"
+      "duration_ms": 158000,
+      "name": "Me Juquie",
+      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Me Juquie",
-        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Me Juquie",
-      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -1123,34 +1123,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "Frontiar",
-        "url": "https://open.spotify.com/album/6ufmt9i0c4W8z7qNnQwxdE"
-      },
-      "artists": [
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Frontiar",
-      "url": "https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "La Pr\u00e1ctica",
         "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
       },
@@ -1183,6 +1155,34 @@
       "duration_ms": 173936,
       "name": "Manzana",
       "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
+        "name": "Frontiar",
+        "url": "https://open.spotify.com/album/6ufmt9i0c4W8z7qNnQwxdE"
+      },
+      "artists": [
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Frontiar",
+      "url": "https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "La Botella",
-        "url": "https://open.spotify.com/album/3mkTkvsJwApPfUAJQuTrOJ"
+        "name": "Verificada",
+        "url": "https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL"
       },
       "artists": [
         {
-          "name": "El Clooy",
-          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
         }
       ],
-      "duration_ms": 190285,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95"
+      "duration_ms": 158546,
+      "name": "Verificada",
+      "url": "https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

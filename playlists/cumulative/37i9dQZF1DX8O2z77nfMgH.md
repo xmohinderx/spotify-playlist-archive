@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: María Becerra
 
-2,225 songs - 5 day 1 hr 23 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+2,226 songs - 5 day 1 hr 26 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,6 +1152,7 @@
 | [Mais Leve](https://open.spotify.com/track/10UcCPD9VWK5LQMfGLGPIN) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Mais Leve](https://open.spotify.com/album/5Sfp3XSUSMqnegYFfaQZaC) | 4:07 | 2022-04-15 | 2022-04-23 |
 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-05 | 2022-08-13 |
 | [Maki](https://open.spotify.com/track/5HpD4DWQegIhaZlMCBTTEV) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Maki](https://open.spotify.com/album/0TSNlfj9WQD3NwiqcjaUwb) | 3:00 | 2022-01-28 | 2022-02-05 |
+| [Makinon](https://open.spotify.com/track/6S5fC1oR4Kg5m7B5JAgjsR) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Cocaine Beatz](https://open.spotify.com/artist/48JWvL8oBhNC8xEhOUU4xY) | [Makinon](https://open.spotify.com/album/2qY7FX6s6WyRk0itXmMUmU) | 2:46 | 2022-09-09 |  |
 | [MAL DE AMOR](https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MAL DE AMOR](https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk) | 3:41 | 2022-09-02 | 2022-09-10 |
 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 | 2022-01-14 | 2022-01-22 |
 | [Mala Influencia](https://open.spotify.com/track/5jpYtHwDAF00OyvYPxAQn7) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb), [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF) | [Mala Influencia](https://open.spotify.com/album/1pLwM05Kn9YZ7wOfxNyvI7) | 4:04 | 2022-07-15 | 2022-07-23 |

@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Piano Book",
+        "url": "https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Kindt",
+          "url": "https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184148,
+      "name": "Adam Leaves - Second Half / Piano Version",
+      "url": "https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN"
+    },
+    {
+      "album": {
         "name": "Although",
         "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
       },
@@ -613,7 +635,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 134956,
       "name": "F Sharp For You",
       "url": "https://open.spotify.com/track/2J6iktYw8vLp2QzxffSNxV"
@@ -635,6 +657,24 @@
       "duration_ms": 203000,
       "name": "Fid\u00e8le",
       "url": "https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha"
+    },
+    {
+      "album": {
+        "name": "For",
+        "url": "https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "For 4",
+      "url": "https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa"
     },
     {
       "album": {
@@ -815,7 +855,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 163500,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV"
@@ -1402,6 +1442,24 @@
     },
     {
       "album": {
+        "name": "Perth & Quiet Breath",
+        "url": "https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Perth",
+      "url": "https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut"
+    },
+    {
+      "album": {
         "name": "Plus Profond",
         "url": "https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY"
       },
@@ -1928,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "The Piano Tuner",
+        "url": "https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N"
+      },
+      "artists": [
+        {
+          "name": "Jordi Forni\u00e9s",
+          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128976,
+      "name": "The Piano Tuner",
+      "url": "https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9"
+    },
+    {
+      "album": {
         "name": "The tree that I don't forget",
         "url": "https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc"
       },
@@ -2051,6 +2127,24 @@
       "duration_ms": 160416,
       "name": "Visible Nostalgia",
       "url": "https://open.spotify.com/track/2ZzDOEVfUt3dQ0REaMWEjL"
+    },
+    {
+      "album": {
+        "name": "We Together",
+        "url": "https://open.spotify.com/album/6ruK7Ax6fmYBopQ22j59RU"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "We Together",
+      "url": "https://open.spotify.com/track/45hG7DYmo87yN0hQ1MeJ0C"
     },
     {
       "album": {

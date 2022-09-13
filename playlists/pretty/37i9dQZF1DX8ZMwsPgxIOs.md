@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Chloé Robinson & DJ ADHD
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,323 likes - 90 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,392 likes - 90 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

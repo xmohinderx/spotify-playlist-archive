@@ -1,12 +1,12 @@
 {
   "description": "Classici Ya Habibi! This is why Tata always says, \"fish ba'ed ayam zamaan.\"",
-  "num_followers": 79110,
+  "num_followers": 79168,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMjYxMDcyOCwwMDAwMDAwMGIyM2U1OTE0ZDYxMWEyNGZjZWQ3MzcwZDNiMzhmMmE3",
+  "snapshot_id": "MTYwMjYxMDcyOCwwMDAwMDAwMDZkNjAxZjA2ZTlkMTczNjA3OTU4YzkzOGExNzBkYTI2",
   "tracks": [
     {
       "added_at": "2020-10-13 17:38:48",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "Etazalt El Gharam",
-        "url": "https://open.spotify.com/album/3kwt9GaZ5SHKTsVMiVXrZD"
-      },
-      "artists": [
-        {
-          "name": "Majida El Roumi",
-          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
-        }
-      ],
-      "duration_ms": 467882,
-      "name": "Etazalt El Gharam",
-      "url": "https://open.spotify.com/track/17PmYDXXlGJh95jUS1bHWe"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
         "name": "Best of Mohamed Jamal, Vol. 2",
         "url": "https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU"
       },
@@ -123,50 +107,18 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "Oyon El Alb",
-        "url": "https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0"
+        "name": "Etazalt El Gharam",
+        "url": "https://open.spotify.com/album/3kwt9GaZ5SHKTsVMiVXrZD"
       },
       "artists": [
         {
-          "name": "Najat Al Saghira",
-          "url": "https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW"
+          "name": "Majida El Roumi",
+          "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS"
         }
       ],
-      "duration_ms": 329104,
-      "name": "Ana Bashaa El Bahr",
-      "url": "https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
-        "name": "Sabah",
-        "url": "https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP"
-      },
-      "artists": [
-        {
-          "name": "Sabah",
-          "url": "https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9"
-        }
-      ],
-      "duration_ms": 511988,
-      "name": "Zay Elasal",
-      "url": "https://open.spotify.com/track/6WL468M0cawkNfDIXMsjPK"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
-        "name": "Houdou Nisbi",
-        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Bala Wala Chi",
-      "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
+      "duration_ms": 467882,
+      "name": "Etazalt El Gharam",
+      "url": "https://open.spotify.com/track/17PmYDXXlGJh95jUS1bHWe"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -219,18 +171,50 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "Le c\u0153ur a ses raisons (The Voices of Maghreb 1935-1944)",
-        "url": "https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj"
+        "name": "Oyon El Alb",
+        "url": "https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0"
       },
       "artists": [
         {
-          "name": "Asmahan",
-          "url": "https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6"
+          "name": "Najat Al Saghira",
+          "url": "https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW"
         }
       ],
-      "duration_ms": 333693,
-      "name": "Ya habibi taala (Mon amour, viens vite)",
-      "url": "https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP"
+      "duration_ms": 329104,
+      "name": "Ana Bashaa El Bahr",
+      "url": "https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
+        "name": "Sabah",
+        "url": "https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP"
+      },
+      "artists": [
+        {
+          "name": "Sabah",
+          "url": "https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9"
+        }
+      ],
+      "duration_ms": 511988,
+      "name": "Zay Elasal",
+      "url": "https://open.spotify.com/track/6WL468M0cawkNfDIXMsjPK"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
+        "name": "Houdou Nisbi",
+        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Bala Wala Chi",
+      "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -251,6 +235,22 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
+        "name": "Le c\u0153ur a ses raisons (The Voices of Maghreb 1935-1944)",
+        "url": "https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj"
+      },
+      "artists": [
+        {
+          "name": "Asmahan",
+          "url": "https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6"
+        }
+      ],
+      "duration_ms": 333693,
+      "name": "Ya habibi taala (Mon amour, viens vite)",
+      "url": "https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
         "name": "Khedni Habibi",
         "url": "https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p"
       },
@@ -263,6 +263,54 @@
       "duration_ms": 357200,
       "name": "Amm Yess'alouni Aleyk",
       "url": "https://open.spotify.com/track/2lmOPj1YTK7WfHG8kzrGAP"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
+        "name": "Rawaeaa Abd El Halim 5",
+        "url": "https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3"
+      },
+      "artists": [
+        {
+          "name": "Abdel Halim Hafez",
+          "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Toba",
+      "url": "https://open.spotify.com/track/463xNIeV700zPD76R2wXQq"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
+        "name": "Umm Kulthum 3",
+        "url": "https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy"
+      },
+      "artists": [
+        {
+          "name": "Umm Kulthum",
+          "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f"
+        }
+      ],
+      "duration_ms": 2353813,
+      "name": "Seret El Hob",
+      "url": "https://open.spotify.com/track/1PkyJNFqmxHhwGhphkcy5y"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
+        "name": "Fairuz - Modern Favorites",
+        "url": "https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 537760,
+      "name": "Al Bostah",
+      "url": "https://open.spotify.com/track/46R7cZ3s7Mhj85PgFW19j0"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -315,18 +363,18 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "Fairuz - Modern Favorites",
-        "url": "https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO"
+        "name": "Abd El Halim Hafez",
+        "url": "https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh"
       },
       "artists": [
         {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+          "name": "Abdel Halim Hafez",
+          "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
         }
       ],
-      "duration_ms": 537760,
-      "name": "Al Bostah",
-      "url": "https://open.spotify.com/track/46R7cZ3s7Mhj85PgFW19j0"
+      "duration_ms": 420872,
+      "name": "Khosara",
+      "url": "https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -340,9 +388,9 @@
           "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f"
         }
       ],
-      "duration_ms": 2353813,
-      "name": "Seret El Hob",
-      "url": "https://open.spotify.com/track/1PkyJNFqmxHhwGhphkcy5y"
+      "duration_ms": 3577800,
+      "name": "Fakarouny",
+      "url": "https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -359,22 +407,6 @@
       "duration_ms": 557466,
       "name": "My Mother",
       "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
-        "name": "Rawaeaa Abd El Halim 5",
-        "url": "https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3"
-      },
-      "artists": [
-        {
-          "name": "Abdel Halim Hafez",
-          "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Toba",
-      "url": "https://open.spotify.com/track/463xNIeV700zPD76R2wXQq"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -443,22 +475,6 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "Abd El Halim Hafez",
-        "url": "https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh"
-      },
-      "artists": [
-        {
-          "name": "Abdel Halim Hafez",
-          "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
-        }
-      ],
-      "duration_ms": 420872,
-      "name": "Khosara",
-      "url": "https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
         "name": "Set El Habayib",
         "url": "https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 382014,
       "name": "Al Qalb Yehib Marrah",
       "url": "https://open.spotify.com/track/56IgPdsb3uFulbc1BvmaMt"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
-        "name": "Umm Kulthum 3",
-        "url": "https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy"
-      },
-      "artists": [
-        {
-          "name": "Umm Kulthum",
-          "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f"
-        }
-      ],
-      "duration_ms": 3577800,
-      "name": "Fakarouny",
-      "url": "https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
+        "name": "The Best Of Umm Kulthum 1",
+        "url": "https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I"
+      },
+      "artists": [
+        {
+          "name": "Umm Kulthum",
+          "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f"
+        }
+      ],
+      "duration_ms": 2302186,
+      "name": "Baeed Annak",
+      "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
         "name": "Agmal Oghneyat Mohamed Abd El Wahab",
         "url": "https://open.spotify.com/album/35GA4JraTNn23ovQjTWgcP"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 580272,
       "name": "La Mosh Ana Ely Abky",
       "url": "https://open.spotify.com/track/0uJDPlP8M8GX3rtkN42zmw"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
-        "name": "Pascale Sakr Sings Elias Rahbani",
-        "url": "https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab"
-      },
-      "artists": [
-        {
-          "name": "Pascale Sakr",
-          "url": "https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B"
-        }
-      ],
-      "duration_ms": 392840,
-      "name": "Ya Sarek Makatibi",
-      "url": "https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -587,6 +587,22 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
+        "name": "Pascale Sakr Sings Elias Rahbani",
+        "url": "https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab"
+      },
+      "artists": [
+        {
+          "name": "Pascale Sakr",
+          "url": "https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B"
+        }
+      ],
+      "duration_ms": 392840,
+      "name": "Ya Sarek Makatibi",
+      "url": "https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
         "name": "Abd El Halim Hafez",
         "url": "https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 541297,
       "name": "Bahlam Bek",
       "url": "https://open.spotify.com/track/4aiGuFZXJUKJZYvc19g7M7"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
-        "name": "Ounadikom",
-        "url": "https://open.spotify.com/album/7J30KDq7DX8jra38lPKNur"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Kaabour",
-          "url": "https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi"
-        }
-      ],
-      "duration_ms": 298613,
-      "name": "Ounadikom",
-      "url": "https://open.spotify.com/track/5SkF2r40ozsKsA4Ahf0bJc"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -635,6 +635,22 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
+        "name": "Ounadikom",
+        "url": "https://open.spotify.com/album/7J30KDq7DX8jra38lPKNur"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Kaabour",
+          "url": "https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi"
+        }
+      ],
+      "duration_ms": 298613,
+      "name": "Ounadikom",
+      "url": "https://open.spotify.com/track/5SkF2r40ozsKsA4Ahf0bJc"
+    },
+    {
+      "added_at": "2020-10-13 17:38:48",
+      "album": {
         "name": "Laila Mourad",
         "url": "https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2020-10-13 17:38:48",
       "album": {
-        "name": "The Best Of Umm Kulthum 1",
-        "url": "https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I"
+        "name": "Ana Moush Kafer",
+        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
       },
       "artists": [
         {
-          "name": "Umm Kulthum",
-          "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f"
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
         }
       ],
-      "duration_ms": 2302186,
-      "name": "Baeed Annak",
-      "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ"
+      "duration_ms": 303666,
+      "name": "Ana Moush Kafer - 2008 Remastered",
+      "url": "https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP"
     },
     {
       "added_at": "2020-10-13 17:38:48",
@@ -679,22 +695,6 @@
       "duration_ms": 453493,
       "name": "\u062d\u0628\u064a\u0646\u0627 \u062d\u0628\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/0y8xuNb76WLCH5BbSz0XNU"
-    },
-    {
-      "added_at": "2020-10-13 17:38:48",
-      "album": {
-        "name": "Ana Moush Kafer",
-        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 303666,
-      "name": "Ana Moush Kafer - 2008 Remastered",
-      "url": "https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP"
     },
     {
       "added_at": "2020-10-13 17:38:48",

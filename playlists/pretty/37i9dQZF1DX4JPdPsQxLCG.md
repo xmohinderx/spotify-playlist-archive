@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > The perfect soundtrack for life at the cottage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,429 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,431 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 39 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 40 | [If It Makes You Happy](https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 5:23 |
 | 41 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
-| 42 | [Crabbuckit](https://open.spotify.com/track/3xldYd1oZO8pu6uFq6dyR7) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Let the Rain Fall](https://open.spotify.com/album/70UM6omLuSAURe4aJW2zOZ) | 2:21 |
-| 43 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
-| 44 | [Northern Lights](https://open.spotify.com/track/3U1Asd3xoWUejF66hHHgCP) | [The Jerry Cans](https://open.spotify.com/artist/2KRbj0uDbY56wTORJiY229) | [Inuusiq](https://open.spotify.com/album/5ujNr7kKTye0IfxiDlVIHG) | 3:34 |
-| 45 | [Brian Wilson](https://open.spotify.com/track/2Eky0Rjbrv0YmNy3wrMtSM) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Gordon](https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691) | 4:47 |
-| 46 | [You've Got to Hide Your Love Away](https://open.spotify.com/track/2PT9QDg6vNIoYVhApXsbKj) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [I Am Sam \(Original Soundtrack\)](https://open.spotify.com/album/2AlXF48eRaZ3vAOfx4csas) | 2:09 |
+| 42 | [You've Got To Hide Your Love Away \- Remastered 2009](https://open.spotify.com/track/4F1AgKpuFRMLEgtPETVwZk) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:09 |
+| 43 | [Crabbuckit](https://open.spotify.com/track/3xldYd1oZO8pu6uFq6dyR7) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Let the Rain Fall](https://open.spotify.com/album/70UM6omLuSAURe4aJW2zOZ) | 2:21 |
+| 44 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
+| 45 | [Northern Lights](https://open.spotify.com/track/3U1Asd3xoWUejF66hHHgCP) | [The Jerry Cans](https://open.spotify.com/artist/2KRbj0uDbY56wTORJiY229) | [Inuusiq](https://open.spotify.com/album/5ujNr7kKTye0IfxiDlVIHG) | 3:34 |
+| 46 | [Brian Wilson](https://open.spotify.com/track/2Eky0Rjbrv0YmNy3wrMtSM) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Gordon](https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691) | 4:47 |
 | 47 | [Dock Rock](https://open.spotify.com/track/4EWk1eddwChaRlSK8i09rc) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 3:09 |
 | 48 | [Leather Jacket](https://open.spotify.com/track/3AAtDhdFRnNKJ77kvlMN0J) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [High Noon](https://open.spotify.com/album/5eQZPL2dLics2x2ux0OBuF) | 3:56 |
 | 49 | [The Rest of My Life](https://open.spotify.com/track/01R3c3NRdhVN4E5iZlTSGV) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Action Pact](https://open.spotify.com/album/24EuU7oPexZlKBmnlUHaND) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 79 | [The Hockey Song](https://open.spotify.com/track/2g8q4vNuoVpLJGK17kVcoR) | [Stompin' Tom Connors](https://open.spotify.com/artist/1rOI6HUtD1IR5lbXSbpwQH) | [Stompin' Tom And The Hockey Song](https://open.spotify.com/album/3Y7aE0sVkYcpshCt0E3x9p) | 2:12 |
 | 80 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 
-Snapshot ID: `MTY2MjgyMzIyNSwwMDAwMDAwMDAxNDhjYTMzNzU5MzA0Y2QzMjhjNjhkMjc3ZDMxM2Rj`
+Snapshot ID: `MTY2Mjk5MjM3NCwwMDAwMDAwMDA1ZjBhNDk1MmIxYjYwMmI5YTlkY2JiOTljNWM2NWU1`

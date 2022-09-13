@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 184613,
       "name": "Bad Luck Got My Man",
       "url": "https://open.spotify.com/track/0AVZXE7kqpIezn7HaYYzsw"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 248053,
       "name": "Big Mama's Blues (My Love)",
       "url": "https://open.spotify.com/track/3l1Pf2ItsE3bt36BG3GySo"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 218146,
       "name": "Big Mama's Shuffle",
       "url": "https://open.spotify.com/track/1MsBIf9kuuVsTujZlDxz6w"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 172266,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 105426,
       "name": "I Smell a Rat",
       "url": "https://open.spotify.com/track/6ZNk5OwHUQereZqnUZClqX"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/1bfv08EFNzn09Ra7bLQfHB"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6tnOqc5lsMQYqfvo7wVWk7"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 158173,
       "name": "Rock-A-Bye Baby",
       "url": "https://open.spotify.com/track/42fi7mad9sNmXL1Cl4nKRb"
@@ -905,6 +905,24 @@
       "duration_ms": 294826,
       "name": "Sassy Mama",
       "url": "https://open.spotify.com/track/33RcmXrV5n8FtyY6mOfCTQ"
+    },
+    {
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/4ztWqaJdhYTEYNZvTPYIVP"
     },
     {
       "album": {
@@ -967,6 +985,24 @@
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148773,
+      "name": "Stop A-Hoppin' on Me",
+      "url": "https://open.spotify.com/track/3OGe6jBpiBcS5wBlVKFz3l"
     },
     {
       "album": {

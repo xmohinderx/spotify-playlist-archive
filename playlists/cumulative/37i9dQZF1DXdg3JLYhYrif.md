@@ -4,7 +4,7 @@
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-138 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/0PLlaQFb6drzj3TvrPayc8)
+139 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/0PLlaQFb6drzj3TvrPayc8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amor Falso](https://open.spotify.com/track/1n36knZX4bQ6FvcNEISVe9) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Amor Falso](https://open.spotify.com/album/0PmAoUGCiwmbjnaOaG3OCU) | 2:56 | 2022-02-18 | 2022-07-29 |
 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 | 2022-02-18 |  |
 | [Apaixonadinha \- Ao Vivo](https://open.spotify.com/track/0rUL7vUZmCKxB0gS83W3aM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Didá Banda Feminina](https://open.spotify.com/artist/1XggRlhdW70SWvKflaZUEI) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 3:00 | 2022-02-18 |  |
+| [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 | 2022-03-24 |  |
 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/62LiYpeFoJaixqkaNRGg47) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico Tão Feliz \- Deluxe](https://open.spotify.com/album/0Vyc1CPiHapppuNmA7rGTV) | 2:56 | 2022-02-18 | 2022-07-08 |
 | [Ar\-Condicionado No 15 \- Ao Vivo](https://open.spotify.com/track/5ac0YTpOaDX9wEYYyGCglL) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/508PwdK7nipXn6CL20PWkb) | 2:48 | 2022-02-18 |  |
 | [Arrasta](https://open.spotify.com/track/7vuuF2GPogLbevT3WU1WCy) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/0ZfbmOXQEfHcJKZSqdyOpa) | 2:32 | 2022-02-18 | 2022-05-24 |
@@ -29,7 +30,7 @@
 | [Avisa Que Eu Cheguei \- Ao Vivo](https://open.spotify.com/track/39vJqbfolMyPJtJuyoj1EM) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Contraste \(Ao Vivo\)](https://open.spotify.com/album/45j7kQSCmIQt3XJbOhO9Bx) | 2:55 | 2022-02-18 | 2022-07-28 |
 | [Balada \- Ao Vivo](https://open.spotify.com/track/0zZnBbRW4Dt4cJKVtUQFwF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Gusttavo Lima e Você \(Ao Vivo\)](https://open.spotify.com/album/0JZWK7QhGa1Ir5IRLENyW6) | 3:21 | 2022-03-24 |  |
 | [Baldin de Gelo](https://open.spotify.com/track/2jsZRhuTHMzyF32sVXnxut) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Baldin de Gelo](https://open.spotify.com/album/4GttSVimnRy43FASGFFlYF) | 2:47 | 2022-02-18 | 2022-07-27 |
-| [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 | 2022-02-18 |  |
+| [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 | 2022-02-18 | 2022-09-13 |
 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 | 2022-02-18 |  |
 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 | 2022-03-24 | 2022-04-21 |
 | [Bola Rebola](https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Bola Rebola](https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD) | 3:13 | 2022-03-24 |  |

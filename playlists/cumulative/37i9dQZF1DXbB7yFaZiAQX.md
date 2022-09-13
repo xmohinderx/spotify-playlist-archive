@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-395 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+396 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Pocket Calculator \- 2009 Remaster](https://open.spotify.com/track/4xa1gzSKd6ihtVGd8dWs69) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Computer World \(2009 Remaster\)](https://open.spotify.com/album/42hCHiMtfs7mfBTVX3V6k7) | 4:56 | 2018-12-12 | 2022-07-26 |
 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 | 2018-12-12 |  |
 | [Private Revolution](https://open.spotify.com/track/5GD20Q0mvpsTCuNy9BHZbA) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE) | [Private Revolution](https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey) | 4:03 | 2020-01-26 | 2022-05-21 |
-| [Psycho Killer \- Live](https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:24 | 2019-08-02 |  |
+| [Psycho Killer \- Live](https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:24 | 2019-08-02 | 2022-09-13 |
 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 | 2018-12-12 | 2022-07-22 |
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 | 2018-12-12 |  |
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/7LwlTiFehCUVQQJKEUzF5Z) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/3VWF2zk0hXCcUmtprzF4zs) | 3:58 | 2018-12-12 | 2022-07-29 |
@@ -351,6 +351,7 @@
 | [Totally Wired](https://open.spotify.com/track/2WcPqaYMXCIuGHasY3TWrv) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [Grotesque \(After the Gramme\) \[Expanded Edition\]](https://open.spotify.com/album/375U3Kolt8TLiqKg3bUiKJ) | 3:25 | 2018-12-12 | 2022-04-20 |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2018-12-12 |  |
 | [Town Called Malice](https://open.spotify.com/track/4TOYmUloyDslQIj0k3pXn3) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift \(Deluxe Edition\)](https://open.spotify.com/album/5tCafNFnLdK5orQH5Y9FFP) | 2:53 | 2018-12-12 | 2022-07-29 |
+| [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 | 2021-07-27 |  |
 | [Troy](https://open.spotify.com/track/6m3kJ6d7Ypd1eoBoGP2qZN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 6:31 | 2021-07-27 | 2022-07-20 |
 | [True Faith \- 2015 Remaster](https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:12 | 2019-08-02 |  |
 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 | 2018-12-12 | 2022-04-20 |

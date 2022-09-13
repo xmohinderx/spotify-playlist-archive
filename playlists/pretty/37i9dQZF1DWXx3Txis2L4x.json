@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 489950,
+  "num_followers": 490132,
   "original_name": "ROCK 'N' RUN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5OTU2MiwwMDAwMDAwMDhkZDAwNjRjOGQwZjkxNzBkMGM1M2ZmYTEwMmRjNGNl",
+  "snapshot_id": "MTY1NDE5OTU2MiwwMDAwMDAwMDRiZWM3MDhmNzRlM2VjNDFlNzZhMDYxMjY5NGQ0ZTM1",
   "tracks": [
     {
       "added_at": "2022-06-02 19:51:41",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-06-02 19:51:41",
       "album": {
-        "name": "Elect the Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/4QxqpP6peduwboJWJDOO9H"
-      },
-      "artists": [
-        {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "Empty Walls",
-      "url": "https://open.spotify.com/track/16pmJwwNFVCqdXWPZtwZzh"
-    },
-    {
-      "added_at": "2022-06-02 19:51:41",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 332413,
       "name": "The Borders",
       "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
+    },
+    {
+      "added_at": "2022-06-02 19:51:41",
+      "album": {
+        "name": "Elect the Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/4QxqpP6peduwboJWJDOO9H"
+      },
+      "artists": [
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Empty Walls",
+      "url": "https://open.spotify.com/track/16pmJwwNFVCqdXWPZtwZzh"
     },
     {
       "added_at": "2022-06-02 19:51:41",

@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-121 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
+122 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [LOSER \~希望と未来に無縁のカタルシス\~](https://open.spotify.com/track/5EgUbdvPPUp4toYf1rB2Iw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/6ShPLRahLkA0WcZ07ZLID9) | 3:33 | 2022-05-31 | 2022-07-29 |
 | [LOSER 〜希望と未来に無縁のカタルシス〜](https://open.spotify.com/track/19oxNwvgRjYGXy99f1UytF) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 3:33 | 2022-05-31 |  |
 | [My Friends Forever](https://open.spotify.com/track/6TsO4aiYxf6jpDfjKGjOyM) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/2SUuio93gdAHC9BCZPr7bm) | 4:28 | 2022-05-31 |  |
+| [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-12 |  |
 | [NIPPON](https://open.spotify.com/track/3UA7HWjmBmxvUyD3aYQtJA) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NIPPON](https://open.spotify.com/album/4dws8S6PhSBMGMf8VLgqK4) | 3:54 | 2022-05-31 |  |
 | [NIPPON](https://open.spotify.com/track/6fRqK7uGRTSsJY3DhimjJN) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NIPPON](https://open.spotify.com/album/5j3hy5T3jHTGuDfOED8iAu) | 3:54 | 2022-05-31 | 2022-07-29 |
 | [No More Time Machine](https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:51 | 2022-05-31 |  |

@@ -2,7 +2,7 @@
 
 ### [Twee](https://open.spotify.com/playlist/37i9dQZF1DWUhWIpUC7Aq1)
 
-> Not your manic pixie dream girl, just twee af\. Cover: Nico
+> Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
 150 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/0xpOFo0Nc6AxoX2F4xAxnp)
 

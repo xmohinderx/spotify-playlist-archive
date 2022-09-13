@@ -4,7 +4,7 @@
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-98 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0CtjBqW6TLNyPBdTIErUur)
+100 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/0CtjBqW6TLNyPBdTIErUur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Illusion \(SDI\)](https://open.spotify.com/track/0NQ1TOLmVeRjxkiSh16Pvw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SDI & QUARTET SEGA SYSTEM 16 COLLECTION](https://open.spotify.com/album/4mURnEgAm00MbB7e4cTEiJ) | 2:53 | 2021-09-14 |  |
 | [In the Blue Sky \- \[H.\] Arrange Ver.](https://open.spotify.com/track/7lZJA0s8E1s9PkB1k1Ubmd) | [SEGA Sound Unit\[H.\]](https://open.spotify.com/artist/0oXQNOYcPCHegkkfTKsfQy) | [\[H.\] 1st Album](https://open.spotify.com/album/0WRJXeMZhP8kCSSzW6pxV3) | 2:59 | 2021-09-14 |  |
 | [In the Blue Sky\-電脳戦機バーチャロン\- \- \[H.\] Arrange Ver.](https://open.spotify.com/track/2JJPo4b7hsdHiBvDmXAver) | [SEGA Sound Unit\[H.\]](https://open.spotify.com/artist/0oXQNOYcPCHegkkfTKsfQy) | [\[H.\] 1st Album](https://open.spotify.com/album/0ec3JY0graRFDxIJk1tdcD) | 2:59 | 2021-09-14 | 2022-07-29 |
+| [I’m Here \- Short Edit](https://open.spotify.com/track/51lYJg0Nhzrmxfb9tHJGCO) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Merry Kirk\-Holmes](https://open.spotify.com/artist/2WtceEj0QjyIzsZp3Gp2wu) | [Sonic Frontiers \- Main Theme EP](https://open.spotify.com/album/1WSi6S8pmbIgbJczmJ7fW1) | 1:42 | 2022-09-12 |  |
 | [Kontonwokoeshiwareragashinseinarutyuritunushiwotataeyo](https://open.spotify.com/track/5SfIWS7rZFHYSjRg6hWJ3l) | [Daisuke Anayama](https://open.spotify.com/artist/6PWForE7lzkQEVuIYewDaA) | [Observe the Metaverse CHUNITHM Original Sound Track](https://open.spotify.com/album/7LHjklr1hUtvv1jcNWPdrM) | 2:32 | 2021-09-14 |  |
 | [LAST WAVE \(Out Run\)](https://open.spotify.com/track/0J2NTnEsa3IjeV7OwsRk7B) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Out Run \- Original Soundtrack \(Vol\. 1\)](https://open.spotify.com/album/3anhK2YJabXuqEPeHyKWgS) | 1:31 | 2021-09-14 |  |
 | [LAST WAVE \(Out Run\)](https://open.spotify.com/track/3rwlvRk2caSs3iYwVqwSXj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [アウトラン オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/38PUHL4Ab0rky3W6Lnmp4r) | 1:31 | 2021-09-14 | 2022-07-29 |
@@ -89,6 +90,7 @@
 | [STH1 Green Hill Zone 〜 Mega Drive version 〜](https://open.spotify.com/track/2ZbJuTlSK9TYokeza42cmR) | [Masato Nakamura](https://open.spotify.com/artist/1dMS02fPNC7ace36g64qPm) | [ソニック・ザ・ヘッジホッグ1&2 サウンドトラック](https://open.spotify.com/album/1jUGmnsp1VAmqeYWgpHtK1) | 2:36 | 2021-09-14 |  |
 | [Super Sonic Racing](https://open.spotify.com/track/4ehCvnHAuZg6PNmrBrOlUp) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Richard Jacques](https://open.spotify.com/artist/66SWQBUB6cJGBegelsW2sd) | [Sonic R Original Soundtrack](https://open.spotify.com/album/6Rc7rkokin2O1ewp2vBZjt) | 4:01 | 2021-09-14 |  |
 | [Super Sonic Racing](https://open.spotify.com/track/6hdm4aWBsTNaILpJXRLD6c) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Richard Jacques](https://open.spotify.com/artist/66SWQBUB6cJGBegelsW2sd) | [Sonic R Original Soundtrack](https://open.spotify.com/album/2ysQJl0mDL5UDYToLObSHz) | 4:01 | 2021-09-14 | 2022-07-29 |
+| [Theme of Starfall Islands](https://open.spotify.com/track/2yNPCQNb8V1Iy3H7TrKJal) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Sonic Frontiers \- Main Theme EP](https://open.spotify.com/album/1WSi6S8pmbIgbJczmJ7fW1) | 5:58 | 2022-09-12 |  |
 | [Ultimate Legend of the Untrained Demon King](https://open.spotify.com/track/0AG6i0jUceZqkY5RaMff7Y) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Puyo Puyo Fever 1&2 Soundtrack](https://open.spotify.com/album/5WzUiPnigN9eCcHOHgb0gn) | 2:30 | 2021-09-14 |  |
 | [Xenophobia \(Alcatraz boss BGM\)](https://open.spotify.com/track/0EwIGqB1Wr1DhWLwz4gsXw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Gunblade NY & L.A\. Machineguns Original Soundtrack](https://open.spotify.com/album/0VEU6OijrTZgAJWuAEVpBC) | 2:57 | 2021-09-14 |  |
 | [Xenophobia \(Alcatraz boss BGM\)](https://open.spotify.com/track/2C7j0b76togzq83GPItE0X) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [ガンブレードNY & L.A.マシンガンズ オリジナルサウンドトラック](https://open.spotify.com/album/1ZqwT1lddLVAskCvbYGjVs) | 2:57 | 2021-09-14 | 2022-07-29 |

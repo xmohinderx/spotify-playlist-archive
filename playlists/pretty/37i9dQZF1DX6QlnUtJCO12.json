@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 26522,
+  "num_followers": 26544,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDk1YmI0MzJlZTg5NDJjZDY2MjA2NDYzNWZkNDgzMDlh",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGIzODUyMGViNThlODk1NzNjYzQyNDc0ZDI3YWRmMTQ5",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -131,6 +131,38 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "Calypso Atrocities",
+        "url": "https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2"
+      },
+      "artists": [
+        {
+          "name": "Small Island Pride",
+          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Me Ting Is Mine",
+      "url": "https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Forever Vol.1",
+        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "Sugar Bum Bum",
+      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
         "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
       },
@@ -143,6 +175,22 @@
       "duration_ms": 158458,
       "name": "Sausage",
       "url": "https://open.spotify.com/track/7KAvmiHCXGTcy0yl0ASOpD"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Carnival (Remastered)",
+        "url": "https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh"
+      },
+      "artists": [
+        {
+          "name": "The Duke Of Iron",
+          "url": "https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "Calypsonian Invasion",
+      "url": "https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -167,38 +215,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Forever Vol.1",
-        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 365240,
-      "name": "Sugar Bum Bum",
-      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Calypso Atrocities",
-        "url": "https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2"
-      },
-      "artists": [
-        {
-          "name": "Small Island Pride",
-          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Me Ting Is Mine",
-      "url": "https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Lord Melody Sings Calypso",
         "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
       },
@@ -211,6 +227,22 @@
       "duration_ms": 163333,
       "name": "Carnival Proclamation",
       "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "London is the Place for Me",
+      "url": "https://open.spotify.com/track/1pETAnznla509bUKb34xnS"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -263,22 +295,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Carnival (Remastered)",
-        "url": "https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh"
-      },
-      "artists": [
-        {
-          "name": "The Duke Of Iron",
-          "url": "https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "Calypsonian Invasion",
-      "url": "https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
       },
@@ -327,8 +343,24 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH"
+        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
+        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
+      },
+      "artists": [
+        {
+          "name": "Mighty Panther",
+          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "Mister Give Me de Rent",
+      "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Doctor Kitch",
+        "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
       },
       "artists": [
         {
@@ -336,9 +368,9 @@
           "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
         }
       ],
-      "duration_ms": 167666,
-      "name": "London is the Place for Me",
-      "url": "https://open.spotify.com/track/1pETAnznla509bUKb34xnS"
+      "duration_ms": 155400,
+      "name": "No Melda",
+      "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -359,18 +391,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
-        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
+        "name": "Man Smart, Woman Smarter",
+        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
       },
       "artists": [
         {
-          "name": "Mighty Panther",
-          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
         }
       ],
-      "duration_ms": 149093,
-      "name": "Mister Give Me de Rent",
-      "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
+      "duration_ms": 183480,
+      "name": "Man Smart, Woman Smarter",
+      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -407,22 +439,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Man Smart, Woman Smarter",
-        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
-      },
-      "artists": [
-        {
-          "name": "King Radio",
-          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Man Smart, Woman Smarter",
-      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "The Man Who Never Ever Worried",
         "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 185835,
       "name": "My Reply to Houdini",
       "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Doctor Kitch",
-        "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "No Melda",
-      "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Man Who Never Ever Worried",
-        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
-      },
-      "artists": [
-        {
-          "name": "The Great Honourable Lord Pretender",
-          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
-        }
-      ],
-      "duration_ms": 317720,
-      "name": "Illegitimate Children",
-      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s",
         "url": "https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.1",
-        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
+        "name": "The Man Who Never Ever Worried",
+        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
       "artists": [
         {
-          "name": "The Growler",
-          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
+          "name": "The Great Honourable Lord Pretender",
+          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
         }
       ],
-      "duration_ms": 178933,
-      "name": "In the Dew and the Rain",
-      "url": "https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy"
+      "duration_ms": 317720,
+      "name": "Illegitimate Children",
+      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -611,6 +595,22 @@
       "duration_ms": 155773,
       "name": "Brownskin Girl",
       "url": "https://open.spotify.com/track/1iCy1zwGLhsLb1dlVVyH5Y"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.1",
+        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
+      },
+      "artists": [
+        {
+          "name": "The Growler",
+          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "In the Dew and the Rain",
+      "url": "https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy"
     },
     {
       "added_at": "2021-04-23 15:05:50",

@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 106094,
+  "num_followers": 106166,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg0ODI3MiwwMDAwMDAwMGY5ZmViY2FkN2JiMGQzMGI4YmI3ZDEzMWQ1MmJlZTM2",
+  "snapshot_id": "MTY1ODg0ODI3MiwwMDAwMDAwMGVjOGQyNjUyMTA4NjU2ZjkxMzk2Nzc0YTBhNmYzZWU1",
   "tracks": [
     {
       "added_at": "2019-11-25 15:52:14",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
     },
     {
-      "added_at": "2022-04-19 14:20:34",
-      "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
-    },
-    {
       "added_at": "2019-11-25 15:52:14",
       "album": {
         "name": "Honey",
@@ -459,6 +443,22 @@
       "duration_ms": 163302,
       "name": "I Like The Way You Love Me",
       "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+    },
+    {
+      "added_at": "2022-04-19 14:20:34",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2019-11-25 15:52:14",

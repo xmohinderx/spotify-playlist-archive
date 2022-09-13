@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23699,
+  "num_followers": 23700,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGNlYjljZjcyN2E4NzhlMDQyYWIzMWE5ZjJhMThhZTVi",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDUzN2MzZTA3MzM0ZDlmMzBlYjE1OTJhODFkZDZkNTM2",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -123,22 +123,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "My Number One",
-        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
-      },
-      "artists": [
-        {
-          "name": "Helena Paparizou",
-          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "My Number One",
-      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "If I Were Sorry",
         "url": "https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 184060,
       "name": "If I Were Sorry",
       "url": "https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "My Number One",
+        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "My Number One",
+      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -283,22 +283,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "N\u00e4r vindarna viskar mitt namn - Single",
-        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
-      },
-      "artists": [
-        {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "N\u00e4r vindarna viskar mitt namn",
-      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 180883,
       "name": "Ashes To Ashes",
       "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "N\u00e4r vindarna viskar mitt namn - Single",
+        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
+      },
+      "artists": [
+        {
+          "name": "Roger Pontare",
+          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "N\u00e4r vindarna viskar mitt namn",
+      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Stand By For...",
-        "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Cara mia",
-      "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Ingenting att f\u00f6rlora",
         "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 169213,
       "name": "Alla flickor",
       "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Stand By For...",
+        "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Cara mia",
+      "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -427,22 +427,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "I Can't Go On",
-        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "I Can\u00b4t Go On",
-      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Sean den f\u00f6rste Banan",
         "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "I Can't Go On",
+        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "I Can\u00b4t Go On",
+      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -575,6 +575,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 185239,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -751,22 +751,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "40 \u00e5r 40 hits ett samlingsalbum 1972 - 2012",
-        "url": "https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "Just nu",
-      "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Busy Doin' Nothin'",
         "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "40 \u00e5r 40 hits ett samlingsalbum 1972 - 2012",
+        "url": "https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "Just nu",
+      "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -815,38 +815,34 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Lasse Holm",
-        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
+        "name": "Gamla Stan",
+        "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
       },
       "artists": [
         {
-          "name": "Lasse Holm",
-          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
-        },
-        {
-          "name": "Monica Th\u00f6rnell",
-          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
         }
       ],
-      "duration_ms": 169783,
-      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
+      "duration_ms": 182727,
+      "name": "M\u00f6t mig i Gamla Stan",
+      "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
     },
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Lyssna till ditt hj\u00e4rta",
-        "url": "https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA"
+        "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+        "url": "https://open.spotify.com/album/4gkvAo6QefcyNnTkNf9vaz"
       },
       "artists": [
         {
-          "name": "Friends",
-          "url": "https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX"
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Lyssna till ditt hj\u00e4rta",
-      "url": "https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV"
+      "duration_ms": 179706,
+      "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+      "url": "https://open.spotify.com/track/4WXnFwrGkrGYzwCImeuob6"
     }
   ],
   "unique_name": "Schlagerfest",

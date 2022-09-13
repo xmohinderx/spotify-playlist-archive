@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-598 songs - 1 day 15 hr 57 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+599 songs - 1 day 16 hr 0 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [I Love You](https://open.spotify.com/track/5kLMlZH42zWiw1LWI5ygCR) | [Acid Moon and the Pregnant Sun](https://open.spotify.com/artist/5vQreb844Jsirx6P8yvKO3) | [Speakin' of the Devil](https://open.spotify.com/album/2R6lSzR0CflcaHuBeVywfP) | 3:56 | 2021-06-09 | 2022-04-21 |
 | [I Sing in Silence](https://open.spotify.com/track/3DwyDCNd0xnk30XwirxYXi) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [I Sing in Silence](https://open.spotify.com/album/4aeNsskiwpv5bLbOO1WGc5) | 3:28 | 2021-04-02 | 2022-04-20 |
 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 | 2022-07-22 | 2022-09-09 |
+| [I Think I Left the Stove On](https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx) | 3:22 | 2022-09-02 |  |
 | [I Think I'm In Love](https://open.spotify.com/track/0sNrg85Y0oxe0xFEPOWCGY) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Ladies And Gentlemen We Are Floating In Space](https://open.spotify.com/album/29ihFApGd1BcYe6sYYek76) | 8:08 | 2021-04-02 | 2022-04-21 |
 | [I Want Troll With You \- Gentle Dom Remix](https://open.spotify.com/track/2vj64wDBHPxLkpdLi7W3rF) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [Gentle Dom](https://open.spotify.com/artist/7pCyWyDRP3yk3MJ7mYFmvc) | [I Want Troll With You \(Gentle Dom Remix\)](https://open.spotify.com/album/5pGaZogb4B2aa2F9ewbooW) | 4:42 | 2022-07-22 | 2022-07-30 |
 | [I Want Troll With You \- Gentle Dom Remix](https://open.spotify.com/track/7HkEcOI0XrGj7gPrFd5O95) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [Gentle Dom](https://open.spotify.com/artist/7pCyWyDRP3yk3MJ7mYFmvc) | [I Want Troll with You](https://open.spotify.com/album/3Xm8Y3BzHjH9zaoCuEEycn) | 4:42 | 2021-04-02 | 2022-07-29 |
@@ -578,7 +579,7 @@
 | [When the Night Calls...](https://open.spotify.com/track/4XvSnrSeyzG4ucLFfi2wAT) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [When the Night Calls...](https://open.spotify.com/album/6yzAG8NancCqVFG41yo88Z) | 4:43 | 2021-06-04 | 2022-07-09 |
 | [When Will I Learn](https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR) | 2:49 | 2021-08-20 | 2022-07-06 |
 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 | 2022-04-20 |  |
-| [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 | 2022-05-06 |  |
+| [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 | 2022-05-06 | 2022-09-13 |
 | [Where's My Brain???](https://open.spotify.com/track/1VHddI9aNWtyGwcEfdZ66G) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP2](https://open.spotify.com/album/0S1wz1KX5xnU8YK7wRSpmR) | 6:39 | 2022-04-20 | 2022-07-29 |
 | [Where's My Brain??? \- Edit](https://open.spotify.com/track/0R7LzENY9otO7K852NRmJN) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Where's My Brain???](https://open.spotify.com/album/4lOinIVaihomvJAzwCUhSD) | 3:04 | 2021-04-02 | 2022-07-07 |
 | [White Gloves](https://open.spotify.com/track/0DtWgJmK3sHIBK2o8gIHtb) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/4aXNatXgVRPwO9Y98UWQxI) | 3:38 | 2021-04-02 | 2022-07-09 |

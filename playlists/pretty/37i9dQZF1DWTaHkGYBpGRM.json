@@ -1,12 +1,12 @@
 {
   "description": "Long distance is hard, but true love knows no boundaries.",
-  "num_followers": 7928,
+  "num_followers": 7947,
   "original_name": "Long Distance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTYwNDE1MiwwMDAwMDAwMDQwMGIzYzU4ZTQ0MThlODkzMjY1NjFmN2ExNmFmODc5",
+  "snapshot_id": "MTYxMTYwNDE1MiwwMDAwMDAwMGU1M2I2YjQzNGE1MTE0NTViOGNkMTQ1MDZmMjZmZmNj",
   "tracks": [
     {
       "added_at": "2021-01-25 19:49:11",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-01-25 19:49:11",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/7qNXH2L0VUARRVpcJsacqM"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 269233,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/6PiR6zBrj0JUMnIT88OtZv"
-    },
-    {
-      "added_at": "2021-01-25 19:49:11",
-      "album": {
         "name": "Goodbye Lullaby (Expanded Edition)",
         "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 225986,
       "name": "Wish You Were Here - Acoustic Version",
       "url": "https://open.spotify.com/track/4rmfjaAl0kWsyznoJU2ws3"
+    },
+    {
+      "added_at": "2021-01-25 19:49:11",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/7qNXH2L0VUARRVpcJsacqM"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 269233,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/6PiR6zBrj0JUMnIT88OtZv"
     },
     {
       "added_at": "2021-01-25 19:49:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-01-25 19:49:11",
       "album": {
-        "name": "Love Stuff",
-        "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/7gEIEG5i3oKLKRKBuvengF"
-    },
-    {
-      "added_at": "2021-01-25 19:49:11",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 224285,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv"
+    },
+    {
+      "added_at": "2021-01-25 19:49:11",
+      "album": {
+        "name": "Love Stuff",
+        "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/7gEIEG5i3oKLKRKBuvengF"
     },
     {
       "added_at": "2021-01-25 19:49:11",

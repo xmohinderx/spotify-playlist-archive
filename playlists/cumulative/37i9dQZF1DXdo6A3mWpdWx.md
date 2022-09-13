@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-297 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
+298 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-09-08 |  |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/1pXHEk0IX0foNN22eCe1h6) | 4:22 | 2021-09-08 | 2022-07-25 |
 | [Dance The Night Away](https://open.spotify.com/track/1N67xd3y9s23vitoiP3Zv5) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Trampoline](https://open.spotify.com/album/2JG2T3NBIs5HDWFX7CPysZ) | 4:22 | 2021-09-08 | 2022-07-29 |
-| [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2021-09-08 |  |
+| [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2021-09-08 | 2022-09-13 |
 | [Do You See the Light? \(Looking For\) \[feat\. Niki Haris\] \- 7" Edit](https://open.spotify.com/track/1ClsTc9ppIu8aU3KaGAB0g) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx), [Niki Haris](https://open.spotify.com/artist/6AKDBd8dDnM715jeUivRm1) | [SNAP! The Power Greatest Hits](https://open.spotify.com/album/0f7ZSi2EcurDJU0UeKFjuZ) | 4:14 | 2021-09-08 | 2022-07-27 |
 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 | 2021-09-08 |  |
 | [Don't Give Me Your Life \- Radio Version](https://open.spotify.com/track/6zTUlTbwdSVC61yrNY0SfS) | [Alex Party](https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD) | [Alex Party](https://open.spotify.com/album/0fYJIhjxCdKwWSYcF8Po99) | 3:17 | 2021-03-22 | 2022-07-29 |
@@ -82,6 +82,7 @@
 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 | 2021-03-22 |  |
 | [Emotions](https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:08 | 2021-09-08 |  |
 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 | 2021-03-22 |  |
+| [Everybody](https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Greatest Hits](https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO) | 3:49 | 2021-09-08 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2021-03-22 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2021-03-22 | 2022-07-29 |
 | [Everybody Get Up \- Radio Mix](https://open.spotify.com/track/3rHDO1HJBpjY5NzT4WRX3h) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Five](https://open.spotify.com/album/3x5IW1MzKe5OS9vw7gprFX) | 3:26 | 2021-09-08 | 2022-07-29 |

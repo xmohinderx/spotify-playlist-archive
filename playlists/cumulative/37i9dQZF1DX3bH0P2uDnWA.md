@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-184 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+185 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Button Up](https://open.spotify.com/track/0yFu8XNnKr0ium4NrmWCtB) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Vintage Jukebox EP](https://open.spotify.com/album/7rA6iTmGOEzJNtKGjh41Hl) | 3:23 | 2020-10-30 | 2022-07-25 |
 | [Candy Girl](https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Vallemarie](https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g) | [Candy Girl](https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1) | 2:42 | 2022-01-21 |  |
 | [Cheek to Cheek \- Swing Hop Mix](https://open.spotify.com/track/3IJRPnVHSO7G20e2BGZbCN) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Marty & his Rockin' Comets](https://open.spotify.com/artist/3uYgC6oS9WEa6caMgGr5yN) | [Cheek to Cheek \(Swing Hop Mix\)](https://open.spotify.com/album/3psreUEAHDnhtvgJRVFtk1) | 3:00 | 2020-10-30 | 2022-07-29 |
-| [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 | 2021-05-28 |  |
+| [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 | 2021-05-28 | 2022-09-13 |
 | [Cinnamon Girl](https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Boban i Marko Marcovic Orkestar](https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1) | [Cinnamon Girl](https://open.spotify.com/album/3lH4gaKdQ12d4OewBkaVWl) | 4:00 | 2020-10-30 | 2022-07-27 |
 | [Cinnamon Girl \- Sun Dub Edit](https://open.spotify.com/track/5nT35ED3QmCiSzzMl78BaT) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Boban i Marko Marcovic Orkestar](https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1) | [Cinnamon Girl \(Sun Dub Edit\)](https://open.spotify.com/album/2nvoVE0fEZC5bwJ81tbvTE) | 5:36 | 2020-10-30 | 2022-07-29 |
 | [Circus Maximus \- Aerophon Remix](https://open.spotify.com/track/6voOIfO1GsbLI5pRh9qwrY) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Aerophon](https://open.spotify.com/artist/2p2lCC6MKMS64MvN4N0bzU) | [Circus Maximus \(Remixes\)](https://open.spotify.com/album/33KRs9X2BB82sW9m2J9hzl) | 3:34 | 2020-10-30 | 2022-06-11 |
@@ -119,6 +119,7 @@
 | [One for the Road](https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR), [Elliot Deutsch](https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf) | [One for the Road](https://open.spotify.com/album/6opglzlR3Z9OjX1y0WAfF6) | 3:58 | 2021-05-21 |  |
 | [Otto Croy](https://open.spotify.com/track/5kAbhPC9z3sJEfQQxaoMfu) | [OdjBox](https://open.spotify.com/artist/4R61zLFCe9YgQV9MyfMgi7) | [Otto Croy EP](https://open.spotify.com/album/5GOnP5QYwMOwKee44Fqipl) | 3:49 | 2020-10-30 | 2022-05-14 |
 | [Pack Up The Louie \- Caravan Palace Remix](https://open.spotify.com/track/3K6KxAXRUmvP5qYG5oCpwt) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [The Shocking Miss Emerald The Remixes](https://open.spotify.com/album/1NdJNIjhj8n5REnjPHvlbk) | 3:27 | 2020-10-30 | 2022-07-11 |
+| [Pack Up The Louie \- Caravan Palace Remix](https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [The Shocking Miss Emerald The Remixes](https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx) | 3:27 | 2020-10-30 |  |
 | [Parla più piano / In cerca di te \- Electro Swing Mix](https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf) | [Parla più piano / In cerca di te](https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3) | 2:48 | 2021-09-10 |  |
 | [Party Raiser](https://open.spotify.com/track/1f0qGy6HlMMLJX0ZNpZRa3) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Party Raiser](https://open.spotify.com/album/71ZINsbBANvun4EYF6vA7C) | 2:48 | 2020-10-30 | 2022-05-14 |
 | [Perfect \(Electro Swing Remix\)](https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Ladies Night](https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI) | 3:22 | 2020-10-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Celebrate 15 years of Kanye's Graduation with some 2000s hip\-hop\. Cover: Kanye West
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,100,244 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,100,228 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

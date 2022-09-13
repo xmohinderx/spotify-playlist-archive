@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Shammai",
-  "num_followers": 106017,
+  "num_followers": 106118,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5OTE1MSwwMDAwMDAwMDk2OWZlNWNiZDgzMmZhNTgwMjM4ZWU2MTk2MDI0M2I1",
+  "snapshot_id": "MTY2MjY5OTE1MSwwMDAwMDAwMDhjMjgxYzEyMDI0Y2RkN2E2N2Q1MWIyNzA0ZjIxM2M0",
   "tracks": [
     {
       "added_at": "2022-09-09 04:52:31",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "El Borde de Su Manto (Nueva Versi\u00f3n)",
-        "url": "https://open.spotify.com/album/2HGhXqdD9MMJNtDrqs0ie8"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "El Borde de Su Manto - Nueva Versi\u00f3n",
-      "url": "https://open.spotify.com/track/4UEKob2JSAprOVyIQjI3Js"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
         "name": "No Necesito Doctor.",
         "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 202040,
       "name": "No Necesito Doctor.",
       "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "El Borde de Su Manto (Nueva Versi\u00f3n)",
+        "url": "https://open.spotify.com/album/2HGhXqdD9MMJNtDrqs0ie8"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "El Borde de Su Manto - Nueva Versi\u00f3n",
+      "url": "https://open.spotify.com/track/4UEKob2JSAprOVyIQjI3Js"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "En Ti Esperamos",
-        "url": "https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 218575,
-      "name": "En Ti Esperamos",
-      "url": "https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
         "name": "Tamos de Fiesta",
         "url": "https://open.spotify.com/album/6JCYBeSj1gVZoq0kbrxtao"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 198813,
       "name": "Tamos de Fiesta",
       "url": "https://open.spotify.com/track/0ft6Igxvsf1HYVFHDp1aX1"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "En Ti Esperamos",
+        "url": "https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 218575,
+      "name": "En Ti Esperamos",
+      "url": "https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "Guiame",
-        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
         "name": "Desciende",
         "url": "https://open.spotify.com/album/7yrJSOgQlbkZOA2HE0Jfnb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 608782,
       "name": "Desciende",
       "url": "https://open.spotify.com/track/7y3AXem43My0T7xFxryBPL"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "Guiame",
+        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "Lo Volver\u00e1s a Hacer",
-        "url": "https://open.spotify.com/album/7uLEeDyg4eehLd5qLh73Iq"
-      },
-      "artists": [
-        {
-          "name": "Jeff Mojica",
-          "url": "https://open.spotify.com/artist/1LGZGN1qiHt1HtNHJ0nGBg"
-        },
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        }
-      ],
-      "duration_ms": 348074,
-      "name": "Lo Volver\u00e1s a Hacer",
-      "url": "https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
         "name": "Hasta La Eternidad",
         "url": "https://open.spotify.com/album/53dywng9hTIkHvljhNavG2"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 252571,
       "name": "Hasta La Eternidad",
       "url": "https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "Lo Volver\u00e1s a Hacer",
+        "url": "https://open.spotify.com/album/7uLEeDyg4eehLd5qLh73Iq"
+      },
+      "artists": [
+        {
+          "name": "Jeff Mojica",
+          "url": "https://open.spotify.com/artist/1LGZGN1qiHt1HtNHJ0nGBg"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "duration_ms": 348074,
+      "name": "Lo Volver\u00e1s a Hacer",
+      "url": "https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
+        "name": "Vamo' a Celebrar",
+        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Vamo' a Celebrar",
+      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
         "name": "DULCE",
         "url": "https://open.spotify.com/album/73vUB3SE8B4k7DuKxUx3Bw"
       },
@@ -1083,38 +1099,6 @@
       "duration_ms": 181732,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
-        "name": "Vamo' a Celebrar",
-        "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Vamo' a Celebrar",
-      "url": "https://open.spotify.com/track/4YYKkzvtWZYfCmWvjjhtNB"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6STEoF1u2LVQkUlIZQCiko"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 189599,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/1exBPbUemd8mDuaAYJYqSH"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1155,6 +1139,22 @@
       "duration_ms": 191186,
       "name": "158",
       "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6STEoF1u2LVQkUlIZQCiko"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1exBPbUemd8mDuaAYJYqSH"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "As\u00ed Ser\u00e1",
-        "url": "https://open.spotify.com/album/2j9eRIqy911zusKpNfwGGW"
-      },
-      "artists": [
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        },
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 176201,
-      "name": "As\u00ed Ser\u00e1",
-      "url": "https://open.spotify.com/track/7D2UmdU3pYblpgD2VARtRd"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
         "name": "New Generation Music",
         "url": "https://open.spotify.com/album/0FN8PvGXPtg4P9Usxm6ldw"
       },
@@ -1347,18 +1327,22 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "ROMPE EL CIELO",
-        "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
+        "name": "As\u00ed Ser\u00e1",
+        "url": "https://open.spotify.com/album/2j9eRIqy911zusKpNfwGGW"
       },
       "artists": [
         {
-          "name": "Nancy Amancio",
-          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         }
       ],
-      "duration_ms": 210818,
-      "name": "La Prueba De Tu Amor",
-      "url": "https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt"
+      "duration_ms": 176201,
+      "name": "As\u00ed Ser\u00e1",
+      "url": "https://open.spotify.com/track/7D2UmdU3pYblpgD2VARtRd"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "Tengo Un Padre",
-        "url": "https://open.spotify.com/album/1dyCh2iDBk0npbZd2pMZ8S"
+        "name": "ROMPE EL CIELO",
+        "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
       },
       "artists": [
         {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+          "name": "Nancy Amancio",
+          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
         }
       ],
-      "duration_ms": 255441,
-      "name": "Tengo Un Padre",
-      "url": "https://open.spotify.com/track/3ZXsaKPDp9R3GiHlb06HyJ"
+      "duration_ms": 210818,
+      "name": "La Prueba De Tu Amor",
+      "url": "https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1427,6 +1411,22 @@
       "duration_ms": 223285,
       "name": "No Pierdas la Fe",
       "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "Tengo Un Padre",
+        "url": "https://open.spotify.com/album/1dyCh2iDBk0npbZd2pMZ8S"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "duration_ms": 255441,
+      "name": "Tengo Un Padre",
+      "url": "https://open.spotify.com/track/3ZXsaKPDp9R3GiHlb06HyJ"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "Vamos Pa' Arriba (Live From los Angeles)",
-        "url": "https://open.spotify.com/album/1Vu0bcRG097gdWFMjsfJ35"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        }
-      ],
-      "duration_ms": 204165,
-      "name": "Vamos Pa' Arriba - Live From los Angeles",
-      "url": "https://open.spotify.com/track/2jsY0mTt7sPrcgVANIA0SS"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
         "name": "Live Session: Alexxander",
         "url": "https://open.spotify.com/album/2rXZrmXrNdoH0Vnnws0M4b"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 189090,
       "name": "Diferente - Live Session",
       "url": "https://open.spotify.com/track/6iZKs8SxAQOdFrgZIDhgjq"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "Vamos Pa' Arriba (Live From los Angeles)",
+        "url": "https://open.spotify.com/album/1Vu0bcRG097gdWFMjsfJ35"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 204165,
+      "name": "Vamos Pa' Arriba - Live From los Angeles",
+      "url": "https://open.spotify.com/track/2jsY0mTt7sPrcgVANIA0SS"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
-        "name": "La Tierra Clama",
-        "url": "https://open.spotify.com/album/4jutNd5lsDQuxmx1jgzPD2"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "D\u00e9bora Romo",
-          "url": "https://open.spotify.com/artist/7tblRDwJLpl2jB4GJvhDAF"
-        }
-      ],
-      "duration_ms": 183984,
-      "name": "La Tierra Clama",
-      "url": "https://open.spotify.com/track/4LhABuxG0fOjW2bnR2hLpr"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
         "name": "Mi Eterno Destino (Live Session From Los Angeles)",
         "url": "https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy"
       },
@@ -1731,6 +1711,22 @@
       "duration_ms": 219878,
       "name": "Mi Eterno Destino - Live Session From Los Angeles",
       "url": "https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "Indescriptible",
+        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
+      },
+      "artists": [
+        {
+          "name": "Pas Music",
+          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
+        }
+      ],
+      "duration_ms": 293773,
+      "name": "Indescriptible",
+      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1755,6 +1751,26 @@
     {
       "added_at": "2022-09-09 04:52:31",
       "album": {
+        "name": "La Tierra Clama",
+        "url": "https://open.spotify.com/album/4jutNd5lsDQuxmx1jgzPD2"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "D\u00e9bora Romo",
+          "url": "https://open.spotify.com/artist/7tblRDwJLpl2jB4GJvhDAF"
+        }
+      ],
+      "duration_ms": 183984,
+      "name": "La Tierra Clama",
+      "url": "https://open.spotify.com/track/4LhABuxG0fOjW2bnR2hLpr"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
         "name": "Gracia",
         "url": "https://open.spotify.com/album/1tjjnVKLCnZxGmoVFIS4zp"
       },
@@ -1767,6 +1783,22 @@
       "duration_ms": 478225,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/72JMyu7H0bZ2nhidXtt1yY"
+    },
+    {
+      "added_at": "2022-09-09 04:52:31",
+      "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
+      },
+      "artists": [
+        {
+          "name": "Harborside Music",
+          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
+        }
+      ],
+      "duration_ms": 404794,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/1iMCR8Y8cSmPF6SC95pRYJ"
     },
     {
       "added_at": "2022-09-09 04:52:31",
@@ -1787,38 +1819,6 @@
       "duration_ms": 212114,
       "name": "Alentador",
       "url": "https://open.spotify.com/track/79conTU66MZOzGtVoYVV6Z"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
-        "name": "Indescriptible",
-        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
-      },
-      "artists": [
-        {
-          "name": "Pas Music",
-          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
-        }
-      ],
-      "duration_ms": 293773,
-      "name": "Indescriptible",
-      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
-    },
-    {
-      "added_at": "2022-09-09 04:52:31",
-      "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
-      },
-      "artists": [
-        {
-          "name": "Harborside Music",
-          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
-        }
-      ],
-      "duration_ms": 404794,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/1iMCR8Y8cSmPF6SC95pRYJ"
     },
     {
       "added_at": "2022-09-09 04:52:31",

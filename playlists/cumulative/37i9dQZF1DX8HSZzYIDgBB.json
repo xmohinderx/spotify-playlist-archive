@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 194999,
       "name": "Cascabel",
       "url": "https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR"
@@ -2355,6 +2355,28 @@
       "duration_ms": 337391,
       "name": "Papayas",
       "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
+    },
+    {
+      "album": {
+        "name": "Papelito",
+        "url": "https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        },
+        {
+          "name": "Enjoy",
+          "url": "https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179949,
+      "name": "Papelito",
+      "url": "https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2"
     },
     {
       "album": {

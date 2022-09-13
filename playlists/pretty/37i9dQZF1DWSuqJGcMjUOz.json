@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGZmZWU4ZWViNTdjZTJjODVmNTRmYjQ1MmM1M2Y4ZTli",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDRlMjdjOTZmMjdiMzUzZDk5ZGJkODhiMWUwNjZkZmI0",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "IND\u00c9L\u00c9BILE",
-        "url": "https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK"
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
       },
       "artists": [
         {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
         }
       ],
-      "duration_ms": 170573,
-      "name": "IND\u00c9L\u00c9BILE",
-      "url": "https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt"
+      "duration_ms": 207493,
+      "name": "Le Dernier Jour du Disco",
+      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+        "name": "IND\u00c9L\u00c9BILE",
+        "url": "https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 207493,
-      "name": "Le Dernier Jour du Disco",
-      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
+      "duration_ms": 170573,
+      "name": "IND\u00c9L\u00c9BILE",
+      "url": "https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sablier",
-        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
-      },
-      "artists": [
-        {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
-        }
-      ],
-      "duration_ms": 146866,
-      "name": "Perdu",
-      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Soleil '96",
         "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 225480,
       "name": "Si je pleure",
       "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sablier",
+        "url": "https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "Perdu",
+      "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Roi",
-        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 153846,
-      "name": "Roi",
-      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Excalibur",
         "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 188369,
       "name": "Les Rois",
       "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Roi",
+        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "Roi",
+      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "SITKA",
-        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9anne A. Malette",
-          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Mon coeur pour te garder (version bonus)",
-        "url": "https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY"
+        "name": "SITKA",
+        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
       "artists": [
         {
-          "name": "Am\u00e9lie Veille",
-          "url": "https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h"
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Mon coeur pour te garder",
-      "url": "https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn"
+      "duration_ms": 218653,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "\u00c9lectro-Vacances",
-        "url": "https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5"
+        "name": "Mon coeur pour te garder (version bonus)",
+        "url": "https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY"
       },
       "artists": [
         {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        },
-        {
-          "name": "Laurence Camille",
-          "url": "https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF"
+          "name": "Am\u00e9lie Veille",
+          "url": "https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h"
         }
       ],
-      "duration_ms": 186128,
-      "name": "Amazone (feat. Laurence Camille)",
-      "url": "https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM"
+      "duration_ms": 206373,
+      "name": "Mon coeur pour te garder",
+      "url": "https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1219,6 +1199,26 @@
       "duration_ms": 149226,
       "name": "Entre mes jambes",
       "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "\u00c9lectro-Vacances",
+        "url": "https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        },
+        {
+          "name": "Laurence Camille",
+          "url": "https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF"
+        }
+      ],
+      "duration_ms": 186128,
+      "name": "Amazone (feat. Laurence Camille)",
+      "url": "https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 202959,
-      "name": "Porcelaine",
-      "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 151586,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 202959,
+      "name": "Porcelaine",
+      "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Je me souviens",
-        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
-      },
-      "artists": [
-        {
-          "name": "Samian",
-          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "Je me souviens",
-      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Mille ouvrages mon coeur",
         "url": "https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 200186,
       "name": "Tes yeux \u00e0 Barcelone",
       "url": "https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Je me souviens",
+        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
+      },
+      "artists": [
+        {
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "Je me souviens",
+      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Incarnat",
+        "url": "https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Waska Matisiwin",
         "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 250469,
       "name": "Moteskano - Les sentiers de nos anc\u00eatres",
       "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Fauve",
-        "url": "https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1"
-      },
-      "artists": [
-        {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
-        }
-      ],
-      "duration_ms": 253274,
-      "name": "Je t\u2019aime",
-      "url": "https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

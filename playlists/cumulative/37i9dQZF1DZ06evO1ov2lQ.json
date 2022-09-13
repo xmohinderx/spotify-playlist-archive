@@ -420,6 +420,28 @@
     },
     {
       "album": {
+        "name": "Birmingham Frequencies (Remastered)",
+        "url": "https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179659,
+      "name": "Daddylonglegs - Remastered",
+      "url": "https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P"
+    },
+    {
+      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -845,7 +867,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -943,7 +965,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 410506,
       "name": "Katedra Botaniki",
       "url": "https://open.spotify.com/track/79QCazp5Yy0bmPx908uqbz"
@@ -1293,7 +1315,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
@@ -1459,7 +1481,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 347640,
       "name": "Sphere of No Form",
       "url": "https://open.spotify.com/track/1sTEwlABqphttrrXoUUeqE"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 291828,
       "name": "Too Fragile to Walk On",
       "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"

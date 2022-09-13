@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113758,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
+    },
+    {
+      "album": {
         "name": "A New Year's Walk",
         "url": "https://open.spotify.com/album/05LH1t6nNUNWsb8sNhOVBa"
       },
@@ -2606,6 +2624,24 @@
     },
     {
       "album": {
+        "name": "finding peace",
+        "url": "https://open.spotify.com/album/0nTFSXJpzMcC8AfUh8ITT2"
+      },
+      "artists": [
+        {
+          "name": "BARTH.",
+          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "beautifully broken",
+      "url": "https://open.spotify.com/track/2n4dpQ5NlAT3PGeIfl65ZI"
+    },
+    {
+      "album": {
         "name": "saudade (feat. Ardie Son)",
         "url": "https://open.spotify.com/album/2Fra3qAyV4EHYX72KtA4QV"
       },
@@ -2635,7 +2671,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 236293,
       "name": "beautifully broken",
       "url": "https://open.spotify.com/track/5WzXY5LkQ1MNfCJeCv05Ds"
@@ -2653,7 +2689,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 136909,
       "name": "Beauty Of You",
       "url": "https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc"
@@ -2725,7 +2761,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 180777,
       "name": "Before your eyes",
       "url": "https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1"
@@ -3193,7 +3229,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 180218,
       "name": "Broparken",
       "url": "https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5"
@@ -3629,7 +3665,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 123703,
       "name": "Chalet",
       "url": "https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz"
@@ -4569,6 +4605,24 @@
       "duration_ms": 121000,
       "name": "Crossing The Line",
       "url": "https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w"
+    },
+    {
+      "album": {
+        "name": "Cuaderna V\u00eda",
+        "url": "https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197346,
+      "name": "Cuaderna V\u00eda",
+      "url": "https://open.spotify.com/track/29wXeahxSJmYAQcQHQS71o"
     },
     {
       "album": {
@@ -7320,6 +7374,24 @@
     },
     {
       "album": {
+        "name": "Friends without end",
+        "url": "https://open.spotify.com/album/5dBDbcpIZiAhGlvNBnwVzg"
+      },
+      "artists": [
+        {
+          "name": "Lisa Kriegler",
+          "url": "https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111676,
+      "name": "Friends without end",
+      "url": "https://open.spotify.com/track/3txtZUnBLGOg3GGTORFCS1"
+    },
+    {
+      "album": {
         "name": "Your Story",
         "url": "https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2"
       },
@@ -7681,7 +7753,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 206868,
       "name": "Goodwill",
       "url": "https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy"
@@ -7847,6 +7919,24 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "album": {
+        "name": "Growing Green",
+        "url": "https://open.spotify.com/album/33w3WaFt2xGmM45B4YPAan"
+      },
+      "artists": [
+        {
+          "name": "Aestivum",
+          "url": "https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Growing Green",
+      "url": "https://open.spotify.com/track/0ad4PNbIzDJwVzCCjKhvAA"
     },
     {
       "album": {
@@ -9024,6 +9114,24 @@
     },
     {
       "album": {
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
+      },
+      "artists": [
+        {
+          "name": "Violet Mar",
+          "url": "https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180020,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM"
+    },
+    {
+      "album": {
         "name": "Il Colibr\u00ec",
         "url": "https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS"
       },
@@ -9107,7 +9215,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 159446,
       "name": "Imagery Noir",
       "url": "https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs"
@@ -9395,7 +9503,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 216000,
       "name": "In the meadow",
       "url": "https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU"
@@ -10781,7 +10889,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 158000,
       "name": "Larissa",
       "url": "https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt"
@@ -10799,7 +10907,7 @@
       ],
       "date_added": "2021-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 174000,
       "name": "Larks",
       "url": "https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG"
@@ -10961,7 +11069,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 179950,
       "name": "Le Bonheur",
       "url": "https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok"
@@ -11841,7 +11949,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 158625,
       "name": "Looking Down",
       "url": "https://open.spotify.com/track/1whoKvX0cT6hfZf7GryEmB"
@@ -12147,7 +12255,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 135240,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1"
@@ -12331,6 +12439,24 @@
       "duration_ms": 112706,
       "name": "Lyon",
       "url": "https://open.spotify.com/track/67b6LvfxFlCLWwxv2nYtDa"
+    },
+    {
+      "album": {
+        "name": "Lyrides",
+        "url": "https://open.spotify.com/album/1RAdAitcrgs2ZJ5Txxf2vV"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Lyrides",
+      "url": "https://open.spotify.com/track/7hVcd9PDdO0xK8vE3WQqnV"
     },
     {
       "album": {
@@ -13195,7 +13321,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 120000,
       "name": "Mis\u00e9rable",
       "url": "https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx"
@@ -13573,7 +13699,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 126434,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF"
@@ -15321,7 +15447,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 144404,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/6a29Wq1AQWAGVdJGwYDXJs"
@@ -15573,7 +15699,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 179257,
       "name": "Peace Frame",
       "url": "https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax"
@@ -15973,6 +16099,24 @@
       "duration_ms": 130951,
       "name": "Potomac",
       "url": "https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq"
+    },
+    {
+      "album": {
+        "name": "Pour dessiner des fleur",
+        "url": "https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl Alexandrienne",
+          "url": "https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "Pour dessiner des fleur",
+      "url": "https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9"
     },
     {
       "album": {
@@ -23955,7 +24099,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 155500,
       "name": "wandering bird",
       "url": "https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR"

@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 248373,
       "name": "Car's Outside",
       "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
@@ -5827,7 +5827,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 141954,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
@@ -7527,10 +7527,28 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 119106,
       "name": "V16",
       "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
+    },
+    {
+      "album": {
+        "name": "V16",
+        "url": "https://open.spotify.com/album/0AOhyCpui1osblqrN7ilok"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/2QX7eHuJcD64acIvmBQeC7"
     },
     {
       "album": {

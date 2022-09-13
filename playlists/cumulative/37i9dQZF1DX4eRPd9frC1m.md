@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-244 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
+245 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Arena](https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR) | 3:26 | 2022-07-22 | 2022-08-25 |
 | [Asking For](https://open.spotify.com/track/1YIkj75IPsfW4fzPB6qNlE) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Asking For](https://open.spotify.com/album/6oSxomsicif0h0fb8dzdFy) | 2:55 | 2022-04-15 | 2022-07-24 |
 | [Assault](https://open.spotify.com/track/4SbMVULuT6l7iN7d40PCNJ) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Assault](https://open.spotify.com/album/0qTtqa02EU5tpRhVNMek92) | 4:44 | 2022-01-07 | 2022-06-16 |
-| [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 | 2021-11-19 |  |
+| [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 | 2021-11-19 | 2022-09-13 |
 | [ATTACK](https://open.spotify.com/track/4beNkkRzwv01XhAyp2OiI1) | [AG](https://open.spotify.com/artist/3HKUrC0erAdewcUeSKLzT8), [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [ATTACK](https://open.spotify.com/album/5li6myKWhrO3iyUlyi5pXR) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Attention](https://open.spotify.com/track/1ouitWGWGsCbvlpNCbUA4b) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [Duality](https://open.spotify.com/album/3CrcABa7dWIH4Oxdb0H48Z) | 2:50 | 2022-04-29 | 2022-05-07 |
 | [Back It Up](https://open.spotify.com/track/0OsIIjUneF8iZk5QULuEzk) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:40 | 2021-11-19 | 2022-01-08 |
@@ -181,6 +181,7 @@
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 |  |
 | [Rumors \- R3HAB & Skytech vs\. Marvelus Fame Remix](https://open.spotify.com/track/2rOU98Cy13yvifhme0Ovn5) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Marvelus Fame](https://open.spotify.com/artist/7H2vhIrsFEQnkB7TDBuLXa) | [Rumors \(R3HAB & Skytech vs\. Marvelus Fame Remix\)](https://open.spotify.com/album/70V1IKr3JAome1GUspLkTG) | 2:22 | 2021-11-19 | 2022-01-08 |
 | [Run It \(feat\. Bok Nero\)](https://open.spotify.com/track/3iLmFedCb8sGWtLbXbY8go) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Run It \(feat\. Bok Nero\)](https://open.spotify.com/album/4enTxlxzynwaSElOTWAtwK) | 2:27 | 2021-11-19 | 2022-01-08 |
+| [Run It Up](https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Sam King](https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL) | [Run It Up EP](https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8) | 3:02 | 2022-09-09 |  |
 | [Run Like the Wind](https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 2:51 | 2022-01-07 | 2022-04-29 |
 | [RUN WHEN YOU SEE ME](https://open.spotify.com/track/1WeWJM94bGc9VSB5iAT7YD) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [RUN WHEN YOU SEE ME](https://open.spotify.com/album/6NwhwHaRdDrUHJICseoYO4) | 4:17 | 2021-11-19 | 2022-01-08 |
 | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/album/1IEpclNm8RhgxVvLVPDJ1i) | 3:29 | 2022-01-07 | 2022-09-10 |

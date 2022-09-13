@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 15531,
+  "num_followers": 15546,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDc0YTIyMmMwNmJkYzBkZjI2NTBjYjA3MTcwZTE3ZGFj",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDc1ZjlhZDFkMTQyYmZkZDk4MmZhNjA1NjY1ZjY4MGVj",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -95,22 +95,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Hound Dog Taylor & The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -127,6 +111,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Hound Dog Taylor & The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "3rd Degree (Remastered)",
         "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
@@ -139,38 +139,6 @@
       "duration_ms": 293293,
       "name": "Mojo Boogie - Remastered",
       "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "The Earthshaker",
-        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 432200,
-      "name": "Married To The Blues",
-      "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -195,18 +163,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "The Earthshaker",
+        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+      "duration_ms": 274506,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -227,6 +195,38 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 432200,
+      "name": "Married To The Blues",
+      "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Blowin' Like Hell",
         "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
       },
@@ -239,22 +239,6 @@
       "duration_ms": 345666,
       "name": "Lonesome Bedroom Blues",
       "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 395600,
-      "name": "Third Degree - Remastered",
-      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -291,18 +275,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 395600,
+      "name": "Third Degree - Remastered",
+      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -367,6 +351,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -419,6 +419,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Cotton Mouth Man",
         "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
@@ -447,38 +463,6 @@
       "duration_ms": 140866,
       "name": "Evil On My Mind - Remastered",
       "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "If You Love Me Like You Say",
-      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -535,34 +519,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Natural Boogie (Remastered)",
-        "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Sitting At Home Alone - Remastered",
-      "url": "https://open.spotify.com/track/4XYISKrDmNiPLCrMHbVQqi"
+      "duration_ms": 248400,
+      "name": "If You Love Me Like You Say",
+      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -583,18 +551,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Guitar Slinger",
-        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 250826,
-      "name": "It's My Life Baby - Remastered",
-      "url": "https://open.spotify.com/track/5glbZffXF1GNtPCMB7uVek"
+      "duration_ms": 243333,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -611,6 +579,38 @@
       "duration_ms": 201626,
       "name": "Never Trust A Man",
       "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Natural Boogie (Remastered)",
+        "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "Sitting At Home Alone - Remastered",
+      "url": "https://open.spotify.com/track/4XYISKrDmNiPLCrMHbVQqi"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Guitar Slinger",
+        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "It's My Life Baby - Remastered",
+      "url": "https://open.spotify.com/track/5glbZffXF1GNtPCMB7uVek"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -647,6 +647,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Alligator Records 45th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Live From Chicago - Mr. Superharp Himself!",
         "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
       },
@@ -668,22 +684,6 @@
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Common Ground",
-      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Alligator Records 45th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
-      },
-      "artists": [
-        {
           "name": "Son Seals",
           "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
@@ -691,6 +691,22 @@
       "duration_ms": 279600,
       "name": "Cotton Picking Blues",
       "url": "https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/13MRYxSCSqfyJ1xvTE6TqI"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/7au83e4LJnF9ckB3fPAGkT"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -711,26 +727,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Alligator Records 45th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        },
-        {
-          "name": "Lurrie Bell",
-          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "The Road Is So Long",
-      "url": "https://open.spotify.com/track/1QXLlIOl49faZia60gnrQT"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Guitar Slinger",
         "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
       },
@@ -747,18 +743,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/13MRYxSCSqfyJ1xvTE6TqI"
+        "name": "Alligator Records 45th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        },
+        {
+          "name": "Lurrie Bell",
+          "url": "https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3"
         }
       ],
-      "duration_ms": 296333,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/7au83e4LJnF9ckB3fPAGkT"
+      "duration_ms": 193893,
+      "name": "The Road Is So Long",
+      "url": "https://open.spotify.com/track/1QXLlIOl49faZia60gnrQT"
     },
     {
       "added_at": "2020-09-21 10:42:33",

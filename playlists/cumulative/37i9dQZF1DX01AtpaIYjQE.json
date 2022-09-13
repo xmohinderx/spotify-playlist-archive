@@ -772,6 +772,24 @@
     },
     {
       "album": {
+        "name": "NEW ME",
+        "url": "https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261238,
+      "name": "NEW ME",
+      "url": "https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o"
+    },
+    {
+      "album": {
         "name": "NIPPON",
         "url": "https://open.spotify.com/album/4dws8S6PhSBMGMf8VLgqK4"
       },

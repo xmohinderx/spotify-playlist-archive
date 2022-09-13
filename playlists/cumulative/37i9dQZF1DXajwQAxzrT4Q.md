@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-173 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+174 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 | 2022-02-11 |  |
 | [All Night](https://open.spotify.com/track/3ZWDMpOPLbFgqLjMzCtX6U) | [Beatdemons](https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [All Night](https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J) | 3:00 | 2022-09-09 |  |
 | [ALL ON ME](https://open.spotify.com/track/6O3ULRONtP6xLmhtOKnMCl) | [Niamoni](https://open.spotify.com/artist/0SPTKSeUoN0qOJHlMH7xhd), [DJ Bake](https://open.spotify.com/artist/3xxpWLX3scQfmIxeBfai3j), [DJ Saucy P](https://open.spotify.com/artist/6sWmk7shLDPQYMCNBtxqP0), [DJ 809](https://open.spotify.com/artist/6hTg6qX8qOPR4RHCr0oXb0) | [ALL ON ME](https://open.spotify.com/album/6RbaC0idsKcHF9I28NKDUN) | 1:39 | 2022-02-11 | 2022-07-29 |
+| [Anxious](https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Anxious](https://open.spotify.com/album/6gpmtNqKezX1vcJLljbZZB) | 2:01 | 2022-09-09 |  |
 | [Apologize](https://open.spotify.com/track/7ki5Zd8IydTM7m4uUauLVp) | [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [King](https://open.spotify.com/album/7upF3UTuPtrWKf3LU9Jn4t) | 2:14 | 2022-02-11 | 2022-08-25 |
 | [Aquafina](https://open.spotify.com/track/3WTU9tmtTPw7cEChV9e9n5) | [DJ Tim Dolla](https://open.spotify.com/artist/1AQTm01kQqcd3vjb02KRKf) | [Moveltraxx presents DMP6](https://open.spotify.com/album/7Lkz7fp8FWg9rkQ0pgUdeB) | 3:28 | 2022-02-11 | 2022-07-15 |
 | [Arriba](https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L) | 2:19 | 2022-02-11 |  |
@@ -110,7 +111,7 @@
 | [Like This \- Original Mix](https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk) | [ClubHeadSLiiM](https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk) | [New Jersey Club vol.2](https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW) | 2:56 | 2022-02-11 |  |
 | [Look Back at It \(Club Mix\)](https://open.spotify.com/track/0viwsuWYy2OV7QFlbjm0iw) | [Ziggy](https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG) | [Reloaded](https://open.spotify.com/album/1yfZgVp1uADXX59Q86RDVU) | 1:42 | 2022-02-11 | 2022-07-28 |
 | [Look Back It \(Club Mix\)](https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa) | [Ziggy](https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG) | [Ziggy Reloaded II](https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil) | 1:42 | 2022-07-22 |  |
-| [Love Song \- TrillzAL Jersey Edit](https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [TrillzAL](https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A) | [Love Song \(Remixes\)](https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu) | 2:22 | 2022-02-11 |  |
+| [Love Song \- TrillzAL Jersey Edit](https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [TrillzAL](https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A) | [Love Song \(Remixes\)](https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu) | 2:22 | 2022-02-11 | 2022-09-13 |
 | [Low Budget Bass Trash \- W.A.S.H\. Remix](https://open.spotify.com/track/30v9quHl4dLXfpv2Q8ERqO) | [Not Your Shadow](https://open.spotify.com/artist/1cOezzAcftrq3gR6ABPJ9C), [W.A.S.H.](https://open.spotify.com/artist/0v8Wb0xRJcWNUjDc5sL9Og) | [Low Budget Bass Trash \(W.A.S.H\. Remix\)](https://open.spotify.com/album/5vygzgKP1YZtBWdQpgzfGk) | 3:13 | 2022-04-01 | 2022-07-28 |
 | [Luhh Galore](https://open.spotify.com/track/1MOcUvdRYdVMTAYuHfMILj) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/0qWRPNvv1f7Ai6KBi4zgAH) | 1:28 | 2022-02-11 | 2022-07-29 |
 | [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 | 2022-07-22 |  |

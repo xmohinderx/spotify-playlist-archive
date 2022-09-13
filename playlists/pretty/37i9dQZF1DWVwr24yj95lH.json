@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 513942,
+  "num_followers": 514064,
   "original_name": "Post-Grunge Appreciation Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgyMDA1NywwMDAwMDAwMGFkMmJmMWQ0YmNiZGVhYzYwZDgxMDk3ZjBiNmY1ZGU2",
+  "snapshot_id": "MTY1NzgyMDA1NywwMDAwMDAwMGJhMzQxNWE5NDMzOTFlNWMyOWFiN2ZjMjVmYjNhMWM0",
   "tracks": [
     {
       "added_at": "2022-06-28 19:49:04",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 231400,
-      "name": "Animal I Have Become",
-      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Animal I Have Become",
+      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
         "name": "Extreme Behavior",
         "url": "https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 261853,
       "name": "Lips Of An Angel",
       "url": "https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Three Days Grace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "Sparkle And Fade",
         "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 191506,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -459,38 +459,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "No Name Face",
-        "url": "https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "Hanging By A Moment",
-      "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
-        "name": "Leave a Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "45",
-      "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "Weathered",
         "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
       },
@@ -523,18 +491,34 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+        "name": "No Name Face",
+        "url": "https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k"
       },
       "artists": [
         {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
         }
       ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
+      "duration_ms": 216066,
+      "name": "Hanging By A Moment",
+      "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "Leave a Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "45",
+      "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -623,18 +607,18 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Famous",
-        "url": "https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La"
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
       },
       "artists": [
         {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 210653,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -651,6 +635,22 @@
       "duration_ms": 258773,
       "name": "My Name Is Human",
       "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 326666,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 298600,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 232066,
       "name": "Away From The Sun",
       "url": "https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "Frogstomp (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 318320,
-      "name": "Israel's Son",
-      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
+        "name": "Frogstomp (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 318320,
+      "name": "Israel's Son",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
         "name": "The Punisher: The Album",
         "url": "https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 198360,
       "name": "Slow Chemical",
       "url": "https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 340106,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2022-06-28 19:49:04",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 340106,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
         "name": "OK, I'M SICK",
         "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 281226,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm"
+    },
+    {
+      "added_at": "2022-06-28 19:49:04",
+      "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw"
     },
     {
       "added_at": "2022-06-28 19:49:04",
@@ -1131,22 +1147,6 @@
       "duration_ms": 291053,
       "name": "Swallowed",
       "url": "https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d"
-    },
-    {
-      "added_at": "2022-06-28 19:49:04",
-      "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw"
     },
     {
       "added_at": "2022-06-28 19:49:04",

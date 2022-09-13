@@ -396,6 +396,32 @@
     },
     {
       "album": {
+        "name": "Can I Call You",
+        "url": "https://open.spotify.com/album/51IbpY4dtaQ0alpNOHhsgE"
+      },
+      "artists": [
+        {
+          "name": "The WAEVE",
+          "url": "https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6"
+        },
+        {
+          "name": "Rose Elinor Dougall",
+          "url": "https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Can I Call You",
+      "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
+    },
+    {
+      "album": {
         "name": "Cholericly Yours",
         "url": "https://open.spotify.com/album/62kE8wYDmoPC1crXWscfH7"
       },
@@ -465,6 +491,24 @@
       "duration_ms": 369879,
       "name": "Concrete Over Water",
       "url": "https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd"
+    },
+    {
+      "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266962,
+      "name": "Crosswalk",
+      "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
     },
     {
       "album": {
@@ -569,7 +613,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 204493,
       "name": "Dogma",
       "url": "https://open.spotify.com/track/2ldqnO15Wz4U6JJQrb8kMy"
@@ -1027,7 +1071,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 327198,
       "name": "Home to You",
       "url": "https://open.spotify.com/track/2YqA1ZZ62XKJry0BoQwNSx"
@@ -1285,6 +1329,28 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
+    },
+    {
+      "album": {
+        "name": "Just a moment",
+        "url": "https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv"
+      },
+      "artists": [
+        {
+          "name": "showmore",
+          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
+        },
+        {
+          "name": "Gimgigam",
+          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Just a moment",
+      "url": "https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC"
     },
     {
       "album": {
@@ -3109,7 +3175,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 226373,
       "name": "Xela",
       "url": "https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf"

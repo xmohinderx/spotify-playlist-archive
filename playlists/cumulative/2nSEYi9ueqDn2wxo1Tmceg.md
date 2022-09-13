@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-156 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+157 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Ivory](https://open.spotify.com/track/01lA7LzLNOtMugU03L6yiS) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Ivory](https://open.spotify.com/album/1v30M9fQVZntSi3Gz0eSUs) | 3:51 | 2022-06-08 | 2022-06-23 |
 | [Karaoke](https://open.spotify.com/track/4WCPrvhloByVBtR0A9hqoo) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Karaoke](https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ) | 3:41 | 2022-07-27 |  |
 | [Key To The City](https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Key To The City](https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L) | 3:40 | 2022-09-06 |  |
+| [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-12 |  |
 | [Lay Down Your Roses](https://open.spotify.com/track/62TP94nFhtUIkXu2lhMKXM) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Two Beauties](https://open.spotify.com/album/6cTVO4cyNK7bFGFh2ivUHQ) | 3:05 | 2022-06-08 | 2022-06-23 |
 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-07-12 |  |
 | [Lights \- A\. G\. Cook Remix](https://open.spotify.com/track/5lZjuVUB34aCKhhdZLA9C2) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Lights \(A\. G\. Cook Remix\)](https://open.spotify.com/album/0EQRviEK9W0ctBjGw5Li3S) | 2:41 | 2022-06-29 | 2022-08-18 |

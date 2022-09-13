@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:1bSPgPv4OyNIMnWqG7TtTf">Carolei</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,304 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,312 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bugie bianche](https://open.spotify.com/track/3adK6P8rQo1ILRRfiwHrif) | [Carolei](https://open.spotify.com/artist/1bSPgPv4OyNIMnWqG7TtTf) | [Bugie bianche](https://open.spotify.com/album/37Yadtrb8JoTs9hxSnmQMA) | 2:37 |
 | 2 | [Cantonese](https://open.spotify.com/track/0i4wYxlCCvNOUv2uEzbfsl) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [obliquo.](https://open.spotify.com/album/1amH3uLLjZvKl9SGCBk04l) | 3:40 |
 | 3 | [Baby stai con me](https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Baby stai con me](https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7) | 3:15 |
-| 4 | [UMMA](https://open.spotify.com/track/0hNNpnNncQWrxa1kr2er67) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [UMMA](https://open.spotify.com/album/4sGiaA89JRuo3IdIxAJfKd) | 3:48 |
+| 4 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
 | 5 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 |
 | 6 | [CCC](https://open.spotify.com/track/6F9L4qAPNYGOsZSEYdGk3U) | [Michelle, The Listless](https://open.spotify.com/artist/0Qk6tmdYV2gBJo4lS07hhz), [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq) | [CCC](https://open.spotify.com/album/0EcUuIu2kejaSul2I0e2jH) | 3:08 |
 | 7 | [Domenica Berici](https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 4:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Lunatico](https://open.spotify.com/track/7tS7fSQ34xZzMkWNNo1Sfm) | [Sparta](https://open.spotify.com/artist/0uxHBhXizaruxZJ58AgOiP) | [Lunatico](https://open.spotify.com/album/0SRb5UQmEezMHYkB4j0rCi) | 2:31 |
 | 55 | [LUNa!](https://open.spotify.com/track/5qTtF6151q9YE9LWNOIpQE) | [pikkoloATTIKO !! !](https://open.spotify.com/artist/3XClM6ocC58yvHFylO94Wy), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [LUNa!](https://open.spotify.com/album/2LAasDRBMXkgieRneqsqSF) | 2:34 |
 
-Snapshot ID: `MTY2MjkzMTIwMSwwMDAwMDAwMGY0ODljNmU2ZDg0ZDZiNzk2ZWJlNmE1NmU2MDY1OGIz`
+Snapshot ID: `MTY2Mjk3MzY0NywwMDAwMDAwMGI1MThhZWMwZGFiNjA5ZTE3YjYwNmE3MDY4ZGQ3ODg0`

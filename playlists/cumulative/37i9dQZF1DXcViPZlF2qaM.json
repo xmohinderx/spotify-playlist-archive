@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 392493,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 218640,
       "name": "Chango",
       "url": "https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
@@ -899,6 +899,28 @@
       "duration_ms": 174000,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8"
+    },
+    {
+      "album": {
+        "name": "Deep Cumbia",
+        "url": "https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542507,
+      "name": "Deep Cumbia",
+      "url": "https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL"
     },
     {
       "album": {
@@ -2748,6 +2770,28 @@
     },
     {
       "album": {
+        "name": "Semilla de Laurel",
+        "url": "https://open.spotify.com/album/3x1sFQ58wDd7t0Pa8abeZ9"
+      },
+      "artists": [
+        {
+          "name": "Eli Moya",
+          "url": "https://open.spotify.com/artist/6ikKwotJHytevUmECzLhww"
+        },
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245842,
+      "name": "Semilla de Laurel",
+      "url": "https://open.spotify.com/track/2CfWc68OcLYunEOLTpX0OS"
+    },
+    {
+      "album": {
         "name": "Ritmos de Acercamiento",
         "url": "https://open.spotify.com/album/5uUkISvym9YcOcYl3cQ0IS"
       },
@@ -2886,6 +2930,32 @@
     },
     {
       "album": {
+        "name": "Somos fuerza",
+        "url": "https://open.spotify.com/album/5shCavByeevmLtNUzdEkMx"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        },
+        {
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Somos fuerza",
+      "url": "https://open.spotify.com/track/0LUAnwFYiHiQvkl5Q3wljH"
+    },
+    {
+      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
@@ -2904,6 +2974,28 @@
     },
     {
       "album": {
+        "name": "Son del Jazm\u00edn",
+        "url": "https://open.spotify.com/album/60pOUZJOyhlmI5dUjMxQ1v"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        },
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337976,
+      "name": "Son del Jazm\u00edn",
+      "url": "https://open.spotify.com/track/0AZv0MWrg4ElVCqpz64qXZ"
+    },
+    {
+      "album": {
         "name": "Cumbia Amazonica",
         "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
@@ -2915,7 +3007,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 160306,
       "name": "Sonido Amazonico",
       "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"

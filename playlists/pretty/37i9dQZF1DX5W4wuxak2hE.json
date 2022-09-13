@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 124337,
+  "num_followers": 124390,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDgwMzBmNjRiN2IyNTI1ODEyNzI2ZGVjZGFmMzc4NzBh",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGUzM2Q2NWI2NjBjZTZhNjRmMmUyNzM0Y2ZlZDRhNTY1",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Say It Ain't So",
-      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "The Smiths",
         "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 162920,
       "name": "This Charming Man - 2011 Remaster",
       "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
+        "name": "Armed Forces (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 211630,
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of Donnie Iris",
         "url": "https://open.spotify.com/album/5SflwEXSYK6xowXF9SDrkF"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 222533,
       "name": "Ah! Leah!",
       "url": "https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "One Way Or Another",
-      "url": "https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm"
     }
   ],
   "unique_name": "Power Pop",

@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos
 
-266 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
+267 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/album/5YbnFaF9U2kEOYvMtp1QLe) | 4:19 | 2022-03-04 | 2022-09-03 |
 | [Que Sera de Mi](https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Que Sera de Mi](https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF) | 4:31 | 2022-09-09 |  |
 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 | 2022-03-04 | 2022-09-03 |
+| [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 | 2022-09-09 |  |
 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 | 2022-03-04 |  |
 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 | 2022-09-09 |  |
 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 | 2022-08-05 |  |
@@ -268,7 +269,7 @@
 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 | 2022-09-09 |  |
 | [Volvieron a Darme las 6](https://open.spotify.com/track/6XBhB6lKrqeAnKn4CB0sVz) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Colores \(Bachata Is Taking Over!\)](https://open.spotify.com/album/0e60AWHAGO3t7mNZPImsKA) | 4:10 | 2022-03-25 | 2022-09-03 |
 | [Volvio el dolor](https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 3:33 | 2022-09-09 |  |
-| [Vuelve](https://open.spotify.com/track/4mOrl5Eg5dogkuJmxDnsyr) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [Amor de Guerra](https://open.spotify.com/album/6x0ppUmVxxdl3z5hcDi2Jg) | 3:57 | 2022-09-09 |  |
+| [Vuelve](https://open.spotify.com/track/4mOrl5Eg5dogkuJmxDnsyr) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [Amor de Guerra](https://open.spotify.com/album/6x0ppUmVxxdl3z5hcDi2Jg) | 3:57 | 2022-09-09 | 2022-09-13 |
 | [With or Without You](https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:57 | 2022-09-09 |  |
 | [Ya Fué Bastante](https://open.spotify.com/track/0S76ldR7V4vQ0BDjRFKxi4) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:50 | 2022-05-20 | 2022-09-03 |
 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 | 2022-09-02 | 2022-09-10 |

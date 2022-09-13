@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 312497,
+  "num_followers": 312609,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDIxYWM4ZTdiM2FkMWIwNWIwYjMyYWY2YzFhM2ZhZmI2",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDIzZWU0YzZhNTNiZmUyMjM1ZjJmMjNlNWM3MzEyODk1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "At San Quentin",
+        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Sentimentally Yours",
         "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 127400,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/2LyRC7gfWFJd6JI5i8fTJe"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "At San Quentin",
-        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
-      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
         "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -483,22 +499,6 @@
       "duration_ms": 165186,
       "name": "Waiting Around to Die",
       "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
-      },
-      "artists": [
-        {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 133866,
       "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Walk Through This World With Me",
-        "url": "https://open.spotify.com/album/0fwh1xIpc0EuqWTIZGpci8"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "Walk Through This World With Me",
-      "url": "https://open.spotify.com/track/5O3EyD5kv3n3lGFIWNBSWO"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Down Every Road 1962-1994",
         "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 164106,
       "name": "Okie From Muskogee",
       "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Walk Through This World With Me",
+        "url": "https://open.spotify.com/album/0fwh1xIpc0EuqWTIZGpci8"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "Walk Through This World With Me",
+      "url": "https://open.spotify.com/track/5O3EyD5kv3n3lGFIWNBSWO"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
-      },
-      "artists": [
-        {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
-        }
-      ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 154626,
       "name": "I Don't Wanna Play House",
       "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+      },
+      "artists": [
+        {
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 148000,
       "name": "Above And Beyond",
       "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2022-07-29 04:02:00",

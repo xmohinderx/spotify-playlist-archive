@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43169,
+  "num_followers": 43177,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkzNCw1NjJmYzJkZmE3MjZlNWUwOWRkMTRmZjJhYzQ5MDExMjlhNjYyOWY1",
+  "snapshot_id": "MjkzNiw1NGQ1NjVhNzNkZGEzODgzYThjNTBjNzNkMjc3NjgxYjRkYjJhYzZh",
   "tracks": [
+    {
+      "added_at": "2022-09-12 08:28:51",
+      "album": {
+        "name": "Toronto Funhouse",
+        "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 120693,
+      "name": "Toronto Funhouse",
+      "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
+    },
     {
       "added_at": "2022-09-09 07:57:47",
       "album": {
@@ -419,26 +435,6 @@
       "duration_ms": 178500,
       "name": "Hair Like You",
       "url": "https://open.spotify.com/track/7ilG2HpVcH3WtdKaF3i1dV"
-    },
-    {
-      "added_at": "2022-06-24 08:09:22",
-      "album": {
-        "name": "Space Birds",
-        "url": "https://open.spotify.com/album/2BMLZaPguH55Qc95D7ptOE"
-      },
-      "artists": [
-        {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
-        },
-        {
-          "name": "TONG",
-          "url": "https://open.spotify.com/artist/67cqVjONTBOiGNhEx9T8FB"
-        }
-      ],
-      "duration_ms": 161252,
-      "name": "Space Birds",
-      "url": "https://open.spotify.com/track/6h09oYGOD7u3JJcVA9CvcC"
     },
     {
       "added_at": "2021-11-05 15:47:43",

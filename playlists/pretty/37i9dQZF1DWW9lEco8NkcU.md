@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9lEco8NkcU.md) - [plain]
 
 > what are they doing up there?
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,503 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,552 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9lEco8NkcU.md) - [plain]
 | 23 | [Me and Wayne Rogers](https://open.spotify.com/track/4hv71vgTltTUMqlaaTr3Lz) | [Azusa Plane](https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB) | [Where the Sands Turn to Gold](https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA) | 1:31 |
 | 24 | [Kola Superdeep Borehole](https://open.spotify.com/track/4hQMZNO2nuQJUtSAolZg2p) | [Jim O'Rourke](https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f), [Elliott Sharp](https://open.spotify.com/artist/17PS6mukckWnUN4DwilBBs) | [Sakuraza](https://open.spotify.com/album/75nKCPFv0OkSZIFKrGzd61) | 3:34 |
 | 25 | [疑問](https://open.spotify.com/track/3Y7FLrPq4Pax1H8WALHqp9) | [webdriver胴体](https://open.spotify.com/artist/1BRyH0SgZNPmfaPZl8hdPk) | [花が萎凋](https://open.spotify.com/album/4ptVntox896NN5eiFXjocg) | 0:51 |
-| 26 | [Water Fairy Moon](https://open.spotify.com/track/4L5zE3VJSKi6ERhsjrS2Xk) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [Nymph Tones](https://open.spotify.com/album/77rg7n08qydML6kMXvOw1c) | 2:58 |
+| 26 | [Water Fairy Moon](https://open.spotify.com/track/2XKiW8QkcpWExtzFP6uba5) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [Nymph Tones](https://open.spotify.com/album/5vEMPjJgxW0rb2Z52FRdhK) | 2:58 |
 | 27 | [world of possibility II](https://open.spotify.com/track/5VukoXwwSyvt0kY2Cf2HaT) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 3:08 |
 | 28 | [in search of the golden horse](https://open.spotify.com/track/7wtgh498OV8HG3TXgRDy3F) | [document1](https://open.spotify.com/artist/7uI1OrKEj7NyJVZjqlEG0P) | [in search of the golden horse](https://open.spotify.com/album/1rTOAm2qzJP32quoeCMqOC) | 2:26 |
 | 29 | [forever passing](https://open.spotify.com/track/42iqOnsQRXY8cAFyP8mpep) | [Byelti](https://open.spotify.com/artist/6bdFkBtj91aLGfeMzRzXOQ) | [Threads](https://open.spotify.com/album/47mzmxt5k3rXC2Jz2Dj5pU) | 3:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9lEco8NkcU.md) - [plain]
 | 59 | [Drive It Like You Stole It \- Ambient Version](https://open.spotify.com/track/3WMTRr53rc5rsSQ3Qaefam) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Drink the Sea \(Ambient Version\)](https://open.spotify.com/album/1gHeBH5qZs2OGKfp0eGjjM) | 4:29 |
 | 60 | [return trip](https://open.spotify.com/track/6R7LCiocE6XsF4bmD6cnkz) | [aeroxone](https://open.spotify.com/artist/1RfT7VjWufW7BOVCG3MLOa) | [unknown destination](https://open.spotify.com/album/4TntYRd05wSHWg1q2MnCgB) | 1:22 |
 
-Snapshot ID: `MTY2MDkyOTQzNiwwMDAwMDAwMGJmYmE1YTA3YjkxMzFlYzZjYTY0ZTE1ZjY1MGI3YjEz`
+Snapshot ID: `MTY2MDkyOTQzNiwwMDAwMDAwMDE1MjFkY2ExZDk1YzQyYjZmZDNjMmM2ZmY4MTFjNmJi`

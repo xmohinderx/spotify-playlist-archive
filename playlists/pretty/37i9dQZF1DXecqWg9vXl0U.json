@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Clara Yolks.",
-  "num_followers": 32384,
+  "num_followers": 32452,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5NDgwMCwwMDAwMDAwMDdjMGZmYjBlNmQzNGM4YTg3N2IwM2FmNjNiOWFhZWNl",
+  "snapshot_id": "MTY2MjA5NDgwMCwwMDAwMDAwMGIzZDQ5MDhiMjI4ZDNhYmVjYjIzYzEyM2Q3MzhiYWEw",
   "tracks": [
     {
       "added_at": "2022-09-02 05:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 207024,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Muchas Cosas",
         "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 152133,
       "name": "Muchas Cosas",
       "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 207024,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -327,42 +327,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Fin Del Mundo (with Bratty)",
-        "url": "https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Fin Del Mundo (with Bratty)",
-      "url": "https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Vuelta en U",
         "url": "https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy"
       },
@@ -395,6 +359,42 @@
       "duration_ms": 180313,
       "name": "pikito",
       "url": "https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Fin Del Mundo (with Bratty)",
+        "url": "https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Fin Del Mundo (with Bratty)",
+      "url": "https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "Volver A Empezar",
+        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 175596,
+      "name": "Volver A Empezar",
+      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 155253,
       "name": "Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Volver A Empezar",
-        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 175596,
-      "name": "Volver A Empezar",
-      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Nunca Te Dejar\u00e9 Ir",
-        "url": "https://open.spotify.com/album/2DJ7QXD6yaWvyylxsizFcx"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 114042,
-      "name": "Nunca Te Dejar\u00e9 Ir",
-      "url": "https://open.spotify.com/track/0FB054yjgRBv1sWNNFoMxS"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -631,22 +615,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Pens\u00e1ndote",
-        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "SUPPLY & DEMAND",
         "url": "https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p"
       },
@@ -659,6 +627,22 @@
       "duration_ms": 146981,
       "name": "SUPPLY & DEMAND",
       "url": "https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Pens\u00e1ndote",
+        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 147300,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -695,22 +679,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "However Many Days",
-        "url": "https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy"
-      },
-      "artists": [
-        {
-          "name": "Atomic Blue",
-          "url": "https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ"
-        }
-      ],
-      "duration_ms": 226936,
-      "name": "Disco Baby",
-      "url": "https://open.spotify.com/track/4E4Zsbxs0BcqYPeTqx0Hdx"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Polaroid Paradise",
         "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
       },
@@ -727,18 +695,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+        "name": "However Many Days",
+        "url": "https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Atomic Blue",
+          "url": "https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ"
         }
       ],
-      "duration_ms": 206489,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+      "duration_ms": 226936,
+      "name": "Disco Baby",
+      "url": "https://open.spotify.com/track/4E4Zsbxs0BcqYPeTqx0Hdx"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -755,6 +723,22 @@
       "duration_ms": 126227,
       "name": "Espinas De Rosas",
       "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206489,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -791,6 +775,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Dulce Amargo",
+      "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "Amor Como Pu\u00f1al",
+        "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Dulce Amargo",
-      "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
+      "duration_ms": 181600,
+      "name": "Amor Como Pu\u00f1al",
+      "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Amor Como Pu\u00f1al",
-        "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Amor Como Pu\u00f1al",
-      "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/25At4hX7SKuKb4jPtaGRmC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 133714,
       "name": "Young",
       "url": "https://open.spotify.com/track/47VlZn29DoKGOL64qbqxvt"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -907,38 +907,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242407,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "What Do You Want It To Be?",
         "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
       },
@@ -951,6 +919,22 @@
       "duration_ms": 242241,
       "name": "Gardenia Dreams",
       "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "duration_ms": 242407,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -991,22 +975,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Mr. Baby",
-        "url": "https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 188501,
-      "name": "Mr. Baby",
-      "url": "https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Polaroid Paradise",
         "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
       },
@@ -1023,18 +991,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
+        "name": "Mr. Baby",
+        "url": "https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW"
       },
       "artists": [
         {
-          "name": "Mila",
-          "url": "https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5"
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
         }
       ],
-      "duration_ms": 193274,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
+      "duration_ms": 188501,
+      "name": "Mr. Baby",
+      "url": "https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "Nostalgia Pop",
+        "url": "https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 96735,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Fosis Met Amor",
         "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Nostalgia Pop",
-        "url": "https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I"
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Mila",
+          "url": "https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5"
         }
       ],
-      "duration_ms": 96735,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky"
+      "duration_ms": 193274,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 343413,
       "name": "Tiempo Compartido",
       "url": "https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Okay!",
+        "url": "https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

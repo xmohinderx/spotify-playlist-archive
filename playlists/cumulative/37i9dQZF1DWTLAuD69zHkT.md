@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-67 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+69 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 | 2022-07-13 |  |
 | [Cherry Pickin' Blues](https://open.spotify.com/track/5jQzD7M8t0EjR3lK1MN7Bt) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 3:29 | 2022-07-13 |  |
 | [Come On In This House](https://open.spotify.com/track/4FOJYIDHcuvu7JWQkDIQmd) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Come On In This House](https://open.spotify.com/album/6keYEl1L883Nzm1EHU6JcB) | 5:53 | 2022-07-13 |  |
+| [Crescent City Blues](https://open.spotify.com/track/2MYVRxroTD3cChZH6KlRwh) | [The New Hot Frogs](https://open.spotify.com/artist/3Udu6p6dy4INkZY5yKZ6qM), [Pat Yankee](https://open.spotify.com/artist/0X0t6cRRXOrgyqc3FEWcsz) | [Together at Last!](https://open.spotify.com/album/5JMEguLEL2N1vYLMcuZDzO) | 3:17 | 2022-09-12 |  |
 | [Dirty Pool](https://open.spotify.com/track/66mtQ5mRlw7ys2NJCkdJhz) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:00 | 2022-07-13 |  |
 | [Don't You Leave Me Here](https://open.spotify.com/track/5IJffuRk0JHYELKPiMUg6j) | [Larry Johnson](https://open.spotify.com/artist/4QSzvmywSXYxbs7jn4xjFt) | [Blues for Harlem](https://open.spotify.com/album/63voCNAcgApZx4SQO24FLo) | 3:37 | 2022-07-13 |  |
 | [Easy Listening Blues](https://open.spotify.com/track/71OWPiscExYZZ04fFsZus3) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [With Respect To Nat](https://open.spotify.com/album/1MS5ICC5f8SkA5YHt9cuWH) | 3:23 | 2022-07-13 |  |
@@ -32,6 +33,7 @@
 | [Fine Fat Daddy](https://open.spotify.com/track/5Rr8ikDdsamSpjUu9uUabY) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:20 | 2022-07-13 |  |
 | [Fine Little Angel \(Take 2\)](https://open.spotify.com/track/5EP7cCsnijchK08uL6lINe) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 4:15 | 2022-07-13 |  |
 | [Glory Be](https://open.spotify.com/track/25H4Ux5UrzQz2LEqtGq5C6) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:26 | 2022-07-13 |  |
+| [Goin' Down Slow](https://open.spotify.com/track/5srIpIuhGKnPuiDcoaz1tw) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:04 | 2022-09-12 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-07-13 |  |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2022-07-13 |  |
 | [I Am A Motherless Child](https://open.spotify.com/track/7kzNmm0Q4ElZ5YyjJxs3pP) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Bold Soul Sister: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/3o9NHT9ox7Is7ZzQXm2OE9) | 3:29 | 2022-07-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 580034,
+  "num_followers": 580317,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDdmODg4MWU5MjEzYjMzYmUwMWFlYmZkZDIwZGY1Zjgz",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDkwYjhhMDM2NTc2YzljMTRlOGNiNDQ1NDkyNzkxYjI3",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 185360,
       "name": "Time Marches On",
       "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
         }
       ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -895,22 +895,6 @@
       "duration_ms": 221240,
       "name": "Country Again",
       "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Boots On",
-      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Don't Close Your Eyes",
         "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 252626,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Boots On",
+      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+      "duration_ms": 228733,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 169095,
       "name": "Shakin' In Them Boots",
       "url": "https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Some Things I Know",
-        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "I'll Think Of A Reason Later",
-      "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+        "name": "Some Things I Know",
+        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
       },
       "artists": [
         {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Ten Thousand Angels",
-      "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
+      "duration_ms": 218666,
+      "name": "I'll Think Of A Reason Later",
+      "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1623,18 +1607,34 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Hell on an Angel",
-        "url": "https://open.spotify.com/album/1V6RHh2eMlzWTgcEPgOAbu"
+        "name": "Ten Thousand Angels",
+        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
       "artists": [
         {
-          "name": "Dillon Carmichael",
-          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+          "name": "Mindy McCready",
+          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
         }
       ],
-      "duration_ms": 227198,
-      "name": "Dancing Away with My Heart",
-      "url": "https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM"
+      "duration_ms": 207226,
+      "name": "Ten Thousand Angels",
+      "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Sounds So Good",
+        "url": "https://open.spotify.com/album/6z5A4jV5MDikX4blitvPiO"
+      },
+      "artists": [
+        {
+          "name": "Ashton Shepherd",
+          "url": "https://open.spotify.com/artist/43eAoOm70bzBUNs4JKP5nE"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Sounds So Good",
+      "url": "https://open.spotify.com/track/6ONHzocQurXRl6HkQ4th2y"
     }
   ],
   "unique_name": "Traditional Country",

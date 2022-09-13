@@ -4,7 +4,7 @@
 
 > Songs from all genres get a punk rock makeover.
 
-188 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/5mFudwF8WaoxgZwyt9a9md)
+189 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5mFudwF8WaoxgZwyt9a9md)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 | 2021-03-19 |  |
 | [The Kids Aren't Alright](https://open.spotify.com/track/0eHAzqStHGHosbA9XtwDDA) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Cross fire](https://open.spotify.com/album/0kUpO5H0KcyBLz0VNQtSsE) | 3:00 | 2021-03-19 | 2022-09-09 |
 | [The Kids Aren't Alright](https://open.spotify.com/track/3qiC3SMdDk0JgBa90CTqLC) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [The Kids Aren't Alright](https://open.spotify.com/album/29miC7SQyoi7N1fXHPoIAF) | 3:00 | 2021-03-19 | 2022-07-29 |
+| [The kids aren't alright](https://open.spotify.com/track/3v7u4pUZcvpxDtPgwMMh5u) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Kill us all](https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF) | 3:00 | 2021-03-19 |  |
 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 | 2021-03-19 |  |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/4dUedvWuuvVMW5qwdGfyrE) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4USDJ3abnqMqHJxL2IRgPu) | 3:23 | 2021-03-19 |  |
 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 | 2021-03-19 |  |
@@ -188,7 +189,7 @@
 | [You Know What They Do to Guys Like Us in Prison?](https://open.spotify.com/track/5uMzJjtKDfjdlLFk1o3LJA) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [You Know What They Do to Guys Like Us in Prison?](https://open.spotify.com/album/3knnAizP9xFSPpySyYWQG0) | 3:00 | 2021-03-19 | 2022-07-28 |
 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 | 2021-03-19 |  |
 | [You're Dead / Vampire Ska](https://open.spotify.com/track/71ikNNbcGUjcid5nD5Q2rZ) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/5vlfE9S9ERjZPFObxmoWpJ) | 2:29 | 2021-03-19 | 2022-07-28 |
-| [Young and Beautiful](https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Young and Beautiful](https://open.spotify.com/album/1e5OLy9DPv7iKd6wOMY9G7) | 3:48 | 2021-03-19 |  |
+| [Young and Beautiful](https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Young and Beautiful](https://open.spotify.com/album/1e5OLy9DPv7iKd6wOMY9G7) | 3:48 | 2021-03-19 | 2022-09-13 |
 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 | 2021-03-19 |  |
 | [Your Graduation](https://open.spotify.com/track/28yJKwgBMenhf5VZn4M87U) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Your Graduation](https://open.spotify.com/album/25XnjAZVINPXDBeifHQxiJ) | 2:40 | 2021-03-19 |  |
 | [Your Graduation](https://open.spotify.com/track/60JEaJ5zxQFzW3VL2oeFxc) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 2:40 | 2021-03-19 | 2022-07-29 |
