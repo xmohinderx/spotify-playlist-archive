@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shakila Anjani\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,995 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,999 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 4 | [look at me](https://open.spotify.com/track/6qFhTZj7nNjCIvxkrHCDiD) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [look at me](https://open.spotify.com/album/7Cvw5WZGvP0o3BU9IVRfEC) | 2:54 |
 | 5 | [Janji Bunga Matahari](https://open.spotify.com/track/1ctQaJ4A4XeBBPKGB0GFCd) | [Aion](https://open.spotify.com/artist/33ctTCRs8xGBWNdtOcPtkm) | [Janji Bunga Matahari](https://open.spotify.com/album/2spZBfgIx78LibltNWM2Ft) | 5:04 |
 | 6 | [You Got Me](https://open.spotify.com/track/3LV5p2x6bhaIQtDadXRU8W) | [Sachiko](https://open.spotify.com/artist/6zoDcc5jPDXMtR0kpnZgAD) | [You Got Me](https://open.spotify.com/album/3SurZEU2wJ3MqvAUoaNZHN) | 3:24 |
-| 7 | [Free Soul](https://open.spotify.com/track/0X2B2kZAz2Kuj763RMg0nO) | [Ave](https://open.spotify.com/artist/5sDVc67AHtuiZEJh5rmnXE) | [Free Soul](https://open.spotify.com/album/1AAkHnnnM4kkNLRD7nj2QR) | 2:56 |
+| 7 | [Free Soul](https://open.spotify.com/track/0X2B2kZAz2Kuj763RMg0nO) | [Ave](https://open.spotify.com/artist/3VioBiNqhpofNauSZdJ2Rc) | [Free Soul](https://open.spotify.com/album/1AAkHnnnM4kkNLRD7nj2QR) | 2:56 |
 | 8 | [Sorry I Couldn't Change](https://open.spotify.com/track/7n9LJtBgROFDlwbgbjrr1X) | [Ta Litha](https://open.spotify.com/artist/3TlOMD49qxoOlzVPfexgKK) | [Sorry I Couldn't Change](https://open.spotify.com/album/2jHMcxTMtkhgNhjIivsd6D) | 3:07 |
 | 9 | [LUKEWARM](https://open.spotify.com/track/1QTof3zC0UqzCxVA9jVkbF) | [Jordie Yose](https://open.spotify.com/artist/6VywJDkajUQLLBojKT4C4L), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [LUKEWARM](https://open.spotify.com/album/5SV8FQesh6Aam6JSEmDDux) | 4:51 |
 | 10 | [Maroon](https://open.spotify.com/track/3CB898LL2c4pTI1oFg79TK) | [Abraham](https://open.spotify.com/artist/4383DM860Hu5PCTjt7lIoa), [Daniel Belza](https://open.spotify.com/artist/3AWO5MwTlsVZNunPDhzFfC) | [Maroon](https://open.spotify.com/album/0YlsdSgYkRR7B0Bjn31C2h) | 3:58 |

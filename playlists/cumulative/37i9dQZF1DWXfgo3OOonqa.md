@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-559 songs - 1 day 0 hr 59 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+561 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [KARANTÄN](https://open.spotify.com/track/505kSNIUlxBUiDIgP2JFsz) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [KARANTÄN](https://open.spotify.com/album/5tpyOU7fsPLkSP0o9ST5Fj) | 2:24 | 2022-03-03 | 2022-03-25 |
 | [KELLY](https://open.spotify.com/track/10DqAzeTQK8VD8I9d9yWgz) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj) | [KELLY](https://open.spotify.com/album/0AvpwyVQTI3GTyCnLFGoxA) | 2:05 | 2022-01-13 | 2022-01-28 |
 | [KILOS](https://open.spotify.com/track/1145wCgJadxbGYeIPYuZ5W) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [KILOS](https://open.spotify.com/album/0fHUiOAKyUnZyovkkw97tg) | 3:08 | 2021-12-16 | 2022-01-14 |
-| [Know Me](https://open.spotify.com/track/1SctcNUVZfMMJZrs6TvnpN) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:25 | 2022-09-08 |  |
+| [Know Me](https://open.spotify.com/track/1SctcNUVZfMMJZrs6TvnpN) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:25 | 2022-09-08 | 2022-09-15 |
+| [Know Me](https://open.spotify.com/track/1wFFnhwaHAYSMM2JPsaYIF) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN) | 2:25 | 2022-09-12 |  |
 | [Kolla mig i ögonen](https://open.spotify.com/track/2nad3qYiFkWR6CEYbz3VUH) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:15 | 2022-06-07 | 2022-06-10 |
 | [Kolla på mig nu](https://open.spotify.com/track/5wGxkWz2qIJVnDdtocTtOI) | [Yousef](https://open.spotify.com/artist/6QqjrHPQjqUa9TJLJpihly) | [Kolla på mig nu](https://open.spotify.com/album/6YtP6YoL5XrHoGdnxuFjc7) | 2:17 | 2022-06-30 | 2022-07-15 |
 | [Komet](https://open.spotify.com/track/4rJBqziHSgtUyij65GFqJU) | [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Komet](https://open.spotify.com/album/44kPGfkP0V0RN6R2mbQvr9) | 3:31 | 2022-02-03 | 2022-02-18 |
@@ -529,7 +530,8 @@
 | [Vacker](https://open.spotify.com/track/0lIUJSC8eyYXwCbf9chmNY) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:29 | 2022-04-28 | 2022-05-12 |
 | [VAD E DE HÄR?](https://open.spotify.com/track/30wWZkgDfUCugZlBiaDCax) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [VAD E DE HÄR?](https://open.spotify.com/album/7c5UGlBUaND72lQ8lMesHv) | 2:41 | 2022-07-14 |  |
 | [VaMeMej](https://open.spotify.com/track/1xx2dch3nmRjD5gCYFKUkx) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv) | [VaMeMej](https://open.spotify.com/album/0nEQTdFp5CxOiGG9uuzGcF) | 2:33 | 2022-09-08 |  |
-| [Vamos](https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:41 | 2022-09-08 |  |
+| [Vamos](https://open.spotify.com/track/6N3q7NSmlxB7TNJkyzfYcb) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN) | 2:41 | 2022-09-12 |  |
+| [Vamos](https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:41 | 2022-09-08 | 2022-09-15 |
 | [Vant Mig](https://open.spotify.com/track/3cJA0GAQorbqIIZcOU5iNi) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO](https://open.spotify.com/album/6dmKNqyiMgp26yJ3EIyuvq) | 2:33 | 2022-01-20 | 2022-03-05 |
 | [Vara jag](https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Vara jag](https://open.spotify.com/album/2rgcBjdReUbm1x0q219YtJ) | 2:06 | 2022-08-05 |  |
 | [VCFlow](https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [VCFlow](https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q) | 3:02 | 2022-01-25 | 2022-03-25 |

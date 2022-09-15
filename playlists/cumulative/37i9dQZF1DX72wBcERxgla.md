@@ -4,13 +4,14 @@
 
 > Jazz piano to accompany your reading.
 
-172 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+174 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-08 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-04-12 |  |
 | [A Future With You](https://open.spotify.com/track/1ndjWsO1Ft9kY6bqOTngmI) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 3:17 | 2022-08-17 |  |
+| [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 |  |
 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 | 2022-04-12 |  |
 | [After The Rain](https://open.spotify.com/track/1mLzJfxZVjF9MVUb1AEs8C) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Plays John Coltrane At The Village Vanguard](https://open.spotify.com/album/0utLknrD4Ylp6s4r5KMoPJ) | 3:37 | 2022-04-12 | 2022-04-27 |
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2022-04-12 |  |
@@ -122,6 +123,7 @@
 | [Round Midnight](https://open.spotify.com/track/7ioE8qdziQjlYWlIuhflyg) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Round Midnight](https://open.spotify.com/album/63zAUuCZEx8JSOkNTVALFC) | 3:52 | 2022-04-12 |  |
 | [Sad Eyes](https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Sad Eyes](https://open.spotify.com/album/4fgNlENNCWFn1lnYYzih0B) | 3:44 | 2022-04-12 |  |
 | [Saint James Infirmary Blues](https://open.spotify.com/track/076g7APvGbCYC9wYiropf8) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Saint James Infirmary Blues](https://open.spotify.com/album/0UIZgy3M75tnAlxUKAxQPn) | 2:04 | 2022-08-30 |  |
+| [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2022-09-13 |  |
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2022-04-12 | 2022-06-15 |
 | [Sharing](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 | 2022-04-12 |  |
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2022-04-12 |  |

@@ -4,7 +4,7 @@
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-154 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
+155 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Time's Always Leaving](https://open.spotify.com/track/4TXiPzOZanpYIUXuNwHzlZ) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Time's Always Leaving](https://open.spotify.com/album/5kAHEuWi7anBhN7EgHpX1R) | 3:17 | 2021-10-01 | 2022-07-29 |
 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 | 2021-10-01 | 2022-07-29 |
 | [Trinity Lane](https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Trinity Lane](https://open.spotify.com/album/1r27NAhNdnPF1Ud6UOf7MR) | 3:53 | 2021-10-01 | 2022-04-21 |
-| [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:22 | 2021-10-01 |  |
+| [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:22 | 2021-10-01 | 2022-09-15 |
+| [Uh Huh](https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:22 | 2021-10-01 |  |
 | [Van Dyke Brown](https://open.spotify.com/track/1D8iUDeYeouDd3XrRKcuQ5) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Kindness, A Rebel](https://open.spotify.com/album/71phqXMIHQNz7qLUWMl7Sy) | 4:07 | 2021-10-01 | 2022-07-28 |
 | [Wait So Long](https://open.spotify.com/track/4HOEtNrHVqKT3iOk8MrIxj) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/20Qgovu90SjEo63L7inaTr) | 3:24 | 2021-10-01 | 2022-04-19 |
 | [Wait so Long](https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62) | 3:26 | 2021-10-01 |  |

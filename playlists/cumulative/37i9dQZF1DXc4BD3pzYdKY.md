@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: nobigdyl.
 
-655 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+656 songs - 1 day 9 hr 10 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 | 2022-04-29 | 2022-07-23 |
 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 | 2022-08-06 |  |
 | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/track/7lgSu9ocppDwVDOvr8L4cJ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/album/0unGJPuRmYzRbkg43p79Pt) | 3:15 | 2021-12-11 | 2022-02-05 |
+| [Good Side \(feat\. Mariah Anae\)](https://open.spotify.com/track/6cGb1dZAsMlLSW0NSurzpE) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Mariah Anae](https://open.spotify.com/artist/25hDGQnara5RgwMDnUPJA1) | [Good Side \(feat\. Mariah Anae\)](https://open.spotify.com/album/27pnp88if0j81KeSQesPEX) | 4:06 | 2022-09-11 |  |
 | [GOOD TO ME](https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [GOOD TO ME](https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek) | 3:27 | 2022-09-11 |  |
 | [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 | 2022-07-17 | 2022-09-12 |
 | [Gotta Wait \(feat\. Eris Ford\)](https://open.spotify.com/track/19o1cnz9syo7tH9zUwpelk) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Gotta Wait \(feat\. Eris Ford\)](https://open.spotify.com/album/69HpLMayRJLXoKsmVH6Bi2) | 3:15 | 2021-12-11 | 2022-02-05 |
@@ -373,7 +374,7 @@
 | [Never Change](https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Never Change](https://open.spotify.com/album/5RWc74ZeXbwi0xMYyg8Elc) | 3:01 | 2021-12-11 | 2022-04-29 |
 | [Never Going Back](https://open.spotify.com/track/3Xda2Z3ETpCPMdbeUXNudm) | [R\. Collins](https://open.spotify.com/artist/5Eh9luUDjUQ0p8xHTCLVps), [Gospel Mike](https://open.spotify.com/artist/5g4I1KLrf2pMfzQWrRwyqL) | [Never Going Back](https://open.spotify.com/album/4WbkrnBsjpdDZ75agVs6ar) | 3:37 | 2021-12-11 | 2022-02-02 |
 | [Never Leave Me](https://open.spotify.com/track/750IEpoifcy2HeUbZdBtuM) | [Bryann T](https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [Ray Yung](https://open.spotify.com/artist/0zZb8rW9zsevcZi72WM9RJ) | [Keep It Kingdom](https://open.spotify.com/album/3MlxrwLeigcp0s9GMBwEAH) | 4:45 | 2022-04-29 | 2022-08-07 |
-| [Never Scared](https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt) | 3:16 | 2022-08-06 |  |
+| [Never Scared](https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt) | 3:16 | 2022-08-06 | 2022-09-15 |
 | [New Day](https://open.spotify.com/track/5DPZx70S847lrn640OizK3) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day](https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H) | 3:01 | 2022-07-17 |  |
 | [New Level](https://open.spotify.com/track/28YWHjBQY8Thn65P7wnF4O) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [New Level](https://open.spotify.com/album/4aA8CI2CJv5gffAePjQAOe) | 2:36 | 2022-02-04 | 2022-03-13 |
 | [New Skies](https://open.spotify.com/track/7dhzAFqDTOTUNVnb7rkygk) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Kiddy Bizness](https://open.spotify.com/artist/4mbZEgNMKmtyxZlVjZacVV) | [Soul Therapy](https://open.spotify.com/album/0cegkmOz0rgVbpQYtmcETo) | 4:03 | 2021-12-11 | 2022-04-29 |

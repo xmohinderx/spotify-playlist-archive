@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Celebrating 20 years of Songs For The Deaf
 
-256 songs - 23 hr 52 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+257 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 | 2021-11-30 | 2022-06-25 |
 | [Burning Planet](https://open.spotify.com/track/1q7nVW28Sj9UzLbsQ8moCp) | [Lord Vapour](https://open.spotify.com/artist/4k2Remoagbeqqoh5C5MDuz) | [Semuta](https://open.spotify.com/album/2dJ5HeNcfd7Xgl98EWYnaP) | 5:49 | 2022-01-14 | 2022-02-19 |
 | [Cactus](https://open.spotify.com/track/33E8wWq7EO0wKObVxgv2DW) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/4GzKoHmSWH8d9QmAW679es) | 5:49 | 2021-11-30 | 2022-07-29 |
+| [Cactus](https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I) | 5:49 | 2022-08-26 |  |
 | [Calm Before the Storm](https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [V](https://open.spotify.com/album/2st5WC99waH8DaN3naNq32) | 8:15 | 2021-11-30 |  |
 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 | 2021-11-30 |  |
 | [Chocolatize](https://open.spotify.com/track/3D2r5tK7FLa35ustREymTd) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Mankind Woman](https://open.spotify.com/album/6ho3UoTbxC0DnYV7BAx7Q4) | 2:34 | 2021-11-30 | 2022-02-15 |
@@ -105,7 +106,7 @@
 | [Get It](https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee) | [Buffalo Killers](https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV) | [Dig\. Sow\. Love\. Grow.](https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2) | 3:10 | 2022-04-28 |  |
 | [Ghost In My Speaker](https://open.spotify.com/track/4iv6rGqTTY9OPo3gO9kImr) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Love, Sex, Volume](https://open.spotify.com/album/5c8n4VqsS8iUCCSJtBBsWQ) | 4:17 | 2021-11-30 | 2022-07-24 |
 | [Gimme the Keys](https://open.spotify.com/track/2spBFZ0QX3dr0litwWfsmC) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Book of Bad Decisions](https://open.spotify.com/album/4NhNjAi8FbwJQBsYf7BSfS) | 3:32 | 2021-11-30 | 2022-07-29 |
-| [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 | 2021-11-30 |  |
+| [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 | 2021-11-30 | 2022-09-15 |
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2021-11-30 | 2022-02-14 |
 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 | 2021-11-30 | 2022-07-19 |
 | [Grasping Time \- Single Version](https://open.spotify.com/track/27DIYmcXxMNNVztsjiCApl) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Grasping Time](https://open.spotify.com/album/5z4BnCZGs1JX8oIhUyedjW) | 4:20 | 2021-11-30 | 2022-02-08 |

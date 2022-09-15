@@ -4,11 +4,12 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-319 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
+320 songs - 21 hr 8 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Shake, Shake, Shake\) Shake Your Booty](https://open.spotify.com/track/5cqEarhd7w3bw4SN2Om9dp) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [15 Classic Tracks: KC and the Sunshine Band](https://open.spotify.com/album/1I3GVDXwLPy9R10xyqV6l6) | 3:05 | 2021-03-22 | 2022-07-29 |
+| [\(Shake, Shake, Shake\) Shake Your Booty](https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 3:06 | 2021-03-22 |  |
 | [A Glass Of Champagne](https://open.spotify.com/track/3lm0QsdpQrypDUbHexpVWK) | [Sailor](https://open.spotify.com/artist/4pE3KE9J1Z1LKzjwLtWU21) | [Sailor's Greatest Hits](https://open.spotify.com/album/11k08Ul8tAN5cu7JozYldn) | 2:34 | 2021-09-08 | 2022-07-29 |
 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 | 2021-03-22 | 2022-07-29 |
 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 | 2021-03-22 |  |
@@ -264,7 +265,7 @@
 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 | 2021-03-22 |  |
 | [Summerlove Sensation](https://open.spotify.com/track/70hTmZPoBFDIjqnnxahTf5) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Bay City Rollers \- The Best Of](https://open.spotify.com/album/1HG3FGlUe4Q5yQPtnBusYY) | 3:15 | 2021-09-08 | 2022-07-29 |
 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 | 2021-03-22 |  |
-| [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 | 2021-09-08 |  |
+| [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 | 2021-09-08 | 2022-09-15 |
 | [Superstar](https://open.spotify.com/track/5B7S7GjR1tuyeDLSRNiTMO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR), [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Tim Rice](https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh), [The Trinidad Singers](https://open.spotify.com/artist/6pgLxFqJE6Wm9wWyM2iFEn) | [Jesus Christ Superstar](https://open.spotify.com/album/32tSaPx5IHoxZiZHXLhH61) | 4:15 | 2021-09-08 | 2022-07-25 |
 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 | 2021-03-22 |  |
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2021-03-22 |  |

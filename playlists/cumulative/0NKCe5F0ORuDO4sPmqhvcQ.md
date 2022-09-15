@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-298 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+299 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-11-12 | 2022-01-08 |
 | [EYES LOW // YOU](https://open.spotify.com/track/2Jd3nVTSL52nXzEILa8bUM) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 5:03 | 2022-04-18 |  |
 | [Fa111en Angels](https://open.spotify.com/track/2nAVOPiURJ8CYwFEFq3HBU) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:47 | 2021-12-07 | 2022-01-08 |
+| [fade](https://open.spotify.com/track/0Pi7TJXg48pyHaAPP4b1I7) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [..\. Onward](https://open.spotify.com/album/7DJ0bdtLsehTTj541oS2Pk) | 2:49 | 2022-09-13 |  |
 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 | 2022-08-02 |  |
 | [Fall In](https://open.spotify.com/track/6uEy133no179YW6ulcmalc) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Fall In](https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz) | 4:22 | 2022-03-30 |  |
 | [fallforu](https://open.spotify.com/track/4PHm7uYgyYNQ5Kl2t4MU3D) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/39HS7epzzW2dowDQWJP047) | 2:36 | 2022-08-11 |  |

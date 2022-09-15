@@ -4,10 +4,11 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-137 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+139 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 |  |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-05-10 |  |
 | [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-08-30 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-04-26 |  |
@@ -98,6 +99,7 @@
 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-04-26 | 2022-08-18 |
 | [Pennies From Heaven](https://open.spotify.com/track/6jnHBP28tpxWLf93Wc3xFG) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Pennies From Heaven](https://open.spotify.com/album/65ZiqvtCcA5LOq4bZph6oC) | 4:01 | 2022-04-26 |  |
 | [Pent\-Up House](https://open.spotify.com/track/6TAjrtxxRwWuo5NI4gUG0g) | [Ronnie Robinson Trio](https://open.spotify.com/artist/2GruKi792ZhC1p19Yvj8GP) | [Straight, No Chaser](https://open.spotify.com/album/2w2bzxQmWcOUXTEtUrQvC2) | 2:18 | 2022-04-26 | 2022-08-11 |
+| [Prelude To A Kiss](https://open.spotify.com/track/4Csbgu7LMDGPLjhPgHfQmZ) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Prelude To A Kiss](https://open.spotify.com/album/4cSn217ednrXznxx6lIKvA) | 4:35 | 2022-09-13 |  |
 | [Pure Imagination](https://open.spotify.com/track/2HNYhs4PO9yCuAOS9srcHP) | [Kendra Collins Band](https://open.spotify.com/artist/2VEg5RG7lT8Ej8ZDf63MrO) | [Pure Imagination](https://open.spotify.com/album/5lVkJUkfgzHhpPKYiv3jhK) | 5:15 | 2022-04-26 |  |
 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 | 2022-04-26 |  |
 | [Red Sails in the Sunset](https://open.spotify.com/track/38AeuMJBRBWSlbmuC03EhJ) | [Half Time Feel](https://open.spotify.com/artist/0tuSphyaStgT5UvOxReZLV) | [Red Sails in the Sunset](https://open.spotify.com/album/4fzCadgnY1EYsXAeJJGYMW) | 4:27 | 2022-04-26 |  |

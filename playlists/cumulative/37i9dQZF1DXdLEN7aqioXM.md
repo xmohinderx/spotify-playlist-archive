@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-340 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+341 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2021-10-15 |  |
 | [After Hours](https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Starlight \(Deluxe Edition\)](https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV) | 4:00 | 2021-10-15 | 2022-08-30 |
 | [After Hours Run](https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [After Hours](https://open.spotify.com/album/1EBKGI7RyqrGScoPmqxzc1) | 3:40 | 2021-10-15 |  |
-| [Afterburner](https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f) | [Moondragon](https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub) | [Man and Machine](https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP) | 4:00 | 2022-04-01 |  |
+| [Afterburner](https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f) | [Moondragon](https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub) | [Man and Machine](https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP) | 4:00 | 2022-04-01 | 2022-09-15 |
 | [Aftershock](https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [77](https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v) | 2:20 | 2021-10-15 |  |
 | [Align](https://open.spotify.com/track/5gLbWMM5KEp6IKqx0m0AtK) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Align](https://open.spotify.com/album/4xhLEnoyZwuRFzMlP4VgeO) | 3:39 | 2022-08-26 |  |
 | [American Cars](https://open.spotify.com/track/2ybIQegkNqVdUMhLAtqv4d) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Dark Hearts](https://open.spotify.com/album/79w7ntjrEgNuWW1OziZ0zZ) | 3:46 | 2022-07-22 |  |
@@ -269,6 +269,7 @@
 | [Shoulder of Orion](https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:02 | 2022-04-01 |  |
 | [Shout \- The Forgotten Remix](https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Shout \(The Forgotten Remix\)](https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w) | 3:41 | 2022-04-22 |  |
 | [Sideways in Dreams](https://open.spotify.com/track/7bquaJAoCaaUbCvgPa4Uln) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Sideways in Dreams](https://open.spotify.com/album/1T9LIBX20FwLtO0DA3Mu7T) | 3:57 | 2022-02-25 | 2022-04-24 |
+| [SILHOUETTE](https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn) | [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [SILHOUETTE](https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ) | 5:31 | 2022-09-09 |  |
 | [Silicon Tare](https://open.spotify.com/track/1JFkrUDkIubIAFwbSnTFNC) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Silicon Tare](https://open.spotify.com/album/3ftWeKrk8xQYkf5S6AMcH5) | 4:02 | 2022-07-22 |  |
 | [Silicon Tare](https://open.spotify.com/track/6YYpEOBjVdQbn9Inrl0Ja0) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Silicon Tare](https://open.spotify.com/album/4W0SW2PgLJ9Ea4IfVfEh4v) | 4:02 | 2022-04-01 | 2022-04-20 |
 | [Slasher](https://open.spotify.com/track/5vM6DijoozNO7hLQGJtc6H) | [Cassetter](https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE) | [Slasher](https://open.spotify.com/album/5QUP91rvNu4bXxoTP4IuQk) | 3:58 | 2021-10-15 | 2022-03-11 |

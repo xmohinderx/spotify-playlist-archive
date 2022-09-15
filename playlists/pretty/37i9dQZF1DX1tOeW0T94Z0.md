@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Snow
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,036 likes - 85 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 85 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
 | 2 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
-| 3 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 |
+| 3 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 |
 | 4 | [Let's Ride](https://open.spotify.com/track/4xeCHrtDwf5QMRjNHSMukw) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 4:21 |
 | 5 | [Old Skool Love](https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ) | [Divine Brown](https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa) | [Divine Brown](https://open.spotify.com/album/3K24bok5VUzwODkd6MzqNC) | 3:24 |
 | 6 | [Smile for Me](https://open.spotify.com/track/4LyDqOK3iH791vvfiCOoEP) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/2CpA2pY3wtEp4VBRW15Zvz) | 4:22 |

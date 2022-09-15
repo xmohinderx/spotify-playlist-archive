@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring FOURA
 
-376 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+377 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [House of Trix](https://open.spotify.com/track/2OUGmusXrRYbJwyljvbReI) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Utopia](https://open.spotify.com/album/5eBYBoEzA2Xl5iwiToxcLj) | 3:07 | 2021-07-23 | 2022-02-19 |
 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 | 2022-06-17 |  |
 | [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 | 2022-06-10 |  |
+| [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-09-14 |  |
 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 | 2022-03-25 |  |
 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 | 2022-07-08 | 2022-08-27 |
 | [I Need You](https://open.spotify.com/track/2TEqrIQQtUHl46RCZ4943d) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [I Need You](https://open.spotify.com/album/6Zx09cjIMZg0TbcCNayVYn) | 3:13 | 2021-12-17 | 2022-04-29 |
@@ -260,7 +261,7 @@
 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/3MPYfrBFJC6sRPRuObng6H) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 6:22 | 2022-08-26 |  |
 | [out of the blue](https://open.spotify.com/track/1L6Pp0BJ5fuSUOpQOoFE5a) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [out of the blue](https://open.spotify.com/album/5OagZb7d6hBfIqfVji39wD) | 2:48 | 2022-06-03 | 2022-08-27 |
 | [over it](https://open.spotify.com/track/7mvqLMloTy9sQww0CREaVw) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [over it](https://open.spotify.com/album/68gpsZTqeX5gQBkIUYxVmO) | 3:34 | 2022-08-05 |  |
-| [Overgrown](https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Overgrown](https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH) | 2:41 | 2022-09-09 |  |
+| [Overgrown](https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Overgrown](https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH) | 2:41 | 2022-09-09 | 2022-09-15 |
 | [Past Time](https://open.spotify.com/track/229jCyeEeAZazw6Q2Ev8hA) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Past Time](https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9) | 5:40 | 2022-02-11 | 2022-07-30 |
 | [Petroleum](https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Petroleum / Hidden Land](https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5) | 3:18 | 2022-08-26 |  |
 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 | 2022-03-05 | 2022-03-07 |

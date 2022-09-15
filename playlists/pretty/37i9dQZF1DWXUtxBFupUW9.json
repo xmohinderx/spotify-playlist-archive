@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 259707,
+  "num_followers": 259883,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI5NDMzNSwwMDAwMDAwMDMwMTFiMGM2ZDlmZjU0ODhlMzRmYTgwYjZlNGVhNTZl",
+  "snapshot_id": "MTY2MDI5NDMzNSwwMDAwMDAwMGI3ZDBjNjBlMzEyMmE4NjQ3ZWI1MGRmMjkzZGUxYjli",
   "tracks": [
     {
       "added_at": "2022-08-12 08:52:15",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-12 08:52:15",
       "album": {
-        "name": "Cold Sweat & Other Soul Classics: James Brown",
-        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
-    },
-    {
-      "added_at": "2022-08-12 08:52:15",
-      "album": {
         "name": "The Very Best Of The Velvelettes",
         "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 149866,
       "name": "Needle In A Haystack",
       "url": "https://open.spotify.com/track/26fSgIa539TCK3KV76chHU"
+    },
+    {
+      "added_at": "2022-08-12 08:52:15",
+      "album": {
+        "name": "Cold Sweat & Other Soul Classics: James Brown",
+        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
     },
     {
       "added_at": "2022-08-12 08:52:15",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-12 08:52:15",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+        "name": "Swing Low",
+        "url": "https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 128173,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+      "duration_ms": 155173,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/7v1858htfU0srTDwhxeka8"
     }
   ],
   "unique_name": "Body & Soul",

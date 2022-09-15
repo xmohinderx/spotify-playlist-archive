@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-293 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+295 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 | 2022-07-05 |  |
 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 | 2022-07-05 |  |
 | [A Glimpse of Eternity](https://open.spotify.com/track/4gIkhmRSrvTltuBGYVp3TX) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 3:39 | 2022-07-05 |  |
+| [A Magic Forest](https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [A Magic Forest](https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu) | 3:05 | 2022-09-13 |  |
 | [A Parallel Breath](https://open.spotify.com/track/04qmZr2dcjMFBRlGiZlIkq) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Ocean Meditation](https://open.spotify.com/album/13R0aAMcVYSnMpLqmZwsHh) | 3:33 | 2022-07-05 |  |
 | [A State of Tranquility](https://open.spotify.com/track/4G4T8MVVDD9Tue5EcMGNgt) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [A State of Tranquility](https://open.spotify.com/album/56CEy8rjd1d7G77gdJkdUU) | 2:50 | 2022-07-05 | 2022-07-29 |
 | [A State of Tranquility](https://open.spotify.com/track/5NL7zy2ebxoZcr6lSqZpsb) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [A State of Tranquility](https://open.spotify.com/album/1pu1Z9sU4P0fJ1lGNhT9RS) | 2:50 | 2022-07-05 |  |
@@ -151,6 +152,7 @@
 | [Know Yourself](https://open.spotify.com/track/52COkLkSSQQHvJvyYVCjmq) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Know Yourself](https://open.spotify.com/album/1BqRWjG425c6JcxthtJF83) | 3:03 | 2022-07-05 | 2022-08-16 |
 | [Lavender Fields](https://open.spotify.com/track/2RZHgUsh0JdF9qptiP6F2j) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Lavender Fields](https://open.spotify.com/album/5mWAUKwtkE0eJ2yySSIaPD) | 2:11 | 2022-07-05 |  |
 | [Lavender Fields](https://open.spotify.com/track/7rhnKUAukqD2mtsNoPSt4J) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Lavender Fields](https://open.spotify.com/album/0fyPwPU9bhuUD6ivYpm6pe) | 2:11 | 2022-07-05 | 2022-07-29 |
+| [Life From Above](https://open.spotify.com/track/5t2EOrgbyupZmjFUROk1E0) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Life From Above](https://open.spotify.com/album/5W2etau8vKbNwCy0UGxJEj) | 2:25 | 2022-09-13 |  |
 | [Light in the Attic](https://open.spotify.com/track/5j7GcmiP6EuarM5DYwu5Et) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Light in the Attic](https://open.spotify.com/album/2rop9Z5oSSUDYt3gLjC4tu) | 2:23 | 2022-07-05 | 2022-07-29 |
 | [Light in the Attic](https://open.spotify.com/track/76Mxq4TEnB2dMzZ0FaWAS9) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Light in the Attic](https://open.spotify.com/album/4h8TBOpFKCjVAjBn1vmics) | 2:23 | 2022-07-05 |  |
 | [Lighthouses](https://open.spotify.com/track/5T6VEFbP1ZgnQ9wqaD20Uy) | [Felix Werner](https://open.spotify.com/artist/3Ca0AyhocUD897XBmjixrN) | [Lighthouses](https://open.spotify.com/album/2S4C1NZvMZwGspJkqD11xH) | 3:07 | 2022-07-05 |  |

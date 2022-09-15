@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,898 likes - 126 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,071 likes - 126 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 106 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 |
 | 107 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 |
 | 108 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
-| 109 | [Around and Around](https://open.spotify.com/track/3NNRAgFysK680kgWhTwWHH) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Around and Around](https://open.spotify.com/album/5MIyGmu4DRHCx7ww18W6Da) | 2:34 |
+| 109 | [Around and Around](https://open.spotify.com/track/3lT43G3g9c8149QDWAjrYA) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/17bTwQsIx4na7kUDtKKrvk) | 2:34 |
 | 110 | [As The Sun Sets](https://open.spotify.com/track/6dShePyBjmnkk2WPJZdTMF) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [As The Sun Sets](https://open.spotify.com/album/7Mr3tKvuOYt6H5ethLM1nh) | 3:20 |
 | 111 | [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 |
 | 112 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [stay volk](https://open.spotify.com/track/3JphgObk2MgLvmS0Fu26pL) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [stay volk](https://open.spotify.com/album/2gxXQJm3eMeZDP7OHKCibZ) | 2:48 |
 | 126 | [Dangerous State of Mind](https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Dangerous State of Mind](https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD) | 1:55 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDg0MDZiMjUxOGZkMjlhOTkxN2JlNjgxMzU5YjFhZmFi`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMGY3ZDRlYzhjM2ZmM2YyYmRmZjFjMGI0Njk1YjQzYjgz`

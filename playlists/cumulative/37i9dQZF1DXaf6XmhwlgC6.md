@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-102 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+106 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |
+| [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
@@ -86,10 +87,12 @@
 | [Tailwind](https://open.spotify.com/track/6iayCFA7f9WPT1fFquReHx) | [Elena Aedile](https://open.spotify.com/artist/7wL3hF2m2FvX6LHb0REUMs) | [Morning Breeze](https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g) | 2:47 | 2022-03-30 |  |
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2022-03-30 |  |
 | [Taurus](https://open.spotify.com/track/0cZQXAwomBlCnuSvTCsKWn) | [Tolga Kahani](https://open.spotify.com/artist/2JwKOYKRy4sxxF8nkpA3ig) | [Taurus](https://open.spotify.com/album/7geRmxkwEeS7IvDLfebFOq) | 2:14 | 2022-03-30 |  |
+| [That Bird of Prey Casts a Long Shadow](https://open.spotify.com/track/0AOz0XTa8sCskJQlBtHfHG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 3:09 | 2022-09-14 |  |
 | [The C In Certain](https://open.spotify.com/track/0ODPuMwahnYlaQpwgSnjtd) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/5OpO6CnNwj9uBUc3JaupAr) | 6:23 | 2022-03-30 | 2022-07-29 |
 | [The C In Certain](https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/07ZrOXMlp266UZ7QILUOFO) | 6:23 | 2022-07-15 |  |
 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 | 2022-05-19 |  |
 | [The Real Devil](https://open.spotify.com/track/4cbMi6XGtpDQ8GsBlKXkqv) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 5:36 | 2022-03-30 |  |
+| [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Beyond The Andromeda](https://open.spotify.com/artist/5l47OTM4q2Be8PCn5JuARN) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 | 2022-09-14 |  |
 | [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 |  |
 | [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 |  |
 | [Tomber Amoureux](https://open.spotify.com/track/0sTlmrgtj3om9MCoCFTzZm) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Tomber Amoureux](https://open.spotify.com/album/1btvvbxQsUYmaXsRgZa0R4) | 2:20 | 2022-03-30 |  |
@@ -99,6 +102,7 @@
 | [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2022-07-15 |  |
 | [Two Apples Tied](https://open.spotify.com/track/1ItTDB7TfTu1mVlVgySaaN) | [Hatsu Rohn](https://open.spotify.com/artist/2tEnbkUIt07bVGpQS41Jbc) | [Two Apples Tied](https://open.spotify.com/album/0oOUD2er4J43BZIMlR2Fad) | 3:24 | 2022-03-30 |  |
 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-03-30 |  |
+| [Undo and Redo](https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY) | [Dössell](https://open.spotify.com/artist/5g1pVJ6zhthjuUDFTEJbgc) | [Undo and Redo](https://open.spotify.com/album/3vO7qy5LePhyBPg5zIN4V0) | 2:38 | 2022-09-14 |  |
 | [Up to Pizmo](https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed: : Context](https://open.spotify.com/album/2L7Xv6PUY3LZFjvCYJjQyd) | 6:20 | 2022-07-15 |  |
 | [Up to Pizmo](https://open.spotify.com/track/2v2fB67bubipR2zP5zOO20) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed:: Content](https://open.spotify.com/album/7h1WlPlMEcgicPHkkUzmkV) | 6:21 | 2022-03-30 | 2022-07-29 |
 | [Variation](https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Variation](https://open.spotify.com/album/4H5WDOqJRlOEwE05jFsxZs) | 3:31 | 2022-03-30 |  |

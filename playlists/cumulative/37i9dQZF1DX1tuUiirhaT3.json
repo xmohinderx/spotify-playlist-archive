@@ -870,6 +870,24 @@
     },
     {
       "album": {
+        "name": "Emberly Path",
+        "url": "https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179807,
+      "name": "Emberly Path",
+      "url": "https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj"
+    },
+    {
+      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/1sXwnBlGNqJjejMOM0QoNx"
       },

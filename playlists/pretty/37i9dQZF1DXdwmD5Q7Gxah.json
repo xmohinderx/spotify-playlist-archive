@@ -1,12 +1,12 @@
 {
   "description": "because a little left of center is best. cover: magdalena bay ",
-  "num_followers": 927990,
+  "num_followers": 927965,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAzMTQzNSwwMDAwMDAwMDdmZDgxOGE2ZTcxYmY0MTQyZTI2ZmU0MjI3MjBhOTA3",
+  "snapshot_id": "MTY2MzE5NzkzNSwwMDAwMDAwMDRkMzU5ZDlmNGY1ZjdlMDc4Y2NkYzM1MDA2Mzk2YjAz",
   "tracks": [
     {
       "added_at": "2022-09-13 01:10:35",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
+      "added_at": "2022-09-14 23:25:35",
+      "album": {
+        "name": "Happen",
+        "url": "https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Happen",
+      "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
+    },
+    {
       "added_at": "2022-09-09 17:04:50",
       "album": {
         "name": "Fade into You",
@@ -189,24 +205,36 @@
       "url": "https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ"
     },
     {
-      "added_at": "2022-09-09 17:04:50",
+      "added_at": "2022-09-14 21:54:13",
       "album": {
-        "name": "First Time Caller",
-        "url": "https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6"
+        "name": "you're a parasite",
+        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        },
-        {
-          "name": "Husbands",
-          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 317279,
-      "name": "First Time Caller",
-      "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
+      "duration_ms": 152450,
+      "name": "you're a parasite",
+      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
+    },
+    {
+      "added_at": "2022-09-13 19:52:43",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7g4sJ83bs0W0xKBDT7npb2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 200596,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4rq7yBxY4DcmP8MvxJwxLX"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -257,20 +285,20 @@
       "url": "https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN"
     },
     {
-      "added_at": "2022-09-09 17:04:50",
+      "added_at": "2022-08-18 15:56:09",
       "album": {
-        "name": "Host B Sides & Remixes",
-        "url": "https://open.spotify.com/album/4paNaQZ8eB1cUU1ZJh14gJ"
+        "name": "Runaway Blue",
+        "url": "https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
         }
       ],
-      "duration_ms": 196853,
-      "name": "Sleeping Through Sunshine",
-      "url": "https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd"
+      "duration_ms": 213942,
+      "name": "Runaway Blue",
+      "url": "https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe"
     },
     {
       "added_at": "2022-08-09 23:24:22",
@@ -305,20 +333,24 @@
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
     },
     {
-      "added_at": "2022-08-18 15:56:09",
+      "added_at": "2022-09-09 17:04:50",
       "album": {
-        "name": "Runaway Blue",
-        "url": "https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL"
+        "name": "First Time Caller",
+        "url": "https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6"
       },
       "artists": [
         {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        },
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
         }
       ],
-      "duration_ms": 213942,
-      "name": "Runaway Blue",
-      "url": "https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe"
+      "duration_ms": 317279,
+      "name": "First Time Caller",
+      "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
     },
     {
       "added_at": "2022-08-24 19:01:53",
@@ -367,6 +399,58 @@
       "duration_ms": 187072,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2022-08-26 04:40:34",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+    },
+    {
+      "added_at": "2022-09-14 21:14:26",
+      "album": {
+        "name": "say what u mean (with Riovaz)",
+        "url": "https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "say what u mean (with Riovaz)",
+      "url": "https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Picture Of You",
+        "url": "https://open.spotify.com/album/7oqxbjrUn7rnoAnozLLC6w"
+      },
+      "artists": [
+        {
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+        }
+      ],
+      "duration_ms": 258818,
+      "name": "Picture Of You",
+      "url": "https://open.spotify.com/track/4jr4dG2kr1A5iQHX6s9C0q"
     },
     {
       "added_at": "2022-08-18 17:28:11",
@@ -437,22 +521,6 @@
       "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Picture Of You",
-        "url": "https://open.spotify.com/album/7oqxbjrUn7rnoAnozLLC6w"
-      },
-      "artists": [
-        {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
-        }
-      ],
-      "duration_ms": 258818,
-      "name": "Picture Of You",
-      "url": "https://open.spotify.com/track/4jr4dG2kr1A5iQHX6s9C0q"
-    },
-    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "LOUIE",
@@ -469,20 +537,20 @@
       "url": "https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R"
     },
     {
-      "added_at": "2022-08-26 04:40:34",
+      "added_at": "2022-09-09 17:04:50",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+        "name": "Host B Sides & Remixes",
+        "url": "https://open.spotify.com/album/4paNaQZ8eB1cUU1ZJh14gJ"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+      "duration_ms": 196853,
+      "name": "Sleeping Through Sunshine",
+      "url": "https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd"
     },
     {
       "added_at": "2022-08-26 04:40:34",
@@ -833,26 +901,6 @@
       "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
-      },
-      "artists": [
-        {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
       "added_at": "2022-07-29 04:00:00",
       "album": {
         "name": "Bumblebee",
@@ -915,22 +963,6 @@
       "duration_ms": 218000,
       "name": "Good Looking (Stripped)",
       "url": "https://open.spotify.com/track/5LCX1wM1PVSbAdMZOMWF6j"
-    },
-    {
-      "added_at": "2022-08-09 21:41:40",
-      "album": {
-        "name": "Lesser Matters",
-        "url": "https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/4luWL5IEgJVuXRRKLpMWNK"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1147,22 +1179,6 @@
       "duration_ms": 164708,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Trying To Find Us",
-        "url": "https://open.spotify.com/album/1J9ubeevJRYrJgNDwkTpjA"
-      },
-      "artists": [
-        {
-          "name": "Kristiane",
-          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Trying To Find Us",
-      "url": "https://open.spotify.com/track/1K2tarXuo0RtA1VeeRkiuT"
     },
     {
       "added_at": "2022-04-08 15:31:29",
@@ -1531,22 +1547,6 @@
       "duration_ms": 195546,
       "name": "God Hired You To Be My Baby",
       "url": "https://open.spotify.com/track/1cxMuh5UJhouWUZJQT5SnU"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Boy Friday",
-        "url": "https://open.spotify.com/album/1DDXb9xrdDFeLmZgCizypO"
-      },
-      "artists": [
-        {
-          "name": "Rebounder",
-          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
-        }
-      ],
-      "duration_ms": 183170,
-      "name": "Boy Friday",
-      "url": "https://open.spotify.com/track/62sxl0QtvpRNGLK32QwwGS"
     },
     {
       "added_at": "2022-05-27 04:00:00",

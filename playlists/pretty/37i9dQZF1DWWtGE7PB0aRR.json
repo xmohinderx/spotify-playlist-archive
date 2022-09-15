@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 100671,
+  "num_followers": 100770,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDMxZTI3Y2ZlMWZlYTYyNmE1OGQ2ZWM3YmUzMTI0MDdm",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGY2Mzk0ZWFkMjI0MDU5ZjFhMGNhYWI1ODk4N2UyYjVl",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228795,
-      "name": "Cheats and Liars",
-      "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Street Corner Talking",
@@ -379,6 +363,22 @@
       "duration_ms": 323733,
       "name": "Tell Mama",
       "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228795,
+      "name": "Cheats and Liars",
+      "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 388200,
-      "name": "Cries from the Midnight Circus",
-      "url": "https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Bridge Of Sighs (2007 Remaster)",
         "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
       },
@@ -499,6 +483,38 @@
       "duration_ms": 235720,
       "name": "The Fool and Me - 2007 Remaster",
       "url": "https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Deuce (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5OL57ObDW2DkOHQp0jQDeX"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "In Your Town - Alternate Take 3",
+      "url": "https://open.spotify.com/track/31qFaijhaTMs3Xe0pzq0Bl"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 388200,
+      "name": "Cries from the Midnight Circus",
+      "url": "https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -585,22 +601,6 @@
       "url": "https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI"
-    },
-    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "On The Boards",
@@ -617,20 +617,20 @@
       "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Deuce (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5OL57ObDW2DkOHQp0jQDeX"
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 334000,
-      "name": "In Your Town - Alternate Take 3",
-      "url": "https://open.spotify.com/track/31qFaijhaTMs3Xe0pzq0Bl"
+      "duration_ms": 225125,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Diamonds In The Dirt",
+        "url": "https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Who Do You Love?",
+      "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
+    },
+    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Pigthology",
@@ -727,22 +743,6 @@
       "duration_ms": 159706,
       "name": "Little By Little - Mono Version",
       "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Diamonds In The Dirt",
-        "url": "https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Who Do You Love?",
-      "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Their First LP (Mono Version)",
-        "url": "https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Sittin' And Thinkin' - Mono Version",
-      "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "100 Ton Chicken",
         "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 268920,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Their First LP (Mono Version)",
+        "url": "https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Sittin' And Thinkin' - Mono Version",
+      "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Them",
-        "url": "https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ"
-      },
-      "artists": [
-        {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Jo Ann",
-      "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Peter Green's Fleetwood Mac (Deluxe)",
         "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212333,
       "name": "My Heart Beat Like a Hammer - Take 2",
       "url": "https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Them",
+        "url": "https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ"
+      },
+      "artists": [
+        {
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Jo Ann",
+      "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
     },
     {
       "added_at": "2021-04-22 22:35:02",

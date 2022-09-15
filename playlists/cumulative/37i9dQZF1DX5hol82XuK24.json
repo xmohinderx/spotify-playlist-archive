@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 277666,
       "name": "Awake and Hungry",
       "url": "https://open.spotify.com/track/0t2iQOYTs07q3tvu46JOkb"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 192805,
       "name": "Eliogy",
       "url": "https://open.spotify.com/track/130sgnepyNOghIX9iBQpRD"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 240544,
       "name": "Fazer Folk (Teeth Version)",
       "url": "https://open.spotify.com/track/241nrTF43b7LtoWALOm2NN"
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Feed the Flowers Nightmares",
+        "url": "https://open.spotify.com/album/528sbcF31aHnHxnvOf4r1w"
+      },
+      "artists": [
+        {
+          "name": "Wyldest",
+          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256105,
+      "name": "Feed the Flowers Nightmares",
+      "url": "https://open.spotify.com/track/4lyjNOz9dY0ON1y7ZBdU0P"
+    },
+    {
+      "album": {
         "name": "flashlight",
         "url": "https://open.spotify.com/album/0d0sW4cetIRnwF4yACl9mu"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 185560,
       "name": "flashlight",
       "url": "https://open.spotify.com/track/7IDRXVRJDWg2Y1gUz11VS6"
@@ -617,6 +635,24 @@
       "duration_ms": 295093,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
+    },
+    {
+      "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
       "album": {
@@ -685,7 +721,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 313562,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4I4RDB7qNJNF3Yy0EOcsj4"
@@ -786,6 +822,24 @@
     },
     {
       "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "album": {
         "name": "melanchole",
         "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
       },
@@ -815,7 +869,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 271280,
       "name": "I Will Be the World",
       "url": "https://open.spotify.com/track/0vxAJmYbzIhJ3H587gdAOX"
@@ -912,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Lifeboats",
+        "url": "https://open.spotify.com/album/1tR2o0fZ5EQmcw0vbNAEta"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Collides",
+          "url": "https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254810,
+      "name": "Lifeboats",
+      "url": "https://open.spotify.com/track/4v5Gh9dg1S51pOUwJeU49Q"
+    },
+    {
+      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -959,7 +1031,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 209445,
       "name": "Messing",
       "url": "https://open.spotify.com/track/2wloteObIm2R5HC1zgijBI"
@@ -1157,7 +1229,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 195226,
       "name": "Nightmare Hotel",
       "url": "https://open.spotify.com/track/0pErX8N1TzSfi8aSdpOFnQ"
@@ -1197,7 +1269,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 241500,
       "name": "No You Don't - Half Remix",
       "url": "https://open.spotify.com/track/0vfwxSyS1JCgbUC2WVJSGI"
@@ -1215,7 +1287,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 232000,
       "name": "Nothing Moves Me",
       "url": "https://open.spotify.com/track/3U3DN2mFEKzOJjIckQrVza"
@@ -1241,7 +1313,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 131120,
       "name": "One For Regret",
       "url": "https://open.spotify.com/track/4Poq4hcH8EmQgcERGJocGk"
@@ -1277,7 +1349,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 172250,
       "name": "Partners in Crime",
       "url": "https://open.spotify.com/track/7JUzOHIiIpt8SLF21uYOwu"
@@ -1302,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+    },
+    {
+      "album": {
         "name": "Piece and Pound Coins",
         "url": "https://open.spotify.com/album/4Rpy1s4ACE9bAJYaQdc9KM"
       },
@@ -1313,7 +1403,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 143562,
       "name": "Piece and Pound Coins",
       "url": "https://open.spotify.com/track/0s3pPnQrytADGrGw1UWP5m"
@@ -1349,7 +1439,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 156000,
       "name": "Prey - 2021 Remastered version",
       "url": "https://open.spotify.com/track/1FF7zgBIYfnk19yuqqAFov"
@@ -1439,7 +1529,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 260346,
       "name": "Saturday,",
       "url": "https://open.spotify.com/track/5gaV0csREwXwbJieBy1nBU"
@@ -1461,6 +1551,28 @@
       "duration_ms": 260347,
       "name": "Saturday,",
       "url": "https://open.spotify.com/track/4hOdApQB6Iz56Fy2YcZQiy"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "Sea, Swallow Me",
+      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
     },
     {
       "album": {
@@ -1493,7 +1605,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 329453,
       "name": "Shape Shifter",
       "url": "https://open.spotify.com/track/4K2KgAsQlbKIC2fl99M5EM"
@@ -1515,7 +1627,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 246861,
       "name": "Ship",
       "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
@@ -1666,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr"
+      },
+      "artists": [
+        {
+          "name": "Plastic Mermaids",
+          "url": "https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340410,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH"
+    },
+    {
+      "album": {
         "name": "Sospeche",
         "url": "https://open.spotify.com/album/4QZCtPpwh1zbhgz76v2VvI"
       },
@@ -1681,6 +1811,24 @@
       "duration_ms": 232000,
       "name": "Sospeche",
       "url": "https://open.spotify.com/track/3mGzpu1cjU1QAeZdfmKaZ5"
+    },
+    {
+      "album": {
+        "name": "Spinning Wheel",
+        "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205703,
+      "name": "Spinning Wheel",
+      "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
     },
     {
       "album": {
@@ -1713,7 +1861,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 399453,
       "name": "Station Wagon",
       "url": "https://open.spotify.com/track/1mqy0PZ49CimyTAW3I4eaN"
@@ -1821,7 +1969,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 44421,
       "name": "Surf, Pt. 1",
       "url": "https://open.spotify.com/track/4JgdsRt9lrutNJ5coexTaq"
@@ -1911,7 +2059,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 201478,
       "name": "tamu's yiffing refuge",
       "url": "https://open.spotify.com/track/0eA1Bclou5nvOnlq4rlMBY"
@@ -1947,7 +2095,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 368196,
       "name": "Temper",
       "url": "https://open.spotify.com/track/0dxfC2ZKN37bOrbTQBD8lw"
@@ -1965,7 +2113,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 193346,
       "name": "The Crack",
       "url": "https://open.spotify.com/track/4fWPUCZFQmv0HrRZ36udAi"
@@ -1983,7 +2131,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 260109,
       "name": "The Furthest Nearby Place",
       "url": "https://open.spotify.com/track/6v1bKQA6HQoKIFM6rN1YMY"
@@ -2019,7 +2167,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 300120,
       "name": "The Nearer The Fountain, More Pure The Stream Flows",
       "url": "https://open.spotify.com/track/7eVf0wH28SmYws2I1FrtBE"
@@ -2073,10 +2221,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 327540,
       "name": "Too Sad",
       "url": "https://open.spotify.com/track/5eXNMyp2IuWeTTZ02eYMJV"
+    },
+    {
+      "album": {
+        "name": "Ex:Re",
+        "url": "https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw"
+      },
+      "artists": [
+        {
+          "name": "Ex:Re",
+          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327540,
+      "name": "Too Sad",
+      "url": "https://open.spotify.com/track/6VoVG0X8ToU27bWyAXduJb"
     },
     {
       "album": {
@@ -2185,6 +2351,24 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "album": {
+        "name": "What Would I Do?",
+        "url": "https://open.spotify.com/album/5UMCUhNtZ5bkz0Giv0SppV"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "What Would I Do?",
+      "url": "https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO"
     },
     {
       "album": {

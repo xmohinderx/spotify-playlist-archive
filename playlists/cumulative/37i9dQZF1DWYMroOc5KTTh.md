@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-400 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
+401 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Don't Deal With Us \- Dusky Edit](https://open.spotify.com/track/2lMNNWVnpaJNKCyFFIkWeJ) | [Jt Company](https://open.spotify.com/artist/03QXzMZPP4vJXqhPDYJ9fh), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Don't Deal With Us \(Dusky Edit\)](https://open.spotify.com/album/2ZxAIw9NIcXVSQi6tgMNgo) | 3:36 | 2022-04-06 | 2022-04-15 |
 | [Don't Hurt Me Baby](https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Don't Hurt Me Baby](https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8) | 2:24 | 2022-08-01 |  |
 | [Don't You Like It?](https://open.spotify.com/track/6uJ7mMcjgOtY3PbQPnaPKO) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/1GOPldTzZzwjyr6GrstMvf) | 3:46 | 2021-12-03 | 2022-07-29 |
-| [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-04-06 |  |
+| [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-04-06 | 2022-09-15 |
 | [Down](https://open.spotify.com/track/7Gv5qT2rdcR0LenYPB9Spw) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Down](https://open.spotify.com/album/6gCVYIHf9thjGbxIZUO86x) | 3:17 | 2021-12-03 | 2022-07-05 |
 | [Dragonball Durag](https://open.spotify.com/track/62PclpoBFLl50PJpiJA5RT) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Dragonball Durag](https://open.spotify.com/album/63mrxbP4k9oZBR0LCfzZvo) | 3:01 | 2022-04-06 | 2022-04-14 |
 | [Dream](https://open.spotify.com/track/1Gbxb38eHmx9SHTS6vTwQ5) | [TWOGOOD](https://open.spotify.com/artist/0734HdQDEd3Mc0olQ4DsCt) | [Dream](https://open.spotify.com/album/7jYctOB5Ufgl737FrbOp8N) | 4:02 | 2022-01-14 | 2022-07-03 |
@@ -136,6 +136,7 @@
 | [Footprints](https://open.spotify.com/track/1Y1R4GVtxibyf4E4SX2Q3y) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Footprints](https://open.spotify.com/album/4K02gs1yPH1O21lNGSx0HY) | 6:21 | 2022-04-06 | 2022-04-20 |
 | [Frankie & Levan](https://open.spotify.com/track/3BDa9cp9tw3PJnxd07ztuV) | [Zach Witness](https://open.spotify.com/artist/0u6h31HopxUAum6iOTVL17) | [Sing the Dance Electric](https://open.spotify.com/album/2luNw7AITaljqcyoFaClrA) | 3:41 | 2021-12-03 | 2022-07-29 |
 | [Free My People \(feat\. Simmy & Kid Cruise\) \- The Streets Remix](https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Free My People \(The Streets Remix\)](https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK) | 3:16 | 2021-12-03 | 2022-01-04 |
+| [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 | 2022-09-05 |  |
 | [Freefall](https://open.spotify.com/track/7u0xzxkw82UQrNJtYqXsa3) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Freefall](https://open.spotify.com/album/3lZwvKGTGhCxIVEd86S8uF) | 3:38 | 2022-04-06 | 2022-04-08 |
 | [Fruit Punch](https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Fruit Punch](https://open.spotify.com/album/7GedFW6ha4qFhf7JELVK8e) | 2:50 | 2021-12-03 | 2022-07-21 |
 | [Full Attention](https://open.spotify.com/track/1kSJQOaDfJZk8ZL4D5ysBd) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Full Attention](https://open.spotify.com/album/39FzFnodvbF1nGkXcYepQg) | 4:33 | 2022-01-14 | 2022-07-12 |

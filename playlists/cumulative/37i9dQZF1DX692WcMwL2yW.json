@@ -325,10 +325,28 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 196153,
       "name": "Ataraxis",
       "url": "https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI"
+    },
+    {
+      "album": {
+        "name": "Ataraxis",
+        "url": "https://open.spotify.com/album/6jJ3D7mfIcq085Oo52SgqZ"
+      },
+      "artists": [
+        {
+          "name": "Auracane",
+          "url": "https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "Ataraxis",
+      "url": "https://open.spotify.com/track/16uSBcWTIq2kDzgoUGy7Pl"
     },
     {
       "album": {

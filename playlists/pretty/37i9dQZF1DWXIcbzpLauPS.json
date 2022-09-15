@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Motionless In White",
-  "num_followers": 853598,
+  "num_followers": 853566,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyODQwMCwwMDAwMDAwMDVlNGM4NzAzZmYzZWM0ZDgzN2Q2YmFlNzVmYWQ4Zjkw",
+  "snapshot_id": "MTY2MjcyODQwMCwwMDAwMDAwMGRiNjJkNzdkN2M5ZTZkNWJkYzM2Mzk5MmIxYjQ2MDg4",
   "tracks": [
     {
       "added_at": "2022-09-09 13:00:00",
@@ -115,18 +115,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Bullet For My Valentine (Deluxe)",
-        "url": "https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF"
+        "name": "Plagued",
+        "url": "https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
         }
       ],
-      "duration_ms": 235018,
-      "name": "This Means War",
-      "url": "https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL"
+      "duration_ms": 209840,
+      "name": "Plagued",
+      "url": "https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Plagued",
-        "url": "https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 209840,
-      "name": "Plagued",
-      "url": "https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Rain Down",
         "url": "https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 247391,
       "name": "Rain Down",
       "url": "https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Bullet For My Valentine (Deluxe)",
+        "url": "https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 235018,
+      "name": "This Means War",
+      "url": "https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -391,34 +391,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Deathrattle Sing for Me",
-        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
       },
       "artists": [
         {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+          "name": "Eyes Wide Open",
+          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
         }
       ],
-      "duration_ms": 284485,
-      "name": "A Killing Word",
-      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
-      },
-      "artists": [
-        {
-          "name": "Citizen Soldier",
-          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
+      "duration_ms": 198000,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -439,18 +423,34 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
       },
       "artists": [
         {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
+      "duration_ms": 188057,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Deathrattle Sing for Me",
+        "url": "https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 284485,
+      "name": "A Killing Word",
+      "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Venenosa",
         "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 190495,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Play Time",
-        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
-      },
-      "artists": [
-        {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        }
-      ],
-      "duration_ms": 216917,
-      "name": "Play Time",
-      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "The Collapse",
         "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 210385,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Play Time",
+        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 216917,
+      "name": "Play Time",
+      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Forsaken",
-        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
-      },
-      "artists": [
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 183069,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "What Is War",
         "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Spearmint Revolt",
-        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
       },
       "artists": [
         {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
         }
       ],
-      "duration_ms": 302258,
-      "name": "Spearmint Revolt",
-      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
+      "duration_ms": 183069,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 203290,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Spearmint Revolt",
+        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -871,6 +871,22 @@
       "duration_ms": 209564,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Miscreation",
+        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+      },
+      "artists": [
+        {
+          "name": "The Anchor",
+          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+        }
+      ],
+      "duration_ms": 213401,
+      "name": "Miscreation",
+      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -935,22 +951,6 @@
       "duration_ms": 222386,
       "name": "Raw",
       "url": "https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Miscreation",
-        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
-      },
-      "artists": [
-        {
-          "name": "The Anchor",
-          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
-        }
-      ],
-      "duration_ms": 213401,
-      "name": "Miscreation",
-      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 198657,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 192360,
       "name": "Eden Will Drown",
       "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
-      },
-      "artists": [
-        {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
-        }
-      ],
-      "duration_ms": 198657,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "Call It Home",
+        "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
+      },
+      "artists": [
+        {
+          "name": "Elyne",
+          "url": "https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk"
+        }
+      ],
+      "duration_ms": 210128,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "I Will Return",
         "url": "https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "What Is Delicious? Who Swarms?",
-        "url": "https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2"
-      },
-      "artists": [
-        {
-          "name": "The Callous Daoboys",
-          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
-        }
-      ],
-      "duration_ms": 196602,
-      "name": "What Is Delicious? Who Swarms?",
-      "url": "https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "White Rabbit",
         "url": "https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Call It Home",
-        "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
+        "name": "What Is Delicious? Who Swarms?",
+        "url": "https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2"
       },
       "artists": [
         {
-          "name": "Elyne",
-          "url": "https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk"
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
         }
       ],
-      "duration_ms": 210128,
-      "name": "Call It Home",
-      "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
+      "duration_ms": 196602,
+      "name": "What Is Delicious? Who Swarms?",
+      "url": "https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1235,26 +1235,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "CHAOS CORP",
-        "url": "https://open.spotify.com/album/4IJiZ1DlWNSsIAk2pEDlal"
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf"
       },
       "artists": [
         {
-          "name": "ONI INC.",
-          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
-        },
-        {
-          "name": "Sadzilla",
-          "url": "https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc"
-        },
-        {
-          "name": "Depths of Titan",
-          "url": "https://open.spotify.com/artist/3jSBNEKdOdu1tuHSjx62q8"
+          "name": "Suasion",
+          "url": "https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK"
         }
       ],
-      "duration_ms": 221668,
-      "name": "CHAOS CORP",
-      "url": "https://open.spotify.com/track/5LqIY3LZUgdvOqfGb9H1gx"
+      "duration_ms": 204198,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
     }
   ],
   "unique_name": "The Core",

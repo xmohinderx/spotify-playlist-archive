@@ -1,13 +1,177 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Ghost Orchard, Artwork: Robin Clifford Ellis ",
-  "num_followers": 151252,
+  "num_followers": 151483,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUwOTU3MywwMDAwMDAwMDViNWMzMGIyZmEwMGQ0MTAyNWM3Yzk2ZjAzMDhiNmYx",
+  "snapshot_id": "MTY2MzE3MTIwMCwwMDAwMDAwMDdiZjEwMGJiYzM5ZWQwZDcxN2FkOTg5ZjQ0ZTMyODY4",
   "tracks": [
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Summer In My Head",
+        "url": "https://open.spotify.com/album/0qJgh9pLQ3CxXHA4F11kjc"
+      },
+      "artists": [
+        {
+          "name": "Goldpark",
+          "url": "https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z"
+        }
+      ],
+      "duration_ms": 230819,
+      "name": "Summer In My Head",
+      "url": "https://open.spotify.com/track/3KquekHc2ApZSvrd9qCiWW"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Could've Tried",
+        "url": "https://open.spotify.com/album/25lIWRIBXxFhStPN2FVoA8"
+      },
+      "artists": [
+        {
+          "name": "veronicavon",
+          "url": "https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ"
+        }
+      ],
+      "duration_ms": 144755,
+      "name": "Could've Tried",
+      "url": "https://open.spotify.com/track/04ZUad18xszxdqExEA6fot"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Dream Machine",
+        "url": "https://open.spotify.com/album/0FUs1PnmvHShn0GjwfYQlB"
+      },
+      "artists": [
+        {
+          "name": "Lucy Daydream",
+          "url": "https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "Drippy",
+      "url": "https://open.spotify.com/track/7pu7lPXqQ7lLB9qFYmuItv"
+    },
+    {
+      "added_at": "2022-09-06 23:50:39",
+      "album": {
+        "name": "Apologizing",
+        "url": "https://open.spotify.com/album/0ee0UNooyR9pEWrFUXtRWY"
+      },
+      "artists": [
+        {
+          "name": "Celler Dwellers",
+          "url": "https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx"
+        }
+      ],
+      "duration_ms": 221181,
+      "name": "Apologizing",
+      "url": "https://open.spotify.com/track/2UOQXlUQfwlgIFG4u3ecrv"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Skateboard",
+        "url": "https://open.spotify.com/album/2BQOPucIyzNEgmSviMa5fn"
+      },
+      "artists": [
+        {
+          "name": "Safiyah Hernandez",
+          "url": "https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK"
+        }
+      ],
+      "duration_ms": 164045,
+      "name": "Skateboard",
+      "url": "https://open.spotify.com/track/4Vg3peP6paF5ryINcenQlq"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Disco Submarine",
+        "url": "https://open.spotify.com/album/4RnBik4PFGy2POnDbeS6p5"
+      },
+      "artists": [
+        {
+          "name": "Karmic",
+          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
+        }
+      ],
+      "duration_ms": 166334,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN"
+    },
+    {
+      "added_at": "2022-09-06 23:50:39",
+      "album": {
+        "name": "Sandra",
+        "url": "https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "duration_ms": 234704,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
+    },
+    {
+      "added_at": "2022-08-31 17:03:18",
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/05mmPNGroDOEiOgo4vpIxh"
+      },
+      "artists": [
+        {
+          "name": "Bambina",
+          "url": "https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1"
+        }
+      ],
+      "duration_ms": 235464,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "kitchen light",
+        "url": "https://open.spotify.com/album/34omlcFfOvMIgIOvLnStQo"
+      },
+      "artists": [
+        {
+          "name": "Maggery",
+          "url": "https://open.spotify.com/artist/452UwbEF3N7LK6Zd3bkTzw"
+        },
+        {
+          "name": "Isaac Solo",
+          "url": "https://open.spotify.com/artist/0DqFap2UZBZYFYKEDYMEPa"
+        }
+      ],
+      "duration_ms": 137068,
+      "name": "kitchen light",
+      "url": "https://open.spotify.com/track/3y2SDMSFemKDSF9q8xbmm1"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4RTVjhaoykuScp1K169qPb"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Tapeworms",
+      "url": "https://open.spotify.com/track/1a4kkVLqY7PRARWLPeIZv0"
+    },
     {
       "added_at": "2022-09-06 23:50:39",
       "album": {
@@ -25,20 +189,36 @@
       "url": "https://open.spotify.com/track/0mMyFTMn9yNTfOd17unDcz"
     },
     {
-      "added_at": "2022-08-31 17:03:18",
+      "added_at": "2022-09-14 16:00:00",
       "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/05mmPNGroDOEiOgo4vpIxh"
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/7tg8e48iTJUhDBbyTpsADe"
       },
       "artists": [
         {
-          "name": "Bambina",
-          "url": "https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1"
+          "name": "Booter",
+          "url": "https://open.spotify.com/artist/6DMPeswHF4nj7s82hygDjq"
         }
       ],
-      "duration_ms": 235464,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv"
+      "duration_ms": 175653,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/4oAK2KzG31bqlbJBpoP0kz"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "2 Seater",
+        "url": "https://open.spotify.com/album/0J1KnmiVyAvXjVhZS8oskC"
+      },
+      "artists": [
+        {
+          "name": "The Bots",
+          "url": "https://open.spotify.com/artist/4BytPrwCFHaxTtfKxoaaxD"
+        }
+      ],
+      "duration_ms": 266111,
+      "name": "Scatter Brains",
+      "url": "https://open.spotify.com/track/3m241a2mFTD9BVqUsRZ3rt"
     },
     {
       "added_at": "2022-09-06 23:50:39",
@@ -59,22 +239,6 @@
     {
       "added_at": "2022-09-06 23:50:39",
       "album": {
-        "name": "Apologizing",
-        "url": "https://open.spotify.com/album/0ee0UNooyR9pEWrFUXtRWY"
-      },
-      "artists": [
-        {
-          "name": "Celler Dwellers",
-          "url": "https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx"
-        }
-      ],
-      "duration_ms": 221181,
-      "name": "Apologizing",
-      "url": "https://open.spotify.com/track/2UOQXlUQfwlgIFG4u3ecrv"
-    },
-    {
-      "added_at": "2022-09-06 23:50:39",
-      "album": {
         "name": "bruise",
         "url": "https://open.spotify.com/album/1vZ6lqBIrEUx3J6bA0zFXa"
       },
@@ -87,6 +251,22 @@
       "duration_ms": 128731,
       "name": "bruise",
       "url": "https://open.spotify.com/track/2CGPvXNk1pY3JzfFylv3lY"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Hate Today!",
+        "url": "https://open.spotify.com/album/1YMxXMmIVnU5azswJjOIh7"
+      },
+      "artists": [
+        {
+          "name": "Lev UFO",
+          "url": "https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb"
+        }
+      ],
+      "duration_ms": 210397,
+      "name": "Hate Today!",
+      "url": "https://open.spotify.com/track/6rT3niCnJf45ni839oAQxU"
     },
     {
       "added_at": "2022-09-06 23:50:39",
@@ -105,20 +285,20 @@
       "url": "https://open.spotify.com/track/2o3M4XOC7Z9nNz4v5xWL9h"
     },
     {
-      "added_at": "2022-09-06 23:50:39",
+      "added_at": "2022-09-14 16:00:00",
       "album": {
-        "name": "Sandra",
-        "url": "https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi"
+        "name": "Bones (God Like You)",
+        "url": "https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ"
       },
       "artists": [
         {
-          "name": "Yb.",
-          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
         }
       ],
-      "duration_ms": 234704,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
+      "duration_ms": 168514,
+      "name": "Bones (God Like You)",
+      "url": "https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH"
     },
     {
       "added_at": "2022-09-06 23:50:39",
@@ -1335,22 +1515,6 @@
       "duration_ms": 188869,
       "name": "losing my mind",
       "url": "https://open.spotify.com/track/7pyi0IwbpspklysMl3pduX"
-    },
-    {
-      "added_at": "2022-08-03 16:46:11",
-      "album": {
-        "name": "The City",
-        "url": "https://open.spotify.com/album/5XXJNuBOVH1ksdQPZWj1cx"
-      },
-      "artists": [
-        {
-          "name": "June McDoom",
-          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
-        }
-      ],
-      "duration_ms": 280478,
-      "name": "The City",
-      "url": "https://open.spotify.com/track/0O8kAUA9viakIrlnqQN2nQ"
     },
     {
       "added_at": "2022-08-03 16:46:11",

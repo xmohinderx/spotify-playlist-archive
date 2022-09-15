@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 306323,
+  "num_followers": 306631,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjg2NjcwMSwwMDAwMDAwMDZlMzFlZjhiODNhZjlmNGI3OWYwZDU1NGE2NzdiMTE0",
+  "snapshot_id": "MTY2Mjg2NjcwMSwwMDAwMDAwMDExYTIyYjdlYWY1ZTA0ZTVkNTg1YTBiNWQwN2EyMmE5",
   "tracks": [
     {
       "added_at": "2022-09-03 04:25:40",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
     },
     {
-      "added_at": "2022-04-12 18:03:13",
-      "album": {
-        "name": "Man It Feels Like Space Again",
-        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 501840,
-      "name": "Man It Feels Like Space Again",
-      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "K.G.",
@@ -407,6 +391,22 @@
       "duration_ms": 252630,
       "name": "Intrasport",
       "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
+      "added_at": "2022-04-12 18:03:13",
+      "album": {
+        "name": "Man It Feels Like Space Again",
+        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 501840,
+      "name": "Man It Feels Like Space Again",
+      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
-      "added_at": "2022-08-13 00:54:36",
-      "album": {
-        "name": "Without a Trace",
-        "url": "https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj"
-      },
-      "artists": [
-        {
-          "name": "The Black Angels",
-          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Without a Trace",
-      "url": "https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "K.G.",
@@ -551,6 +535,22 @@
       "duration_ms": 273854,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Moonlust",
+        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 205010,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-08-13 00:54:36",
       "album": {
-        "name": "Moonlust",
-        "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
+        "name": "Without a Trace",
+        "url": "https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj"
       },
       "artists": [
         {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+          "name": "The Black Angels",
+          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
         }
       ],
-      "duration_ms": 205010,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
+      "duration_ms": 247306,
+      "name": "Without a Trace",
+      "url": "https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -617,20 +617,20 @@
       "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-04-22 19:38:56",
       "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
       "artists": [
         {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
         }
       ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -649,20 +649,20 @@
       "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
     },
     {
-      "added_at": "2022-04-22 19:38:56",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
         }
       ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Joe Frazier",
-        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        }
-      ],
-      "duration_ms": 338613,
-      "name": "Joe Frazier",
-      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "A Dream of Lasting Peace",
         "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 218013,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Joe Frazier",
+        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        }
+      ],
+      "duration_ms": 338613,
+      "name": "Joe Frazier",
+      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
     },
     {
       "added_at": "2022-04-22 19:18:57",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
-      },
-      "artists": [
-        {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
-        }
-      ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
-    },
-    {
       "added_at": "2022-04-12 17:55:21",
       "album": {
         "name": "Egypt",
@@ -939,6 +923,54 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Steeple",
+        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 318960,
+      "name": "Silbury Sands",
+      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2022-04-05 16:05:08",
+      "album": {
+        "name": "The Revolt Against Tired Noises",
+        "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
+      },
+      "artists": [
+        {
+          "name": "Yawning Man",
+          "url": "https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe"
+        }
+      ],
+      "duration_ms": 321906,
+      "name": "Black Kite",
+      "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "D\u00f6ng\u00fcm",
         "url": "https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7"
       },
@@ -963,34 +995,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Steeple",
-        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
       },
       "artists": [
         {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
         }
       ],
-      "duration_ms": 318960,
-      "name": "Silbury Sands",
-      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
-    },
-    {
-      "added_at": "2022-04-05 16:05:08",
-      "album": {
-        "name": "The Revolt Against Tired Noises",
-        "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
-      },
-      "artists": [
-        {
-          "name": "Yawning Man",
-          "url": "https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe"
-        }
-      ],
-      "duration_ms": 321906,
-      "name": "Black Kite",
-      "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1009,36 +1025,20 @@
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-04-06 03:33:39",
       "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
       "artists": [
         {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "N\u00e0nnufl\u00e0y",
-      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "N\u00e0nnufl\u00e0y",
+      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Aufheben",
         "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 278826,
       "name": "Panic In Babylon",
       "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
-    },
-    {
-      "added_at": "2022-04-06 03:33:39",
-      "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2021-11-12 05:23:58",

@@ -1,29 +1,13 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 19270,
+  "num_followers": 19314,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMDI3MjAzOTdiNmY2NWZmZDE1OWE3YzE2ZTI3YmQ1YTUz",
+  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMDIxMGI2NDdjY2VmZWJkNWE4MTZkOWU4NDcwMzM1ZmQ1",
   "tracks": [
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 104360,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -71,6 +55,22 @@
       "duration_ms": 279146,
       "name": "I've Got You Under My Skin - 2011 Remaster",
       "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Tears And Laughter",
-        "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 196960,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Tears And Laughter",
+        "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
-      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Bobby Short Loves Cole Porter",
         "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Don't Look At Me That Way",
-      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+      "duration_ms": 182453,
+      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
+      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -411,18 +395,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "In the Land of Hi-Fi",
-        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 157893,
-      "name": "Let's Do It (Let's Fall in Love)",
-      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -439,6 +423,22 @@
       "duration_ms": 411866,
       "name": "You Do Something to Me - Remastered",
       "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "In the Land of Hi-Fi",
+        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Let's Do It (Let's Fall in Love)",
+      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Cool Heat",
-        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "My Heart Belongs To Daddy",
-      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182466,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Cool Heat",
+        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "My Heart Belongs To Daddy",
+      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -719,18 +719,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "An Evening With Anita O'Day",
-        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
+        "name": "Mel Torme: Swings Shubert Alley",
+        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
         }
       ],
-      "duration_ms": 193600,
-      "name": "From This Moment On - 1955 Version",
-      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
+      "duration_ms": 168373,
+      "name": "Too Darn Hot",
+      "url": "https://open.spotify.com/track/6hY98FQBkn7yb0UjaneOOg"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -751,22 +755,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Mel Torme: Swings Shubert Alley",
-        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
+        "name": "An Evening With Anita O'Day",
+        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
       },
       "artists": [
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        },
-        {
-          "name": "The Marty Paich Orchestra",
-          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 168373,
-      "name": "Too Darn Hot",
-      "url": "https://open.spotify.com/track/6hY98FQBkn7yb0UjaneOOg"
+      "duration_ms": 193600,
+      "name": "From This Moment On - 1955 Version",
+      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
     },
     {
       "added_at": "2022-04-22 13:30:43",

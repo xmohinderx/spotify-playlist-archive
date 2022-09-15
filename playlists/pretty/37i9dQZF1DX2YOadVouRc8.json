@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 7499,
+  "num_followers": 7536,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcxNTQyOSwwMDAwMDAwMDYxMjFjNDdmYmZlNWYxYzE1YWU4ZGNjYTI1ZGExNWM2",
+  "snapshot_id": "MTY2MjcxNTQyOSwwMDAwMDAwMGZkMzQ2ZGE4OGM3MGQyYWJlNjYyOTZkZTFiOTk0MDMy",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/6ERFpGobKqOTMruIRXx280"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -111,22 +127,6 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Your Body (feat. Buju)",
         "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 130918,
       "name": "Your Body (feat. Buju)",
       "url": "https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Bad4u",
-        "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 179762,
-      "name": "Bad4u",
-      "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Rosemary",
@@ -713,20 +697,20 @@
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+        "name": "Bad4u",
+        "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
       },
       "artists": [
         {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+      "duration_ms": 179762,
+      "name": "Bad4u",
+      "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -999,30 +999,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Your Love (Mogbe)",
-        "url": "https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Afro Nation",
-          "url": "https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Your Love - Mogbe",
-      "url": "https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Patient",
         "url": "https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb"
       },
@@ -1043,22 +1019,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Trobul",
-        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
+        "name": "Your Love (Mogbe)",
+        "url": "https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+          "name": "Afro Nation",
+          "url": "https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Trobul",
-      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
+      "duration_ms": 160000,
+      "name": "Your Love - Mogbe",
+      "url": "https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 224837,
       "name": "Can You See Her",
       "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Trobul",
+        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Trobul",
+      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
     },
     {
       "added_at": "2022-08-05 07:48:26",
@@ -1265,26 +1265,6 @@
       "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/52NNbFus4RMbeBzdYmNmx5"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0O5ZbaNWha50PwklOprDgy"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Wamuhle",
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/52NNbFus4RMbeBzdYmNmx5"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0O5ZbaNWha50PwklOprDgy"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Crave",
         "url": "https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 192947,
       "name": "Oha",
       "url": "https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "4 Play",
-        "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 143248,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1365,20 +1349,20 @@
       "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB"
+        "name": "4 Play",
+        "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
       },
       "artists": [
         {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou"
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 198058,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
+      "duration_ms": 143248,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1419,6 +1403,22 @@
       "duration_ms": 181395,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1469,28 +1469,20 @@
       "url": "https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy"
     },
     {
-      "added_at": "2022-08-05 07:48:26",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
+        "name": "Chigal",
+        "url": "https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK"
       },
       "artists": [
         {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
-        },
-        {
-          "name": "See Through Solomon",
-          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
-        },
-        {
-          "name": "KHAN KHALII",
-          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
+      "duration_ms": 126254,
+      "name": "Chigal",
+      "url": "https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL"
     }
   ],
   "unique_name": "Chill Bops",

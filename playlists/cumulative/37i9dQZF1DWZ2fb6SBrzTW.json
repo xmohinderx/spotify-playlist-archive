@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 206041,
       "name": "Fididi",
       "url": "https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv"
@@ -1519,6 +1519,44 @@
       "duration_ms": 155000,
       "name": "Jonzing",
       "url": "https://open.spotify.com/track/0om00rGNa6FVFSIS6jQrmI"
+    },
+    {
+      "album": {
+        "name": "Just Do It",
+        "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Nelcno",
+          "url": "https://open.spotify.com/artist/2zhdw73MF0aMdzngCZ8THY"
+        },
+        {
+          "name": "Sayfar",
+          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
+        },
+        {
+          "name": "Champuru Makhenzo",
+          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322873,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest new pop with the all the drops\. Cover: Gryffin, Kygo & Calum Scott
 
-338 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
+339 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Love Me Anyway](https://open.spotify.com/track/371P951lrWGPczNJbBegJe) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Love Me Anyway](https://open.spotify.com/album/3BSvHCjqrDDEpRxXQT6XF6) | 2:39 | 2022-07-22 | 2022-08-27 |
 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 | 2021-11-19 | 2022-03-05 |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 | 2022-05-28 |
-| [MADELINE](https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM) | 3:24 | 2022-09-02 |  |
+| [MADELINE](https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM) | 3:24 | 2022-09-02 | 2022-09-15 |
+| [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 | 2022-09-02 |  |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 | 2022-06-18 |
 | [Magical Love](https://open.spotify.com/track/0yNJ6ohn2kmEndRLAXhQvJ) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Magical Love](https://open.spotify.com/album/3hqE43sWPNyUZZut3VNgMU) | 3:05 | 2022-06-17 |  |
 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 | 2022-08-19 |  |

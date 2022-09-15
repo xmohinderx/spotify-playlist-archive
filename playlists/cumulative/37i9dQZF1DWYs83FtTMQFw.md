@@ -4,7 +4,7 @@
 
 > The hottest tracks of today...featuring Drake, Rod Wave, and Post Malone
 
-746 songs - 1 day 14 hr 18 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
+747 songs - 1 day 14 hr 21 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [System \(feat\. WizKid\)](https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM) | 3:01 | 2021-07-24 | 2021-08-28 |
 | [Take My Life](https://open.spotify.com/track/4anQUPc2AL7sUnb7ty2v5z) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Take My Life](https://open.spotify.com/album/50Ty1TpXpImACj1vL09dlc) | 3:04 | 2021-08-14 | 2021-09-04 |
 | [Take You Back \(feat\. Kehlani\)](https://open.spotify.com/track/50CXGLOqdsztp42DuJmJ8k) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Take You Back \(feat\. Kehlani\)](https://open.spotify.com/album/5TcrzCHPn2jEKevBqtIwTL) | 2:49 | 2020-09-30\* | 2020-12-04 |
+| [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-13 |  |
 | [Talk To Me](https://open.spotify.com/track/3Kwdm0iLyEiRB8InsZoo6n) | [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Truth Hurts](https://open.spotify.com/album/2bY51cinHBlscXIoLUsDYa) | 3:47 | 2021-02-26 | 2021-05-15 |
 | [TALK2ME](https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TALK2ME](https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt) | 2:20 | 2022-06-10 | 2022-07-23 |
 | [Talkin' Bout \(feat\. Saweetie\)](https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:06 | 2021-04-17 | 2021-05-22 |

@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-112 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+113 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dreamtime](https://open.spotify.com/track/3gtEg83VqmivKPUxhDLbSb) | [Liana](https://open.spotify.com/artist/0uuBvrAP7Gw9dPWvcayz3g) | [Dreamtime](https://open.spotify.com/album/3vkP1MukrrPFgRzlDXwn7g) | 2:02 | 2022-05-25 |  |
 | [El canto de los pájaros](https://open.spotify.com/track/16ZfuuiqOKcSli54cM4fU9) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Noche de Lluvia](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:36 | 2022-05-25 |  |
 | [Elements of Quicksand](https://open.spotify.com/track/6ZyoHDnwJO6zy1xAOjAPQu) | [Chilloa](https://open.spotify.com/artist/5Q0zlGmb0xNmAgRUsWP7K6) | [Elements of Quicksand](https://open.spotify.com/album/49bEH6m6F74PrRw1iYWd36) | 2:54 | 2022-05-25 |  |
+| [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2022-09-13 |  |
 | [Embrace the Light](https://open.spotify.com/track/09U502UKKVz6OtWUidPyf1) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Embrace the Light](https://open.spotify.com/album/4O6JKe83iRSaZRKvXurpqG) | 3:06 | 2022-05-25 |  |
 | [Equilibrio Chakra](https://open.spotify.com/track/6FXUg0x7gz4uCGzS87ujtJ) | [Best Harmony](https://open.spotify.com/artist/1DDYlvXBDsH6Js1b4fEaTM) | [Sonidos Tibetanos para Meditar \- Cuencos Tibetanos y Musica Asiatica](https://open.spotify.com/album/2Xp8zVzp2wJ8eozu66VFyv) | 4:59 | 2022-05-25 | 2022-07-29 |
 | [Equilibrio Chakra](https://open.spotify.com/track/7cF8QHf8cg5FTsLfBpP9GC) | [Estudio Hermoso](https://open.spotify.com/artist/0LMY7yPx2Zd0re2pemRckc) | [Estudio Fácil y Rápido: Sonidos de la Naturaleza para Concentrarse, Aprendizaje Pacífico](https://open.spotify.com/album/2emD2J6rVK0PearatKIG19) | 4:59 | 2022-07-22 |  |
@@ -99,7 +100,7 @@
 | [Spectral Stone](https://open.spotify.com/track/6Rus9WFFNWmwink9FBzhjw) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Spectral Stone](https://open.spotify.com/album/5nw8PE1qYifYIlNXHQesdl) | 3:20 | 2022-05-25 |  |
 | [Sprout Valley](https://open.spotify.com/track/1zq1IjSWVsKDPQ2OIzBMpl) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Sprout Valley](https://open.spotify.com/album/45CmZaGRiS4bduUG2BMUES) | 3:20 | 2022-05-25 |  |
 | [Star Fall](https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Echos From the Past](https://open.spotify.com/album/421b19yvmw3C7gbrbriAHr) | 3:22 | 2022-05-25 |  |
-| [Still](https://open.spotify.com/track/0SHHwOs6JezA4WRfRveIYw) | [Pads of Nature](https://open.spotify.com/artist/0ekIzmtBVmt86kKA5tVt7Z) | [Pads With Easy Rain and Thunder](https://open.spotify.com/album/3cDhYgxxnUd4HB2V3DmNSX) | 2:59 | 2022-05-25 |  |
+| [Still](https://open.spotify.com/track/0SHHwOs6JezA4WRfRveIYw) | [Pads of Nature](https://open.spotify.com/artist/0ekIzmtBVmt86kKA5tVt7Z) | [Pads With Easy Rain and Thunder](https://open.spotify.com/album/3cDhYgxxnUd4HB2V3DmNSX) | 2:59 | 2022-05-25 | 2022-09-15 |
 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 | 2022-05-25 |  |
 | [Surrounded](https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lonely Planet](https://open.spotify.com/album/2WrxpI2N2kHCkKqKN0Xbjq) | 2:52 | 2022-05-25 |  |
 | [Take Me To The Moon](https://open.spotify.com/track/5drHLBwFielOcquGuNIWgV) | [Kayleigh Nixon](https://open.spotify.com/artist/7BqpJHB5B3DUc9kiIgeoDL) | [Take Me To The Moon](https://open.spotify.com/album/4CAxN5Sxnnajk2aVq2xCI4) | 3:10 | 2022-05-25 |  |

@@ -4,7 +4,7 @@
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-75 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5gpuoAqwEPxVmBsNt9nypB)
+76 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/5gpuoAqwEPxVmBsNt9nypB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Peaceful Dreams](https://open.spotify.com/track/5ThS3qUQw06ccseUiritbO) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:15 | 2022-09-08 |  |
 | [Rain](https://open.spotify.com/track/69ky1JyCHb9VJ7G3CzAYHn) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Rain](https://open.spotify.com/album/1Ju9FoPh1ikFpzzweOfYNf) | 2:07 | 2022-09-08 |  |
 | [Raise Me Up](https://open.spotify.com/track/4xQHXRTY5A3YbWBLt79QcJ) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:33 | 2022-09-08 |  |
+| [Rhythmical Hang Drum in City](https://open.spotify.com/track/5OblboL5qBDI1FVFG4ldRZ) | [Diverse Radius](https://open.spotify.com/artist/1mBnCTPK6KhmDmPg2J8GYU) | [Rhythmical Hang Drum in City](https://open.spotify.com/album/60A7MzLf8doLYaI7mpBpMU) | 2:08 | 2022-09-13 |  |
 | [Rising From The Ashes](https://open.spotify.com/track/7anrnbfm5R2A728nx8mICm) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 9:03 | 2022-09-08 |  |
 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 | 2022-09-08 |  |
 | [Rivers of Relief](https://open.spotify.com/track/6ISH3ToV59LoriaqIOrwnw) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 3:55 | 2022-09-08 |  |

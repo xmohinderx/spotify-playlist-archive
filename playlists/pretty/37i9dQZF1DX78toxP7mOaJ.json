@@ -1,13 +1,109 @@
 {
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Goldpark | Artwork: Jim Klok",
-  "num_followers": 100542,
+  "description": "Fresh rock from independent artists every Wednesday. Cover: The Mammoths | Artwork: Jim Klok",
+  "num_followers": 100718,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2NjQwMCwwMDAwMDAwMDVjZTU5ZGU2MDY5ZWIxMWM1MmUyZDcxNWMyZDdiNTY0",
+  "snapshot_id": "MTY2MzE3MTIwMCwwMDAwMDAwMGRiYTE5NDk5YjlkYzg2Njg0ZTg2MjE5NGYyMTRlNjgy",
   "tracks": [
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Consolation Prize",
+        "url": "https://open.spotify.com/album/1cwOYdXfIWFAL0wBFLz8h0"
+      },
+      "artists": [
+        {
+          "name": "The Vacant Lots",
+          "url": "https://open.spotify.com/artist/6TdXT9hdYNXu1Lwu6fA7xW"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/2Gw4bWOg3FacXT757rApV6"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/0d9pZCyvnn1xMAX735WlW9"
+      },
+      "artists": [
+        {
+          "name": "The Paranoyds",
+          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+        }
+      ],
+      "duration_ms": 225014,
+      "name": "BWP",
+      "url": "https://open.spotify.com/track/7MZMaSp8MrJfieHna0nkhq"
+    },
+    {
+      "added_at": "2022-08-24 16:00:00",
+      "album": {
+        "name": "I Guess It's Never Enough",
+        "url": "https://open.spotify.com/album/17BiP5ualaag0gBolfOIXZ"
+      },
+      "artists": [
+        {
+          "name": "Goldpark",
+          "url": "https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z"
+        }
+      ],
+      "duration_ms": 210791,
+      "name": "I Guess It's Never Enough",
+      "url": "https://open.spotify.com/track/3UwcdHtQg3KvF4bgM02Kre"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Long, Long Road",
+        "url": "https://open.spotify.com/album/1wwOT7p7c9ccs63kf7PAct"
+      },
+      "artists": [
+        {
+          "name": "The Mease",
+          "url": "https://open.spotify.com/artist/7ljqSAWy2NRWgBtBHTgHMy"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Long, Long Road",
+      "url": "https://open.spotify.com/track/6DyB0Dyay5wmihQMR5BR1B"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "Bloodshot",
+        "url": "https://open.spotify.com/album/1gLddT3QCTtWOucZuRPiH5"
+      },
+      "artists": [
+        {
+          "name": "The Mammoths",
+          "url": "https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ"
+        }
+      ],
+      "duration_ms": 261064,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm"
+    },
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "Tuning In",
+        "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 115228,
+      "name": "Tuning In",
+      "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
+    },
     {
       "added_at": "2022-09-07 16:00:00",
       "album": {
@@ -25,20 +121,116 @@
       "url": "https://open.spotify.com/track/0FbmqiqcvIETP7SLa3x0aL"
     },
     {
-      "added_at": "2022-08-24 16:00:00",
+      "added_at": "2022-09-14 16:00:00",
       "album": {
-        "name": "I Guess It's Never Enough",
-        "url": "https://open.spotify.com/album/17BiP5ualaag0gBolfOIXZ"
+        "name": "Make You Mad",
+        "url": "https://open.spotify.com/album/7tnYr62bQ7BJd67L8A69td"
       },
       "artists": [
         {
-          "name": "Goldpark",
-          "url": "https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z"
+          "name": "87 Nights",
+          "url": "https://open.spotify.com/artist/5RTiISA2iq6ViQuLUi7HdB"
         }
       ],
-      "duration_ms": 210791,
-      "name": "I Guess It's Never Enough",
-      "url": "https://open.spotify.com/track/3UwcdHtQg3KvF4bgM02Kre"
+      "duration_ms": 243918,
+      "name": "Make You Mad",
+      "url": "https://open.spotify.com/track/5rCAIpNJOv4Kw9QOuvHUPA"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Dreams of Being on Television",
+        "url": "https://open.spotify.com/album/0ik1Xe4aVwpHihmTMTAkxE"
+      },
+      "artists": [
+        {
+          "name": "Unturned",
+          "url": "https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj"
+        }
+      ],
+      "duration_ms": 138514,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/0UU9eN7J6iM0mAISRzqxnn"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Making a Scene",
+        "url": "https://open.spotify.com/album/13rGisUZ9z5lwLkMhTmG2P"
+      },
+      "artists": [
+        {
+          "name": "Dentist",
+          "url": "https://open.spotify.com/artist/3rkvTohJjRrfR0FwRVZGJ2"
+        }
+      ],
+      "duration_ms": 211941,
+      "name": "New Dress",
+      "url": "https://open.spotify.com/track/34MULWFFd6lROjC41h9Iy3"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Chemical Emotion",
+        "url": "https://open.spotify.com/album/4VzLUZMDRGHN5vpyYbLBPd"
+      },
+      "artists": [
+        {
+          "name": "Jeen",
+          "url": "https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Chemical Emotion",
+      "url": "https://open.spotify.com/track/57KXGxtYYTZB0bLwrHHvTD"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Narc",
+        "url": "https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1"
+      },
+      "artists": [
+        {
+          "name": "Cutouts",
+          "url": "https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Narc",
+      "url": "https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Decay",
+        "url": "https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w"
+      },
+      "artists": [
+        {
+          "name": "Wildermiss",
+          "url": "https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB"
+        }
+      ],
+      "duration_ms": 187978,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Time Should Wait",
+        "url": "https://open.spotify.com/album/30P8ZAHSqQgfB4ulOwvNud"
+      },
+      "artists": [
+        {
+          "name": "Twin Suns",
+          "url": "https://open.spotify.com/artist/2jBDQzZ68SehFutPbeX0di"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Time Should Wait",
+      "url": "https://open.spotify.com/track/3t63h1Ykd2HtkVhvRpAeYB"
     },
     {
       "added_at": "2022-09-07 16:00:00",
@@ -89,6 +281,22 @@
       "url": "https://open.spotify.com/track/21GoVUM73Z197lokQtCXdF"
     },
     {
+      "added_at": "2022-08-24 16:00:00",
+      "album": {
+        "name": "Lose My Head",
+        "url": "https://open.spotify.com/album/2TlqNmrasZ9OV3qigvsIxy"
+      },
+      "artists": [
+        {
+          "name": "Little Dume",
+          "url": "https://open.spotify.com/artist/0FNLTSzwVeV9mcsOYSCVbp"
+        }
+      ],
+      "duration_ms": 225545,
+      "name": "Lose My Head",
+      "url": "https://open.spotify.com/track/5BVU00dNS7omvWFfOFmV52"
+    },
+    {
       "added_at": "2022-09-07 16:00:00",
       "album": {
         "name": "Goner (feat. Kellin Quinn)",
@@ -107,38 +315,6 @@
       "duration_ms": 228428,
       "name": "Goner (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/27pE6MqlDtZwVrZz9Cy1VW"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "Bloodshot",
-        "url": "https://open.spotify.com/album/1gLddT3QCTtWOucZuRPiH5"
-      },
-      "artists": [
-        {
-          "name": "The Mammoths",
-          "url": "https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ"
-        }
-      ],
-      "duration_ms": 261064,
-      "name": "Bloodshot",
-      "url": "https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm"
-    },
-    {
-      "added_at": "2022-09-07 16:00:00",
-      "album": {
-        "name": "Tuning In",
-        "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
-      },
-      "artists": [
-        {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
-        }
-      ],
-      "duration_ms": 115228,
-      "name": "Tuning In",
-      "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
     },
     {
       "added_at": "2022-08-24 16:00:00",
@@ -539,22 +715,6 @@
     {
       "added_at": "2022-08-24 16:00:00",
       "album": {
-        "name": "Single Origin Experience",
-        "url": "https://open.spotify.com/album/7BvtxVC8qTnlvTswPBQUop"
-      },
-      "artists": [
-        {
-          "name": "The Paranoyds",
-          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
-        }
-      ],
-      "duration_ms": 167212,
-      "name": "Single Origin Experience",
-      "url": "https://open.spotify.com/track/4ucQe8ppok9I8LsCTQnL1V"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/0TCWxTvZ7ByrG4qNHTzB9s"
       },
@@ -907,22 +1067,6 @@
       "duration_ms": 215202,
       "name": "Party4One",
       "url": "https://open.spotify.com/track/0erKiZkKMOeye2joBEc6Xi"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Lose My Head",
-        "url": "https://open.spotify.com/album/2TlqNmrasZ9OV3qigvsIxy"
-      },
-      "artists": [
-        {
-          "name": "Little Dume",
-          "url": "https://open.spotify.com/artist/0FNLTSzwVeV9mcsOYSCVbp"
-        }
-      ],
-      "duration_ms": 225545,
-      "name": "Lose My Head",
-      "url": "https://open.spotify.com/track/5BVU00dNS7omvWFfOFmV52"
     },
     {
       "added_at": "2022-08-24 16:00:00",
@@ -1503,150 +1647,6 @@
       "duration_ms": 245049,
       "name": "Twisted and Vile",
       "url": "https://open.spotify.com/track/0iePAiGmMH9WLvAkAIUMCt"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Down Tools",
-        "url": "https://open.spotify.com/album/5SO1mqihfLcuRh1CcdxjlT"
-      },
-      "artists": [
-        {
-          "name": "Mush",
-          "url": "https://open.spotify.com/artist/5DXud95iAtgp0CQAwK0yWA"
-        }
-      ],
-      "duration_ms": 318866,
-      "name": "Get On Yer Soapbox",
-      "url": "https://open.spotify.com/track/0UxHujOnu0Qr4eWADl95TE"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Sugarcoated",
-        "url": "https://open.spotify.com/album/5Xtueb3pcJbrf6WiDu4kFl"
-      },
-      "artists": [
-        {
-          "name": "Crooked Teeth",
-          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
-        }
-      ],
-      "duration_ms": 167771,
-      "name": "Sugarcoated",
-      "url": "https://open.spotify.com/track/6IYpiUaE479ntE29xtf7Yu"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "signal",
-        "url": "https://open.spotify.com/album/3DN6oFwdOKixXtWqUltkdF"
-      },
-      "artists": [
-        {
-          "name": "Scout Gillett",
-          "url": "https://open.spotify.com/artist/705dFUqTFi2Gg8B4fZqBLl"
-        }
-      ],
-      "duration_ms": 156315,
-      "name": "signal",
-      "url": "https://open.spotify.com/track/7onK8D6ETbJlBRbJ886Gpe"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "So Pathetic Honestly",
-        "url": "https://open.spotify.com/album/4rNlBvpPDs68iZqAG4jdvA"
-      },
-      "artists": [
-        {
-          "name": "Marlo The Barbarian",
-          "url": "https://open.spotify.com/artist/7m1BqrwcrLup29cVvXTQ6I"
-        }
-      ],
-      "duration_ms": 104509,
-      "name": "So Pathetic Honestly",
-      "url": "https://open.spotify.com/track/60RCYHqaOId2WFSaY0xGpW"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "A Happy Medium",
-        "url": "https://open.spotify.com/album/36UTzYG0Pvd0wmNMkxyXw9"
-      },
-      "artists": [
-        {
-          "name": "SHEAFS",
-          "url": "https://open.spotify.com/artist/7rXC72g2KwyPUJzWxW9CLo"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "En Route Distress",
-      "url": "https://open.spotify.com/track/7g6N89sMw2qeHY0qUbkKQP"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Can't Even Drown",
-        "url": "https://open.spotify.com/album/3rvF7ppj8Kix5rSoCDj1IC"
-      },
-      "artists": [
-        {
-          "name": "Big Smile",
-          "url": "https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM"
-        }
-      ],
-      "duration_ms": 201527,
-      "name": "Can't Even Drown",
-      "url": "https://open.spotify.com/track/4RaVwE2tpvFhv5DRLUkf2G"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Need You Around",
-        "url": "https://open.spotify.com/album/6TzKi3S80fmYkcUHtbTbjJ"
-      },
-      "artists": [
-        {
-          "name": "Well Wisher",
-          "url": "https://open.spotify.com/artist/0dWdiTWk7xiwAfoceq1sXz"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Need You Around",
-      "url": "https://open.spotify.com/track/0GEovNslRt5kStCl6GWemD"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/6artnQrJ9xOXmqlidkZGNe"
-      },
-      "artists": [
-        {
-          "name": "The Tisburys",
-          "url": "https://open.spotify.com/artist/6dlATndNl98YVDwKPTrD7m"
-        }
-      ],
-      "duration_ms": 225974,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/3gQRJ1qxMfqnXAOXA69V1I"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Juniper Street",
-        "url": "https://open.spotify.com/album/2TgrGVUOAuStONkQcJKNY6"
-      },
-      "artists": [
-        {
-          "name": "Also Joe",
-          "url": "https://open.spotify.com/artist/1W4A1H9a1a7ioRdBavsCiq"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Juniper Street",
-      "url": "https://open.spotify.com/track/6FSNJrkdLqOGlSXFSd6JCg"
     }
   ],
   "unique_name": "Fresh Finds Rock",

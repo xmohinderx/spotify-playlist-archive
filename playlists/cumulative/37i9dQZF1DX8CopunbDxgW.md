@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Totally Enormous Extinct Dinosaurs
 
-569 songs - 1 day 12 hr 55 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+570 songs - 1 day 12 hr 58 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Everything Is Everything](https://open.spotify.com/track/1CWG6auQo6ctDPt6wXXHy2) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Raving Dahlia](https://open.spotify.com/album/5DC6XLIcCL7VqCq9LYyuVn) | 3:49 | 2022-02-25 | 2022-04-21 |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 | 2021-12-17 | 2022-02-12 |
 | [Evolve](https://open.spotify.com/track/6hAhLp5sHItLXj1Qcp3eWU) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Evolve](https://open.spotify.com/album/4tUHtE595cOKUWY59IMDB5) | 5:58 | 2022-04-08 | 2022-04-14 |
+| [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 | 2022-09-09 |  |
 | [EXCEPTIONAL](https://open.spotify.com/track/2zg3Y2hKzNeo2qIVXkbKUf) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/0YlIlMvnAz21BWyCeLYNDl) | 2:17 | 2021-09-17 | 2022-08-25 |
 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 | 2022-07-01 |  |
 | [Fade \(feat\. Shells\)](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 | 2022-05-06 |  |
@@ -499,7 +500,7 @@
 | [The Road to Love](https://open.spotify.com/track/2umORTX6Xf9Gqhf3kuGLD0) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [The Road to Love](https://open.spotify.com/album/22rslaxtTJQgVG1KhJAoLW) | 4:10 | 2021-05-21 | 2022-07-29 |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-11 | 2022-07-29 |
 | [The Trouble with Us](https://open.spotify.com/track/47OJzoslrchHSbjAeR4Srv) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2MrsSz89mk5XCcRF3gccLG) | 3:43 | 2022-04-29 | 2022-07-20 |
-| [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 |  |
+| [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 | 2022-09-15 |
 | [The Witching Hour](https://open.spotify.com/track/0wCAUFC6yyUh5Eax8uTLwk) | [Psychic Mirrors](https://open.spotify.com/artist/7wTTRevwI9A3odMw7MWnmh) | [I Come for Your Love](https://open.spotify.com/album/1Puz3OhgsjrTtILUCoIZYt) | 4:26 | 2022-01-28 | 2022-04-14 |
 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 | 2022-06-03 | 2022-07-29 |
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 | 2022-08-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 
 > Listen to brand new music as it arrives and all the classics from the true blue Queen of Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,160 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,339 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 58 | [Come Alive](https://open.spotify.com/track/6hHPBnTvgBjmJoUowLa23S) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:02 |
 | 59 | [Looking For Mercy](https://open.spotify.com/track/1MyVadO3ei1DGHVbDowQGv) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:50 |
 
-Snapshot ID: `MTY2MDgzMDA0MywwMDAwMDAwMDg4MTRkMDNjN2QyZmRkNzk2NTNlMzNmYWJjZDhmZWE4`
+Snapshot ID: `MTY2MzA3NTg2MCwwMDAwMDAwMGM4MDgyZjdkZGIyZmIxZWFiZGYxZDM1Njk4MGI2OTNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,156 likes - 116 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,153 likes - 116 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 61015,
+  "num_followers": 61241,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDg5MzEyNDU1MTVkYzgzODQ3NmQ4YjRjNzY3ZTU1MTg0",
+  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMGNmYWQ0YWI4NDRhY2QwNjgyYzhjZTJjNjY2M2RiOThj",
   "tracks": [
     {
       "added_at": "2020-12-08 17:53:04",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "Staind",
         "url": "https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 247053,
       "name": "Something to Remind You",
       "url": "https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
     },
     {
-      "added_at": "2022-01-05 10:28:40",
-      "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Passing Ships",
-      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
-    },
-    {
       "added_at": "2020-12-08 17:53:04",
       "album": {
         "name": "We Stitch These Wounds",
@@ -1007,6 +991,22 @@
       "duration_ms": 251706,
       "name": "The Mortician's Daughter",
       "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
+    },
+    {
+      "added_at": "2022-01-05 10:28:40",
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 255750,
+      "name": "Passing Ships",
+      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
     },
     {
       "added_at": "2020-12-08 17:53:04",

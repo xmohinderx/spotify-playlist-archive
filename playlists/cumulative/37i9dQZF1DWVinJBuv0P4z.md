@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s.
 
-307 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
+308 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 | 2021-04-29 |  |
 | [December, 1963 \(Oh, What a Night\)](https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [December, 1963 \(Oh, What a Night\) / Slip Away](https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c) | 3:21 | 2021-04-29 | 2022-01-10 |
 | [Disco Inferno](https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Playlist: The Best Of The Trammps](https://open.spotify.com/album/2fbPRtAt1i5f68lZegx1iB) | 3:33 | 2021-04-29 | 2022-01-19 |
+| [Disco Inferno](https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Trammps](https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en) | 3:38 | 2022-05-11 |  |
 | [Disco Inferno \- Single Edit](https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Rhino Hi\-Five: The Trammps](https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7) | 3:11 | 2021-04-29 | 2022-09-02 |
 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7ko2240lyr2DngGin6Fx37) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Mann Made Hits](https://open.spotify.com/album/7tRHGtt1SDEOzRSweMn2yO) | 2:23 | 2021-04-29 | 2022-01-14 |
 | [Do Wah Diddy Diddy \- 1997 Remastered Version](https://open.spotify.com/track/5kWobkGc1McvhM4LzWyJO3) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [At Abbey Road](https://open.spotify.com/album/4Iizap6rgpM8EWv8FW8b0b) | 2:24 | 2021-04-29 | 2022-07-29 |
@@ -157,7 +158,7 @@
 | [Knock Three Times](https://open.spotify.com/track/4Z0K8WzmzsPpX0Po6qMfEh) | [The Dawn](https://open.spotify.com/artist/5z348neb55aaKyQhVgqEvS) | [Knock Three Times](https://open.spotify.com/album/3ZOLIQrSyuIcrek9YB7zys) | 3:00 | 2021-04-29 | 2022-07-29 |
 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-04-29 |  |
 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 | 2021-04-29 |  |
-| [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 | 2021-04-29 |  |
+| [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 | 2021-04-29 | 2022-09-15 |
 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 | 2021-04-29 | 2022-07-29 |
 | [Laughter In The Rain](https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [The Definitive Collection](https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR) | 2:50 | 2021-04-29 |  |
 | [Le Freak \- 2018 Remaster](https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:31 | 2021-04-29 |  |

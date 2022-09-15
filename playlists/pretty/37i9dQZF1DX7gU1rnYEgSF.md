@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,464 likes - 93 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,465 likes - 93 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 3 | [Dinosaur Song](https://open.spotify.com/track/2hgDsY9oLhVlazuyr6FRyj) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 15 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc) | 1:35 |
 | 4 | [If Dinosaurs Were Still Alive](https://open.spotify.com/track/77gY2Dpk26t4U6s3NbDTpF) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Dinosaur Songs](https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj) | 1:21 |
 | 5 | [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 |
-| 6 | [Dinosaur Song](https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 3:04 |
+| 6 | [Dinosaur Song](https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 3:04 |
 | 7 | [Roar Like a Dinosaur](https://open.spotify.com/track/5V8PN3AF3IEckdMJo9Zunq) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:39 |
 | 8 | [I Love Dinosaurs](https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 1:50 |
 | 9 | [Dinosaur Song](https://open.spotify.com/track/6eGrP5UF9ysYwIprgtBTiT) | [ITS MUSIC](https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn) | [Dinosaur Song](https://open.spotify.com/album/1gHWTkLcyoF0ubYXx6kWKa) | 1:48 |
 | 10 | [I Am a Lonely T\-Rex](https://open.spotify.com/track/7zTOGqiWjXnqI5wGai2F29) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 2](https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU) | 2:25 |
 | 11 | [Future Dinosaur](https://open.spotify.com/track/6e6qP0r6SWIOXPcuJS7QeQ) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Future Dinosaur](https://open.spotify.com/album/17923sUaKpO4osXta791hP) | 2:36 |
-| 12 | [Dinosaur](https://open.spotify.com/track/3exDuR6wcyLuT2qoiykN2A) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 2:19 |
+| 12 | [Dinosaur](https://open.spotify.com/track/3exDuR6wcyLuT2qoiykN2A) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 2:19 |
 | 13 | [Little Dinosaurus](https://open.spotify.com/track/4wWzk1ppZh3xfKd7l4NP4E) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Let's Go!](https://open.spotify.com/album/5MKBjVit4lM7LXjsvmvUL8) | 2:54 |
 | 14 | [The Best Hunter, Tyrannosaurus](https://open.spotify.com/track/6DiAaMqHinjIYgwPZfcb8J) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Dinosaur Songs 2](https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0) | 0:59 |
 | 15 | [Dinosaurs](https://open.spotify.com/track/41RBdPyRsBlEFvFVyJBSAM) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Dinosaurs](https://open.spotify.com/album/6tXNn4MnqUi7XeQdPGZKCy) | 2:07 |

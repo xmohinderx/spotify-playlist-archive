@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: kamaitachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,250 likes - 92 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,340 likes - 92 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
 | 2 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
 | 3 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 |
-| 4 | [Exagero](https://open.spotify.com/track/0lvZo386v7BoE7g92gTykf) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/67lL8yGJt7As3rF1lUlukn) | 3:44 |
+| 4 | [Exagero](https://open.spotify.com/track/2k6UjFKX89tA2GPKrmb4NB) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/2lLzotThWmiFq8OcdH9iqz) | 3:44 |
 | 5 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 |
 | 6 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 |
 | 7 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 91 | [Maquiada](https://open.spotify.com/track/6r4ow3Hjow2Tx07b12ejlP) | [João Cortez](https://open.spotify.com/artist/53RdXNH4yHV9BGrbMPkmc3), [Olivier](https://open.spotify.com/artist/4UAqN2U4TLaw2XiSwkcm9y), [Erraudo](https://open.spotify.com/artist/3WMrwahbAyOHX1BN54smJ0) | [Maquiada](https://open.spotify.com/album/7ELgVDiXijxfvkv4zdlII0) | 2:56 |
 | 92 | [a gente não tem nada a ver](https://open.spotify.com/track/5nb12r6ybXzM0rtBuqjwq3) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5AQ9zGD6JEYYyY0lMzBNK8) | 4:02 |
 
-Snapshot ID: `MTY2MjczOTUzNSwwMDAwMDAwMGU1MDJlYzVkMGQzZWNiNzVmNzdmZGMyYWJkN2VhYzJl`
+Snapshot ID: `MTY2MjczOTUzNSwwMDAwMDAwMDI3MmQwY2Y3ODQ5MmEzYjcyZmQ1NWJjOGY0ODZiNDU2`

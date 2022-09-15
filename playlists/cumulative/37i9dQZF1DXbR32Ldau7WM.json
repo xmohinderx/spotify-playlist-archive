@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: ONE OK ROCK",
+  "description": "The biggest rock artists in Japan right now! Cover: ELLEGARDEN",
   "name": "Big in Japan",
   "published_playlist_ids": [
     "58cr9qiZRcBgGXeUmGq6P3"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 285452,
       "name": "BOY 2022",
       "url": "https://open.spotify.com/track/0xK0rCpjfmmmdPdbpyfMqg"
@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Intergalactic",
+        "url": "https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2"
+      },
+      "artists": [
+        {
+          "name": "dustbox",
+          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204892,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 216533,
       "name": "Entertain",
       "url": "https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb"
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 266092,
       "name": "POP",
       "url": "https://open.spotify.com/track/29KLMsYb7Bv4b6L4rBDbxL"
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 265420,
       "name": "Scratch",
       "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
@@ -2601,7 +2619,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 194784,
       "name": "September",
       "url": "https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2"
@@ -2810,6 +2828,24 @@
     },
     {
       "album": {
+        "name": "Strike It Out",
+        "url": "https://open.spotify.com/album/36NZdT4c4aVOaCmC5swiMs"
+      },
+      "artists": [
+        {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243004,
+      "name": "Strike It Out",
+      "url": "https://open.spotify.com/track/6Ecv0FwhjvF13fdnGbcQUu"
+    },
+    {
+      "album": {
         "name": "SummerDay",
         "url": "https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL"
       },
@@ -2875,7 +2911,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 232959,
       "name": "Tear Down",
       "url": "https://open.spotify.com/track/03gSWDA9k6VJD6IJRMVjyB"
@@ -2915,6 +2951,24 @@
       "duration_ms": 226020,
       "name": "THE GREAT ESCAPE",
       "url": "https://open.spotify.com/track/529hG2KRGHFeZoVg9fe20G"
+    },
+    {
+      "album": {
+        "name": "METAATEM",
+        "url": "https://open.spotify.com/album/1qURL5FFneLcsfIMwIYWO2"
+      },
+      "artists": [
+        {
+          "name": "METAFIVE",
+          "url": "https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262294,
+      "name": "The Haunted",
+      "url": "https://open.spotify.com/track/0onxAgb0IFzPdzZh947SWj"
     },
     {
       "album": {
@@ -3077,6 +3131,24 @@
       "duration_ms": 250000,
       "name": "Tsuki no Wan",
       "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
+    },
+    {
+      "album": {
+        "name": "Double Circle I",
+        "url": "https://open.spotify.com/album/4slJzsQV3ULrJOvOxVEqhD"
+      },
+      "artists": [
+        {
+          "name": "ORANGE RANGE",
+          "url": "https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Typhoon",
+      "url": "https://open.spotify.com/track/310g5w5TN0oMQGpkhjeclF"
     },
     {
       "album": {
@@ -3355,7 +3427,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 241535,
       "name": "You To You",
       "url": "https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ"
@@ -4160,6 +4232,24 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30b8\u30e3\u30c7\u30b8\u30e3\u30d6\u30fc\u30d6\u30fc",
+        "url": "https://open.spotify.com/album/4rD8b6svsSV09woMYKQuaz"
+      },
+      "artists": [
+        {
+          "name": "Hoff Dylan",
+          "url": "https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288358,
+      "name": "\u30c7\u30b8\u30e3\u30c7\u30b8\u30e3\u30d6\u30fc\u30d6\u30fc",
+      "url": "https://open.spotify.com/track/0VxgQOeahno7cvgZrQeu8G"
+    },
+    {
+      "album": {
         "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
         "url": "https://open.spotify.com/album/3qlHymwh2d2i7HIR8ZPgY7"
       },
@@ -4225,7 +4315,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 192133,
       "name": "\u30ca\u30f3\u30d0\u30fc1 - Remastered Version",
       "url": "https://open.spotify.com/track/40lwHVBXtwwwp41vIv4hz3"
@@ -4719,6 +4809,24 @@
       "duration_ms": 234346,
       "name": "\u5742\u9053\u3092\u4e0a\u3063\u3066",
       "url": "https://open.spotify.com/track/3XilAwFIiV2u3lA58K3xSS"
+    },
+    {
+      "album": {
+        "name": "\u5909\u4f53",
+        "url": "https://open.spotify.com/album/7ERWmTKxheW6FGivVzp0o2"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Furukawa",
+          "url": "https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212076,
+      "name": "\u5909\u4f53",
+      "url": "https://open.spotify.com/track/2yRDyJLy07yT2pklodDix4"
     },
     {
       "album": {
@@ -5516,6 +5624,24 @@
     },
     {
       "album": {
+        "name": "\u767d\u3044\u7d19\u98db\u884c\u6a5f",
+        "url": "https://open.spotify.com/album/17YgrMGjan9sj159UUXWRO"
+      },
+      "artists": [
+        {
+          "name": "Magokoro Brothers",
+          "url": "https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220145,
+      "name": "\u767d\u3044\u7d19\u98db\u884c\u6a5f",
+      "url": "https://open.spotify.com/track/4jzo48ABs5PnEeQFoCVmtx"
+    },
+    {
+      "album": {
         "name": "slo-mo replay",
         "url": "https://open.spotify.com/album/5xLIXu1M862sXdSj3VI0ny"
       },
@@ -5581,7 +5707,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 224399,
       "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
       "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"

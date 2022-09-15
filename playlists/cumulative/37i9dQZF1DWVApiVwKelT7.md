@@ -4,7 +4,7 @@
 
 > Time to mend your broken heart with beautiful melodies!
 
-84 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/1QMVYWx8g4Nd9sYz08lg5x)
+85 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1QMVYWx8g4Nd9sYz08lg5x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Iravingu Theevai](https://open.spotify.com/track/33URgXLE4IQdDSyG4zc4MY) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [96 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mtHV7uS0a40wYuxWonMyO) | 3:41 | 2021-09-15 |  |
 | [Jodi Nilave \- The Pain of Tamizh](https://open.spotify.com/track/55OWBVrrcsWEqs56IG8YIw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Thangamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3) | 2:58 | 2021-09-15 |  |
 | [Kaadhal Endral](https://open.spotify.com/track/5jXrULyYKHjkAMk4TXZFoG) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Goa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CgPGsPTqljgnqoHE810P7) | 1:27 | 2021-09-15 |  |
+| [Kaalangal Thaandi](https://open.spotify.com/track/24m8okuomXGJJbYFAEWnHM) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Sita Ramam \(Tamil\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6d39aZOgNwoN7dZlHvx1U9) | 2:45 | 2022-09-13 |  |
 | [Kadhal Oru Aagayam](https://open.spotify.com/track/6EwRpLL5QThnF2k1sZzQpC) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Al Rufian](https://open.spotify.com/artist/57o1IPq5xCi32XkPLCDsjh) | [Imaikkaa Nodigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6iiGyjdV6vQ5aQTw872aDS) | 2:41 | 2021-09-15 |  |
 | [Kadhal Valarthen](https://open.spotify.com/track/2zTr8wJO9ZAYDJkpWC1Kpe) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kay Kay](https://open.spotify.com/artist/5gvyySuBMClBPfubvOjrIR) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YvUZ2VpPl6SaKiA0Tp6i2) | 7:29 | 2021-09-15 | 2022-07-29 |
 | [Kadhal Valarthen](https://open.spotify.com/track/2bZOaehykrzd1gGXA6IfvC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kay Kay](https://open.spotify.com/artist/5gvyySuBMClBPfubvOjrIR) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 7:29 | 2021-09-15 | 2022-09-05 |
@@ -91,6 +92,6 @@
 | [Yamma Yamma](https://open.spotify.com/track/1dmTEETgoWQVeNZb1g8dZc) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [7 Aum Arivu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2DZBzmiDbp9n5AdP9i4rWp) | 6:06 | 2021-09-15 |  |
 | [Yean](https://open.spotify.com/track/3hPCWHbxe2tplcTkZByG9c) | [Gowri T.P.](https://open.spotify.com/artist/4vOfSBaKbo6pqf8BnQ7nSC) | [96 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mtHV7uS0a40wYuxWonMyO) | 2:24 | 2021-09-15 |  |
 | [Yedho Ondru Ennai](https://open.spotify.com/track/3c1tJAYgROZEdqRfm7Wsny) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Paiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/634XiL0HdManH26qduu9Xw) | 3:33 | 2021-09-15 |  |
-| [Yenga Pona Raasa](https://open.spotify.com/track/5v5g63WRf632vG45fCErpW) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Maryan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NHRsm0K6U2PhxFgNhEBby) | 3:44 | 2021-09-15 |  |
+| [Yenga Pona Raasa](https://open.spotify.com/track/5v5g63WRf632vG45fCErpW) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Maryan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NHRsm0K6U2PhxFgNhEBby) | 3:44 | 2021-09-15 | 2022-09-15 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

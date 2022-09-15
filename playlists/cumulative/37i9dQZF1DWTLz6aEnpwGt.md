@@ -4,7 +4,7 @@
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-43 songs - 2 hr 44 min - not published yet
+43 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/3g37yQfypLg7Cr12NUa535)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

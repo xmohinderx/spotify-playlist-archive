@@ -4,7 +4,7 @@
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-296 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+297 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [WHOTFISSATAN!](https://open.spotify.com/track/4lycLzckejuXWnaPEnJvgj) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH), [miseryfell](https://open.spotify.com/artist/6yI0YNDttUvR4fhblpXP9L) | [WHOTFISSATAN!](https://open.spotify.com/album/7uhhajkLHhrm9qUhuEA8Uj) | 2:39 | 2022-04-15 | 2022-07-16 |
 | [WICKED RITUALS](https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4) | [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [WICKED RITUALS](https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq) | 1:58 | 2022-08-26 |  |
 | [Wig Split](https://open.spotify.com/track/3hbUwKl4G1I9s2HOSMUFLT) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Wig Split](https://open.spotify.com/album/7qh00TtjVEhmPeU1sJ2YlP) | 2:02 | 2021-10-06 | 2022-07-08 |
-| [WITHOUT A TRACE](https://open.spotify.com/track/5dVkNuhvfRmNas8DMNRNHx) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [WITHOUT A TRACE](https://open.spotify.com/album/0dl89Qv7scjjhnCMJa8Eek) | 2:54 | 2022-01-07 |  |
+| [Without a Trace](https://open.spotify.com/track/57Lu3WurvyA1touYLCR43E) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [Without a Trace](https://open.spotify.com/album/1jue80McJ5QKVH8G3GRe9G) | 2:54 | 2022-09-02 |  |
+| [WITHOUT A TRACE](https://open.spotify.com/track/5dVkNuhvfRmNas8DMNRNHx) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [WITHOUT A TRACE](https://open.spotify.com/album/0dl89Qv7scjjhnCMJa8Eek) | 2:54 | 2022-01-07 | 2022-09-15 |
 | [WOKE UP](https://open.spotify.com/track/2vpHZfMYlJ98xwVo5NknQ5) | [luvseat](https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs) | [god complex](https://open.spotify.com/album/4MCcSOMcdAnXqE0y2PORQD) | 2:05 | 2022-07-15 |  |
 | [WONT GO, CANT GO](https://open.spotify.com/track/2O3hkB4iZonOxvwmMfmBFE) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [COLD SUMMER EP](https://open.spotify.com/album/1oTYm9f5F9rjN9Fh9KKMRE) | 2:02 | 2022-07-01 |  |
 | [WORLD $TAR](https://open.spotify.com/track/1UTcI73Dr5ROP0ddDvlImu) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [WORLD $TAR](https://open.spotify.com/album/3vDC0ra5Duoh4rMUwYXnLk) | 1:57 | 2021-09-17 |  |

@@ -775,7 +775,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 219800,
       "name": "Arrival of Infinity",
       "url": "https://open.spotify.com/track/6sUrPSWkKkWSGVBMbyUajz"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 203423,
       "name": "Awash",
       "url": "https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 201000,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 115494,
       "name": "Before Leaving",
       "url": "https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje"
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 134750,
       "name": "Change",
       "url": "https://open.spotify.com/track/17Zbj5tTucjCpIk2ooAfLS"
@@ -2201,6 +2201,24 @@
       "duration_ms": 184714,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/61JaCYZ0qRuy74Abs2VNjt"
+    },
+    {
+      "album": {
+        "name": "Climbing",
+        "url": "https://open.spotify.com/album/1O1JvywjelQdazDkPI9Lei"
+      },
+      "artists": [
+        {
+          "name": "Barbena",
+          "url": "https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155463,
+      "name": "Climbing",
+      "url": "https://open.spotify.com/track/1x7zBpMIdrySvhENuSY5JV"
     },
     {
       "album": {
@@ -3385,7 +3403,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 234673,
       "name": "Ecotone",
       "url": "https://open.spotify.com/track/5N2NjsHVMMkyqFJ4BkrEdW"
@@ -3943,7 +3961,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 187716,
       "name": "Exodus Pt. 1",
       "url": "https://open.spotify.com/track/5lYclvR4p6cEl3r3V0gG5M"
@@ -4195,7 +4213,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 167142,
       "name": "Focus",
       "url": "https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f"
@@ -4231,7 +4249,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 251993,
       "name": "For Me to Become",
       "url": "https://open.spotify.com/track/6oyhR0423JljOHzgpkkuBb"
@@ -4411,7 +4429,7 @@
       ],
       "date_added": "2020-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 131750,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/6CpQnALvep6fYnL0BKNsOy"
@@ -5481,7 +5499,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 154285,
       "name": "In Context",
       "url": "https://open.spotify.com/track/3VtwqVa4zccZMKIiFsMEtk"
@@ -5931,7 +5949,7 @@
       ],
       "date_added": "2019-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 203250,
       "name": "Kalmte",
       "url": "https://open.spotify.com/track/1Mvt8IaW1Pl48tFkXXuUuQ"
@@ -5967,7 +5985,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 163833,
       "name": "Kohobodi Boy",
       "url": "https://open.spotify.com/track/4x4uXEc4LzgBMNu1MJGz6Y"
@@ -6097,6 +6115,24 @@
       "duration_ms": 276294,
       "name": "Layers of Clouds",
       "url": "https://open.spotify.com/track/0Owl6328H7Ia7SaprjOJku"
+    },
+    {
+      "album": {
+        "name": "Leende",
+        "url": "https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Leende",
+      "url": "https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo"
     },
     {
       "album": {
@@ -6237,7 +6273,7 @@
       ],
       "date_added": "2019-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 160881,
       "name": "Light Pillars",
       "url": "https://open.spotify.com/track/2wwSUWVy8nttJ4htUbRAJc"
@@ -6309,7 +6345,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 114048,
       "name": "Llegan a Piscina",
       "url": "https://open.spotify.com/track/43s3yCJpcXkpnEkx5oz4o1"
@@ -7209,7 +7245,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 188592,
       "name": "New Endings",
       "url": "https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv"
@@ -8145,7 +8181,7 @@
       ],
       "date_added": "2019-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 105626,
       "name": "Piano Ele\u0301ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
@@ -8577,7 +8613,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 190751,
       "name": "Relajaci\u00f3n espiritual",
       "url": "https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2"
@@ -8685,7 +8721,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 188000,
       "name": "Returning",
       "url": "https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB"
@@ -9009,7 +9045,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 218500,
       "name": "Schwebend",
       "url": "https://open.spotify.com/track/775dmuIRQojrplsns8VKen"
@@ -9387,7 +9423,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 166900,
       "name": "Skylines",
       "url": "https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq"
@@ -9513,7 +9549,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 211604,
       "name": "Slumbers",
       "url": "https://open.spotify.com/track/3BSKxVvda7WjfYIm3rhOgY"
@@ -10107,7 +10143,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 182240,
       "name": "Sue\u00f1o tranquilo",
       "url": "https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp"
@@ -10507,7 +10543,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 185879,
       "name": "The Art Of Love",
       "url": "https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG"
@@ -11375,7 +11411,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 184503,
       "name": "Unleash",
       "url": "https://open.spotify.com/track/1n4ZnOc0Pyzf4zfRWdJ8P1"
@@ -11411,7 +11447,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 158083,
       "name": "Until Eternity",
       "url": "https://open.spotify.com/track/5ErwsVte3OWoO9oyeVXPoT"
@@ -11879,7 +11915,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 174000,
       "name": "We Owe It To Them",
       "url": "https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs"
@@ -11973,6 +12009,24 @@
       "duration_ms": 176770,
       "name": "When Crickets Sing",
       "url": "https://open.spotify.com/track/0nXETrkCqANlPdWDDFmhCY"
+    },
+    {
+      "album": {
+        "name": "Whispered Dreams",
+        "url": "https://open.spotify.com/album/4gGMNIuAR2JqtKBPIfiDYA"
+      },
+      "artists": [
+        {
+          "name": "El Ambiente",
+          "url": "https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193863,
+      "name": "Whispered Dreams",
+      "url": "https://open.spotify.com/track/0wz1CgXFr0aSu1UzqEGG4C"
     },
     {
       "album": {

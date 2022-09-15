@@ -4,7 +4,7 @@
 
 > Gorillaz make anti pop.
 
-1,074 songs - 2 day 4 hr 13 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,075 songs - 2 day 4 hr 16 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,7 +731,7 @@
 | [PORN ACTING\*](https://open.spotify.com/track/5BkazOzXKqpVE4RI7Dbxnw) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/6yUbpBVYQGs6Me7cRHBi91) | 2:52 | 2022-02-28 | 2022-07-29 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-02-07 | 2022-05-10 |
 | [Pot Of Gold](https://open.spotify.com/track/625VzKuhHcZ2rz7igDtL6r) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Pot Of Gold](https://open.spotify.com/album/2uHZqj1Xzf7F9fCjwzoDPR) | 2:11 | 2021-09-21 | 2021-10-14 |
-| [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2022-08-13 |  |
+| [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2022-08-13 | 2022-09-15 |
 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 | 2022-03-03 | 2022-04-12 |
 | [Prada](https://open.spotify.com/track/4vaEOyy9MYJIsa8YvaxCD6) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Prada](https://open.spotify.com/album/01YijZvjK0ksgnERYtrYaX) | 1:53 | 2021-10-22 | 2022-02-05 |
 | [PRADA](https://open.spotify.com/track/16jBWK7aESGNXLg1j3CQsh) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6), [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [PRADA](https://open.spotify.com/album/3jqxa9wg8qLLvfoSzPpcU9) | 2:09 | 2022-07-08 | 2022-08-06 |
@@ -1069,6 +1069,7 @@
 | [YELLOW SKIES](https://open.spotify.com/track/5FpAzK3jKjNIKSwdlClkol) | [Evenson](https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd) | [YELLOW SKIES](https://open.spotify.com/album/7kRd6rg9t85d9vKAKoFcEh) | 3:24 | 2022-03-29 | 2022-07-01 |
 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 | 2022-05-09 |  |
 | [You the One Fish in the Sea](https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 2:32 | 2022-07-08 |  |
+| [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-14 |  |
 | [YOU.F.O.](https://open.spotify.com/track/6MHSHFtKYMVvwnld8EglC4) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [YOU.F.O.](https://open.spotify.com/album/3s5aXGEfkweuVJCaJyHCjV) | 3:00 | 2021-06-27 | 2022-01-13 |
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2020-10-13\* | 2020-11-03 |
 | [Youtube2MP3](https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Youtube2MP3](https://open.spotify.com/album/1BCUWBszISTyrWaR2T0pPi) | 3:56 | 2021-03-19 | 2021-10-16 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-251 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+252 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fly With Us](https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0) | 4:08 | 2021-10-29 |  |
 | [Fool](https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Fool](https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [Fool for You](https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4) | [Fool for You](https://open.spotify.com/album/2UV9snZDoMGxjR8j40ZTyB) | 3:14 | 2021-10-29 | 2022-06-11 |
+| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2022-09-09 |  |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-29 | 2022-02-12 |
 | [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-26 |  |
 | [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 |  |
@@ -126,7 +127,7 @@
 | [Joi](https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Joi](https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT) | 3:36 | 2021-10-29 |  |
 | [Juicy Sushi](https://open.spotify.com/track/0Y5IZuawYGfvmmLwRz1YW2) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Juicy Sushi](https://open.spotify.com/album/3tKRSStZAlKxPsW9RuOZI2) | 2:24 | 2021-10-29 | 2022-04-20 |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2021-10-29 |  |
-| [Leave Your Mind Behind](https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z) | 3:06 | 2022-01-28 |  |
+| [Leave Your Mind Behind](https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z) | 3:06 | 2022-01-28 | 2022-09-15 |
 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-08-26 |  |
 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-26 | 2022-09-05 |
 | [Let Me Be The One](https://open.spotify.com/track/5ijDq4SioO6LGGeAIZu6W9) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Let Me Be The One](https://open.spotify.com/album/0ywvrZjl2FsnnjQGi6wOnU) | 2:39 | 2021-10-29 | 2022-04-21 |

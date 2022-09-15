@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: George Riley
 
-425 songs - 1 day 7 hr 41 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+426 songs - 1 day 7 hr 45 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,8 @@
 | [Part Of Me](https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa) | 2:09 | 2022-03-11 | 2022-04-15 |
 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 | 2022-09-01 |  |
 | [Passion \- Sam Gellaitry Remix](https://open.spotify.com/track/4Kd2L1XwxyGOa9dcQIEndh) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 3:00 | 2022-02-04 | 2022-05-06 |
-| [Patience](https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Patience](https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH) | 4:17 | 2022-08-04 |  |
+| [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 | 2022-09-08 |  |
+| [Patience](https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Patience](https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH) | 4:17 | 2022-08-04 | 2022-09-15 |
 | [Pax](https://open.spotify.com/track/00DrCz52C36qaTPItWpCNK) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Pax](https://open.spotify.com/album/3Qk1ydD4XDPOdLOOqCF4Lh) | 5:05 | 2022-09-01 |  |
 | [Peace](https://open.spotify.com/track/66GA7b6ONDHPYgBBqJe9J0) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Peace](https://open.spotify.com/album/3Y1lboWzn2kyYjVDOwkBjd) | 3:57 | 2022-07-21 |  |
 | [Phone Call](https://open.spotify.com/track/3cVi9bWA3cGzHtYlWTIcCY) | [Henry Wu](https://open.spotify.com/artist/0IvTgqmNuZwVjEkkjzxLha) | [Phone Call](https://open.spotify.com/album/6rfqVlaBbJ4yYts6VSi8rx) | 4:30 | 2022-07-14 |  |

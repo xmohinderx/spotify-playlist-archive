@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-226 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+228 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2021-12-09 |  |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-09 |  |
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2021-12-09 |  |
+| [Alunissage](https://open.spotify.com/track/3I9DGW4nS3BJJeyoPNuOHS) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Alunissage](https://open.spotify.com/album/0JwgAGmFOckRMnqShQVbGG) | 2:56 | 2022-09-13 |  |
 | [Amedeo](https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo](https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch) | 2:17 | 2022-06-24 |  |
 | [anhelo](https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [anhelo](https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q) | 3:32 | 2021-12-09 |  |
 | [As With The Night Sky](https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:27 | 2022-07-27 | 2022-08-13 |
@@ -92,6 +93,7 @@
 | [In the deep](https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [In the deep](https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt) | 2:56 | 2022-02-03 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-03 |  |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-08-23 |  |
+| [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2021-12-09 | 2022-08-13 |
 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 | 2021-12-09 | 2022-03-22 |
 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 | 2021-12-09 |  |

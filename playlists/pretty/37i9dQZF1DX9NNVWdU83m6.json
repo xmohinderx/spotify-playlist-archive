@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 28311,
+  "num_followers": 28377,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGFhYWMyZjY5MjNiNjBkOTMwYTJjYjczZjkzM2VjNWZi",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGQzYTI5NzA1NDM2YmFkZmNlMWY0ZjdiYWVmODc3NTRi",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Bundles (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "duration_ms": 557933,
+      "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Akashic Xronicles",
@@ -475,26 +491,6 @@
       "duration_ms": 267915,
       "name": "Akashic Xronicles",
       "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Love Devotion Surrender",
-        "url": "https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 568893,
-      "name": "The Life Divine",
-      "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -519,18 +515,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Bundles (Remastered And Expanded Edition)",
-        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
+        "name": "Love Devotion Surrender",
+        "url": "https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g"
       },
       "artists": [
         {
-          "name": "Soft Machine",
-          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
         }
       ],
-      "duration_ms": 557933,
-      "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
-      "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
+      "duration_ms": 568893,
+      "name": "The Life Divine",
+      "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv"
-      },
-      "artists": [
-        {
-          "name": "Derek Sherinian",
-          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
-        }
-      ],
-      "duration_ms": 218559,
-      "name": "Scorpion",
-      "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "move",
@@ -617,6 +601,22 @@
       "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
     },
     {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv"
+      },
+      "artists": [
+        {
+          "name": "Derek Sherinian",
+          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
+        }
+      ],
+      "duration_ms": 218559,
+      "name": "Scorpion",
+      "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Never Ending",
@@ -631,6 +631,22 @@
       "duration_ms": 169000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+    },
+    {
+      "added_at": "2021-03-26 04:01:00",
+      "album": {
+        "name": "Planet",
+        "url": "https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL"
+      },
+      "artists": [
+        {
+          "name": "Isfar Sarabski",
+          "url": "https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Novruz",
+      "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -649,20 +665,20 @@
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
     },
     {
-      "added_at": "2021-03-26 04:01:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Planet",
-        "url": "https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL"
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
       },
       "artists": [
         {
-          "name": "Isfar Sarabski",
-          "url": "https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK"
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
         }
       ],
-      "duration_ms": 332000,
-      "name": "Novruz",
-      "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
+      "duration_ms": 280666,
+      "name": "Lowell",
+      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -687,22 +703,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Lowell",
-      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Two Drink Minimum",
         "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 407000,
       "name": "Whippersnapper",
       "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Lingua Franca",
-        "url": "https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh"
-      },
-      "artists": [
-        {
-          "name": "T.R.A.M",
-          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
-        }
-      ],
-      "duration_ms": 284186,
-      "name": "Consider Yourself Judged",
-      "url": "https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -755,6 +739,22 @@
       "duration_ms": 269920,
       "name": "Ultima",
       "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Lingua Franca",
+        "url": "https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh"
+      },
+      "artists": [
+        {
+          "name": "T.R.A.M",
+          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
+        }
+      ],
+      "duration_ms": 284186,
+      "name": "Consider Yourself Judged",
+      "url": "https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE"
     },
     {
       "added_at": "2021-01-27 19:39:49",

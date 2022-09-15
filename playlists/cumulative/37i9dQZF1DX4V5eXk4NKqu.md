@@ -4,7 +4,7 @@
 
 > Best Latin Indie tracks right now\. Cover: Kevin Kaarl
 
-167 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/18mw8A3EJYED9nllSiRieV)
+168 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/18mw8A3EJYED9nllSiRieV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [SE VA](https://open.spotify.com/track/6zwtJ3Hcd3lxA18bbaTdC8) | [unÁnima](https://open.spotify.com/artist/5QxH2WRNyntAccePm1BtD3) | [SE VA](https://open.spotify.com/album/23OlgHn7is9dDUk4ltwmZB) | 3:56 | 2022-09-06 |  |
 | [SE VA](https://open.spotify.com/track/717XvDpsXRHN526Z6YRnlc) | [unÁnima](https://open.spotify.com/artist/5QxH2WRNyntAccePm1BtD3) | [SE VA](https://open.spotify.com/album/2IKN967IU3K0LaaFPFQ7ml) | 3:56 | 2022-03-10 | 2022-07-28 |
 | [Secuestro Al Corazón](https://open.spotify.com/track/17iFYr5wL9jN23PZCitJmi) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Secuestro Al Corazón](https://open.spotify.com/album/6xqaapMrs0H4rFEuB5Ai1W) | 3:13 | 2022-03-10 |  |
-| [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-03-10 |  |
+| [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-09-06 |  |
+| [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-03-10 | 2022-09-15 |
 | [Si Tú Supieras](https://open.spotify.com/track/5UbZkag2EpEKQugkdrUluj) | [Maddy Beyton](https://open.spotify.com/artist/2dOP9NOlS6h7YtuAn2EzVA) | [Si Tú Supieras](https://open.spotify.com/album/6CRpj51c1A3Pbx05JsKGPt) | 3:10 | 2022-03-10 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-09-06 |  |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-09-06 |  |

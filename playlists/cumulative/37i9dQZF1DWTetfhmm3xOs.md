@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-96 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5wzrCqfV41QHbMB8anhB8k)
+97 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/5wzrCqfV41QHbMB8anhB8k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Hills of Calm](https://open.spotify.com/track/42yklXVTId98yfwJdpIrjX) | [Life Line Hub](https://open.spotify.com/artist/1VFGLQHXOKyzfPDf9FTcTx) | [Hills of Calm](https://open.spotify.com/album/09UEBRt9zN7VIVb1SIvxOb) | 2:34 | 2022-07-08 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-05-25 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-05-25 |  |
-| [Kundalini](https://open.spotify.com/track/0sLaaBl2OPlNJeqvhycUab) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Kundalini](https://open.spotify.com/album/7n2KeDhj36LPnHni9QgkDo) | 2:22 | 2022-05-25 |  |
+| [Kundalini](https://open.spotify.com/track/0sLaaBl2OPlNJeqvhycUab) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Kundalini](https://open.spotify.com/album/7n2KeDhj36LPnHni9QgkDo) | 2:22 | 2022-05-25 | 2022-09-15 |
 | [Lidia's Song](https://open.spotify.com/track/2cPfYDD11tZSALRgFBrAtK) | [Snow Orchid](https://open.spotify.com/artist/4IA09oabGSDGrVzs9cQyRF) | [Lidia's Song](https://open.spotify.com/album/5OYV4MgU4EYervsWemH396) | 4:14 | 2022-05-25 | 2022-07-09 |
 | [Light Ascending](https://open.spotify.com/track/483t4Dw6FPoKXyhMnDNkRY) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [Light Ascending](https://open.spotify.com/album/3VnaphUrqIjgbzkHU29fB7) | 2:47 | 2022-05-25 | 2022-07-29 |
 | [Light Ascending](https://open.spotify.com/track/5PAkAiq4kOuMYITzYCkEV4) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [The Sand That Ate The Sea](https://open.spotify.com/album/5gB7mLZc3DkMOahSlHfpKZ) | 2:47 | 2022-07-22 |  |
@@ -95,6 +95,7 @@
 | [Snesl bych ti modré z nebe](https://open.spotify.com/track/1v8nEP8CRicvuRiGxxjZF6) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Snesl bych ti modré z nebe](https://open.spotify.com/album/4XDdhhDFoUgsmSjcVFRJp0) | 4:19 | 2022-05-25 |  |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-05-25 |  |
 | [Soporific](https://open.spotify.com/track/3qdpjZleqYS2oJhGzXDXcz) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [Soporific](https://open.spotify.com/album/1EWsupezffYk8uVCsHESYH) | 3:20 | 2022-05-25 |  |
+| [Spirituality](https://open.spotify.com/track/541WtSF3QB1Rq4sSsc8Akk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Spirituality](https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2) | 1:55 | 2022-09-13 |  |
 | [Starry Night](https://open.spotify.com/track/6dIVWqAIpWJWxPE7cAki4G) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [Peace on Earth](https://open.spotify.com/album/4RaoQGq4D40J1GU3kYGk13) | 5:39 | 2022-05-25 |  |
 | [Sunrise](https://open.spotify.com/track/5sKl5y9UNn4II2lAwRLeOF) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Sunrise](https://open.spotify.com/album/3mNbZLxYq0x93PJY7tz4Jd) | 3:03 | 2022-05-25 |  |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2022-05-25 |  |

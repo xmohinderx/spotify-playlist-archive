@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
-183 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
+184 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bent El Soltan](https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Bent El Soltan](https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI) | 12:41 | 2021-12-16 |  |
 | [Bet Ya Helwa](https://open.spotify.com/track/4YF7Mrdj25M0rCtb3iiY43) | [Ismail El\-lethi](https://open.spotify.com/artist/2ksh3ZKKnIFDl0HZjVbI3i) | [Bet Ya Helwa](https://open.spotify.com/album/7kD9idyzxKPp3mjV5LoJyi) | 4:03 | 2021-12-16 |  |
 | [Bonbonaya](https://open.spotify.com/track/5ekfw4C7jpdLtbfQ1A5SYo) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Bonbonaya](https://open.spotify.com/album/0OY59LMcxeUJqfLgknZg4M) | 3:57 | 2021-12-16 |  |
-| [Bye Bye](https://open.spotify.com/track/5gb1HXr2CFFMURJRLzpzHi) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Bye Bye](https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD) | 3:16 | 2021-12-16 |  |
+| [Bye Bye](https://open.spotify.com/track/5gb1HXr2CFFMURJRLzpzHi) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Bye Bye](https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD) | 3:16 | 2021-12-16 | 2022-09-15 |
 | [Chicolata](https://open.spotify.com/track/2gMTpYNYooniYFd3qXZcOe) | [Bosy](https://open.spotify.com/artist/3CYfsLhei8oA3TUsEW8w8X), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Aman Ya Sahby](https://open.spotify.com/album/6lhOzHXoc8yFo60o0sXOdT) | 2:43 | 2021-12-16 | 2021-12-29 |
 | [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 | 2021-12-16 | 2022-07-29 |
 | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/track/7tIjuahzTIksfKRBHn4eN2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Amr Yousef](https://open.spotify.com/artist/2k39kWM8QPPwDQ3OLbVZZZ), [Hassan Elraddad](https://open.spotify.com/artist/1OLMBIjZa6BlqAOjL5oIkW), [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Donjwan \(feat\. Amr Yousef, Hassan Elraddad & Yara\)](https://open.spotify.com/album/39myupeh2lms0htXCRYpgv) | 3:18 | 2022-02-23 |  |
@@ -187,6 +187,7 @@
 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmad Amer](https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 | 2021-12-16 |  |
 | [وقت المصلحة](https://open.spotify.com/track/1AJpQusk0FD6jPj9fjyMPC) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5gFFD93W7eXAX5AR6LZnQW) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [وقت المصلحة](https://open.spotify.com/track/5M0tLy6AaUbSyb87kNBSj4) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5g9lc6VOkWss2QwOvd0YFG) | 3:44 | 2022-07-14 |  |
+| [ولا اتخلق](https://open.spotify.com/track/7i4LEpn9NcA8iuQo7z7sdO) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/3CvXGG2DQF1bsLylVWl8Vh) | 5:35 | 2022-09-01 |  |
 | [ولا اتخلق](https://open.spotify.com/track/5UxLwU9gVpev53BUhkB0Rz) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/2RQ1woXbZSbxVhfBPIAQy9) | 5:35 | 2021-12-16 | 2022-07-29 |
 | [يا بت يلا](https://open.spotify.com/track/5RCNzhkR0PshCFMCZsnT2t) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [يا بت يلا](https://open.spotify.com/album/6wf0I4IPoVbeEEJQ2kbPqX) | 4:42 | 2021-12-16 |  |
 | [يلا سلام](https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3) | 4:02 | 2022-07-14 |  |

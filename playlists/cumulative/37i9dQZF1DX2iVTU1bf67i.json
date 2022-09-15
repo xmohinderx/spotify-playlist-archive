@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 145533,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/4RCIJZQ866qGKz0tefgYYt"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 215400,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/0KJRVbEIMIVCjDGZ17jzWP"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 208906,
       "name": "I Wished On The Moon",
       "url": "https://open.spotify.com/track/7cbfKO5rp9BkGRpTs0uuY3"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 203133,
       "name": "I've Got It Bad, and That Ain't Good - 2015 Remastered Version",
       "url": "https://open.spotify.com/track/0QAvmccumXT4prpCvjazkF"
@@ -2031,6 +2031,24 @@
       "duration_ms": 297866,
       "name": "Lands End",
       "url": "https://open.spotify.com/track/73Kvjmkx0D38tlPa2d3JKx"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Marilyn Monroe",
+        "url": "https://open.spotify.com/album/3F8TaBY2U0Vy6VBqBfNjdz"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Monroe",
+          "url": "https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218346,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/6zgmftTQSNQPuU0UI98UVD"
     },
     {
       "album": {
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 121613,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/577faQuWq6ioVGsK4wel5s"
@@ -3093,7 +3111,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 312413,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/4Vlx6e5XTN3aQ9MjUF1p6q"
@@ -3169,7 +3187,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 182506,
       "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
       "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
@@ -3823,7 +3841,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 321373,
       "name": "Where Are You? - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5OiS6Qse8ZY9jJ5CTwO9Yx"
@@ -4101,7 +4119,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 343533,
       "name": "Younger Than Springtime",
       "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"

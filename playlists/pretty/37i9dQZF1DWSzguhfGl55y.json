@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 573040,
+  "num_followers": 573227,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjA2OCwwMDAwMDAwMDM3YWE5NjFlZDlhNjU5OTllMTUzNmE1OGI0NjhmZTA1",
+  "snapshot_id": "MTY2MjY1MjA2OCwwMDAwMDAwMDBiMTcxODM1N2FhMzkxNmJiMGYzNDUwZTdlZWZiMWNh",
   "tracks": [
     {
       "added_at": "2022-09-08 15:47:48",
@@ -235,18 +235,26 @@
     {
       "added_at": "2022-09-08 15:47:48",
       "album": {
-        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
-        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
+        "name": "Advanced Chemistry",
+        "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
       },
       "artists": [
         {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
         }
       ],
-      "duration_ms": 219013,
-      "name": "Oh Jonny",
-      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+      "duration_ms": 253680,
+      "name": "Ahnma",
+      "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
     },
     {
       "added_at": "2022-09-08 15:47:48",
@@ -283,26 +291,18 @@
     {
       "added_at": "2022-09-08 15:47:48",
       "album": {
-        "name": "Advanced Chemistry",
-        "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
+        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
+        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
-        },
-        {
-          "name": "Gentleman",
-          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
         }
       ],
-      "duration_ms": 253680,
-      "name": "Ahnma",
-      "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
+      "duration_ms": 219013,
+      "name": "Oh Jonny",
+      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
     },
     {
       "added_at": "2022-09-08 15:47:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-08 15:47:48",
       "album": {
-        "name": "Raop +5",
-        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
-    },
-    {
-      "added_at": "2022-09-08 15:47:48",
-      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 235186,
       "name": "Hinterland",
       "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
+    },
+    {
+      "added_at": "2022-09-08 15:47:48",
+      "album": {
+        "name": "Raop +5",
+        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
     },
     {
       "added_at": "2022-09-08 15:47:48",

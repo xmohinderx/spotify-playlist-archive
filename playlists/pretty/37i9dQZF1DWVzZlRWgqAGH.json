@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: bLAck pARty",
-  "num_followers": 738889,
+  "num_followers": 739379,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDVmMDVmNGU0ZjEwYzg2YjU2ODIwNjViMjZmMzBmOGYx",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDU2YjI2YzViNTMzZGNlN2FmNTJiNGJjZDBkYTZlMDQ2",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 264412,
-      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 201933,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 264412,
+      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "GEEKIN",
         "url": "https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Athletic Progression",
-        "url": "https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6"
-      },
-      "artists": [
-        {
-          "name": "Athletic Progression",
-          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
-        }
-      ],
-      "duration_ms": 271250,
-      "name": "WHITE CRAYON",
-      "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Athletic Progression",
+        "url": "https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6"
+      },
+      "artists": [
+        {
+          "name": "Athletic Progression",
+          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
+        }
+      ],
+      "duration_ms": 271250,
+      "name": "WHITE CRAYON",
+      "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+          "name": "Tae",
+          "url": "https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2"
         }
       ],
-      "duration_ms": 148194,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
+      "duration_ms": 230000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN"
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
       "artists": [
         {
-          "name": "Tae",
-          "url": "https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -975,6 +975,26 @@
       "duration_ms": 183453,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Red To Violet (Feat. Jamila Woods)",
+        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Red To Violet - Feat. Jamila Woods",
+      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1051,6 +1071,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "SUNRISE (feat. Arlo Parks)",
+        "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        },
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "SUNRISE (feat. Arlo Parks)",
+      "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -1075,62 +1115,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "SUNRISE (feat. Arlo Parks)",
-        "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        },
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "SUNRISE (feat. Arlo Parks)",
-      "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Red To Violet (Feat. Jamila Woods)",
-        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Red To Violet - Feat. Jamila Woods",
-      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Panic Attacks",
-        "url": "https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Panic Attacks",
-      "url": "https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "No Longer in the Suburbs",
         "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 174163,
       "name": "Open",
       "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1167,34 +1167,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+        "name": "Panic Attacks",
+        "url": "https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
+      "duration_ms": 226160,
+      "name": "Panic Attacks",
+      "url": "https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "My Sunrise",
-        "url": "https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6"
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
       "artists": [
         {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 189333,
-      "name": "My Sunrise",
-      "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "My Sunrise",
+        "url": "https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "My Sunrise",
+      "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1283,42 +1283,6 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
-        "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
-      "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Thin Lines",
-        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 171016,
-      "name": "Thin Lines",
-      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1355,6 +1319,42 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Thin Lines",
+        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 171016,
+      "name": "Thin Lines",
+      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
+        "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
+      "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "FutureNever",
         "url": "https://open.spotify.com/album/4xRcGN63W9HPNugSZdiTn5"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 233622,
       "name": "I Feel Electric (feat. Moxie Raia)",
       "url": "https://open.spotify.com/track/4nJuRd8cLin95rTr4B5sZP"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Ties",
+        "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Ties",
-        "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
-      },
-      "artists": [
-        {
-          "name": "FELIVAND",
-          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "One More Kiss",
         "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "EEK",
-        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 247468,
-      "name": "EEK",
-      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+        "name": "EEK",
+        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
       },
       "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
         {
           "name": "Leven Kali",
           "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
+      "duration_ms": 247468,
+      "name": "EEK",
+      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 207986,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR"
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1587,26 +1587,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Groove",
-        "url": "https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
       },
       "artists": [
         {
-          "name": "vsteeze",
-          "url": "https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl"
-        },
-        {
-          "name": "Funky DL",
-          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
-        },
-        {
-          "name": "PF Elle",
-          "url": "https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 177248,
-      "name": "Groove",
-      "url": "https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ"
+      "duration_ms": 207986,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1651,6 +1643,30 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU"
+      },
+      "artists": [
+        {
+          "name": "vsteeze",
+          "url": "https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl"
+        },
+        {
+          "name": "Funky DL",
+          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
+        },
+        {
+          "name": "PF Elle",
+          "url": "https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR"
+        }
+      ],
+      "duration_ms": 177248,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Doubt Nothing",
         "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
       },
@@ -1663,26 +1679,6 @@
       "duration_ms": 180000,
       "name": "Doubt Nothing",
       "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Grey Doubt",
-        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
-      },
-      "artists": [
-        {
-          "name": "The Colours That Rise",
-          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 204005,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1747,6 +1743,42 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Grey Doubt",
+        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
+      },
+      "artists": [
+        {
+          "name": "The Colours That Rise",
+          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 204005,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1783,26 +1815,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Outta This World",
-        "url": "https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 165544,
-      "name": "Outta This World",
-      "url": "https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1819,26 +1831,6 @@
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Feeling Like I Like",
-        "url": "https://open.spotify.com/album/22zHbQzq7XTaOPyVPkFalt"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Liliana Andrade",
-          "url": "https://open.spotify.com/artist/0Fxf7Axf1iNSZHj6O1LcO3"
-        }
-      ],
-      "duration_ms": 258184,
-      "name": "Feeling Like I Like",
-      "url": "https://open.spotify.com/track/6cZma1epLKNhXnjiras7GG"
     }
   ],
   "unique_name": "BUTTER",

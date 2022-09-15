@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 314423,
+  "num_followers": 314585,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMGNjMzNiNjY4MzhmNzNjZjMyZWE5ZjVmNTUxMmE3MjQx",
+  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMGE4ZTgyYzMyN2JmNWYyMGM0YTNlNDA0OTY4ZWZmNjMy",
   "tracks": [
     {
       "added_at": "2022-07-28 13:29:24",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "The New Life",
-        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
-      },
-      "artists": [
-        {
-          "name": "Lemos",
-          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
-        }
-      ],
-      "duration_ms": 138598,
-      "name": "The New Life",
-      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 110868,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/5oyUhDr5n4Nz9qGqxxT9Ns"
-      },
-      "artists": [
-        {
-          "name": "Dmitry Evgrafov",
-          "url": "https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8"
-        }
-      ],
-      "duration_ms": 152656,
-      "name": "Illumination",
-      "url": "https://open.spotify.com/track/7JaGrzcmPw3efnhCUbxPqQ"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/5oyUhDr5n4Nz9qGqxxT9Ns"
+      },
+      "artists": [
+        {
+          "name": "Dmitry Evgrafov",
+          "url": "https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8"
+        }
+      ],
+      "duration_ms": 152656,
+      "name": "Illumination",
+      "url": "https://open.spotify.com/track/7JaGrzcmPw3efnhCUbxPqQ"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "The Lost",
-        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
-      },
-      "artists": [
-        {
-          "name": "Otto A. Totland",
-          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Anona",
-      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Hour Glass",
         "url": "https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 171615,
       "name": "Hour Glass",
       "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "The Lost",
+        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
+      },
+      "artists": [
+        {
+          "name": "Otto A. Totland",
+          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Anona",
+      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dagdraumur",
-      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Quintessence",
         "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dagdraumur",
+      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Ave",
-        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
-      },
-      "artists": [
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 110466,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Ave",
+        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Life in Process",
-        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
-      },
-      "artists": [
-        {
-          "name": "Masaki Kawasaki",
-          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Echoes In The Valley",
         "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 202288,
       "name": "Billow Gently",
       "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Life in Process",
+        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
+      },
+      "artists": [
+        {
+          "name": "Masaki Kawasaki",
+          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Balancing Act",
-        "url": "https://open.spotify.com/album/0xI3mEeUiJUXWZorJBVoJR"
-      },
-      "artists": [
-        {
-          "name": "Daniel Schrage",
-          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Balancing Act",
-      "url": "https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "A Cloud Passed",
         "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 136078,
       "name": "A Cloud Passed",
       "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Balancing Act",
+        "url": "https://open.spotify.com/album/0xI3mEeUiJUXWZorJBVoJR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Balancing Act",
+      "url": "https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "An Evening Scene",
         "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 144625,
       "name": "An Evening Scene",
       "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
+        "name": "Untouched Rainforest, Pt.3",
+        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 193529,
+      "name": "Untouched Rainforest, Pt.3",
+      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
         "name": "145",
         "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Untouched Rainforest, Pt.3",
-        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 193529,
-      "name": "Untouched Rainforest, Pt.3",
-      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Any",
         "url": "https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 212000,
       "name": "Any",
       "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
-        "name": "The Void (I Play Mine version)",
-        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Carri",
-          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "The Void - I Play Mine version",
-      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "We Met in the Garden",
-        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
+        "name": "The Void (I Play Mine version)",
+        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
       },
       "artists": [
         {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+          "name": "Andrea Carri",
+          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
         }
       ],
-      "duration_ms": 143585,
-      "name": "We Met in the Garden",
-      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
+      "duration_ms": 159000,
+      "name": "The Void - I Play Mine version",
+      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
+        "name": "We Met in the Garden",
+        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "duration_ms": 143585,
+      "name": "We Met in the Garden",
+      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 151397,
       "name": "Wings",
       "url": "https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
-        "name": "Some Other Place",
-        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
-      },
-      "artists": [
-        {
-          "name": "Meredi",
-          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
-        }
-      ],
-      "duration_ms": 253169,
-      "name": "Some Other Place",
-      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Summer Flowers",
-        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
+        "name": "Some Other Place",
+        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
       },
       "artists": [
         {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
         }
       ],
-      "duration_ms": 144654,
-      "name": "Summer Flowers",
-      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
+      "duration_ms": 253169,
+      "name": "Some Other Place",
+      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1323,6 +1307,22 @@
       "duration_ms": 143140,
       "name": "First Steps",
       "url": "https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Summer Flowers",
+        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "duration_ms": 144654,
+      "name": "Summer Flowers",
+      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
     }
   ],
   "unique_name": "Soft Piano",

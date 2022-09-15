@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Brad & Rebekah
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,104 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,464 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 |
 | 2 | [Tend](https://open.spotify.com/track/6WtlA7Xqe17Wy7tDZK1zSL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Tend](https://open.spotify.com/album/6uHHrvlYvduC1wrZg6irEC) | 4:53 |
-| 3 | [Make Room \- feat\. Cheyenne Mitchell](https://open.spotify.com/track/4syNxwzmWvHhZWPKdTNtJl) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Chapel Sessions](https://open.spotify.com/album/4UIWhAlS9PTGHpPeQohVKL) | 3:23 |
+| 3 | [Make Room \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/4syNxwzmWvHhZWPKdTNtJl) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Chapel Sessions](https://open.spotify.com/album/4UIWhAlS9PTGHpPeQohVKL) | 3:23 |
 | 4 | [Heart & Flesh](https://open.spotify.com/track/5QT13TE0vN29dYa8Ifkz0A) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Heart & Flesh](https://open.spotify.com/album/6EX05GseZptgcwHKil4tqY) | 7:11 |
 | 5 | [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 |
 | 6 | [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [This House](https://open.spotify.com/track/19tKzld3WZbewp6NiFK6Au) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [This House](https://open.spotify.com/album/3Yj9e7Ll5anleQIivblUFx) | 4:20 |
 | 36 | [Mōhio](https://open.spotify.com/track/6ck8vtqwTOJtsdUK2emEvR) | [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Mōhio](https://open.spotify.com/album/4tSGbI8oOTj9W2LF25Ym3h) | 4:20 |
 | 37 | [The Jesus I Know](https://open.spotify.com/track/41aMMpJntPmCFx66jam4yp) | [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [The Jesus I Know](https://open.spotify.com/album/5u8IQWn5X9gjhZEiuJrHAE) | 3:04 |
-| 38 | [Always a Reason](https://open.spotify.com/track/7kJd0dMJD0IEllacvHnDdG) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh) | [Canyon Worship 2022](https://open.spotify.com/album/08Ok9SrFQKzGq4X29msnoP) | 4:55 |
+| 38 | [Always a Reason](https://open.spotify.com/track/7kJd0dMJD0IEllacvHnDdG) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2022](https://open.spotify.com/album/08Ok9SrFQKzGq4X29msnoP) | 4:55 |
 | 39 | [meet me in the darkness](https://open.spotify.com/track/4HSchechLObqkxgnadB44e) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm), [Brigitte Aphrodite](https://open.spotify.com/artist/4QxbYl2k7lOSAZ6kOUh9f7) | [limbo](https://open.spotify.com/album/4EIYHFACWzlWAj1uXTDU5k) | 4:46 |
 | 40 | [No Home](https://open.spotify.com/track/2dEP75K7wp1oBQbaZIMKo4) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [No Home](https://open.spotify.com/album/4yusGAyv72AsiU94sJNlJm) | 3:19 |
 | 41 | [Say Something](https://open.spotify.com/track/2UTy0258EU4llvnccul5DL) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi), [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Say Something](https://open.spotify.com/album/1eoKii3PSPNA3rpxBeYvue) | 3:11 |

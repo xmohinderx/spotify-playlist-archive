@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! Foto: Blessd, Ryan Castro, SOG",
+  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En la portada el FERXXO, mor",
   "name": "Reggaet\u00f3n Colombia",
   "published_playlist_ids": [
     "3OhkR06qQDPnVK6pP9NFg8"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 209160,
       "name": "EL MAKINON",
       "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
@@ -1068,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
+    },
+    {
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 146571,
       "name": "Qu\u00e9 Rico",
       "url": "https://open.spotify.com/track/06n3wAVP2vy0TtYeK8T1ik"
@@ -1353,6 +1371,28 @@
       "duration_ms": 191323,
       "name": "X Ti Lo Digo",
       "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
+    },
+    {
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218693,
+      "name": "XQ Te Pones As\u00ed",
+      "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA"

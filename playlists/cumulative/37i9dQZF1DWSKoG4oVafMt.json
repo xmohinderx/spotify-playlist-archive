@@ -2676,6 +2676,28 @@
     },
     {
       "album": {
+        "name": "Gaddi Vich",
+        "url": "https://open.spotify.com/album/6bfbWtvi8eyz80nVUOOX7t"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Kaur B",
+          "url": "https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Gaddi Vich",
+      "url": "https://open.spotify.com/track/0KxuTHWJkecNAPKuXWIqZH"
+    },
+    {
+      "album": {
         "name": "Gal Ni Bani",
         "url": "https://open.spotify.com/album/4pOsWsGiGZtzzUDoOvzqCl"
       },
@@ -4049,6 +4071,10 @@
         {
           "name": "Jassa Dhillon",
           "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
         },
         {
           "name": "Pavitar Lassoi",
@@ -5884,6 +5910,24 @@
     },
     {
       "album": {
+        "name": "Mere Kol (From \"MOH\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6TKDSEl5wWzHLhhJjM9Ppf"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Mere Kol (From \"MOH\")",
+      "url": "https://open.spotify.com/track/5eJNJfvTVxRpBNH2S8Eqpm"
+    },
+    {
+      "album": {
         "name": "Mere Peera (From \"Kokka\")",
         "url": "https://open.spotify.com/album/693wd2V4lrNdcNEcGXKy7S"
       },
@@ -6609,7 +6653,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170387,
-      "name": "NO LOVE",
+      "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
     },
     {

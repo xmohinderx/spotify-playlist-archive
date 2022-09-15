@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
 
-368 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+369 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 | 2022-05-13 | 2022-07-26 |
 | [Grande migration](https://open.spotify.com/track/4akBNRfIRwNawhhojfXGWo) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Grande migration](https://open.spotify.com/album/1fyIMqskJbbSyvpfgZTE0z) | 5:12 | 2022-04-22 | 2022-07-27 |
 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 | 2021-10-02 | 2022-07-29 |
-| [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-07-08 |  |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-09-13 |  |
+| [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-07-08 | 2022-09-15 |
 | [Guérir nos mémoires](https://open.spotify.com/track/12cIWbQApK1vSdi7l3XKZr) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [À tous les vents](https://open.spotify.com/album/2VlQLyEaLdysGBMbMtDdT6) | 3:24 | 2021-09-05 | 2021-09-06 |
 | [Haïku](https://open.spotify.com/track/0fjuWE2tCIVZHrF3xiuAg8) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Haïku](https://open.spotify.com/album/4RfPrdBu7XCODbdgswuWWo) | 3:02 | 2021-01-03\* | 2021-10-09 |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-02-11 |  |
@@ -185,7 +186,7 @@
 | [Le Tour](https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 3:20 | 2021-09-20 |  |
 | [Le triomphe d'une perruche](https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Travelling](https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA) | 3:47 | 2021-01-03\* |  |
 | [Le vent se lève](https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 3:11 | 2021-10-23 |  |
-| [leave the room and face the waves](https://open.spotify.com/track/0lI9WwS3bx3HJPv2BGDXLZ) | [Thanya Iyer](https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P) | [leave the room and face the waves](https://open.spotify.com/album/7yntKe1iGe6kyM6uncADp7) | 2:06 | 2022-08-26 |  |
+| [leave the room and face the waves](https://open.spotify.com/track/0lI9WwS3bx3HJPv2BGDXLZ) | [Thanya Iyer](https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P) | [leave the room and face the waves](https://open.spotify.com/album/7yntKe1iGe6kyM6uncADp7) | 2:06 | 2022-08-26 | 2022-09-15 |
 | [Les adieux](https://open.spotify.com/track/3PBofYxGj3mMOmvn1Ft1kM) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Les adieux](https://open.spotify.com/album/0W0b90RgNWquPQLLhEcMlD) | 2:52 | 2021-09-27 | 2022-07-28 |
 | [Les anniversaires](https://open.spotify.com/track/07cWpiBsWBWWmgoXpeHHZ0) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Les anniversaires](https://open.spotify.com/album/5eo4PDtQ5e8Dbl9ADexLHz) | 2:42 | 2021-01-03\* | 2021-10-02 |
 | [Les cascades \(Radio Edit\)](https://open.spotify.com/track/5dpLXg9vJMnr4fnnsbLB8w) | [Pat Groulx et les Bas Blancs](https://open.spotify.com/artist/7sj7sDK2ZfwTZ6vgPDcnpg) | [Les cascades \(Radio Edit\)](https://open.spotify.com/album/5tROpSoIqsCO2vEXFjomhF) | 4:02 | 2021-04-19 | 2021-05-07 |
@@ -296,7 +297,7 @@
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
-| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2022-09-11 |
+| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 |  |
 | [Qué vendrá](https://open.spotify.com/track/7vM9PYre666so0kS0IBEhJ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Qué vendrá](https://open.spotify.com/album/5IoQT1ITAc60MPlgMLSjQh) | 2:57 | 2021-02-23 | 2021-05-28 |
 | [Radio bingo](https://open.spotify.com/track/0sGeklmSEIOvf71AJqsPvK) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [J'ai Bu](https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK) | 4:24 | 2021-01-03\* | 2021-10-02 |
 | [Ramenez\-moi](https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Ramenez\-moi](https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5) | 3:13 | 2021-02-13 | 2022-02-12 |

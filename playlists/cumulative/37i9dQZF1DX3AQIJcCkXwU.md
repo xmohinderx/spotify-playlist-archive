@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-117 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+118 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Doors of Perception](https://open.spotify.com/track/0BZaQ6SYMgGEz1lmgRB9uK) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gunjan](https://open.spotify.com/artist/3p00mlIL7KcUqbdvNVGbzm) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 3:16 | 2022-04-04 | 2022-08-19 |
 | [Doors Of Perception](https://open.spotify.com/track/3pME8wYnMF3CjFbTiubCzP) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Gunjan](https://open.spotify.com/artist/3p00mlIL7KcUqbdvNVGbzm) | [The Cosmic Game](https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO) | 3:16 | 2022-08-12 |  |
 | [Dost](https://open.spotify.com/track/4rBV5pcd8Lt29HwWIhfVDD) | [Navin Chopade](https://open.spotify.com/artist/1GSnvlnX8iWLIgRnEmPE3y) | [Dost](https://open.spotify.com/album/02czJKLz9Ksy9cgH32BlbR) | 4:51 | 2022-06-24 |  |
+| [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-13 |  |
 | [Exodus](https://open.spotify.com/track/3im1UzhMzKGFMRd0lZs9Mf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Anand Bhate](https://open.spotify.com/artist/6yt6lSPt2kG2HAZXLJDsPw), [Rekha Sawhney](https://open.spotify.com/artist/4ZvAVxhGJM51hJk3NAwdQj) | [Viceroy's House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1BqDnHcyvW4wRpskiyYs3q) | 4:04 | 2022-04-04 |  |
 | [Finding Balance \- Ambient Mix](https://open.spotify.com/track/5vVldrjvYThNX1zzIpP5ja) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV) | [Body.Mind.Soul](https://open.spotify.com/album/6tbT222rFV6qbso1ZqQ3ZY) | 5:15 | 2022-04-04 |  |
 | [Flora & Fauna](https://open.spotify.com/track/3UCQg1vf06upgr2VhPU94q) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [Flora & Fauna](https://open.spotify.com/album/5RA2DiWNVd07dyOz5arrhr) | 4:14 | 2022-04-04 |  |

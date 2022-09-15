@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Cloud Dance",
+        "url": "https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7"
+      },
+      "artists": [
+        {
+          "name": "Roni Adrian",
+          "url": "https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156793,
+      "name": "Cloud Dance",
+      "url": "https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ"
       },
@@ -1255,6 +1273,24 @@
       "duration_ms": 138857,
       "name": "Cross A Line",
       "url": "https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9"
+    },
+    {
+      "album": {
+        "name": "Cuidada",
+        "url": "https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Pasillas",
+          "url": "https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172423,
+      "name": "Cuidada",
+      "url": "https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM"
     },
     {
       "album": {
@@ -2230,6 +2266,24 @@
     },
     {
       "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/0nqqeOcy2kuBbj4nrS4aIT"
+      },
+      "artists": [
+        {
+          "name": "Pitouu",
+          "url": "https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151562,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/2zQUrkKRnY9kapyhH37X2e"
+    },
+    {
+      "album": {
         "name": "For Simplicity's Sake",
         "url": "https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7"
       },
@@ -2317,6 +2371,24 @@
       "duration_ms": 145800,
       "name": "From Shores To Mountains",
       "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
+    },
+    {
+      "album": {
+        "name": "Fyna",
+        "url": "https://open.spotify.com/album/0jvaidHFliZFQ7u1yETVRg"
+      },
+      "artists": [
+        {
+          "name": "Sundale",
+          "url": "https://open.spotify.com/artist/3LFFYvQWGZPeQPOJcqKXfi"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158865,
+      "name": "Fyna",
+      "url": "https://open.spotify.com/track/6l0hNEgi62kkGZ69RuVblp"
     },
     {
       "album": {
@@ -4664,6 +4736,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Patterns - Yoga Version",
+        "url": "https://open.spotify.com/album/5Ac4LwtFRHKe9j4qHJf9Gk"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169474,
+      "name": "Peaceful Patterns - Yoga Version",
+      "url": "https://open.spotify.com/track/5LvTXUwvXcq348o5LdAVZJ"
+    },
+    {
+      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
       },
@@ -4895,6 +4985,24 @@
       "duration_ms": 175166,
       "name": "Profetia",
       "url": "https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY"
+    },
+    {
+      "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
     },
     {
       "album": {
@@ -5269,7 +5377,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 168111,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs"
@@ -5669,6 +5777,24 @@
       "duration_ms": 184000,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/5DD27u7QIYYw3IJijkqaA0"
+    },
+    {
+      "album": {
+        "name": "Silver Ocean",
+        "url": "https://open.spotify.com/album/2dyjYTPkDOwRfbBEuPxPNC"
+      },
+      "artists": [
+        {
+          "name": "Monet Benitez",
+          "url": "https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169352,
+      "name": "Silver Ocean",
+      "url": "https://open.spotify.com/track/0nUmtaGW0KUELFtMBhxeAt"
     },
     {
       "album": {
@@ -6140,6 +6266,24 @@
     },
     {
       "album": {
+        "name": "Surrounded By Clouds",
+        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
+      },
+      "artists": [
+        {
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158550,
+      "name": "Surrounded By Clouds",
+      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
+    },
+    {
+      "album": {
         "name": "Surrounded By Olive",
         "url": "https://open.spotify.com/album/08kCIdkAdWiQpc313VHIGg"
       },
@@ -6515,6 +6659,24 @@
       "duration_ms": 169000,
       "name": "Trust the Universe",
       "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
+    },
+    {
+      "album": {
+        "name": "Tundra",
+        "url": "https://open.spotify.com/album/24cFjGJmo7OciWrlk8liLr"
+      },
+      "artists": [
+        {
+          "name": "Yeur",
+          "url": "https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154403,
+      "name": "Tundra",
+      "url": "https://open.spotify.com/track/7s8dqOwLRy0Db313r7VmjS"
     },
     {
       "album": {

@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 192786,
       "name": "1995",
       "url": "https://open.spotify.com/track/4luWL5IEgJVuXRRKLpMWNK"
@@ -3825,7 +3825,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 183170,
       "name": "Boy Friday",
       "url": "https://open.spotify.com/track/62sxl0QtvpRNGLK32QwwGS"
@@ -12640,6 +12640,24 @@
     },
     {
       "album": {
+        "name": "Happen",
+        "url": "https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Happen",
+      "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
+    },
+    {
+      "album": {
         "name": "Happen To Me",
         "url": "https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7"
       },
@@ -13097,6 +13115,24 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7g4sJ83bs0W0xKBDT7npb2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200596,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4rq7yBxY4DcmP8MvxJwxLX"
     },
     {
       "album": {
@@ -17449,7 +17485,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
@@ -25388,6 +25424,28 @@
     },
     {
       "album": {
+        "name": "say what u mean (with Riovaz)",
+        "url": "https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "say what u mean (with Riovaz)",
+      "url": "https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB"
+    },
+    {
+      "album": {
         "name": "Scab Song",
         "url": "https://open.spotify.com/album/6Yibyx6A4445Q4xToUhV51"
       },
@@ -31375,7 +31433,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 152874,
       "name": "Trying To Find Us",
       "url": "https://open.spotify.com/track/1K2tarXuo0RtA1VeeRkiuT"
@@ -33871,6 +33929,24 @@
       "duration_ms": 188182,
       "name": "You'll Get Over It",
       "url": "https://open.spotify.com/track/2IJcVpJzKPcmZqiJHfY335"
+    },
+    {
+      "album": {
+        "name": "you're a parasite",
+        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152450,
+      "name": "you're a parasite",
+      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,470 likes - 500 songs - 19 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,720 likes - 500 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 257 | [Raincoat](https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Raincoat](https://open.spotify.com/album/4M2OJAbq1PJLe732DTkxv3) | 2:04 |
 | 258 | [unmellow yellow](https://open.spotify.com/track/5TXDVoAdfLRzv7OM7mfhXW) | [lazer lemon](https://open.spotify.com/artist/2NSxM4R70yorSYTJMoRpzX) | [unmellow yellow](https://open.spotify.com/album/27HTunr8tmVCGb7AReXxBM) | 2:26 |
 | 259 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 |
-| 260 | [Voyager I](https://open.spotify.com/track/57cA7Pp1WPlb5dbNVbkwvK) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Study Music 2022](https://open.spotify.com/album/5euKPfHQNHvBVJM3NsUh4N) | 2:08 |
+| 260 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 |
 | 261 | [Liza waited](https://open.spotify.com/track/286NfUkb1H8WjWkDfUESqw) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Liza waited](https://open.spotify.com/album/547dH8CiDKtnLluMDeVZ35) | 2:09 |
 | 262 | [Dirty Ensemble](https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5) | [Azetz](https://open.spotify.com/artist/0rCTujNdCAGjAHKOmG6hsQ) | [Emo Nemo](https://open.spotify.com/album/0X4jSnVgS8g6MWKdXhcwwh) | 2:08 |
 | 263 | [Sketchy Dreamers](https://open.spotify.com/track/5nxEHnue5hDtbbubvyZRUe) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Sketchy Dreamers](https://open.spotify.com/album/5CWACW6EISOrtIaNFZxJkN) | 2:40 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 499 | [dreary dusk](https://open.spotify.com/track/4laIouEWx10lzjhrCiy3mq) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [dreary dusk](https://open.spotify.com/album/2TcliTnnhbzf4zC1yIu4Uw) | 1:47 |
 | 500 | [Whiskey For The Night](https://open.spotify.com/track/287jF7I4jnNooiqVh5E2ZU) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Whiskey For The Night](https://open.spotify.com/album/5G51BR88FI4vSSrMHWtQpU) | 1:55 |
 
-Snapshot ID: `MTY2MjcxNzE4MiwwMDAwMDAwMGYxYTg3M2Q1N2M3NmI1MTU2ODlhNjNkOGYyZTllYzcw`
+Snapshot ID: `MTY2MjcxNzE4MiwwMDAwMDAwMDA2NjI3N2U2OGNiZmUzMDk0MzRiZDg5NGVhYWE5ZjBh`

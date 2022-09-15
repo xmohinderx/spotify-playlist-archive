@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 213542,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 231428,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/5y4mybqlVC1UxShjqkdjgF"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 231440,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/31sVe3XwjujAvJaL4nBlZl"
@@ -4648,6 +4648,28 @@
     },
     {
       "album": {
+        "name": "The Moment I Met You",
+        "url": "https://open.spotify.com/album/1f7UfEdE3HI93z0wLsmRus"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "The Moment I Met You",
+      "url": "https://open.spotify.com/track/0sq8PLkApwedg1W9Qwam8F"
+    },
+    {
+      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE"
       },
@@ -4663,7 +4685,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 186373,
       "name": "The One",
       "url": "https://open.spotify.com/track/1hxF3FkEkDPoRHfkghEdjw"
@@ -4685,7 +4707,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 186400,
       "name": "The One",
       "url": "https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp"

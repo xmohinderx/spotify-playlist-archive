@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-925 songs - 2 day 4 hr 18 min - [published](https://open.spotify.com/playlist/12cpPVut3uQWRqFuOfuatL)
+926 songs - 2 day 4 hr 22 min - [published](https://open.spotify.com/playlist/12cpPVut3uQWRqFuOfuatL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [I'm Coming Out](https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 5:25 | 2019-08-09 | 2022-04-15 |
 | [I'm Good](https://open.spotify.com/track/5Qlsugh2ZVlaOgPSHpI8D7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I'm Good](https://open.spotify.com/album/4XJE2ic3Z1Ir4ylBaKVVnU) | 3:37 | 2019-08-26 | 2022-04-14 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-28 |  |
+| [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-08 |  |
 | [I'm It](https://open.spotify.com/track/4Q6TL1AWThEf3YtxSfMk8h) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [PRIZE](https://open.spotify.com/album/7xtvUPUtxoy3z4mqdeFB0i) | 2:31 | 2019-08-05 | 2022-04-14 |
 | [I'm Like A Bird](https://open.spotify.com/track/4sUoWHVnJl8z3t4zdqf6xB) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly!](https://open.spotify.com/album/23pjCUj0AFDWNgh9uto3yR) | 4:03 | 2019-08-26 | 2022-04-18 |
 | [I'm Like A Bird](https://open.spotify.com/track/5xPQsTrT2LjidijK2Tzlxh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(France Only Version\)](https://open.spotify.com/album/2lcaX3zETZ5shGRQXI667r) | 4:03 | 2019-07-29\* | 2019-07-30 |
@@ -889,7 +890,7 @@
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 | 2019-08-01 | 2022-04-07 |
 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2019-08-01 | 2019-10-26 |
 | [We Don't Care](https://open.spotify.com/track/59D6pNWyn8UXPpos5fbAqm) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [We Don't Care](https://open.spotify.com/album/61WP4ib1ymirffKzyBICzG) | 3:27 | 2019-08-01 | 2021-03-15 |
-| [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 | 2022-07-25 |  |
+| [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 | 2022-07-25 | 2022-09-15 |
 | [We Found Love \(feat\. Rihanna\)](https://open.spotify.com/track/0385HqYimoTQaHZP17KwG1) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:35 | 2019-07-30 | 2022-04-11 |
 | [We Got Love](https://open.spotify.com/track/7kqujRWNEBhrpYt0eV0uw5) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [We Got Love](https://open.spotify.com/album/0ECfA035E0wh6Z0RQfYyrg) | 3:22 | 2021-03-08 | 2022-04-18 |
 | [We'll Never Know](https://open.spotify.com/track/3ThMVGHZjedDBVQFeaT32u) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Chapter One](https://open.spotify.com/album/223OMYrfXBNEHtaZgRkIqi) | 3:35 | 2019-07-31 | 2019-08-04 |

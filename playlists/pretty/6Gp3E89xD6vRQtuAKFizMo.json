@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44375,
+  "num_followers": 44379,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTkwNSxmNGQ3ODcyMjUwMTNhOGYxZWNmMDFkZmVlZWFhYjExODAyNzMzNjcy",
+  "snapshot_id": "NTkxMixmYmMzYjljODQ2MTlkMTE3MTVhNzUzNTBmNmRhYTE3YTEwOTRjNGFl",
   "tracks": [
     {
       "added_at": "2022-09-09 19:05:50",
@@ -135,6 +135,22 @@
       "duration_ms": 178501,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs"
+    },
+    {
+      "added_at": "2022-09-13 19:55:38",
+      "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28"
+      },
+      "artists": [
+        {
+          "name": "Fox Beach",
+          "url": "https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis"
     },
     {
       "added_at": "2022-09-09 19:05:50",
@@ -771,6 +787,22 @@
     {
       "added_at": "2022-09-09 19:05:50",
       "album": {
+        "name": "sunlight",
+        "url": "https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "duration_ms": 171710,
+      "name": "sunlight",
+      "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
+    },
+    {
+      "added_at": "2022-09-09 19:05:50",
+      "album": {
         "name": "Under Pressure (feat. Dani King)",
         "url": "https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD"
       },
@@ -1139,22 +1171,6 @@
       "duration_ms": 220082,
       "name": "Patience (feat. Kayla Rose)",
       "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
-    },
-    {
-      "added_at": "2022-09-09 19:05:50",
-      "album": {
-        "name": "sunlight",
-        "url": "https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU"
-      },
-      "artists": [
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        }
-      ],
-      "duration_ms": 171710,
-      "name": "sunlight",
-      "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
     },
     {
       "added_at": "2022-09-09 19:05:50",

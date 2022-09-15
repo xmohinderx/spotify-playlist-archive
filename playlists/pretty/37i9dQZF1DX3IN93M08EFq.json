@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 57026,
+  "num_followers": 57047,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDgxMGY5ODI0OTc0ZThiNzIxMmI5MWNiZDM4MGYxZWYy",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGRlMjMyODkwZjhjOTkyMmRjNmU0ZmRjZmNjOWVkY2Jk",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 228466,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Vilja Bli",
-        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Up the Bracket",
         "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 160280,
       "name": "Time for Heroes",
       "url": "https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Vilja Bli",
+        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
     },
     {
       "added_at": "2021-06-15 09:25:05",

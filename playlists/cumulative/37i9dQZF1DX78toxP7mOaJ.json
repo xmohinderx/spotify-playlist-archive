@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Goldpark | Artwork: Jim Klok",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: The Mammoths | Artwork: Jim Klok",
   "name": "Fresh Finds Rock",
   "published_playlist_ids": [
     "0kwhXxf6pq44hUjEkufg4R"
@@ -1276,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/0d9pZCyvnn1xMAX735WlW9"
+      },
+      "artists": [
+        {
+          "name": "The Paranoyds",
+          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225014,
+      "name": "BWP",
+      "url": "https://open.spotify.com/track/7MZMaSp8MrJfieHna0nkhq"
+    },
+    {
+      "album": {
         "name": "By The Little Things",
         "url": "https://open.spotify.com/album/0PDfzChsHbxKgQ670pyiDi"
       },
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 201527,
       "name": "Can't Even Drown",
       "url": "https://open.spotify.com/track/4RaVwE2tpvFhv5DRLUkf2G"
@@ -1464,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Chemical Emotion",
+        "url": "https://open.spotify.com/album/4VzLUZMDRGHN5vpyYbLBPd"
+      },
+      "artists": [
+        {
+          "name": "Jeen",
+          "url": "https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "Chemical Emotion",
+      "url": "https://open.spotify.com/track/57KXGxtYYTZB0bLwrHHvTD"
+    },
+    {
+      "album": {
         "name": "Chromosomes",
         "url": "https://open.spotify.com/album/3OJv0xBtpzQBtsPPgTxAac"
       },
@@ -1551,6 +1587,24 @@
       "duration_ms": 206032,
       "name": "Come",
       "url": "https://open.spotify.com/track/1njJyaBg9ChJ1jD46Y18XJ"
+    },
+    {
+      "album": {
+        "name": "Consolation Prize",
+        "url": "https://open.spotify.com/album/1cwOYdXfIWFAL0wBFLz8h0"
+      },
+      "artists": [
+        {
+          "name": "The Vacant Lots",
+          "url": "https://open.spotify.com/artist/6TdXT9hdYNXu1Lwu6fA7xW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/2Gw4bWOg3FacXT757rApV6"
     },
     {
       "album": {
@@ -1865,6 +1919,24 @@
       "duration_ms": 194430,
       "name": "Death Wish",
       "url": "https://open.spotify.com/track/5TeiMihQPtOXalkkhQC25r"
+    },
+    {
+      "album": {
+        "name": "Decay",
+        "url": "https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w"
+      },
+      "artists": [
+        {
+          "name": "Wildermiss",
+          "url": "https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187978,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe"
     },
     {
       "album": {
@@ -2419,7 +2491,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 285413,
       "name": "En Route Distress",
       "url": "https://open.spotify.com/track/7g6N89sMw2qeHY0qUbkKQP"
@@ -3017,7 +3089,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 225974,
       "name": "Garden",
       "url": "https://open.spotify.com/track/3gQRJ1qxMfqnXAOXA69V1I"
@@ -3053,7 +3125,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 318866,
       "name": "Get On Yer Soapbox",
       "url": "https://open.spotify.com/track/0UxHujOnu0Qr4eWADl95TE"
@@ -3223,6 +3295,24 @@
       "duration_ms": 198671,
       "name": "Gum",
       "url": "https://open.spotify.com/track/0lyVppVVoinZxa3a6HpYhR"
+    },
+    {
+      "album": {
+        "name": "Dreams of Being on Television",
+        "url": "https://open.spotify.com/album/0ik1Xe4aVwpHihmTMTAkxE"
+      },
+      "artists": [
+        {
+          "name": "Unturned",
+          "url": "https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138514,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/0UU9eN7J6iM0mAISRzqxnn"
     },
     {
       "album": {
@@ -4643,7 +4733,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 195310,
       "name": "Juniper Street",
       "url": "https://open.spotify.com/track/6FSNJrkdLqOGlSXFSd6JCg"
@@ -4920,6 +5010,24 @@
     },
     {
       "album": {
+        "name": "Long, Long Road",
+        "url": "https://open.spotify.com/album/1wwOT7p7c9ccs63kf7PAct"
+      },
+      "artists": [
+        {
+          "name": "The Mease",
+          "url": "https://open.spotify.com/artist/7ljqSAWy2NRWgBtBHTgHMy"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Long, Long Road",
+      "url": "https://open.spotify.com/track/6DyB0Dyay5wmihQMR5BR1B"
+    },
+    {
+      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/7EoB7ytstKsiutihjTGeLM"
       },
@@ -5133,6 +5241,24 @@
       "duration_ms": 190451,
       "name": "Madame Murder",
       "url": "https://open.spotify.com/track/1HmmDJEt7WGyoeH1klXECt"
+    },
+    {
+      "album": {
+        "name": "Make You Mad",
+        "url": "https://open.spotify.com/album/7tnYr62bQ7BJd67L8A69td"
+      },
+      "artists": [
+        {
+          "name": "87 Nights",
+          "url": "https://open.spotify.com/artist/5RTiISA2iq6ViQuLUi7HdB"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243918,
+      "name": "Make You Mad",
+      "url": "https://open.spotify.com/track/5rCAIpNJOv4Kw9QOuvHUPA"
     },
     {
       "album": {
@@ -5514,6 +5640,24 @@
     },
     {
       "album": {
+        "name": "Narc",
+        "url": "https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1"
+      },
+      "artists": [
+        {
+          "name": "Cutouts",
+          "url": "https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Narc",
+      "url": "https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj"
+    },
+    {
+      "album": {
         "name": "Need Me Now",
         "url": "https://open.spotify.com/album/2IyFtxSh4hiVZDaK9xQ3JO"
       },
@@ -5543,7 +5687,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 169066,
       "name": "Need You Around",
       "url": "https://open.spotify.com/track/0GEovNslRt5kStCl6GWemD"
@@ -5565,6 +5709,24 @@
       "duration_ms": 239320,
       "name": "New Beginning",
       "url": "https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6"
+    },
+    {
+      "album": {
+        "name": "Making a Scene",
+        "url": "https://open.spotify.com/album/13rGisUZ9z5lwLkMhTmG2P"
+      },
+      "artists": [
+        {
+          "name": "Dentist",
+          "url": "https://open.spotify.com/artist/3rkvTohJjRrfR0FwRVZGJ2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211941,
+      "name": "New Dress",
+      "url": "https://open.spotify.com/track/34MULWFFd6lROjC41h9Iy3"
     },
     {
       "album": {
@@ -7129,7 +7291,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 156315,
       "name": "signal",
       "url": "https://open.spotify.com/track/7onK8D6ETbJlBRbJ886Gpe"
@@ -7165,7 +7327,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 167212,
       "name": "Single Origin Experience",
       "url": "https://open.spotify.com/track/4ucQe8ppok9I8LsCTQnL1V"
@@ -7421,7 +7583,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 104509,
       "name": "So Pathetic Honestly",
       "url": "https://open.spotify.com/track/60RCYHqaOId2WFSaY0xGpW"
@@ -7753,7 +7915,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 167771,
       "name": "Sugarcoated",
       "url": "https://open.spotify.com/track/6IYpiUaE479ntE29xtf7Yu"
@@ -8409,6 +8571,24 @@
       "duration_ms": 225625,
       "name": "Tide Of Doubt",
       "url": "https://open.spotify.com/track/5SuqiH65FrbM731Cf6dYyp"
+    },
+    {
+      "album": {
+        "name": "Time Should Wait",
+        "url": "https://open.spotify.com/album/30P8ZAHSqQgfB4ulOwvNud"
+      },
+      "artists": [
+        {
+          "name": "Twin Suns",
+          "url": "https://open.spotify.com/artist/2jBDQzZ68SehFutPbeX0di"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "Time Should Wait",
+      "url": "https://open.spotify.com/track/3t63h1Ykd2HtkVhvRpAeYB"
     },
     {
       "album": {

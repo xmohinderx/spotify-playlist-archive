@@ -4,7 +4,7 @@
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-388 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/5uvLVBp4h63WAyYfutapmk)
+389 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/5uvLVBp4h63WAyYfutapmk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [I'm Glad You're Gone](https://open.spotify.com/track/0nwqaC6zkfzcpACWInxiRG) | [Boundaries](https://open.spotify.com/artist/0Tm5nFdsHOR6LFBDK7l5x9) | [Turning Point](https://open.spotify.com/album/5fdQd6hHzBI0LhUONEr1eB) | 3:28 | 2021-11-30 | 2022-07-29 |
 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 | 2021-12-21 |  |
 | [IDKWYBT](https://open.spotify.com/track/2IuT1z30A6EH0FanH8uq8X) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [IDKWYBT](https://open.spotify.com/album/7daqEuBVrqOYfC48W78ZYd) | 2:09 | 2021-12-21 | 2022-05-18 |
-| [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/album/6JkGbrmwNwHGaxae377iFv) | 3:26 | 2022-05-20 |  |
+| [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/album/6JkGbrmwNwHGaxae377iFv) | 3:26 | 2022-05-20 | 2022-09-15 |
 | [im the worst](https://open.spotify.com/track/0GfrjSHx2OfBc3mEk6Mqjo) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [Re:](https://open.spotify.com/artist/5iJsfIio4vyL728J480yI6), [VITO](https://open.spotify.com/artist/5mjU2E6rpMs0FWPnm89eCm) | [im the worst](https://open.spotify.com/album/5KIrLvWsb8Bh1Pjeiixu1d) | 2:18 | 2021-12-21 | 2022-04-26 |
 | [Imitate Me](https://open.spotify.com/track/42a3iYrXrV0JAeHiQbw4Xy) | [Pagan](https://open.spotify.com/artist/5jmAb8e2akHjZux3iR29Vx) | [Black Wash](https://open.spotify.com/album/4tgrLTYfAQxFJ9qw1QaMLh) | 3:20 | 2021-12-21 | 2022-07-28 |
 | [Imperfection](https://open.spotify.com/track/0QhYR4x3PQOvcxmLqdDLih) | [Desertion](https://open.spotify.com/artist/3wJfeLf1n0851CtJy8GNpA) | [Imperfection](https://open.spotify.com/album/5aTBYNAfWmvG8A1eZM1iuY) | 1:51 | 2021-12-21 | 2022-07-16 |
@@ -235,6 +235,7 @@
 | [No Bastard's Slave](https://open.spotify.com/track/5kfGXdeh1Mzq33RlXHCuNO) | [Purgatory](https://open.spotify.com/artist/2mGr1nIXByyNAKL1H9VllM) | [No Bastard's Slave](https://open.spotify.com/album/1xnJa2tEFO9h17NcBHtANY) | 2:17 | 2021-12-21 | 2022-07-27 |
 | [No Easy Way Out](https://open.spotify.com/track/1O6C6wl0KdS9cXHsmLWhyG) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [No Easy Way Out](https://open.spotify.com/album/5sZwVxwIS7C97S3MX5Xrza) | 2:35 | 2021-12-21 | 2022-07-29 |
 | [No Love From Above](https://open.spotify.com/track/372sLDtIv4hzlmjknfEI0U) | [Death of a Nation](https://open.spotify.com/artist/0qv0TWMDQa7k4EE96OWEvS) | [Death of a Nation](https://open.spotify.com/album/0r0nQvRduisuCKpcs7eRwC) | 3:35 | 2021-11-30 | 2022-07-28 |
+| [No Love From Above](https://open.spotify.com/track/3Wxf3oxpPvGOQPiDda8u43) | [Death of a Nation](https://open.spotify.com/artist/0qv0TWMDQa7k4EE96OWEvS) | [Death of a Nation](https://open.spotify.com/album/5gizDrgFqY7SLc5I69RLaz) | 3:35 | 2022-04-01 |  |
 | [No Love/No One](https://open.spotify.com/track/327WXOY26JOPcjRVMSZsY1) | [Gideon](https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ) | [No Love/No One](https://open.spotify.com/album/40L5x37PoMP99oAZ9XMgN1) | 3:28 | 2021-12-21 |  |
 | [No More Bakeries in Highland Park](https://open.spotify.com/track/1bgA0pvQZCWRiSCAYgieyG) | [Ass Life](https://open.spotify.com/artist/0NP6XBVOCzcfpEjpnaU9Ew) | [Damn, Dude](https://open.spotify.com/album/1AkRWA5JjqJTguSmBvSqEq) | 1:28 | 2021-12-21 | 2022-03-23 |
 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 | 2022-04-01 | 2022-07-29 |

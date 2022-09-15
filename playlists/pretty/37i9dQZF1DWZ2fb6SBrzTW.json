@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 6185,
+  "num_followers": 6212,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcxNTIxMywwMDAwMDAwMDVlMjFjMzkwZjg1ZTZmOTA1NmIxNDdmOGI2MGQwYzMw",
+  "snapshot_id": "MTY2MjcxNTIxMywwMDAwMDAwMGYzYmRhYjIxOTBjZGZmYzVlOGI0ZTFjZTljMDkzOGFl",
   "tracks": [
     {
       "added_at": "2022-08-26 13:01:27",
@@ -285,50 +285,6 @@
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 288849,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "Big Flexa",
@@ -363,6 +319,50 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        }
+      ],
+      "duration_ms": 288849,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
       "added_at": "2022-08-05 07:44:31",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
     },
     {
+      "added_at": "2022-07-04 07:22:23",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
+    },
+    {
       "added_at": "2022-08-12 05:43:18",
       "album": {
         "name": "ALL YOU NEED IS PIANO",
@@ -579,22 +595,6 @@
       "duration_ms": 377063,
       "name": "Baleka (feat. Nokwazi, DJ Biza & Tsiki XII)",
       "url": "https://open.spotify.com/track/7iBiBYaVBw69mmPwPBgM0t"
-    },
-    {
-      "added_at": "2022-07-04 07:22:23",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-02-17 23:00:00",
@@ -789,6 +789,26 @@
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
     },
     {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
+    },
+    {
       "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Banyana Ke Bafana",
@@ -819,26 +839,6 @@
       "duration_ms": 274153,
       "name": "Banyana Ke Bafana",
       "url": "https://open.spotify.com/track/40KwdYRfKnTWTsXyxmR5bp"
-    },
-    {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
     },
     {
       "added_at": "2021-10-08 04:33:18",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
     },
     {
+      "added_at": "2022-07-22 04:29:24",
+      "album": {
+        "name": "Jaiye (Ihe Geme)",
+        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 234404,
+      "name": "Jaiye (Ihe Geme)",
+      "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Say You Bad (Remix)",
@@ -931,22 +947,6 @@
       "duration_ms": 204031,
       "name": "Say You Bad (Remix)",
       "url": "https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta"
-    },
-    {
-      "added_at": "2022-07-22 04:29:24",
-      "album": {
-        "name": "Jaiye (Ihe Geme)",
-        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "Jaiye (Ihe Geme)",
-      "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -981,54 +981,6 @@
       "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/5qvAz1vTAJOte0KdYObPsg"
-      },
-      "artists": [
-        {
-          "name": "Vudumane",
-          "url": "https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14"
-        }
-      ],
-      "duration_ms": 261484,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/4jwurGL9RR5d8QCoFhF30s"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Take Away",
-        "url": "https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Take Away",
-      "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Fvck Off",
-        "url": "https://open.spotify.com/album/0xlCeLVQm5xoe9JsCHyJ48"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Fvck Off",
-      "url": "https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT"
-    },
-    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Lock That Door",
@@ -1053,6 +1005,54 @@
       "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
     },
     {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "Take Away",
+        "url": "https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/5qvAz1vTAJOte0KdYObPsg"
+      },
+      "artists": [
+        {
+          "name": "Vudumane",
+          "url": "https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14"
+        }
+      ],
+      "duration_ms": 261484,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4jwurGL9RR5d8QCoFhF30s"
+    },
+    {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "Fvck Off",
+        "url": "https://open.spotify.com/album/0xlCeLVQm5xoe9JsCHyJ48"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Fvck Off",
+      "url": "https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT"
+    },
+    {
       "added_at": "2022-08-12 05:43:18",
       "album": {
         "name": "Hypertension / Things I Need",
@@ -1067,6 +1067,42 @@
       "duration_ms": 197894,
       "name": "Hypertension",
       "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
+    },
+    {
+      "added_at": "2022-09-09 09:20:13",
+      "album": {
+        "name": "Just Do It",
+        "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Nelcno",
+          "url": "https://open.spotify.com/artist/2zhdw73MF0aMdzngCZ8THY"
+        },
+        {
+          "name": "Sayfar",
+          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
+        },
+        {
+          "name": "Champuru Makhenzo",
+          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
+        }
+      ],
+      "duration_ms": 322873,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM"
     },
     {
       "added_at": "2022-05-26 23:00:00",
@@ -1195,26 +1231,6 @@
       "duration_ms": 185117,
       "name": "Fendi (feat. Joeboy)",
       "url": "https://open.spotify.com/track/0qFhAo95HuSnwgtwa8PVTe"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Fididi",
-        "url": "https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj"
-      },
-      "artists": [
-        {
-          "name": "Flash",
-          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
-        },
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        }
-      ],
-      "duration_ms": 206041,
-      "name": "Fididi",
-      "url": "https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv"
     }
   ],
   "unique_name": "Keep Fit Club ",

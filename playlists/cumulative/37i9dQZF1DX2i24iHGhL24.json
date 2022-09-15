@@ -2141,6 +2141,24 @@
     {
       "album": {
         "name": "Graveyard",
+        "url": "https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP"
+    },
+    {
+      "album": {
+        "name": "Graveyard",
         "url": "https://open.spotify.com/album/0rlOrJtwIhltLuEnDfBT0G"
       },
       "artists": [
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 198786,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/358En9GBp4r4Gi6GuMCiJ6"
@@ -4681,10 +4699,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 244315,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1QyyVFQ0Y1DJLb7OeQgQUJ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
     },
     {
       "album": {

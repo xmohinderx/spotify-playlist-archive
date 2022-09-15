@@ -1,28 +1,44 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Kaleah Lee | Visual Artist: Bailey Elder",
-  "num_followers": 17566,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ally Evenson | Visual Artist: Bailey Elder",
+  "num_followers": 17831,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2NjQwMCwwMDAwMDAwMDk3N2YxZjgwMzQ4YjJjMmVjOTlhMWNmZDY1NzcwMzU4",
+  "snapshot_id": "MTY2MzE3MTIwMCwwMDAwMDAwMGZkMGUwMzk5YWVkZDQ0MDlhNWNhYjUzMWRlNGVkMTVi",
   "tracks": [
     {
-      "added_at": "2022-09-07 16:00:00",
+      "added_at": "2022-09-14 16:00:00",
       "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk"
+        "name": "The Mend",
+        "url": "https://open.spotify.com/album/7HRPtt8ht452JmyM5kogNE"
       },
       "artists": [
         {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+          "name": "Darryl Rahn",
+          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
         }
       ],
-      "duration_ms": 234520,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1"
+      "duration_ms": 221866,
+      "name": "Mutual Friends",
+      "url": "https://open.spotify.com/track/70UulySjKVnV67gJRi9XzI"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Good Morning, Al",
+        "url": "https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 159423,
+      "name": "Good Morning, Al",
+      "url": "https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ"
     },
     {
       "added_at": "2022-09-07 16:00:00",
@@ -41,6 +57,54 @@
       "url": "https://open.spotify.com/track/71v8LdSVIwJQYFMakxezmD"
     },
     {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Jetpack",
+        "url": "https://open.spotify.com/album/4HIiMkPp3hTPWNLpds5M68"
+      },
+      "artists": [
+        {
+          "name": "Evan Crommett",
+          "url": "https://open.spotify.com/artist/21OzUs4uoYF0xoBHHI4f1M"
+        }
+      ],
+      "duration_ms": 215652,
+      "name": "Jetpack",
+      "url": "https://open.spotify.com/track/1Ze0kJhl57LHrJwqzc7IUB"
+    },
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "mmm (wreck a friend)",
+        "url": "https://open.spotify.com/album/6SMR57o5RAHScy3KxP8gTj"
+      },
+      "artists": [
+        {
+          "name": "Andie Mechanic",
+          "url": "https://open.spotify.com/artist/5bh6gqdDeTJNGo6J0FQATL"
+        }
+      ],
+      "duration_ms": 204698,
+      "name": "mmm (wreck a friend)",
+      "url": "https://open.spotify.com/track/4dK26aH2F3BotMTzxVhDkr"
+    },
+    {
       "added_at": "2022-09-07 16:00:00",
       "album": {
         "name": "Wasteland",
@@ -55,6 +119,58 @@
       "duration_ms": 240906,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/4mK3WTPJmC1WOopwuxMakL"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Elephants",
+        "url": "https://open.spotify.com/album/0i5Z61Pgi2AoYTTYWTvtKF"
+      },
+      "artists": [
+        {
+          "name": "Brooke Garwood",
+          "url": "https://open.spotify.com/artist/35RoqIMBXm2rYaD3UOzyW6"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Elephants",
+      "url": "https://open.spotify.com/track/5ClGaqk09QIrG29vVcU5FN"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Uncovered",
+        "url": "https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT"
+      },
+      "artists": [
+        {
+          "name": "Max Helgemo",
+          "url": "https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS"
+        }
+      ],
+      "duration_ms": 224124,
+      "name": "Uncovered",
+      "url": "https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l"
+    },
+    {
+      "added_at": "2022-09-14 16:00:00",
+      "album": {
+        "name": "Skips & Rings",
+        "url": "https://open.spotify.com/album/4lo79kLIQmIeou8KyV8eR8"
+      },
+      "artists": [
+        {
+          "name": "Crane Like the Bird",
+          "url": "https://open.spotify.com/artist/1i9TpycvQFCCyoOgqjevil"
+        },
+        {
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/5GtP5i2ZL7bU7gNuw4AC4e"
+        }
+      ],
+      "duration_ms": 191970,
+      "name": "Skips & Rings",
+      "url": "https://open.spotify.com/track/0ZTlgV36p87YUL0qSslr04"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -137,6 +253,22 @@
       "url": "https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd"
     },
     {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "Gone (Away)",
+        "url": "https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 166008,
+      "name": "Gone (Away)",
+      "url": "https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H"
+    },
+    {
       "added_at": "2022-08-24 16:29:58",
       "album": {
         "name": "Next Day",
@@ -156,7 +288,7 @@
       "added_at": "2022-09-07 16:00:00",
       "album": {
         "name": "The Rain",
-        "url": "https://open.spotify.com/album/683LKwHOBcDXIb3Mm7t0k6"
+        "url": "https://open.spotify.com/album/60sdH7DgcslnoQSPLkf7BP"
       },
       "artists": [
         {
@@ -166,7 +298,7 @@
       ],
       "duration_ms": 215462,
       "name": "The Rain",
-      "url": "https://open.spotify.com/track/4ZjmO3VLkevYjo4N5aqwDs"
+      "url": "https://open.spotify.com/track/3KVxxn1MoYkjAzDeRHYZo4"
     },
     {
       "added_at": "2022-08-24 16:29:58",
@@ -215,22 +347,6 @@
       "duration_ms": 201307,
       "name": "Heavy Handed",
       "url": "https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "Gone (Away)",
-        "url": "https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 166008,
-      "name": "Gone (Away)",
-      "url": "https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H"
     },
     {
       "added_at": "2022-08-24 16:29:58",
@@ -1471,22 +1587,6 @@
     {
       "added_at": "2022-08-24 16:29:58",
       "album": {
-        "name": "The Movie of Us",
-        "url": "https://open.spotify.com/album/1W6ErGuu81Pwr5Lh7h0nOG"
-      },
-      "artists": [
-        {
-          "name": "Darryl Rahn",
-          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "The Movie of Us",
-      "url": "https://open.spotify.com/track/7F1D9wnYqR3y6Gd5UkiTOj"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
         "name": "Blue Cabinet",
         "url": "https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD"
       },
@@ -1531,106 +1631,6 @@
       "duration_ms": 141400,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/3aSdRudIrqMCoa4teNQDRq"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "River Run",
-        "url": "https://open.spotify.com/album/5SIs2da6wmXQw4OFcPsTtp"
-      },
-      "artists": [
-        {
-          "name": "Julia Logan",
-          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
-        }
-      ],
-      "duration_ms": 265099,
-      "name": "River Run",
-      "url": "https://open.spotify.com/track/1725wOjQopDGXUqD6n7Cu6"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Far Side of the World",
-        "url": "https://open.spotify.com/album/5dpUh5bWCdCrsQCovr25vh"
-      },
-      "artists": [
-        {
-          "name": "Holden Miller",
-          "url": "https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG"
-        },
-        {
-          "name": "Jake Fine",
-          "url": "https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Far Side of the World",
-      "url": "https://open.spotify.com/track/5JAnepWYVyWqJBQlJuZhfD"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Just Pick One",
-      "url": "https://open.spotify.com/track/1ItOJBHm862L9pnbqKhNTq"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/1S4hXkm2TcDtjQWWkkM3LY"
-      },
-      "artists": [
-        {
-          "name": "Julie Odell",
-          "url": "https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R"
-        }
-      ],
-      "duration_ms": 318922,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/0hXfaaPKEVCsteJCkBD7ud"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/7xJqwbzUQGpswwFKUef50o"
-      },
-      "artists": [
-        {
-          "name": "Calder Allen",
-          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
-        }
-      ],
-      "duration_ms": 358133,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/7CIMMwrTOtzTAQvKJPv7PE"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/228yVHAjjh3m59778IYHIQ"
-      },
-      "artists": [
-        {
-          "name": "Misty Miller",
-          "url": "https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU"
-        }
-      ],
-      "duration_ms": 161330,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/6kqXxozMFndOsIYelpqQTi"
     }
   ],
   "unique_name": "Fresh Finds Folk",

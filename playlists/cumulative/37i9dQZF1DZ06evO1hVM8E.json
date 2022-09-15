@@ -297,10 +297,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 170586,
       "name": "El 24 de Junio",
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132960,
+      "name": "El Abandonado",
+      "url": "https://open.spotify.com/track/6DaZrI8CJueK9v607LjEWh"
     },
     {
       "album": {
@@ -669,7 +691,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 151053,
       "name": "La Chica Fresa",
       "url": "https://open.spotify.com/track/4CLffwkFj6NNeB3i9sEBrT"
@@ -965,7 +987,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 191533,
       "name": "Ma\u00f1ana Se Lo Digo",
       "url": "https://open.spotify.com/track/0MxxcP0LDkam6gHgFFerOX"
@@ -1001,7 +1023,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 154426,
       "name": "Me Lo Contaron Ayer",
       "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
@@ -1489,7 +1511,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 221480,
       "name": "Ya No Te Vayas",
       "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"

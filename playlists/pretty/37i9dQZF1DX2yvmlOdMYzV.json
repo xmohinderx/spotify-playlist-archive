@@ -1,12 +1,12 @@
 {
   "description": "just chill... respectfully ",
-  "num_followers": 793922,
+  "num_followers": 794361,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njc2MywwMDAwMDAwMGFlOGEwODA2YzA2MTE2YTFlYzY4YmFlNzk0YzgzMmZi",
+  "snapshot_id": "MTY2MjM5Njc2MywwMDAwMDAwMGI1YzU4NDNjMzFmY2MzZjczNjkwNmQxZDBmN2ZiOWQy",
   "tracks": [
     {
       "added_at": "2022-09-05 16:52:43",
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "D'Evils",
+      "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "D'Evils",
-      "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -399,18 +399,26 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
       "artists": [
         {
-          "name": "Amanaz",
-          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Whoeva?",
+          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
         }
       ],
-      "duration_ms": 203716,
-      "name": "Khala My Friend",
-      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+      "duration_ms": 201933,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -463,30 +471,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Whoeva?",
-          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
+      },
+      "artists": [
+        {
+          "name": "Amanaz",
+          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
+        }
+      ],
+      "duration_ms": 203716,
+      "name": "Khala My Friend",
+      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Lost In June - EP",
-        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 239767,
-      "name": "Heavenly Mother",
-      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Negro Swan",
         "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 182893,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Lost In June - EP",
+        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 239767,
+      "name": "Heavenly Mother",
+      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -759,6 +759,22 @@
       "duration_ms": 215625,
       "name": "Napkins",
       "url": "https://open.spotify.com/track/3PqnBkr83kaVQNKP0qYjQF"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -855,22 +871,6 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -979,6 +979,26 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "Verbs",
+        "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
+      },
+      "artists": [
+        {
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Verbs",
+      "url": "https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
@@ -995,22 +1015,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Love and Hate in a Different Time",
-        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time",
-      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "'Justments",
         "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
@@ -1023,6 +1027,22 @@
       "duration_ms": 229573,
       "name": "Can We Pretend",
       "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 282177,
+      "name": "Love and Hate in a Different Time",
+      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1047,26 +1067,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Verbs",
-        "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
-      },
-      "artists": [
-        {
-          "name": "Peyton",
-          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Verbs",
-      "url": "https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Yesterday's Tomorrow",
         "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
-      },
-      "artists": [
-        {
-          "name": "Manwolves",
-          "url": "https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr"
-        }
-      ],
-      "duration_ms": 239425,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "I Got It",
         "url": "https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 207200,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
+      },
+      "artists": [
+        {
+          "name": "Manwolves",
+          "url": "https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr"
+        }
+      ],
+      "duration_ms": 239425,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "Travel Light",
+        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 207987,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "The Man Who Has Everything",
         "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 71426,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "Travel Light",
-        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 207987,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "KMS - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "KMS - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 148280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "KMS - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "KMS - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "dancefloor",
+        "url": "https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j"
+      },
+      "artists": [
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "single (on the weekend)",
+      "url": "https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "dancefloor",
-        "url": "https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j"
-      },
-      "artists": [
-        {
-          "name": "marcos g",
-          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "single (on the weekend)",
-      "url": "https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Stole My Love",
         "url": "https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "The Interlude",
-        "url": "https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX"
-      },
-      "artists": [
-        {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Jewels in the Night",
         "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 225890,
       "name": "Jewels in the Night",
       "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "The Interlude",
+        "url": "https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX"
+      },
+      "artists": [
+        {
+          "name": "Asiahn",
+          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
-        "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
-        "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
-      "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
         "name": "Lost In America",
         "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
       },
@@ -1647,6 +1627,26 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
+        "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
+      "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "Dying in the Subtlety",
         "url": "https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 139300,
       "name": "Dying in the Subtlety",
       "url": "https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
+        "name": "lived to love",
+        "url": "https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk"
+      },
+      "artists": [
+        {
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
+        }
+      ],
+      "duration_ms": 255517,
+      "name": "lived to love",
+      "url": "https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1679,22 +1695,6 @@
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "lived to love",
-        "url": "https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk"
-      },
-      "artists": [
-        {
-          "name": "808vic",
-          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
-        }
-      ],
-      "duration_ms": 255517,
-      "name": "lived to love",
-      "url": "https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj"
     },
     {
       "added_at": "2022-09-05 16:52:43",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2022-09-05 16:52:43",
       "album": {
+        "name": "SULA (Paperback)",
+        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
+    },
+    {
+      "added_at": "2022-09-05 16:52:43",
+      "album": {
         "name": "Table for Two",
         "url": "https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 207250,
       "name": "Table for Two",
       "url": "https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK"
-    },
-    {
-      "added_at": "2022-09-05 16:52:43",
-      "album": {
-        "name": "SULA (Paperback)",
-        "url": "https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
     }
   ],
   "unique_name": "Lowkey",

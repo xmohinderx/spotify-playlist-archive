@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-330 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+332 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Calmative](https://open.spotify.com/track/08uQmwPw9ZbJW82ikavFKL) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz) | 3:42 | 2022-07-22 |  |
 | [Calmative](https://open.spotify.com/track/6k1DasduiT5LjawgYPg3pF) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:42 | 2022-05-26 | 2022-07-29 |
 | [Capturing Wind](https://open.spotify.com/track/4RlCmuxG0KterqlcPwFlbH) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Capturing Wind](https://open.spotify.com/album/2VE7avTmGmlz4RAn4n3Jte) | 2:49 | 2022-05-26 |  |
+| [Carry Me](https://open.spotify.com/track/3kv3rN2ODEKUXav5prNo0D) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [Another sky](https://open.spotify.com/album/1XTNxiid9MngqpVKSkKFxf) | 3:08 | 2022-09-13 |  |
 | [Catalina](https://open.spotify.com/track/5BoZ1qoZ2SA3T2fwYIHpi2) | [Leslie Moon](https://open.spotify.com/artist/4tQUh1G51SSoB10CD2RHoA) | [Catalina](https://open.spotify.com/album/4VkfDB2rT4ku3lf2ARG7mc) | 3:44 | 2022-05-26 |  |
 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 | 2022-05-26 |  |
 | [Changing Times](https://open.spotify.com/track/0XphXsw5sjbUNBNBYWXxp9) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Spirit of Revival](https://open.spotify.com/album/4bXLmCX0VOH0DxwirMe5Wy) | 6:12 | 2022-05-26 | 2022-08-16 |
@@ -232,6 +233,7 @@
 | [Portugal \(A Lift\)](https://open.spotify.com/track/7ujfmMdgm986T40j0oPRCF) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/4oVFo5HluwL0rnL1MVkDmH) | 6:48 | 2022-07-22 | 2022-08-16 |
 | [Power Nap](https://open.spotify.com/track/2g2cJg9FbFVmEtamXclS8L) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 2:58 | 2022-05-26 |  |
 | [Protagonist](https://open.spotify.com/track/7roBeVcRtHZR8J00pX5Fw2) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Protagonist](https://open.spotify.com/album/0clnxOhPz384VGX6nbuCcp) | 2:40 | 2022-05-26 |  |
+| [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Pushing through the Lush Green Grass](https://open.spotify.com/track/4e3MXLndFuQcFMgWEMtfO6) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Clear Western Sky](https://open.spotify.com/album/1G2YiRUliSzL2MrWUX1YOZ) | 3:09 | 2022-05-26 |  |
 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 | 2022-05-26 | 2022-08-16 |
 | [Quel Giorno](https://open.spotify.com/track/4tk6cfnY7b4tXjO7ukmVed) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Quel Giorno](https://open.spotify.com/album/6OPO7iGgFZEgQZczMuJ0ZN) | 3:06 | 2022-05-26 |  |

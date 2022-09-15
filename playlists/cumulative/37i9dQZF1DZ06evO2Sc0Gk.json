@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 151510,
       "name": "Cake",
       "url": "https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 180555,
       "name": "Chicken Curry",
       "url": "https://open.spotify.com/track/6s7mVENVsuHRSDgoA0q5qq"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 200408,
       "name": "London Town",
       "url": "https://open.spotify.com/track/5vsSSc33nKJhWRCrhZvCJa"
@@ -1173,6 +1173,28 @@
       "duration_ms": 214373,
       "name": "Love Struck (feat. Tiwa Savage & Mr Eazi)",
       "url": "https://open.spotify.com/track/6wO8AzCOhutr1QwfwFcmZb"
+    },
+    {
+      "album": {
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     },
     {
       "album": {

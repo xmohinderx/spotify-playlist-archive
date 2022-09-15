@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-128 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
+129 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Libro Abierto \- Remix](https://open.spotify.com/track/5QkL07mCaEIJc34kD5RbUJ) | [Lenwa Dura](https://open.spotify.com/artist/6mV5lAVMELv6TOmkSzxjfG), [Sol](https://open.spotify.com/artist/0svIG0axNVK6pUoJtmI6pb) | [Libro Abierto \(Remix\)](https://open.spotify.com/album/6aDQLsdyYqTZjq3g3reNXb) | 2:53 | 2022-01-06 |  |
 | [Lil Dangerous](https://open.spotify.com/track/3nPsTFDqICgVcwVu9CyDD0) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Excelencia Prehispana](https://open.spotify.com/artist/0l35vP0Pl9zkdVYVoYasmQ) | [Lil Dangerous](https://open.spotify.com/album/2J0u9ZopD8P36P9Dw3ImCf) | 3:36 | 2022-01-06 |  |
 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 | 2022-01-06 |  |
-| [Loba](https://open.spotify.com/track/2XCC33I4DFzIvezE2JvYsO) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Mantoi](https://open.spotify.com/artist/7mulO6IWsc8VZEC1aSPZ1e), [Sinzer](https://open.spotify.com/artist/66DVekZPewVIPPnYWQulLt) | [Luna](https://open.spotify.com/album/1XcluHT5bhuFIHikdsCZMB) | 4:24 | 2022-01-06 |  |
+| [Loba](https://open.spotify.com/track/2XCC33I4DFzIvezE2JvYsO) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Mantoi](https://open.spotify.com/artist/7mulO6IWsc8VZEC1aSPZ1e), [Sinzer](https://open.spotify.com/artist/66DVekZPewVIPPnYWQulLt) | [Luna](https://open.spotify.com/album/1XcluHT5bhuFIHikdsCZMB) | 4:24 | 2022-01-06 | 2022-09-15 |
+| [Loba](https://open.spotify.com/track/4MW2HjdMlRBmfkYtykVyFp) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Mantoi](https://open.spotify.com/artist/7mulO6IWsc8VZEC1aSPZ1e), [Sinzer](https://open.spotify.com/artist/66DVekZPewVIPPnYWQulLt) | [Luna](https://open.spotify.com/album/0FwQVJrKK4Cf5Z6wpZTQed) | 4:24 | 2022-07-15 |  |
 | [Lucha](https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Lucha](https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6) | 3:26 | 2022-01-06 |  |
 | [Mentirita Piadosa: Versión 2](https://open.spotify.com/track/5FA2fVLjZOFm5vz1o1IpjU) | [Bascur](https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N), [Dester](https://open.spotify.com/artist/5qVRNgSqFneAsQYJerbm3z), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [Mentirita Piadosa: Versión 2](https://open.spotify.com/album/3PRzPwDQYMV2UljzvAWARC) | 2:53 | 2022-01-06 |  |
 | [Metamorfosis](https://open.spotify.com/track/1QL1X9bvsWnBghDF6F0pbK) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Metamorfosis](https://open.spotify.com/album/0UZHg61PTmlc2gSWk3sTdM) | 3:39 | 2022-01-06 |  |

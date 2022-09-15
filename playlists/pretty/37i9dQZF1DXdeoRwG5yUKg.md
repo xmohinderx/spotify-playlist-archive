@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,042 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,081 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 8 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 |
 | 9 | [Me to You](https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:50 |
 | 10 | [What A Strange Time To Be Alive](https://open.spotify.com/track/0mmapJXijQcLERMo1t747B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [What A Strange Time To Be Alive](https://open.spotify.com/album/3ffWzQw4topJ8i2UruRqtp) | 3:06 |
-| 11 | [Never Tear Us Apart](https://open.spotify.com/track/3I7Fqr8wLi60aZ9P4wIFwq) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Never Tear Us Apart](https://open.spotify.com/album/4doBTxqHZNmn9a06bP3A5s) | 3:24 |
+| 11 | [Never Tear Us Apart](https://open.spotify.com/track/5LDbQdfOJEb0y2f3QwlzUw) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Never Tear Us Apart](https://open.spotify.com/album/7hWLND0iED2GC0JEQZRJek) | 3:24 |
 | 12 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 |
 | 13 | [Forget Yourself](https://open.spotify.com/track/3fWcRT65iy7FIIEjitgfJ6) | [Natalia M\. King](https://open.spotify.com/artist/3fCXXnMGhzvgXkWwerk4hg) | [Forget Yourself](https://open.spotify.com/album/35jiIi7b9WKbmxXfVcT0ai) | 3:38 |
 | 14 | [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 89 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 | 90 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDc3ODUxODYwZWEyYzQ4M2JiOTY5ZDE3YjA5NDc5M2M5`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDNlZThmNThmM2IwZWQ2ZDAxNDllYmU4YmQ4NzE5MzZj`

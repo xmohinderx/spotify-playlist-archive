@@ -1,12 +1,12 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 14304,
+  "num_followers": 14343,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkwMTc0NywwMDAwMDAwMDBiNGZkY2ZjZTZjZTE0MDlhOWVkMWM2MmIxODlhNDE1",
+  "snapshot_id": "MTY1NTkwMTc0NywwMDAwMDAwMDk4ZGFkYzJjZDAzYWY3OWNlZWEzM2MzYmNjZDhiNmZl",
   "tracks": [
     {
       "added_at": "2022-06-22 12:42:27",
@@ -407,6 +407,30 @@
     {
       "added_at": "2022-06-22 12:42:27",
       "album": {
+        "name": "Sibelius: Finlandia; Luonnotar; Karelia Suite",
+        "url": "https://open.spotify.com/album/0nKRgooVdLKKd3NG2iPyWw"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 250426,
+      "name": "Karelia Suite, Op. 11: I. Intermezzo (Moderato)",
+      "url": "https://open.spotify.com/track/69FgqpXINP3pcBFk8DCZ0L"
+    },
+    {
+      "added_at": "2022-06-22 12:42:27",
+      "album": {
         "name": "Sibelius: Violin Concerto Op. 47; Serenades; Humoresque",
         "url": "https://open.spotify.com/album/6I0GCSp5tfBr4jizdLNT6s"
       },
@@ -431,30 +455,6 @@
       "duration_ms": 417000,
       "name": "Two Serenades, Op. 69: II. Lento assai, Op. 69 No. 2 - In G Minor",
       "url": "https://open.spotify.com/track/2LtUSaRryjweRz2yOwoWRL"
-    },
-    {
-      "added_at": "2022-06-22 12:42:27",
-      "album": {
-        "name": "Sibelius: Finlandia; Luonnotar; Karelia Suite",
-        "url": "https://open.spotify.com/album/0nKRgooVdLKKd3NG2iPyWw"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 250426,
-      "name": "Karelia Suite, Op. 11: I. Intermezzo (Moderato)",
-      "url": "https://open.spotify.com/track/69FgqpXINP3pcBFk8DCZ0L"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-06-22 12:42:27",
       "album": {
+        "name": "Sibelius",
+        "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 262013,
+      "name": "Kyllikki - Three Lyrical Pieces for Piano, Op. 41: II. Andantino",
+      "url": "https://open.spotify.com/track/4NpOTS4JPIUJLGOz6zfv5p"
+    },
+    {
+      "added_at": "2022-06-22 12:42:27",
+      "album": {
         "name": "Sibelius: Scaramouche, Op. 71",
         "url": "https://open.spotify.com/album/2eR9yzhMqlb22aneELjYRG"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 186613,
       "name": "Scaramouche, Op. 71, Act I: Scene 6, Tempo di valse",
       "url": "https://open.spotify.com/track/1CMYcfca2jaDFTwLsUL4Tx"
-    },
-    {
-      "added_at": "2022-06-22 12:42:27",
-      "album": {
-        "name": "Sibelius",
-        "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 262013,
-      "name": "Kyllikki - Three Lyrical Pieces for Piano, Op. 41: II. Andantino",
-      "url": "https://open.spotify.com/track/4NpOTS4JPIUJLGOz6zfv5p"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -827,30 +827,6 @@
     {
       "added_at": "2022-06-22 12:42:27",
       "album": {
-        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
-        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Turku Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        }
-      ],
-      "duration_ms": 409693,
-      "name": "Cortege, JS 54",
-      "url": "https://open.spotify.com/track/6p5i4ij5SgCugZZtJgUfOQ"
-    },
-    {
-      "added_at": "2022-06-22 12:42:27",
-      "album": {
         "name": "Sibelius: Symphonies Nos. 1-7, Kullervo, Pohjola's Daughter, The Oceanides",
         "url": "https://open.spotify.com/album/5ayWSE1e4yNdunhtpD9SDt"
       },
@@ -899,8 +875,8 @@
     {
       "added_at": "2022-06-22 12:42:27",
       "album": {
-        "name": "Sibelius: Finlandia; Luonnotar; Karelia Suite",
-        "url": "https://open.spotify.com/album/0nKRgooVdLKKd3NG2iPyWw"
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
       },
       "artists": [
         {
@@ -908,17 +884,37 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
         },
         {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
         }
       ],
-      "duration_ms": 361000,
-      "name": "Karelia Suite, Op. 11: II. Ballade (Tempo di menuetto)",
-      "url": "https://open.spotify.com/track/27Q477d9q3XxEXE16EvXiz"
+      "duration_ms": 409693,
+      "name": "Cortege, JS 54",
+      "url": "https://open.spotify.com/track/6p5i4ij5SgCugZZtJgUfOQ"
+    },
+    {
+      "added_at": "2022-06-22 12:42:27",
+      "album": {
+        "name": "Sibelius Piano Works",
+        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janne Mertanen",
+          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
+      "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -947,8 +943,8 @@
     {
       "added_at": "2022-06-22 12:42:27",
       "album": {
-        "name": "Sibelius: Symphonies Nos. 5, 7 & En Saga",
-        "url": "https://open.spotify.com/album/2ISF0KXEHmqqMFv4JtbhDV"
+        "name": "Sibelius: Finlandia; Luonnotar; Karelia Suite",
+        "url": "https://open.spotify.com/album/0nKRgooVdLKKd3NG2iPyWw"
       },
       "artists": [
         {
@@ -956,37 +952,17 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
         },
         {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
         }
       ],
-      "duration_ms": 1392640,
-      "name": "Symphony No. 7 in C, Op. 105: Adagio \u2013 Vivacissimo \u2013 Adagio \u2013 Allegro molto moderato \u2013 Vivace \u2013 Presto \u2013 Adagio",
-      "url": "https://open.spotify.com/track/7FbQw1Kkpc4A3JZoGVDjNS"
-    },
-    {
-      "added_at": "2022-06-22 12:42:27",
-      "album": {
-        "name": "Sibelius Piano Works",
-        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janne Mertanen",
-          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
-      "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
+      "duration_ms": 361000,
+      "name": "Karelia Suite, Op. 11: II. Ballade (Tempo di menuetto)",
+      "url": "https://open.spotify.com/track/27Q477d9q3XxEXE16EvXiz"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -1015,8 +991,8 @@
     {
       "added_at": "2022-06-22 12:42:27",
       "album": {
-        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
-        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
+        "name": "Sibelius: Symphonies Nos. 5, 7 & En Saga",
+        "url": "https://open.spotify.com/album/2ISF0KXEHmqqMFv4JtbhDV"
       },
       "artists": [
         {
@@ -1024,17 +1000,17 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Turku Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
         },
         {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 703933,
-      "name": "Overture in E Major, JS 145",
-      "url": "https://open.spotify.com/track/4ekKhUgjNnqq5Yv5c1t99K"
+      "duration_ms": 1392640,
+      "name": "Symphony No. 7 in C, Op. 105: Adagio \u2013 Vivacissimo \u2013 Adagio \u2013 Allegro molto moderato \u2013 Vivace \u2013 Presto \u2013 Adagio",
+      "url": "https://open.spotify.com/track/7FbQw1Kkpc4A3JZoGVDjNS"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -1056,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
         }
       ],
-      "duration_ms": 83760,
-      "name": "Belshazzar's Feast, JS 48: Act IV: Dodens dans (Dance of Death)",
-      "url": "https://open.spotify.com/track/1T2mIPO50bvefAutTue7rL"
+      "duration_ms": 703933,
+      "name": "Overture in E Major, JS 145",
+      "url": "https://open.spotify.com/track/4ekKhUgjNnqq5Yv5c1t99K"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -1091,6 +1067,30 @@
       "duration_ms": 384693,
       "name": "Lemminkainen Suite, Op. 22: IV. Lemminkainen's Return",
       "url": "https://open.spotify.com/track/23yQvWxls9ZmO7fYX1mnuR"
+    },
+    {
+      "added_at": "2022-06-22 12:42:27",
+      "album": {
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 83760,
+      "name": "Belshazzar's Feast, JS 48: Act IV: Dodens dans (Dance of Death)",
+      "url": "https://open.spotify.com/track/1T2mIPO50bvefAutTue7rL"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -1191,50 +1191,6 @@
     {
       "added_at": "2022-06-22 12:42:27",
       "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 134093,
-      "name": "Rakastava, Op. 14: The Path of his Beloved",
-      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
-    },
-    {
-      "added_at": "2022-06-22 12:42:27",
-      "album": {
-        "name": "Sibelius: Songs, Vol. 2",
-        "url": "https://open.spotify.com/album/0XbpMsWFJH3shi39bLaEEC"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Hannu Jurmu",
-          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
-        },
-        {
-          "name": "Jouni Somero",
-          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
-        }
-      ],
-      "duration_ms": 94853,
-      "name": "Sortunut aani (The broken voice), Op. 18, No. 1 (arr. for tenor solo and piano)",
-      "url": "https://open.spotify.com/track/2YUIzCWlmEpsgLxPNxE2Em"
-    },
-    {
-      "added_at": "2022-06-22 12:42:27",
-      "album": {
         "name": "Sibelius: Songs, Vol. 2",
         "url": "https://open.spotify.com/album/0XbpMsWFJH3shi39bLaEEC"
       },
@@ -1292,9 +1248,33 @@
           "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 477613,
-      "name": "Rakastava, Op. 14: Good Evening... Farewell!",
-      "url": "https://open.spotify.com/track/6xMJI052R1mlEFtT6ej2Va"
+      "duration_ms": 134093,
+      "name": "Rakastava, Op. 14: The Path of his Beloved",
+      "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
+    },
+    {
+      "added_at": "2022-06-22 12:42:27",
+      "album": {
+        "name": "Sibelius: Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/0XbpMsWFJH3shi39bLaEEC"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hannu Jurmu",
+          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
+        },
+        {
+          "name": "Jouni Somero",
+          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
+        }
+      ],
+      "duration_ms": 94853,
+      "name": "Sortunut aani (The broken voice), Op. 18, No. 1 (arr. for tenor solo and piano)",
+      "url": "https://open.spotify.com/track/2YUIzCWlmEpsgLxPNxE2Em"
     },
     {
       "added_at": "2022-06-22 12:42:27",
@@ -1339,6 +1319,26 @@
       "duration_ms": 181920,
       "name": "Serenad (Serenade), JS 167",
       "url": "https://open.spotify.com/track/2DC6Z2m4iEXtJ6hfibKfDa"
+    },
+    {
+      "added_at": "2022-06-22 12:42:27",
+      "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 477613,
+      "name": "Rakastava, Op. 14: Good Evening... Farewell!",
+      "url": "https://open.spotify.com/track/6xMJI052R1mlEFtT6ej2Va"
     },
     {
       "added_at": "2022-06-22 12:42:27",

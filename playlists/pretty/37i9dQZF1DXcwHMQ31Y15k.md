@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,448 likes - 83 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,644 likes - 83 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

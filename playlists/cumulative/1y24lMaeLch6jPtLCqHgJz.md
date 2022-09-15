@@ -4,7 +4,7 @@
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-90 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
+91 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Flame](https://open.spotify.com/track/5K3dTaVxbZUOzJwFJhbj2A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Flame](https://open.spotify.com/album/7GJsQ9W5MqX0as7C8xgs4G) | 2:51 | 2022-07-29 | 2022-08-20 |
 | [Here With You](https://open.spotify.com/track/312ScazNcrS408yUVIGrPC) | [Jordi Sans](https://open.spotify.com/artist/2aIdkBxgg1fhkWPiEXGqP0) | [Here With You](https://open.spotify.com/album/3KToxcWG2LFewyjNFLVfNb) | 3:56 | 2022-07-29 |  |
 | [Holding On To You](https://open.spotify.com/track/4ZX9REWz5sjCHK9otu21gU) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Rəind Səid](https://open.spotify.com/artist/3FWUEo0wsA53baxRi0T5lU), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Holding On To You](https://open.spotify.com/album/2ZWVWJYYasW9kVy0WglsYp) | 3:11 | 2022-07-29 |  |
+| [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-13 |  |
 | [Hurricane](https://open.spotify.com/track/1KGxCcjV2D8jgUnMHoZggt) | [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Hurricane](https://open.spotify.com/album/7bz61NaPnWWrTNt7fLDG4G) | 2:56 | 2022-07-29 |  |
 | [I Don't Wanna Go](https://open.spotify.com/track/3xOsLks1DS2H2B3a0x94KB) | [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Loris Buono](https://open.spotify.com/artist/3cRbHcOtmkVwesXgaf0Hcc), [Alexander Cruel](https://open.spotify.com/artist/1GVy3ijiIOfzzA1hm5AKNr) | [I Don't Wanna Go](https://open.spotify.com/album/0TWuzddi8rJk8L1rbU2Juy) | 2:35 | 2022-07-29 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/1zow991U4NRHThdjkWzLJK) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C), [EMMA LX](https://open.spotify.com/artist/234RuCfsiahEnp6JER6r5f) | [I Don't Wanna Know](https://open.spotify.com/album/4Sb42xPgnBQxdyoYCXYy1p) | 2:59 | 2022-07-29 |  |

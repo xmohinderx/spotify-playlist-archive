@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: The 1975",
-  "num_followers": 1695771,
+  "num_followers": 1695697,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc0MDc1OSwwMDAwMDAwMDZmMzFkNmZiOTU2OWJmM2NkZGZhZDMyMDhkM2E0MjU5",
+  "snapshot_id": "MTY2Mjc0MDc1OSwwMDAwMDAwMDY0ZTI5MmIzMDMyYmEwOWVjMTE3MzdhN2JiYTg0M2Vi",
   "tracks": [
     {
       "added_at": "2022-09-09 16:25:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 203061,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "Line Without a Hook (feat. mxmtoon)",
         "url": "https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 203061,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "KEEP IT UP",
-        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 176946,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "KEEP IT UP",
+        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
+        "name": "Blue Spirits",
+        "url": "https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Blue Spirits",
+      "url": "https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
         "name": "In A Dream",
         "url": "https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Blue Spirits",
-        "url": "https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n"
-      },
-      "artists": [
-        {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Blue Spirits",
-      "url": "https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "Talk to You",
         "url": "https://open.spotify.com/album/5qRQGtoghlIqXPd7iQPJNG"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "sucks to see you doing better (extended)",
         "url": "https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 164348,
       "name": "hiccup",
       "url": "https://open.spotify.com/track/1NfqGbaWcZLor12cITE5Fv"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 146273,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Catch Me In The Air",
-        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+        "name": "Catch Me In The Air",
+        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
         "name": "hate to be lame",
         "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
         }
       ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Cutie",
-        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 184315,
-      "name": "Cutie",
-      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
         "name": "Easy / Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
@@ -1139,38 +1139,6 @@
       "duration_ms": 231670,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/5GIgKmHgOWhwRXsRUPoiqV"
-      },
-      "artists": [
-        {
-          "name": "Neptune",
-          "url": "https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
-        "name": "kaleidoscope",
-        "url": "https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -1191,38 +1159,18 @@
     {
       "added_at": "2022-09-09 16:25:59",
       "album": {
-        "name": "Meteorite",
-        "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
+        "name": "kaleidoscope",
+        "url": "https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 194630,
-      "name": "Meteorite",
-      "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
-    },
-    {
-      "added_at": "2022-09-09 16:25:59",
-      "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 198139,
-      "name": "gentle",
-      "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
     },
     {
       "added_at": "2022-09-09 16:25:59",
@@ -1243,6 +1191,54 @@
       "duration_ms": 175311,
       "name": "stuck on us",
       "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/5GIgKmHgOWhwRXsRUPoiqV"
+      },
+      "artists": [
+        {
+          "name": "Neptune",
+          "url": "https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f"
+    },
+    {
+      "added_at": "2022-09-09 16:25:59",
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 198139,
+      "name": "gentle",
+      "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
     }
   ],
   "unique_name": "Indie Pop",

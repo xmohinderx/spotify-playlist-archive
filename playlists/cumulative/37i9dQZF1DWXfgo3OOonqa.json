@@ -5537,10 +5537,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 145874,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/1SctcNUVZfMMJZrs6TvnpN"
+    },
+    {
+      "album": {
+        "name": "Afronine",
+        "url": "https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145874,
+      "name": "Know Me",
+      "url": "https://open.spotify.com/track/1wFFnhwaHAYSMM2JPsaYIF"
     },
     {
       "album": {
@@ -10539,6 +10557,24 @@
     {
       "album": {
         "name": "Afronine",
+        "url": "https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161731,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/6N3q7NSmlxB7TNJkyzfYcb"
+    },
+    {
+      "album": {
+        "name": "Afronine",
         "url": "https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd"
       },
       "artists": [
@@ -10549,7 +10585,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 161731,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906"

@@ -4,7 +4,7 @@
 
 > ¡Paloma Mami y más mujeres a todo volumen!
 
-420 songs - 1 day 0 hr 8 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
+421 songs - 1 day 0 hr 11 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [Reinas](https://open.spotify.com/track/4AW7EfNSSxXADRXPy5JQCG) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [El Rey de Lo Incierto](https://open.spotify.com/album/1Pvb7ZNH9hfTz4z3Lvby9v) | 3:26 | 2022-05-04 | 2022-07-24 |
 | [Religiosa](https://open.spotify.com/track/2KfTQFFLpZhzlZATYS9job) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Religiosa](https://open.spotify.com/album/6d6tiuczqJEHoP5jL9Qn15) | 2:40 | 2022-01-05 |  |
 | [Rey](https://open.spotify.com/track/1D3FF8btq4bHzmDpU04fwH) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey](https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN) | 3:51 | 2022-01-05 | 2022-02-03 |
-| [RIKA](https://open.spotify.com/track/5VmIeEHBvuZ4DjhtbYELwP) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [RIKA](https://open.spotify.com/album/6tsftgTqhSyOe6DZ4UJTVb) | 3:08 | 2022-02-02 |  |
+| [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 | 2022-09-07 |  |
+| [RIKA](https://open.spotify.com/track/5VmIeEHBvuZ4DjhtbYELwP) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [RIKA](https://open.spotify.com/album/6tsftgTqhSyOe6DZ4UJTVb) | 3:08 | 2022-02-02 | 2022-09-15 |
 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 | 2022-09-07 |  |
 | [Rosas](https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Rosas](https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2) | 4:37 | 2022-03-08 | 2022-04-07 |
 | [Ruka](https://open.spotify.com/track/7IauzA3Qhtf5nHEnuDDJG7) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6) | [Unita](https://open.spotify.com/album/3tM5y4SNzPZU2gnGMHSzY1) | 4:33 | 2022-08-03 | 2022-09-09 |

@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-129 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
+130 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [It's Easy To Remember](https://open.spotify.com/track/1nMBhazQDRj2SdNxw4Gr0s) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [It's Easy To Remember \- Live](https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:08 | 2021-12-16 |  |
 | [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 |  |
-| [Laura](https://open.spotify.com/track/0zYyFn3sMcotsTsxA7fNym) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Flies High](https://open.spotify.com/album/6qUfLxjWpMlcX1f5P3tUFH) | 4:34 | 2021-12-16 |  |
+| [Laura](https://open.spotify.com/track/0zYyFn3sMcotsTsxA7fNym) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Flies High](https://open.spotify.com/album/6qUfLxjWpMlcX1f5P3tUFH) | 4:34 | 2021-12-16 | 2022-09-15 |
 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-01-26 |  |
 | [Lonely Town](https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:34 | 2021-12-16 |  |
 | [Lonely Town \(From On The Town\)](https://open.spotify.com/track/1ymGHXrlbLxcMqFAtEOqBs) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Somewhere: The Songs Of Leonard Bernstein](https://open.spotify.com/album/2quYR6cVpVBFymH7h7qv0D) | 6:37 | 2021-12-16 | 2022-07-24 |
@@ -86,6 +86,7 @@
 | [Nancy \(With The Laughing Face\)](https://open.spotify.com/track/6xXUcB3UuWfuaiExwlzY9Q) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF) | 3:14 | 2021-12-16 | 2022-07-29 |
 | [Nardis](https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations](https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9) | 5:49 | 2021-12-16 | 2022-05-25 |
 | [Night Lights](https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:58 | 2021-12-16 |  |
+| [Pannonica](https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc) | [Spike Wilner Trio](https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ) | [Pannonica](https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1) | 6:43 | 2022-09-13 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/7o83lDLcJ9uKnRZ1dBmcxN) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Gravy Train](https://open.spotify.com/album/2qfKHt02zZKOcr3hmKIeCq) | 4:58 | 2021-12-16 | 2022-06-30 |
 | [Polka Dots And Moonbeams \- Rudy Van Gelder/Digital Remaster/2007](https://open.spotify.com/track/4X56eAHSvc1H2SeAjLXv4h) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Gravy Train](https://open.spotify.com/album/5Eq7b34mkTNePUxKaEG1jg) | 4:59 | 2022-08-11 | 2022-09-09 |
 | [Porgy \(I Loves You Porgy\) \- Outtake](https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:00 | 2022-01-26 |  |

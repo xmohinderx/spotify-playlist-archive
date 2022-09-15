@@ -1,13 +1,61 @@
 {
-  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover:JXCKY, Artwork: Paola Saliby\n",
-  "num_followers": 167349,
+  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Stupid Hobby Artwork: Paola Saliby\n",
+  "num_followers": 167481,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1OTUwOCwwMDAwMDAwMGQyMGFiNTIzYzM0MDM0OTBkNThiZTk4ZTQ4YzIzOTc2",
+  "snapshot_id": "MTY2MzE2MjA1OSwwMDAwMDAwMGRmMDZmOThkZGM3OWUwZWI0OGI4MmJiZTQwZTYxNDVk",
   "tracks": [
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/5e4GaP1tr8YZfIgjhZwum6"
+      },
+      "artists": [
+        {
+          "name": "Stupid Hobby",
+          "url": "https://open.spotify.com/artist/499oIf4YdgPsXFnP6bt8T1"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0w0ppqrsKf2O42rAXAH3o1"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI"
+      },
+      "artists": [
+        {
+          "name": "Eva Westphal",
+          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/2wq2aPkFgQm71gbIBXpFwj"
+      },
+      "artists": [
+        {
+          "name": "Brigetta",
+          "url": "https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1JHnIv5P28zb8ocz7JLPnY"
+    },
     {
       "added_at": "2022-09-07 14:05:08",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 189838,
       "name": "Ghost You",
       "url": "https://open.spotify.com/track/7pDhnvTXaAdsvpytclWlZh"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U"
+      },
+      "artists": [
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd"
+      },
+      "artists": [
+        {
+          "name": "Lone Waves",
+          "url": "https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS"
+        }
+      ],
+      "duration_ms": 244571,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL"
     },
     {
       "added_at": "2022-09-07 14:05:08",
@@ -41,20 +121,36 @@
       "url": "https://open.spotify.com/track/0aoQatLl8N7NtLr1YPSu91"
     },
     {
-      "added_at": "2022-09-07 14:05:08",
+      "added_at": "2022-09-14 13:27:39",
       "album": {
-        "name": "The End of the World!",
-        "url": "https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO"
+        "name": "i don't wanna know!",
+        "url": "https://open.spotify.com/album/7JVlPexG814RJNVwftsP7R"
       },
       "artists": [
         {
-          "name": "Natasha Hunt Lee",
-          "url": "https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ"
+          "name": "CALI JEWLS",
+          "url": "https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH"
         }
       ],
-      "duration_ms": 175146,
-      "name": "The End of the World",
-      "url": "https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm"
+      "duration_ms": 219270,
+      "name": "i don't wanna know!",
+      "url": "https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Tornado Warnings",
+        "url": "https://open.spotify.com/album/51G4VeQtOObldVbGda0oy3"
+      },
+      "artists": [
+        {
+          "name": "Katie Lynne Sharbaugh",
+          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Tornado Warnings",
+      "url": "https://open.spotify.com/track/6DY0iLFVIw9EvFSVzaoNbu"
     },
     {
       "added_at": "2022-08-31 04:00:00",
@@ -71,6 +167,134 @@
       "duration_ms": 125407,
       "name": "All My Exes' Moms",
       "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Enough of You",
+        "url": "https://open.spotify.com/album/0erpe1onA2ORO2axFdzlW1"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ortiz",
+          "url": "https://open.spotify.com/artist/7kiCkMJHLchcrQByu2yHDk"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Enough Of You",
+      "url": "https://open.spotify.com/track/5tDNWaxVJc4z30zZm9OKD9"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Don't Miss You at All",
+        "url": "https://open.spotify.com/album/6Z5DxAkdE5Q55dWKRHJnHF"
+      },
+      "artists": [
+        {
+          "name": "Yael Danon",
+          "url": "https://open.spotify.com/artist/7ovOh90N4ZI0IyrTaOefw5"
+        }
+      ],
+      "duration_ms": 139848,
+      "name": "Don't Miss You At All",
+      "url": "https://open.spotify.com/track/19F80pvfakVITNmFnynvRz"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "place and time",
+        "url": "https://open.spotify.com/album/2lvt1eC2cZicVivlPqzIAn"
+      },
+      "artists": [
+        {
+          "name": "Tom Siletto",
+          "url": "https://open.spotify.com/artist/425hLCmDHF11OEX57lU2YX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "place and time",
+      "url": "https://open.spotify.com/track/0H90by8NMQC9QTxDc6S03I"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Crying in the Swimming Pool",
+        "url": "https://open.spotify.com/album/0Y8zDzAD669zCOi5vur5kE"
+      },
+      "artists": [
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "duration_ms": 192300,
+      "name": "Crying in the Swimming Pool",
+      "url": "https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/1F9XrnjbzV2LBufT8DFLX3"
+      },
+      "artists": [
+        {
+          "name": "Maya's Revenge",
+          "url": "https://open.spotify.com/artist/2n2S5DTbYFtrLkdhVfRrg3"
+        }
+      ],
+      "duration_ms": 158618,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/3wzjs9jgyha7FRp8cdJMzV"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Hoax",
+        "url": "https://open.spotify.com/album/7cwUcgrNEvsDwc4jfY6HIR"
+      },
+      "artists": [
+        {
+          "name": "JORDI UP LATE",
+          "url": "https://open.spotify.com/artist/5OSJ6leUukUa7Fk1Xi5zqZ"
+        }
+      ],
+      "duration_ms": 242660,
+      "name": "Hoax",
+      "url": "https://open.spotify.com/track/62dLlWjRndXdRnNdHevtT9"
+    },
+    {
+      "added_at": "2022-09-14 13:27:39",
+      "album": {
+        "name": "Still Recovering",
+        "url": "https://open.spotify.com/album/5vD9RqksWJzIiYFNfTMuMD"
+      },
+      "artists": [
+        {
+          "name": "Bryce Drew",
+          "url": "https://open.spotify.com/artist/0voFFXMYiielT0CtNVPa34"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Still Recovering",
+      "url": "https://open.spotify.com/track/1oUpiKRdQIsabZrCy62Fuj"
+    },
+    {
+      "added_at": "2022-09-07 14:05:08",
+      "album": {
+        "name": "The End of the World!",
+        "url": "https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO"
+      },
+      "artists": [
+        {
+          "name": "Natasha Hunt Lee",
+          "url": "https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ"
+        }
+      ],
+      "duration_ms": 175146,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm"
     },
     {
       "added_at": "2022-09-07 14:05:08",
@@ -317,22 +541,6 @@
       "url": "https://open.spotify.com/track/28IEay5ppQw0PtZiBAkfUK"
     },
     {
-      "added_at": "2022-08-31 04:00:00",
-      "album": {
-        "name": "Have to Make This Call",
-        "url": "https://open.spotify.com/album/6UO7qrYhrPJtahX83LwxkJ"
-      },
-      "artists": [
-        {
-          "name": "POLYDRIVE",
-          "url": "https://open.spotify.com/artist/5ZAVkQWCY01N5wj1Zfyo8k"
-        }
-      ],
-      "duration_ms": 189178,
-      "name": "Have to Make This Call",
-      "url": "https://open.spotify.com/track/0xLt7Ropr3G708NYIITbdq"
-    },
-    {
       "added_at": "2022-08-24 06:22:12",
       "album": {
         "name": "The Boy Who Cried Love",
@@ -395,22 +603,6 @@
       "duration_ms": 244403,
       "name": "Eddie's Song",
       "url": "https://open.spotify.com/track/6mO9n6CncvYtIcfWjFKsYH"
-    },
-    {
-      "added_at": "2022-08-31 04:00:00",
-      "album": {
-        "name": "GOODTIME",
-        "url": "https://open.spotify.com/album/7jGQpd0KmBcLJ0iCw2C7VP"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        }
-      ],
-      "duration_ms": 133430,
-      "name": "GOODTIME",
-      "url": "https://open.spotify.com/track/0e0IxBXAVjgKoqnTLrxNL3"
     },
     {
       "added_at": "2022-08-31 04:00:00",
@@ -591,22 +783,6 @@
     {
       "added_at": "2022-08-24 06:22:12",
       "album": {
-        "name": "Architect",
-        "url": "https://open.spotify.com/album/7JR4EkR8kGsQSpDm3xWh5k"
-      },
-      "artists": [
-        {
-          "name": "mathijs.iv",
-          "url": "https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "Architect",
-      "url": "https://open.spotify.com/track/4cshL9bJESsW1PlqPeBgTw"
-    },
-    {
-      "added_at": "2022-08-24 06:22:12",
-      "album": {
         "name": "Has the World Gone Mad",
         "url": "https://open.spotify.com/album/0Xbm0BSROIMNi2RhTNv0AG"
       },
@@ -687,22 +863,6 @@
       "duration_ms": 158495,
       "name": "Bbydoll",
       "url": "https://open.spotify.com/track/6icAGoPC9WT1yQYCm9llLb"
-    },
-    {
-      "added_at": "2022-08-24 06:22:12",
-      "album": {
-        "name": "We Were Happy",
-        "url": "https://open.spotify.com/album/3xVHRG63cyad5JznT2AxfJ"
-      },
-      "artists": [
-        {
-          "name": "Nardeccs",
-          "url": "https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR"
-        }
-      ],
-      "duration_ms": 263812,
-      "name": "We Were Happy",
-      "url": "https://open.spotify.com/track/76Yihe2lirW8tQyEL5z0lE"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -865,38 +1025,6 @@
       "url": "https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB"
     },
     {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "Something To Do",
-        "url": "https://open.spotify.com/album/0XJLMD9RzyHthbjvknBb1Q"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 184685,
-      "name": "Something To Do",
-      "url": "https://open.spotify.com/track/2u0KvopVcRlv254P7vkIAN"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "SFL",
-        "url": "https://open.spotify.com/album/6S7LTKEPEteXOX4avpmRZ3"
-      },
-      "artists": [
-        {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
-        }
-      ],
-      "duration_ms": 214714,
-      "name": "SFL",
-      "url": "https://open.spotify.com/track/5iliOfNJD3TWtuwpZlXQgs"
-    },
-    {
       "added_at": "2022-07-27 14:59:41",
       "album": {
         "name": "Maybe All the Rumours Are True",
@@ -979,22 +1107,6 @@
     {
       "added_at": "2022-07-27 14:59:41",
       "album": {
-        "name": "downbad",
-        "url": "https://open.spotify.com/album/1MBbmnRrnpmYxIiyDPVe6p"
-      },
-      "artists": [
-        {
-          "name": "pj frantz",
-          "url": "https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "downbad",
-      "url": "https://open.spotify.com/track/6AvBCzO8LUh0MFLLoEDuBO"
-    },
-    {
-      "added_at": "2022-07-27 14:59:41",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/2mbVpMfGZvVqB24RJg6trr"
       },
@@ -1007,38 +1119,6 @@
       "duration_ms": 158650,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4KcFT4tl4txVBUvzoFlhoa"
-    },
-    {
-      "added_at": "2022-07-27 14:59:41",
-      "album": {
-        "name": "give me back",
-        "url": "https://open.spotify.com/album/47umtZyyEuGpngw0h5a5o1"
-      },
-      "artists": [
-        {
-          "name": "Matt Hall",
-          "url": "https://open.spotify.com/artist/0T7K16td62laqeZKtTyv4e"
-        }
-      ],
-      "duration_ms": 137807,
-      "name": "give me back",
-      "url": "https://open.spotify.com/track/1if48fiASdlxNzdQYHIzqm"
-    },
-    {
-      "added_at": "2022-07-27 14:59:41",
-      "album": {
-        "name": "Outcast",
-        "url": "https://open.spotify.com/album/4sxHSccy3vy6eSYo05o68L"
-      },
-      "artists": [
-        {
-          "name": "Molly Millington",
-          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Outcast",
-      "url": "https://open.spotify.com/track/7J7jXNuZBBolRwQ5JLgnND"
     },
     {
       "added_at": "2022-07-20 15:53:13",
@@ -1055,22 +1135,6 @@
       "duration_ms": 177247,
       "name": "how dare you",
       "url": "https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS"
-    },
-    {
-      "added_at": "2022-07-20 15:53:13",
-      "album": {
-        "name": "Outside Kinda Kids",
-        "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 195299,
-      "name": "Outside Kinda Kids",
-      "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
     }
   ],
   "unique_name": "Fresh Finds Pop",

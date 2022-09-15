@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 15476,
+  "num_followers": 15546,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjg2MjAxMiwwMDAwMDAwMGFhZTg1YzAxNDA4NWRjZWQ2M2NkZjJkNGEyNTk2OGVj",
+  "snapshot_id": "MTY2Mjg2MjAxMiwwMDAwMDAwMDJhZTcyNjI1MTE2NmFmNzY3OWM5NGY2ZTIxMjYxNDE3",
   "tracks": [
     {
       "added_at": "2022-09-11 02:06:52",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-09-11 02:06:52",
       "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
+    },
+    {
+      "added_at": "2022-09-11 02:06:52",
+      "album": {
         "name": "Hail Mary",
         "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 102857,
       "name": "SPIDERCAT",
       "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
-    },
-    {
-      "added_at": "2022-09-11 02:06:52",
-      "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-09-11 02:06:52",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2022-09-11 02:06:52",
       "album": {
-        "name": "La Daisy",
-        "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
+        "name": "SLIDIN",
+        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
       },
       "artists": [
         {
-          "name": "DAISY SIMO",
-          "url": "https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp"
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        },
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
         }
       ],
-      "duration_ms": 136719,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/0jGO5iy60VBAutVznPPuLR"
+      "duration_ms": 158007,
+      "name": "SLIDIN",
+      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
     },
     {
       "added_at": "2022-09-11 02:06:52",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2022-09-11 02:06:52",
       "album": {
-        "name": "SLIDIN",
-        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
+        "name": "La Daisy",
+        "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
       },
       "artists": [
         {
-          "name": "Omar Cruz",
-          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
-        },
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+          "name": "DAISY SIMO",
+          "url": "https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp"
         }
       ],
-      "duration_ms": 158007,
-      "name": "SLIDIN",
-      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
+      "duration_ms": 136719,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/0jGO5iy60VBAutVznPPuLR"
     },
     {
       "added_at": "2022-09-11 02:06:52",

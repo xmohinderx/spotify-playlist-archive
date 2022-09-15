@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-482 songs - 1 day 11 hr 19 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+483 songs - 1 day 11 hr 23 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [England And America](https://open.spotify.com/track/3OK6xt63jBRG8M0M4fojF2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:51 | 2022-09-08 |  |
 | [Expressing Yourself](https://open.spotify.com/track/2rwu2MvNCnCkJzR40AUI9t) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 5:13 | 2022-09-08 |  |
 | [Fanfare](https://open.spotify.com/track/6llaeUEQcqJgaBXp5Fpw2c) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 0:30 | 2022-09-08 |  |
-| [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 | 2022-09-09 |  |
+| [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 | 2022-09-09 | 2022-09-15 |
 | [Fat Boys And Ugly Girls](https://open.spotify.com/track/14sADwg78MbJw9dDL62iRR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:14 | 2022-09-08 |  |
 | [Feed Me](https://open.spotify.com/track/4qUAs5fOf9rGEGq4MTSFDD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:00 | 2022-09-08 |  |
 | [Finale](https://open.spotify.com/track/3xDfQmTLVmMtpR80ZF1Z85) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 5:34 | 2022-09-08 |  |
@@ -257,6 +257,7 @@
 | [Love Builds a Garden](https://open.spotify.com/track/0CjPt6FMbL18Q2WThDHTTb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:34 | 2022-09-08 |  |
 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 | 2022-09-08 |  |
 | [Love's Got A Lot To Answer For](https://open.spotify.com/track/57LGc6kMOrfEDM8EiZxQln) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:00 | 2022-09-08 |  |
+| [Lovesick](https://open.spotify.com/track/18s5u73IeszmNilFtAZ27U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:59 | 2022-09-14 |  |
 | [Made For Me](https://open.spotify.com/track/12IOkK9efMBVYiJ0B1g79O) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:22 | 2022-09-08 |  |
 | [Made In England](https://open.spotify.com/track/6VmxhbNRCURgu8d5pEPRb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:08 | 2022-09-08 |  |
 | [Madman Across The Water](https://open.spotify.com/track/6NFuanvmfkAdnPykwsOK91) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 5:57 | 2022-09-08 |  |

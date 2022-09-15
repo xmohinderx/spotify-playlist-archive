@@ -4,7 +4,7 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-186 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
+187 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All For You](https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt) | 3:55 | 2019-05-26\* |  |
 | [All These Girls](https://open.spotify.com/track/5d3HKoKvqtN0gRDjt3RcBL) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now \(Deluxe Edition\)](https://open.spotify.com/album/5Ix8zXCxsX8YCGAThyBVE8) | 3:24 | 2019-05-26\* | 2020-02-13 |
 | [Anemone](https://open.spotify.com/track/0geaQiAZN8AhkxLfyAiUXe) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Koda Vista](https://open.spotify.com/album/3fufxe1NmkhSbQUISPFHrb) | 4:15 | 2019-05-26\* | 2021-04-23 |
-| [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/1XXqmnOgL9k9lcRT3hncTf) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 3:22 | 2022-05-27 |  |
+| [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/1XXqmnOgL9k9lcRT3hncTf) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 3:22 | 2022-05-27 | 2022-09-15 |
+| [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:22 | 2022-08-26 |  |
 | [Astronaut \- Something About Your Love](https://open.spotify.com/track/4sG6J4S2FCuMr3oooYAwFS) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Astronaut \(Something About Your Love\)](https://open.spotify.com/album/7gXdTAAzBuXqTV2kxSIPAk) | 3:22 | 2019-05-26\* | 2022-07-29 |
 | [Be There](https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB) | [Andrew Simple](https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG) | [Wake](https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB) | 3:55 | 2021-01-29 |  |
 | [Better Life](https://open.spotify.com/track/08LxaBHzxNSxHdCSitATLW) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [The Peace of Wild Things](https://open.spotify.com/album/4gCXFcJXBeseiCQ0GCakO0) | 4:46 | 2019-05-26\* |  |

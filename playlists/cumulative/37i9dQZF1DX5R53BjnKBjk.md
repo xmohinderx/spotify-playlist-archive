@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camaleoa Arte: Isu Kim
 
-172 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+173 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Desembaraços](https://open.spotify.com/track/7rJ0UpsDeeJWFR9lDrv29R) | [Igor Caracas](https://open.spotify.com/artist/5hF7UKIfUgP7ugeFGSGJDT) | [Desembaraços](https://open.spotify.com/album/4tspLrfQxmhj8KXYKI4z3F) | 3:13 | 2022-08-05 | 2022-08-30 |
 | [Deslize de Delírio Inconsequente](https://open.spotify.com/track/7afauHi7fLtMLLqLVTzg5J) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Deslize de Delírio Inconsequente](https://open.spotify.com/album/2CJXL6hmyqNaS3ogixCUY1) | 3:56 | 2022-01-07 | 2022-07-23 |
 | [Diga\-me](https://open.spotify.com/track/1NuJEGUFkcygXNjcSMcbdP) | [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Salamanka](https://open.spotify.com/artist/0TpzpzpahCAoko5pXwQAYA), [Tainã Troccoli](https://open.spotify.com/artist/41AuzbTV7cdahoooXbRlRc) | [Diga\-me](https://open.spotify.com/album/6NrL8zeO6CKcwdFnC2ooS0) | 3:19 | 2022-01-07 | 2022-09-03 |
-| [Do Jeito Mais Simples](https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e) | [Lili Novais](https://open.spotify.com/artist/1gkJzrL4lWQidUjGXnTZ7L) | [Do Jeito Mais Simples](https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12) | 2:31 | 2022-05-16 |  |
+| [Do Jeito Mais Simples](https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e) | [Lili Novais](https://open.spotify.com/artist/1gkJzrL4lWQidUjGXnTZ7L) | [Do Jeito Mais Simples](https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12) | 2:31 | 2022-05-16 | 2022-09-15 |
 | [Ei Você](https://open.spotify.com/track/6kEsR6wVuS0TF0pzdhq5ge) | [BarbarAmor](https://open.spotify.com/artist/3HvaQsJWVdi2WvuWyq2SBJ) | [Ei Você](https://open.spotify.com/album/5flpZHlJ5BH0veAKsqJ3Nm) | 2:51 | 2022-08-19 | 2022-08-30 |
 | [Espectro do Tempo](https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO) | [Inês é Morta](https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG) | [Espectro do Tempo](https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S) | 4:33 | 2022-01-07 | 2022-08-13 |
 | [Esse Jogo](https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI) | [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL) | [Esse Jogo](https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt) | 2:24 | 2022-09-02 |  |
@@ -171,6 +171,7 @@
 | [tudo bem](https://open.spotify.com/track/5QieXWNPH4lFVboZceTMKi) | [mucci](https://open.spotify.com/artist/5nJNGHuoGiqFF4YBf9dVU0) | [tudo bem](https://open.spotify.com/album/7DjX1RWcZ291PqE4nL70ER) | 3:05 | 2022-01-07 | 2022-08-13 |
 | [Tudo Vai Bem](https://open.spotify.com/track/0Ux6ns0ofCgj2Pw6kEwKqd) | [Stvz](https://open.spotify.com/artist/7HzEixhvOdpNHS5a0Hwiyu) | [Tudo Vai Bem](https://open.spotify.com/album/0nXl05xPz5CU3kUGdbiftb) | 3:34 | 2022-01-07 | 2022-08-20 |
 | [Tudo vale a pena](https://open.spotify.com/track/20Ol2Wfg3g6XGVnw4C0D8C) | [Jey](https://open.spotify.com/artist/6dS9sxlp4vf34zzi6TtQ8C) | [Tudo vale a pena](https://open.spotify.com/album/65h69IuhRe8D8E786BrfgZ) | 2:25 | 2022-03-11 | 2022-03-17 |
+| [Tá Subindo](https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF) | [Clara Tannure](https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq) | [PSEUDODRAMA](https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ) | 2:26 | 2022-09-09 |  |
 | [Tão Perto e Tão Longe](https://open.spotify.com/track/2qIAX1Ww0761lDie4kQe0A) | [Letícia](https://open.spotify.com/artist/609NBZ4p86Qj6PN8gdafcS) | [Tão Perto e Tão Longe](https://open.spotify.com/album/7ARx511vO11RKrsvwjFA2O) | 2:48 | 2022-01-07 | 2022-08-20 |
 | [Verá](https://open.spotify.com/track/5319dvKuNaay3efQn794i0) | [Gabi Farias](https://open.spotify.com/artist/3GxaLhs7QePUYh49a8TYrM), [Gramophone](https://open.spotify.com/artist/5rnC9EuUqZC8Mbkg2uiLKu) | [Enchente](https://open.spotify.com/album/5YvudFtZ5FcMEL3hpVCsrY) | 4:12 | 2022-02-18 |  |
 | [Verão](https://open.spotify.com/track/5NbOilBmttx0b5dJcdL697) | [Pseudo Banda](https://open.spotify.com/artist/7B5wVF8YwLqwfVaWk3HkDe), [Vaine](https://open.spotify.com/artist/2pdCZh6Kwn3lZqFIwPRY97) | [Verão](https://open.spotify.com/album/0Z7geQJsarPEigZos4VPEf) | 2:51 | 2022-01-14 | 2022-02-05 |

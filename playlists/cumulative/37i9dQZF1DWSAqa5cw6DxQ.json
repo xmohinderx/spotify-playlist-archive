@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Emersion",
+        "url": "https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Ryan",
+          "url": "https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168005,
+      "name": "Emersion",
+      "url": "https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK"
+    },
+    {
+      "album": {
         "name": "Essential Transformation",
         "url": "https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8"
       },
@@ -1089,6 +1107,24 @@
       "duration_ms": 168536,
       "name": "Pads of Redemption",
       "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
+    },
+    {
+      "album": {
+        "name": "Path To Self",
+        "url": "https://open.spotify.com/album/1T12sRdIKzoIYJUkbRr6Ag"
+      },
+      "artists": [
+        {
+          "name": "Cold Space",
+          "url": "https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284712,
+      "name": "Path To Self",
+      "url": "https://open.spotify.com/track/3o76zTFwwLZ7lx5La5L09O"
     },
     {
       "album": {

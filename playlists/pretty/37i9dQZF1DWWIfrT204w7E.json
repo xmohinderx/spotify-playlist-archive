@@ -1,12 +1,12 @@
 {
   "description": "Drill scenes connect. Cover: 22Gz",
-  "num_followers": 120035,
+  "num_followers": 120173,
   "original_name": "City to City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDMzNzM3ZWIxYzZmMGUxYjM4NzY3NWI5NDgzYWU4ZTQ3",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDE0ZDZiYmJhZjM4NWY3NDdlMTVmMTE0MTBjOTMxMGFh",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Practice Makes Perfect",
+        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Practice Makes Perfect",
+      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
         "url": "https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 150475,
       "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
       "url": "https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Practice Makes Perfect",
-        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Practice Makes Perfect",
-      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -623,30 +623,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "State of Emergency",
-        "url": "https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 214825,
-      "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
-      "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Greece",
         "url": "https://open.spotify.com/album/5zmDVvrSrECRqUimEeHygu"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 178137,
       "name": "I Dunno (feat. Dutchavelli & Stormzy)",
       "url": "https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "State of Emergency",
+        "url": "https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 214825,
+      "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
+      "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -907,30 +907,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "B.I.B.L.E.",
-        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 241643,
-      "name": "Changed On Me (feat. Vory & Polo G)",
-      "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "G.O.O.D.",
         "url": "https://open.spotify.com/album/4YXvNse2P5iuKtCPh91o8q"
       },
@@ -963,18 +939,26 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/5GJuKaFeTSF8FgES4iv7dM"
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
       },
       "artists": [
         {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 161142,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/6PyDmJQd9gT9vBOc5aPAXw"
+      "duration_ms": 241643,
+      "name": "Changed On Me (feat. Vory & Polo G)",
+      "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -991,6 +975,22 @@
       "duration_ms": 173571,
       "name": "Wow",
       "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/5GJuKaFeTSF8FgES4iv7dM"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6PyDmJQd9gT9vBOc5aPAXw"
     }
   ],
   "unique_name": "City to City",

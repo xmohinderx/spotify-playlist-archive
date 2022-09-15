@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Future With You",
+        "url": "https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185777,
+      "name": "A Future With You",
+      "url": "https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw"
+    },
+    {
+      "album": {
         "name": "A Life Remembered",
         "url": "https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA"
       },
@@ -1665,6 +1683,24 @@
       "duration_ms": 138193,
       "name": "Pent-Up House",
       "url": "https://open.spotify.com/track/6TAjrtxxRwWuo5NI4gUG0g"
+    },
+    {
+      "album": {
+        "name": "Prelude To A Kiss",
+        "url": "https://open.spotify.com/album/4cSn217ednrXznxx6lIKvA"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275743,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/4Csbgu7LMDGPLjhPgHfQmZ"
     },
     {
       "album": {

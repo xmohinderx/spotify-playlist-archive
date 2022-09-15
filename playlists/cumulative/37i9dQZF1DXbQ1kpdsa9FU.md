@@ -4,7 +4,7 @@
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-185 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
+186 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 | 2020-08-26 | 2022-07-29 |
 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 | 2020-08-26 | 2022-01-19 |
 | [Hallelujah Even Here](https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:24 | 2020-08-26 |  |
-| [Here I Am To Worship \- Live](https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Ultimate Worship: Hillsong \(Live\)](https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL) | 3:40 | 2020-08-26 |  |
+| [Here I Am To Worship \- Live](https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Ultimate Worship: Hillsong \(Live\)](https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL) | 3:40 | 2020-08-26 | 2022-09-15 |
 | [Here I Am To Worship/Call \- Live](https://open.spotify.com/track/4zeKTG4HSBdHD5Od6J0i2q) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Hope \(Live\)](https://open.spotify.com/album/198Yw7bImKFTsiK9UrmPYI) | 6:34 | 2020-08-26 | 2022-07-28 |
 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 | 2020-08-26 |  |
 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 | 2020-08-26 |  |
@@ -116,6 +116,7 @@
 | [My Savior My God](https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Anything Worth Saying](https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz) | 4:51 | 2020-08-26 |  |
 | [My Story](https://open.spotify.com/track/2JK1AI0SfgdAnmhieLt43Z) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings](https://open.spotify.com/album/2nWTqt1W9qwhfWTMQ0vcNV) | 4:38 | 2020-08-26 | 2022-07-24 |
 | [My Story](https://open.spotify.com/track/6Dkou08rjWrgGijVmoAVZp) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:38 | 2020-08-26 |  |
+| [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 | 2020-08-26 |  |
 | [New Wine \- Live](https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 8:10 | 2020-08-26 | 2022-03-12 |
 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 | 2020-08-26 |  |
 | [No Longer Slaves \(Live\)](https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm) | 6:13 | 2020-08-26 | 2022-07-28 |

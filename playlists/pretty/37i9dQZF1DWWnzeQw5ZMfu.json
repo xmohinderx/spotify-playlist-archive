@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 39542,
+  "num_followers": 39675,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgwOTIwMSwwMDAwMDAwMGNmMzBlYmI0ZWQ1ZDY2YTRkYWFlMzc5NzUzM2JjZmFi",
+  "snapshot_id": "MTY2MDgwOTIwMSwwMDAwMDAwMDMxZTQ0MDA4YjQ5NGI4MjRhNjZkZmI0NDZhZWVhNTBh",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "You're Beautiful - Live in Ireland",
-      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "You Need To Calm Down (Live From Paris)",
         "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 203960,
       "name": "You Need To Calm Down - Live From Paris",
       "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "You're Beautiful - Live in Ireland",
+      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
-      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "ME! (Live From Paris)",
         "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 213026,
       "name": "ME! - Live From Paris",
       "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
+      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live 1976 - 1998: Tonight's the Night",
-        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
-      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Imagine Dragons (Spotify Sessions)",
         "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212810,
       "name": "Shots - Live From Spotify London",
       "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live 1976 - 1998: Tonight's the Night",
+        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
+      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Goodbye My Lover - Live in Ireland",
+      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Goodbye My Lover - Live in Ireland",
-      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
-        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 337920,
-      "name": "It Must Have Been Love - Live from Santiago 2012",
-      "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
+        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 337920,
+      "name": "It Must Have Been Love - Live from Santiago 2012",
+      "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -895,22 +895,6 @@
       "duration_ms": 215173,
       "name": "Fields Of Gold - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Waterloo - Live",
-      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -947,6 +931,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Waterloo - Live",
+      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live Friday The 13th",
-        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 379013,
-      "name": "She Will Be Loved - Live",
-      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 200826,
       "name": "Lucky (feat. Colbie Caillat) - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live Friday The 13th",
+        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 379013,
+      "name": "She Will Be Loved - Live",
+      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+        "name": "Havana (Live)",
+        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 180346,
-      "name": "Hopelessly Devoted To You - Live",
-      "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
+      "duration_ms": 248572,
+      "name": "Havana - Live",
+      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Havana (Live)",
-        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 248572,
-      "name": "Havana - Live",
-      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
+      "duration_ms": 180346,
+      "name": "Hopelessly Devoted To You - Live",
+      "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 265520,
-      "name": "Take A Chance On Me - Live",
-      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
-        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 223226,
-      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
-      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
+      "duration_ms": 265520,
+      "name": "Take A Chance On Me - Live",
+      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa"
+        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
+        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 374506,
-      "name": "Stronger - Live",
-      "url": "https://open.spotify.com/track/5V858ZgvMgpdHJdmeeWJs4"
+      "duration_ms": 223226,
+      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
+      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1447,22 +1431,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -1475,6 +1443,38 @@
       "duration_ms": 295613,
       "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 374506,
+      "name": "Stronger - Live",
+      "url": "https://open.spotify.com/track/5V858ZgvMgpdHJdmeeWJs4"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "Xanadu - Live",
-      "url": "https://open.spotify.com/track/3j32B9KLYeELoCvvyhVunF"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "Xanadu - Live",
+      "url": "https://open.spotify.com/track/3j32B9KLYeELoCvvyhVunF"
     },
     {
       "added_at": "2022-08-09 09:45:24",

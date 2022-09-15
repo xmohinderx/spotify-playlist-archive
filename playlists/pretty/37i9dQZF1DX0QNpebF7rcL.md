@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,804 likes - 86 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,858 likes - 86 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

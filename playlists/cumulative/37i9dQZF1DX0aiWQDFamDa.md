@@ -4,11 +4,11 @@
 
 > Sad and gloomy instrumental Jazz.
 
-192 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
+193 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-05-18 | 2022-09-11 |
+| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-05-18 |  |
 | [A Certain Sadness](https://open.spotify.com/track/3rNEyZg9zAnT5djNUpsUSc) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [A Certain Sadness](https://open.spotify.com/album/432pjknSR4Z25xrKOo7ZNo) | 5:39 | 2022-05-18 | 2022-08-13 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2022-05-18 | 2022-07-29 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 | 2022-06-29 |  |
@@ -104,7 +104,7 @@
 | [In Love, In Vain](https://open.spotify.com/track/24HJ0wbvFZflLOlr9SzM6h) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 5:00 | 2022-05-18 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/1GNMUzUtOCejRJfdRbKqLZ) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx) | [Alone at the Vanguard](https://open.spotify.com/album/5eeSHIlJkI0bcgn2DdOnZa) | 7:25 | 2022-05-18 |  |
 | [Is There a Way](https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Is There a Way](https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS) | 4:05 | 2022-05-18 | 2022-07-29 |
-| [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-06-29 |  |
+| [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-06-29 | 2022-09-15 |
 | [It Never Entered My Mind](https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 4:42 | 2022-05-18 |  |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 | 2022-06-29 |  |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [It's Beginning to Rain Again](https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N) | 4:47 | 2022-05-18 | 2022-07-29 |
@@ -123,7 +123,8 @@
 | [Maybe You'll Be There](https://open.spotify.com/track/3CtayjiEM7bB0XMAtlLCsS) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 5:30 | 2022-05-18 | 2022-08-27 |
 | [Melancholee \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 6:14 | 2022-05-18 |  |
 | [My Foolish Heart](https://open.spotify.com/track/3dCDnpRsr2AISZ4ZsvfkvH) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:18 | 2022-05-18 |  |
-| [My Old Flame](https://open.spotify.com/track/3jWqSMKx3gamUrb2qIGBkG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Live In Milan](https://open.spotify.com/album/4ZdAmHiOPchepAab6jksEo) | 4:58 | 2022-05-18 |  |
+| [My Old Flame](https://open.spotify.com/track/3jWqSMKx3gamUrb2qIGBkG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Live In Milan](https://open.spotify.com/album/4ZdAmHiOPchepAab6jksEo) | 4:58 | 2022-05-18 | 2022-09-15 |
+| [My Ship](https://open.spotify.com/track/7gapLLf7TnXBg6NnT3kH8e) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:36 | 2022-09-13 |  |
 | [Naima](https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Giant Steps](https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4) | 5:02 | 2022-05-18 |  |
 | [Never Let Me Go](https://open.spotify.com/track/4axqDLBDLz7pmZ3gZXaNmQ) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards, Vol\. 2](https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd) | 7:49 | 2022-05-18 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tokyo '96](https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h) | 7:02 | 2022-09-08 |  |

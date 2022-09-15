@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Sudan Archives
 
-1,658 songs - 3 day 21 hr 17 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,660 songs - 3 day 21 hr 23 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [I Don't Wanna Feel No More](https://open.spotify.com/track/4ZYsA9WtsL3sY7tqIXsfun) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [I Don't Wanna Feel No More](https://open.spotify.com/album/1RUZZKK3hKDRxbR94AFBnf) | 3:21 | 2020-12-04 | 2021-02-18 |
 | [I Don’t Think I Can Do This Again \(with Clairo\)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2019-08-23 | 2019-09-24 |
 | [I Dunno Her](https://open.spotify.com/track/0JgmVPijLg1iPO1LJeZ4zB) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [I Dunno Her](https://open.spotify.com/album/2hIE5CUKfg4stBrq2TC0aR) | 4:48 | 2021-08-28 | 2021-10-30 |
+| [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-09-14 |  |
 | [I Feel Fantastic](https://open.spotify.com/track/47jOHlHtl1AWERc1SITALU) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:15 | 2020-12-05 | 2021-02-19 |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2022-04-01 | 2022-07-16 |
 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 | 2021-07-10 | 2021-09-18 |
@@ -1118,7 +1119,8 @@
 | [Patagonia](https://open.spotify.com/track/3ihskScPmfLPIfU5qWdJM8) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Patagonia](https://open.spotify.com/album/1j5ASBhzL2szRZmRUdMGaK) | 3:12 | 2019-09-18 | 2020-04-02 |
 | [Patchwork](https://open.spotify.com/track/6ABwRRHXNYgy1nhRu91BeK) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Patchwork](https://open.spotify.com/album/2UvPF7NLFYZZhsnjuwhRwM) | 3:08 | 2019-11-16 | 2020-02-21 |
 | [Patience](https://open.spotify.com/track/70QxCdvzi3QlDDOkR67sao) | [Joël](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [GRUNGE GOSPEL \- Side A](https://open.spotify.com/album/7kgFl0iMSsWnqBt7rVIF0I) | 2:37 | 2019-10-04 | 2019-12-06 |
-| [Patience](https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Patience](https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH) | 4:17 | 2022-08-05 |  |
+| [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 | 2022-08-05 |  |
+| [Patience](https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Patience](https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH) | 4:17 | 2022-08-05 | 2022-09-15 |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2019-07-30\* | 2019-12-13 |
 | [Patterns](https://open.spotify.com/track/7qLrWXTgPdE2Sw3zTnhe67) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Patterns](https://open.spotify.com/album/0rlIVUflILXZZCXWtYHRuc) | 2:39 | 2022-04-22 | 2022-08-06 |
 | [PB Jam](https://open.spotify.com/track/1ovDiVHNZWZJaomYWEds56) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/3iMht1oZf6aXQhHZscLXdF) | 3:43 | 2020-08-07 | 2021-01-15 |

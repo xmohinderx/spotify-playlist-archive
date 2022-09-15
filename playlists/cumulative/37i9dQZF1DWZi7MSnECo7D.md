@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: kamaitachi
 
-270 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+271 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [eu tenho medo de me machucar](https://open.spotify.com/track/1MuWD2fVnNjLpDoWmQqfWe) | [Garbo](https://open.spotify.com/artist/0atJgsk6SYsVlg7TcMctTG) | [não faça o que eu faço](https://open.spotify.com/album/1POHK3zqVt06qXsF5HPfz1) | 2:08 | 2022-06-24 | 2022-08-20 |
 | [Eu Tinha Razão](https://open.spotify.com/track/2dm9LENWpqgh4bhvySFJ1K) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 1](https://open.spotify.com/album/1Ik6uKshcmjKfiHF4xhHCh) | 3:24 | 2022-01-14 | 2022-01-22 |
 | [Eu Voltei](https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly) | [Versa Libertália](https://open.spotify.com/artist/3oyRcui3kEHDq4LNvvR4ht) | [Uma Nova Forma de Enxergar a Vida](https://open.spotify.com/album/0XtsARQNFAuGxChVgyMMgl) | 3:51 | 2022-04-01 | 2022-07-09 |
-| [Exagero](https://open.spotify.com/track/0lvZo386v7BoE7g92gTykf) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/67lL8yGJt7As3rF1lUlukn) | 3:44 | 2022-07-15 |  |
+| [Exagero](https://open.spotify.com/track/0lvZo386v7BoE7g92gTykf) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/67lL8yGJt7As3rF1lUlukn) | 3:44 | 2022-07-15 | 2022-09-15 |
+| [Exagero](https://open.spotify.com/track/2k6UjFKX89tA2GPKrmb4NB) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/2lLzotThWmiFq8OcdH9iqz) | 3:44 | 2022-09-09 |  |
 | [Exausta](https://open.spotify.com/track/0IbcOCuSAOGSAiXMvvczc6) | [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X), [Sara Não Tem Nome](https://open.spotify.com/artist/31HTzBU95YF2eY7oXK92vM), [Julia Branco](https://open.spotify.com/artist/7023uToWKoLCvKPgpuv8uo) | [Exausta](https://open.spotify.com/album/2RmfuZ5B0cmhEApN9dhSdu) | 3:09 | 2022-01-14 | 2022-01-22 |
 | [Experimento de Observação 5353](https://open.spotify.com/track/5Y9LpbRCeLibZyaYlPTC0H) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [o k a m i](https://open.spotify.com/artist/4HRfnwOL9EYmUQBhG3qSWK) | [Experimento de Observação 5353](https://open.spotify.com/album/2mRXxoWKQoXB9uoIOcX6Mm) | 3:01 | 2022-01-14 | 2022-02-19 |
 | [Falando Sério](https://open.spotify.com/track/6oQiksehsvL3A50lhrKBNL) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z), [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [Falando Sério](https://open.spotify.com/album/2pRsp6mekgKMBHelCp2UPA) | 2:27 | 2022-03-25 | 2022-04-29 |

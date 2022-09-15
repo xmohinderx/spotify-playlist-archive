@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,657 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,659 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 9 | [Good Ol' Man](https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Good Ol' Man](https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s) | 3:22 |
 | 10 | [The Father's Song](https://open.spotify.com/track/1jHE6L9VDkMHD4pzx7Cq4z) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Outrageous Grace](https://open.spotify.com/album/0nWWj6yZHZyFi8iQbRb424) | 4:18 |
 | 11 | [What My Father Does](https://open.spotify.com/track/762C4wym3RDcDmfmoEmDEm) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL), [Sophee Waller](https://open.spotify.com/artist/3ahmnB1cPV3cBRP0WX0Asf) | [What My Father Does](https://open.spotify.com/album/6aT45t3ZWXdxQF5vnnnfno) | 4:05 |
-| 12 | [A Father's Blessing](https://open.spotify.com/track/3YXZFkJmzNj4fyQ3dBmRUm) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [A Father's Blessing](https://open.spotify.com/album/2eBVuof7oZu0Arcxe7VhOf) | 4:41 |
+| 12 | [A Father's Blessing](https://open.spotify.com/track/3YXZFkJmzNj4fyQ3dBmRUm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [A Father's Blessing](https://open.spotify.com/album/2eBVuof7oZu0Arcxe7VhOf) | 4:41 |
 | 13 | [When I Pray for You](https://open.spotify.com/track/16DRIwIBIgZdAgpp0vLh5q) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [When I Pray for You](https://open.spotify.com/album/4kG5pb8MWB47R7UV3tpdci) | 3:29 |
 | 14 | [Father Heart](https://open.spotify.com/track/4gQDQKwTmnyiR8D2mqKmjU) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Father Heart](https://open.spotify.com/album/3LH2IzuwOwOBZy2MWe6bEG) | 3:08 |
 | 15 | [Like Your Father Does](https://open.spotify.com/track/01sp6Y15giMIY7tnJJgJXa) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Like Your Father Does](https://open.spotify.com/album/547uPgmyiBaSKUKVp7yuR5) | 3:50 |

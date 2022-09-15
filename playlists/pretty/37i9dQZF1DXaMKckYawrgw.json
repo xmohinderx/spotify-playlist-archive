@@ -1,12 +1,12 @@
 {
   "description": "Ska con cuadritos blancos, negros, y tricolores. La Tremenda Korte en portada.",
-  "num_followers": 6541,
+  "num_followers": 6586,
   "original_name": "Ska Mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyOTUyMCwwMDAwMDAwMDBlMzVkYzI5ODRjOWNkYmFmNTFjMGY4ZGI1NTRlMjE2",
+  "snapshot_id": "MTY2MjcyOTUyMCwwMDAwMDAwMDNmNGQ5ZTgwZGE4YmRiNGEzYTYwNjQ4ZTRmNGE3OTNi",
   "tracks": [
     {
       "added_at": "2022-03-18 06:00:00",
@@ -889,6 +889,38 @@
       "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
     },
     {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "La Rebeli\u00f3n",
+        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 271301,
+      "name": "Y la Recuerdo de Ayer",
+      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
+      },
+      "artists": [
+        {
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Cenizas en el Mar",
+      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
+    },
+    {
       "added_at": "2022-07-15 04:44:57",
       "album": {
         "name": "Polic\u00eda",
@@ -911,38 +943,6 @@
       "duration_ms": 156820,
       "name": "Polic\u00eda",
       "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Cenizas en el Mar",
-      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "La Rebeli\u00f3n",
-        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 271301,
-      "name": "Y la Recuerdo de Ayer",
-      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -975,6 +975,22 @@
       "duration_ms": 168734,
       "name": "Chica Yeye",
       "url": "https://open.spotify.com/track/3oFonZNnxADZ2aLW7y0Zj0"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1025,22 +1041,6 @@
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
     },
     {
-      "added_at": "2022-08-13 00:14:26",
-      "album": {
-        "name": "Re\u00edr o Llorar",
-        "url": "https://open.spotify.com/album/3AkrEP9iZjgKjPCIa5wzbT"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 244741,
-      "name": "Re\u00edr o Llorar",
-      "url": "https://open.spotify.com/track/3aXNanTLplx6lnbMi3LRCG"
-    },
-    {
       "added_at": "2022-03-18 06:00:00",
       "album": {
         "name": "M\u00e1s Que Tu Amigo",
@@ -1077,20 +1077,20 @@
       "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
     },
     {
-      "added_at": "2022-03-18 06:00:00",
+      "added_at": "2022-08-13 00:14:26",
       "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+        "name": "Re\u00edr o Llorar",
+        "url": "https://open.spotify.com/album/3AkrEP9iZjgKjPCIa5wzbT"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
+      "duration_ms": 244741,
+      "name": "Re\u00edr o Llorar",
+      "url": "https://open.spotify.com/track/3aXNanTLplx6lnbMi3LRCG"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw"
     },
     {
-      "added_at": "2022-04-22 05:00:00",
-      "album": {
-        "name": "Better Times Are Coming",
-        "url": "https://open.spotify.com/album/0YbGmlwz42fGa6Dk86bf7x"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 197788,
-      "name": "Better Times Are Coming",
-      "url": "https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ"
-    },
-    {
       "added_at": "2022-03-18 06:00:00",
       "album": {
         "name": "Sonora Skandalera",
@@ -1175,6 +1159,22 @@
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+    },
+    {
+      "added_at": "2022-04-22 05:00:00",
+      "album": {
+        "name": "Better Times Are Coming",
+        "url": "https://open.spotify.com/album/0YbGmlwz42fGa6Dk86bf7x"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 197788,
+      "name": "Better Times Are Coming",
+      "url": "https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Classic's Ska",
+        "url": "https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj"
+      },
+      "artists": [
+        {
+          "name": "Pachecos Orchestra",
+          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
+        },
+        {
+          "name": "Betania L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL"
+        }
+      ],
+      "duration_ms": 253270,
+      "name": "No Insistas M\u00e1s",
+      "url": "https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Marcando El Ritmo",
         "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
       },
@@ -1451,26 +1471,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Classic's Ska",
-        "url": "https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj"
-      },
-      "artists": [
-        {
-          "name": "Pachecos Orchestra",
-          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
-        },
-        {
-          "name": "Betania L\u00f3pez",
-          "url": "https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL"
-        }
-      ],
-      "duration_ms": 253270,
-      "name": "No Insistas M\u00e1s",
-      "url": "https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Jamaica Ska",
         "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "...y Como Dice Giles! (Tributo a los Giles)",
-        "url": "https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS"
-      },
-      "artists": [
-        {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Estereof\u00f3nica",
-      "url": "https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "El Mundo No Esta Listo",
         "url": "https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 248888,
       "name": "La Ultima Noche",
       "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "...y Como Dice Giles! (Tributo a los Giles)",
+        "url": "https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS"
+      },
+      "artists": [
+        {
+          "name": "La Hoja Ensamble",
+          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Estereof\u00f3nica",
+      "url": "https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1781,6 +1781,22 @@
       "url": "https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g"
     },
     {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Peque\u00f1o Tratado de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe"
+    },
+    {
       "added_at": "2022-07-15 04:41:26",
       "album": {
         "name": "M\u00fasica Guerrera",
@@ -1803,22 +1819,6 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Peque\u00f1o Tratado de un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe"
     },
     {
       "added_at": "2022-03-18 06:00:00",

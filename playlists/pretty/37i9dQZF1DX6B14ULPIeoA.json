@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dulces, verdes y rojos! Con su champurrado calientito. ",
-  "num_followers": 28814,
+  "num_followers": 28876,
   "original_name": "Tamales & Atole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTY0NTc1MiwwMDAwMDAwMDM1NGFmNjk5OGY1YTYyOGVkZTRiZWE2MDM1YjY5MWFj",
+  "snapshot_id": "MTY0NTY0NTc1MiwwMDAwMDAwMGQyYWZlMTM2YzY0OGU4ZjYwMzc5MDAwMjczOGUxMzlk",
   "tracks": [
     {
       "added_at": "2022-01-12 23:23:01",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
+        "name": "Las Favoritas de David Zaizar",
+        "url": "https://open.spotify.com/album/5UNpgO6yxJKjItZrmKM9m3"
+      },
+      "artists": [
+        {
+          "name": "David Zaizar",
+          "url": "https://open.spotify.com/artist/6Hv7i9oIE49dgExXfbVBvx"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4I1SpfPK4Vm0hUcOVb7e2w"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
         "name": "Cerezo Rosa",
         "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Las Favoritas de David Zaizar",
-        "url": "https://open.spotify.com/album/5UNpgO6yxJKjItZrmKM9m3"
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
       },
       "artists": [
         {
-          "name": "David Zaizar",
-          "url": "https://open.spotify.com/artist/6Hv7i9oIE49dgExXfbVBvx"
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
         }
       ],
-      "duration_ms": 225746,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/4I1SpfPK4Vm0hUcOVb7e2w"
+      "duration_ms": 130500,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -507,22 +523,6 @@
       "duration_ms": 144194,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Esperare",
-        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Esperare",
-      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -551,18 +551,30 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+      "duration_ms": 120061,
+      "name": "Quiero Conocerte",
+      "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -603,50 +615,6 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "El Camino De La Vida",
-      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 120061,
-      "name": "Quiero Conocerte",
-      "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
         "name": "No",
         "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
       },
@@ -663,6 +631,22 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 145750,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+      },
+      "artists": [
+        {
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "El Camino De La Vida",
+      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -727,6 +727,34 @@
       "duration_ms": 138000,
       "name": "Llevatela",
       "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 191794,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -787,46 +815,22 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+        "name": "Una Flor En La Laguna",
+        "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Pepe Ramos",
+          "url": "https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+      "duration_ms": 290426,
+      "name": "Una Flor En La Laguna",
+      "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -855,22 +859,18 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Una Flor En La Laguna",
-        "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
       "artists": [
         {
-          "name": "Pepe Ramos",
-          "url": "https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 290426,
-      "name": "Una Flor En La Laguna",
-      "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -887,6 +887,30 @@
       "duration_ms": 124500,
       "name": "Luna Lunera",
       "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -927,30 +951,6 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
         "name": "Siempre Te Amare",
         "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Antolog\u00eda... Hermanos Michel",
-        "url": "https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL"
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
       "artists": [
         {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
+      "duration_ms": 149346,
+      "name": "La cama de piedra",
+      "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "La cama de piedra",
-      "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
         "name": "Tan Enamorados",
         "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
+        "name": "Antolog\u00eda... Hermanos Michel",
+        "url": "https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL"
+      },
+      "artists": [
+        {
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
         "name": "Llorando Estoy Por Ti",
         "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 164500,
       "name": "Llorando Estoy Por Ti",
       "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
         "name": "Esmeralda Olasabal",
         "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "El Banco De La Plaza",
-        "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 277258,
-      "name": "El Banco De La Plaza",
-      "url": "https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
         "name": "Mariachi from Mexico",
         "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 174093,
       "name": "Que no quede huella",
       "url": "https://open.spotify.com/track/1IpS7AlHPQ4B4AXspsGAq3"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "El Banco De La Plaza",
+        "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 277258,
+      "name": "El Banco De La Plaza",
+      "url": "https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Barracas Bird",
-        "url": "https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Barracas Bird",
-      "url": "https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "Barracas Bird",
+        "url": "https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Barracas Bird",
+      "url": "https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1255,6 +1255,42 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
+        "name": "Que viva Chihuahua!",
+        "url": "https://open.spotify.com/album/3uPJqVWTGUuul4P4r5ltJi"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Tristes recuerdos - Con banda",
+      "url": "https://open.spotify.com/track/4iaXKn6fDsCV37m73fVnBm"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "duration_ms": 124613,
+      "name": "No Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -1271,38 +1307,6 @@
       "duration_ms": 302093,
       "name": "Cucurrucuc\u00fa paloma",
       "url": "https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Que viva Chihuahua!",
-        "url": "https://open.spotify.com/album/3uPJqVWTGUuul4P4r5ltJi"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Tristes recuerdos - Con banda",
-      "url": "https://open.spotify.com/track/4iaXKn6fDsCV37m73fVnBm"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1355,42 +1359,6 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Si Te Pudiera Mentir",
-        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 289565,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "No Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
         "name": "Trio Azteca: Folk Songs and Ballads",
         "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
@@ -1403,6 +1371,38 @@
       "duration_ms": 200800,
       "name": "Piel canela",
       "url": "https://open.spotify.com/track/5UH08BuqNSq3LsAdhftaRG"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "Si Te Pudiera Mentir",
+        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 289565,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1439,6 +1439,38 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
+        "name": "Mexico: 20 Best Mariachi and Folk Songs",
+        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "La media vuelta",
+      "url": "https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Irresistible (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/3OQxAS0IKJCJJCLmMnVaCr"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
         "name": "Espectro (En Vivo Desde Cuba)",
         "url": "https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh"
       },
@@ -1463,18 +1495,18 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
       },
       "artists": [
         {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Irresistible (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/3OQxAS0IKJCJJCLmMnVaCr"
+      "duration_ms": 177142,
+      "name": "Europa - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1495,22 +1527,6 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Europa - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 202849,
       "name": "Changes",
       "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Mexico: 20 Best Mariachi and Folk Songs",
-        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "La media vuelta",
-      "url": "https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "La barca",
+      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
         "name": "La Puerta Negra",
         "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 147250,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "Me Vas A Extran\u0303ar",
-        "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
-      },
-      "artists": [
-        {
-          "name": "Los Vestidos Negros",
-          "url": "https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3"
-        }
-      ],
-      "duration_ms": 156210,
-      "name": "Me Vas A Extran\u0303ar",
-      "url": "https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1627,18 +1627,34 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+        "name": "Me Vas A Extran\u0303ar",
+        "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
       },
       "artists": [
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "Los Vestidos Negros",
+          "url": "https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3"
         }
       ],
-      "duration_ms": 183400,
-      "name": "La barca",
-      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
+      "duration_ms": 156210,
+      "name": "Me Vas A Extran\u0303ar",
+      "url": "https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc"
+    },
+    {
+      "added_at": "2022-01-12 23:23:01",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "La feria de las flores (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/6YNbMaPx4W3DPu7fhhwsrK"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1675,34 +1691,18 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/4FwwkzJoKBpaPcsO0QSG5i"
       },
       "artists": [
         {
-          "name": "Arturo Jimenes",
-          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
+          "name": "Carla Menezes",
+          "url": "https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2"
         }
       ],
-      "duration_ms": 243500,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
-    },
-    {
-      "added_at": "2022-01-12 23:23:01",
-      "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "La feria de las flores (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/6YNbMaPx4W3DPu7fhhwsrK"
+      "duration_ms": 187619,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/5LCka7O1tlAQ2uIxjQ6MNv"
     },
     {
       "added_at": "2022-01-12 23:23:01",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2022-01-12 23:23:01",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/4FwwkzJoKBpaPcsO0QSG5i"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
       },
       "artists": [
         {
-          "name": "Carla Menezes",
-          "url": "https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2"
+          "name": "Arturo Jimenes",
+          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
         }
       ],
-      "duration_ms": 187619,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/5LCka7O1tlAQ2uIxjQ6MNv"
+      "duration_ms": 243500,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
     }
   ],
   "unique_name": "Tamales & Atole",

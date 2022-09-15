@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 28587,
+  "num_followers": 28607,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMDlmMjBjZTFjNGQ0ZmE1MGNhOTVhZmVkOWQ0ZWI2MTIy",
+  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMGE0ODIwZDVhNzc5OTI4MDY5M2UyYmNiNmU5ZTAwYTBh",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -251,18 +251,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Tiempo de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
+        "name": "Cuero Caliente",
+        "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
       },
       "artists": [
         {
-          "name": "Arco Iris",
-          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
         }
       ],
-      "duration_ms": 169525,
-      "name": "Ma\u00f1ana Campestre",
-      "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
+      "duration_ms": 222693,
+      "name": "El Momento En Que Est\u00e1s",
+      "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -299,34 +299,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Cuero Caliente",
-        "url": "https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN"
+        "name": "Tiempo de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
       },
       "artists": [
         {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+          "name": "Arco Iris",
+          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
         }
       ],
-      "duration_ms": 222693,
-      "name": "El Momento En Que Est\u00e1s",
-      "url": "https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Bajo Belgrano",
-        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
-      },
-      "artists": [
-        {
-          "name": "Spinetta Jade",
-          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Maribel Se Durmi\u00f3",
-      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+      "duration_ms": 169525,
+      "name": "Ma\u00f1ana Campestre",
+      "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -347,18 +331,34 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+        "name": "Bajo Belgrano",
+        "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
       },
       "artists": [
         {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+          "name": "Spinetta Jade",
+          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
         }
       ],
-      "duration_ms": 243400,
-      "name": "Plegaria para un Ni\u00f1o Dormido",
-      "url": "https://open.spotify.com/track/3FKbpQhczilHZD5LJOqSdR"
+      "duration_ms": 155466,
+      "name": "Maribel Se Durmi\u00f3",
+      "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 454530,
+      "name": "Libros Sapienciales",
+      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
       "artists": [
         {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
         }
       ],
-      "duration_ms": 454530,
-      "name": "Libros Sapienciales",
-      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
+      "duration_ms": 243400,
+      "name": "Plegaria para un Ni\u00f1o Dormido",
+      "url": "https://open.spotify.com/track/3FKbpQhczilHZD5LJOqSdR"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Arco Iris - Cronolog\u00eda I",
-        "url": "https://open.spotify.com/album/1vNUHRvUEXMmcjAzFW4b5m"
-      },
-      "artists": [
-        {
-          "name": "Arco Iris",
-          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
-        }
-      ],
-      "duration_ms": 347533,
-      "name": "Blues de Dana",
-      "url": "https://open.spotify.com/track/32Du6z7oXiowmiZCPpnLj5"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "A 18' Del Sol",
         "url": "https://open.spotify.com/album/1uZafurVG5V3TZDqEnVmeR"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 331560,
       "name": "A Dieciocho Minutos del Sol",
       "url": "https://open.spotify.com/track/7ze8PcVXJzcAfCQ0Etjp6v"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Arco Iris - Cronolog\u00eda I",
+        "url": "https://open.spotify.com/album/1vNUHRvUEXMmcjAzFW4b5m"
+      },
+      "artists": [
+        {
+          "name": "Arco Iris",
+          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
+        }
+      ],
+      "duration_ms": 347533,
+      "name": "Blues de Dana",
+      "url": "https://open.spotify.com/track/32Du6z7oXiowmiZCPpnLj5"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Yo Vivo en Esta Ciudad",
-        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
-      },
-      "artists": [
-        {
-          "name": "Pedro Y Pablo",
-          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "Donde Va la Gente Cuando Llueve",
-      "url": "https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "PorSuiGieco",
         "url": "https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219039,
       "name": "La mam\u00e1 de Jimmy - Le\u00ed",
       "url": "https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Yo Vivo en Esta Ciudad",
+        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
+      },
+      "artists": [
+        {
+          "name": "Pedro Y Pablo",
+          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
+        }
+      ],
+      "duration_ms": 284933,
+      "name": "Donde Va la Gente Cuando Llueve",
+      "url": "https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -699,18 +699,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "En vivo",
-        "url": "https://open.spotify.com/album/1Z6aEZAVsSppuDJhQmkCne"
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
       },
       "artists": [
         {
-          "name": "Pedro Y Pablo",
-          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
         }
       ],
-      "duration_ms": 244991,
-      "name": "La marcha de la bronca",
-      "url": "https://open.spotify.com/track/1yLrOgpKQpLjfW9yO1j40Y"
+      "duration_ms": 287602,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -731,18 +731,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+        "name": "Los Delirios del Mariscal",
+        "url": "https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ"
       },
       "artists": [
         {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
         }
       ],
-      "duration_ms": 287602,
-      "name": "Apocalipsis",
-      "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
+      "duration_ms": 603400,
+      "name": "Los Delirios del Mariscal",
+      "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -763,18 +763,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Los Delirios del Mariscal",
-        "url": "https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ"
+        "name": "En vivo",
+        "url": "https://open.spotify.com/album/1Z6aEZAVsSppuDJhQmkCne"
       },
       "artists": [
         {
-          "name": "Crucis",
-          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+          "name": "Pedro Y Pablo",
+          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
         }
       ],
-      "duration_ms": 603400,
-      "name": "Los Delirios del Mariscal",
-      "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
+      "duration_ms": 244991,
+      "name": "La marcha de la bronca",
+      "url": "https://open.spotify.com/track/1yLrOgpKQpLjfW9yO1j40Y"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Crucis",
+        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
+      },
+      "artists": [
+        {
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Todo Tiempo Posible",
+      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 217706,
       "name": "En El Hospicio",
       "url": "https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Crucis",
-        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
-      },
-      "artists": [
-        {
-          "name": "Crucis",
-          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Todo Tiempo Posible",
-      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
     },
     {
       "added_at": "2020-02-26 16:25:22",

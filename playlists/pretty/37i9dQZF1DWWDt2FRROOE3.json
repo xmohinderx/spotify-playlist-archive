@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 3064,
+  "num_followers": 3103,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDU3OTAyNjIyNjE2NDFmZjkxZjdiZmRlZGY3YmI5NGIz",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDgzYmU1Mzc4NmEwMDc4NWIzZTg2ODVlNjQyMTk3MzVi",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Hotel California",
-        "url": "https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Espiritus",
-          "url": "https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 202849,
       "name": "Changes",
       "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Espiritus",
+          "url": "https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -639,8 +639,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexican Party",
-        "url": "https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4"
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 213936,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/33lBbfm7wD1lyorChcTqdK"
+      "duration_ms": 280053,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/4jBkwecH1M6L2M0LhrJZyw"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -671,8 +671,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F"
+        "name": "Mexican Party",
+        "url": "https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 280053,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/4jBkwecH1M6L2M0LhrJZyw"
+      "duration_ms": 213936,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/33lBbfm7wD1lyorChcTqdK"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F"
-      },
-      "artists": [
-        {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
-        }
-      ],
-      "duration_ms": 198243,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/1vLw8Ns5fqzXzkPQYhmR6i"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
         "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183213,
       "name": "Penny Lane - Instrumental",
       "url": "https://open.spotify.com/track/7iPzul10s8hh3dFxuZ6ixJ"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "duration_ms": 198243,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/1vLw8Ns5fqzXzkPQYhmR6i"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F"
-      },
-      "artists": [
-        {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
-        }
-      ],
-      "duration_ms": 268203,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
         "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 167880,
       "name": "Michelle - Instrumental",
       "url": "https://open.spotify.com/track/3QSpwlTu9gXxyrUAVKwzDh"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "duration_ms": 268203,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6"
     }
   ],
   "unique_name": "Mariachi Covers",

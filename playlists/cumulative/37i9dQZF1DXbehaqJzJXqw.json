@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 234066,
       "name": "Aime moi",
       "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 271213,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6nq8mMlQ2RKpG4SmqziE3j"
@@ -163,10 +163,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 132280,
       "name": "Brigitte dit vrai",
       "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
+    },
+    {
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302773,
+      "name": "C'est le printemps",
+      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
     },
     {
       "album": {
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 122466,
       "name": "Ces petits riens",
       "url": "https://open.spotify.com/track/3ttOCwpDbGFLf3VbZinXF1"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 213586,
       "name": "Chanson triste",
       "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "Chez Moi",
       "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 233626,
       "name": "Dolce Francia",
       "url": "https://open.spotify.com/track/0g5omlHR6Dil6XkStu2OT8"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "J'ai 18 Ans",
       "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
@@ -723,6 +741,24 @@
       "duration_ms": 130186,
       "name": "J'suis pas d'ici",
       "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
+    },
+    {
+      "album": {
+        "name": "Comme Un Manouche Sans Guitare",
+        "url": "https://open.spotify.com/album/3LoBT4sO5ThbqUaD4fycUW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130186,
+      "name": "J'Suis Pas D'Ici",
+      "url": "https://open.spotify.com/track/61FxaViELF86usDHyVQvvq"
     },
     {
       "album": {
@@ -871,7 +907,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 182400,
       "name": "Je suis vous tous qui m'\u00e9coutez",
       "url": "https://open.spotify.com/track/6t5ed6P4mmaCu7tdZOecqo"
@@ -963,7 +999,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 180139,
       "name": "J\u2019aime Paris au mois de mai",
       "url": "https://open.spotify.com/track/0uMw4hMaENumEX3US9t0cH"
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 179653,
       "name": "L'onde am\u00e8re",
       "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
@@ -1173,6 +1209,24 @@
       "duration_ms": 238480,
       "name": "La noy\u00e9e",
       "url": "https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4"
+    },
+    {
+      "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242120,
+      "name": "La noy\u00e9e",
+      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
     },
     {
       "album": {
@@ -1385,7 +1439,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 195946,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/2eGGZSSdnady1oqoV2JGVP"
@@ -1799,7 +1853,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 217120,
       "name": "Libert\u00e9",
       "url": "https://open.spotify.com/track/6aqNZAOITFShgcpg66Gatm"
@@ -2047,7 +2101,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 211160,
       "name": "O\u00f9 veux-tu aller ?",
       "url": "https://open.spotify.com/track/5z3UJq95l8teAWcSmht6ff"
@@ -2144,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Plus je t'embrasse",
+      "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
+    },
+    {
+      "album": {
         "name": "Clair Obscur",
         "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
       },
@@ -2177,7 +2249,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214784,
       "name": "Quand j'serai K.O",
       "url": "https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc"
@@ -2231,7 +2303,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 177253,
       "name": "Que rest-t-il de nos amours?",
       "url": "https://open.spotify.com/track/6QZ2OZGes6LAku3d5rIAeX"
@@ -2283,6 +2355,24 @@
       "duration_ms": 163510,
       "name": "Que reste-t-il de nos amours ? - Bonus track",
       "url": "https://open.spotify.com/track/7vY7W8DL8JSaS6aBDFHGW3"
+    },
+    {
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "Que reste-t-il de nos amours?",
+      "url": "https://open.spotify.com/track/0xh3JjCrXNKVfWzt0DEoTL"
     },
     {
       "album": {
@@ -2467,6 +2557,28 @@
       "duration_ms": 212893,
       "name": "Samois A Moi",
       "url": "https://open.spotify.com/track/01PlkOByrDuSNkJEhaMnr3"
+    },
+    {
+      "album": {
+        "name": "Just The Two Of Us",
+        "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Diego Figueiredo",
+          "url": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "Samois A Moi",
+      "url": "https://open.spotify.com/track/7dKkv6VSzDoak10meLR3Ia"
     },
     {
       "album": {

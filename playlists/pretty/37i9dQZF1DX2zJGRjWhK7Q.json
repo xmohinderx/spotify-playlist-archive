@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 140257,
+  "num_followers": 140397,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDVjZjJkYTM4ZmYwYmVmMDIyYjM3ZDFkYzQ5MDZmZTVm",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDQ3MTk4MWE5YzY5NjI5YjM3YTcwMTlmMzg2ZDcxZmQ3",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
+        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 293786,
+      "name": "El Preso",
+      "url": "https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
         "name": "Plant\u00e9 Bandera",
         "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 302413,
       "name": "Trucutu",
       "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 293786,
-      "name": "El Preso",
-      "url": "https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Jibaro Soy... Dg1236",
-        "url": "https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP"
-      },
-      "artists": [
-        {
-          "name": "Rapphy Levitt Orquesta La Selecta",
-          "url": "https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg"
-        }
-      ],
-      "duration_ms": 301480,
-      "name": "Jibaro Soy",
-      "url": "https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 229373,
       "name": "C\u00facala",
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Jibaro Soy... Dg1236",
+        "url": "https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP"
+      },
+      "artists": [
+        {
+          "name": "Rapphy Levitt Orquesta La Selecta",
+          "url": "https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg"
+        }
+      ],
+      "duration_ms": 301480,
+      "name": "Jibaro Soy",
+      "url": "https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Comedia",
-      "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "With A Little Help From My Friend",
         "url": "https://open.spotify.com/album/3RRcw4zxfUm5rhfYpLMzlZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 282213,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/6DDQmrMvH4RfxVn7TTTDW6"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Comedia",
+      "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
     },
     {
       "added_at": "2022-02-18 16:03:15",

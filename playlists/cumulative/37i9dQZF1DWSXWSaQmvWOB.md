@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-539 songs - 1 day 8 hr 56 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+540 songs - 1 day 8 hr 59 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,12 +457,13 @@
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-07-28 |  |
 | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/track/7v3F2unkzBsPQVgTcChkM1) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/album/2zKqFkItWJB90sn1EKhNgu) | 3:08 | 2021-05-07 | 2022-07-29 |
 | [Testify](https://open.spotify.com/track/3uzf4CQ26jvTFDZpZtcKe5) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Testify](https://open.spotify.com/album/6i6e3wzE4eStKKY5tta3DE) | 3:06 | 2020-07-03 | 2021-04-17 |
+| [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 | 2022-09-14 |  |
 | [Thank You](https://open.spotify.com/track/6rpTnGgNgmWnFAU7yzZnJY) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/2egh3XuO9dNyAEacxCxDD7) | 3:24 | 2021-09-24 | 2022-08-26 |
 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ) | 1:55 | 2020-11-20 | 2021-04-17 |
 | [That](https://open.spotify.com/track/2iCh6HCII4LRuxiQJxklsu) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [That Secret Sauce](https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ) | 3:54 | 2021-07-10 | 2021-09-24 |
 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 | 2020-06-02 | 2020-06-05 |
 | [The Chi](https://open.spotify.com/track/7dGRHEMO0oOLeaZhFa9qqx) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [The Chi](https://open.spotify.com/album/4jtY1Lg1gzf8IaUSYVuLyU) | 3:24 | 2021-06-25 | 2021-09-24 |
-| [The Fool](https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Fool](https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H) | 4:12 | 2022-04-08 |  |
+| [The Fool](https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Fool](https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H) | 4:12 | 2022-04-08 | 2022-09-15 |
 | [The Main Course](https://open.spotify.com/track/2WIoUrZHFZsucrFMio7tRe) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Another Shot Fired](https://open.spotify.com/album/4RRggV5CrnXd2fFtgILVJC) | 2:57 | 2021-01-21 | 2021-04-17 |
 | [The Morning](https://open.spotify.com/track/1WmjjX2huIRA33VRikkL5S) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [The Morning](https://open.spotify.com/album/4akVAQM6gS7zajaOqB2Us7) | 3:37 | 2020-03-27 | 2021-02-28 |
 | [The People](https://open.spotify.com/track/2v3EddSC3PIGgMEWp53EWD) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [The People](https://open.spotify.com/album/2I8aTpOlDb21CAORQIvqEC) | 3:55 | 2020-03-25\* | 2020-06-05 |

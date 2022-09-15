@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Camden Cox
 
-319 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+320 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Over](https://open.spotify.com/track/1vIt4OWXj9RPVbJ7Hjx06K) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Over](https://open.spotify.com/album/59KBOSR2VoSUutLgQQfPoj) | 3:14 | 2022-08-11 |  |
 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 | 2021-12-17 | 2022-03-12 |
 | [Papped \- Original Mix](https://open.spotify.com/track/0LuvHgMvXnGAqywivMEl0p) | [Cousn](https://open.spotify.com/artist/5Q13wCN8sU8MaboNCmBrbl) | [Papped](https://open.spotify.com/album/450aToqu3yrB55gotHDj7T) | 3:57 | 2021-12-17 | 2022-02-25 |
-| [Patience](https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Patience](https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH) | 4:17 | 2022-08-05 |  |
+| [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 | 2022-09-01 |  |
+| [Patience](https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Patience](https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH) | 4:17 | 2022-08-05 | 2022-09-15 |
 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 | 2022-08-18 |  |
 | [Personal Computer](https://open.spotify.com/track/21yFBwLq92JxZvwxL9n2uf) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Personal Computer](https://open.spotify.com/album/55btzGszh3ier8ObjHVrSO) | 4:25 | 2022-04-15 | 2022-07-07 |
 | [Places \- Radio Edit](https://open.spotify.com/track/5XuWlOYjmbkuc81ID30omh) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl) | [Places \(Radio Edit\)](https://open.spotify.com/album/77zHgcPdfsJH3r73Plubub) | 4:03 | 2021-12-17 | 2022-01-07 |

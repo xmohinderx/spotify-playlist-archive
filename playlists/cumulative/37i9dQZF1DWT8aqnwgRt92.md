@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-221 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+222 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,12 @@
 | [Anagram of Coda \- off vocal](https://open.spotify.com/track/3pp0QnYSYdK1xGIetlfqnh) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/5rLplZ8aZBpjNCQyOaX7aT) | 4:40 | 2022-08-23 |  |
 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 | 2022-05-28 | 2022-07-06 |
 | [ASEED](https://open.spotify.com/track/48eYAbFWCsSEs3oKMAlI0h) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ASEED](https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K) | 4:49 | 2022-05-28 | 2022-06-09 |
-| [Awake](https://open.spotify.com/track/1GChdtgRm4YlTPp4JPFDc9) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/1UFJUX3c8hieMx0HQd9JHr) | 5:25 | 2022-07-28 |  |
+| [Awake](https://open.spotify.com/track/1GChdtgRm4YlTPp4JPFDc9) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/1UFJUX3c8hieMx0HQd9JHr) | 5:25 | 2022-07-28 | 2022-09-15 |
 | [Awake](https://open.spotify.com/track/4Ct1sAdB2kL7LuxpCjJzZf) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/6fdrR5Cxdp0zbhLEs4HYYB) | 5:25 | 2022-07-12 | 2022-07-29 |
 | [Awesome!](https://open.spotify.com/track/4nn6DnOS4lRqoMQlhuBJ7g) | [Maneki Kecak](https://open.spotify.com/artist/0LA2C0Cbh1jk7lDtQiTehi) | [Awesome!](https://open.spotify.com/album/42aC4sZesjIbfh8RWu8ymh) | 4:00 | 2022-05-28 | 2022-07-08 |
 | [Beautiful Reasoning](https://open.spotify.com/track/6RIbjsbLuqrPAMW0KpcaiQ) | [美少年探偵団](https://open.spotify.com/artist/47jSkvNBCRFipyesRCoq8L) | [Beautiful Reasoning / Welcoming Days](https://open.spotify.com/album/3q3Qf7oNd47DN61ra8rmSJ) | 4:14 | 2022-07-07 | 2022-08-03 |
 | [Before the Nightmare](https://open.spotify.com/track/6yLMicWzVVOvzlkXN9rcPl) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/1nDKk1Ao6Y1UYjYTDndFw9) | 3:33 | 2022-05-28 | 2022-07-06 |
+| [Believe](https://open.spotify.com/track/3ANTsGDjVNRGmoY7mKphgE) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [たんぽぽ](https://open.spotify.com/album/2hb6VnBLP6imKcogwVE5G7) | 2:56 | 2022-09-13 |  |
 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 | 2022-07-05 | 2022-08-03 |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-28 | 2022-06-08 |
 | [BLESSLESS](https://open.spotify.com/track/1LYGHz2dPrAEsQqizcJRlP) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [BLESSLESS](https://open.spotify.com/album/7GXg1ReGoputlT97XmOyvz) | 4:30 | 2022-06-23 | 2022-07-27 |
@@ -76,7 +77,7 @@
 | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/track/003IincqbYZ9SZEpllxioR) | [アオペラ \-aoppella!?\-](https://open.spotify.com/artist/7d0VsdNnoJIRVnkiVzNjXz), [FYA'M'](https://open.spotify.com/artist/5NPcDFXZyCEtB0JLztECWs) | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/album/6ifpkHqvOBWrRzTke7mNAZ) | 3:25 | 2022-05-28 | 2022-07-06 |
 | [Love\-Evidence](https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Love\-Evidence](https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG) | 3:25 | 2022-05-28 | 2022-06-24 |
 | [Magic×Color \- TV ver.](https://open.spotify.com/track/3mUkn8ac2JP1DUYELsdNgS) | [鈴木杏奈](https://open.spotify.com/artist/1rurXiTSARlQc9Q3ybRuwX) | [Magic×Color \(TV ver.\)](https://open.spotify.com/album/5aevfaKvoBEKM1qhkFMekE) | 1:44 | 2022-07-28 | 2022-08-17 |
-| [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 | 2022-07-19 | 2022-09-02 |
+| [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 | 2022-07-19 |  |
 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-28 | 2022-08-24 |
 | [Mortal With You](https://open.spotify.com/track/2Cl3bTLiHuQlQBcZSxJLON) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/2XfXLJFcnPIGiDDQM925Vf) | 3:55 | 2022-07-28 |  |
 | [Mortal With You](https://open.spotify.com/track/34XLcOAQBpe5sEJXXg7HzO) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/042fxv6U1zEMmJjLREFGw8) | 3:55 | 2022-07-05 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 | 2022-05-28 | 2022-07-13 |
 | [ヒミツ恋ゴコロ](https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI) | 3:38 | 2022-07-05 |  |
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-05-28 | 2022-07-08 |
-| [ビボウロク](https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ビボウロク](https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA) | 3:25 | 2022-07-12 |  |
+| [ビボウロク](https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ビボウロク](https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA) | 3:25 | 2022-07-12 | 2022-09-15 |
 | [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-09 | 2022-08-17 |
 | [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 | 2022-08-25 |
 | [マロウブルー](https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [マロウブルー](https://open.spotify.com/album/2XP6i6ExSxqUxhIGGg3puP) | 3:32 | 2022-05-28 | 2022-06-08 |

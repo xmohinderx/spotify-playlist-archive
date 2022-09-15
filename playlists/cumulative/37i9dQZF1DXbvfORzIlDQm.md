@@ -4,7 +4,7 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-66 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
+67 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 | 2021-02-24 |  |
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2021-02-24 |  |
 | [To The River](https://open.spotify.com/track/6IilBPSQRNOljG6S2i7Sxd) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/5r3Am25UoNSnRet4dMmKz3) | 2:39 | 2021-02-24 | 2022-07-29 |
-| [To the River](https://open.spotify.com/track/3ughINQrsoRqW1V7VSfF3p) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/40lgy95tfZX8pXHOsQdQkZ) | 2:40 | 2021-02-24 |  |
+| [To the River](https://open.spotify.com/track/6RObl56H8PxTiLAn16VCdK) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/7uSbBFPjRdHap3xlxiroxS) | 2:39 | 2021-02-24 |  |
+| [To the River](https://open.spotify.com/track/3ughINQrsoRqW1V7VSfF3p) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/40lgy95tfZX8pXHOsQdQkZ) | 2:40 | 2021-02-24 | 2022-09-15 |
 | [Undead God of War](https://open.spotify.com/track/17pQuFJDgCkqSCVgxRailx) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:46 | 2021-02-24 |  |
 | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/track/62WtKWDn027EHTVVQuOgHg) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/album/6OWY4xTHqvmjJbTiHJ4wKa) | 5:36 | 2021-02-24 |  |
 | [Wake Up](https://open.spotify.com/track/28nqpiowjT5oo14H1n6cD7) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [Silhouette of Sirens](https://open.spotify.com/album/40QWaypkAWrF4yYI1DblBJ) | 4:20 | 2021-02-24 | 2022-07-29 |

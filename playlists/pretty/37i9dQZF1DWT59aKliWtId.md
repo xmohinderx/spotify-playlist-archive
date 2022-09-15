@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,121 likes - 130 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,193 likes - 130 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

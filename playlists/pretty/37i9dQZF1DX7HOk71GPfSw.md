@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,734 likes - 108 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,983 likes - 108 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 2 | [SUMMER GIRL](https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [SUMMER GIRL](https://open.spotify.com/album/1DsE77o6wyp3Ozp6QFGHXI) | 2:32 |
 | 3 | [stay away \(do you think it gets better?\)](https://open.spotify.com/track/2gexTEQ9VoVvVq776ImBUQ) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [stay away \(do you think it gets better?\)](https://open.spotify.com/album/0WKkH7ThSeVmk94kQ4vaHJ) | 1:33 |
 | 4 | [caffeine](https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [caffeine](https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2) | 3:18 |
-| 5 | [what comes around goes around \(feat\. musa\)](https://open.spotify.com/track/3QaKCllt6TtSUGp3UEmbaW) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [connect, breathe](https://open.spotify.com/album/5IMtBSgWcwRGey0gCB5yHg) | 3:45 |
+| 5 | [what comes around goes around \(feat\. musa\)](https://open.spotify.com/track/3QaKCllt6TtSUGp3UEmbaW) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [connect, breathe](https://open.spotify.com/album/5IMtBSgWcwRGey0gCB5yHg) | 3:45 |
 | 6 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 |
 | 7 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 |
 | 8 | [KARMA](https://open.spotify.com/track/3B8TETauXY7EUslHzJsTvC) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [KARMA](https://open.spotify.com/album/1AVbzX4bW3GM6N4Pwc1tR1) | 2:22 |

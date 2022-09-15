@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: 5 Seconds of Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,223 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,263 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 68 | [2007](https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [2007](https://open.spotify.com/album/2D15Km6lpwSzUnRCYj8sfV) | 4:09 |
 | 69 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 |
 | 70 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 |
-| 71 | [what comes around goes around \(feat\. musa\)](https://open.spotify.com/track/3QaKCllt6TtSUGp3UEmbaW) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [connect, breathe](https://open.spotify.com/album/5IMtBSgWcwRGey0gCB5yHg) | 3:45 |
+| 71 | [what comes around goes around \(feat\. musa\)](https://open.spotify.com/track/3QaKCllt6TtSUGp3UEmbaW) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [connect, breathe](https://open.spotify.com/album/5IMtBSgWcwRGey0gCB5yHg) | 3:45 |
 | 72 | [Right Here With You](https://open.spotify.com/track/6cdEFryyyd7Gz8Hsh0RrsA) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Right Here With You](https://open.spotify.com/album/3NijKQgTmFMU1FINNnhOvI) | 2:44 |
 | 73 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 |
-| 74 | [Don't Miss You At All](https://open.spotify.com/track/19F80pvfakVITNmFnynvRz) | [Yael Danon](https://open.spotify.com/artist/7ovOh90N4ZI0IyrTaOefw5) | [Don't Miss You At All](https://open.spotify.com/album/6Z5DxAkdE5Q55dWKRHJnHF) | 2:19 |
+| 74 | [Don't Miss You At All](https://open.spotify.com/track/19F80pvfakVITNmFnynvRz) | [Yael Danon](https://open.spotify.com/artist/7ovOh90N4ZI0IyrTaOefw5) | [Don't Miss You at All](https://open.spotify.com/album/6Z5DxAkdE5Q55dWKRHJnHF) | 2:19 |
 | 75 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 |
 | 76 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 |
 | 77 | [Boys Do Cry](https://open.spotify.com/track/3OFzaNomAhgaNZrap6od4l) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Boys Do Cry](https://open.spotify.com/album/2EKCfXaXY3LhTvouCY9EZE) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,450 likes - 343 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,545 likes - 343 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 179 | [verträumt](https://open.spotify.com/track/2VrSJrGv8MBnQY5M6OkeeB) | [Friedrich Hauser](https://open.spotify.com/artist/3Y8frXJquHsEiB2pg3oVUy) | [schlaflos](https://open.spotify.com/album/7IaFRUsh4JDjZg0AsRg1BQ) | 2:55 |
 | 180 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 |
 | 181 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 |
-| 182 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscolli](https://open.spotify.com/artist/4Nx5aqahlikF5jNbcXHiED) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 |
+| 182 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 |
 | 183 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 |
 | 184 | [Open Mind Open Heart](https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Open Mind Open Heart](https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf) | 3:06 |
 | 185 | [Piha](https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy) | [Alexander Luchs](https://open.spotify.com/artist/0neAXQKhBdzCt4Si34HNzB) | [Piha](https://open.spotify.com/album/15RupUZmdLHRPgUX5PCAdf) | 3:19 |

@@ -1,12 +1,12 @@
 {
   "description": "Punk rock from the 90s and 00s that you need in your life. Cover: Rancid",
-  "num_followers": 831046,
+  "num_followers": 831376,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMDdjYzI2ZjA1YjIzNmFiZDA3ZWRiZjQzYTNjMTUxMzk0",
+  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMDc4MzRkMzJkZDhiMDQzNTliMzc5ZTg1MWM5ZmE0MDA4",
   "tracks": [
     {
       "added_at": "2022-08-31 18:55:56",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-31 18:55:56",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2022-08-31 18:55:56",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "added_at": "2022-08-31 18:55:56",
+      "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2022-08-31 18:55:56",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-31 18:55:56",
       "album": {
-        "name": "Party Animals",
-        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
-      },
-      "artists": [
-        {
-          "name": "Turbonegro",
-          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "All My Friends Are Dead",
-      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
-    },
-    {
-      "added_at": "2022-08-31 18:55:56",
-      "album": {
         "name": "Cool to Be You",
         "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 111200,
       "name": "'Merican",
       "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
+    },
+    {
+      "added_at": "2022-08-31 18:55:56",
+      "album": {
+        "name": "Party Animals",
+        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
+      },
+      "artists": [
+        {
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "All My Friends Are Dead",
+      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
     }
   ],
   "unique_name": "Punk Essentials",

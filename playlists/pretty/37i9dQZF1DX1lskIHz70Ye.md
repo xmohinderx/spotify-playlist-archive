@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,656 likes - 86 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,713 likes - 86 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 38 | [Alta Gracia](https://open.spotify.com/track/010yj9FYqZdw3WfYSxD1xD) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Alta Gracia](https://open.spotify.com/album/3uBkXH5pj3w8MgWmNIxIAo) | 2:22 |
 | 39 | [The Wizard of Oz \(arr\. J\. Carter\): Wizard of Oz: Epilogue \- Over the Rainbow](https://open.spotify.com/track/0dqTvunQcHw7WscGn3zoNv) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1), [John Stubberfield](https://open.spotify.com/artist/77ze7bd3cvDho2XbA7t8yg), [Martin Entwistle](https://open.spotify.com/artist/5F2HOKGYHiZ0ideI9s52yU) | [Carter Jason: Eclipse](https://open.spotify.com/album/0OksXOwEMDQKSZkPlwXtik) | 2:30 |
 | 40 | [Mazurka en Sol](https://open.spotify.com/track/74tqpoVLJW87YTF9ImkzAW) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Mazurka en Sol](https://open.spotify.com/album/62PWT934twLzR93hxVb5VM) | 3:55 |
-| 41 | [Second livre de pièces de clavecin / Sixième ordre: V\. Les baricades mistérieuses \(Arr\. Fougeray for Guitar\)](https://open.spotify.com/track/6ziKeu4VLfcf4rhLBC0SPG) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Couperin: Second livre de pièces de clavecin / Sixième ordre: V\. Les baricades mistérieuses \(Arr\. Fougeray for Guitar\)](https://open.spotify.com/album/4YvbCfIQe9fqBRFKgbNhuX) | 3:12 |
+| 41 | [Second livre de pièces de clavecin / Sixième ordre: V\. Les barricades mystérieuses \(Arr\. Antoine Fougeray for Guitar\)](https://open.spotify.com/track/6ziKeu4VLfcf4rhLBC0SPG) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Couperin: Second livre de pièces de clavecin / Sixième ordre: V\. Les barricades mystérieuses \(Arr\. Antoine Fougeray for Guitar\)](https://open.spotify.com/album/4YvbCfIQe9fqBRFKgbNhuX) | 3:12 |
 | 42 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
 | 43 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 |
 | 44 | [Vibrante](https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Vibrante](https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Kaleah Lee | Visual Artist: Bailey Elder",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ally Evenson | Visual Artist: Bailey Elder",
   "name": "Fresh Finds Folk",
   "published_playlist_ids": [
     "4p9gFX9hA25IbWFzEcHGmF"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 161330,
       "name": "Boy",
       "url": "https://open.spotify.com/track/6kqXxozMFndOsIYelpqQTi"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 318922,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/0hXfaaPKEVCsteJCkBD7ud"
@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Elephants",
+        "url": "https://open.spotify.com/album/0i5Z61Pgi2AoYTTYWTvtKF"
+      },
+      "artists": [
+        {
+          "name": "Brooke Garwood",
+          "url": "https://open.spotify.com/artist/35RoqIMBXm2rYaD3UOzyW6"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244632,
+      "name": "Elephants",
+      "url": "https://open.spotify.com/track/5ClGaqk09QIrG29vVcU5FN"
+    },
+    {
+      "album": {
         "name": "Eloise",
         "url": "https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk"
       },
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 176727,
       "name": "Far Side of the World",
       "url": "https://open.spotify.com/track/5JAnepWYVyWqJBQlJuZhfD"
@@ -1181,6 +1199,24 @@
       "duration_ms": 99370,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/3qW6lXdFrLkSanoArN8zPV"
+    },
+    {
+      "album": {
+        "name": "Good Morning, Al",
+        "url": "https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159423,
+      "name": "Good Morning, Al",
+      "url": "https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ"
     },
     {
       "album": {
@@ -1740,6 +1776,24 @@
     },
     {
       "album": {
+        "name": "Jetpack",
+        "url": "https://open.spotify.com/album/4HIiMkPp3hTPWNLpds5M68"
+      },
+      "artists": [
+        {
+          "name": "Evan Crommett",
+          "url": "https://open.spotify.com/artist/21OzUs4uoYF0xoBHHI4f1M"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Jetpack",
+      "url": "https://open.spotify.com/track/1Ze0kJhl57LHrJwqzc7IUB"
+    },
+    {
+      "album": {
         "name": "Sentimentalist",
         "url": "https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w"
       },
@@ -1769,7 +1823,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 181666,
       "name": "Just Pick One",
       "url": "https://open.spotify.com/track/1ItOJBHm862L9pnbqKhNTq"
@@ -2176,6 +2230,24 @@
     },
     {
       "album": {
+        "name": "mmm (wreck a friend)",
+        "url": "https://open.spotify.com/album/6SMR57o5RAHScy3KxP8gTj"
+      },
+      "artists": [
+        {
+          "name": "Andie Mechanic",
+          "url": "https://open.spotify.com/artist/5bh6gqdDeTJNGo6J0FQATL"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204698,
+      "name": "mmm (wreck a friend)",
+      "url": "https://open.spotify.com/track/4dK26aH2F3BotMTzxVhDkr"
+    },
+    {
+      "album": {
         "name": "Moms Song",
         "url": "https://open.spotify.com/album/2lY8ZK2ct0Dl9PDCp80EFE"
       },
@@ -2227,6 +2299,24 @@
       "duration_ms": 92769,
       "name": "Moving Light",
       "url": "https://open.spotify.com/track/4MrpDYKdZ8CYsfTw3hnNma"
+    },
+    {
+      "album": {
+        "name": "The Mend",
+        "url": "https://open.spotify.com/album/7HRPtt8ht452JmyM5kogNE"
+      },
+      "artists": [
+        {
+          "name": "Darryl Rahn",
+          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221866,
+      "name": "Mutual Friends",
+      "url": "https://open.spotify.com/track/70UulySjKVnV67gJRi9XzI"
     },
     {
       "album": {
@@ -2637,7 +2727,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 265099,
       "name": "River Run",
       "url": "https://open.spotify.com/track/1725wOjQopDGXUqD6n7Cu6"
@@ -2771,6 +2861,28 @@
       "duration_ms": 180650,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/2EoxzI6ScQYeSx54Z1T78q"
+    },
+    {
+      "album": {
+        "name": "Skips & Rings",
+        "url": "https://open.spotify.com/album/4lo79kLIQmIeou8KyV8eR8"
+      },
+      "artists": [
+        {
+          "name": "Crane Like the Bird",
+          "url": "https://open.spotify.com/artist/1i9TpycvQFCCyoOgqjevil"
+        },
+        {
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/5GtP5i2ZL7bU7gNuw4AC4e"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191970,
+      "name": "Skips & Rings",
+      "url": "https://open.spotify.com/track/0ZTlgV36p87YUL0qSslr04"
     },
     {
       "album": {
@@ -2911,7 +3023,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 358133,
       "name": "Stone",
       "url": "https://open.spotify.com/track/7CIMMwrTOtzTAQvKJPv7PE"
@@ -3095,7 +3207,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 204374,
       "name": "The Movie of Us",
       "url": "https://open.spotify.com/track/7F1D9wnYqR3y6Gd5UkiTOj"
@@ -3121,6 +3233,24 @@
     {
       "album": {
         "name": "The Rain",
+        "url": "https://open.spotify.com/album/60sdH7DgcslnoQSPLkf7BP"
+      },
+      "artists": [
+        {
+          "name": "Little Quirks",
+          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215462,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/3KVxxn1MoYkjAzDeRHYZo4"
+    },
+    {
+      "album": {
+        "name": "The Rain",
         "url": "https://open.spotify.com/album/683LKwHOBcDXIb3Mm7t0k6"
       },
       "artists": [
@@ -3131,7 +3261,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 215462,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/4ZjmO3VLkevYjo4N5aqwDs"
@@ -3189,6 +3319,24 @@
       "duration_ms": 145075,
       "name": "turning blue",
       "url": "https://open.spotify.com/track/61mVqkXlFqQe7xocjBaiTT"
+    },
+    {
+      "album": {
+        "name": "Uncovered",
+        "url": "https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT"
+      },
+      "artists": [
+        {
+          "name": "Max Helgemo",
+          "url": "https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224124,
+      "name": "Uncovered",
+      "url": "https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l"
     },
     {
       "album": {

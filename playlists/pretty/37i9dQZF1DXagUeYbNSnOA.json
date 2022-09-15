@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Jaze on cover.",
-  "num_followers": 166602,
+  "num_followers": 166714,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU3NDQ0NywwMDAwMDAwMDA3NDlkMjQxYTYwZjc4MDRkY2EwMTczNDNmMjk0NmEw",
+  "snapshot_id": "MTY2MjU3NDQ0NywwMDAwMDAwMDkzNTY2MDIwMDNjMmZmZTg3MGVmMzM4MGJmZGMwZWE5",
   "tracks": [
     {
       "added_at": "2022-09-07 18:14:07",
@@ -95,6 +95,38 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
+        "name": "No Para",
+        "url": "https://open.spotify.com/album/7aDPvmko4vfdePbLSaJ7WT"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "No Para",
+      "url": "https://open.spotify.com/track/0emPdK32EuOVJ8UpbdLnYG"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "No Aguanto el Calor",
+        "url": "https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB"
+      },
+      "artists": [
+        {
+          "name": "Lisbon Girls",
+          "url": "https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "No Aguanto el Calor",
+      "url": "https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
         "name": "El Fin de la Ruina",
         "url": "https://open.spotify.com/album/5bgkbPMldGFM9KmAueXhGr"
       },
@@ -119,22 +151,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "No Aguanto el Calor",
-        "url": "https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB"
-      },
-      "artists": [
-        {
-          "name": "Lisbon Girls",
-          "url": "https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "No Aguanto el Calor",
-      "url": "https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Facil",
         "url": "https://open.spotify.com/album/3AMtf4N4RRR5s3m9zvMKCO"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 200412,
       "name": "Facil",
       "url": "https://open.spotify.com/track/5im7FCGkR1HPYjdib3MZET"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "No Para",
-        "url": "https://open.spotify.com/album/7aDPvmko4vfdePbLSaJ7WT"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "No Para",
-      "url": "https://open.spotify.com/track/0emPdK32EuOVJ8UpbdLnYG"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "La Soledad de los N\u00fameros Primos",
-        "url": "https://open.spotify.com/album/174x34bB5RPR4gcT4eCudy"
-      },
-      "artists": [
-        {
-          "name": "Cold Tropics",
-          "url": "https://open.spotify.com/artist/5tmZlLEprz8Q802ACS5uKn"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "La Soledad de los N\u00fameros Primos",
-      "url": "https://open.spotify.com/track/5xYxNW66uokmYiuAqV2n60"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Repetici\u00f3n",
         "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 176320,
       "name": "Repetici\u00f3n",
       "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "La Soledad de los N\u00fameros Primos",
+        "url": "https://open.spotify.com/album/174x34bB5RPR4gcT4eCudy"
+      },
+      "artists": [
+        {
+          "name": "Cold Tropics",
+          "url": "https://open.spotify.com/artist/5tmZlLEprz8Q802ACS5uKn"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "La Soledad de los N\u00fameros Primos",
+      "url": "https://open.spotify.com/track/5xYxNW66uokmYiuAqV2n60"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
       },
@@ -371,54 +355,18 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "ni una foto",
-        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
       },
       "artists": [
         {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
         }
       ],
-      "duration_ms": 192385,
-      "name": "ni una foto",
-      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "what she wants (lo que ella quiere)",
-        "url": "https://open.spotify.com/album/35mQtgVQMFLyHjzEQMy57n"
-      },
-      "artists": [
-        {
-          "name": "mg the realest",
-          "url": "https://open.spotify.com/artist/1um42f3vCpcV9AW0pasfEY"
-        }
-      ],
-      "duration_ms": 138571,
-      "name": "what she wants (lo que ella quiere)",
-      "url": "https://open.spotify.com/track/4aj2NlhP3oA8Kku2uxKmrB"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Acantilados",
-        "url": "https://open.spotify.com/album/6zwTdrtd3h7xbuTK3a6fpM"
-      },
-      "artists": [
-        {
-          "name": "La Zorra Zapata",
-          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
-        },
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 191593,
-      "name": "Acantilados",
-      "url": "https://open.spotify.com/track/0CqNDLl4FNttIkXRsGseGW"
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -443,22 +391,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "La Fortuna",
-        "url": "https://open.spotify.com/album/3dCPMqwndPfb2270NUjymY"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 178719,
-      "name": "La Fortuna",
-      "url": "https://open.spotify.com/track/6mRo583BXJeOOSaUYqHvjU"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Yung Pradito",
         "url": "https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6"
       },
@@ -471,6 +403,74 @@
       "duration_ms": 238000,
       "name": "Quiero Volver a Repetir",
       "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "ni una foto",
+        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+      },
+      "artists": [
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+        }
+      ],
+      "duration_ms": 192385,
+      "name": "ni una foto",
+      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Acantilados",
+        "url": "https://open.spotify.com/album/6zwTdrtd3h7xbuTK3a6fpM"
+      },
+      "artists": [
+        {
+          "name": "La Zorra Zapata",
+          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
+        },
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 191593,
+      "name": "Acantilados",
+      "url": "https://open.spotify.com/track/0CqNDLl4FNttIkXRsGseGW"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "what she wants (lo que ella quiere)",
+        "url": "https://open.spotify.com/album/35mQtgVQMFLyHjzEQMy57n"
+      },
+      "artists": [
+        {
+          "name": "mg the realest",
+          "url": "https://open.spotify.com/artist/1um42f3vCpcV9AW0pasfEY"
+        }
+      ],
+      "duration_ms": 138571,
+      "name": "what she wants (lo que ella quiere)",
+      "url": "https://open.spotify.com/track/4aj2NlhP3oA8Kku2uxKmrB"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "La Fortuna",
+        "url": "https://open.spotify.com/album/3dCPMqwndPfb2270NUjymY"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 178719,
+      "name": "La Fortuna",
+      "url": "https://open.spotify.com/track/6mRo583BXJeOOSaUYqHvjU"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "360 al Mundo",
+      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/78adW0Bc0zg5E6PqYdc3Vk"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "360 al Mundo",
-      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Traici\u00f3n",
         "url": "https://open.spotify.com/album/3F0FHxO3ZWnUJErPB0dM2k"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n"
-      },
-      "artists": [
-        {
-          "name": "Laika en el Espacio",
-          "url": "https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq"
-        }
-      ],
-      "duration_ms": 274556,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Lo Que Dijimos",
         "url": "https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 236369,
       "name": "Lo Que Dijimos",
       "url": "https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n"
+      },
+      "artists": [
+        {
+          "name": "Laika en el Espacio",
+          "url": "https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq"
+        }
+      ],
+      "duration_ms": 274556,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "No Me da Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3SnYlBmch7TYVQnstjj9kJ"
-      },
-      "artists": [
-        {
-          "name": "JWolfy",
-          "url": "https://open.spotify.com/artist/5rp4jlQq85cE30TVO7uYVm"
-        }
-      ],
-      "duration_ms": 217674,
-      "name": "Boo",
-      "url": "https://open.spotify.com/track/4THT4PeY7mKdgBUBBWHffc"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Tobog\u00e1n Amarillo",
         "url": "https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Lejos de Casa",
-        "url": "https://open.spotify.com/album/1wJMSBcODlTX2jN877SqqI"
+        "name": "No Me da Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3SnYlBmch7TYVQnstjj9kJ"
       },
       "artists": [
         {
-          "name": "Victoria Yoi",
-          "url": "https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T"
+          "name": "JWolfy",
+          "url": "https://open.spotify.com/artist/5rp4jlQq85cE30TVO7uYVm"
         }
       ],
-      "duration_ms": 184010,
-      "name": "Lejos de Casa",
-      "url": "https://open.spotify.com/track/73XCdtCioLUTL4EAvrKcqk"
+      "duration_ms": 217674,
+      "name": "Boo",
+      "url": "https://open.spotify.com/track/4THT4PeY7mKdgBUBBWHffc"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -711,6 +695,22 @@
       "duration_ms": 160008,
       "name": "Bachata en Fukuoka - Remix",
       "url": "https://open.spotify.com/track/4NcgBAZYUilSiLFzkATQx8"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Lejos de Casa",
+        "url": "https://open.spotify.com/album/1wJMSBcODlTX2jN877SqqI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Yoi",
+          "url": "https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T"
+        }
+      ],
+      "duration_ms": 184010,
+      "name": "Lejos de Casa",
+      "url": "https://open.spotify.com/track/73XCdtCioLUTL4EAvrKcqk"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
+        "name": "Respirar de Nuevo",
+        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
+      },
+      "artists": [
+        {
+          "name": "Margarita Pla",
+          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
+        }
+      ],
+      "duration_ms": 273511,
+      "name": "No Te Acerques Tanto a M\u00ed",
+      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/1ONh865o0F9ugVXw7QQso5"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 255307,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0Pe7U91cqrdUFW46STjAjV"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Respirar de Nuevo",
-        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
-      },
-      "artists": [
-        {
-          "name": "Margarita Pla",
-          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
-        }
-      ],
-      "duration_ms": 273511,
-      "name": "No Te Acerques Tanto a M\u00ed",
-      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
     },
     {
       "added_at": "2022-09-07 18:14:07",

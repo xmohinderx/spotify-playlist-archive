@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U?si=uJPoqpSXRH\-\_stNJUCb4Hw"> Somadina </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,613 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,648 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 29 | [Slow](https://open.spotify.com/track/529UbUitoTJqEO5do3znnW) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Slow](https://open.spotify.com/album/6ou78tufapX7uj4wawzjJy) | 2:49 |
 | 30 | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/album/1Peac33r475KxGeggGxKvP) | 2:30 |
 | 31 | [Silent Action](https://open.spotify.com/track/384gKomRoOZASNswYQk9Se) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Silent Action](https://open.spotify.com/album/3n2vKiIDdlqLVRuzC1azeF) | 2:18 |
-| 32 | [EDMP \( E Dey Move Person\)](https://open.spotify.com/track/5jkbCSJQcZyniK0WPRvVQw) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/1ZJjKmDNfYzur7u3IfMcIH) | 1:27 |
+| 32 | [EDMP \(E Dey Move Person with Cruel Santino\)](https://open.spotify.com/track/2vf1v4p98qn3nS85BMPcgy) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/66qZw3xUgH56lpOlDvXyPO) | 1:27 |
 | 33 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 |
 | 34 | [Budda](https://open.spotify.com/track/4wRNldAh91EG6ItVuRXO9N) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz), [Paloma hmt](https://open.spotify.com/artist/5IVsDrwmnGT1wFff8KVp8A) | [Budda](https://open.spotify.com/album/4RyeuGwZZEqfR079b2wo9w) | 3:21 |
 | 35 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Gkw](https://open.spotify.com/track/7iP4xI5k3ofKaaUzY1dxNk) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Gkw / Winning Bread](https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ) | 2:59 |
 | 80 | [Detonate](https://open.spotify.com/track/6ufuzc7b2zgkpK22dPcmti) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 2:06 |
 
-Snapshot ID: `MTY2MjcxMzczMCwwMDAwMDAwMGVlMWY1OGIyYTU4NTY5NTM4OTZlODUxNzYxOTVlNDc1`
+Snapshot ID: `MTY2MjcxMzczMCwwMDAwMDAwMDk3MTM1Y2IyMTg5NjZlM2ViNTJiM2QzNTJhZjZkMmZj`

@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-352 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+353 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bangariye \(From "Ramachari 2.0"\)](https://open.spotify.com/track/4zUMveC2iio3Ru0nwCrU5O) | [Sunder Murthy](https://open.spotify.com/artist/4S0V3g0wtpNCUA1WUGSttx), [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA) | [Bangariye \(From "Ramachari 2.0"\)](https://open.spotify.com/album/3pbMDOY7ghEilMP0NqwvUQ) | 3:31 | 2022-02-14 | 2022-03-18 |
 | [Bawarachi](https://open.spotify.com/track/64SaDxpTury4CdKhVkQsi1) | [Sharan Hriday](https://open.spotify.com/artist/5Mr6ANAhx1CK9yRgzlfA7F) | [Harikathe Alla Girikathe](https://open.spotify.com/album/4fZoOvaEJWjvlRPVsapTvi) | 3:09 | 2022-06-06 |  |
 | [Beda Maga Lovvu \(From "Dear Sathya"\)](https://open.spotify.com/track/27G7ZywN5ALriHVvvVnglS) | [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Upendra](https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH) | [Beda Maga Lovvu \(From "Dear Sathya"\)](https://open.spotify.com/album/1UAr5YTXCK70VQtaB8doFe) | 2:57 | 2022-02-24 | 2022-08-25 |
+| [Beelkoduge \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/track/6N1SempMZFd8ivxUsmtHy2) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d) | [Beelkoduge \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/album/78VRl8FlXq1EwUItx4EP3x) | 4:36 | 2022-09-13 |  |
 | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/track/3JoRp9FCBFzqjaLjjEukTF) | [Viraj Kannadiga](https://open.spotify.com/artist/6CypdIb3CMp5anB6ZuHrBg) | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/album/78PAq8vbZrz6A0d1WSrUGf) | 4:00 | 2022-03-11 | 2022-07-19 |
 | [Bella Bellane \(From "Allide Nammane Illi Bande Summane"\)](https://open.spotify.com/track/3g8fY25w3WuI6O9tBNmmq4) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [Meghana Venkatesh](https://open.spotify.com/artist/7Hb5mJEuDzrNYXHvzEqn0p) | [Bella Bellane \(From "Allide Nammane Illi Bande Summane"\)](https://open.spotify.com/album/5xVnnqQBMbStKwht7rRH8F) | 4:31 | 2022-08-12 | 2022-08-25 |
 | [Bellakki Salanthe](https://open.spotify.com/track/1E0BWIbjxfOrhCUroeR0KJ) | [Sangeetha Ravindranath](https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43) | [Bettada Daari](https://open.spotify.com/album/1mCVc1EN7BUB7Gp6OwzHGy) | 3:52 | 2022-02-14 | 2022-03-14 |

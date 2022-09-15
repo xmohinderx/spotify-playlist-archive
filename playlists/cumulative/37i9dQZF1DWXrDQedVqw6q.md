@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-149 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+150 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Castaway](https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:15 | 2022-07-08 |  |
 | [Cedar Tree](https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Cedar Tree](https://open.spotify.com/album/6qOdM0nwzdD6vFt2OiTsZn) | 4:11 | 2022-03-21 |  |
 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 | 2022-03-21 |  |
+| [Chromium](https://open.spotify.com/track/2xMdXQxvOJGozOU0Y6gKmw) | [Míper Güel](https://open.spotify.com/artist/6AHriuTXUDvLZWoEMa0SmN) | [Chromium](https://open.spotify.com/album/1ZNEdw4CeZ0kFFBbGDRt1j) | 3:35 | 2022-09-13 |  |
 | [Chuva](https://open.spotify.com/track/7knFmwt8bh2YmMNd4noQtd) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Chuva](https://open.spotify.com/album/4kJzbCXoNly7cLZuyFRVGW) | 1:48 | 2022-03-21 | 2022-08-13 |
 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 | 2022-03-21 | 2022-09-07 |
 | [Clear Sight](https://open.spotify.com/track/2APpB3CYW0XThDZtaGFpQ9) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Clear Sight](https://open.spotify.com/album/1jiA5TfiHFMVrmdXhGDX90) | 2:13 | 2022-03-21 |  |
@@ -124,7 +125,7 @@
 | [Take 5 \- Solips \- Klaus Sahm Rework](https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Klaus Sahm](https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Take 5 \- Solips \(Klaus Sahm Rework\)](https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96) | 2:55 | 2022-06-24 |  |
 | [Tapestry](https://open.spotify.com/track/048o35tQQ7UzsXhargOg58) | [Gemine](https://open.spotify.com/artist/5w2xbgzp4LNrCqUdKn6rlC) | [Tapestry](https://open.spotify.com/album/4vbSpUsxGb5Ve7WjusZekX) | 2:20 | 2022-03-21 |  |
 | [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 | 2022-03-21 |  |
-| [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 | 2022-03-21 |  |
+| [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 | 2022-03-21 | 2022-09-15 |
 | [Thankful](https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Spring is Here](https://open.spotify.com/album/59xOA3f8FmCObSHn9pJuxk) | 3:07 | 2022-03-21 | 2022-08-13 |
 | [The Air Within](https://open.spotify.com/track/3rv1zUyotgtooIhn1QtCSe) | [Sandfires](https://open.spotify.com/artist/2OqTid1w1CFR9vQVd8EZoj) | [The Air Within](https://open.spotify.com/album/2aJZEWUnzQL9d9EvmAoeXf) | 3:11 | 2022-03-21 |  |
 | [The Day After Tomorrow](https://open.spotify.com/track/6utMGchGek24Jzaihq2GSP) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 2:47 | 2022-03-21 |  |

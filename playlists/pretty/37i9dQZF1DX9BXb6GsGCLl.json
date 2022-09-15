@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 490066,
+  "num_followers": 490067,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGVmNzI0OWU1MmI1ODdjMDc2YmY4NTA5ZjZjNmNlNDc3",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGRhNmUyMmNlNTA4OTAzOWVjOTNiYTIxYTk2MWQ2MWQx",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
-        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 179652,
-      "name": "WOW (feat. Sabrina Carpenter) - Remix",
-      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
+        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 179652,
+      "name": "WOW (feat. Sabrina Carpenter) - Remix",
+      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "More Than I Can Say",
+        "url": "https://open.spotify.com/album/79vdDwERqObqv5rU1Io08H"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "duration_ms": 153197,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/7HjAWHKa7PURoZFHgjOA5O"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
@@ -1479,22 +1499,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "More Than I Can Say",
-        "url": "https://open.spotify.com/album/79vdDwERqObqv5rU1Io08H"
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
       "artists": [
         {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 153197,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/7HjAWHKa7PURoZFHgjOA5O"
+      "duration_ms": 192111,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1519,26 +1539,6 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 192111,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
     },
     {
       "added_at": "2021-08-20 08:20:52",

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21 Years](https://open.spotify.com/track/20enmDMVhWFDjkVHzv1vVA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [21 Years](https://open.spotify.com/album/4xqmsCvbaarlxQEJQU3ysl) | 4:03 | 2021-06-18 |  |
-| [A Father's Blessing](https://open.spotify.com/track/3YXZFkJmzNj4fyQ3dBmRUm) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [A Father's Blessing](https://open.spotify.com/album/2eBVuof7oZu0Arcxe7VhOf) | 4:41 | 2022-06-10 |  |
+| [A Father's Blessing](https://open.spotify.com/track/3YXZFkJmzNj4fyQ3dBmRUm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [A Father's Blessing](https://open.spotify.com/album/2eBVuof7oZu0Arcxe7VhOf) | 4:41 | 2022-06-10 |  |
 | [Anything Like Me](https://open.spotify.com/track/2FGGvxPrVkpJ3lNZQfottL) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:13 | 2021-06-18 |  |
 | [Before You Ask Her](https://open.spotify.com/track/5WkaAZBjzu9b032Zd6jHPz) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Before You Ask Her](https://open.spotify.com/album/3PqgiZxdVoPEFVnE9mA8PZ) | 3:21 | 2022-06-10 |  |
 | [Between A Father and A Son](https://open.spotify.com/track/3ggjEASNMQ2n9s5WsPXT2i) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Old New Borrowed Blues](https://open.spotify.com/album/3ZdzLrDKAyYBv3nr8F6ggI) | 4:12 | 2021-06-18 |  |

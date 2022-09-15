@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Marissa Zechinato Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Summer Vee Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "published_playlist_ids": [
     "0wb3k7kBCUHVvVA8CRqr8x"
@@ -1550,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Bishara",
+        "url": "https://open.spotify.com/album/1Kn4DCMjt3WFZN6DDSEGhU"
+      },
+      "artists": [
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337586,
+      "name": "Bishara",
+      "url": "https://open.spotify.com/track/3TuJn4bY8y4Dqdz22zWypG"
+    },
+    {
+      "album": {
         "name": "Black Is Black",
         "url": "https://open.spotify.com/album/5ucVokbVqHbiZEOS5IbYq6"
       },
@@ -2605,6 +2623,24 @@
       "duration_ms": 394208,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/7jnngcuguVoICs9xxxHROa"
+    },
+    {
+      "album": {
+        "name": "Clouds Of Joy",
+        "url": "https://open.spotify.com/album/5xU9FLo7c7HYrtOn9Ob80E"
+      },
+      "artists": [
+        {
+          "name": "Badge \u00c9poque Ensemble",
+          "url": "https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389131,
+      "name": "Clouds Of Joy",
+      "url": "https://open.spotify.com/track/2eIAKr6dgYWfbDYSG3ZiVE"
     },
     {
       "album": {
@@ -4085,7 +4121,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 354867,
       "name": "F.S.A.",
       "url": "https://open.spotify.com/track/00lmXvlszo2R8Wv4pNUh2x"
@@ -6444,6 +6480,42 @@
     },
     {
       "album": {
+        "name": "Key To All Your Love & Judas",
+        "url": "https://open.spotify.com/album/1q2NuLM1pKQoUVOyOG9W8e"
+      },
+      "artists": [
+        {
+          "name": "Summer Vee",
+          "url": "https://open.spotify.com/artist/3GsVkkWXzpZiBVTjT5FGrX"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295751,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/1XJIjkaQuzoUGXaR4lQQfj"
+    },
+    {
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/0WsHjrJwjzpdeakHthVuQF"
       },
@@ -8370,6 +8442,28 @@
     },
     {
       "album": {
+        "name": "Jazz Contenders",
+        "url": "https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        },
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392661,
+      "name": "Missing Arrow",
+      "url": "https://open.spotify.com/track/0YnIdW5G68sN1TrXnAw6g5"
+    },
+    {
+      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/0jCJWtbZ4W7AfxPXsRhu21"
       },
@@ -8695,6 +8789,24 @@
       "duration_ms": 332940,
       "name": "My Desire",
       "url": "https://open.spotify.com/track/2DUMBeLSiYopTR400Y5C7p"
+    },
+    {
+      "album": {
+        "name": "My Mind Is An Oven",
+        "url": "https://open.spotify.com/album/30oOrJijcRf8N7zDo6C9g3"
+      },
+      "artists": [
+        {
+          "name": "sunking",
+          "url": "https://open.spotify.com/artist/3P5WQ1fr1bhAZczPRUf4HX"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123461,
+      "name": "My Mind Is An Oven",
+      "url": "https://open.spotify.com/track/61R941QHXPJB4iKZpR4fHU"
     },
     {
       "album": {
@@ -9801,6 +9913,28 @@
       "duration_ms": 98666,
       "name": "Parade",
       "url": "https://open.spotify.com/track/4PLkRm8kqmbUcyOtZNEOHr"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/5iFfYT7tGBZivFrlT3tEh5"
+      },
+      "artists": [
+        {
+          "name": "Rudi Creswick",
+          "url": "https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG"
+        },
+        {
+          "name": "MANNY",
+          "url": "https://open.spotify.com/artist/1SXd3YqZP1yEaY1aUTTPbI"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/1h8OuuO2eTZPHUuifq4Ayq"
     },
     {
       "album": {
@@ -11807,6 +11941,28 @@
       "duration_ms": 374186,
       "name": "Spark of Desire",
       "url": "https://open.spotify.com/track/3vGuCHFwjYFtHjKs3Q915b"
+    },
+    {
+      "album": {
+        "name": "Session #1: Speak Low / Mysterious Hope",
+        "url": "https://open.spotify.com/album/4krLmtUkpfWhdlwNrJGcAd"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        },
+        {
+          "name": "Pressure Fit",
+          "url": "https://open.spotify.com/artist/0P5hzxaVFKgTn6cKMvP1rV"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "Speak Low - Session #1",
+      "url": "https://open.spotify.com/track/5VWVFKD1n8zEAGkTh2kER1"
     },
     {
       "album": {
@@ -14292,6 +14448,24 @@
     },
     {
       "album": {
+        "name": "SeLF Vol. I",
+        "url": "https://open.spotify.com/album/6zFtSRnaQy1Y7V0S7tnPqP"
+      },
+      "artists": [
+        {
+          "name": "Littlefingers",
+          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277566,
+      "name": "Under The Wire",
+      "url": "https://open.spotify.com/track/7pF3nbCAddgvXVGF3HRLgs"
+    },
+    {
+      "album": {
         "name": "Underwater Currents, Pt. 2",
         "url": "https://open.spotify.com/album/4gJu1kfjF9qrreMRwiCnZM"
       },
@@ -14723,6 +14897,24 @@
       "duration_ms": 256000,
       "name": "WARRIOR",
       "url": "https://open.spotify.com/track/6IXzAr1Gljh5IOZWmY10sO"
+    },
+    {
+      "album": {
+        "name": "Between All Things",
+        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
+      },
+      "artists": [
+        {
+          "name": "OHMA",
+          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208078,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/4ipDgsdd3O3H1eJWa6QDM7"
     },
     {
       "album": {
@@ -15431,6 +15623,24 @@
       "duration_ms": 342062,
       "name": "Yurikamome",
       "url": "https://open.spotify.com/track/5yiO9YPa19e6G0OeDAD5yu"
+    },
+    {
+      "album": {
+        "name": "oshigoto_01",
+        "url": "https://open.spotify.com/album/4spIkI2QJ1ukkc2ZqO1v4D"
+      },
+      "artists": [
+        {
+          "name": "oysm",
+          "url": "https://open.spotify.com/artist/6dXAZQsIiCI1RRQ3PUfbT8"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221639,
+      "name": "ZANGYO",
+      "url": "https://open.spotify.com/track/5hqJ9w8sbwPWnZBIDsLlF9"
     },
     {
       "album": {

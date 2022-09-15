@@ -4,7 +4,7 @@
 
 > Just chill.
 
-325 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+326 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
 | [senses](https://open.spotify.com/track/5R9TWqXOVzHfRjpZQd8Dc0) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [komorebi](https://open.spotify.com/album/6JZtYt3v32a9sTRxPlMZEn) | 3:23 | 2019-10-04 | 2022-01-22 |
 | [Sentimental](https://open.spotify.com/track/6tsjOeopFsA1z5n4GkXsqb) | [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z), [Xandra](https://open.spotify.com/artist/2LAVKF9Udoyt6jxZNBpW7x) | [Sentimental](https://open.spotify.com/album/5mZMxiABBFXisV9Y4Mcs0M) | 3:46 | 2020-05-22 | 2022-06-18 |
-| [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 |  |
+| [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-19 |  |
+| [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 | 2022-09-15 |
 | [Settle Down](https://open.spotify.com/track/3CUotoSWVxQN5nrQCwpzTA) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4o2hbK2sZYnvVDOTaIDNrx) | 3:51 | 2022-04-29 |  |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2020-06-04 | 2022-01-22 |
 | [SG Lou](https://open.spotify.com/track/2fkWyHBfRt87VD2Iilb6AM) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [SG Lou](https://open.spotify.com/album/1jBjIutXhOUYpAWrveficC) | 3:52 | 2020-08-21 | 2022-01-22 |

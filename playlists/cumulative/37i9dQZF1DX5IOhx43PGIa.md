@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: NIKI.
 
-277 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+278 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-05-27 |  |
 | [Anxiety](https://open.spotify.com/track/3OOpuSZtqzhQ4kRKctLRMz) | [Elyssa Plaza](https://open.spotify.com/artist/1YCLRRvdz1Uj8wRjsT6Ghd) | [Anxiety](https://open.spotify.com/album/0fkIIczS0nBiX4Q4iGlSt2) | 4:19 | 2022-07-22 | 2022-07-28 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2022-05-27 |  |
-| [Anytime, Anywhere](https://open.spotify.com/track/5HsMafas66Rt5mTidyhUtm) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [15th Dream](https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS) | 2:56 | 2022-07-22 |  |
+| [Anytime, Anywhere](https://open.spotify.com/track/5HsMafas66Rt5mTidyhUtm) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [15th Dream](https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS) | 2:56 | 2022-07-22 | 2022-09-15 |
 | [At Least I Had You](https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [At Least I Had You](https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O) | 3:23 | 2022-05-27 |  |
 | [B.T.W \(feat\. Jay Park\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:12 | 2022-05-27 |  |
 | [Backhouse Ballin' \(feat\. James Reid\)](https://open.spotify.com/track/24yMI9O8GEdADu3hj4axGS) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 3:36 | 2022-05-27 |  |
@@ -53,6 +53,7 @@
 | [Cougar](https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Cougar](https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD) | 2:50 | 2022-07-22 |  |
 | [Could I Be Somebody](https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Could I Be Somebody](https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn) | 3:51 | 2022-05-27 |  |
 | [CTM \(The Conversation\)](https://open.spotify.com/track/4VWQSKCPDyyr5YEFWc2m5Z) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [CTM \(The Conversation\)](https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0) | 4:15 | 2022-08-19 |  |
+| [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-08-26 |  |
 | [David](https://open.spotify.com/track/6NmPTgi8MsQL38JslZJEqV) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [David](https://open.spotify.com/album/6nKphWfsj3KEOJo6wkjPb5) | 3:17 | 2022-06-03 | 2022-07-01 |
 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-08-19 | 2022-09-10 |
 | [Daylight](https://open.spotify.com/track/4uiv2t9iLd5nSdtB7GS7dN) | [Hairuo](https://open.spotify.com/artist/6Fvx2mF6BxSJy4IzISzZOI) | [Daylight](https://open.spotify.com/album/6vsNYqMvrHtdr9Eb7AxPfE) | 4:14 | 2022-05-27 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,782 likes - 387 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,893 likes - 387 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,7 +291,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 281 | [Time's Memories](https://open.spotify.com/track/6MEdygUrQQcTBonYYMhb7g) | [MY7O](https://open.spotify.com/artist/29bFz21OCfBIhQ7RoAfI5z) | [Time's Memories](https://open.spotify.com/album/2wxkse9MOM5dNrzu2U32PV) | 2:12 |
 | 282 | [Lost Around You](https://open.spotify.com/track/6NQliPgMvvohu8icN1QVXS) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk), [enoch](https://open.spotify.com/artist/6DJQwUpD4sBAYXGQEF9cLi) | [Lost Around You](https://open.spotify.com/album/1sXrwOONuN3hbSxipNsuw7) | 3:04 |
 | 283 | [Closing Time](https://open.spotify.com/track/62eqqtL3fsqposdcUA2iyc) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Manocchs](https://open.spotify.com/artist/7nuSdpLse2KEipMvQ1hWEc) | [Closing Time](https://open.spotify.com/album/62ODSJUV0C332z53VKemHB) | 2:13 |
-| 284 | [saying goodbye](https://open.spotify.com/track/7u9e6okXhjpYwgj6lV0xyc) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [As We Look Back](https://open.spotify.com/album/36I1n19q8pX7gWs5qPbF6i) | 2:24 |
+| 284 | [saying goodbye](https://open.spotify.com/track/7u9e6okXhjpYwgj6lV0xyc) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [As we look back](https://open.spotify.com/album/36I1n19q8pX7gWs5qPbF6i) | 2:24 |
 | 285 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 |
 | 286 | [best friend](https://open.spotify.com/track/2LInrKUW2wKbcSybdChB93) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [best friend](https://open.spotify.com/album/3moQBGVpto8XjCzyMTCPTc) | 1:58 |
 | 287 | [Sauna Street](https://open.spotify.com/track/5yLByn1Fj0MeNUzVUVUFjN) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Daniel Was Here](https://open.spotify.com/album/6Z5kgXdJeXlhb2whf8khXZ) | 2:18 |

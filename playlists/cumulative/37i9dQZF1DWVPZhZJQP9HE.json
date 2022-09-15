@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100 Milli",
+        "url": "https://open.spotify.com/album/1cEy4vqduQeDgbuPY0i03s"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220248,
+      "name": "100 Milli",
+      "url": "https://open.spotify.com/track/5ybGBFLSlqjhtoSkSwBm82"
+    },
+    {
+      "album": {
         "name": "Aasai",
         "url": "https://open.spotify.com/album/3BXdqVTWAZDy9XoGdOkzko"
       },

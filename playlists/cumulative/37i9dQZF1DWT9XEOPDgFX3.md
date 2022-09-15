@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Adam Melchor
 
-249 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+250 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Thread to Find](https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 3:48 | 2022-04-29 |  |
 | [A Thread to Find](https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [A Thread to Find](https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua) | 3:48 | 2022-04-13 | 2022-07-28 |
 | [AEIOU](https://open.spotify.com/track/3DfdycOWmEvE3StaotW2vN) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/7vSeR0JZxdfbHvaQ84kJFt) | 4:57 | 2022-04-13 | 2022-07-29 |
-| [AEIOU](https://open.spotify.com/track/5ezRobByzA1eN0bLfGGaeo) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/4S9RG6dliy3NFtEZNP64TI) | 4:57 | 2022-04-29 |  |
+| [AEIOU](https://open.spotify.com/track/5ezRobByzA1eN0bLfGGaeo) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/4S9RG6dliy3NFtEZNP64TI) | 4:57 | 2022-04-29 | 2022-09-15 |
 | [Air Forces](https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn) | 2:58 | 2022-04-29 |  |
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2022-04-13 | 2022-04-21 |
 | [Alice Hyatt](https://open.spotify.com/track/4L6m6KIvCodAtkX8cvFph9) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [What's New, Tomboy?](https://open.spotify.com/album/2AOoaetZMVWczRP2E18Ou7) | 2:42 | 2022-01-21 | 2022-07-25 |
@@ -238,6 +238,7 @@
 | [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 | 2022-04-13 |  |
 | [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 |  |
 | [Under the Sky](https://open.spotify.com/track/3vbBc820WrJ6xMjwxB4bxM) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss the Night](https://open.spotify.com/album/29WmMuLngwP4b4j1ExcwBv) | 4:18 | 2022-04-13 | 2022-07-29 |
+| [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 |  |
 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 |  |
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2022-04-29 |  |
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2022-01-21 | 2022-07-29 |

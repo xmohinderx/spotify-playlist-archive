@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-163 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+164 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Drown Me!](https://open.spotify.com/track/6e5joNjVEy5XYZ9EBFYslh) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5L2TC2jEJAYN9gLE7pMohj) | 2:52 | 2022-05-17 | 2022-08-06 |
 | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/track/7G6tyJxqTuhZnLHtkRX1hE) | [Oli Frost](https://open.spotify.com/artist/5dFJdXPDdubN7e6RIC2MXP) | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/album/22V98xfVoC34f6ZWcVI8XN) | 2:37 | 2022-06-24 | 2022-07-08 |
 | [Eleanor Rigby](https://open.spotify.com/track/6o4KmRRIZVzII1yA6IK9Cq) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Symphony Sessions](https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6) | 4:40 | 2022-05-17 | 2022-07-16 |
-| [Election Day](https://open.spotify.com/track/1bd8bPTpgERdmcsNwMbx8w) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW), [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Too Much to Ask](https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6) | 1:57 | 2022-08-05 |  |
+| [Election Day](https://open.spotify.com/track/1bd8bPTpgERdmcsNwMbx8w) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW), [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Too Much to Ask](https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6) | 1:57 | 2022-08-05 | 2022-09-15 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-06-24 | 2022-08-06 |
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-05-17 | 2022-08-06 |
 | [Ex\-Girlfriend](https://open.spotify.com/track/30RnHZzh0YfZu7FNIBxiIH) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Ex\-Girlfriend](https://open.spotify.com/album/37xFZDZTBANnDJdPpXHgU8) | 2:19 | 2022-09-02 |  |
@@ -77,6 +77,7 @@
 | [gravity](https://open.spotify.com/track/2hFqVkrBelXGVLaaTKHrjY) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [gravity](https://open.spotify.com/album/6xjOlvvlcBxUGiCWWGNeBv) | 3:52 | 2022-08-05 |  |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-25 |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2022-05-17 | 2022-08-09 |
+| [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 |  |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-08-31 |  |
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2022-05-17 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-17 |  |

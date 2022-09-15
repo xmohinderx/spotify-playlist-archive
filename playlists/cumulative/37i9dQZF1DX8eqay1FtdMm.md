@@ -4,7 +4,7 @@
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN\(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-336 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
+337 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2021-12-20 |  |
 | [Dear](https://open.spotify.com/track/5xUDsNJKebll4g40mGcnPl) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Dear](https://open.spotify.com/album/20YuFf31mUzKLlcKTAGEV5) | 5:19 | 2021-12-20 | 2022-07-28 |
 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 | 2022-04-21 |  |
-| [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 |  |
+| [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 | 2022-09-15 |
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-03 | 2022-05-12 |
 | [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 | 2021-12-20 |  |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-29 | 2022-04-21 |
@@ -89,6 +89,7 @@
 | [FINE](https://open.spotify.com/track/2FfqCAm7SlGd0pWc23ovCO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [FINE](https://open.spotify.com/album/0C4FHIxRJjcvVEUhKq99X5) | 3:05 | 2022-02-10 | 2022-07-29 |
 | [FiNE!](https://open.spotify.com/track/0uXc6bgGKOHi861XBgbuQ1) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [LEFT](https://open.spotify.com/album/5wQND7CP9pnNPW3QA2ODos) | 3:11 | 2022-04-20 | 2022-04-28 |
 | [First Line](https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6) | 4:00 | 2021-12-20 | 2022-07-29 |
+| [First Line](https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p) | 4:00 | 2022-09-06 |  |
 | [Fixed On You](https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Fixed On You \(new.MAKE20 \#10\)](https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e) | 4:23 | 2021-12-20 | 2022-07-29 |
 | [Flower \(With Kim Minseok of Melomance\)](https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Flower](https://open.spotify.com/album/1oWFYxp5k7nPlsdwNpmtxa) | 4:35 | 2022-03-11 |  |
 | [Flower Way \(Prod\. By ZICO\)](https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Jelly box Flower Way SEJEONG](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) | 3:59 | 2022-07-25 |  |

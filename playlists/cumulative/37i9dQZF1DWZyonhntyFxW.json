@@ -142,6 +142,50 @@
     },
     {
       "album": {
+        "name": "ANA DEAL",
+        "url": "https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195642,
+      "name": "ANA DEAL",
+      "url": "https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD"
+    },
+    {
+      "album": {
+        "name": "Madina",
+        "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        },
+        {
+          "name": "Desso",
+          "url": "https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233023,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0HjAtdzoK8MsULTU5VwyFT"
+    },
+    {
+      "album": {
         "name": "BARBARY",
         "url": "https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR"
       },
@@ -193,6 +237,28 @@
       "duration_ms": 242608,
       "name": "BIG MOOD",
       "url": "https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5"
     },
     {
       "album": {
@@ -693,7 +759,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 195488,
       "name": "Malaksh Da3wa",
       "url": "https://open.spotify.com/track/4RlYNdvL0xebVFp3YrxtSK"
@@ -1016,6 +1082,28 @@
     },
     {
       "album": {
+        "name": "Cabina",
+        "url": "https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189382,
+      "name": "Roo7",
+      "url": "https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj"
+    },
+    {
+      "album": {
         "name": "El Sahaba",
         "url": "https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt"
       },
@@ -1276,6 +1364,28 @@
     },
     {
       "album": {
+        "name": "Tuta Ankh Amoon",
+        "url": "https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1"
+      },
+      "artists": [
+        {
+          "name": "Batistuta",
+          "url": "https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo"
+        },
+        {
+          "name": "MiniM",
+          "url": "https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237284,
+      "name": "Tuta Ankh Amoon",
+      "url": "https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ"
+    },
+    {
+      "album": {
         "name": "SAN STEFANO",
         "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
       },
@@ -1357,6 +1467,24 @@
       "duration_ms": 181904,
       "name": "Ya Wa3dy",
       "url": "https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9"
+    },
+    {
+      "album": {
+        "name": "YA7",
+        "url": "https://open.spotify.com/album/0ipc4EPZuO7zSMIMRmM6YE"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147919,
+      "name": "YA7",
+      "url": "https://open.spotify.com/track/4GbLYgXHLMzwHaxDLhAQVu"
     },
     {
       "album": {

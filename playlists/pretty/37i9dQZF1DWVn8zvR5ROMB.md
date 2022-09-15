@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kane Brown, BRELAND, Avery Anna and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,116 likes - 62 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,415 likes - 62 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

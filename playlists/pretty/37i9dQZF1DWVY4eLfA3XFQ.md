@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Hannah Laing & Stephen Kirkwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,741 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,898 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 76 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 |
 | 77 | [Clap](https://open.spotify.com/track/6OXCzxfoAYvvMPSSu0JdHB) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Clap](https://open.spotify.com/album/406EgxwjS585YgkObvGLgk) | 2:15 |
 | 78 | [Lose My Mind](https://open.spotify.com/track/6bEMfZ4kYoz7HjM2odlpBz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Lose My Mind](https://open.spotify.com/album/05KjDvoOT0zlL9ws0i0Pk8) | 3:11 |
-| 79 | [Oiga Morena](https://open.spotify.com/track/1VK0Nb6EqY5gIMw7jlZCZJ) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Nenito Vargas](https://open.spotify.com/artist/5nZJzDR7V0oO6I3jG7y1dC) | [Oiga Morena](https://open.spotify.com/album/6LjF97ZQem85Iq4iavJt7q) | 2:53 |
+| 79 | [Oiga Morena](https://open.spotify.com/track/1VK0Nb6EqY5gIMw7jlZCZJ) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Nenito Vargas](https://open.spotify.com/artist/5nZJzDR7V0oO6I3jG7y1dC) | [Oiga Morena](https://open.spotify.com/album/6LjF97ZQem85Iq4iavJt7q) | 2:49 |
 | 80 | [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 |
 | 81 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 |
 | 82 | [Dark Sun](https://open.spotify.com/track/14u3zFqqRmQhIvLogOilhn) | [DRECHSLER](https://open.spotify.com/artist/1D8FnfDviwgCeVuTeDj9hF) | [Dark Sun](https://open.spotify.com/album/3pFhGgvlipUBjQaf2TRUx5) | 2:36 |

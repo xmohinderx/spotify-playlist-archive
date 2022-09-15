@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop.
 
-581 songs - 1 day 10 hr 44 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+583 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Gorgeous](https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:29 | 2022-05-11 |  |
 | [Gorgeous](https://open.spotify.com/track/5Gd19NupVe5X8bAqxf9Iaz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Gorgeous](https://open.spotify.com/album/47JSuowYYz5j8w2AM6N8w6) | 3:29 | 2021-08-10 | 2022-07-29 |
 | [Gorilla](https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 4:04 | 2021-11-10 |  |
-| [Graffiti](https://open.spotify.com/track/29izGj5WZ39AU3p4ilkFcF) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/7EchhykwUf4ACDDABEDa7o) | 3:38 | 2022-05-11 |  |
+| [Graffiti](https://open.spotify.com/track/0SOeDDPvWi1gBxwOwIhIw1) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:38 | 2022-05-11 |  |
+| [Graffiti](https://open.spotify.com/track/29izGj5WZ39AU3p4ilkFcF) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/7EchhykwUf4ACDDABEDa7o) | 3:38 | 2022-05-11 | 2022-09-15 |
 | [Graffiti](https://open.spotify.com/track/2tzs8aV8k9xnbAiaHDn4YP) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF) | 3:38 | 2021-08-10 | 2022-07-29 |
 | [Gravity](https://open.spotify.com/track/4eCe46kZbdcdHeWhjZww8I) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Gravity](https://open.spotify.com/album/2F86S51hRU8GpwISZcsx2Z) | 3:34 | 2022-05-11 |  |
 | [Gravity](https://open.spotify.com/track/6egBojmNB8FSSgmxsBUNMg) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Gravity](https://open.spotify.com/album/4jbJAaML36E3R5RFTORxnN) | 3:34 | 2021-08-10 | 2022-07-29 |
@@ -331,7 +332,8 @@
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2021-08-10 |  |
 | [Millionaire \(feat\. Nelly\)](https://open.spotify.com/track/3UDXkdQquqCEAJdNAsA1wO) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx) | 3:06 | 2022-05-11 |  |
 | [Millionaire \(feat\. Nelly\)](https://open.spotify.com/track/4eZDxVUfm37N7ncCi0t94Y) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Millionaire \(feat\. Nelly\)](https://open.spotify.com/album/27XITzym4jKTnu06qvEhhA) | 3:05 | 2021-08-10 | 2022-07-29 |
-| [Miracle](https://open.spotify.com/track/2tBepKim58vAVEKlQhLJNP) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/7EchhykwUf4ACDDABEDa7o) | 3:08 | 2022-05-11 |  |
+| [Miracle](https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:08 | 2022-05-11 |  |
+| [Miracle](https://open.spotify.com/track/2tBepKim58vAVEKlQhLJNP) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/7EchhykwUf4ACDDABEDa7o) | 3:08 | 2022-05-11 | 2022-09-15 |
 | [Miracle](https://open.spotify.com/track/6vgqv2UHRvXopkV9RbG7Wq) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Miracle](https://open.spotify.com/album/7JE7QEhrbXVV8VjR4P7fk9) | 3:08 | 2021-08-10 | 2022-07-29 |
 | [Misery](https://open.spotify.com/track/6NJwUozBz3XVoDVzOlvFbn) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:26 | 2022-05-11 |  |
 | [Misery](https://open.spotify.com/track/7AjveaJTT8WQn5UTEgvH1E) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:26 | 2021-08-10 | 2022-07-29 |

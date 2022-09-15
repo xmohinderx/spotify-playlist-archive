@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Mitraz
 
-111 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+112 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 | 2022-05-20 | 2022-07-16 |
 | [Teri Ay](https://open.spotify.com/track/3WBsWNtL054HCFz7UUGK9e) | [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt) | [Patang](https://open.spotify.com/album/2dtBK0Vkm1vrkucjfaqR3I) | 3:52 | 2022-05-20 | 2022-07-16 |
 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 | 2022-05-20 | 2022-07-16 |
+| [Tu Kaun Hai](https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Tu Kaun Hai](https://open.spotify.com/album/4UgSmIR3uBY5ehDNeZszsZ) | 5:33 | 2022-09-14 |  |
 | [ur sweater](https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [ur sweater](https://open.spotify.com/album/2Ai8C3NJ1DOKA0Fl9uUuRX) | 3:20 | 2022-05-20 |  |
 | [Valley of the Hills](https://open.spotify.com/track/4WTXH3F4P3vHmRbpZeTYn3) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Trey Schafer](https://open.spotify.com/artist/091DrNc7RWkJYwVFI9aA8X) | [Valley of the Hills](https://open.spotify.com/album/1wY4EpeDljm1P4zJ2ls8s6) | 2:29 | 2022-05-20 | 2022-07-16 |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-05-20 |  |

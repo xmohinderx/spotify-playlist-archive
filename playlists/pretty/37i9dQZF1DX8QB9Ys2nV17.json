@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169170,
+  "num_followers": null,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDA5NjJmZWFhODU4MTk0ZjQ5ZDIzMjM4MTljMThiMzEz",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDE0ZTA2NWE1MWEzM2I4MWI2YzBiYThlOWYwMTZmZjQy",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Love Spin",
-        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
-      },
-      "artists": [
-        {
-          "name": "Debbie Davies",
-          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Broken People",
         "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 251613,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Love Spin",
+        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
+      },
+      "artists": [
+        {
+          "name": "Debbie Davies",
+          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Tug of War",
-        "url": "https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY"
-      },
-      "artists": [
-        {
-          "name": "Gina Sicilia",
-          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "They Never Pay Me",
-      "url": "https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Moon Goes Missing",
         "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 321494,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Tug of War",
+        "url": "https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY"
+      },
+      "artists": [
+        {
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "They Never Pay Me",
+      "url": "https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2"
     },
     {
       "added_at": "2022-03-08 14:01:09",

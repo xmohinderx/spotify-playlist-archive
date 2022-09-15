@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-98 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
+99 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 | 2022-03-18 |  |
 | [Flerte Revival](https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 3:10 | 2022-01-07 |  |
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2022-01-07 |  |
-| [Heavy](https://open.spotify.com/track/4aT6hzLA3YBKES4kGDD4uf) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/4wq7XX6LIJg2Bq1xDYTN5v) | 3:22 | 2022-03-18 |  |
+| [Heavy](https://open.spotify.com/track/4aT6hzLA3YBKES4kGDD4uf) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/4wq7XX6LIJg2Bq1xDYTN5v) | 3:22 | 2022-03-18 | 2022-09-15 |
+| [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 | 2022-07-29 |  |
 | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA) | 3:22 | 2022-01-07 | 2022-07-29 |
 | [Holograma](https://open.spotify.com/track/2pCB7iBACJRFm7TqD5TJGx) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Holograma](https://open.spotify.com/album/767JuVpwlgXhpRPnwryvY6) | 3:17 | 2022-07-29 |  |
 | [How Long Have You Been Away?](https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 3:28 | 2022-01-07 |  |

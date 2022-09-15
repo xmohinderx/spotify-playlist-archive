@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-106 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
+107 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Embraceble You](https://open.spotify.com/track/61qcz5XScc4DubjroIyGsG) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Embraceble You](https://open.spotify.com/album/4GwhE4HL4dbZe9rch6dwAB) | 4:38 | 2022-08-18 |  |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-08-18 |  |
 | [Foggy Sunday](https://open.spotify.com/track/331aspu4164ZfUMcaWzc8C) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Foggy Sunday](https://open.spotify.com/album/3U2D6KS4rrUHvaFHY5w9P4) | 3:47 | 2022-08-18 |  |
+| [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-13 |  |
 | [Freesia](https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Freesia](https://open.spotify.com/album/15P9FU9R5jbBix4jIGPvBf) | 3:49 | 2022-08-18 |  |
 | [God Bless The Child](https://open.spotify.com/track/6EpATvQFAodhQrHKqsZStm) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [God Bless The Child](https://open.spotify.com/album/3QiXg44gYchM0zVHw4JgVz) | 4:16 | 2022-08-18 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-08-18 |  |

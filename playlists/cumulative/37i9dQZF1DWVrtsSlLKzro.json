@@ -1341,10 +1341,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 231578,
       "name": "Empty Promise",
       "url": "https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn"
+    },
+    {
+      "album": {
+        "name": "Happiness, Guaranteed",
+        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231578,
+      "name": "Empty Promise",
+      "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
     },
     {
       "album": {
@@ -3869,10 +3891,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 223650,
       "name": "The Trouble with Us",
       "url": "https://open.spotify.com/track/47OJzoslrchHSbjAeR4Srv"
+    },
+    {
+      "album": {
+        "name": "Happiness, Guaranteed",
+        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223650,
+      "name": "The Trouble with Us",
+      "url": "https://open.spotify.com/track/6zsoP81Lhi2XfAb0k1ZULN"
     },
     {
       "album": {

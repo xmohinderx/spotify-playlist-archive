@@ -4,7 +4,7 @@
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-163 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/1Y2DnKP1bwhjjw2yMKm1Bf)
+164 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/1Y2DnKP1bwhjjw2yMKm1Bf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 | 2020-09-04 |  |
 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 | 2020-09-04 |  |
 | [Angel Echoes](https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9) | 3:59 | 2020-09-04 | 2022-07-29 |
-| [Angel Echoes](https://open.spotify.com/track/4ja4D4qcwGC5Zg1IwDWsIL) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 3:59 | 2020-09-04 |  |
+| [Angel Echoes](https://open.spotify.com/track/4ja4D4qcwGC5Zg1IwDWsIL) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 3:59 | 2020-09-04 | 2022-09-15 |
 | [Angelica](https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/0h9G8NCZlEj7cO38rp5mje) | 3:40 | 2020-09-04 | 2022-07-29 |
 | [Angelica](https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/6upRap3KHfW2oaR1qrlf3p) | 3:44 | 2020-09-04 |  |
 | [Angels](https://open.spotify.com/track/5r3eWOSUAcHHbX7cydZ4Q7) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/4r2rfpOZy2TJgtIZJYOpBa) | 4:03 | 2020-09-04 |  |
@@ -130,6 +130,7 @@
 | [Simple Science \- 12" Version](https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Danny Pratt](https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo) | [Simple Science EP](https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi) | 7:43 | 2020-09-04 | 2022-07-28 |
 | [Six Underground \- Nellee Hoopers Edit](https://open.spotify.com/track/6Ui2yvA0D5bXxZiPFWd47y) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Six Underground](https://open.spotify.com/album/1W9Wlg9utd4h70fgitFbM2) | 3:54 | 2020-09-04 | 2022-07-29 |
 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 | 2020-09-04 | 2022-09-11 |
+| [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/3iFrnwcE635aABiCZWULxP) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy), [Stephen Hague](https://open.spotify.com/artist/1PNOAWuRRAfd7MTaFzE5Ae) | [Slip Into Something More Comfortable](https://open.spotify.com/album/58ZEg8lRtbxqzeYzMdiH9u) | 4:47 | 2020-09-04 |  |
 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 | 2020-09-04 |  |
 | [Slowly](https://open.spotify.com/track/2pLBnncte8HnrPKM2D6ag5) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/2VnITsC4ZKoOM9Qs0CaM1K) | 5:37 | 2020-09-04 | 2022-07-29 |
 | [Smile](https://open.spotify.com/track/40Sw7gIi4EgHsdcesQvo5y) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [genetic world](https://open.spotify.com/album/401DhjeJg1yVIfBN2A55JY) | 4:01 | 2020-09-04 | 2022-07-15 |

@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Father's Day! Father's Day!](https://open.spotify.com/track/2QhuyNYE0WBPNhsGC4chR3) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Father's Day](https://open.spotify.com/album/4pOfhxZCAqDEiRTpgJEG4O) | 1:33 |
-| 2 | [My Daddy Song](https://open.spotify.com/track/1GIiqb0sl5AscLsypZYR0H) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon I Love My Family](https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU) | 2:52 |
+| 2 | [My Daddy Song](https://open.spotify.com/track/1GIiqb0sl5AscLsypZYR0H) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon I Love My Family](https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU) | 2:52 |
 | 3 | [Dear Old Dad](https://open.spotify.com/track/2POHHxEXrtaoieUdXuynyA) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:29 |
 | 4 | [Dance to Your Daddy](https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:18 |
 | 5 | [Cool Dad](https://open.spotify.com/track/6TKG8t6wMW7xwPz89IVDlF) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P), [Billy B](https://open.spotify.com/artist/6q22S1wbS1Eg7NbOQVA04o) | [Cool Dad](https://open.spotify.com/album/4Gn2D9bQMnETCm9SbQrX34) | 1:36 |

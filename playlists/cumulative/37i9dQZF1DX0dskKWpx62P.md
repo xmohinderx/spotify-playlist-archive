@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-101 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
+102 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,10 @@
 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 | 2022-02-04 |  |
 | [Cerveza, Cerveza](https://open.spotify.com/track/2MwYotI5NsXGD7LazHfUX5) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/3wQqMBrsik0XtiDhTsWx9M) | 4:34 | 2022-02-04 | 2022-06-26 |
 | [Cerveza, Cerveza](https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:34 | 2022-02-04 |  |
-| [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 | 2022-02-04 |  |
+| [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 | 2022-02-04 | 2022-09-15 |
 | [Challwaschallay](https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 4:14 | 2022-02-04 |  |
 | [Challwaschallay](https://open.spotify.com/track/3d3UsZ3Xgv3h03CXimk6uP) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0CK8pR74Lrzmh0NIOTy5Dh) | 4:14 | 2022-02-04 | 2022-07-29 |
+| [Chapitas](https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Tusuyninchiq](https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU) | 4:19 | 2022-02-04 |  |
 | [Chapitas](https://open.spotify.com/track/2eCNkP5Q0WgKUpmLrw6qMO) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Tusuyninchiq](https://open.spotify.com/album/7lWFvZlzTUYAjpwGdnPnQY) | 4:20 | 2022-02-04 | 2022-08-31 |
 | [Chapitas](https://open.spotify.com/track/2oW9MOTJZdq6fSuLwBrMbf) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Festejos Andinos](https://open.spotify.com/album/7EU6lFkzWWkjGqO7Nkjrnn) | 4:22 | 2022-02-04 | 2022-07-29 |
 | [Chinita Ingrata](https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:49 | 2022-02-04 | 2022-07-27 |

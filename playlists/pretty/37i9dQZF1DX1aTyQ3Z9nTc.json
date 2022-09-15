@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 102727,
+  "num_followers": 102841,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjUzNCwwMDAwMDAwMGRkZGMxZjY1YzEzNDNhODQzYTZkMGQ5NTJmMjk3YzQ3",
+  "snapshot_id": "MTY2MjY5NjUzNCwwMDAwMDAwMGJiMzZlZDA4NGE1NWY5MjQ5OWQ4YTFiODlhMDAwNGM2",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 96133,
+      "name": "Break it off - Bonus",
+      "url": "https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1"
+    },
+    {
       "added_at": "2022-07-29 04:11:59",
       "album": {
         "name": "New To You (with Normani, Tinashe, & Offset)",
@@ -219,22 +235,6 @@
       "duration_ms": 302952,
       "name": "New To You (with Normani, Tinashe, & Offset)",
       "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 96133,
-      "name": "Break it off - Bonus",
-      "url": "https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1"
     },
     {
       "added_at": "2022-08-05 04:16:42",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Out Of Time (Remix Bundle)",
-        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Out of Time - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
         "name": "Recap (with VanJess & Channel Tres)",
         "url": "https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Out Of Time (Remix Bundle)",
+        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Out of Time - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -613,6 +613,22 @@
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Last Year Was Weird, Vol. 2",
+        "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 233537,
+      "name": "24k",
+      "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "hollaback bitch (with Shygirl & Channel Tres)",
@@ -637,22 +653,6 @@
       "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "Last Year Was Weird, Vol. 2",
-        "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 233537,
-      "name": "24k",
-      "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Too Much (feat. Lucky Daye)",
@@ -673,24 +673,20 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2022-09-09 04:08:54",
       "album": {
-        "name": "Iced Tea",
-        "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
+        "name": "long legs",
+        "url": "https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE"
       },
       "artists": [
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 205384,
-      "name": "Iced Tea",
-      "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
+      "duration_ms": 244155,
+      "name": "long legs",
+      "url": "https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -711,6 +707,26 @@
       "duration_ms": 226720,
       "name": "The Worst In Me",
       "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Iced Tea",
+        "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Iced Tea",
+      "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -773,6 +789,26 @@
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Streets (Remixes)",
+        "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Streets - DJ Sliink Remix",
+      "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
+    },
+    {
       "added_at": "2022-07-29 04:11:59",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -795,26 +831,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Streets (Remixes)",
-        "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Streets - DJ Sliink Remix",
-      "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "SG8*",
         "url": "https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 163106,
       "name": "No Chill",
       "url": "https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq"
-    },
-    {
-      "added_at": "2022-09-09 04:08:54",
-      "album": {
-        "name": "long legs",
-        "url": "https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 244155,
-      "name": "long legs",
-      "url": "https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz"
     },
     {
       "added_at": "2022-07-30 02:24:25",

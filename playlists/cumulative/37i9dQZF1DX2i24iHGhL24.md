@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sasha Alex Sloan
 
-316 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+318 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [God Only Knows](https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [God Only Knows](https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi) | 3:04 | 2021-12-17 |  |
 | [Golden \- Originally Performed By Harry Styles](https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Covers by Cannons](https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4) | 2:56 | 2021-12-17 |  |
 | [Gone](https://open.spotify.com/track/450BViORvp0QhHY3OvAKGR) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Gone](https://open.spotify.com/album/3QjzQa1rwUbtZtDAbD77JD) | 3:30 | 2021-12-17 | 2022-05-02 |
-| [Graveyard](https://open.spotify.com/track/358En9GBp4r4Gi6GuMCiJ6) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Graveyard](https://open.spotify.com/album/0rlOrJtwIhltLuEnDfBT0G) | 3:18 | 2021-12-17 |  |
+| [Graveyard](https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Graveyard](https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc) | 3:18 | 2022-08-26 |  |
+| [Graveyard](https://open.spotify.com/track/358En9GBp4r4Gi6GuMCiJ6) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Graveyard](https://open.spotify.com/album/0rlOrJtwIhltLuEnDfBT0G) | 3:18 | 2021-12-17 | 2022-09-15 |
 | [Habits \(Stay High\)](https://open.spotify.com/track/35zMHLsN7awTR3wEpdtXC3) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Habits \(Stay High\)](https://open.spotify.com/album/3yWITbmUPAnua08jPSHmBt) | 2:24 | 2022-03-25 | 2022-04-16 |
 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 | 2022-03-25 | 2022-04-21 |
 | [Halo](https://open.spotify.com/track/3Jj7wTQ4xkC1xYz0q0M4TD) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Halo](https://open.spotify.com/album/3GmA1W7zAKUtEUpLjX8pFQ) | 4:27 | 2021-12-17 |  |
@@ -257,7 +258,8 @@
 | [Starboy](https://open.spotify.com/track/4Wqbm3hJrGVcH3WgTwruP4) | [Blondfire](https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3), [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Starboy](https://open.spotify.com/album/68Zu0U5USHSjaQbg5HmFSL) | 4:17 | 2021-12-17 | 2022-05-02 |
 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 | 2022-03-25 | 2022-04-21 |
 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 3:10 | 2021-12-17 |  |
-| [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1QyyVFQ0Y1DJLb7OeQgQUJ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ) | 4:04 | 2022-07-08 |  |
+| [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1QyyVFQ0Y1DJLb7OeQgQUJ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ) | 4:04 | 2022-07-08 | 2022-09-15 |
+| [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 4:04 | 2022-08-26 |  |
 | [Stay \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Stay / Animal Mashup](https://open.spotify.com/track/6uKLfHHDYjHAcnV3T4RW4v) | [Jessica Rotter](https://open.spotify.com/artist/6jQAFXkB1ciNf4PLUfIvdF), [Emily Colombier](https://open.spotify.com/artist/300ulIFHhN4g5WXS056phX) | [Stay / Animal Mashup](https://open.spotify.com/album/3j3qcNrYG0Qsoys4NXZGSs) | 4:24 | 2021-12-17 | 2022-05-02 |
 | [Still Into You](https://open.spotify.com/track/3lFvgGhin8RuplMTfKlhSF) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Still Into You](https://open.spotify.com/album/3VSigF6xRqMohhx8qUjRmE) | 4:20 | 2021-12-17 |  |

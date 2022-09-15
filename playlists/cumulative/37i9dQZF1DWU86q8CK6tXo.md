@@ -4,7 +4,7 @@
 
 > Female\-identifying only grooves, with some of  <a href=“spotify:artist:3R80OE4RViOWbnuvqh0j8a”>Thuy's</a> inspirations\. Cover: Thuy
 
-498 songs - 1 day 3 hr 8 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+499 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-05-04 | 2022-06-01 |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-06-01 | 2022-07-07 |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-04-06 | 2022-05-05 |
-| [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-09-07 |  |
+| [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-09-07 | 2022-09-15 |
 | [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 | 2022-05-04 | 2022-06-01 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-03 | 2022-09-09 |
 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 | 2022-08-03 | 2022-09-09 |
@@ -473,6 +473,7 @@
 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-12-01 | 2022-01-06 |
 | [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-06-01 | 2022-07-07 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-08 | 2022-04-07 |
+| [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-09-07 |  |
 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 | 2022-09-07 |  |
 | [Waste Your Time](https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Waste Your Time](https://open.spotify.com/album/128amSWTlex39AOupLETx0) | 3:28 | 2022-08-03 | 2022-09-09 |
 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-04-06 | 2022-05-05 |

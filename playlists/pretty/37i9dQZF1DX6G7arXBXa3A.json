@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 370695,
+  "num_followers": 370757,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDc4MjM3MWMwM2Q1NzY0OTkxODdiYTExMDFkZTcyZjAw",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDc5MGIwODUyNDNmYjI3NGE0YmVmZDQ5M2MzNDZjNjA3",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -39,22 +39,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Best Of The Big Bands",
         "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 203773,
       "name": "It's Been a Long, Long Time",
       "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Verve Jazz Masters 54",
         "url": "https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo"
       },
@@ -571,62 +555,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Strike Up The Band (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/0wGJ6I9XDE7CBe1HPNOuJY"
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Benny Powell",
-          "url": "https://open.spotify.com/artist/5x211AOy9KzhcmNMGWqc2T"
-        },
-        {
-          "name": "Ralph Sharon",
-          "url": "https://open.spotify.com/artist/0Vj1OA5xQpU3DHqPh6Rf0q"
-        },
-        {
-          "name": "Snookey Young",
-          "url": "https://open.spotify.com/artist/7E8PYxrykVXA0Fw3V9Qqkv"
-        },
-        {
-          "name": "Joe Newman",
-          "url": "https://open.spotify.com/artist/7n1cmsmMhu5aLm9beIJ6lB"
-        },
-        {
-          "name": "Sonny Payne",
-          "url": "https://open.spotify.com/artist/2diKWyLz1JFoi0WWDBCU4x"
-        },
-        {
-          "name": "Teddy Reig",
-          "url": "https://open.spotify.com/artist/7MTA40EZB2r6yvPFmlcODo"
-        },
-        {
-          "name": "Marshall Royal",
-          "url": "https://open.spotify.com/artist/77zFVepH3jsf7ApEG35apD"
-        },
-        {
-          "name": "Wendell Culley",
-          "url": "https://open.spotify.com/artist/1ely7MrOjXhN9akM3YYaOc"
-        },
-        {
-          "name": "Charlie Fowlkes",
-          "url": "https://open.spotify.com/artist/5cVKSMSiCpZKu9FqY4Zu71"
-        },
-        {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 163746,
-      "name": "Are You Havin' Any Fun?",
-      "url": "https://open.spotify.com/track/7uv1H2DoWiGnxTWMV6B5qV"
+      "duration_ms": 183960,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -783,22 +723,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Quintessence",
-        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Straight, No Chaser",
-      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Present Perfect",
         "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
       },
@@ -815,6 +739,22 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Quintessence",
+        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -923,6 +863,26 @@
       "duration_ms": 297373,
       "name": "I Didn\u00b4t Tell Them Why",
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Eleven O' Seven",
+        "url": "https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v"
+      },
+      "artists": [
+        {
+          "name": "Grace Fox",
+          "url": "https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h"
+        },
+        {
+          "name": "Jade Elliott",
+          "url": "https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s"
+        }
+      ],
+      "duration_ms": 565293,
+      "name": "Echelon",
+      "url": "https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC"
     }
   ],
   "unique_name": "Big Band",

@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27024,
+  "num_followers": 27027,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDczOTdkM2U5NTgyMTlkMjYyZDMzYTM1MTFhYjg5NmEw",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGEzNDg2MGU0OTIxZDQ4YTg0ZTBjOTY3MmMxNWRhMzJk",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Living (feat. Alex Clare)",
         "url": "https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 197733,
       "name": "Living (feat. Alex Clare)",
       "url": "https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Don't Worry (Radio Edit)",
-        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        }
-      ],
-      "duration_ms": 190278,
-      "name": "Don't Worry - Radio Edit",
-      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Dynamite (feat. Pretty Sister)",
         "url": "https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 195428,
       "name": "Dynamite (feat. Pretty Sister)",
       "url": "https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Don't Worry (Radio Edit)",
+        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
+      },
+      "artists": [
+        {
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+        }
+      ],
+      "duration_ms": 190278,
+      "name": "Don't Worry - Radio Edit",
+      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y"
+        "name": "Did You Forget",
+        "url": "https://open.spotify.com/album/0lnxwZAV1OzqEC5TiikQHe"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+          "name": "Jeff Riv3r & Mike F",
+          "url": "https://open.spotify.com/artist/4O3BLUhLCrqcPiX8vOVbHh"
+        },
+        {
+          "name": "Michel Fannoun",
+          "url": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN"
+      "duration_ms": 184138,
+      "name": "Did You Forget",
+      "url": "https://open.spotify.com/track/5IxobSU5BKaUoeMDDAtJwg"
     }
   ],
   "unique_name": "After Work",

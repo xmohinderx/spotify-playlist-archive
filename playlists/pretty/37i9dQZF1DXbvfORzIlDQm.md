@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,266 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,290 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 33 | [Undead God of War](https://open.spotify.com/track/17pQuFJDgCkqSCVgxRailx) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:46 |
 | 34 | [Call It What It Is](https://open.spotify.com/track/64uZdEoUfTO3FkED7nUa8T) | [Ben Harper And The Innocent Criminals](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) | [Call It What It Is](https://open.spotify.com/album/7rSv91W6p3WmnDA7ydI4ng) | 3:47 |
 | 35 | [Barley](https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf) | [Real Midnight](https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ) | 3:04 |
-| 36 | [To the River](https://open.spotify.com/track/3ughINQrsoRqW1V7VSfF3p) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/40lgy95tfZX8pXHOsQdQkZ) | 2:40 |
+| 36 | [To the River](https://open.spotify.com/track/6RObl56H8PxTiLAn16VCdK) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/7uSbBFPjRdHap3xlxiroxS) | 2:39 |
 | 37 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 |
 | 38 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
 | 39 | [Future People](https://open.spotify.com/track/7uuoh2lEaGcbNpbKCvzawf) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:21 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MTY0NDI0NDU0MSwwMDAwMDAwMGYxMDMwMWJlYjdlNjA4Y2M0NGE0NmZiNTcwZWI1MTM0`
+Snapshot ID: `MTY0NDI0NDU0MSwwMDAwMDAwMDVjOGI3MDQ2YmZmYTU0MjE1ZTlkZjg5ZDEyMzE5MTY2`

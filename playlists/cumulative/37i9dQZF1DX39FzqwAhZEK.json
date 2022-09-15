@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "A Magic Forest",
+        "url": "https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu"
+      },
+      "artists": [
+        {
+          "name": "Evolving Stream",
+          "url": "https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185854,
+      "name": "A Magic Forest",
+      "url": "https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ"
+    },
+    {
+      "album": {
         "name": "Ocean Meditation",
         "url": "https://open.spotify.com/album/13R0aAMcVYSnMpLqmZwsHh"
       },
@@ -2583,6 +2601,24 @@
       "duration_ms": 131688,
       "name": "Lavender Fields",
       "url": "https://open.spotify.com/track/7rhnKUAukqD2mtsNoPSt4J"
+    },
+    {
+      "album": {
+        "name": "Life From Above",
+        "url": "https://open.spotify.com/album/5W2etau8vKbNwCy0UGxJEj"
+      },
+      "artists": [
+        {
+          "name": "Ethan Beckett",
+          "url": "https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145610,
+      "name": "Life From Above",
+      "url": "https://open.spotify.com/track/5t2EOrgbyupZmjFUROk1E0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Our favorite electronic tracks of 2021\. Cover: Fred again..
 
-113 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
+115 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,14 +60,16 @@
 | [Let’s Sing Let’s Dance](https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Let’s Sing Let’s Dance](https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG) | 3:50 | 2021-12-01 |  |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-12-01 |  |
 | [Life is Perfecto](https://open.spotify.com/track/0hxQaAiOiZS1RabZGThCU5) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [memoryland](https://open.spotify.com/album/1afj4IR9BrWY65bk8kCglF) | 7:17 | 2021-12-01 |  |
-| [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040) | 3:11 | 2021-12-01 |  |
+| [Lights Up](https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:11 | 2021-12-01 |  |
+| [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040) | 3:11 | 2021-12-01 | 2022-09-15 |
 | [Like a Butterfly](https://open.spotify.com/track/1F4u9meLzVwyHtoSWmjJJQ) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Ambition](https://open.spotify.com/album/2MN2uo6fMXPy4V9L2Wg6Qc) | 3:19 | 2021-12-01 | 2022-07-29 |
 | [Like a Butterfly](https://open.spotify.com/track/4jL1PrNhUhQyTZIAxMqtj7) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Ambition](https://open.spotify.com/album/6qAC2WPjZEQA8FanPkAODg) | 3:19 | 2021-12-01 |  |
 | [London\. Paris\. Berlin.](https://open.spotify.com/track/4OwMTUrschknwvALozCuoD) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Tomorrow’s People](https://open.spotify.com/album/0qk4ovxWz0en2H2HIqz2wT) | 4:05 | 2021-12-01 |  |
 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 | 2021-12-01 |  |
 | [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-01 |  |
 | [Losing Touch](https://open.spotify.com/track/33h0F53mXDP3CmBSKlFKo5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/76zZinKzeNvh8GRfPnEB8M) | 3:55 | 2021-12-01 | 2022-07-29 |
-| [Love Reigns](https://open.spotify.com/track/78Yqfmq11yBeibacqvl4Y4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Reigns](https://open.spotify.com/album/3TCa2b0OgMFEzCpdVCSB30) | 4:54 | 2021-12-01 |  |
+| [Love Reigns](https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:54 | 2021-12-01 |  |
+| [Love Reigns](https://open.spotify.com/track/78Yqfmq11yBeibacqvl4Y4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Reigns](https://open.spotify.com/album/3TCa2b0OgMFEzCpdVCSB30) | 4:54 | 2021-12-01 | 2022-09-15 |
 | [Low](https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:34 | 2021-12-01 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-12-01 |  |
 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 | 2021-12-01 |  |

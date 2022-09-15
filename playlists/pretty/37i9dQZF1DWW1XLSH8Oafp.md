@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring FOURA
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,199 likes - 104 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,383 likes - 104 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glimmer](https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [Glimmer](https://open.spotify.com/album/4UQ7SYtwVP2TzxBbqHKfNz) | 3:16 |
-| 2 | [Overgrown](https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Overgrown](https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH) | 2:41 |
-| 3 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
-| 4 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 |
-| 5 | [shooting star](https://open.spotify.com/track/6cutZu2pvxF6yTfB9zhuV6) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [shooting star](https://open.spotify.com/album/3hIW6mxTBNcuejh80gkqhI) | 2:18 |
-| 6 | [Weak](https://open.spotify.com/track/2hJAVkkm2UwySsRZby1Xty) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [VTX](https://open.spotify.com/artist/6SO3KNeQE0kGCNmOLoVHfa) | [Weak](https://open.spotify.com/album/1Wa9fkUx7U6z7Qd8yjLjbO) | 3:05 |
-| 7 | [v0013](https://open.spotify.com/track/46guwiCD3lXaB3cjSfRnwy) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [v0013](https://open.spotify.com/album/310MLqcIAqRpbgKUKukR16) | 2:27 |
-| 8 | [Hold Me \(XD Project\)](https://open.spotify.com/track/2By1PZnlxBEktGvqFLelVA) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [Hold Me \(XD Project\)](https://open.spotify.com/album/1KI6eD1UV2VgvqveEP1Y1I) | 3:05 |
-| 9 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 |
-| 10 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
+| 2 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 |
+| 3 | [shooting star](https://open.spotify.com/track/6cutZu2pvxF6yTfB9zhuV6) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [shooting star](https://open.spotify.com/album/3hIW6mxTBNcuejh80gkqhI) | 2:18 |
+| 4 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 |
+| 5 | [Weak](https://open.spotify.com/track/2hJAVkkm2UwySsRZby1Xty) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [VTX](https://open.spotify.com/artist/6SO3KNeQE0kGCNmOLoVHfa) | [Weak](https://open.spotify.com/album/1Wa9fkUx7U6z7Qd8yjLjbO) | 3:05 |
+| 6 | [v0013](https://open.spotify.com/track/46guwiCD3lXaB3cjSfRnwy) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [v0013](https://open.spotify.com/album/310MLqcIAqRpbgKUKukR16) | 2:27 |
+| 7 | [Hold Me \(XD Project\)](https://open.spotify.com/track/2By1PZnlxBEktGvqFLelVA) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [Hold Me \(XD Project\)](https://open.spotify.com/album/1KI6eD1UV2VgvqveEP1Y1I) | 3:05 |
+| 8 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 |
+| 9 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
+| 10 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 11 | [54321](https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [54321](https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z) | 2:20 |
 | 12 | [Hold On](https://open.spotify.com/track/7lfzzDkPkf4gkMkyZUbDnw) | [Lwny](https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz) | [Hold On](https://open.spotify.com/album/6FYQHkZTk1loxJmcTAynGh) | 2:30 |
 | 13 | [Came To Dance](https://open.spotify.com/track/0m7RwgD5mopezt4VLChKwp) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Came To Dance](https://open.spotify.com/album/0HeViqxuG0AAE3fi04mdtd) | 3:18 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 103 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 | 104 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDBiNzQyYjUxMTg5NTI0MzQ1YzEyMDQ0YWNhODE5M2Qx`
+Snapshot ID: `MTY2MzE5MTgzOSwwMDAwMDAwMDM3M2MwNTBkNzRlY2YyZjUxNWUzYmFjNzA5NzE0Mzg5`

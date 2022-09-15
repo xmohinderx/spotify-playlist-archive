@@ -4,7 +4,7 @@
 
 > Happy Pop\-Rock Tunes to start your day.
 
-181 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/3j9mauw5Zu7ivIgvltle7G)
+183 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/3j9mauw5Zu7ivIgvltle7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2022-07-26 |  |
 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2022-06-07 |  |
 | [Addict Of Magic](https://open.spotify.com/track/0deLQzMIEw6l3pWOWz4MkF) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Life In Colour](https://open.spotify.com/album/1Dc33cpw61mL5meR1Vjz6H) | 2:46 | 2022-06-07 | 2022-07-07 |
+| [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-13 |  |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-06-09 |  |
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-08-11 | 2022-09-05 |
 | [Alone with You](https://open.spotify.com/track/68A8M94uf0m5bM5sxf3Tn8) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/1enXA6aO8SpkOjkSEsTyeP) | 3:06 | 2022-06-09 | 2022-07-29 |
@@ -51,7 +52,7 @@
 | [Cool Off](https://open.spotify.com/track/02960DDajvR1bOKZ1VLPC6) | [Session Road](https://open.spotify.com/artist/1J9AYwtdzwZiVW1mGkQpp6) | [Suntok Sa Buwan](https://open.spotify.com/album/5xw1m8kLwFiv65OHsuIOG5) | 3:41 | 2022-06-09 | 2022-06-22 |
 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2022-07-26 |  |
 | [Days I Will Remember](https://open.spotify.com/track/01MVOl9KtVTNfFiBU9I7dc) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Days I Will Remember](https://open.spotify.com/album/7sGGGUDd6LjNoYOvVFiqj2) | 3:34 | 2022-06-09 | 2022-07-23 |
-| [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-19 |  |
+| [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-19 | 2022-09-15 |
 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 | 2022-06-07 | 2022-07-28 |
 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 | 2022-07-26 |  |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2022-07-26 |  |
@@ -70,7 +71,7 @@
 | [Half\-Life](https://open.spotify.com/track/4SwcSQIRh7M1dmzyYgCAHs) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Daylight](https://open.spotify.com/album/48uCT6hN46rbN5aWjurC62) | 3:53 | 2022-07-05 | 2022-07-21 |
 | [Heaven Knows](https://open.spotify.com/track/0qJGlogD7AyMLAJfQ42aI2) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [Bookmarks](https://open.spotify.com/album/4jp3FXjLRy8upwcvWZJAh0) | 3:30 | 2022-06-09 | 2022-07-15 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2022-08-16 |  |
-| [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2022-08-08 |  |
+| [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2022-08-08 | 2022-09-15 |
 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2022-07-05 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2022-07-26 |  |
 | [Home](https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 4:15 | 2022-06-23 | 2022-07-16 |
@@ -117,9 +118,10 @@
 | [Migraine](https://open.spotify.com/track/7sW3f7PqDV7BQ7qqeVBJIA) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [Todo Combo](https://open.spotify.com/album/0rw3b1VJPAMs9zq4ncP43K) | 4:27 | 2022-06-07 | 2022-07-29 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2022-06-07 | 2022-06-29 |
 | [Monsters](https://open.spotify.com/track/57Wjcff1bw8TueYvFip4NN) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Katie Sky](https://open.spotify.com/artist/31bkgXHo67awewnmvrdsah) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:45 | 2022-06-09 | 2022-07-04 |
+| [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2022-09-13 |  |
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2022-07-26 |  |
 | [Never Stop \(Wedding Version\)](https://open.spotify.com/track/5himtcBG5IetEOAYuB1Lu1) | [SafetySuit](https://open.spotify.com/artist/3V8Gdws52TzoL8WLZHvpzc) | [Hallelujah](https://open.spotify.com/album/28l2IL6lI2laBa1301E0lk) | 2:55 | 2022-06-09 | 2022-07-27 |
-| [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-26 |  |
+| [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-26 | 2022-09-15 |
 | [No Matter Where You Are](https://open.spotify.com/track/2XW4AAjfBQTzp7Oe1tU702) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [No Matter Where You Are](https://open.spotify.com/album/1hwhGQoccUo1mO5TPRxE0D) | 2:58 | 2022-06-09 | 2022-07-26 |
 | [No Ordinary Love](https://open.spotify.com/track/0qKKE7sLRt9jqG0b04w7Es) | [Jennifer Love Hewitt](https://open.spotify.com/artist/2BZDbnjUHnL2XAPgkdqTpb) | [Jennifer Love Hewitt](https://open.spotify.com/album/1HtyaQKUJOkG8RlHgZyuxT) | 4:05 | 2022-06-23 | 2022-07-27 |
 | [On Your Way Home](https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 2:45 | 2022-06-07 | 2022-07-26 |

@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28"
+      },
+      "artists": [
+        {
+          "name": "Fox Beach",
+          "url": "https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis"
+    },
+    {
+      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl"
       },

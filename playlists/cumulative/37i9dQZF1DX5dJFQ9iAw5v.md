@@ -4,11 +4,11 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-78 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
+79 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [5 de Septiembre](https://open.spotify.com/track/2TogT1P31C2hR1KXMaL1c7) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Richard Nant](https://open.spotify.com/artist/2TbC35HAukvJvVhhEhYXXH), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Sergio Verdinelli](https://open.spotify.com/artist/4ujhVf7VBbCNR8HaOnmg8x), [Martín Pantyrer](https://open.spotify.com/artist/756n9N9pvvZAhqG43CuweV) | [Son Dos](https://open.spotify.com/album/6uYzP5FXn8wfcDCv8HVASB) | 5:19 | 2022-08-12 |  |
+| [5 de Septiembre](https://open.spotify.com/track/2TogT1P31C2hR1KXMaL1c7) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Richard Nant](https://open.spotify.com/artist/2TbC35HAukvJvVhhEhYXXH), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Sergio Verdinelli](https://open.spotify.com/artist/4ujhVf7VBbCNR8HaOnmg8x), [Martín Pantyrer](https://open.spotify.com/artist/756n9N9pvvZAhqG43CuweV) | [Son Dos](https://open.spotify.com/album/6uYzP5FXn8wfcDCv8HVASB) | 5:19 | 2022-08-12 | 2022-09-15 |
 | [9 de Copas](https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU), [Carto Brandán](https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB) | [9 de Copas](https://open.spotify.com/album/6s057GCrLIIKLJJIVp6Has) | 3:52 | 2022-08-12 |  |
 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 | 2022-08-12 |  |
 | [A Night in Tunisia](https://open.spotify.com/track/3MPjfDEQhRcG17M3MKqWfe) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7) | [Vo!!](https://open.spotify.com/album/5q1uIVIcEdu1ZoxMvCUxs4) | 5:53 | 2022-08-12 |  |
@@ -55,6 +55,7 @@
 | [Latin Bebop](https://open.spotify.com/track/72uwqT49RJQLP8FaQFrV8Z) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 2:55 | 2022-08-12 |  |
 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 | 2022-08-12 |  |
 | [Luna](https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Umbral de Mí](https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR) | 4:56 | 2022-08-12 | 2022-09-10 |
+| [Luna en Nueva York](https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Piano Tuerto](https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8) | 5:26 | 2022-09-09 |  |
 | [Lunfardo](https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Piazzolla Plays Piazzolla](https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv) | 6:22 | 2022-08-12 |  |
 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 | 2022-08-12 |  |
 | [No Fear](https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 5:01 | 2022-08-12 |  |

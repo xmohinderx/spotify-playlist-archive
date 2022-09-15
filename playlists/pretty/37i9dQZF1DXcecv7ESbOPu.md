@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,480 likes - 112 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,465 likes - 112 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 4 | [Less I Know](https://open.spotify.com/track/1piIGIhnGRiXQ360hhh8Mr) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:46 |
 | 5 | [Lucky \(feat\. Noa Kirel\)](https://open.spotify.com/track/1JMDsOUPflzsNN62KEBaH9) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Lucky \(feat\. Noa Kirel\)](https://open.spotify.com/album/4xjq8iP9OYWK7g6JhIMv2v) | 2:22 |
 | 6 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 |
-| 7 | [Vamos](https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:41 |
+| 7 | [Vamos](https://open.spotify.com/track/6N3q7NSmlxB7TNJkyzfYcb) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN) | 2:41 |
 | 8 | [MER & MER](https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MER & MER](https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK) | 2:23 |
 | 9 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 |
 | 10 | [Sommarn har ett grepp om min hals](https://open.spotify.com/track/1R58taua1aMn6kp93xhAwS) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Sommarn har ett grepp om min hals](https://open.spotify.com/album/5vbFWEV93qA9YEosCgHZt5) | 3:46 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 26 | [Take ova](https://open.spotify.com/track/4OgHnCxOsksOOAdAinc5An) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [Wlak](https://open.spotify.com/album/4AZYDRYX7q4VMSRRBAHgpS) | 2:39 |
 | 27 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 |
 | 28 | [More Thoughts \(2019\)](https://open.spotify.com/track/5NFEYDjRq8kmPVQiUdixBp) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit](https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj) | 2:36 |
-| 29 | [Happy Meal \(feat\. Kristen Hanby & Junery\)](https://open.spotify.com/track/4FEQcvdLGsReoeGxdPH15m) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Jinx The Soundsmith](https://open.spotify.com/artist/6efRF67EwgiiJk57cu5KPR), [Kristen Hanby](https://open.spotify.com/artist/4To81dMJBCcMLtUbdWBarf), [Junery](https://open.spotify.com/artist/672zbD8YWcqx05zr8ESkTe) | [Happy Meal \(feat\. Kristen Hanby & Junery\)](https://open.spotify.com/album/7wYzUK0tGCjSsmqB8iRSOM) | 3:20 |
+| 29 | [Happy Meal \(feat\. Kristen Hanby & Junery\)](https://open.spotify.com/track/4FEQcvdLGsReoeGxdPH15m) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Kristen Hanby](https://open.spotify.com/artist/4To81dMJBCcMLtUbdWBarf), [Junery](https://open.spotify.com/artist/672zbD8YWcqx05zr8ESkTe), [Jinx The Soundsmith](https://open.spotify.com/artist/6efRF67EwgiiJk57cu5KPR) | [Happy Meal \(feat\. Kristen Hanby & Junery\)](https://open.spotify.com/album/7wYzUK0tGCjSsmqB8iRSOM) | 3:20 |
 | 30 | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu) | 3:16 |
 | 31 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 |
 | 32 | [Kill For Your Love](https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Kill For Your Love](https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ) | 3:12 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 89 | [Reckoning](https://open.spotify.com/track/7p8SN7N8lfbifrnp4aptT7) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Disconnect](https://open.spotify.com/album/3DNJenCyxQLrKMBskAFtSN) | 3:57 |
 | 90 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
 | 91 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 |
-| 92 | [I want the moon...](https://open.spotify.com/track/3tZCJW5fEIfJ2NG9fz6Rwv) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [I want the moon...](https://open.spotify.com/album/6I8skWxlmma3n2oi4EG8i9) | 2:12 |
+| 92 | [I watch the moon...](https://open.spotify.com/track/3tZCJW5fEIfJ2NG9fz6Rwv) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [I watch the moon...](https://open.spotify.com/album/6I8skWxlmma3n2oi4EG8i9) | 2:12 |
 | 93 | [Take Control](https://open.spotify.com/track/7AdP5tJwf8BkZGpbx1bxtQ) | [Eltee](https://open.spotify.com/artist/6CTdeQLRFhYstXpdUmzyKE), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Noopsta](https://open.spotify.com/artist/3QEFA7A50kwhoYR9Bgjrrm) | [Take Control](https://open.spotify.com/album/1IopCzYYnH6vBFFr8bVi2N) | 3:09 |
 | 94 | [2 Mins of Pain](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [2 Mins of Pain](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 |
 | 95 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 111 | [Shout](https://open.spotify.com/track/4Me1Xioh0IBmRFn7MWSAic) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Shout](https://open.spotify.com/album/0SOKYPierVkzHcQvcuNR1X) | 5:04 |
 | 112 | [Ego](https://open.spotify.com/track/0KCdQAhm9tOT32BZCsHG1D) | [Danzbanderz](https://open.spotify.com/artist/4lRlXewrnT2Q32BvbfvyAn) | [Ego](https://open.spotify.com/album/3x9foVik7qgpMwjQKxA3Ud) | 2:48 |
 
-Snapshot ID: `MTY2MjcwODQwOSwwMDAwMDAwMGYxZjI4ZDIyZTcwNzQxMzgwOTE1Y2U3ODZkNGUyNjU5`
+Snapshot ID: `MTY2MjcwODQwOSwwMDAwMDAwMGFhMDBiN2EzOGZmMjQxODYwMmE4YmVhMTI2MzFkY2Jk`

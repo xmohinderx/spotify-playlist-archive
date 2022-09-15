@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 119683,
+  "num_followers": 119803,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDFiODUyOGFhOWU5NDI0MTIyMjU0NmE3MTRkNDI3YzE4",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGU1ZjJhZGRiOWQ2NGUxYmQ0OWE2NjBjNTkwNzY3OTlm",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Banshee",
-        "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
-      },
-      "artists": [
-        {
-          "name": "The Cave Singers",
-          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
-        }
-      ],
-      "duration_ms": 253316,
-      "name": "That's Why",
-      "url": "https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 418146,
       "name": "Kingfisher",
       "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Banshee",
+        "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
+      },
+      "artists": [
+        {
+          "name": "The Cave Singers",
+          "url": "https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP"
+        }
+      ],
+      "duration_ms": 253316,
+      "name": "That's Why",
+      "url": "https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "& I'm Fine Today",
+        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 218964,
+      "name": "Far out Feeling",
+      "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Strange to Explain",
         "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 351725,
       "name": "Where Do You Go When You Dream",
       "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Caught It from the Rye",
+        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Real You",
+      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -779,22 +811,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "& I'm Fine Today",
-        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 218964,
-      "name": "Far out Feeling",
-      "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Pearls to Swine",
         "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 360946,
       "name": "Juniper Arms",
       "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Caught It from the Rye",
-        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Real You",
-      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 140164,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Existential Beast",
-        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lee Richards",
-          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "Golden Gate",
-      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 203319,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Existential Beast",
+        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lee Richards",
+          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "Golden Gate",
+      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
     },
     {
       "added_at": "2022-07-22 04:00:00",

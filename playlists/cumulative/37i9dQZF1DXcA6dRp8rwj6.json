@@ -764,6 +764,24 @@
     },
     {
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "album": {
         "name": "All Out Savage",
         "url": "https://open.spotify.com/album/1ATaXuSvQQ7YHoyevJX2e2"
       },
@@ -1145,24 +1163,6 @@
       "duration_ms": 187500,
       "name": "As you are",
       "url": "https://open.spotify.com/track/4h6WxofpPYdffSul9zgh5I"
-    },
-    {
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "date_added": "2022-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183349,
-      "name": "Ashawo",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "album": {
@@ -2779,6 +2779,24 @@
       "duration_ms": 170373,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
+    },
+    {
+      "album": {
+        "name": "CHIGAI WAKARU",
+        "url": "https://open.spotify.com/album/2KD5rXG0BJIbresPorEq5P"
+      },
+      "artists": [
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145028,
+      "name": "CHIGAI WAKARU",
+      "url": "https://open.spotify.com/track/1mUFdUmkFslqbvRJ3DUxLG"
     },
     {
       "album": {
@@ -8729,6 +8747,24 @@
       "duration_ms": 235651,
       "name": "Night Scenes",
       "url": "https://open.spotify.com/track/0L69WWJy5ntvBopLzAUkw1"
+    },
+    {
+      "album": {
+        "name": "NIKE DRIP",
+        "url": "https://open.spotify.com/album/17uYQm4gLmpiuwAa3rkyaz"
+      },
+      "artists": [
+        {
+          "name": "Taiyoh",
+          "url": "https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120077,
+      "name": "NIKE DRIP",
+      "url": "https://open.spotify.com/track/1HVxpIsL3bvJ7p47VLW62x"
     },
     {
       "album": {

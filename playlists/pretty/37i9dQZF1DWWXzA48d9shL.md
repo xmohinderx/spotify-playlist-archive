@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,067 likes - 87 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,992 likes - 87 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 62 | [A Lot](https://open.spotify.com/track/461qq5XnmwjXTt1sBgI4lX) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7), [FTG Reggie](https://open.spotify.com/artist/10ga9ZMdxwRb1zML85jUiM) | [A Lot](https://open.spotify.com/album/2AdoLUPHICCss37Ip7OUOl) | 2:21 |
 | 63 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 |
 | 64 | [FAKE](https://open.spotify.com/track/3hmu0jyxSShogL95NOZcLS) | [OMINVS](https://open.spotify.com/artist/3Bq0nZu9BVpiZ1jTjTqZQd) | [FAKE](https://open.spotify.com/album/6gIhwhg2qlvjWZjaYVaQjb) | 1:28 |
-| 65 | [WITHOUT A TRACE](https://open.spotify.com/track/5dVkNuhvfRmNas8DMNRNHx) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [WITHOUT A TRACE](https://open.spotify.com/album/0dl89Qv7scjjhnCMJa8Eek) | 2:54 |
+| 65 | [Without a Trace](https://open.spotify.com/track/57Lu3WurvyA1touYLCR43E) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [Without a Trace](https://open.spotify.com/album/1jue80McJ5QKVH8G3GRe9G) | 2:54 |
 | 66 | [Take The Field](https://open.spotify.com/track/2xBB1fbYBqfgPKwltPVibk) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Take The Field](https://open.spotify.com/album/7vs4TmMF36b9Qxj1BLIuQ8) | 2:16 |
 | 67 | [Jekyll & Hyde](https://open.spotify.com/track/7DylVsrjhxN8sdlUcWbJMk) | [Kiing Loki](https://open.spotify.com/artist/27PvM4IkuVoTlz5uSQtYgD), [unknwnshi](https://open.spotify.com/artist/6WFULoKZ38376gTjf6KpHw) | [Jekyll & Hyde](https://open.spotify.com/album/5iCk6JXpLWMKygsqQqE2Nm) | 1:50 |
 | 68 | [HOBGOBLIN](https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [HOBGOBLIN](https://open.spotify.com/album/3BlOHRQuFEG7sOUQtT6EBp) | 3:26 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 86 | [Metal](https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR) | [Oh Gasm!](https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s) | [Metal](https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r) | 1:51 |
 | 87 | [Trumpets](https://open.spotify.com/track/18wVzwlJ2zkBxzwV6SKNQs) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Trumpets](https://open.spotify.com/album/2911GWsISHeF45SK8iy3NY) | 1:34 |
 
-Snapshot ID: `MTY2MjUwMzE3OSwwMDAwMDAwMGI4YWVlOWM2N2VlY2QyNTkxOGEyODNjZTYzZmNjYWEz`
+Snapshot ID: `MTY2MjUwMzE3OSwwMDAwMDAwMGM5MDdkYWRhMzI5YzljYzU1YzE5YjJkOGRjNzg1ZGYw`

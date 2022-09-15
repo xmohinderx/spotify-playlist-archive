@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-406 songs - 1 day 14 hr 13 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+407 songs - 1 day 14 hr 18 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,8 @@
 | [The Unquestioned Answer](https://open.spotify.com/track/5ftgOffbWhT3hYtQXNEPou) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/2rD0SKiBImTKNhRtRVLsdU) | 6:30 | 2021-10-06 | 2022-07-06 |
 | [The Workers of Art \- Kelly Moran Remix](https://open.spotify.com/track/1L8aZywj8asBihyFaIVf0O) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [To Believe \(Remixes\)](https://open.spotify.com/album/1EdoFABv3U8Eu6JTi6LU4k) | 4:44 | 2021-10-06 | 2022-07-27 |
 | [there is always a girl with a secret](https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [there is always a girl with a secret](https://open.spotify.com/album/1xXoNG6wkUV81RckbFa56s) | 5:16 | 2021-10-06 | 2022-05-30 |
-| [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 | 2022-08-03 |  |
+| [There Were Bells](https://open.spotify.com/track/0VhnR0c86utK10IZBahEo1) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 4:52 | 2022-08-03 |  |
+| [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 | 2022-08-03 | 2022-09-15 |
 | [Those Behind Us That We Follow](https://open.spotify.com/track/3NCHH5iOCVoHwJ5JuMEmjb) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Manes](https://open.spotify.com/album/1Sz78fkGkOhgspkhYMwdeC) | 5:03 | 2021-10-06 | 2022-07-29 |
 | [Ti prego amami](https://open.spotify.com/track/3quAeZreOIpIPa9rJZhtB9) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Metti una sera a cena \(Gold Tracks\)](https://open.spotify.com/album/1zUPzH4VyC0Lwt3TvhYYZc) | 2:20 | 2021-10-06 | 2022-04-10 |
 | [Timeless](https://open.spotify.com/track/2N2SrDqaD0Kf4k2ITxieMQ) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/3zrFls5MpfT6VOquQmuXaW) | 11:57 | 2021-10-06 | 2022-04-21 |

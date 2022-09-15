@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 307927,
+  "num_followers": 308130,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDRhMDllNzA3NDE3ZjM3NzIxNTAwOGU5YzhjNTlhODdm",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDdmMmEzOTcxMzY3MDE2ZThkYmYwOGI4NTU1NjBlY2Qx",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -481,38 +481,6 @@
       "url": "https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ"
     },
     {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
-      },
-      "artists": [
-        {
-          "name": "Big Bub",
-          "url": "https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4"
-        }
-      ],
-      "duration_ms": 355800,
-      "name": "Zoom",
-      "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Ventriloquism",
-        "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 277985,
-      "name": "Don't Disturb This Groove",
-      "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
-    },
-    {
       "added_at": "2022-07-22 14:40:52",
       "album": {
         "name": "It Never Rains (In SoCal)",
@@ -531,6 +499,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
+      },
+      "artists": [
+        {
+          "name": "Big Bub",
+          "url": "https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4"
+        }
+      ],
+      "duration_ms": 355800,
+      "name": "Zoom",
+      "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 281559,
       "name": "What's Going On - Live At Spotify, NY/2012",
       "url": "https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Ventriloquism",
+        "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 277985,
+      "name": "Don't Disturb This Groove",
+      "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
     },
     {
       "added_at": "2021-01-15 05:01:00",

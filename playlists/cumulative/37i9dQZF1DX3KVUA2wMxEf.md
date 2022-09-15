@@ -4,7 +4,7 @@
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-74 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/20tmJ1BJdJTTUlBOfl3Mrz)
+75 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/20tmJ1BJdJTTUlBOfl3Mrz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Eres Tú](https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj) | [Raices y Cultura](https://open.spotify.com/artist/1atI7YjIWe7u50rp2CbkCd) | [Mística Raíz](https://open.spotify.com/album/4JStVeGijMSujCyhPs2vAb) | 3:35 | 2021-12-14 |  |
 | [Felicidad](https://open.spotify.com/track/34Uygh7OsoZdlzzDbHgjgb) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 5:40 | 2022-02-22 |  |
 | [Felicidad](https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:41 | 2021-12-14 | 2022-07-29 |
-| [Galán de Combi](https://open.spotify.com/track/5P4lcG0eOEJPzhRrw0DTV9) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/5XoCdtGEA58FQkQrKZvvWg) | 3:54 | 2021-12-14 |  |
+| [Galán de Combi](https://open.spotify.com/track/1tPs3eSeVINVi3CoQf3biD) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/3VgzoPLs5aIr6Xk4K1IYOD) | 3:54 | 2022-02-22 |  |
+| [Galán de Combi](https://open.spotify.com/track/5P4lcG0eOEJPzhRrw0DTV9) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Atento](https://open.spotify.com/album/5XoCdtGEA58FQkQrKZvvWg) | 3:54 | 2021-12-14 | 2022-09-15 |
 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 | 2021-12-14 |  |
 | [Ilegal](https://open.spotify.com/track/6chMn4cXB2AkcDMjcsVixg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/2KRlM32gIN0saKVJdQfCtr) | 5:05 | 2021-12-14 | 2022-07-29 |
 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2022-02-22 |  |

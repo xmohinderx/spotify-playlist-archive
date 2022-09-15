@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 317834,
       "name": "Algae and Fungi part 2",
       "url": "https://open.spotify.com/track/0qveDw5Qx1zn1StsX81HvJ"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 304586,
       "name": "Antennaria",
       "url": "https://open.spotify.com/track/5ypp9xJW7yp3f2yC10gHEh"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 107133,
       "name": "As the Sun Kissed the Horizon",
       "url": "https://open.spotify.com/track/7k1SYL49hsMcFgIPsG0FmO"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 179659,
       "name": "Daddylonglegs - Remastered",
       "url": "https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 296440,
       "name": "Fujiko",
       "url": "https://open.spotify.com/track/1dLZYbQ5yr9PETbjG1e24h"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 422932,
       "name": "Gravity Assist",
       "url": "https://open.spotify.com/track/5LadeNyOAJoxnHGriRc4il"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 211052,
       "name": "Green Reflections",
       "url": "https://open.spotify.com/track/2IydONo9wzrZ7aQLQVzHf9"
@@ -777,10 +777,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 296092,
       "name": "Heat Leak",
       "url": "https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj"
+    },
+    {
+      "album": {
+        "name": "The Hilvarenbeek Recordings",
+        "url": "https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312727,
+      "name": "Hilsondis",
+      "url": "https://open.spotify.com/track/0UvJBrmxR8w99nLN6RCxvo"
     },
     {
       "album": {
@@ -831,7 +849,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "In the Ballroom",
       "url": "https://open.spotify.com/track/1GPzqVAsIXsJfFZ2lUfn7U"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 558013,
       "name": "Meltwater",
       "url": "https://open.spotify.com/track/2PzavCFlTr6ord6gRuDmT3"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 103096,
       "name": "Mestigoth",
       "url": "https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 205432,
       "name": "Talking to Some Imaginary Person",
       "url": "https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 511948,
       "name": "The Third Planet",
       "url": "https://open.spotify.com/track/13TUfTLlhSNXFtqtcYiJCY"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"

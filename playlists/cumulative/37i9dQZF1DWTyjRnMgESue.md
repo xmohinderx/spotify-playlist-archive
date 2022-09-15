@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Nicolle Galyon
 
-333 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+334 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,10 +151,11 @@
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 |  |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-11-19 |  |
 | [Hush Little Baby](https://open.spotify.com/track/1sFNKEPNYHzkTO63cQgGdv) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Hush Little Baby](https://open.spotify.com/album/1NGIXygorffIaEpPpFwpgm) | 3:19 | 2022-02-21 | 2022-04-17 |
-| [Hymn for Her](https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 3:18 | 2022-07-15 | 2022-09-12 |
+| [Hymn for Her](https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 3:18 | 2022-07-15 |  |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-11-19 | 2022-07-29 |
 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 | 2021-11-19 |  |
-| [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-22 |  |
+| [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-22 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/7HCk1IxbjrRcQEAiMxAAFl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:15 | 2022-08-12 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-11-19 | 2022-06-09 |
 | [I Hope You Change Your Mind](https://open.spotify.com/track/0ZBLyBuUpOqMlLuRSgcnFh) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/6cgwjBET2eGuuATztT790Q) | 2:52 | 2022-07-15 |  |
 | [I Hope You Change Your Mind](https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/5wnyz8qup6D4XuVysaiz8S) | 2:52 | 2021-11-26 | 2022-07-29 |
@@ -284,7 +285,7 @@
 | [Talk About That](https://open.spotify.com/track/0d8wVdbQXx9pVEeCsSpscw) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Talk About That](https://open.spotify.com/album/74m9khVWXHV0zdZpZjlx6t) | 3:33 | 2021-11-19 | 2022-02-22 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-07-25 |
 | [Texas Girl](https://open.spotify.com/track/33ADzejAdZCu13hAcnzkIC) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Texas Girl](https://open.spotify.com/album/1CCH7mhb1jy84jMV6Y4xMp) | 2:52 | 2022-03-25 |  |
-| [Thank You For Nothing \- A COLORS SHOW](https://open.spotify.com/track/2sgmsBadS8QbCeiYJwT21b) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Thank You For Nothing \- A COLORS SHOW](https://open.spotify.com/album/7EWPJuHOVzNYqM8Z0N1Ro8) | 3:22 | 2022-07-15 |  |
+| [Thank You For Nothing \- A COLORS SHOW](https://open.spotify.com/track/2sgmsBadS8QbCeiYJwT21b) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Thank You For Nothing \- A COLORS SHOW](https://open.spotify.com/album/7EWPJuHOVzNYqM8Z0N1Ro8) | 3:22 | 2022-07-15 | 2022-09-15 |
 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 | 2022-06-17 | 2022-07-09 |
 | [The Act](https://open.spotify.com/track/5iWQKj4s6KRM5kZLzyGYqd) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM) | [The Act](https://open.spotify.com/album/2sSkbvNhFmuFQl1vmna9pG) | 3:38 | 2022-03-25 | 2022-07-14 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:220xv2aB3dsGxaJI1gGs7l">Hotboii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,677,497 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,678,274 likes - 99 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 44 | [The Source](https://open.spotify.com/track/2wHD7sPxQgMS8S5dEQHu7c) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx), [Ricky Felix](https://open.spotify.com/artist/2SmC9XkFSqrH0sAn9F9E19), [FELIX](https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs) | [DSM](https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol) | 3:30 |
 | 45 | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/album/5MTkjTQASZLLnrAze7GC90) | 3:16 |
 | 46 | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/track/3QrNVAhmulzykPkJmn5Zo7) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/album/3bFPyM5Wq67BowbEwBfIwp) | 2:52 |
-| 47 | [Rose Gold](https://open.spotify.com/track/4Ofru8kVe0zKxqgPm9kiz6) | [Yung Lano](https://open.spotify.com/artist/6jw19hyVfgwhycR82NxzFm), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Rose Gold](https://open.spotify.com/album/1aW3XKr7BIeXDkV9hXSV0x) | 3:26 |
+| 47 | [Rose Gold](https://open.spotify.com/track/4Ofru8kVe0zKxqgPm9kiz6) | [Yung Lano](https://open.spotify.com/artist/6jw19hyVfgwhycR82NxzFm), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Rose Gold](https://open.spotify.com/album/1aW3XKr7BIeXDkV9hXSV0x) | 3:12 |
 | 48 | [Goofies](https://open.spotify.com/track/3FezjYem6xSGZebgNwifku) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Goofies](https://open.spotify.com/album/3sLilviTzQ2IccVFEHIOog) | 2:49 |
 | 49 | [Who You Touch](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
 | 50 | [India Me](https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [India Me](https://open.spotify.com/album/1vPxv5pAUpEJORNnjwogar) | 3:03 |

@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Kamal Haasan
 
-69 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+70 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |
 | [Mangalyam](https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Eeswaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf) | 4:20 | 2021-11-15 |  |
 | [Master the Blaster \(From "Master"\)](https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Bjorn Surrao](https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu) | [Master the Blaster \(From "Master"\)](https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL) | 1:32 | 2021-11-15 |  |
+| [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/30uPDcAcvwpfMV36F2BE2X) | 2:22 | 2022-09-13 |  |
 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-07-27 |  |
 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 |  |
 | [Meherezylaa](https://open.spotify.com/track/2HPVvTJ5BZGLOXTyrPH3wy) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 4:19 | 2021-11-27 | 2022-08-04 |

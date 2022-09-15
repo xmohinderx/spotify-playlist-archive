@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Fleuriste",
+        "url": "https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223888,
+      "name": "Fleuriste",
+      "url": "https://open.spotify.com/track/5vX23o6aI02aIT5EiB4WSV"
+    },
+    {
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq"
       },

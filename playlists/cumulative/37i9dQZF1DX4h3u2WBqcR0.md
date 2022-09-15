@@ -4,7 +4,7 @@
 
 > Discover the 2022 Best Original Score nominations alongside Oscar\-winning soundtracks from the past 80 years.
 
-67 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3KijMwC9mkEPSY5VXnu8uA)
+68 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3KijMwC9mkEPSY5VXnu8uA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Colonel Bogey \- From Bridge Over the River Kwai](https://open.spotify.com/track/2PiDe13qJZu2mIF67HNXiG) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Academy Award Themes](https://open.spotify.com/album/3NUDYyHSXlmD7GOxmlz8Af) | 2:16 | 2022-02-17 |  |
 | [Crouching Tiger, Hidden Dragon \(The Eternal Vow\)](https://open.spotify.com/track/7xb5wZgtfvpInIFVZgMbtz) | [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Hollywood Spectacular! Silver Screen Super Hits](https://open.spotify.com/album/2G2yhujaMxT3FHLbcDrDCt) | 5:58 | 2022-02-17 |  |
 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 | 2022-02-17 |  |
-| [E.T.: Flying Theme](https://open.spotify.com/track/3kc4Em0sUhRf4uqnKA6i6L) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Work From Home With John Williams](https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8) | 3:45 | 2022-02-17 |  |
+| [E.T.: Flying Theme](https://open.spotify.com/track/3kc4Em0sUhRf4uqnKA6i6L) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Work From Home With John Williams](https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8) | 3:45 | 2022-02-17 | 2022-09-15 |
+| [E.T.: Flying Theme](https://open.spotify.com/track/6ZVDVgsTJmjJQKqH2nwgZL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Innovations](https://open.spotify.com/album/4xaxOfgG41pLLsljxUlq3l) | 3:45 | 2022-02-17 |  |
 | [E.T.: Flying Theme](https://open.spotify.com/track/6e6cR3LYjk1HcwWwpGHRJy) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Movie Soundtracks](https://open.spotify.com/album/0hrFuFzbvw67pvTBzobhjn) | 3:45 | 2022-02-17 | 2022-09-11 |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-02-17 |  |
 | [Fame \- Instrumental Version](https://open.spotify.com/track/4Q0dUYZ5kucgYQN5LZNO96) | [Michael Gore](https://open.spotify.com/artist/1lJoWWtbloeRGJFGei5UZe), [Dean Pitchford](https://open.spotify.com/artist/4lcQ8hgPWSGcYGIxq5NUyS) | [Fame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy) | 5:21 | 2022-02-17 |  |

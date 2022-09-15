@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-194 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+195 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [D4M](https://open.spotify.com/track/4jkP3gAU9o4ZcDDk4JRFdr) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 4:04 | 2021-12-16 | 2022-03-08 |
 | [Damaged Feelings](https://open.spotify.com/track/4qZe0XLKkEuNS1JS3xHKVI) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Damaged Feelings](https://open.spotify.com/album/7ArpHBuiW0jpHrG8tKdIVx) | 3:17 | 2021-12-16 |  |
 | [Damn Son](https://open.spotify.com/track/6EVVPT2x5Ow5bNmoZagZO6) | [Sammy Shiblaq](https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG) | [Damn Son](https://open.spotify.com/album/7toSxaZza0RCvR3c9Tvuhq) | 2:33 | 2021-12-16 |  |
-| [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 | 2021-12-16 |  |
+| [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 | 2021-12-16 | 2022-09-15 |
 | [Deep End](https://open.spotify.com/track/1tBGCQUfN4d7iUJC7xMsJE) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Deep End](https://open.spotify.com/album/3sgMt6ZHu0nANSXV19zdsU) | 3:23 | 2021-12-16 |  |
 | [deeper me](https://open.spotify.com/track/2GjnmIxiLh9wvIpigtek5C) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/70ST2gVUiX0N0wGEld6cxh) | 3:15 | 2022-07-28 |  |
 | [deeper me](https://open.spotify.com/track/5UbiMFkaDzjQeqDDOft4uD) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/5FyVNEJKiwCNiw9xuFIQWC) | 3:15 | 2021-12-16 | 2022-07-29 |
@@ -75,6 +75,7 @@
 | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/track/0RkRvd3bccxgMYVU5PB8C7) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/album/1MqguCDENJ5cTU2Jg2CJaE) | 2:48 | 2021-12-16 |  |
 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 | 2022-06-06 | 2022-06-24 |
 | [Get Low](https://open.spotify.com/track/0rbbxIeycN5WGoYWryIlWx) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Get Low](https://open.spotify.com/album/7phycFGcngvbPErCb97U1M) | 3:34 | 2022-06-06 | 2022-06-24 |
+| [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-09-13 |  |
 | [Gone](https://open.spotify.com/track/0kwtH6NmbB9fsl772LgPL8) | [K.K.](https://open.spotify.com/artist/3PQxqn5ALBERvhCNx8JSPw) | [Gone](https://open.spotify.com/album/1Gc0fo6yZxyna5k1Ozlc6s) | 3:04 | 2021-12-16 | 2022-02-05 |
 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 | 2021-12-16 | 2022-07-18 |
 | [Got That Money](https://open.spotify.com/track/00nsIq2SgXZgTjCfmtKGet) | [DD Foxx](https://open.spotify.com/artist/3DyPuuZcBKl2eJyuU4kUS9) | [Got That Money](https://open.spotify.com/album/2QnEfbGT0qwHzBuRAxCccX) | 2:44 | 2021-12-16 |  |
@@ -172,7 +173,7 @@
 | [Take No L](https://open.spotify.com/track/1f5OXFOv1HUQ8GILVC2bGf) | [SLVY](https://open.spotify.com/artist/2HfsETEFLyGZeNSJ8neNyo) | [Take No L](https://open.spotify.com/album/7uMheZNXFvwlAjcNLfDLds) | 3:30 | 2021-12-16 |  |
 | [Taking me there](https://open.spotify.com/track/1Wfcg2yCd4zIzoStBzRdO2) | [Kenza Blanka](https://open.spotify.com/artist/4xps0WT8z5HjLqO33bbIec) | [Taking me there](https://open.spotify.com/album/5yIllyI3UH5vHi9SzdazIT) | 2:52 | 2021-12-30 |  |
 | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/track/0h6GjlAJrHLL3mhiLiTBK9) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/album/5GLmvO7Q8nbYW6yIjt7cJZ) | 3:40 | 2021-12-16 |  |
-| [The Big Chill](https://open.spotify.com/track/6tL9rtiton1r2DtYlDBsJo) | [Wissam Saliba](https://open.spotify.com/artist/4JsF5yPm0LMwklPWuevclZ), [Roytivation](https://open.spotify.com/artist/6Dvzm58lrSbewSyv3apxuC) | [The Big Chill](https://open.spotify.com/album/1b8kYFz37yZth7uArXBf5u) | 3:21 | 2021-12-16 |  |
+| [The Big Chill](https://open.spotify.com/track/6tL9rtiton1r2DtYlDBsJo) | [Wissam Saliba](https://open.spotify.com/artist/4JsF5yPm0LMwklPWuevclZ), [Roytivation](https://open.spotify.com/artist/6Dvzm58lrSbewSyv3apxuC) | [The Big Chill](https://open.spotify.com/album/1b8kYFz37yZth7uArXBf5u) | 3:21 | 2021-12-16 | 2022-09-15 |
 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2021-12-30 |  |
 | [The First Disciple](https://open.spotify.com/track/1s46uOcZXBWxEeYKO2SDGk) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/7dnuhgQrPlzCVz91koWich) | 6:02 | 2022-07-28 | 2022-09-04 |
 | [The First Disciple](https://open.spotify.com/track/5PlyKTieFInN0dXXGuwi9E) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [You Don't Own Me](https://open.spotify.com/album/1YrfFAtUYvapMLU8620TTj) | 6:02 | 2022-08-25 |  |

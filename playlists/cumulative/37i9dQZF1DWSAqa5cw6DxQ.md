@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-96 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+98 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2022-02-28 |  |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2022-02-28 |  |
 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 | 2022-02-28 |  |
+| [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 | 2022-09-13 |  |
 | [Essential Transformation](https://open.spotify.com/track/13dIRMP00LvvzqhY9OLOSk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Essential Transformation](https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8) | 4:08 | 2022-07-08 |  |
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-02-28 |  |
 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 | 2022-02-28 |  |
@@ -68,6 +69,7 @@
 | [Obion Pulse](https://open.spotify.com/track/0zSRxrBb1PJ9Zlliu5PYtn) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Obion Pulse](https://open.spotify.com/album/0LnDW7jS8XsJ2QwegTlAHo) | 4:44 | 2022-08-15 |  |
 | [On A Bed Of Peace](https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [On A Bed Of Peace](https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02) | 4:41 | 2022-03-29 |  |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2022-02-28 |  |
+| [Path To Self](https://open.spotify.com/track/3o76zTFwwLZ7lx5La5L09O) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Path To Self](https://open.spotify.com/album/1T12sRdIKzoIYJUkbRr6Ag) | 4:44 | 2022-09-13 |  |
 | [Pattern Codes](https://open.spotify.com/track/46gBeZePyObJo4UWxrbRye) | [William Sila](https://open.spotify.com/artist/4bhn3rRPUCCiUXEhgqPnUc) | [Pattern Codes](https://open.spotify.com/album/5Lj8RfNJtk92vlnrG87k0x) | 2:57 | 2022-02-28 |  |
 | [Pendulum Crystal](https://open.spotify.com/track/0GlFrFaJrqGJn8P6tGoqv9) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Pendulum Crystal](https://open.spotify.com/album/7LKUmnVZa95yXRuoX3slla) | 4:25 | 2022-02-28 |  |
 | [Please Help Me With My Pain](https://open.spotify.com/track/0Y3PEZTNJiLJ5wTCPiVGnZ) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Please Help Me With My Pain](https://open.spotify.com/album/15uLD1bQCzzMsXNtAFlwH4) | 3:53 | 2022-02-28 |  |

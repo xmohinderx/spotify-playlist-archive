@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Brisa Star com Mc Pedrinho, Marvvila, ROSALÍA e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775,223 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,775,565 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 65 | [Se Tem Ciúmes Tem Amor](https://open.spotify.com/track/1nOEvdfWuTXpAiyHXaBW5z) | [JM Puxado](https://open.spotify.com/artist/7fU19xnm8yVl18ZA94eiSH) | [Se Tem Ciúmes Tem Amor](https://open.spotify.com/album/6g4lknSR2xk2q7RhIsB8m7) | 2:43 |
 | 66 | [Tiro Certo](https://open.spotify.com/track/4HeTvRtnX4tu9kywhl3s91) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Alex Testado](https://open.spotify.com/artist/14PysQj6A3yowOxINTDUoc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tiro Certo](https://open.spotify.com/album/4ySMDy03yyQ5teDN6XLGHi) | 2:41 |
 | 67 | [Trepa no Baile da Selva](https://open.spotify.com/track/4Q6Lo462FB0WlAFeQ3H3UV) | [MC GN SHEIK](https://open.spotify.com/artist/5ub6PfOMz0BpwKRNmQVcRJ), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [O Mandrake](https://open.spotify.com/artist/73Cp3d77kq6aaSmIG0Cop5) | [Trepa no Baile da Selva](https://open.spotify.com/album/48MvhB4Qh8md3hIsuhP1EA) | 3:17 |
-| 68 | [Não Vai Ter Fim](https://open.spotify.com/track/4kHSYgTzUiEOrxX5R5aVA7) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1](https://open.spotify.com/album/1EuovXUu1ijJrti8jMgPXH) | 3:07 |
+| 68 | [Não Vai Ter Fim](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 |
 | 69 | [Sempre Assim](https://open.spotify.com/track/2lPCsZ81Lruw46ln3Z9U7K) | [Joey Mattos](https://open.spotify.com/artist/1kkIfKwXSjist9LGbqgg7M), [CostaKent](https://open.spotify.com/artist/2J0fKCb5PnAZscvbznaEK3), [Marcos Baroni](https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY) | [Sempre Assim](https://open.spotify.com/album/4u66ddj4dGisschsLyAfrf) | 2:29 |
 | 70 | [Governo Fascista](https://open.spotify.com/track/5bz4OxlZFlfYwyupQjgRDf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Governo Fascista](https://open.spotify.com/album/7kB5aFcZo7i7BUiAe3lW5K) | 3:48 |
 | 71 | [Piña](https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Piña](https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG) | 2:24 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 94 | [Meta de Vida](https://open.spotify.com/track/5U9kHy2Z9kUYKF3ctO1bvO) | [Riketa](https://open.spotify.com/artist/5UIGzgzyF7nG4TByzqq8Ki), [DJ Tawan](https://open.spotify.com/artist/2ydsW9VfcxiyJBwUj1LM5b) | [Meta de Vida](https://open.spotify.com/album/55Aywy99XzASAsrOVkA5MS) | 3:26 |
 | 95 | [Me Lo Dijo Todo](https://open.spotify.com/track/0KU4Sb0bnHSx5AcLLCM3Et) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Me Lo Dijo Todo](https://open.spotify.com/album/6hr95SC9xwAvRkUakrDHi5) | 3:38 |
 
-Snapshot ID: `MTY2Mjc1NjA5NiwwMDAwMDAwMDVmNGQ0YzQ5OTQ3NDhkYTI5M2JiYTVhNWM3OTllMDQ2`
+Snapshot ID: `MTY2Mjc1NjA5NiwwMDAwMDAwMGJjODJmNmU4Mzk5OGE4OWExZDU2ODJlZWUyNDBmMjA3`

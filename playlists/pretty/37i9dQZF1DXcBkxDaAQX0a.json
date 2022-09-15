@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 310111,
+  "num_followers": 310207,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMDY1NjQ2MmZiNzY4MmYzZTJhMDk3YjlkZjRlNTdjNDVi",
+  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMDZjMjQyZmJlNjFiZGJkMmU2MzBmOTUzOTkwOTM0Zjkw",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Lips Like Oxygen Reimagined",
+        "url": "https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX"
+      },
+      "artists": [
+        {
+          "name": "Oh, Weatherly",
+          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
+        }
+      ],
+      "duration_ms": 191938,
+      "name": "You Were The Letdown (Chasing California)",
+      "url": "https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "In Bloom: Versions",
         "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Lips Like Oxygen Reimagined",
-        "url": "https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX"
-      },
-      "artists": [
-        {
-          "name": "Oh, Weatherly",
-          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
-        }
-      ],
-      "duration_ms": 191938,
-      "name": "You Were The Letdown (Chasing California)",
-      "url": "https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Sunnyland",
-        "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 234912,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Transient (acoustic)",
         "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 260209,
       "name": "Transient (acoustic)",
       "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Sunnyland",
+        "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 234912,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Back Together",
-        "url": "https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ"
+        "name": "Dammit (Acoustic)",
+        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
       },
       "artists": [
         {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+          "name": "FigureItOut",
+          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
         }
       ],
-      "duration_ms": 264305,
-      "name": "Back Together",
-      "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
+      "duration_ms": 241714,
+      "name": "Dammit (Acoustic)",
+      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dammit (Acoustic)",
-        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
+        "name": "Back Together",
+        "url": "https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ"
       },
       "artists": [
         {
-          "name": "FigureItOut",
-          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Dammit (Acoustic)",
-      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+      "duration_ms": 264305,
+      "name": "Back Together",
+      "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dear Rose, I'm Haunted",
-        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
-      },
-      "artists": [
-        {
-          "name": "Drawn To The Sky",
-          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
-        }
-      ],
-      "duration_ms": 237631,
-      "name": "Dear Rose, I'm Haunted",
-      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Seattle",
         "url": "https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 206047,
       "name": "Seattle",
       "url": "https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Dear Rose, I'm Haunted",
+        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
+      },
+      "artists": [
+        {
+          "name": "Drawn To The Sky",
+          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
+        }
+      ],
+      "duration_ms": 237631,
+      "name": "Dear Rose, I'm Haunted",
+      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "All Out",
-        "url": "https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm"
-      },
-      "artists": [
-        {
-          "name": "Locket",
-          "url": "https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Hunnie",
-      "url": "https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Letters to Our Former Selves Acoustic E.P.",
         "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 204538,
       "name": "Deadlocked - Acoustic",
       "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "All Out",
+        "url": "https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm"
+      },
+      "artists": [
+        {
+          "name": "Locket",
+          "url": "https://open.spotify.com/artist/7crTC2do2Rk3CXIO9cPJOf"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Hunnie",
+      "url": "https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "The Eulogy of You and Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 191847,
-      "name": "The Eulogy of You and Me - Acoustic",
-      "url": "https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 209801,
       "name": "Wax Poetic (Acoustic)",
       "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "The Eulogy of You and Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 191847,
+      "name": "The Eulogy of You and Me - Acoustic",
+      "url": "https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/3haT6irm5636PSIscDmtWp"
+      },
+      "artists": [
+        {
+          "name": "Hazel",
+          "url": "https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "I'll Be a Mess Without You",
         "url": "https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Limits",
-        "url": "https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 196350,
-      "name": "Limits - Unplugged",
-      "url": "https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Every Little Thing, but More Chill",
         "url": "https://open.spotify.com/album/7tN8iVp8XRBm9hNdropyX3"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/3haT6irm5636PSIscDmtWp"
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5"
       },
       "artists": [
         {
-          "name": "Hazel",
-          "url": "https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX"
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
         }
       ],
-      "duration_ms": 237714,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf"
+      "duration_ms": 196350,
+      "name": "Limits - Unplugged",
+      "url": "https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Violets",
-        "url": "https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Violets",
-      "url": "https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Never Happy, Ever After (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 204666,
       "name": "Dial Tones - Acoustic Version",
       "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Violets",
+        "url": "https://open.spotify.com/album/3WiGIqKj0WaAw5b2RL8UM7"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Violets",
+      "url": "https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im"
     }
   ],
   "unique_name": "Punk Unplugged",

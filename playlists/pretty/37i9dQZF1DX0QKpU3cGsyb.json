@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1615311,
+  "num_followers": 1616438,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDM4NzU3NjViYTUzYTM4ZjU1MTVjYjU3ODQ0MjE2YzQ0",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDBhNDQ3NzQxZTFhMzgwNDUzNmE3ZWIzNjBlZGQ1MWRm",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Drunken Wordz Sober Thoughtz",
-        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
-      },
-      "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 168297,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/155PWUwfoYw5mcQOGdzh1w"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Drunken Wordz Sober Thoughtz",
+        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 168297,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/155PWUwfoYw5mcQOGdzh1w"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Bl\u00fc Moon",
-        "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "Bl\u00fc Moon",
-      "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "FWM",
         "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199533,
       "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Bl\u00fc Moon",
+        "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "Bl\u00fc Moon",
+      "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -899,22 +899,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "CYBAH (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 244138,
-      "name": "CYBAH (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
     }
   ],
   "unique_name": "Bedroom Jams",

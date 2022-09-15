@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: Yola
 
-77 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6q3rP2a04MXLNfjAQ9mpop)
+78 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/6q3rP2a04MXLNfjAQ9mpop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Simple Life](https://open.spotify.com/track/0dHodhXJPnhuHPIrF0i10b) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:43 | 2021-02-17 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/35PvBFZRh58hFbqWBwjBZn) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:14 | 2021-02-17 |  |
 | [Sun Come Ease Me In](https://open.spotify.com/track/0xGgtbsW3ynbaqR1eUczst) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 2:55 | 2021-02-17 | 2022-07-29 |
-| [Sun Come Ease Me In](https://open.spotify.com/track/19IrqW4afAqPLpfpPXF3qV) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 2:55 | 2021-02-17 |  |
+| [Sun Come Ease Me In](https://open.spotify.com/track/19IrqW4afAqPLpfpPXF3qV) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 2:55 | 2021-02-17 | 2022-09-15 |
+| [Sun Come Ease Me In](https://open.spotify.com/track/2NmXILVmHTxxBGXy2W1VgM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 2:55 | 2021-02-17 |  |
 | [Sunday Morning Coming Down](https://open.spotify.com/track/0gSc5Vo4tczXkHb2V208jz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 5:19 | 2021-02-17 |  |
 | [Sunday's Children](https://open.spotify.com/track/6B29urREjvzoQgCzSbgnQy) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [White Noise / White Lines](https://open.spotify.com/album/19aVoxGenyWL3zULEefF9a) | 3:30 | 2021-02-17 |  |
 | [Take These Chains From My Heart](https://open.spotify.com/track/3FQWctzZxGRaIbzX6YDNPB) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 2:56 | 2021-02-17 |  |

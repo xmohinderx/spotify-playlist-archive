@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 13,089 likes - 88 songs - 5 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 13,093 likes - 88 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 76 | [Unexpected Roads](https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unexpected Roads](https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm) | 3:44 |
 | 77 | [That's The Power \- Studio](https://open.spotify.com/track/2YNehyJ62hvQtlFfutN3tT) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [These Same Skies \(Studio\)](https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk) | 4:01 |
 | 78 | [STAND](https://open.spotify.com/track/3bzXihTa8HE1ur27mAsZKP) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [STAND](https://open.spotify.com/album/0A41vxoBwFcukvVcBzWBI2) | 3:23 |
-| 79 | [I Know You Better](https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [I Know You Better](https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm) | 6:20 |
+| 79 | [I Know You Better](https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [I Know You Better](https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm) | 6:20 |
 | 80 | [The Best Is Yet To Come](https://open.spotify.com/track/0x2lQoO0pbXxBmJztRieR5) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [The Best Is Yet To Come](https://open.spotify.com/album/6NWTU6KMXWN0nc0LdJ3lMZ) | 4:18 |
 | 81 | [Desesperado \- English](https://open.spotify.com/track/7wfeopS60KsVchzRItCwVj) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Desesperado \(English\)](https://open.spotify.com/album/0OioYnPykdyEy9XZWSRLo4) | 2:52 |
 | 82 | [Worth The Risk](https://open.spotify.com/track/3pAitauaR81jvNaIOZADN2) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Worth The Risk](https://open.spotify.com/album/0ot0DHzWGM9sDU08ExesC3) | 3:16 |

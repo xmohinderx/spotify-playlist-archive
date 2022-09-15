@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-198 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+199 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Social Drinker](https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:03 | 2022-07-06 |  |
 | [Something to Believe In](https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [One Lovely Day](https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax) | 3:41 | 2022-07-06 |  |
 | [Something To Believe In](https://open.spotify.com/track/0UHYr05v9I6rljiBfeZP1F) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Something To Believe In](https://open.spotify.com/album/0vZ52duMCADKJjjOPCA0QO) | 3:28 | 2021-12-10 | 2022-07-29 |
-| [Song to the Sun](https://open.spotify.com/track/5geotWRSYIMLZHSxGwWcvK) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Song to the Sun](https://open.spotify.com/album/0UOyi7zOftKlGMd8gDkj6m) | 3:49 | 2022-06-21 |  |
+| [Song to the Sun](https://open.spotify.com/track/2OiyH3bmcaYd66ZxhOR1oP) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Pacific Vibration](https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4) | 3:49 | 2022-08-05 |  |
+| [Song to the Sun](https://open.spotify.com/track/5geotWRSYIMLZHSxGwWcvK) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Song to the Sun](https://open.spotify.com/album/0UOyi7zOftKlGMd8gDkj6m) | 3:49 | 2022-06-21 | 2022-09-15 |
 | [Sounds of Summer \(with Slightly Stoopid\)](https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Sounds Of Summer \(with Slightly Stoopid\)](https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm) | 3:41 | 2021-12-10 |  |
 | [Space and Time](https://open.spotify.com/track/2P0FH5jSRu8cctdYfTXtje) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Space and Time](https://open.spotify.com/album/527CKlIFgZY5S99cPLLuvG) | 3:34 | 2021-12-10 | 2022-05-14 |
 | [Stayed](https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww) | [Artikal Sound System](https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr) | [Welcome to Florida](https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d) | 2:50 | 2022-03-10 | 2022-07-29 |

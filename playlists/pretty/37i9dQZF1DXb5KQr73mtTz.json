@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 5427,
+  "num_followers": 5484,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzE4NCwwMDAwMDAwMDJlM2FkMmUwMzQ1Yjg4ODBhZWJkMjllN2JiM2I3YTU1",
+  "snapshot_id": "MTY2MjM5MzE4NCwwMDAwMDAwMGQ5ZDRjMmVkZDZjMGRkYWMyZWEyNGY2MzhkODE1YWRj",
   "tracks": [
     {
       "added_at": "2022-09-05 15:53:04",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-05 15:53:04",
       "album": {
-        "name": "girl in red",
-        "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 159365,
-      "name": "girl in red",
-      "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
-    },
-    {
-      "added_at": "2022-09-05 15:53:04",
-      "album": {
         "name": "Despite it all",
         "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2022-09-05 15:53:04",
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 261850,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
+    },
+    {
+      "added_at": "2022-09-05 15:53:04",
+      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-09-05 15:53:04",
       "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
+        "name": "girl in red",
+        "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
       },
       "artists": [
         {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
         }
       ],
-      "duration_ms": 261850,
-      "name": "How about you",
-      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
+      "duration_ms": 159365,
+      "name": "girl in red",
+      "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

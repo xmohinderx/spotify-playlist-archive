@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-125 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
+126 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,8 +75,8 @@
 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 | 2022-05-20 |  |
 | [Meteorito](https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ) | [Lupe Alvarez](https://open.spotify.com/artist/6P6rNCUzVaHoz71C2EDr5X) | [Meteorito](https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe) | 3:17 | 2022-05-20 |  |
 | [Miel](https://open.spotify.com/track/2WawgpEKS68gge1UzxWPsZ) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda De Uva](https://open.spotify.com/album/3q27k8OWdFA5FzovcQXWRI) | 2:42 | 2022-07-15 | 2022-07-29 |
-| [Miel](https://open.spotify.com/track/51DZ9VadidpYkJdeRHt5x5) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/0QGStanmJCDLF3Yn60pJBc) | 2:42 | 2022-08-26 |  |
-| [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-15 | 2022-08-31 |
+| [Miel](https://open.spotify.com/track/51DZ9VadidpYkJdeRHt5x5) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/0QGStanmJCDLF3Yn60pJBc) | 2:42 | 2022-08-26 | 2022-09-15 |
+| [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-15 |  |
 | [miel <3](https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [miel <3](https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw) | 3:23 | 2022-05-20 |  |
 | [Mira Niñita](https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Mira Niñita](https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau) | 4:28 | 2022-05-20 |  |
 | [Monster](https://open.spotify.com/track/6r63gGBlSTMalmugaHVcQY) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Monster](https://open.spotify.com/album/6i9PApaQGHP09y8gR2cWHV) | 3:07 | 2022-05-20 | 2022-07-16 |
@@ -107,7 +107,8 @@
 | [Rara](https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Planes para Hoy](https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc) | 4:43 | 2022-05-20 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-05-20 |  |
 | [Sequía](https://open.spotify.com/track/0ARR3l1yzjK0E3BLL9lvZK) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug), [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Sequía](https://open.spotify.com/album/6JBFi4aWk56THgFa7DQJPj) | 3:29 | 2022-05-20 | 2022-08-27 |
-| [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-05-20 |  |
+| [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-26 |  |
+| [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-05-20 | 2022-09-15 |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 |  |
 | [Sigue Avanzando](https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Sigue Avanzando](https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA) | 3:34 | 2022-05-20 |  |
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-115 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+117 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2021-07-18 |  |
 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 | 2021-01-22 |  |
 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 |  |
+| [Time Killing Killing Time](https://open.spotify.com/track/0mFBlq5k7fqIU46kn6tLL4) | [Zam Ram](https://open.spotify.com/artist/0j9YZpB0I5WDVIHEmAtQjV) | [Time Killing Killing Time](https://open.spotify.com/album/3Q7pAE46S5rBHvyBGmXIlX) | 4:22 | 2022-09-14 |  |
 | [Tintoretto, It's for You](https://open.spotify.com/track/4hNlGoJ9rgKaMSBermXqwZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Tintoretto, It's for You](https://open.spotify.com/album/3pGqMfIDbb7rtdf4qiqDLE) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [Tintoretto, It's for You](https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 3:05 | 2022-02-18 |  |
 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 | 2022-08-24 |  |
@@ -117,7 +118,8 @@
 | [Đi Tìm](https://open.spotify.com/track/2tr5nB15QjKueCSypsuEz7) | [Ngo Hong Quang](https://open.spotify.com/artist/0bSlwjLk6yxanA1aR9QhGY) | [Nhìn Lại](https://open.spotify.com/album/3C7WkkrbcsB80RvXUfJkBO) | 6:29 | 2021-06-23 |  |
 | [выжженные поля](https://open.spotify.com/track/0qCSVXlSql2UkFJupliZon) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [выжженные поля](https://open.spotify.com/album/0ZmB2xyQ2r53QIIsziTUO6) | 3:53 | 2020-10-20 |  |
 | [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 | 2021-06-23 |  |
-| [Плак\-Плак](https://open.spotify.com/track/3haUHC29mCGK6MrREqbONc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Ji9U33Ljqdm4RdlBKXteF) | 3:23 | 2020-10-20 |  |
+| [Плак\-Плак](https://open.spotify.com/track/2dc4D84XqZ9MCD3R2TjXoc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Of4qoSlEZr8GUinc7QxWT) | 3:23 | 2020-10-20 |  |
+| [Плак\-Плак](https://open.spotify.com/track/3haUHC29mCGK6MrREqbONc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Ji9U33Ljqdm4RdlBKXteF) | 3:23 | 2020-10-20 | 2022-09-15 |
 | [Прыгай](https://open.spotify.com/track/7keFTSP0LQMj09887ZCmxJ) | [МОНОНОКЕ](https://open.spotify.com/artist/73EIVLp8UyAWcjLK6Mty8S) | [Прыгай](https://open.spotify.com/album/2ASG6eVHytocsxAxuLrFAV) | 2:42 | 2020-10-20 |  |
 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 | 2020-10-20 |  |
 | [я больше не кусаюсь](https://open.spotify.com/track/4GPYu9OYnnYTCrp48EWroq) | [New Sylveon](https://open.spotify.com/artist/0Vp4znLLKyTx4GjsgDhNxX), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [я больше не кусаюсь](https://open.spotify.com/album/5G8d32CVqpHwlZX3idylbV) | 2:45 | 2020-10-20 |  |

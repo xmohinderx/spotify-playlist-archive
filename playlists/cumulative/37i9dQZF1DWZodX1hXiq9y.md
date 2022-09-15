@@ -4,7 +4,7 @@
 
 > The greatest saxophonists in Jazz\. Cover: Charlie Parker
 
-185 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/6CsWSF1LjFhoHW83Zp4Is9)
+186 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/6CsWSF1LjFhoHW83Zp4Is9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [I Hear A Rhapsody](https://open.spotify.com/track/4OPLH2UblzNmILgeHiIFfE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 6:01 | 2022-08-11 | 2022-09-01 |
 | [I Remember You](https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 4:26 | 2022-05-13 |  |
 | [I Remember You \- 2006 Digital Remaster](https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 7:29 | 2022-05-13 |  |
+| [I'm Old Fashioned \- Remastered](https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:59 | 2022-09-13 |  |
 | [I've Found A New Baby](https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Lester Young Trio](https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF) | 4:07 | 2022-05-13 |  |
 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 | 2022-05-13 |  |
 | [If I Should Lose You](https://open.spotify.com/track/6BiE95um67fs02pUE8k0rh) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [In The Still Of The Night](https://open.spotify.com/album/6uBjs8yk91J9pdkds8aabA) | 8:11 | 2022-05-13 |  |
@@ -102,7 +103,7 @@
 | [Love Me Or Leave Me](https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Teddy Wilson Quartet](https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c) | [Pres & Teddy](https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq) | 6:50 | 2022-05-13 |  |
 | [Love Song From "Apache"](https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:12 | 2022-09-01 |  |
 | [Lover Come Back To Me](https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 8:28 | 2022-05-13 |  |
-| [Lush Life \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 13:57 | 2022-05-13 |  |
+| [Lush Life \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 13:57 | 2022-05-13 | 2022-09-15 |
 | [Main Stem](https://open.spotify.com/track/0DUyHDBRaxFiXDf6Jhh4JD) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Everybody Knows](https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C) | 3:27 | 2022-05-13 |  |
 | [Melinda](https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 5:04 | 2022-08-17 |  |
 | [Midnight Mood](https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 6:23 | 2022-05-13 |  |

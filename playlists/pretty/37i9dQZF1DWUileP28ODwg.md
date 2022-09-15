@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Casting Crowns
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,358 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,468 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 40 | [Glory I Couldn't See \- Radio Version](https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See \(Radio Version\)](https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu) | 3:40 |
 | 41 | [Breathe Again](https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [The Found](https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u) | [Breathe Again](https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz) | 3:42 |
 | 42 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 |
-| 43 | [Feels Like A Blessing](https://open.spotify.com/track/7KAJj6iFtNuobF7i6ZwNyM) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Feels Like A Blessing](https://open.spotify.com/album/4nDcYwvgoYx7arEpnbZRLU) | 3:23 |
+| 43 | [Feels Like A Blessing](https://open.spotify.com/track/7KAJj6iFtNuobF7i6ZwNyM) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Feels Like A Blessing](https://open.spotify.com/album/4nDcYwvgoYx7arEpnbZRLU) | 3:23 |
 | 44 | [Family Is Family](https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Family Is Family](https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx) | 2:53 |
 | 45 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 |
 | 46 | [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 |

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-248 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+249 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 | 2021-09-06 |  |
 | [North Captiva](https://open.spotify.com/track/32dZxkZtsF5Vt3PrJQuV2i) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Captiva](https://open.spotify.com/album/3Sz9V9nnQZD0jMIVYI9f9Q) | 3:14 | 2021-09-06 |  |
 | [Northern Lights](https://open.spotify.com/track/6DbV2SXHJjBjOr0MtV6KdU) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Northern Lights](https://open.spotify.com/album/7ezMrsEa1XSE9HhBGufI1U) | 3:24 | 2021-09-06 |  |
-| [Nowhere](https://open.spotify.com/track/6Edd9DPNANSVnzfnZ1S2Sw) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Nowhere](https://open.spotify.com/album/0FEAGjp6rqwSzhluDvDaoN) | 3:42 | 2021-09-06 |  |
+| [Nowhere](https://open.spotify.com/track/6Edd9DPNANSVnzfnZ1S2Sw) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Nowhere](https://open.spotify.com/album/0FEAGjp6rqwSzhluDvDaoN) | 3:42 | 2021-09-06 | 2022-09-15 |
 | [Ocean Cave](https://open.spotify.com/track/1kqUvir1JRGNaOtewXYkoW) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Water Island](https://open.spotify.com/album/0G5QJUB8uyYEbMABwBc1db) | 3:17 | 2021-09-06 |  |
 | [Ocean of Melody](https://open.spotify.com/track/4A7hb0ABIwJ4hyV6KsytT5) | [Ice and Water](https://open.spotify.com/artist/6erX232kJIl0xB2Rglp76K) | [Whale Song](https://open.spotify.com/album/5ByVQlAhXwOsojsJvT6Olf) | 2:38 | 2021-09-06 |  |
 | [Open Fields](https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:03 | 2021-09-06 |  |
@@ -210,6 +210,7 @@
 | [Subtile Awakening](https://open.spotify.com/track/70jxeP5CMSn97r89ddjSx1) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [Beyond Expectations](https://open.spotify.com/album/1EBer2gVMrayieTh8OXKlj) | 3:04 | 2021-09-06 |  |
 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 | 2021-09-06 |  |
 | [Sunflower](https://open.spotify.com/track/2qbKVJe3eJNmBVaU5toSXh) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Hidden Memories](https://open.spotify.com/album/2jwkNNR7S7oPrMyfViGxdy) | 3:58 | 2021-09-06 |  |
+| [Surrounded By Clouds](https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Surrounded By Clouds](https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b) | 2:38 | 2022-09-13 |  |
 | [Takeoff](https://open.spotify.com/track/4iKSrwTBu0vLSqmZUXSGXr) | [Silo Silo](https://open.spotify.com/artist/3boXA17PQlju7JHXMHO5xA) | [Takeoff](https://open.spotify.com/album/28DQzrwSKkeHBikKirM1Bh) | 3:14 | 2021-09-06 |  |
 | [Target](https://open.spotify.com/track/60tHXabTlAhzlkXRDWl9cp) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Target](https://open.spotify.com/album/3kI4ax7CduZsv6bqHvcbGK) | 3:03 | 2021-09-06 |  |
 | [Technicolor Dreams](https://open.spotify.com/track/7xRxetB77E4m36hb2kt5fy) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Technicolor Dreams](https://open.spotify.com/album/3ysyQAP6BJZ8MgnGlAEHbW) | 3:03 | 2021-09-06 |  |

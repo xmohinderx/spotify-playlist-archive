@@ -1,12 +1,12 @@
 {
   "description": "Sit back and unwind to the most selamba songs around.",
-  "num_followers": 39856,
+  "num_followers": 39880,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NDI0NywwMDAwMDAwMDZhODMxZTUxYWJlODM4NTVhZjUwYzVmNTBjNzZhMmQ5",
+  "snapshot_id": "MTY2MjY5NDI0NywwMDAwMDAwMGE4MWMwMDk0MTNiMjUzYWZhZjVmNWZiN2VmNjJiMTY5",
   "tracks": [
     {
       "added_at": "2022-09-09 03:30:47",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-09-09 03:30:47",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
-    },
-    {
-      "added_at": "2022-09-09 03:30:47",
-      "album": {
         "name": "It's Never Easy",
         "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 150720,
       "name": "Whiskey Bottle",
       "url": "https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o"
+    },
+    {
+      "added_at": "2022-09-09 03:30:47",
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
       "added_at": "2022-09-09 03:30:47",
@@ -755,22 +755,18 @@
     {
       "added_at": "2022-09-09 03:30:47",
       "album": {
-        "name": "Friends (with Pamungkas)",
-        "url": "https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a"
       },
       "artists": [
         {
-          "name": "Rendy Pandugo",
-          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
-        },
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
         }
       ],
-      "duration_ms": 199601,
-      "name": "Friends (with Pamungkas)",
-      "url": "https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n"
+      "duration_ms": 205552,
+      "name": "Oh It's You",
+      "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
     },
     {
       "added_at": "2022-09-09 03:30:47",
@@ -791,6 +787,26 @@
     {
       "added_at": "2022-09-09 03:30:47",
       "album": {
+        "name": "Friends (with Pamungkas)",
+        "url": "https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm"
+      },
+      "artists": [
+        {
+          "name": "Rendy Pandugo",
+          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 199601,
+      "name": "Friends (with Pamungkas)",
+      "url": "https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n"
+    },
+    {
+      "added_at": "2022-09-09 03:30:47",
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
-    },
-    {
-      "added_at": "2022-09-09 03:30:47",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a"
-      },
-      "artists": [
-        {
-          "name": "babychair",
-          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
-        }
-      ],
-      "duration_ms": 205552,
-      "name": "Oh It's You",
-      "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
     },
     {
       "added_at": "2022-09-09 03:30:47",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-09-09 03:30:47",
       "album": {
-        "name": "Go Higher",
-        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
+      "duration_ms": 172500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
     },
     {
       "added_at": "2022-09-09 03:30:47",
@@ -1011,6 +1011,22 @@
       "duration_ms": 167832,
       "name": "honeymoon",
       "url": "https://open.spotify.com/track/2cAJkVpApCQuM6fYvioE9M"
+    },
+    {
+      "added_at": "2022-09-09 03:30:47",
+      "album": {
+        "name": "Go Higher",
+        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     },
     {
       "added_at": "2022-09-09 03:30:47",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2022-09-09 03:30:47",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
-    },
-    {
-      "added_at": "2022-09-09 03:30:47",
-      "album": {
         "name": "The Outsider EP",
         "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
       },
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-09-09 03:30:47",
       "album": {
+        "name": "no space",
+        "url": "https://open.spotify.com/album/1U1lgG9SK27rA9rVNdKZci"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "no space",
+      "url": "https://open.spotify.com/track/3W1wvz416f8ZaGJyTlaCBq"
+    },
+    {
+      "added_at": "2022-09-09 03:30:47",
+      "album": {
         "name": "Shouldn't Have To Run",
         "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-09-09 03:30:47",
       "album": {
-        "name": "no space",
-        "url": "https://open.spotify.com/album/1U1lgG9SK27rA9rVNdKZci"
-      },
-      "artists": [
-        {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "no space",
-      "url": "https://open.spotify.com/track/3W1wvz416f8ZaGJyTlaCBq"
-    },
-    {
-      "added_at": "2022-09-09 03:30:47",
-      "album": {
         "name": "Restless Love",
         "url": "https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 230098,
       "name": "Restless Love",
       "url": "https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc"
-    },
-    {
-      "added_at": "2022-09-09 03:30:47",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-09-09 03:30:47",
@@ -1203,6 +1187,22 @@
       "duration_ms": 187898,
       "name": "comeoutside",
       "url": "https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu"
+    },
+    {
+      "added_at": "2022-09-09 03:30:47",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-09-09 03:30:47",

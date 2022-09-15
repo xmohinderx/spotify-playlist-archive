@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Fateeha, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,082 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,101 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 40 | [Green Light](https://open.spotify.com/track/1NxUgWynWcLe5XpBV3YppF) | [D Waviee](https://open.spotify.com/artist/5KaAbjWOqfFt1IMEH2kdzA), [IRDSCNT](https://open.spotify.com/artist/1Ohk1Lu8XoPFSowywVUiV3) | [Green Light](https://open.spotify.com/album/3oDCSENcNu2ZyLBJg3Cx8o) | 2:55 |
 | 41 | [Hundreds](https://open.spotify.com/track/1pvLfLN3vXjRDqtDDIWZaE) | [S6xth Bone](https://open.spotify.com/artist/77JsE0YDJfCSiq5s5fjpNw) | [Hundreds](https://open.spotify.com/album/3pPTgJ9H4v4T8745Gcf4Ai) | 4:17 |
 | 42 | [Praise the Lord](https://open.spotify.com/track/4grWKx5wU8wRyynESVlSQA) | [Saint Praize](https://open.spotify.com/artist/073HoVXSsVlojK9pnFWAxo) | [Praise the Lord](https://open.spotify.com/album/1XpgVjGAid4SRo0VXGJCGD) | 2:51 |
-| 43 | [ISANGDAAN](https://open.spotify.com/track/0vVcgWUOxfxQx3f10xGMFX) | [Jekk Therapeace](https://open.spotify.com/artist/4cut06tIutBS57wt3btzez), [R1CH](https://open.spotify.com/artist/47jH5QmL7kM2dlq46YMigI), [K\-Leb](https://open.spotify.com/artist/4lYhlnIyceAsRBOm601dLD) | [ISANGDAAN](https://open.spotify.com/album/432nPkpshMFg4HWjNxHv1h) | 4:03 |
+| 43 | [ISANGDAAN](https://open.spotify.com/track/0vVcgWUOxfxQx3f10xGMFX) | [Jekk Therapeace](https://open.spotify.com/artist/4cut06tIutBS57wt3btzez), [K\-Leb](https://open.spotify.com/artist/4lYhlnIyceAsRBOm601dLD), [R1CH](https://open.spotify.com/artist/47jH5QmL7kM2dlq46YMigI) | [ISANGDAAN](https://open.spotify.com/album/432nPkpshMFg4HWjNxHv1h) | 4:03 |
 | 44 | [Pinagpalit](https://open.spotify.com/track/6Tnh1uCsea9BX1csA28fYM) | [LostNotFound](https://open.spotify.com/artist/1SVjSG7OLV3mrpH5N9QYDM) | [Pinagpalit](https://open.spotify.com/album/349Din6kzrTeGNDGW3tmif) | 3:14 |
 | 45 | [B 4 U](https://open.spotify.com/track/3334CBSyQik86iFo8hyqRe) | [C$Y](https://open.spotify.com/artist/4tM5ely6ggNwY9CN9EvLEi) | [B 4 U](https://open.spotify.com/album/3aXOyPnlCUuUoUrQTcVg0F) | 3:26 |
 | 46 | [Hiraya](https://open.spotify.com/track/6YdkJGoR81plqqNdyQwISn) | [Amika Priya](https://open.spotify.com/artist/3rN4T86zB1Oz3MKG7nXN9U) | [Hiraya](https://open.spotify.com/album/7JU0wGaeDbTL1QuRfAdbMG) | 3:32 |

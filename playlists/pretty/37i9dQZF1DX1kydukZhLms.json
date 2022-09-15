@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1070028,
+  "num_followers": 1070913,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDJiYmJkYzBmOTcxNGRkZDY4NDBmNTAxMzJiZDE3NDBi",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDAwNzg4MjAxZGJjYTE5YzIwNjc3YTIxMDJiODczY2Mz",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Firehouse",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Love of a Lifetime",
+      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 354640,
       "name": "Don't Know What You Got (Till It's Gone)",
       "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Firehouse",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Love of a Lifetime",
-      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Somewhere Far Beyond (Remastered 2007)",
-        "url": "https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "The Bard's Song - In the Forest - Remastered 2007",
-      "url": "https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 231118,
       "name": "Under Your Scars",
       "url": "https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Somewhere Far Beyond (Remastered 2007)",
+        "url": "https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "The Bard's Song - In the Forest - Remastered 2007",
+      "url": "https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Hard Luck Woman",
-      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 207120,
       "name": "Life Eternal",
       "url": "https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Hard Luck Woman",
+      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Images and Words",
+        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Ordinary Man (feat. Elton John)",
         "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Images and Words",
-        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria - Remastered 2017",
-      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 245573,
       "name": "Enjoy the Silence - cover version",
       "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria - Remastered 2017",
+      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 464280,
       "name": "Windowpane",
       "url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 323360,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
     },
     {
       "added_at": "2022-04-15 17:44:09",

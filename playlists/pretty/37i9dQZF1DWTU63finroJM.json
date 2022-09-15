@@ -1,12 +1,12 @@
 {
   "description": "From across the globe. New artists on the horizon.",
-  "num_followers": 31216,
+  "num_followers": 31353,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDkwMTMyNzJiM2YzNjJmZjBmOTlhYjE1MjYyYjFiMDZi",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMGE2YjMwMjU3NTVhZTVjYTk3NmQ5ZTZjODYwODUwYzc4",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Piseiro Sofr\u00eancia",
-        "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 173037,
-      "name": "N\u00e3o, N\u00e3o Vou",
-      "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Mustang Preto",
         "url": "https://open.spotify.com/album/6fhHEgPoz6jfgZvwlH9jBA"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 183000,
       "name": "Mustang Preto",
       "url": "https://open.spotify.com/track/6Vgn3IEUkWs3d6og029Gtm"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Piseiro Sofr\u00eancia",
+        "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 173037,
+      "name": "N\u00e3o, N\u00e3o Vou",
+      "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
         "url": "https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/2RvN3fb5MsKXKYjhmpToAF"
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 217429,
-      "name": "En Donde Esta Tu Amor",
-      "url": "https://open.spotify.com/track/6jweSpMwhhNpfILeZ3kLso"
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 174545,
       "name": "Pal Behta Jaaye",
       "url": "https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/2RvN3fb5MsKXKYjhmpToAF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 217429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/6jweSpMwhhNpfILeZ3kLso"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Altbau",
-        "url": "https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "Gl\u00fccklich",
-      "url": "https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "vaicaunoicokhiennguoithaydoi",
         "url": "https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Altbau",
+        "url": "https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "Gl\u00fccklich",
+      "url": "https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Angelina",
-        "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "ENTROP\u00cdA",
         "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 199614,
       "name": "EL POETA",
       "url": "https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9"
       },
@@ -1135,18 +1151,34 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+      "duration_ms": 225000,
+      "name": "El Due\u00f1o De Tu Amor",
+      "url": "https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Lovers Fevers",
+        "url": "https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "duration_ms": 211744,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1183,38 +1215,6 @@
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Lovers Fevers",
-        "url": "https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB"
-      },
-      "artists": [
-        {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
-        }
-      ],
-      "duration_ms": 211744,
-      "name": "I Wish I Never Met You",
-      "url": "https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "El Due\u00f1o De Tu Amor",
-      "url": "https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Hanggang sa Huli",
+        "url": "https://open.spotify.com/album/4Yjs5ZMEZVyMxivzPfjjsl"
+      },
+      "artists": [
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "duration_ms": 289090,
+      "name": "Hanggang sa Huli",
+      "url": "https://open.spotify.com/track/3FGbfm2NLfCgdDXZTyUDVp"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "En El Refuego",
         "url": "https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Hanggang sa Huli",
-        "url": "https://open.spotify.com/album/4Yjs5ZMEZVyMxivzPfjjsl"
+        "name": "Little Bit of This",
+        "url": "https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN"
       },
       "artists": [
         {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 289090,
-      "name": "Hanggang sa Huli",
-      "url": "https://open.spotify.com/track/3FGbfm2NLfCgdDXZTyUDVp"
+      "duration_ms": 180581,
+      "name": "Little Bit of This",
+      "url": "https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1327,38 +1343,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
-        "url": "https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof"
-      },
-      "artists": [
-        {
-          "name": "Only Monday",
-          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
-        }
-      ],
-      "duration_ms": 264762,
-      "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
-      "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Little Bit of This",
-        "url": "https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "Little Bit of This",
-      "url": "https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Mujer\u00f3n",
         "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
+        "url": "https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "duration_ms": 264762,
+      "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Absence of You",
+        "url": "https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 194745,
+      "name": "Absence of You",
+      "url": "https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Meant 2 Be",
         "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Absence of You",
-        "url": "https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 194745,
-      "name": "Absence of You",
-      "url": "https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "Ulap",
         "url": "https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 249254,
-      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 180722,
       "name": "the world could end with you",
       "url": "https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Matkhafesh Yamma",
-        "url": "https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75"
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
       },
       "artists": [
         {
-          "name": "Ali Loka",
-          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
-        },
-        {
-          "name": "Ouzzy",
-          "url": "https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Matkhafesh Yamma",
-      "url": "https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh"
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD"
     },
     {
       "added_at": "2022-09-08 22:00:00",

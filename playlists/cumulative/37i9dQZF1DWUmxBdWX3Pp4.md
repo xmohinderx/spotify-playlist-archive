@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos del Trap Latino\. Foto:  Eladio Carrion.
+> Éxitos del Trap Latino\. Foto: Duki & Paulo Londra.
 
-249 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
+250 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Pal De Pesos](https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Supremo](https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh) | 3:09 | 2022-06-03 | 2022-06-18 |
 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMA](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 | 2021-12-06 |  |
 | [Pandora](https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Pandora](https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC) | 2:57 | 2022-06-03 | 2022-08-06 |
+| [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-14 |  |
 | [Patrón](https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 5:30 | 2022-01-03 |  |
 | [Pininfarina \- Remix](https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Pininfarina \(Remix\)](https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP) | 4:20 | 2022-06-03 |  |
 | [Pintao](https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:47 | 2021-12-06 |  |
@@ -211,7 +212,7 @@
 | [Sauce Boy Freestyle 4](https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle 4](https://open.spotify.com/album/6nC2XJQzEnjN6ZJj1Hjhsk) | 1:59 | 2021-12-06 | 2022-04-16 |
 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 | 2022-04-15 | 2022-06-04 |
 | [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 | 2022-05-31 |  |
-| [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 | 2021-12-06 |  |
+| [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 | 2021-12-06 | 2022-09-15 |
 | [Si Lo Puedes Soñar](https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Si Lo Puedes Soñar](https://open.spotify.com/album/5TXyBngsscsxdTWhGuNxT1) | 3:15 | 2022-08-19 |  |
 | [Sicaria](https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4) | 4:19 | 2022-01-14 | 2022-06-04 |
 | [SIENTA BIEN \(feat\. Laylow\)](https://open.spotify.com/track/5JO1TPAa7N23AAS82C3EER) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [SIENTA BIEN \(feat\. Laylow\)](https://open.spotify.com/album/6ayBfDc8QHTQaZZHn7P3wX) | 3:13 | 2022-04-22 | 2022-06-04 |

@@ -4,7 +4,7 @@
 
 > Screaming, crying, throwing up! Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover:  Ava Max
 
-269 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+270 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 |  |
 | [Lovesick](https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Lovesick](https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 | 2022-04-29 | 2022-08-27 |
-| [MADELINE](https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM) | 3:24 | 2022-09-02 |  |
+| [MADELINE](https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM) | 3:24 | 2022-09-02 | 2022-09-15 |
+| [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 | 2022-09-09 |  |
 | [Magical Love](https://open.spotify.com/track/0yNJ6ohn2kmEndRLAXhQvJ) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Magical Love](https://open.spotify.com/album/3hqE43sWPNyUZZut3VNgMU) | 3:05 | 2022-06-17 | 2022-08-27 |
 | [Main Character](https://open.spotify.com/track/2iyPrCtdlawRkNi0i3YnGx) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Main Character](https://open.spotify.com/album/68YJc00xWlIsDm2by8wGsx) | 2:00 | 2022-07-01 |  |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-19 | 2022-08-27 |

@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: WARGASM \(UK\)
 
-582 songs - 1 day 5 hr 6 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+583 songs - 1 day 5 hr 10 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Mona Lisa Was a Stoner](https://open.spotify.com/track/5GNQJFMx176hk0icjusaA3) | [1990nowhere](https://open.spotify.com/artist/5NURDn6WDlYbCPIwkfdqjG), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Mona Lisa Was a Stoner](https://open.spotify.com/album/64dMN6WHksnkwdfvNOE6RD) | 4:16 | 2022-07-07 | 2022-08-19 |
 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-04 |  |
 | [Moonburn](https://open.spotify.com/track/5zJyvRh6gAnFF7Etublsh0) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Moonburn](https://open.spotify.com/album/0B2dEDADt1gvNtCjEiPzeK) | 5:07 | 2022-08-25 |  |
+| [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2022-09-14 |  |
 | [Move](https://open.spotify.com/track/6r8xg4vDHIPBDjCFb70uWn) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Move](https://open.spotify.com/album/3JhCDiTZ095MaNxc6zXrEX) | 2:29 | 2022-06-09 | 2022-07-15 |
 | [Move It or Lose It](https://open.spotify.com/track/0NlAVwtXrtyuV5fxxlSeUH) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Slow Bloom](https://open.spotify.com/album/4qszaTKv9Ly2BtNC6OhLH8) | 2:31 | 2022-07-28 |  |
 | [my ex](https://open.spotify.com/track/1iE5bs1p6cXGkj5T4NODE2) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Pierre Bouvier](https://open.spotify.com/artist/1FwRuZTNH8Ys97avBNW6uJ) | [my ex](https://open.spotify.com/album/4jwTtRDIY9ckGii0QNsCdq) | 2:48 | 2022-07-21 | 2022-09-09 |
@@ -453,7 +454,7 @@
 | [Sick As Your Secrets](https://open.spotify.com/track/3oyIFkrVp54TqQzTs2k9kp) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Sick As Your Secrets](https://open.spotify.com/album/6Kp9DjAQrRKUF1bJvLTifQ) | 2:39 | 2022-06-23 | 2022-07-15 |
 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 | 2021-12-17 | 2022-03-11 |
 | [Silence Is Golden](https://open.spotify.com/track/1YGdBqULxB6JnUTTpPQ9b0) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Silence Is Golden](https://open.spotify.com/album/4N8TqGejYoSvbkNxRnGtQ4) | 2:56 | 2022-06-16 | 2022-07-29 |
-| [SIO](https://open.spotify.com/track/4lAJVxOVSPHPhhiyJ2KgMq) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [Sio](https://open.spotify.com/album/1z7rFTCFEdEKD5xWTPfCd4) | 3:01 | 2022-07-28 |  |
+| [SIO](https://open.spotify.com/track/4lAJVxOVSPHPhhiyJ2KgMq) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [Sio](https://open.spotify.com/album/1z7rFTCFEdEKD5xWTPfCd4) | 3:01 | 2022-07-28 | 2022-09-15 |
 | [Six Feet Under](https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg) | [Ty Arena$](https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Six Feet Under](https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo) | 2:13 | 2022-06-09 | 2022-07-22 |
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-06-09 | 2022-07-29 |
 | [Snvkes](https://open.spotify.com/track/3Q5iGw3rcuPt6LwOeT74rW) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Snvkes](https://open.spotify.com/album/7nAMlS6TLvm1lmadCVZjk3) | 2:34 | 2022-06-30 | 2022-08-12 |

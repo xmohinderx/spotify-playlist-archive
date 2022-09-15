@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,013 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,666 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,26 +42,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 32 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 |
 | 33 | [infinite Resonance](https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO) | 4:02 |
 | 34 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 |
-| 35 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 |
-| 36 | [Abracada\-Boo](https://open.spotify.com/track/6sScdgu1m1tey48IoeMDkt) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Abracada\-Boo](https://open.spotify.com/album/2HdzJMCn6VXTuBJni0ANJ7) | 4:35 |
-| 37 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 |
-| 38 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 |
-| 39 | [A piece of cake](https://open.spotify.com/track/4pae88hho7DMgeCKukQXet) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [A PIECE OF CAKE](https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx) | 2:41 |
-| 40 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 |
-| 41 | [Step Up](https://open.spotify.com/track/7y7FjuZlT5MHLRk0DtbUe8) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Step Up](https://open.spotify.com/album/7f0deOUeip4S9DIaiCjlOt) | 3:50 |
-| 42 | [風の中](https://open.spotify.com/track/5sP17r2ILuTv2ih5fnLGjx) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [風の中](https://open.spotify.com/album/6PYt8GA4Sq0No0LSyYTdMj) | 3:23 |
-| 43 | [geki](https://open.spotify.com/track/0pNibb6CapyORpwvkbpFEm) | [zonji](https://open.spotify.com/artist/5mAHChNntfSXlZA1MvfWmv) | [geki](https://open.spotify.com/album/4yHPXYnI5USQhghoflfuac) | 4:05 |
-| 44 | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/track/4Lwu5jxAauZYj5JWPjD72P) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/album/025d3ip2r1hEWZwhTWBeTX) | 4:03 |
-| 45 | [Anagram of Coda \- off vocal](https://open.spotify.com/track/3pp0QnYSYdK1xGIetlfqnh) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/5rLplZ8aZBpjNCQyOaX7aT) | 4:40 |
-| 46 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
-| 47 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 |
-| 48 | [Gohan dayo! Dadadadan!!](https://open.spotify.com/track/2yHoptGrLliwAOl2rBAhYn) | [SURACYANZU](https://open.spotify.com/artist/08wDtWVhHhqmOwc6Y5FW4w) | [Gohan dayo! Dadadadan!!](https://open.spotify.com/album/38wshlFD90KUwScoxw6los) | 3:51 |
-| 49 | [人なんだ](https://open.spotify.com/track/6CZzcCnBPSNIHKb1c29lB4) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [人なんだ](https://open.spotify.com/album/0nKpIhPmduqYZ5e6o7pr0q) | 4:55 |
-| 50 | [Mortal With You](https://open.spotify.com/track/2Cl3bTLiHuQlQBcZSxJLON) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/2XfXLJFcnPIGiDDQM925Vf) | 3:55 |
-| 51 | [Awake](https://open.spotify.com/track/1GChdtgRm4YlTPp4JPFDc9) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/1UFJUX3c8hieMx0HQd9JHr) | 5:25 |
-| 52 | [暁光](https://open.spotify.com/track/4l4OxhHdAZuVcjoCHapPwk) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [暁光](https://open.spotify.com/album/3JX3ho78EjyYxBjLIOI0o1) | 3:29 |
-| 53 | [ALIVE](https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP) | 3:37 |
-| 54 | [ビボウロク](https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ビボウロク](https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA) | 3:25 |
+| 35 | [Believe](https://open.spotify.com/track/3ANTsGDjVNRGmoY7mKphgE) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [たんぽぽ](https://open.spotify.com/album/2hb6VnBLP6imKcogwVE5G7) | 2:56 |
+| 36 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 |
+| 37 | [Abracada\-Boo](https://open.spotify.com/track/6sScdgu1m1tey48IoeMDkt) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Abracada\-Boo](https://open.spotify.com/album/2HdzJMCn6VXTuBJni0ANJ7) | 4:35 |
+| 38 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 |
+| 39 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 |
+| 40 | [A piece of cake](https://open.spotify.com/track/4pae88hho7DMgeCKukQXet) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [A PIECE OF CAKE](https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx) | 2:41 |
+| 41 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 |
+| 42 | [Step Up](https://open.spotify.com/track/7y7FjuZlT5MHLRk0DtbUe8) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Step Up](https://open.spotify.com/album/7f0deOUeip4S9DIaiCjlOt) | 3:50 |
+| 43 | [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 |
+| 44 | [風の中](https://open.spotify.com/track/5sP17r2ILuTv2ih5fnLGjx) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [風の中](https://open.spotify.com/album/6PYt8GA4Sq0No0LSyYTdMj) | 3:23 |
+| 45 | [geki](https://open.spotify.com/track/0pNibb6CapyORpwvkbpFEm) | [zonji](https://open.spotify.com/artist/5mAHChNntfSXlZA1MvfWmv) | [geki](https://open.spotify.com/album/4yHPXYnI5USQhghoflfuac) | 4:05 |
+| 46 | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/track/4Lwu5jxAauZYj5JWPjD72P) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/album/025d3ip2r1hEWZwhTWBeTX) | 4:03 |
+| 47 | [Anagram of Coda \- off vocal](https://open.spotify.com/track/3pp0QnYSYdK1xGIetlfqnh) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/5rLplZ8aZBpjNCQyOaX7aT) | 4:40 |
+| 48 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
+| 49 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 |
+| 50 | [Gohan dayo! Dadadadan!!](https://open.spotify.com/track/2yHoptGrLliwAOl2rBAhYn) | [SURACYANZU](https://open.spotify.com/artist/08wDtWVhHhqmOwc6Y5FW4w) | [Gohan dayo! Dadadadan!!](https://open.spotify.com/album/38wshlFD90KUwScoxw6los) | 3:51 |
+| 51 | [人なんだ](https://open.spotify.com/track/6CZzcCnBPSNIHKb1c29lB4) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [人なんだ](https://open.spotify.com/album/0nKpIhPmduqYZ5e6o7pr0q) | 4:55 |
+| 52 | [Mortal With You](https://open.spotify.com/track/2Cl3bTLiHuQlQBcZSxJLON) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/2XfXLJFcnPIGiDDQM925Vf) | 3:55 |
+| 53 | [暁光](https://open.spotify.com/track/4l4OxhHdAZuVcjoCHapPwk) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [暁光](https://open.spotify.com/album/3JX3ho78EjyYxBjLIOI0o1) | 3:29 |
+| 54 | [ALIVE](https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP) | 3:37 |
 | 55 | [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 |
 | 56 | [No Man's Dawn](https://open.spotify.com/track/5XvmEVOlh8S0FvZQyaYnzo) | [criminal](https://open.spotify.com/artist/01x2ElR5LGoZ3HTwn0u4eH) | [No Man's Dawn](https://open.spotify.com/album/5emNQodJSciI2Ib281UrG3) | 3:53 |
 | 57 | [Deneb and Spica](https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Deneb and Spica](https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g) | 4:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 59 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
 | 60 | [断罪デモクラシー](https://open.spotify.com/track/1YYhcvF1ejO19vtEgVBzIg) | [自象存在name\-less](https://open.spotify.com/artist/05bI1rBSrKztoBYlHYYdH5) | [断罪デモクラシー](https://open.spotify.com/album/0aCbx2DAWTiKTkVEr206ZB) | 3:14 |
 
-Snapshot ID: `MTY2MjY0OTIwMCwwMDAwMDAwMDQ5ZjQ3MTQxNDY3YmY3ZTdmYTcxYWJlMDUwOGZmZjNi`
+Snapshot ID: `MTY2MzA4MTIwMCwwMDAwMDAwMGYwODdmZWI2NTNmNWNhZTkyMjFlYzU3Yzk1ZTA4ZDk5`

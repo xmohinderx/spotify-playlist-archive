@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,12 +120,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 110 | [Não Te Vás](https://open.spotify.com/track/5aYttVgTTca2bZ5MnIjqjH) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU) | [Viver a Vida](https://open.spotify.com/album/05BzsUFyawyKNBosofEOSR) | 4:24 |
 | 111 | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/track/3tZTh6f27UzbXNtBbrHZdb) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [The Enchanted Carol \(Carol of the Bells\)](https://open.spotify.com/album/3oxNpMIIlibXjmi7EZBskJ) | 3:07 |
 | 112 | [Stay Down](https://open.spotify.com/track/5UgJuYz8s1LcZDNmKWMCuj) | [seglartone](https://open.spotify.com/artist/3msHBLh5Ywqug7WNIZdVdI), [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh) | [Stay Down](https://open.spotify.com/album/5HKceUlfPrLY4si2DtdijC) | 3:21 |
-| 113 | [La Misma Voz](https://open.spotify.com/track/1Pnu14ES6CbPKWngtVxVoM) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Joy](https://open.spotify.com/artist/0BmVwpA9NNMJs1M6joiKm9), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:11 |
-| 114 | [Hermanita](https://open.spotify.com/track/5ucBog38SckwcP50HuB9o6) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [Hermanita](https://open.spotify.com/album/53iAsM8Emp4V0KnOGgXqCo) | 3:28 |
+| 113 | [Hermanita](https://open.spotify.com/track/5ucBog38SckwcP50HuB9o6) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [Hermanita](https://open.spotify.com/album/53iAsM8Emp4V0KnOGgXqCo) | 3:28 |
+| 114 | [La Misma Voz](https://open.spotify.com/track/1Pnu14ES6CbPKWngtVxVoM) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Joy](https://open.spotify.com/artist/0BmVwpA9NNMJs1M6joiKm9), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:11 |
 | 115 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
 | 116 | [Elise Was Here](https://open.spotify.com/track/1BiFGKc3j3cJpD0GyUgxmp) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [Elise Was Here](https://open.spotify.com/album/3CWoJapAdbrcu8jb3PTscK) | 3:23 |
-| 117 | [Fantasize \(feat\. Cecile\) \- Vocal Club Mix](https://open.spotify.com/track/1b7mHh72iJHnRtKuth5anA) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/66RCMcPCPiqbG1N3UfokUQ) | [Fantasize \(feat\. Cecile\)](https://open.spotify.com/album/14fkh0mWVPaPCsvL61EuXu) | 7:45 |
-| 118 | [Salto de Fe](https://open.spotify.com/track/7p90mo9rrIM7mlZldk13ul) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6kC8pHk3AKljg4QWc05oNQ) | 3:43 |
+| 117 | [Salto de Fe](https://open.spotify.com/track/7p90mo9rrIM7mlZldk13ul) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6kC8pHk3AKljg4QWc05oNQ) | 3:43 |
+| 118 | [Fantasize \(feat\. Cecile\) \- Vocal Club Mix](https://open.spotify.com/track/1b7mHh72iJHnRtKuth5anA) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/66RCMcPCPiqbG1N3UfokUQ) | [Fantasize \(feat\. Cecile\)](https://open.spotify.com/album/14fkh0mWVPaPCsvL61EuXu) | 7:45 |
 | 119 | [A Plena Luz](https://open.spotify.com/track/0H065bXKlwjfxR3YMnqsl2) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [A Plena Luz](https://open.spotify.com/album/7dBgL2M2CgZaNoAkc4ecPD) | 4:03 |
 | 120 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 | 121 | [El carnaval](https://open.spotify.com/track/3p449iXDlyrgDpy5ZfcfAL) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:43 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc3MTcxODQsMDAwMDAwMDAyZmEyNWZmZGUwNjBlOTVlNzIwZjcxZWU3OWU0NzEzNw==`
+Snapshot ID: `Mjc3MjAwNjQsMDAwMDAwMDAzODc2MjNkOTczZTE4MmZhY2E4ZjYwNzc3NDA1Mjk0Nw==`

@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-221 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+222 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [不搖滾](https://open.spotify.com/track/2KZO634LWOlumo7bEJSh21) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [房東的貓](https://open.spotify.com/artist/01wQKqIHFEKjHdo32GlElV) | [不搖滾](https://open.spotify.com/album/5JCacvLpV7IrUMZEbYVFWi) | 4:45 | 2022-06-06 | 2022-07-29 |
 | [不敢聽的歌](https://open.spotify.com/track/4vNQ1EfgVDbwxnsHdBl7Io) | [李千那](https://open.spotify.com/artist/0rOFGXlFK59NmUCHga8oZM) | [不敢聽的歌](https://open.spotify.com/album/6cmfWMoPzvzQe89VLRIXke) | 4:27 | 2022-06-06 | 2022-07-07 |
 | [不晚 \(電影深夜食堂主題曲\)](https://open.spotify.com/track/7t40YRK7GQBf5pqtOzMcF6) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [不晚 \(電影深夜食堂主題曲\)](https://open.spotify.com/album/6tZboJANkkm5LGhlUnhkRQ) | 4:15 | 2022-06-13 | 2022-07-14 |
-| [不知所措](https://open.spotify.com/track/4BKKdyNzudNKscbKt3Sb9i) | [王靖雯不胖](https://open.spotify.com/artist/2OHIX1YycLScAj1OkgW4Ff) | [不知所措](https://open.spotify.com/album/4ivt28CRmnStMCm7p3MtSa) | 4:08 | 2022-07-25 |  |
+| [不知所措](https://open.spotify.com/track/4BKKdyNzudNKscbKt3Sb9i) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [不知所措](https://open.spotify.com/album/4ivt28CRmnStMCm7p3MtSa) | 4:08 | 2022-07-25 |  |
 | [不能呼吸的愛](https://open.spotify.com/track/5iPSfA6kStHPKvyc5GLr8X) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [不能呼吸的愛](https://open.spotify.com/album/7gj3pogrdrFdgPu2mfkH5L) | 3:42 | 2022-06-06 | 2022-06-30 |
 | [不該](https://open.spotify.com/track/7LyCtbxher5m97MImn5M3l) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 4:50 | 2022-07-25 |  |
 | [不讓你再 \(三立華劇《跟鯊魚接吻》插曲\)](https://open.spotify.com/track/0XWWFgX8oUb6YAU3yfKcrP) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [不讓你再 \(三立華劇《跟鯊魚接吻》插曲\)](https://open.spotify.com/album/7gOKdUObnopFKl4OWJHDzj) | 4:07 | 2022-07-04 | 2022-07-15 |
@@ -62,6 +62,7 @@
 | [來不及說再見](https://open.spotify.com/track/782oShDK6dbOjSvi9lIc2I) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [許莉潔](https://open.spotify.com/artist/3xAqf1dVTnMq6PRm3txE3f) | [來不及說再見](https://open.spotify.com/album/4j9br9HddUvZDOGHWom7N3) | 4:30 | 2022-06-13 | 2022-07-04 |
 | [偽裝](https://open.spotify.com/track/53455JJQIRhArHbF2XA7s9) | [Da Zhuang](https://open.spotify.com/artist/0JvihWUI0PyC4sEJGVwrAg) | [偽裝](https://open.spotify.com/album/1LkriYhUsulFbEL8t2fBc3) | 5:00 | 2022-07-25 |  |
 | [傘下 \- 電視劇《歡喜來逗陣》片尾曲](https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [張宇戲劇主題曲精選 \(2008\-2011\)](https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe) | 4:39 | 2022-06-06 | 2022-06-14 |
+| [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 | 2022-09-12 |  |
 | [像是一顆星星](https://open.spotify.com/track/6SMLP3dTwRTuc1E1YUjrB1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [像是一顆星星](https://open.spotify.com/album/12UdZ0g89H8qexIJJZZfxS) | 3:50 | 2022-06-13 | 2022-07-11 |
 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 | 2022-06-13 |  |
 | [再一次 \- 金酒70週年年度歌曲](https://open.spotify.com/track/26gJgtHNxELrk6bkW7XZEw) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [再一次 \(金酒70週年年度歌曲\)](https://open.spotify.com/album/4pMiZsRXAle3IIYBwENisQ) | 3:52 | 2022-07-11 | 2022-07-24 |
@@ -88,7 +89,7 @@
 | [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 | 2022-06-06 | 2022-07-28 |
 | [唯一的理由](https://open.spotify.com/track/6s5dcaEHYQ17iugGONCIkd) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi), [Judy Chou](https://open.spotify.com/artist/0TEuJoFCfA5zd9YQlwRk44) | [唯一的理由](https://open.spotify.com/album/1u21DSFACuRh2kGvymY0qI) | 3:18 | 2022-06-06 | 2022-07-22 |
 | [善变](https://open.spotify.com/track/06B9w0ykvQbj61BCRViQo9) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [善变](https://open.spotify.com/album/1YCRlCGqH5IXpcqVibeFmf) | 4:16 | 2022-06-06 | 2022-07-24 |
-| [善变](https://open.spotify.com/track/5FbpI2aBM8p90u6qpVxODT) | [王靖雯不胖](https://open.spotify.com/artist/2OHIX1YycLScAj1OkgW4Ff) | [善变](https://open.spotify.com/album/6sHtsu8AbLriin7czP6r4L) | 4:16 | 2022-07-25 |  |
+| [善变](https://open.spotify.com/track/5FbpI2aBM8p90u6qpVxODT) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [善变](https://open.spotify.com/album/6sHtsu8AbLriin7czP6r4L) | 4:16 | 2022-07-25 |  |
 | [喉嚨唱的沙啞](https://open.spotify.com/track/7FUaMJhENUyLc0LlAbZb0E) | [Koala Liu](https://open.spotify.com/artist/0rG7yyjd15xAQ3Z9SK4FU3) | [喉嚨唱的沙啞](https://open.spotify.com/album/0qyUTDJWMN7okN5ld1O8sj) | 5:00 | 2022-06-13 | 2022-06-19 |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2022-06-13 | 2022-07-25 |
 | [嚣张](https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM) | 4:13 | 2022-07-25 |  |
@@ -215,7 +216,7 @@
 | [遠距離練習](https://open.spotify.com/track/3CKodSS2anFIvg55hd2hxe) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [遠距離練習\(電影《我是真的討厭異地戀》主題曲\)](https://open.spotify.com/album/2vsxca9pRl3dohmr4A9IWl) | 5:12 | 2022-06-20 | 2022-07-29 |
 | [遲遲](https://open.spotify.com/track/6xwofE2pMV4NzH1VbcQDyq) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [天外來物](https://open.spotify.com/album/6IfVnXZCdRH3cp2bKOJbXn) | 4:15 | 2022-06-06 | 2022-07-09 |
 | [還原](https://open.spotify.com/track/0b2MLr7e8e5qH7zyw2dcbK) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [還原](https://open.spotify.com/album/3H70lpausr2rZCRdO3kaep) | 3:42 | 2022-06-13 | 2022-07-16 |
-| [那一瞬間](https://open.spotify.com/track/0DHbVRD1gGwinQ38FtJGIx) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [痛快](https://open.spotify.com/album/5fPY9JLLnYDO0Qq579u844) | 5:30 | 2022-08-08 |  |
+| [那一瞬間](https://open.spotify.com/track/0DHbVRD1gGwinQ38FtJGIx) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [痛快](https://open.spotify.com/album/5fPY9JLLnYDO0Qq579u844) | 5:30 | 2022-08-08 | 2022-09-15 |
 | [那女孩對我說](https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [\#2019還在聽](https://open.spotify.com/album/0687JPYolanYGONrSkOZtK) | 4:28 | 2022-07-25 |  |
 | [都幾歲了 \(電視劇【幸福一家人】片尾曲\)](https://open.spotify.com/track/7eKlApdNdcu8e2GX4nItcO) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [都幾歲了 \(電視劇【幸福一家人】片尾曲\)](https://open.spotify.com/album/25I0xrn5mJIeE09yf3eHPO) | 4:01 | 2022-07-04 | 2022-07-11 |
 | [配合](https://open.spotify.com/track/0pbnohuSAJRMflFdkNcUEo) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [配合](https://open.spotify.com/album/6OodSygYBsk8fLKM0SJgm5) | 4:46 | 2022-07-04 | 2022-07-28 |

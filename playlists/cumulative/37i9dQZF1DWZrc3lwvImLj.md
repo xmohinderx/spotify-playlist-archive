@@ -4,7 +4,7 @@
 
 > Beautifully sad piano music
 
-229 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
+235 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Canvas](https://open.spotify.com/track/6iZ4MWY41vHw9o26UxCmec) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Canvas](https://open.spotify.com/album/7GpwHsdoI4GMzxUHy2DWhJ) | 2:18 | 2022-03-30 |  |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-01-19 |  |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2021-12-14 | 2022-05-05 |
+| [Cos I doubt](https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Cos I doubt](https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7) | 2:26 | 2022-09-13 |  |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-02-02 |  |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2021-12-14 |  |
 | [De perdidos, al río](https://open.spotify.com/track/77axyFLRvnyWiI6abb8cbB) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [De perdidos, al río](https://open.spotify.com/album/1rIa8uQewnc0QDar4v6cDh) | 1:57 | 2022-03-30 |  |
@@ -68,6 +69,7 @@
 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 | 2022-05-04 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2021-12-14 |  |
 | [Florentin](https://open.spotify.com/track/6lE5ACHHqeEk7nLciGJH3P) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Florentin](https://open.spotify.com/album/6AUPQJfBYnyw47dZ9V0w89) | 1:58 | 2021-12-14 | 2022-01-20 |
+| [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-13 |  |
 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 | 2021-12-14 | 2022-02-03 |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2021-12-14 |  |
 | [Frühling](https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Frühling](https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb) | 2:19 | 2022-05-04 |  |
@@ -76,6 +78,7 @@
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2021-12-14 | 2022-05-05 |
 | [Gradational](https://open.spotify.com/track/7uam2Tyu6KZjGLauONQLk7) | [Martha Stone](https://open.spotify.com/artist/3Jk5F5o75NTajdLCYSYlbw) | [Gradational](https://open.spotify.com/album/1BNVlgLGu0gcQEroSXMhal) | 2:47 | 2022-03-30 |  |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2021-12-14 |  |
+| [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 |  |
 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 | 2021-12-14 |  |
 | [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 | 2022-08-03 |  |
 | [I Tried](https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N) | [Rory Campbell](https://open.spotify.com/artist/065g9oYYpGh7AOf7UR2Jr2) | [The Past Hasn't Happened Yet](https://open.spotify.com/album/7LtLQkFRQVMm06t6C9XUZO) | 4:03 | 2022-05-04 |  |
@@ -139,12 +142,14 @@
 | [Old Summer Romance](https://open.spotify.com/track/0PsVxQjMyJSNYo9R3zZnNR) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Old Summer Romance](https://open.spotify.com/album/1mG03oOljZ3ynqzhuWVKah) | 2:36 | 2021-12-14 | 2022-04-15 |
 | [On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 | 2022-05-04 |  |
 | [Once I saw the northern lights](https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Once I saw the northern lights](https://open.spotify.com/album/4PxukojNA6yqMB3rB17Sda) | 3:34 | 2021-12-14 |  |
+| [One More Night](https://open.spotify.com/track/69eA5853TtnotRU59pm8mF) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Iris Ha](https://open.spotify.com/artist/6hmE3H5s4IZyTUmPGUc8Bb) | [One More Night](https://open.spotify.com/album/0UjXFozNddXEOnVnCC6hnL) | 2:17 | 2022-09-13 |  |
 | [one way](https://open.spotify.com/track/4W2432JBzc5yujNBQOinng) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [one way](https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz) | 2:44 | 2022-08-03 |  |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-02-16 |  |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2021-12-14 |  |
 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-06 |  |
 | [Parisienne](https://open.spotify.com/track/1epvt6Gm4OjEu1SjuSf1sr) | [Erik Sigurd](https://open.spotify.com/artist/71OSrLPABmMazSjgFaeDoQ) | [Parisienne](https://open.spotify.com/album/6SESsSqhmLi80C8l3NoTOY) | 6:25 | 2022-04-22 | 2022-06-07 |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2021-12-14 |  |
+| [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-13 |  |
 | [Porcelain Hands](https://open.spotify.com/track/7KX4G8l2FvaTom3K21Xw5E) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Porcelain Hands](https://open.spotify.com/album/2r70QxdddM0IU6gy6zJHOC) | 2:14 | 2022-05-04 |  |
 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 | 2021-12-14 | 2022-05-21 |
 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2021-12-14 |  |
@@ -220,6 +225,7 @@
 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 | 2021-12-14 |  |
 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 | 2021-12-14 |  |
 | [Waves](https://open.spotify.com/track/01L0AXPkdT18OPkS6qIJGu) | [Becky Ainge](https://open.spotify.com/artist/0bJuAVWEBon60FPGGtMobF) | [Waves](https://open.spotify.com/album/4A9WMmxOHQ2siMca3duOoW) | 3:15 | 2022-01-19 |  |
+| [We Together](https://open.spotify.com/track/45hG7DYmo87yN0hQ1MeJ0C) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [We Together](https://open.spotify.com/album/6ruK7Ax6fmYBopQ22j59RU) | 2:02 | 2022-09-13 |  |
 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 | 2022-01-05 |  |
 | [Welkin](https://open.spotify.com/track/6eEpm85ZhjGfBTTV0dTbKn) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Welkin](https://open.spotify.com/album/1Sg3AUFWHFGb5el1azce0G) | 3:05 | 2022-06-06 |  |
 | [When Feeling Blue](https://open.spotify.com/track/6kcQ0eZ69cdUZQYTfchSw9) | [Hans Francken](https://open.spotify.com/artist/1YLooLbQVz1H7EzYfU0gWO) | [When Feeling Blue](https://open.spotify.com/album/2eya6umAHIPoMyInrYqhuA) | 2:24 | 2021-12-14 | 2022-05-21 |

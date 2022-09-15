@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Game",
+        "url": "https://open.spotify.com/album/1eO0MT1eCOMz2jsYBALHEs"
+      },
+      "artists": [
+        {
+          "name": "Calm Lecce",
+          "url": "https://open.spotify.com/artist/0CAwGUfZRUjr3HZHOpqSkz"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fantasy Rose",
+      "url": "https://open.spotify.com/track/4sA5k1J1JG1CSdFcAnlDKm"
+    },
+    {
+      "album": {
         "name": "Find Me",
         "url": "https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI"
       },
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 282000,
       "name": "Ocean Park",
       "url": "https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 143214,
       "name": "Persepolis",
       "url": "https://open.spotify.com/track/6B8dXkHi9J04EFvlDncRCm"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 210000,
       "name": "Salamanca",
       "url": "https://open.spotify.com/track/04NXOnaOXZdHPYkldpqcCg"

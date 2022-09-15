@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 822197,
+  "num_followers": 822311,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTU0NTg4MiwwMDAwMDAwMGE4Y2JhODM1MWRiNTI5Njk3NTQ2YTViZDgyMGZmMTIy",
+  "snapshot_id": "MTYzNTU0NTg4MiwwMDAwMDAwMDBhNjhkZDhkODYyZWYyOTFlZGZmMDgxNDgwN2UwZGFi",
   "tracks": [
     {
       "added_at": "2021-10-29 22:18:02",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "Forest Fires",
         "url": "https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "Day by Day (Acoustic)",
         "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 209714,
       "name": "Day by Day - Acoustic",
       "url": "https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Wading In Waist-High Water",
-      "url": "https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Wading In Waist-High Water",
+      "url": "https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "White Water",
         "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 233391,
       "name": "White Water",
       "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 322040,
+      "name": "The Wolves (Act I and II)",
+      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -427,22 +443,6 @@
       "duration_ms": 225153,
       "name": "C\u00f3mo Me Quieres",
       "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 322040,
-      "name": "The Wolves (Act I and II)",
-      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -687,6 +687,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "July Bones",
+      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "A Book Of Flying",
         "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 236719,
       "name": "You",
       "url": "https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -851,22 +883,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "Alabama Haint",
         "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 182601,
       "name": "Alabama Haint",
       "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
-      },
-      "artists": [
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "July Bones",
-      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+        "name": "Grapefruit Season",
+        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 175777,
-      "name": "...Familiar Place",
-      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
+      "duration_ms": 233954,
+      "name": "Poison to You",
+      "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "...Familiar Place",
+      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
-        "name": "Grapefruit Season",
-        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 233954,
-      "name": "Poison to You",
-      "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "Melatonin (Unplugged)",
         "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 325280,
       "name": "Melatonin (Unplugged)",
       "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
     },
     {
       "added_at": "2021-10-29 22:18:02",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-10-29 22:18:02",
       "album": {
-        "name": "Lake Jons",
-        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
-      },
-      "artists": [
-        {
-          "name": "Lake Jons",
-          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Up Here North",
-      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
-    },
-    {
-      "added_at": "2021-10-29 22:18:02",
-      "album": {
         "name": "A Book Of Flying",
         "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 256260,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G"
+    },
+    {
+      "added_at": "2021-10-29 22:18:02",
+      "album": {
+        "name": "Lake Jons",
+        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
+      },
+      "artists": [
+        {
+          "name": "Lake Jons",
+          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Up Here North",
+      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
     },
     {
       "added_at": "2021-10-29 22:18:02",

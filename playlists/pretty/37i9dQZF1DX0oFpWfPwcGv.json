@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 28423,
+  "num_followers": 28536,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGFiY2E2ODViN2Q4Y2E5YzU0NTJiOTA4NDc3OGNmMzhj",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDU5OWY0NGJlZGJlYTBkNDNkZGE4OGQxODkxMDAwNTI1",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Never Gonna Let You Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Turn the Beat Around - 7\" Single Edit",
-      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Never Gonna Let You Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Turn the Beat Around - 7\" Single Edit",
+      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 274960,
-      "name": "My Forbidden Lover - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Delusions (Bonus Version)",
         "url": "https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 481506,
       "name": "Let No Man Put Asunder - Shep Pettibone 12\" Mix",
       "url": "https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 274960,
+      "name": "My Forbidden Lover - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "More, More, More",
+        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "What's Your Name, What's Your Number",
+      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Northern Soul Keep the Faith",
         "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 429813,
       "name": "Angel in My Pocket - Extended Version",
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "More, More, More",
-        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
-      },
-      "artists": [
-        {
-          "name": "Andrea True Connection",
-          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "What's Your Name, What's Your Number",
-      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
     }
   ],
   "unique_name": "Disco Decadence",

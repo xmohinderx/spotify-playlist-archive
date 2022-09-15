@@ -1,12 +1,12 @@
 {
   "description": "All of the best Celtic punk tracks. Cover: The Dreadnoughts",
-  "num_followers": 319641,
+  "num_followers": 319914,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMGRhNmJiZGQxOTJkNmU4YmRiOTc3MTNhNGY4ODZlNDcx",
+  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMGYwZjEyNzVhOGM1N2MxZjZhMmM1MTQ5YWM1OTViZjhh",
   "tracks": [
     {
       "added_at": "2022-03-18 14:59:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Sobriety",
-        "url": "https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs"
-      },
-      "artists": [
-        {
-          "name": "Jolly Jackers",
-          "url": "https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy"
-        }
-      ],
-      "duration_ms": 151634,
-      "name": "Sobriety",
-      "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "Heard Ya Say!",
         "url": "https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 229539,
       "name": "On Your Own",
       "url": "https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Sobriety",
+        "url": "https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs"
+      },
+      "artists": [
+        {
+          "name": "Jolly Jackers",
+          "url": "https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy"
+        }
+      ],
+      "duration_ms": 151634,
+      "name": "Sobriety",
+      "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "With All Due Respect: The Irish Sessions",
-        "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
-      },
-      "artists": [
-        {
-          "name": "Young Dubliners",
-          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Follow Me Up To Carlow",
-      "url": "https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "Liquordale",
         "url": "https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 193760,
       "name": "Katie Bar the Door",
       "url": "https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "With All Due Respect: The Irish Sessions",
+        "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Follow Me Up To Carlow",
+      "url": "https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp"
     },
     {
       "added_at": "2022-03-18 14:59:31",

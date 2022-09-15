@@ -4,11 +4,12 @@
 
 > Calm your mind with gentle piano and ambient.
 
-285 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+291 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Fair Wind](https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [A Fair Wind](https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4) | 3:00 | 2021-12-17 |  |
+| [A Magic Forest](https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [A Magic Forest](https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu) | 3:05 | 2022-09-13 |  |
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-17 |  |
 | [Above Erta](https://open.spotify.com/track/5XodChHSGzXmfhoYyZ7Wjv) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Above Erta](https://open.spotify.com/album/6gv5VjD5c136sDxMod7WiY) | 3:13 | 2022-02-01 |  |
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-03-25 |  |
@@ -50,6 +51,7 @@
 | [Calm Embrace](https://open.spotify.com/track/5rMCyc5FUpkpAx2MIB9Bja) | [Esa Plant](https://open.spotify.com/artist/0QQlMFDABAtm2cdSGJdB4p) | [Calm Embrace](https://open.spotify.com/album/0ECjtVkMi9MHOwrDdsi3eo) | 2:56 | 2021-12-17 |  |
 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
 | [Calming Tune](https://open.spotify.com/track/4nwPbxRsKm81Alkoj3nZMi) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Feel a Sense](https://open.spotify.com/album/2QSLLC0Kby30GZgyJ7NSy8) | 3:18 | 2021-12-17 |  |
+| [Carry Me](https://open.spotify.com/track/3kv3rN2ODEKUXav5prNo0D) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [Another sky](https://open.spotify.com/album/1XTNxiid9MngqpVKSkKFxf) | 3:08 | 2022-09-13 |  |
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-12-17 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-12-17 |  |
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-17 |  |
@@ -207,12 +209,14 @@
 | [Polaris](https://open.spotify.com/track/15Q4tq0gvEelMr40CeBClA) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Polaris](https://open.spotify.com/album/1O4hCDZOcxLITrYIocKgdt) | 3:28 | 2021-12-17 |  |
 | [Pomiri se](https://open.spotify.com/track/4RqQwKxM6mzWEJXl0DNiRn) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Pomiri se](https://open.spotify.com/album/0258oNwoApLV1QwCGfZD9P) | 3:39 | 2021-12-17 |  |
 | [Protagonist](https://open.spotify.com/track/7roBeVcRtHZR8J00pX5Fw2) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Protagonist](https://open.spotify.com/album/0clnxOhPz384VGX6nbuCcp) | 2:40 | 2021-12-17 |  |
+| [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-17 | 2022-09-03 |
 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2021-12-17 |  |
 | [Quiet Stars](https://open.spotify.com/track/1OlQRV9bOuT0CGCNI225EP) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX) | 1:54 | 2022-02-01 |  |
 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 | 2022-01-11 |  |
 | [Rebirth](https://open.spotify.com/track/056tXUgNyQYRYn4N3zpnQG) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:24 | 2021-12-17 |  |
 | [Reflect](https://open.spotify.com/track/5L3CbldRc36fjCzTb9ttuj) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Reflect](https://open.spotify.com/album/4lBD9dWLYfzmdAA3rkltQn) | 3:17 | 2022-05-19 |  |
+| [Release](https://open.spotify.com/track/3WvLmahT84IZwXfK5S8cIb) | [Signa Meyer](https://open.spotify.com/artist/4A9fzSajHnwIXn4u4KT7Ke) | [Release](https://open.spotify.com/album/4jBVlTEpIx48NPGSxfBAKr) | 2:17 | 2022-09-13 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2021-12-17 | 2022-01-06 |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-12-17 |  |
 | [Returning](https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:08 | 2021-12-17 |  |
@@ -246,6 +250,7 @@
 | [Soporific Tune](https://open.spotify.com/track/38IRaffn6tB6nsKKsTMU47) | [Twilight Time](https://open.spotify.com/artist/3TMpH9YDPUAnGeC5oEtq21) | [A View of Dreams](https://open.spotify.com/album/2EuVPtGIbIFLsZZt0E8SK5) | 2:38 | 2021-12-17 |  |
 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 | 2022-02-01 |  |
 | [Sparkle](https://open.spotify.com/track/3a14Ywse8vF62KNc7zI4wW) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Sparkle](https://open.spotify.com/album/3N2aAxQUp9v82RGS2NzMRu) | 1:55 | 2021-12-17 | 2022-04-22 |
+| [Star Light](https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Atlas Of Beauty](https://open.spotify.com/album/0P5IAGKQmeAU3ZIN0IQyxf) | 2:32 | 2022-09-13 |  |
 | [Starlight](https://open.spotify.com/track/7HjPINRbACZjEmzVLt3Tuv) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:21 | 2021-12-17 |  |
 | [State of Grace](https://open.spotify.com/track/0GGBywhLXTT0D3dRIaEvFO) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK) | [State of Grace](https://open.spotify.com/album/5vIxjuPtAmpY26voHLTQPa) | 3:06 | 2021-12-17 |  |
 | [Stay A While](https://open.spotify.com/track/5MxNNBnvKIZ1D2IkwB753i) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Stay A While](https://open.spotify.com/album/0LtvCsNWrKLG8n7i3AhXqT) | 2:57 | 2021-12-17 |  |
@@ -260,6 +265,7 @@
 | [Surrounded By Olive](https://open.spotify.com/track/31nLFWrGtgYilBGgTKLuyW) | [Joseph Martins](https://open.spotify.com/artist/3MR09XZH0Q5cRnennqCE2z) | [Surrounded By Olive](https://open.spotify.com/album/08kCIdkAdWiQpc313VHIGg) | 3:06 | 2021-12-17 |  |
 | [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 | 2022-08-23 |  |
 | [Swear on this Life](https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Swear on this Life](https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw) | 2:12 | 2021-12-17 | 2022-04-22 |
+| [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 | 2022-09-13 |  |
 | [Swerving](https://open.spotify.com/track/67sHA0PewCor6HdDer5Nxv) | [Kinship Networks](https://open.spotify.com/artist/6JKJopFXDFKfLkA6rrgQQh) | [Swerving](https://open.spotify.com/album/1nwBBL77j2FBEip4k2fI4G) | 2:43 | 2021-12-17 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 | 2022-07-15 |  |

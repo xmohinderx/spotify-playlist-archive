@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U?si=uJPoqpSXRH\-\_stNJUCb4Hw"> Somadina </a>
 
-237 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+238 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [DO ME JEJE](https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:00 | 2022-02-17 |  |
 | [Don't Be Shy](https://open.spotify.com/track/77WyHfWYb6sWhPJ5GeeUmo) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Don't Be Shy](https://open.spotify.com/album/7iPzgjVOJ2zQE9oismpvn2) | 2:34 | 2021-02-26 | 2022-04-08 |
 | [Early Momo](https://open.spotify.com/track/3wYuNJPSFESv8kQ5HMQaGA) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Good Girl LA](https://open.spotify.com/artist/0qiNIeeeTOtNE6YHZ0c56e) | [Early Momo](https://open.spotify.com/album/202NJs9xDY00wxMTSRQhVu) | 3:13 | 2021-02-26 | 2022-02-25 |
-| [EDMP \( E Dey Move Person\)](https://open.spotify.com/track/5jkbCSJQcZyniK0WPRvVQw) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/1ZJjKmDNfYzur7u3IfMcIH) | 1:27 | 2022-08-18 |  |
+| [EDMP \( E Dey Move Person\)](https://open.spotify.com/track/5jkbCSJQcZyniK0WPRvVQw) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/1ZJjKmDNfYzur7u3IfMcIH) | 1:27 | 2022-08-18 | 2022-09-15 |
+| [EDMP \(E Dey Move Person with Cruel Santino\)](https://open.spotify.com/track/2vf1v4p98qn3nS85BMPcgy) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/66qZw3xUgH56lpOlDvXyPO) | 1:27 | 2022-08-18 |  |
 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 | 2021-11-18 | 2022-01-14 |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 |  |
 | [F\*ck Luv](https://open.spotify.com/track/6LQvSixZUaJjTnFHBdZwgG) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [P.S\. Thank You for Waiting](https://open.spotify.com/album/51LUoIXs5uyiGkuQ9ExJtM) | 3:22 | 2021-09-16 | 2022-02-11 |

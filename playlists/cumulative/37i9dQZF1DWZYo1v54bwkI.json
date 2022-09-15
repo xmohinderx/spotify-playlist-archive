@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Atmospheres for Sleep and Rest Vol 3",
+        "url": "https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn"
+      },
+      "artists": [
+        {
+          "name": "Eleonor Bauer",
+          "url": "https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "Beautiful Whispers",
+      "url": "https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V"
+    },
+    {
+      "album": {
         "name": "Blue Mind",
         "url": "https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8"
       },
@@ -869,6 +887,24 @@
       "duration_ms": 205000,
       "name": "Falling Winds",
       "url": "https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp"
+    },
+    {
+      "album": {
+        "name": "Feathers",
+        "url": "https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V"
+      },
+      "artists": [
+        {
+          "name": "Aiyden",
+          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192168,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa"
     },
     {
       "album": {
@@ -1466,6 +1502,24 @@
     },
     {
       "album": {
+        "name": "Lucens",
+        "url": "https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY"
+      },
+      "artists": [
+        {
+          "name": "Tristan Motuo",
+          "url": "https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138983,
+      "name": "Lucens",
+      "url": "https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu"
+    },
+    {
+      "album": {
         "name": "Mane Fluctus",
         "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
       },
@@ -1952,6 +2006,24 @@
     },
     {
       "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
+    },
+    {
+      "album": {
         "name": "Pure And Calm",
         "url": "https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j"
       },
@@ -2111,7 +2183,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 491146,
       "name": "Renewal",
       "url": "https://open.spotify.com/track/7kgNuTgyO9T26DGV6aXptE"
@@ -2352,6 +2424,24 @@
     },
     {
       "album": {
+        "name": "Silver Ocean",
+        "url": "https://open.spotify.com/album/2dyjYTPkDOwRfbBEuPxPNC"
+      },
+      "artists": [
+        {
+          "name": "Monet Benitez",
+          "url": "https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169352,
+      "name": "Silver Ocean",
+      "url": "https://open.spotify.com/track/0nUmtaGW0KUELFtMBhxeAt"
+    },
+    {
+      "album": {
         "name": "Skaisti",
         "url": "https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV"
       },
@@ -2475,6 +2565,24 @@
       "duration_ms": 147089,
       "name": "Sotto La Superficie",
       "url": "https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR"
+    },
+    {
+      "album": {
+        "name": "Spiritus",
+        "url": "https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm"
+      },
+      "artists": [
+        {
+          "name": "Devon Hayes",
+          "url": "https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147530,
+      "name": "Spiritus",
+      "url": "https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti"
     },
     {
       "album": {
@@ -2727,6 +2835,24 @@
       "duration_ms": 149433,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
+    },
+    {
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "album": {

@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 228048,
       "name": "D\u00f3nde",
       "url": "https://open.spotify.com/track/695KiRLxI1e49JKP5WCh22"
@@ -2609,7 +2609,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 235101,
       "name": "Mi Venganza",
       "url": "https://open.spotify.com/track/3AFoC3oyF7fLyOFhWp7mS9"
@@ -3249,7 +3249,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 198407,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/0lmE82dpxeGYlBzpz27CVJ"
@@ -4879,6 +4879,24 @@
       "duration_ms": 226417,
       "name": "\u00c9l no soy yo",
       "url": "https://open.spotify.com/track/63F0fLgN8dMRlhWCRnbkyk"
+    },
+    {
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/04H5Ux6U24V75xIqMMD9he"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226429,
+      "name": "\u00c9l No Soy Yo",
+      "url": "https://open.spotify.com/track/6X9Mq6dtHUoHbcdot8mnri"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE"

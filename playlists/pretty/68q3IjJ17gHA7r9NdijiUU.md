@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain](/playlists/plain/68q3IjJ17gHA7r9NdijiUU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68q3IjJ17gHA7r9NdijiUU)
 
-### [Road Trip Sing\-Along Songs](https://open.spotify.com/playlist/68q3IjJ17gHA7r9NdijiUU)
+### [Road Trip Songs](https://open.spotify.com/playlist/68q3IjJ17gHA7r9NdijiUU)
 
 > Finally, the perfect roadtrip playlist is here\. Sing along to these classics and new hits, and discover new favorites along the way!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 322,543 likes - 105 songs - 6 hr 48 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 322,510 likes - 105 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 | 104 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 105 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
 
-Snapshot ID: `MTU4NSxmZmVjYmM4Nzk4ZmZkN2FlNjQ5NTM3N2Q2MWE5MDNjOTgzMjM3OWU4`
+Snapshot ID: `MTU4Niw5ZGM4NTY3MzdiM2Q5Yzk0ZjdiMzIzYjhiZDg3MWI5NTI4OTIzY2E3`

@@ -292,6 +292,24 @@
     },
     {
       "album": {
+        "name": "Arrolo da Alba",
+        "url": "https://open.spotify.com/album/16EEit8iE2DytoZTrMQDO4"
+      },
+      "artists": [
+        {
+          "name": "Iago Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2MWNQBtNDrblXtYwG6JQ5I"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328466,
+      "name": "Arrolo da Alba",
+      "url": "https://open.spotify.com/track/2h3sCc2q9ul9H0D7rKltg7"
+    },
+    {
+      "album": {
         "name": "Spark Of Life",
         "url": "https://open.spotify.com/album/6xryZq7zr0ukHTMLRgGLoS"
       },
@@ -969,7 +987,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 221053,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 286213,
       "name": "roads",
       "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 420493,
       "name": "Seak Fruits",
       "url": "https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 266173,
       "name": "Sisyphe",
       "url": "https://open.spotify.com/track/6piXN2gputJdiVAXp2f2UP"
@@ -2777,6 +2795,28 @@
       "duration_ms": 496693,
       "name": "Song Of Yearning",
       "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
+    },
+    {
+      "album": {
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/33lnTreKJcXGwUwsKAhmxY"
+      },
+      "artists": [
+        {
+          "name": "Masako Ohta",
+          "url": "https://open.spotify.com/artist/2pgRPx86AAtD7tiLhDxipZ"
+        },
+        {
+          "name": "Matthias Lindermayr",
+          "url": "https://open.spotify.com/artist/5bfKMWNpRfMCx9TOMYYUyz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225067,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/5uJ3moeNy2VtiI2elT6Lf6"
     },
     {
       "album": {

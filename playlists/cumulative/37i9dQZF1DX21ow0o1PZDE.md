@@ -2,7 +2,7 @@
 
 ### [Mega Éxitos 2022](https://open.spotify.com/playlist/37i9dQZF1DX21ow0o1PZDE)
 
-> Todos los grandes éxitos del año, reunidos en un solo lugar\. Foto: Bizarrap, Quevedo
+> Todos los grandes éxitos del año, reunidos en un solo lugar\. Foto: Manuel Turizo
 
 296 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/5hqqOb7Q9xkGoAUrh8YXGt)
 

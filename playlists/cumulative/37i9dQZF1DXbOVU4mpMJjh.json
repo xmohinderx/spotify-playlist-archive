@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 315733,
       "name": "Alien",
       "url": "https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 242066,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T"
@@ -1572,6 +1572,24 @@
     },
     {
       "album": {
+        "name": "Early Morning Thoughts",
+        "url": "https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404106,
+      "name": "Early Morning Thoughts",
+      "url": "https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9"
+    },
+    {
+      "album": {
         "name": "How My Heart Sings",
         "url": "https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg"
       },
@@ -1711,6 +1729,28 @@
       "duration_ms": 270133,
       "name": "Eronel",
       "url": "https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F"
+    },
+    {
+      "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/1fr7A0vA1GCoT0gYVzNxjr"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315343,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/6xR0WAHOMfSdXfB8Ba9rmK"
     },
     {
       "album": {
@@ -2007,6 +2047,24 @@
       "duration_ms": 196844,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/6Ip3L1WWFnlGUp55H4A0G0"
+    },
+    {
+      "album": {
+        "name": "Forgetful",
+        "url": "https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261519,
+      "name": "Forgetful",
+      "url": "https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1"
     },
     {
       "album": {
@@ -4988,6 +5046,24 @@
     },
     {
       "album": {
+        "name": "Prelude To A Kiss",
+        "url": "https://open.spotify.com/album/4cSn217ednrXznxx6lIKvA"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275743,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/4Csbgu7LMDGPLjhPgHfQmZ"
+    },
+    {
+      "album": {
         "name": "Crime Zone",
         "url": "https://open.spotify.com/album/45XJNADDsniF16VElBvwr8"
       },
@@ -5773,7 +5849,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 454200,
       "name": "Star Crossed Lovers",
       "url": "https://open.spotify.com/track/7KuOy0As2XsXoA4HupFo6v"
@@ -6277,7 +6353,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"

@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-236 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+238 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Parc Güell](https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:28 | 2021-12-08 | 2022-07-29 |
 | [Passing Through](https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Millons of Trees](https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl) | 2:33 | 2021-12-08 |  |
 | [Peaceful Movement](https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Peaceful Movement](https://open.spotify.com/album/6WhbkTG9bSpcHmP01t2P87) | 2:53 | 2022-05-26 |  |
+| [Peaceful Patterns \- Yoga Version](https://open.spotify.com/track/5LvTXUwvXcq348o5LdAVZJ) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/album/5Ac4LwtFRHKe9j4qHJf9Gk) | 2:49 | 2022-09-13 |  |
 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 | 2021-12-08 |  |
 | [Phi](https://open.spotify.com/track/48Tgnq986GrPCGJJz65n4M) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Constants](https://open.spotify.com/album/77TLggcnKVaRn7CyfdbUtH) | 3:45 | 2021-12-08 |  |
 | [Pieces of Infinity](https://open.spotify.com/track/6sm1OOgdN0TyISneqeBvgX) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 3:24 | 2021-12-08 |  |
@@ -239,6 +240,7 @@
 | [Watercolor](https://open.spotify.com/track/4WTmQdOSpj9rfBqYY2hryC) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 4:07 | 2021-12-08 |  |
 | [Winds of Haryana](https://open.spotify.com/track/5M2vSYhLSDww1n3x2zB1qN) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 | 2021-12-08 |  |
 | [Within Us](https://open.spotify.com/track/0KJ0xOx8ZhVlsRlta6MftC) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Colors & Shapes](https://open.spotify.com/album/3cunIVFjTiFdhYW9OZPcvw) | 3:09 | 2021-12-08 | 2022-08-24 |
+| [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-04-21 |  |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2021-12-08 |  |
 | [Yellow](https://open.spotify.com/track/5aadCHkKtIIAwkUAQRiiv9) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Beach Waves](https://open.spotify.com/album/51VYJwvNDONE60PEjNZYQC) | 2:50 | 2021-12-08 |  |

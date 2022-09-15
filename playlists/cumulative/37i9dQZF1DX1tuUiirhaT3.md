@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-212 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+213 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2021-12-17 |  |
 | [Early Mornings in 8D](https://open.spotify.com/track/678fUafiJszxE9hCKU6Lqb) | [Sleep in 8D](https://open.spotify.com/artist/6FxZGF0spuGiXpmuWv3NrD) | [Sleep in 8D Vol.1](https://open.spotify.com/album/76bjQ1tAmdhBbXIzlktZDE) | 3:34 | 2021-12-17 |  |
 | [Earth](https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Elements](https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi) | 3:24 | 2021-12-17 |  |
+| [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2022-09-13 |  |
 | [Endlessness](https://open.spotify.com/track/56Hx2TNbbWeEk3I3H1Tzgz) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Endlessness](https://open.spotify.com/album/1sXwnBlGNqJjejMOM0QoNx) | 2:43 | 2021-12-17 |  |
 | [Enter](https://open.spotify.com/track/0HGfi3MdwooOvUhwztursU) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW) | 3:50 | 2022-07-22 |  |
 | [Enter](https://open.spotify.com/track/3zmaWVi1TqIsXLSIPHgtSe) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn) | 3:50 | 2021-12-17 | 2022-07-29 |

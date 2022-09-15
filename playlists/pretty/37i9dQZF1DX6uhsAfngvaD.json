@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 263099,
+  "num_followers": 263476,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGZkZDUyODc4MGExMTAxMTllNTIxNzJkODlhN2U2N2Zl",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDg3NWVmMWQxZTMzMDcxOTdiODIzNjAxZGE2N2I5ZjVl",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "The world within our bedrooms",
         "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/0rPRQrMxmMBq9Jii0IwqDF"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Smothered",
+        "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
+      },
+      "artists": [
+        {
+          "name": "Oberhofer",
+          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "What Does It Mean To Me?",
+      "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -567,22 +583,6 @@
       "duration_ms": 190840,
       "name": "Only One Man (with Melody's Echo Chamber)",
       "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Smothered",
-        "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
-      },
-      "artists": [
-        {
-          "name": "Oberhofer",
-          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "What Does It Mean To Me?",
-      "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
-      },
-      "artists": [
-        {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "summer bruises",
         "url": "https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI"
       },
@@ -795,6 +779,42 @@
       "duration_ms": 240426,
       "name": "Earth to Jay",
       "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
+      },
+      "artists": [
+        {
+          "name": "Nature TV",
+          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
+        },
+        {
+          "name": "Nice Guys",
+          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
+        }
+      ],
+      "duration_ms": 225618,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -835,26 +855,6 @@
       "duration_ms": 258665,
       "name": "Patience Etc... (George Clanton Remix)",
       "url": "https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
-      },
-      "artists": [
-        {
-          "name": "Nature TV",
-          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
-        },
-        {
-          "name": "Nice Guys",
-          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
-        }
-      ],
-      "duration_ms": 225618,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "never had a place",
-        "url": "https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX"
+        "name": "what if love isn't enough",
+        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
       },
       "artists": [
         {
-          "name": "Jadu Jadu",
-          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
         }
       ],
-      "duration_ms": 173774,
-      "name": "never had a place",
-      "url": "https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL"
+      "duration_ms": 228522,
+      "name": "what if love isn't enough",
+      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1063,6 +1059,26 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "never had a place",
+        "url": "https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX"
+      },
+      "artists": [
+        {
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 173774,
+      "name": "never had a place",
+      "url": "https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Cosas Que Probablemente No Van a Pasar",
         "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 160000,
       "name": "Cosas que probablemente no van a pasar",
       "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "what if love isn't enough",
-        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 228522,
-      "name": "what if love isn't enough",
-      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/12ehvPg4PDufuo4FhfAWgr"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
+      },
+      "artists": [
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Hyper-normal",
         "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+        "name": "Lean Into Life",
+        "url": "https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
+      "duration_ms": 327266,
+      "name": "Lean Into Life",
+      "url": "https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Lean Into Life",
-        "url": "https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw"
+        "name": "House Of Mirrors",
+        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
       },
       "artists": [
         {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 327266,
-      "name": "Lean Into Life",
-      "url": "https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk"
+      "duration_ms": 191072,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1307,22 +1323,6 @@
       "duration_ms": 235653,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191072,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2022-07-06 15:18:34",

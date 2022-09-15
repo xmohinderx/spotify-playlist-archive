@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-349 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+350 songs - 1 day 0 hr 53 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,13 @@
 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 | 2022-07-13 |  |
 | [Bleed the Crown](https://open.spotify.com/track/7v3AunDgAY2f3Ldmf7ZTIg) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Bleed the Crown](https://open.spotify.com/album/0RE0xJCTL8zZwOJAPoYeET) | 4:26 | 2021-12-17 | 2022-07-28 |
 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 | 2021-12-17 | 2022-07-28 |
+| [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 | 2022-09-09 |  |
 | [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 | 2022-08-21 |
 | [Bloody Rain](https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Bloody Rain](https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV) | 5:16 | 2021-12-17 | 2022-07-25 |
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 |  |
 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
 | [Bonded by Blood](https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:44 | 2022-07-13 |  |
-| [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 | 2022-07-13 |  |
+| [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 | 2022-07-13 | 2022-09-15 |
 | [Born of Hate](https://open.spotify.com/track/7snzHEKAaNQvzl4VBhN9xQ) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Born of Hate](https://open.spotify.com/album/0GCuoA1qUQQS507pkgUkJo) | 4:17 | 2021-12-17 | 2022-07-29 |
 | [Born to Perish](https://open.spotify.com/track/5n5Vp0U7rNR3H0UMP65n1k) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Born to Perish](https://open.spotify.com/album/1TUkDjkEpouUqM25s8seIy) | 5:20 | 2021-12-17 | 2022-07-29 |
 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 | 2021-12-17 | 2022-07-28 |

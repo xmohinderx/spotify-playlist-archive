@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 12956,
+  "num_followers": 13018,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMjI1NywwMDAwMDAwMGMwYzNhODEyOTA0YjY4NmUxNTg2MmY2YTg2NjJjYzQ2",
+  "snapshot_id": "MTY2MTkzMjI1NywwMDAwMDAwMDZkZTc3Yjk3ZGQ3N2MxNDQ5ZGY1NDgyMDVjZmFlZjU4",
   "tracks": [
     {
       "added_at": "2022-08-31 07:50:57",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "El Cayuco",
-      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
-    },
-    {
-      "added_at": "2022-08-31 07:50:57",
-      "album": {
         "name": "Cita Con Luis Arcaraz",
         "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 197373,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/3Nsn3y2IpzcuDIKZDgS3oS"
+    },
+    {
+      "added_at": "2022-08-31 07:50:57",
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "El Cayuco",
+      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -259,22 +259,18 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "La Sonora Matancera Desde Cuba. 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1"
+        "name": "Los Churumbeles",
+        "url": "https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+          "name": "Los Churumbeles De Espa\u00f1a",
+          "url": "https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4"
         }
       ],
-      "duration_ms": 177333,
-      "name": "Angustia",
-      "url": "https://open.spotify.com/track/5ZQi9369ovLvjyvp4vEHTM"
+      "duration_ms": 192693,
+      "name": "Doce Cascabeles",
+      "url": "https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -295,18 +291,18 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "Los Churumbeles",
-        "url": "https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
       },
       "artists": [
         {
-          "name": "Los Churumbeles De Espa\u00f1a",
-          "url": "https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Doce Cascabeles",
-      "url": "https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA"
+      "duration_ms": 143020,
+      "name": "Bikini Amarillo",
+      "url": "https://open.spotify.com/track/72g1PJpGW0wk5dglxSloxN"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -359,18 +355,22 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
+        "name": "La Sonora Matancera Desde Cuba. 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
         }
       ],
-      "duration_ms": 143020,
-      "name": "Bikini Amarillo",
-      "url": "https://open.spotify.com/track/72g1PJpGW0wk5dglxSloxN"
+      "duration_ms": 177333,
+      "name": "Angustia",
+      "url": "https://open.spotify.com/track/5ZQi9369ovLvjyvp4vEHTM"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "Sus Mejores Boleros",
-        "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
       },
       "artists": [
         {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 176000,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
+      "duration_ms": 144544,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -487,34 +487,18 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "Las Canciones de Luis Mariano",
-        "url": "https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR"
+        "name": "Sus Mejores Boleros",
+        "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
       },
       "artists": [
         {
-          "name": "Luis Mariano",
-          "url": "https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 211760,
-      "name": "Violetas Imperiales",
-      "url": "https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ"
-    },
-    {
-      "added_at": "2022-08-31 07:50:57",
-      "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 144544,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh"
+      "duration_ms": 176000,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -535,18 +519,34 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+        "name": "Las Canciones de Luis Mariano",
+        "url": "https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR"
       },
       "artists": [
         {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+          "name": "Luis Mariano",
+          "url": "https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG"
         }
       ],
-      "duration_ms": 181506,
-      "name": "El Boogie de la Guitarra",
-      "url": "https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT"
+      "duration_ms": 211760,
+      "name": "Violetas Imperiales",
+      "url": "https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ"
+    },
+    {
+      "added_at": "2022-08-31 07:50:57",
+      "album": {
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "Tu Castigo",
+      "url": "https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -563,6 +563,38 @@
       "duration_ms": 149360,
       "name": "Cherry Pink And Apple Blossom White",
       "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
+    },
+    {
+      "added_at": "2022-08-31 07:50:57",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "El Boogie de la Guitarra",
+      "url": "https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT"
+    },
+    {
+      "added_at": "2022-08-31 07:50:57",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "P\u00e9njamo",
+      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -591,38 +623,6 @@
       "duration_ms": 217133,
       "name": "\"Siboney\"",
       "url": "https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1"
-    },
-    {
-      "added_at": "2022-08-31 07:50:57",
-      "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "P\u00e9njamo",
-      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
-    },
-    {
-      "added_at": "2022-08-31 07:50:57",
-      "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "Tu Castigo",
-      "url": "https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ"
     },
     {
       "added_at": "2022-08-31 07:50:57",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-08-31 07:50:57",
       "album": {
-        "name": "Ana Maria Parra, Vol. 1 (1958 - 1961 Remastered)",
-        "url": "https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG"
-      },
-      "artists": [
-        {
-          "name": "Ana Maria Parra",
-          "url": "https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei"
-        }
-      ],
-      "duration_ms": 134478,
-      "name": "Las Chicas de la Cruz Roja (Fox Fado) - Remastered",
-      "url": "https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7"
-    },
-    {
-      "added_at": "2022-08-31 07:50:57",
-      "album": {
         "name": "M\u00e9xico 100 Canciones Vintage",
         "url": "https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 187988,
       "name": "Yo",
       "url": "https://open.spotify.com/track/7E94RnuinkUBYSengvutwL"
+    },
+    {
+      "added_at": "2022-08-31 07:50:57",
+      "album": {
+        "name": "Ana Maria Parra, Vol. 1 (1958 - 1961 Remastered)",
+        "url": "https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG"
+      },
+      "artists": [
+        {
+          "name": "Ana Maria Parra",
+          "url": "https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei"
+        }
+      ],
+      "duration_ms": 134478,
+      "name": "Las Chicas de la Cruz Roja (Fox Fado) - Remastered",
+      "url": "https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7"
     },
     {
       "added_at": "2022-08-31 07:50:57",

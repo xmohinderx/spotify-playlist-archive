@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: JELEEL!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,217 likes - 111 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,245 likes - 111 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,989 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,654 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 5 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 |
 | 6 | [Balazul](https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:22 |
 | 7 | [Longe](https://open.spotify.com/track/4ZublBKLDU0UFxmfOXJECf) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Longe](https://open.spotify.com/album/7ITDtj5kpJ2BfVYSAwGPkZ) | 2:34 |
-| 8 | [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 |
+| 8 | [Outro Patamar](https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj) | 3:44 |
 | 9 | [Taylor Swift](https://open.spotify.com/track/6gzVtouBunn9PKdVy1ppQ5) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [1\-800WRLD](https://open.spotify.com/artist/279jm5uJdkabH3QdQu4eF7), [1800corle](https://open.spotify.com/artist/4a8SqEvitNQ7fUaYtuE4vD) | [C\-56](https://open.spotify.com/album/6FUCbcYKWXXtSbq54NhATT) | 2:15 |
 | 10 | [Predestinado](https://open.spotify.com/track/7eZCP5YHeqVsIGaPp8y9ac) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Predestinado](https://open.spotify.com/album/2upWbocp41H5qa6FuKimfn) | 3:14 |
 | 11 | [8 Janela](https://open.spotify.com/track/328adGLNgO0vhfFerM4VnE) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf) | [8 Janela](https://open.spotify.com/album/6gMAPIVUnpkQXPYiWeuOEc) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Sem Dó](https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Sem Dó](https://open.spotify.com/album/3sQwZ1Bu0Qhzn2XeJwQW9E) | 4:27 |
 | 75 | [Pérola](https://open.spotify.com/track/0OUFQe9fTQPUDh04a2IbaE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5) | [Pérola](https://open.spotify.com/album/5GJLRXEEBcQoPp1X8nFpyK) | 1:54 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGNiOTQ3MzYzNWQ2ZTMxZGIyNTQ1MzRkZDE1NDAyMjVl`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDdhZjIzZWZhZjgyYzJiZDhkMTZiNDc4MGEzYWYxMDZm`

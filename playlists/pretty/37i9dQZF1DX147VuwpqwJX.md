@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,169 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,252 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 12 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
 | 13 | [Good PusS \(feat\. cupcakKe\) \- Remix](https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Good PusS \(feat\. cupcakKe\) \[Remix\]](https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO) | 3:39 |
 | 14 | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y) | [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO) | 3:19 |
-| 15 | [Xtravaganza \- Radio Edit](https://open.spotify.com/track/0qOlJjXhjlNfQG1OUvIEAT) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza](https://open.spotify.com/album/0jfpShFOEen1oUQpMyBEnH) | 2:56 |
+| 15 | [Xtravaganza \- Radio Edit](https://open.spotify.com/track/7mdguyC4dPAgeZvQdCs7NJ) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza \(Radio Edit\)](https://open.spotify.com/album/3pZrV5Bg3BZWjFVKTrYg49) | 2:56 |
 | 16 | [Just What They Want](https://open.spotify.com/track/62s3hLvgAt4gavLSMPGcLT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Just What They Want](https://open.spotify.com/album/5NKFYyhUTlEh6RmgRJc5AY) | 3:12 |
 | 17 | [BBB](https://open.spotify.com/track/6iYyeyUc0zEXCOFm8kgKSA) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD), [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3) | [BBB](https://open.spotify.com/album/6DKpHRzwz47gcPyHFVpSgF) | 2:51 |
 | 18 | [Legendary](https://open.spotify.com/track/4J1AnCdae0k9iEcZSfJuUq) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Legendary](https://open.spotify.com/album/5gMfeKrP2jXGxgVHahlDwz) | 2:58 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 100 | [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 |
 | 101 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDE4ZjJlMTMyMGQ2ZWE0ZTFmYWI2MTQ1MGYyZDI3NjFi`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDI4Mzk1ZjM0MGJmYzBjMDMxNDY3NGY2NjY2ZjBhOTQz`

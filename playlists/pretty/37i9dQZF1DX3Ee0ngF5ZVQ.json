@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Pat Green",
-  "num_followers": 384227,
+  "num_followers": 384314,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDkwZWQ1MzdmZjJkNmQ0NGYyMDYyZDYwNTYyYzdiZDU5",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGVkNGViOGViOTljOTZmYTY1MmExNmFlODk0Mzk3NjQ4",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -455,22 +455,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Wild Palomino",
-        "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
+        "name": "Geronimo",
+        "url": "https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 198514,
-      "name": "Wild Palomino",
-      "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
+      "duration_ms": 257413,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -511,18 +507,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Geronimo",
-        "url": "https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz"
+        "name": "Wild Palomino",
+        "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 257413,
-      "name": "All I See Is You",
-      "url": "https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q"
+      "duration_ms": 198514,
+      "name": "Wild Palomino",
+      "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "All It Cost Me Was Everything",
-        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "But Me",
         "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
       },
@@ -1031,18 +1015,38 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+        "name": "All It Cost Me Was Everything",
+        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 229586,
-      "name": "If I Lived Here",
-      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1083,6 +1087,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "If I Lived Here",
+      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 217720,
       "name": "Telling on My Heart",
       "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
-      },
-      "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Baby Do",
-        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 208392,
-      "name": "Baby Do",
-      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 192680,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Baby Do",
+        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 208392,
+      "name": "Baby Do",
+      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Who Am I to Judge",
-        "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
-      },
-      "artists": [
-        {
-          "name": "Logan Jahnke",
-          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 232267,
-      "name": "Who Am I to Judge",
-      "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -1283,38 +1263,6 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw"
-      },
-      "artists": [
-        {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
-        }
-      ],
-      "duration_ms": 186993,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Cowboys Don't Cry",
-        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 189657,
-      "name": "Cowboys Don't Cry",
-      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1335,6 +1283,58 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 186993,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Who Am I to Judge",
+        "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
+      },
+      "artists": [
+        {
+          "name": "Logan Jahnke",
+          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 232267,
+      "name": "Who Am I to Judge",
+      "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Cowboys Don't Cry",
+        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 189657,
+      "name": "Cowboys Don't Cry",
+      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Cowboys Don't Change",
         "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
       },
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Nothing But Love Songs",
-        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+        "name": "Breaking Every Heart In Texas",
+        "url": "https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
         }
       ],
-      "duration_ms": 225180,
-      "name": "Nothing But Love Songs",
-      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
+      "duration_ms": 206178,
+      "name": "Breaking Every Heart In Texas",
+      "url": "https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Breaking Every Heart In Texas",
-        "url": "https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz"
+        "name": "Nothing But Love Songs",
+        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
         }
       ],
-      "duration_ms": 206178,
-      "name": "Breaking Every Heart In Texas",
-      "url": "https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80"
+      "duration_ms": 225180,
+      "name": "Nothing But Love Songs",
+      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Wishin' on an Airplane",
+        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 210241,
+      "name": "Wishin' on an Airplane",
+      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Washington Street (Classen Sessions)",
-        "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 224841,
-      "name": "Washington Street - Classen Sessions",
-      "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1511,38 +1511,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Wishin' on an Airplane",
-        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
+        "name": "Washington Street (Classen Sessions)",
+        "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 210241,
-      "name": "Wishin' on an Airplane",
-      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
-        "url": "https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
-      "url": "https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF"
+      "duration_ms": 224841,
+      "name": "Washington Street - Classen Sessions",
+      "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1579,18 +1559,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
+        "url": "https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 242253,
+      "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
+      "url": "https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 239293,
       "name": "Beaumont",
       "url": "https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Cheating On A Memory Chapter 2",
-        "url": "https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr"
+        "name": "Honky Tonk in Heaven",
+        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
       "artists": [
         {
-          "name": "The Lowdown Drifters",
-          "url": "https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG"
+          "name": "Kin Faux",
+          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
         }
       ],
-      "duration_ms": 214582,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs"
+      "duration_ms": 167520,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     }
   ],
   "unique_name": "Texas Country Now",

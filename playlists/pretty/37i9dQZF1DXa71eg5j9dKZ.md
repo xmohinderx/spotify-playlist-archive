@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: George Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,391 likes - 129 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,534 likes - 129 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 48 | [low down \- Pola & Bryson Remix](https://open.spotify.com/track/43XXw4DgEq4FLeLheuED0X) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [low down \(Pola & Bryson Remix\)](https://open.spotify.com/album/5csE46USnhp1MKSjp9Yj7J) | 3:46 |
 | 49 | [Bluff \- yeule & Kin Leonn Remix](https://open.spotify.com/track/45rqRN1h6iNDMIAb0idSjQ) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Bluff \(yeule & Kin Leonn Remix\)](https://open.spotify.com/album/53gadAfcSnos0A24W747L3) | 2:55 |
 | 50 | [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 |
-| 51 | [Patience](https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Patience](https://open.spotify.com/album/6IQypifmnX8UojIY74r5pH) | 4:17 |
+| 51 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
 | 52 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 |
 | 53 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
 | 54 | [Sternenhimmel](https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Sternenhimmel](https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe) | 5:34 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 128 | [Salt](https://open.spotify.com/track/3qGU5R3DwpjbQzknfy4Ci9) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Salt](https://open.spotify.com/album/0Tn4IqUFauNbb6BP3sL5oO) | 3:52 |
 | 129 | [Nine Seasons](https://open.spotify.com/track/4K3CHxw4oPJoaLeaPTxQdW) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Our Intervals](https://open.spotify.com/album/4VaMZuSITaM8JVJn60HRow) | 4:36 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDZlNGFhMzBjYmYxZmI5MjdmYmMyNTk3ZTA3MGE1YmUw`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDQwOWI5Zjg0NWQzNzgwN2UwZmM4ZTNhNWI0ZjBiY2Nm`

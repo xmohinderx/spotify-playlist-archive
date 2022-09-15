@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Paulin da Capital, Mc Dricka",
-  "num_followers": 33342,
+  "num_followers": 33458,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMGQ2ODlhMjJiYzAzODJiNGNmYjI0NWIzN2E5MmNhZGM1",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMGVjN2I1NGIxMDkwMGRlZTU0MDE2M2I2Njg4ZGIxMzI4",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "QVVJFA?",
-        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 266250,
-      "name": "Samba in Paris",
-      "url": "https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 186947,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "QVVJFA?",
+        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "Samba in Paris",
+      "url": "https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -263,26 +263,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Peda\u00e7o de Mim",
-        "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
+        "name": "Ap\u00ea 1001",
+        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
       "artists": [
-        {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
-        },
         {
           "name": "BIN",
           "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         },
         {
-          "name": "IssoQue\u00c9SomDeRap",
-          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 202318,
-      "name": "Peda\u00e7o de Mim",
-      "url": "https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW"
+      "duration_ms": 171428,
+      "name": "Ap\u00ea 1001",
+      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -343,6 +347,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Peda\u00e7o de Mim",
+        "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
+      },
+      "artists": [
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        }
+      ],
+      "duration_ms": 202318,
+      "name": "Peda\u00e7o de Mim",
+      "url": "https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Amor e Amor",
         "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
       },
@@ -399,34 +427,6 @@
       "duration_ms": 199384,
       "name": "Na Onda",
       "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Ap\u00ea 1001",
-        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ap\u00ea 1001",
-      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -571,6 +571,34 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Todo T\u00edmido",
+      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
       },
@@ -591,30 +619,6 @@
       "duration_ms": 212018,
       "name": "Sobre N\u00f3s",
       "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "N\u00e3o Era pra Ficar",
-        "url": "https://open.spotify.com/album/5uC2FTc7S7Q2S3bb69Uaml"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        },
-        {
-          "name": "Mc Marcela GC",
-          "url": "https://open.spotify.com/artist/4H9FxcmPgz79NR6FLxGBND"
-        }
-      ],
-      "duration_ms": 177235,
-      "name": "N\u00e3o Era pra Ficar",
-      "url": "https://open.spotify.com/track/1nUlMrFnHfRl3oJ4ZMt5Xg"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -679,30 +683,26 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
+        "name": "N\u00e3o Era pra Ficar",
+        "url": "https://open.spotify.com/album/5uC2FTc7S7Q2S3bb69Uaml"
       },
       "artists": [
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
         },
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Mc Marcela GC",
+          "url": "https://open.spotify.com/artist/4H9FxcmPgz79NR6FLxGBND"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Todo T\u00edmido",
-      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
+      "duration_ms": 177235,
+      "name": "N\u00e3o Era pra Ficar",
+      "url": "https://open.spotify.com/track/1nUlMrFnHfRl3oJ4ZMt5Xg"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Amor de Fim de Noite",
-        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Amor de Fim de Noite",
-      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 197052,
       "name": "Morena",
       "url": "https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Amor de Fim de Noite",
+        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Amor de Fim de Noite",
+      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
     },
     {
       "added_at": "2022-08-12 03:01:00",

@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-97 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
+98 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Heybb!](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8) | 2:28 | 2021-10-26 |  |
 | [High School Lover](https://open.spotify.com/track/2JMGXBUNp9rNLjCt7Cf3jM) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Bigfoot](https://open.spotify.com/album/41pgjPXLViJ7njgJaJj9m0) | 3:40 | 2021-10-26 |  |
 | [High School Lover](https://open.spotify.com/track/2hPT4VtaYhDY5OcT7jxzAb) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Bigfoot](https://open.spotify.com/album/5KqryI5QWOvC0mVsJrvAJD) | 3:40 | 2021-10-26 | 2022-07-29 |
-| [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2021-10-26 |  |
+| [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 | 2021-10-26 |  |
+| [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2021-10-26 | 2022-09-15 |
 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 | 2021-10-26 |  |
 | [I Have Got No Money](https://open.spotify.com/track/7pcNgV4TOctgEErMh0ozNq) | [Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 4:05 | 2021-10-26 |  |
 | [I Love You](https://open.spotify.com/track/1hjMPRvAD6WaXQrvUT2DV5) | [Willie Griffin](https://open.spotify.com/artist/3Q6t87fXgz5a0ObJAaAC7d) | [I Love You](https://open.spotify.com/album/51D8j2iMLynfsGkE72E5IF) | 3:14 | 2021-10-26 |  |

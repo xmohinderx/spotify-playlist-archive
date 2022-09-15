@@ -893,6 +893,10 @@
         {
           "name": "Shubh",
           "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
       "date_added": "2022-09-10",
@@ -1799,7 +1803,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 211578,
       "name": "Channa Ve",
       "url": "https://open.spotify.com/track/58ynJq9eLLDChA3GNFJcDL"
@@ -2393,7 +2397,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -2653,6 +2657,36 @@
       "duration_ms": 222500,
       "name": "Duniyaa (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/3s3J70eRpRH2hcYq4mEXTJ"
+    },
+    {
+      "album": {
+        "name": "Duniyaa (From \"Luka Chuppi\")",
+        "url": "https://open.spotify.com/album/5hzAIEMlQpsEGIQFvnFOQx"
+      },
+      "artists": [
+        {
+          "name": "Akhil",
+          "url": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Abhijit Vaghani",
+          "url": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+        },
+        {
+          "name": "Bob",
+          "url": "https://open.spotify.com/artist/69TcMkhvenAeokIhBGIUCQ"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Duniyaa (From \"Luka Chuppi\")",
+      "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
     },
     {
       "album": {
@@ -4963,7 +4997,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 237558,
       "name": "Kanja Poovu Kannala (From \"Viruman\")",
       "url": "https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz"
@@ -7099,7 +7133,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170387,
-      "name": "NO LOVE",
+      "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
     },
     {
@@ -7481,7 +7515,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 211384,
       "name": "Pathala Pathala (From \"Vikram\")",
       "url": "https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3"
@@ -7757,7 +7791,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 218343,
       "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
       "url": "https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa"
@@ -10363,7 +10397,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199205,
-      "name": "WE ROLLIN",
+      "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"
     },
     {

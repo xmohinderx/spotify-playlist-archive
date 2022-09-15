@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-121 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
+122 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2022-03-25 |  |
 | [Candy Eyes](https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Candy Eyes](https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX) | 2:50 | 2022-03-25 |  |
 | [captain's dance with the devil](https://open.spotify.com/track/5S7rqoAt14NRdZxfVNFtNf) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [captain's dance with the devil](https://open.spotify.com/album/53ZUMxyPB12MuCBkcRN5ig) | 2:26 | 2022-03-25 |  |
+| [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 | 2022-08-25 |  |
 | [Carry You](https://open.spotify.com/track/6csk7RGrFhxbi6hPwQImPf) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/3DBne1mcu8Glvx5au357Io) | 4:32 | 2022-03-25 | 2022-07-29 |
-| [Carry You](https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 4:32 | 2022-06-17 |  |
+| [Carry You](https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 4:32 | 2022-06-17 | 2022-09-15 |
 | [Changeophelia](https://open.spotify.com/track/1gZgvCvAGkM5dHwDZq39Dn) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Changeophelia](https://open.spotify.com/album/47fCEhb4VKV4J4Hnwlw2vA) | 4:06 | 2022-08-25 |  |
 | [Civilized](https://open.spotify.com/track/3T9IA0EvjCZ4Ifs6oCH7MV) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Civilized](https://open.spotify.com/album/2IZqsfwaAWAirdFkSdjOgr) | 3:25 | 2022-03-25 | 2022-07-29 |
 | [Civilized](https://open.spotify.com/track/3bQvM3YOC0CLeqZuKwHTZP) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Civilized](https://open.spotify.com/album/1iJwOG1p3lEd5DAw8s76Vq) | 3:25 | 2022-06-17 |  |

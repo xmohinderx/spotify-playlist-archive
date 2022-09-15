@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-171 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+172 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Chakatrunka](https://open.spotify.com/track/5vw99DjJyEsxK0OU7ix30K) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Valentina Brishantina](https://open.spotify.com/artist/6kRJXBf5UTzwX4faVGTKhx) | [10.000 Días](https://open.spotify.com/album/0VVKlDMWh1Qtt5T9go3RqD) | 3:16 | 2022-03-04 | 2022-08-02 |
 | [Chalino y Sus 7 Balazos](https://open.spotify.com/track/25wMvLWjG1ev4XnKADowa0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 3:51 | 2021-10-05 | 2022-07-14 |
 | [Cigarros y Tragos](https://open.spotify.com/track/0iw2XtkqcydW4BgdsTyH2L) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 5:55 | 2021-10-05 | 2022-05-28 |
-| [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 |  |
+| [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 |  |
+| [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-09-15 |
 | [Coidar dunhas Colmeas](https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf) | [Néboa](https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8) | [Coidar dunhas Colmeas](https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN) | 3:58 | 2021-10-05 |  |
 | [Collar de Perlas](https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Collar de Perlas](https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM) | 4:29 | 2022-03-03 |  |
 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 | 2021-10-05 | 2022-04-06 |

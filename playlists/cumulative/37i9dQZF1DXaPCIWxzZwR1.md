@@ -4,7 +4,7 @@
 
 > next gen pop cover: Dove Cameron
 
-1,097 songs - 2 day 5 hr 18 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,098 songs - 2 day 5 hr 20 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Cowboys](https://open.spotify.com/track/4pQx11xYo2rNP5HdOoaLgt) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 3:58 | 2021-03-06 | 2021-05-08 |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-01-14 | 2022-02-12 |
 | [Crisis](https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 3:09 | 2021-12-04 | 2021-12-08 |
-| [cross your mind](https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [cross your mind](https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37) | 2:40 | 2022-08-26 |  |
+| [cross your mind](https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [cross your mind](https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37) | 2:40 | 2022-08-26 | 2022-09-15 |
 | [Cruel](https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Cruel](https://open.spotify.com/album/2XVAjpwJNlbMQF5N7cGfIf) | 3:15 | 2022-08-12 |  |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-11 | 2022-02-26 |
 | [Cry & Drive](https://open.spotify.com/track/2Ax1YbkGUKOxhk20b6bKKs) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Cry & Drive](https://open.spotify.com/album/39DAl4ulYlwxdLJUnHBpZk) | 3:28 | 2021-05-08 | 2021-06-26 |
@@ -830,6 +830,7 @@
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2021-12-04 | 2022-02-26 |
 | [Set The Table \(feat\. Claud\)](https://open.spotify.com/track/4KKfz33BvPygaynUJyeyC2) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Set The Table](https://open.spotify.com/album/293J6DF0p1SvXtIt9xFilZ) | 3:15 | 2021-04-10 | 2021-04-24 |
 | [Settle Down](https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [It's 2016 Somewhere](https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec) | 2:58 | 2022-04-15 | 2022-05-14 |
+| [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-14 |  |
 | [Sh\*t People](https://open.spotify.com/track/2o5waDrBvUvW0vmZWQ7DtS) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sh\*t People](https://open.spotify.com/album/2kWbl4QeZsNbCdLAPeV6cR) | 3:16 | 2021-08-14 | 2021-09-28 |
 | [Shade of Yellow](https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Shade of Yellow](https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ) | 2:36 | 2021-06-19 | 2021-07-04 |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-02-25 | 2022-04-16 |

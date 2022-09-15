@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-260 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+261 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 | 2021-06-04 |  |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0crhvasDtSsXpLX2dlnb7Z) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:16 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 | 2021-02-03 | 2022-09-07 |
+| [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/track/6KV5CVoCjuHX9FOJilDrcw) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/album/0xjzdHpgKNy5jusRVHV4oz) | 2:44 | 2022-09-13 |  |
 | [Binaural Sines 7hz Alpha \- 58hz \- 65hz](https://open.spotify.com/track/2DbwsaYDvznsSkh4c5XgmI) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Assembly of Sines](https://open.spotify.com/album/4BrlUJIq4Bb0ZoOQcvpIcy) | 2:40 | 2022-08-12 |  |
 | [Binaural Vibe Alpha Sinus 64\-74 Hz](https://open.spotify.com/track/3QjHNYEzGUDfMOHqjnPJJA) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:26 | 2022-08-22 |  |
 | [Birds Touch \- Gamma](https://open.spotify.com/track/19TGWSV1jpgTRxb6N37BdA) | [Meditative Souls](https://open.spotify.com/artist/6nyLL1OEFX7G7DUL3Wiyul) | [Birds Touch \- Gamma](https://open.spotify.com/album/0wFeuyeCcAOFVZrcPNmbUw) | 1:41 | 2021-02-03 | 2021-12-09 |

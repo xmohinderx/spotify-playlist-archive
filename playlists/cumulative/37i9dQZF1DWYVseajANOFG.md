@@ -4,11 +4,12 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Tachi
 
-103 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
+104 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0 Amigos Falsos](https://open.spotify.com/track/6nkqEujDSjOMT53nuapSyA) | [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [0 Amigos Falsos](https://open.spotify.com/album/4RFPDhWbcCHopB0xxhIw2h) | 5:42 | 2022-06-03 |  |
+| [0 Amigos Falsos](https://open.spotify.com/track/3MNLql99iLhTKLwRyzyfUe) | [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [0 Amigos Falsos](https://open.spotify.com/album/6f7lvKrnzM3oxA0niv4vru) | 5:42 | 2022-09-09 |  |
+| [0 Amigos Falsos](https://open.spotify.com/track/6nkqEujDSjOMT53nuapSyA) | [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [0 Amigos Falsos](https://open.spotify.com/album/4RFPDhWbcCHopB0xxhIw2h) | 5:42 | 2022-06-03 | 2022-09-15 |
 | [10 Lunas](https://open.spotify.com/track/6yqOSm8d770nDfE0DcohsO) | [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq), [Kabliz](https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy), [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7) | [10 Lunas](https://open.spotify.com/album/2YtEphndYtXqzWPSvd8Oe1) | 2:42 | 2022-07-22 | 2022-08-13 |
 | [A Ciegas](https://open.spotify.com/track/6O4gI4TfPF6JCphukDmRqx) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux) | [Ninus: Nothing Is New Under Sun](https://open.spotify.com/album/2VIcLB3gypXMUG9kA0njD5) | 3:01 | 2022-03-11 | 2022-05-20 |
 | [Airdrop](https://open.spotify.com/track/3x0I8b2102AeAlt60vpJmb) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [Family Ties](https://open.spotify.com/album/4Ni9i51tUpUzJB0fhCOwVJ) | 3:01 | 2022-09-02 |  |

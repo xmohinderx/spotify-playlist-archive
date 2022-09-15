@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,221 likes - 25 songs - 1 hr 25 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,225 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 4 | [No Sleep, No Guidance \- Radio Edit](https://open.spotify.com/track/2TaqYqpPhV6ygWthhROz7P) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [No Sleep, No Guidance \(Radio Edit\)](https://open.spotify.com/album/6QICJVoAzzZUROBTSEVCBE) | 2:47 |
 | 5 | [Step Correct](https://open.spotify.com/track/6NlCfMAf2BUR8rLpnyYb0p) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Step Correct](https://open.spotify.com/album/6mWSOP4xoZPRMrNEXHt3Fd) | 2:33 |
 | 6 | [Over You](https://open.spotify.com/track/6N3gAHf63OwvFP5Q4JrsjS) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Over You](https://open.spotify.com/album/4jv09rXW2RiPraJduSQEaX) | 3:22 |
-| 7 | [Dipped In Sugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 |
+| 7 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 |
 | 8 | [In the End \- 2022 Remix](https://open.spotify.com/track/45iGRXCABRBECotYkb8rZH) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [In the End \(2022 Remix\)](https://open.spotify.com/album/1D6RsU0GVmD3oAIt4izM6z) | 4:07 |
 | 9 | [Lil Mama \- FREAK ON Remix](https://open.spotify.com/track/0x70a1mdqojOghwbarZUEU) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Lil Mama \(FREAK ON Remix\)](https://open.spotify.com/album/2pPaFWVAMWrDm0uIMvUXZX) | 2:53 |
 | 10 | [Systems](https://open.spotify.com/track/0YQNYbRsnyQRidGJVqhegH) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Systems](https://open.spotify.com/album/0EEP26OCAWe9dOio2dEdOp) | 2:47 |

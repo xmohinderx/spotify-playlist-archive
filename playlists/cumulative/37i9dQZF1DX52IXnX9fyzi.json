@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1944",
+        "url": "https://open.spotify.com/album/0HrjY80TfLk68dxuqBpBJp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "1944",
+      "url": "https://open.spotify.com/track/6MXhtfWjnKHwWB9PqVs8Po"
+    },
+    {
+      "album": {
         "name": "2017",
         "url": "https://open.spotify.com/album/3r9NQVsjX9DpHVE6xyOarC"
       },
@@ -657,6 +675,24 @@
       "duration_ms": 139661,
       "name": "Coastal",
       "url": "https://open.spotify.com/track/4qY01pTRNtpqB9vAYXipiy"
+    },
+    {
+      "album": {
+        "name": "Cos I doubt",
+        "url": "https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146050,
+      "name": "Cos I doubt",
+      "url": "https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH"
     },
     {
       "album": {
@@ -1438,6 +1474,42 @@
     },
     {
       "album": {
+        "name": "Heartsease",
+        "url": "https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE"
+      },
+      "artists": [
+        {
+          "name": "Nadia Oak",
+          "url": "https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145789,
+      "name": "Heartsease",
+      "url": "https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4"
+    },
+    {
+      "album": {
+        "name": "Hinode",
+        "url": "https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Guild",
+          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "Hinode",
+      "url": "https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN"
+    },
+    {
+      "album": {
         "name": "Homebound",
         "url": "https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8"
       },
@@ -1471,6 +1543,24 @@
       "duration_ms": 135000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp"
+    },
+    {
+      "album": {
+        "name": "How Could This Be",
+        "url": "https://open.spotify.com/album/3ZzbWMSygmI1anR4IkM1F6"
+      },
+      "artists": [
+        {
+          "name": "Aleron Lapointe",
+          "url": "https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120051,
+      "name": "How Could This Be",
+      "url": "https://open.spotify.com/track/0uHRLoC9zV05lswwqX4MNA"
     },
     {
       "album": {
@@ -1971,7 +2061,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 158000,
       "name": "Larissa",
       "url": "https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt"
@@ -2295,7 +2385,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 135000,
       "name": "Memories In Red",
       "url": "https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM"
@@ -2317,6 +2407,24 @@
       "duration_ms": 136951,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC"
+    },
+    {
+      "album": {
+        "name": "Missing The Sunrise",
+        "url": "https://open.spotify.com/album/1uPga5l6eVa6S6IuDxCJyD"
+      },
+      "artists": [
+        {
+          "name": "OIYYIO",
+          "url": "https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144485,
+      "name": "Missing The Sunrise",
+      "url": "https://open.spotify.com/track/5ZqtRar70d5Kx5P9ow0umc"
     },
     {
       "album": {
@@ -2421,7 +2529,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 168787,
       "name": "Monuments",
       "url": "https://open.spotify.com/track/3UuRldDkQBgFmEkgWG42Ge"
@@ -2770,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Pour dessiner des fleur",
+        "url": "https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl Alexandrienne",
+          "url": "https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "Pour dessiner des fleur",
+      "url": "https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9"
+    },
+    {
+      "album": {
         "name": "Pour toujours",
         "url": "https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ"
       },
@@ -3037,6 +3163,24 @@
       "duration_ms": 194194,
       "name": "Romance No 2 'Normandie'",
       "url": "https://open.spotify.com/track/4zGwlwhObmrKxQSVwaWFMA"
+    },
+    {
+      "album": {
+        "name": "Rondel",
+        "url": "https://open.spotify.com/album/608WW98ZRHAeC8duELOME1"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123588,
+      "name": "Rondel",
+      "url": "https://open.spotify.com/track/5ltbjrXShDx3IxIDc0V9pR"
     },
     {
       "album": {
@@ -3469,7 +3613,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 138833,
       "name": "Sv\u00e6rmer",
       "url": "https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh"
@@ -3833,7 +3977,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 116525,
       "name": "Transnistria",
       "url": "https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv"
@@ -4049,7 +4193,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 265161,
       "name": "Valse nocturne",
       "url": "https://open.spotify.com/track/1KP0DByPauicPF28zb7FMe"
@@ -4067,7 +4211,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 186980,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/7x8jYPX2xdHnm3m8Qke81u"
@@ -4283,7 +4427,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 202250,
       "name": "Wide Skies",
       "url": "https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA"
@@ -4319,7 +4463,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 181793,
       "name": "Yesterday's Waltz",
       "url": "https://open.spotify.com/track/0iJhqtZ9CkBb1bdw2BKQ0Q"

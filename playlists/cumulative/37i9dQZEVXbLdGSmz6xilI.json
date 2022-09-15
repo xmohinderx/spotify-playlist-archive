@@ -508,6 +508,28 @@
     },
     {
       "album": {
+        "name": "M\u1ed9t V\u1ea1n N\u0103m",
+        "url": "https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN"
+      },
+      "artists": [
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        },
+        {
+          "name": "TRANG",
+          "url": "https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276500,
+      "name": "Anh Nh\u1edb Ra (feat. TRANG)",
+      "url": "https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -2259,7 +2281,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214500,
-      "name": "C\u00f4 ta",
+      "name": "C\u00f4 Ta",
       "url": "https://open.spotify.com/track/2LhaQUFez282XCuTDSTDcV"
     },
     {
@@ -2341,7 +2363,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 270000,
       "name": "C\u1ee9 Chill Th\u00f4i",
       "url": "https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c"
@@ -2525,6 +2547,32 @@
       "duration_ms": 239722,
       "name": "Dis-ease",
       "url": "https://open.spotify.com/track/54DmTIv86D3sYdiawjULQ0"
+    },
+    {
+      "album": {
+        "name": "Di\u1ec5n vi\u00ean t\u1ed3i",
+        "url": "https://open.spotify.com/album/0VcUiF3nAK2UWeWpRzESob"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "Th\u00e0nh B\u00f9i",
+          "url": "https://open.spotify.com/artist/4indpWjPPQ0lLAtYihnI5j"
+        },
+        {
+          "name": "Cadillac",
+          "url": "https://open.spotify.com/artist/4nYRl0uyEIGfhe5uR8aUVc"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349793,
+      "name": "Di\u1ec5n vi\u00ean t\u1ed3i",
+      "url": "https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8"
     },
     {
       "album": {
@@ -6759,7 +6807,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 254476,
       "name": "N\u00e0ng Th\u01a1",
       "url": "https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt"

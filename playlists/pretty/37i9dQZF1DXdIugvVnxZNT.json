@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 48174,
+  "num_followers": 48230,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MTI5NSwwMDAwMDAwMDUwMjg5NGM4MjRkNDlkNWI0ZDhhOTE1NzE0YWYxMDIx",
+  "snapshot_id": "MTY0OTg2MTI5NSwwMDAwMDAwMDFkNWM3YzFjYWJiOWRmNzNiYzgxNmIzOWU0ZGM3MzI1",
   "tracks": [
     {
       "added_at": "2022-04-13 14:48:15",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2022-04-13 14:48:15",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 156346,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
+    },
+    {
+      "added_at": "2022-04-13 14:48:15",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -503,8 +503,8 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "In Your Arms (For An Angel)",
-        "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
+        "name": "Chain My Heart",
+        "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
       },
       "artists": [
         {
@@ -512,21 +512,13 @@
           "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        },
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 150476,
-      "name": "In Your Arms (For An Angel)",
-      "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
+      "duration_ms": 146880,
+      "name": "Chain My Heart",
+      "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -695,8 +687,8 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "Chain My Heart",
-        "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
+        "name": "In Your Arms (For An Angel)",
+        "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
       "artists": [
         {
@@ -704,13 +696,21 @@
           "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
         }
       ],
-      "duration_ms": 146880,
-      "name": "Chain My Heart",
-      "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
+      "duration_ms": 150476,
+      "name": "In Your Arms (For An Angel)",
+      "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Came Here for Love",
-      "url": "https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv"
-    },
-    {
-      "added_at": "2022-04-13 14:48:15",
-      "album": {
         "name": "ASCEND",
         "url": "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
       },
@@ -859,22 +839,22 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
         }
       ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
+      "duration_ms": 203386,
+      "name": "Came Here for Love",
+      "url": "https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -899,6 +879,26 @@
       "duration_ms": 164166,
       "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty"
+    },
+    {
+      "added_at": "2022-04-13 14:48:15",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
     },
     {
       "added_at": "2022-04-13 14:48:15",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2022-04-13 14:48:15",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        },
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 215388,
-      "name": "Never Felt A Love Like This (with Hook N Sling) [feat. Dotan]",
-      "url": "https://open.spotify.com/track/1mMvahhW2Oz9waG8UTQnI4"
-    },
-    {
-      "added_at": "2022-04-13 14:48:15",
-      "album": {
         "name": "EDM Hits",
         "url": "https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 205440,
       "name": "Calling (Lose My Mind) - Radio Edit",
       "url": "https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6"
+    },
+    {
+      "added_at": "2022-04-13 14:48:15",
+      "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        },
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 215388,
+      "name": "Never Felt A Love Like This (with Hook N Sling) [feat. Dotan]",
+      "url": "https://open.spotify.com/track/1mMvahhW2Oz9waG8UTQnI4"
     },
     {
       "added_at": "2022-04-13 14:48:15",

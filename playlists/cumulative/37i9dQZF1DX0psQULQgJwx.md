@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-85 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
+89 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,9 @@
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-09-02 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-09-02 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-09-02 |  |
+| [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2022-09-13 |  |
 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 | 2022-09-02 |  |
+| [Dreams & Peace](https://open.spotify.com/track/0TclQcvmTDFsrX3aiS2oet) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Dreams & Peace](https://open.spotify.com/album/2tNQhmTTLUHzQ1gxbJjmgL) | 6:57 | 2022-09-13 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-09-02 |  |
 | [Droplets of Joy](https://open.spotify.com/track/11B1J53KNc4jkxkso6rBIm) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Droplets of Joy](https://open.spotify.com/album/4xmFc5gf28OdqkEWQkDdSA) | 4:30 | 2022-09-02 |  |
 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 | 2022-09-02 |  |
@@ -36,7 +38,7 @@
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-09-02 |  |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2022-09-02 |  |
 | [Harmonic Waves](https://open.spotify.com/track/3tNHecaOXpZHJZ2bPMtOsq) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:26 | 2022-09-02 |  |
-| [Healing Bowl](https://open.spotify.com/track/0jmPnqOCY7Vce6QXvyaOfY) | [Self Lovers](https://open.spotify.com/artist/0xSZkXuemR32ESBfNTw5CC) | [Beyond](https://open.spotify.com/album/7IQIg1Nst53Lri2GyvMPf8) | 3:49 | 2022-09-02 |  |
+| [Healing Bowl](https://open.spotify.com/track/0jmPnqOCY7Vce6QXvyaOfY) | [Self Lovers](https://open.spotify.com/artist/0xSZkXuemR32ESBfNTw5CC) | [Beyond](https://open.spotify.com/album/7IQIg1Nst53Lri2GyvMPf8) | 3:49 | 2022-09-02 | 2022-09-15 |
 | [Healing Harmony](https://open.spotify.com/track/609zrnMpQ3quDVOxmZzsCC) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 2:47 | 2022-09-02 |  |
 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 | 2022-09-02 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-09-02 |  |
@@ -51,6 +53,7 @@
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-09-02 |  |
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2022-09-02 |  |
 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 | 2022-09-02 |  |
+| [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-13 |  |
 | [My Quiet Place](https://open.spotify.com/track/1OntsKRQKkQaQNfOyRl0Ne) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [My Quiet Place](https://open.spotify.com/album/6hhNZktOa9U68TnlzXdMH8) | 3:30 | 2022-09-02 |  |
 | [Mystery Sound](https://open.spotify.com/track/0fEfKoG2qS0tsNHJg6ZEf7) | [Axiom](https://open.spotify.com/artist/76n5v6R1q993SAL6mTMmv1) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:36 | 2022-09-02 |  |
 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 | 2022-09-02 |  |
@@ -61,6 +64,7 @@
 | [Night Flowers](https://open.spotify.com/track/6yozO90dl8v9Itmf2LLDbN) | [Senjidema](https://open.spotify.com/artist/400zjNMBMV1D33VF5R2S1l) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:41 | 2022-09-02 |  |
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2022-09-02 |  |
 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 | 2022-09-02 |  |
+| [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-13 |  |
 | [Özgürlük](https://open.spotify.com/track/4qQPBDDn5KAPjxvpYDGNsR) | [Erim Yerlikaya](https://open.spotify.com/artist/2eYEu9NiGEPnCI1aaFuACY) | [Özgürlük](https://open.spotify.com/album/0ZsQ8ZSShriz3lUzh19dpA) | 3:56 | 2022-09-02 |  |
 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 | 2022-09-02 |  |
 | [Peaceful Garden](https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Garden](https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK) | 6:17 | 2022-09-02 |  |

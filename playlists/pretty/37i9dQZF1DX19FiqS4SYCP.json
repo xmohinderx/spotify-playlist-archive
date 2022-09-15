@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave, co-curated with <a href=\"https://tejanonation.net/\">Tejano Nation</a>! La nueva ola de la m\u00fasica tejana. Cover: Stefani Montiel",
-  "num_followers": 140343,
+  "num_followers": 140347,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMDg0MTkyNGQ3ZjZlY2Q5Zjc1ODAxNjMwNWUxZGMyMWU0",
+  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMGE4MThiNmIxN2EyNzdmYzM2ZjE2OTZkZmY2MDI1ZWNi",
   "tracks": [
     {
       "added_at": "2022-03-07 20:49:42",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
+        "name": "Nunca Voy A Olvidarte (Radio Mix)",
+        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
+      },
+      "artists": [
+        {
+          "name": "Los Lost Boyz",
+          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
+        }
+      ],
+      "duration_ms": 198216,
+      "name": "Nunca Voy A Olvidarte - Radio Mix",
+      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
         "name": "On the Same Track",
         "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 207725,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1tIcWX7l6ONDoomJWeizc5"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "Nunca Voy A Olvidarte (Radio Mix)",
-        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
-      },
-      "artists": [
-        {
-          "name": "Los Lost Boyz",
-          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
-        }
-      ],
-      "duration_ms": 198216,
-      "name": "Nunca Voy A Olvidarte - Radio Mix",
-      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Live Sessions 1",
-        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
-      },
-      "artists": [
-        {
-          "name": "Meste\u00f1o",
-          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Ya No Te Aguanto Moe (Live)",
-      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 231048,
       "name": "After Party",
       "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Live Sessions 1",
+        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
+      },
+      "artists": [
+        {
+          "name": "Meste\u00f1o",
+          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Ya No Te Aguanto Moe (Live)",
+      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -555,18 +555,34 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "N\u00famero Dos",
-        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
       },
       "artists": [
         {
-          "name": "Emanuel J",
-          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
         }
       ],
-      "duration_ms": 192000,
-      "name": "No Quiero Nada",
-      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Girls Night",
         "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
@@ -623,58 +623,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+        "name": "N\u00famero Dos",
+        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
       },
       "artists": [
         {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+          "name": "Emanuel J",
+          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
         }
       ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "Baby Luna",
-        "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
-      },
-      "artists": [
-        {
-          "name": "D",
-          "url": "https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb"
-        },
-        {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Baby Luna",
-      "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "That\u2019s All I\u2019ve Got to Say",
-        "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Valadez",
-          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
-        },
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 211750,
-      "name": "That\u2019s All I\u2019ve Got to Say",
-      "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
+      "duration_ms": 192000,
+      "name": "No Quiero Nada",
+      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -711,6 +671,46 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
+        "name": "That\u2019s All I\u2019ve Got to Say",
+        "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Valadez",
+          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+        },
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 211750,
+      "name": "That\u2019s All I\u2019ve Got to Say",
+      "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Baby Luna",
+        "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
+      },
+      "artists": [
+        {
+          "name": "D",
+          "url": "https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb"
+        },
+        {
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Baby Luna",
+      "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
         "name": "No Soy La Misma",
         "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 224344,
       "name": "No Soy La Misma",
       "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Entre El Frio Y El Calor",
+        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
+      },
+      "artists": [
+        {
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Entre El Frio Y El Calor",
+      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -755,22 +771,6 @@
       "duration_ms": 227186,
       "name": "Porque Sera",
       "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
-      },
-      "artists": [
-        {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     },
     {
       "added_at": "2022-03-07 20:49:42",

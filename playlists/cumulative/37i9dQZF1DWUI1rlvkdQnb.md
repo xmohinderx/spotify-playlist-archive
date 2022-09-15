@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-136 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+137 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Exit](https://open.spotify.com/track/6ILOMqjC2nX80Rg1ACdUvZ) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW) | 3:34 | 2022-06-29 |  |
 | [Exit](https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn) | 3:34 | 2021-12-10 | 2022-07-29 |
 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 | 2021-12-10 |  |
+| [Fantasy Rose](https://open.spotify.com/track/4sA5k1J1JG1CSdFcAnlDKm) | [Calm Lecce](https://open.spotify.com/artist/0CAwGUfZRUjr3HZHOpqSkz) | [Sleepy Game](https://open.spotify.com/album/1eO0MT1eCOMz2jsYBALHEs) | 4:00 | 2022-09-13 |  |
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2021-12-10 |  |
 | [Findings](https://open.spotify.com/track/343ddQVZOlgpQ4FWiSwMHP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/5qyeAgJQ1rk0uRZcjgCGMc) | 3:22 | 2021-12-10 | 2022-07-29 |
 | [Findings](https://open.spotify.com/track/47fsmEwOq739Cy3pzUgWIQ) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:22 | 2022-06-29 | 2022-08-13 |
@@ -90,14 +91,14 @@
 | [Monsoon](https://open.spotify.com/track/7e0gtNaxjn49Mj9rwPCJaC) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/6ycai16HNU5VpoOq9XILmF) | 3:51 | 2021-12-10 | 2022-07-29 |
 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Moonstone](https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Moonstone](https://open.spotify.com/album/2O8POj7EMwBTPpnMtuL3MM) | 3:26 | 2021-12-10 |  |
-| [Ocean Park](https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g) | 4:42 | 2022-06-29 |  |
+| [Ocean Park](https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g) | 4:42 | 2022-06-29 | 2022-09-15 |
 | [Ocean Park](https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB) | 4:42 | 2021-12-10 | 2022-07-29 |
 | [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 | 2022-06-29 |  |
 | [Parc Güell](https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:28 | 2021-12-10 | 2022-07-29 |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2021-12-10 |  |
 | [Peaceful Shore](https://open.spotify.com/track/564sRJoCWNRZhGf0aMnx5Q) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Dreams Within Dreams](https://open.spotify.com/album/4z7X3l4pXbdV4PdVwuyIIW) | 3:06 | 2021-12-10 |  |
 | [Persepolis](https://open.spotify.com/track/1UIoHCfDQC2eszgXMsImpD) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/0gPXYxrGPArkcbUDWUkYYi) | 2:22 | 2021-12-10 | 2022-07-29 |
-| [Persepolis](https://open.spotify.com/track/6B8dXkHi9J04EFvlDncRCm) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 | 2022-06-29 |  |
+| [Persepolis](https://open.spotify.com/track/6B8dXkHi9J04EFvlDncRCm) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 | 2022-06-29 | 2022-09-15 |
 | [Pomiri se](https://open.spotify.com/track/4RqQwKxM6mzWEJXl0DNiRn) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Pomiri se](https://open.spotify.com/album/0258oNwoApLV1QwCGfZD9P) | 3:39 | 2021-12-10 |  |
 | [Prarie Whisper](https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Lost Without Thoughts](https://open.spotify.com/album/7eSQYxXrvCdp2AWDlKGlyc) | 3:48 | 2021-12-10 | 2021-12-24 |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2021-12-10 | 2021-12-24 |
@@ -109,7 +110,7 @@
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-10 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-10 |  |
-| [Salamanca](https://open.spotify.com/track/04NXOnaOXZdHPYkldpqcCg) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/0T7TfOC2jHTwFFT0Spdkz9) | 3:30 | 2022-06-29 |  |
+| [Salamanca](https://open.spotify.com/track/04NXOnaOXZdHPYkldpqcCg) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/0T7TfOC2jHTwFFT0Spdkz9) | 3:30 | 2022-06-29 | 2022-09-15 |
 | [Salamanca](https://open.spotify.com/track/0wcO44QmAQWAXaCRbyWJzG) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/3SMBwU08IA8vUO3QgC8MK3) | 3:30 | 2021-12-10 | 2022-07-29 |
 | [Seasons](https://open.spotify.com/track/2k4okcxh49oktYeFDo1hXZ) | [Mesiki](https://open.spotify.com/artist/583apEAhOJAxhyzuljX9dL) | [Seasons](https://open.spotify.com/album/6f0GjbMUJGpZvMEJEdJuuf) | 2:30 | 2022-06-16 |  |
 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2021-12-10 | 2022-09-03 |

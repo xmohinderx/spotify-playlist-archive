@@ -2,9 +2,9 @@
 
 ### [Lo\-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams\. Cover: Frankie Cosmos
+> Slacker jams\. Cover: Eyedress
 
-312 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+314 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Arp\-87](https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa) | 2:49 | 2020-10-27\* |  |
 | [Artbook](https://open.spotify.com/track/3hDg7qkEQjEdfYz9nbewvs) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Artbook](https://open.spotify.com/album/0GcS4KiaFb2Xm0cVF7skIM) | 2:50 | 2021-09-25 | 2022-07-09 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-08-11 |  |
+| [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 | 2022-09-13 |  |
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 | 2022-09-09 |
 | [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 |  |
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2021-08-22 |  |
@@ -139,7 +140,7 @@
 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 | 2021-04-29 |  |
 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 | 2021-08-12 |  |
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2020-10-30 |  |
-| [I Am the Car](https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [I Am the Car](https://open.spotify.com/album/6RohLnKk8qFHbBeOrdjBPu) | 4:50 | 2021-08-11 |  |
+| [I Am the Car](https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [I Am the Car](https://open.spotify.com/album/6RohLnKk8qFHbBeOrdjBPu) | 4:50 | 2021-08-11 | 2022-09-15 |
 | [I Can't Compete](https://open.spotify.com/track/6CX4FpJjP2MWbo1aAq1DVQ) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [I Can't Compete](https://open.spotify.com/album/7pDNl7cxFPBLpteN97eIMW) | 3:11 | 2020-10-27\* | 2022-07-22 |
 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 | 2020-10-27\* | 2022-07-29 |
 | [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-03-30 |  |
@@ -148,6 +149,7 @@
 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 | 2022-03-30 |  |
 | [I Think](https://open.spotify.com/track/5y311JJkdTxu989fjIlgom) | [seekx](https://open.spotify.com/artist/08ugVajzIjHOiJ7SHCMYXJ) | [I Think](https://open.spotify.com/album/6wCOtNIn9HG0VgiqkQhCAP) | 2:16 | 2021-10-09 | 2022-06-12 |
 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 | 2020-10-30 |  |
+| [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-09-13 |  |
 | [i've got a best friend](https://open.spotify.com/track/1zrkQcUJWom13vJxWHSKM7) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [a love letter to the moments spent outside](https://open.spotify.com/album/4R6Cz3ASQXTOALvohpyJic) | 3:33 | 2021-02-26 | 2022-04-21 |
 | [If I...](https://open.spotify.com/track/3ghCelbN9YTHAgEGXOMB58) | [sluggg](https://open.spotify.com/artist/77IFBEioFo3VckHLwIPjQz) | [If I...](https://open.spotify.com/album/3nuzWERMITZpqOzrEPsJcF) | 2:20 | 2022-03-17 | 2022-07-19 |
 | [Ill Die for U](https://open.spotify.com/track/5v7XjzreQIVYJQkI4V5c7j) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO), [Lul Patchy](https://open.spotify.com/artist/10aK4Kl54Gv2thryqsscMN) | [Ill Die for U](https://open.spotify.com/album/2zx4Ttn8iNSCRwQ7SKDvHV) | 2:27 | 2021-04-02 | 2022-04-29 |
@@ -298,7 +300,7 @@
 | [Velvet Tears](https://open.spotify.com/track/4IAFUCNXBdf4Ft3Ud81aLb) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [The Halo Effect](https://open.spotify.com/album/6hHVag0noqfPsmv1Tg3a8I) | 3:27 | 2020-12-11 | 2022-06-17 |
 | [Visual Diaries](https://open.spotify.com/track/1MWTRbFDIiO5m8IIZPcTdb) | [Hause Plants](https://open.spotify.com/artist/7ciUlbAc461mRvHx3YmIYk) | [Film For Color Photos EP](https://open.spotify.com/album/6cRdUTiv3KHhslNedxgnZf) | 3:23 | 2021-09-06 | 2022-04-20 |
 | [Warm Body](https://open.spotify.com/track/4aLqmvZMituDRmbcNqcLAn) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Warm Body](https://open.spotify.com/album/6pDgawO92Slg1Id9nwZPPN) | 3:19 | 2020-10-27\* | 2021-01-12 |
-| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 |  |
+| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 | 2022-09-15 |
 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 | 2021-03-06 |  |
 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 | 2020-10-27\* |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-29 |  |

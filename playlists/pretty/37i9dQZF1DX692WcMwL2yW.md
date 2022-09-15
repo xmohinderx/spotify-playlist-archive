@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,682 likes - 134 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,787 likes - 134 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 34 | [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/709ObnJx4qIQEbdukVVCnQ) | 1:38 |
 | 35 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 |
 | 36 | [Mortal Combat](https://open.spotify.com/track/5H7PA4uJFSHXYJMo7nPirq) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 2:48 |
-| 37 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 |
+| 37 | [Ataraxis](https://open.spotify.com/track/16uSBcWTIq2kDzgoUGy7Pl) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ataraxis](https://open.spotify.com/album/6jJ3D7mfIcq085Oo52SgqZ) | 3:16 |
 | 38 | [Clarity](https://open.spotify.com/track/1dybFHd0ge6XP8Yjy8ub22) | [Litu Ritu](https://open.spotify.com/artist/3PSahIv0mhBptzduLsuEJU) | [Hyperloop](https://open.spotify.com/album/6TlRciT120PQPOxplEQB9y) | 4:19 |
 | 39 | [Don't Quit](https://open.spotify.com/track/3hWnx9sV4Tssynrnl8oM7k) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Muses](https://open.spotify.com/album/1An4K6esv5QVy2loqhRyKb) | 2:26 |
 | 40 | [Fatso](https://open.spotify.com/track/0NzWqeHz2wnYvEJYy5D7l0) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [158 Texas](https://open.spotify.com/album/47HGt4wZttlPBYItTZURXi) | 3:05 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 133 | [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 |
 | 134 | [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGRlNzY2OTNiZjBkYmY4OTdhMzhhZGY2ODY2ODgwNTY3`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGU1M2NhMTc1ODNlZWIyYWQxMTQ4MzNjNTg5MjgxN2Vm`

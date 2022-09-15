@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,022 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,097 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 8 | [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 |
 | 9 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 |
 | 10 | [هكا نعيش](https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7) | [Walid Salhi](https://open.spotify.com/artist/3eWsdDqacW8AmlYfonweYL) | [هكا نعيش](https://open.spotify.com/album/6VKkxrt6xSlztxBbkWeZtE) | 4:49 |
-| 11 | [Ya houb achbik](https://open.spotify.com/track/4FW0O8tnwhgyB5opZtXvsn) | [Nour Chiba](https://open.spotify.com/artist/4RKA21fU9i82HeiNACGsgD) | [Rabouh essahriya](https://open.spotify.com/album/3YtnawJjeuZYcwrsvlrB2e) | 4:55 |
-| 12 | [Ana Weyak](https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [أنا وياك](https://open.spotify.com/album/4y49FwQLBB611add8CodNd) | 2:38 |
+| 11 | [Ana Weyak](https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [أنا وياك](https://open.spotify.com/album/4y49FwQLBB611add8CodNd) | 2:38 |
+| 12 | [مش بروحي](https://open.spotify.com/track/4d3dXSolGmXPrnTUyICqWO) | [Abn Salah](https://open.spotify.com/artist/0R4MMq6qbsLaTXh63wOMvD), [Vibe Entertainment Ly](https://open.spotify.com/artist/3Qt921zWIOKAGgML2n2Ljl) | [مش بروحي](https://open.spotify.com/album/45UyUIAgWzg5DxjiLblVwj) | 3:29 |
 | 13 | [TOKA TOKA](https://open.spotify.com/track/28ewsI8YFCN66x4tLDQpeO) | [Mert](https://open.spotify.com/artist/0wwDZj4zgZORjTGhTujAKx), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [TOKA TOKA](https://open.spotify.com/album/6R7abQVsZiFk3wRu2iH9Cu) | 2:31 |
 | 14 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 |
 | 15 | [Galbi](https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Galbi](https://open.spotify.com/album/5y7m6UDox56LbgePd50uXX) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Njik Nzour](https://open.spotify.com/track/58oVWjYLjemAvRIIb2lDWS) | [Amon](https://open.spotify.com/artist/4nOP7DBb86tiEXS1NqQ2bw) | [Njik Nzour](https://open.spotify.com/album/3Cq4ZZHahM2IZNt2AnhaCo) | 3:18 |
 | 50 | [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 |
 
-Snapshot ID: `MTY2Mjk2MzQ1MywwMDAwMDAwMDg0MWUwNDRiNzBkYTcwOTBiZmI2YmNjOWQyMjM4MThl`
+Snapshot ID: `MTY2MzEzNDcyNywwMDAwMDAwMDE4MjE1NGRiMDlmZmE1MTYwODQzYjA0NjJkNTI4OGE0`

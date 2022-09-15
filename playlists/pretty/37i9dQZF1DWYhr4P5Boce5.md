@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of deep relationships to inspire your journey with each other.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,606 likes - 67 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,714 likes - 67 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 4 | [You](https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:46 |
 | 5 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
 | 6 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 |
-| 7 | [Pioneers](https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Moriah](https://open.spotify.com/artist/3e2CbodV67R5Jtsids32yo), [Courtney](https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 5:23 |
+| 7 | [Pioneers](https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Courtney](https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 5:23 |
 | 8 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
 | 9 | [Dancing in the Minefields](https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Counting Stars](https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ) | 3:30 |
 | 10 | [Gave You My Heart](https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Gave You My Heart](https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D) | 3:07 |

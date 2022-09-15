@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-471 songs - 1 day 3 hr 14 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+476 songs - 1 day 3 hr 29 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Chasing Tides](https://open.spotify.com/track/41niA9BIBT3GBJODEWicuP) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Chasing Tides](https://open.spotify.com/album/4HJMXBtyX7oHWzE1O0y3bw) | 2:28 | 2022-08-05 |  |
 | [Chill Kingdom](https://open.spotify.com/track/7lxPJaeT21LyiC7Pu4eSNX) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Chill Kingdom](https://open.spotify.com/album/3YPivgJnzq2dZbKNu8xZy9) | 3:47 | 2019-05-26\* | 2019-06-19 |
 | [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
+| [circles](https://open.spotify.com/track/5PEzT7NREhifSvdJLkw2Ej) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [circles](https://open.spotify.com/album/1Wgo3Tv0kfagdzqQssSXDT) | 2:32 | 2022-09-14 |  |
 | [Clear Language](https://open.spotify.com/track/0JGfoZbSvYQiPVQQQSSxmr) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/3W9oDXNed8I4RJiQek5vkE) | 3:13 | 2019-06-19\* | 2021-09-03 |
 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 | 2019-06-19\* |  |
 | [Closer](https://open.spotify.com/track/3kkH1XIAqtsWrb3vXdAnym) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Closer](https://open.spotify.com/album/3yOlCRaOGv6KmzkPKlzE8X) | 2:29 | 2019-06-19\* | 2020-08-07 |
@@ -189,6 +190,7 @@
 | [Home](https://open.spotify.com/track/0ViWiSqKgExiuU4hXlVIDF) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Secret Garden](https://open.spotify.com/album/4bUGWpYmF6I4rFWabvvayp) | 4:53 | 2019-05-26\* | 2019-08-13 |
 | [Hope Valley Hill](https://open.spotify.com/track/1ZsVFKysSROWBWZX3ZG1Gu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Caesura](https://open.spotify.com/album/5fPb6Ef7P5uPSmVIyNRvhj) | 5:18 | 2019-05-26\* | 2020-01-09 |
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-04-01 |  |
+| [Horoscopes](https://open.spotify.com/track/6sV8mjqZTDnZA5qMz5RtwF) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Horoscopes](https://open.spotify.com/album/41DTljdwSdDg2MULyYeQKl) | 2:19 | 2022-09-14 |  |
 | [Hypersleep](https://open.spotify.com/track/6bbjsAJnozh2qYMS9lFQDz) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [No Man's Sky: Music For An Infinite Universe](https://open.spotify.com/album/5nvkeEgntNSvMJn5V1Mgkp) | 2:53 | 2019-05-26\* | 2019-06-19 |
 | [Hypnagogia Well](https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Hypnagogia Well](https://open.spotify.com/album/5QULT8EPM4qXnA8hAQmbJL) | 3:42 | 2020-01-03 |  |
 | [I Can Almost See You](https://open.spotify.com/track/0jVy0Y3QEtUKsrIHAZuR45) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice...Trying to Stop an Echo](https://open.spotify.com/album/1xGZ70dEsN8UyiXvcXWwHI) | 4:13 | 2019-05-26\* | 2019-06-19 |
@@ -322,6 +324,7 @@
 | [Projections](https://open.spotify.com/track/0pgh65p0D9uDSdOrmsaTgu) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Projections](https://open.spotify.com/album/518vvUBj26HuDFKyjYejAp) | 2:40 | 2020-10-08 |  |
 | [Pulchra](https://open.spotify.com/track/1IDVgnfcpNCSz39MJqziCf) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [The Island](https://open.spotify.com/album/05MCWiTW4ztBsxCIm9JjXl) | 2:37 | 2019-05-26\* | 2020-01-09 |
 | [Raga for HAL](https://open.spotify.com/track/5d3kpW56erBx62L5vhIl8y) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Raga for HAL](https://open.spotify.com/album/4LynMxu1JCig4PRGMtv6iQ) | 2:58 | 2021-04-28 |  |
+| [Rainy Nights](https://open.spotify.com/track/0Pg5pXLEh0BUcifZBr5qDG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 4:45 | 2022-09-14 |  |
 | [Ravelling](https://open.spotify.com/track/4RAXSgWjXAFczeUjgLSKpZ) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [The Island](https://open.spotify.com/album/05MCWiTW4ztBsxCIm9JjXl) | 2:30 | 2019-05-26\* | 2020-08-07 |
 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 | 2021-08-26 |  |
 | [Red Gold Yesterday](https://open.spotify.com/track/557iYakWWJQeKbJS3UYMxG) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:18 | 2019-05-26\* | 2020-08-07 |
@@ -385,6 +388,7 @@
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2021-09-14 |  |
 | [Target](https://open.spotify.com/track/60tHXabTlAhzlkXRDWl9cp) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Target](https://open.spotify.com/album/3kI4ax7CduZsv6bqHvcbGK) | 3:03 | 2020-01-03 | 2020-10-27 |
 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 | 2019-07-12 | 2020-01-09 |
+| [That Bird of Prey Casts a Long Shadow](https://open.spotify.com/track/0AOz0XTa8sCskJQlBtHfHG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 3:09 | 2022-09-14 |  |
 | [The Air Between Us \(2015 Remaster\)](https://open.spotify.com/track/2oSz7BJox5M83ePFL7Ql2E) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Kenotic](https://open.spotify.com/album/3FkcdkJnesrEkoWA5Et88y) | 3:43 | 2019-05-26\* | 2019-06-19 |
 | [The Beginning](https://open.spotify.com/track/0v0qWxKW6zcQDBM4fuvJYg) | [Double Singularity](https://open.spotify.com/artist/1NYuibCnqGV564WP9QwrSq) | [The Beginning](https://open.spotify.com/album/7tCDJbzPYjS8IDR2l1ykT6) | 3:49 | 2019-06-19\* | 2021-06-24 |
 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 | 2019-05-26\* |  |
@@ -425,6 +429,7 @@
 | [Together / Your Hand in Mine \(Radio Edit\)](https://open.spotify.com/track/0oBFdZvVdeF0b1zkyrQdqB) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Together / Your Hand in Mine \(Radio Edit\)](https://open.spotify.com/album/5wi4GKxlCAIlnCEgvGjY0G) | 4:56 | 2019-05-26\* | 2019-06-19 |
 | [Tomorrow Will Save Us](https://open.spotify.com/track/1veAhdOE3JSQIAFfXlPHa6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 3:06 | 2019-06-19\* | 2021-09-14 |
 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 | 2019-05-26\* | 2020-08-07 |
+| [transparency](https://open.spotify.com/track/05FuhMHmo0gi65Sotwj01c) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Shapeshifter](https://open.spotify.com/album/4ZWDdKKDRiiQg9UFM90m3B) | 1:47 | 2022-09-14 |  |
 | [Trastevere](https://open.spotify.com/track/3rRL23xxAPJ75K3wGBKZIO) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Universo en Miniatura Vol\. 1](https://open.spotify.com/album/52PcfX5Yht7LyNjkuJCROB) | 2:47 | 2019-07-12 | 2021-10-21 |
 | [Truth \(Helios Remix\)](https://open.spotify.com/track/4lwGyv3tbahmN1Z25wdCxa) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/4K8rm4KevTLvvTSyWx5yjO) | 3:45 | 2019-05-26\* | 2020-12-02 |
 | [Twentytwofourteen](https://open.spotify.com/track/1AIu4EHzrN7GdpeKgigZ3G) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/4r6F9MHmX3c5zeYzaETi7z) | 5:40 | 2019-05-26\* | 2019-06-19 |

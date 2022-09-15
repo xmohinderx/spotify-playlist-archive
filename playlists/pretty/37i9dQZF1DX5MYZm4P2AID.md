@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,967 likes - 81 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,905 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 66 | [Up Up](https://open.spotify.com/track/4aAAVrmG2NaxOLyjP5n5o0) | [Sandollar](https://open.spotify.com/artist/5uHzTbTdUPeRaYdcn4qlsG) | [Roller Coaster Ride](https://open.spotify.com/album/2tjkE0GvZ6WXZbUNS4xnGn) | 4:56 |
 | 67 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
 | 68 | [High School Lover](https://open.spotify.com/track/2JMGXBUNp9rNLjCt7Cf3jM) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Bigfoot](https://open.spotify.com/album/41pgjPXLViJ7njgJaJj9m0) | 3:40 |
-| 69 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 |
+| 69 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
 | 70 | [Unholy Water](https://open.spotify.com/track/6mHVjUXnlKkL6QuzWrMJB6) | [John Pearson](https://open.spotify.com/artist/6IEFxETlf7tJrUh7bxTJsG), [Chase Perryman](https://open.spotify.com/artist/5OSeubQCEvvJFhLA5DRwGZ) | [Unholy Water](https://open.spotify.com/album/5CPC5xSw0J7qwPVRZqOpOV) | 3:09 |
 | 71 | [You've Got the Heat](https://open.spotify.com/track/4NSpQ7DuhVLk5RtKyx5Tc4) | [Luster](https://open.spotify.com/artist/79BImQsuJ70xKbfyKG4ZzD) | [Luster](https://open.spotify.com/album/6vat2V0mrCDJnnpqzTyuUz) | 3:20 |
 | 72 | [Itotiani](https://open.spotify.com/track/3tZ5EU9F0GoiHvaFo40fFt) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Chicano Batman](https://open.spotify.com/album/6tN9jametp8Y1xtraYzYNe) | 8:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 80 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
 | 81 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDE0YjAxMWM4YmIwYzFjOWM1NmNjNGY2NTM5YmU0YjQy`
+Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDQxOTA4NjAzNWI3MTFiOWM5MjVlYWMxM2Y0NzRiZjgz`

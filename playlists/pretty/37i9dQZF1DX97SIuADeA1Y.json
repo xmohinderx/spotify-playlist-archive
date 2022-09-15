@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 269722,
+  "num_followers": 269775,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxMzQ4NiwwMDAwMDAwMGExZDk5NTBhNWNjYjc5ZTRkOGZmNjI1MWRjMWVlYWYx",
+  "snapshot_id": "MTY2MTUxMzQ4NiwwMDAwMDAwMDY4NjQyMzYwYmVjNDEyNDczYmQzZDYyODFlYmZhMGQw",
   "tracks": [
     {
       "added_at": "2022-08-26 11:31:26",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Nobody To Love (with Loren Gray)",
-        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
-      },
-      "artists": [
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Loren Gray",
-          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
-        }
-      ],
-      "duration_ms": 146372,
-      "name": "Nobody To Love (with Loren Gray)",
-      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Nobody To Love (with Loren Gray)",
+        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Loren Gray",
+          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
+        }
+      ],
+      "duration_ms": 146372,
+      "name": "Nobody To Love (with Loren Gray)",
+      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 157446,
       "name": "Skippin",
       "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 149724,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 156093,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 149724,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
+        "name": "Barking",
+        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Barking",
+      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
         "name": "Beating Broken Heart",
         "url": "https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 139385,
       "name": "Beating Broken Heart",
       "url": "https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
-        "name": "Barking",
-        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Barking",
-      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Like You Mean It",
         "url": "https://open.spotify.com/album/1qTxHDgm9jc8t0Du3Mmi1K"
       },
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Don't Leave Me",
-        "url": "https://open.spotify.com/album/7hQrFSEgQCmOBYd4s07HZL"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        }
-      ],
-      "duration_ms": 166242,
-      "name": "Don't Leave Me",
-      "url": "https://open.spotify.com/track/5I3kFklNvIQX6ovbvahZGy"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "I'll Be Gone",
         "url": "https://open.spotify.com/album/4YsyvipGYyveQu8xvmE5O9"
       },
@@ -1195,6 +1163,22 @@
       "duration_ms": 161739,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/1xo6bTCYJyviJPZ3TQN76Z"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -1223,6 +1207,22 @@
       "duration_ms": 167015,
       "name": "Superpowers - Dimitri Vegas Edit",
       "url": "https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/7hQrFSEgQCmOBYd4s07HZL"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        }
+      ],
+      "duration_ms": 166242,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/5I3kFklNvIQX6ovbvahZGy"
     },
     {
       "added_at": "2022-08-26 11:31:26",

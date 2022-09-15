@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,636 likes - 192 songs - 10 hr 9 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,621 likes - 192 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

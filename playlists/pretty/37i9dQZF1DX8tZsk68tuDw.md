@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Eliza Rose.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,994,435 likes - 97 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994,661 likes - 97 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 11 | [My Heart Has Teeth \(feat\. Skylar Grey\) \- From “Resident Evil”](https://open.spotify.com/track/4HQaCBLA2fpYlcQNZxNg4F) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [My Heart Has Teeth \(feat\. Skylar Grey\) \[From “Resident Evil”\]](https://open.spotify.com/album/6jkxA0LypeL8VGXLtZkkAG) | 4:49 |
 | 12 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 13 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 |
-| 14 | [Your Mind \- Epic Edit](https://open.spotify.com/track/58MI1jBCURLQ9BIUlOsUSP) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind](https://open.spotify.com/album/1Vm1f8irxwi2mkr3CZlFm4) | 3:36 |
+| 14 | [Your Mind \- Epic Edit](https://open.spotify.com/track/3QeQ9CW00jI5J6NPF7vel0) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind \(Epic Edit\)](https://open.spotify.com/album/1L8j04mTaJK89xPKGeaQwR) | 3:36 |
 | 15 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
 | 16 | [Rave \- Remix](https://open.spotify.com/track/1kMObCQiYe5opqybH7ZNPD) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Rave \(Remix\)](https://open.spotify.com/album/5zd1ybE8kkj5OEkfRdHJW6) | 3:59 |
 | 17 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 96 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 |
 | 97 | [As One](https://open.spotify.com/track/6bGRkVAP6s0oRAWA9us77o) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [As One](https://open.spotify.com/album/6MYD76EnOec2G5Cde26mHd) | 3:58 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDEwMjJkOWJiMDcwOWEyZGM1MzY2Mzc1YjFkOTc4ZjEy`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGJlMmE2ZmQ0YzI5NTg4OWE3YjUzMjg0MTYyZjY3YTI1`

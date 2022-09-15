@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Chloé Robinson & DJ ADHD
 
-116 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
+118 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Diffusus](https://open.spotify.com/track/4FLZkM2KJn8kj5A4J03ooQ) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Diffusus](https://open.spotify.com/album/5mJ9jkh3ufpXiCAzJtCrKf) | 3:55 | 2022-04-15 |  |
 | [Dvizhenie](https://open.spotify.com/track/3S3UQpc9k18zwl90vMS0uA) | [Maruwa](https://open.spotify.com/artist/6jvVhsNfiC1BXMtZHKpgHF) | [Dvizhenie](https://open.spotify.com/album/1vZjKLmDFaQBdu8VC7yP5y) | 5:18 | 2022-04-15 | 2022-05-27 |
 | [Dystopia](https://open.spotify.com/track/0hJb963pbosuVwVViwGnAZ) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/2GsZ5MnJTIFOKf3FiuQISk) | 3:37 | 2022-07-29 |  |
-| [Eternity Of Echoes](https://open.spotify.com/track/2mOjpdh47Q42fQYAYMWGTN) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4a66UodRVtLVGEiP4Vfa4U) | 5:18 | 2022-08-05 |  |
+| [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 | 2022-08-05 |  |
+| [Eternity Of Echoes](https://open.spotify.com/track/2mOjpdh47Q42fQYAYMWGTN) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4a66UodRVtLVGEiP4Vfa4U) | 5:18 | 2022-08-05 | 2022-09-15 |
 | [Exhale](https://open.spotify.com/track/4woCaPYcENLOfoK6o82MgS) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP), [Kowton](https://open.spotify.com/artist/5mKLTrvI8gTtNjVewBL7Bj) | [Exhale](https://open.spotify.com/album/2OtmBruepl9cL0kIon06Co) | 5:38 | 2022-04-15 | 2022-07-30 |
 | [Feel The Rhythm](https://open.spotify.com/track/5aZvrkexQVRGubS0rPnPYv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Phantom EP](https://open.spotify.com/album/5Ha2ODCl3nDhwOi5oKvp0p) | 5:16 | 2022-05-26 |  |
 | [Flashing Lights](https://open.spotify.com/track/7B5NyuAKnhLj0aasbRpaIp) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Flashing Lights](https://open.spotify.com/album/5VMfbHAkriJiu64SrXy3L2) | 3:45 | 2022-04-15 | 2022-05-27 |
@@ -67,7 +68,8 @@
 | [Mallusk](https://open.spotify.com/track/43cN6omERBbEzPoarkBILv) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Mallusk](https://open.spotify.com/album/4PhH4f4qTxRMG3LDZPL5Af) | 4:26 | 2022-04-15 |  |
 | [Mare's Nest](https://open.spotify.com/track/0irFHzbR7gMo1WpAp9FKRh) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Mare's Nest](https://open.spotify.com/album/1dwa6pWl6Lv51tYEO1fCOe) | 6:37 | 2022-07-29 |  |
 | [Melts into Air](https://open.spotify.com/track/4Z75rPihWYUklsjBeu4Q20) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Melts into Air](https://open.spotify.com/album/4OufFZt2JPw8KuQY9JJHrI) | 5:05 | 2022-04-15 | 2022-07-02 |
-| [Metaphysical](https://open.spotify.com/track/308mW3tmRmWG5K3g6HVyl3) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Metaphysical](https://open.spotify.com/album/14yXH9auX3hfPGt2l7b7rS) | 5:03 | 2022-04-15 |  |
+| [Metaphysical](https://open.spotify.com/track/308mW3tmRmWG5K3g6HVyl3) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Metaphysical](https://open.spotify.com/album/14yXH9auX3hfPGt2l7b7rS) | 5:03 | 2022-04-15 | 2022-09-15 |
+| [Metaphysical](https://open.spotify.com/track/7yzrZU9VSpyb7WY8hfiCAc) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 5:03 | 2022-08-05 |  |
 | [Mirage](https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW) | 3:48 | 2022-05-06 |  |
 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 | 2022-04-15 |  |
 | [Mouth of God](https://open.spotify.com/track/5Mk7cg93h8RcUV9Rj1FaWT) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Mouth of God](https://open.spotify.com/album/7tktXuwqzDqb4KoB2jets5) | 4:52 | 2022-04-15 | 2022-07-02 |

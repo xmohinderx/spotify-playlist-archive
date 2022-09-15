@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-253 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+254 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 | 2021-12-24 |  |
 | [Dile](https://open.spotify.com/track/7DKr60flV0rMuS96PmWfWA) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Tal Cual](https://open.spotify.com/album/3pS403llauCP9YljIJkiU2) | 3:35 | 2022-01-10 | 2022-07-17 |
 | [Dos Corazones / Nadie Como Tu \- En Vivo](https://open.spotify.com/track/6vGx5GfOBiAsCf3xrCGfyn) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [EZE BONINO](https://open.spotify.com/artist/0MR0vGT9yrSDdP5nAfvWh6) | [Dos Corazones / Nadie Como Tu \(En Vivo\)](https://open.spotify.com/album/33eXHErmlVVCLe8F9RCsyU) | 3:27 | 2022-03-04 | 2022-04-01 |
-| [Dónde](https://open.spotify.com/track/695KiRLxI1e49JKP5WCh22) | [Negro Videla](https://open.spotify.com/artist/5BlpN6p3oOtHgvTNwsAVpJ) | [Vigencia](https://open.spotify.com/album/1Qjyr4cWyDWLStIviRmhXw) | 3:48 | 2021-12-24 | 2022-07-17 |
+| [Dónde](https://open.spotify.com/track/695KiRLxI1e49JKP5WCh22) | [Negro Videla](https://open.spotify.com/artist/5BlpN6p3oOtHgvTNwsAVpJ) | [Vigencia](https://open.spotify.com/album/1Qjyr4cWyDWLStIviRmhXw) | 3:48 | 2021-12-24 |  |
 | [El Amor No Es un Juego](https://open.spotify.com/track/2bHDPfEA3d2WfdJ7L2CsGz) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [El Amor No Es un Juego](https://open.spotify.com/album/4R4PuQAw5OX5vaMTAkVLRd) | 3:07 | 2022-01-07 | 2022-06-23 |
 | [El Baile del Taka Taka](https://open.spotify.com/track/2kDIg6y72oabn6tNttA2CX) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [El Baile del Taka Taka](https://open.spotify.com/album/540TWkFSFOmFCc7A2ZSMzf) | 4:07 | 2022-06-17 | 2022-07-16 |
 | [El bohemio](https://open.spotify.com/track/6SbDsZ7cv06KYxSHkBWmkS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 5:02 | 2022-01-07 | 2022-07-28 |
@@ -141,7 +141,7 @@
 | [Mentira](https://open.spotify.com/track/7mYr1AckRMJGRIjXipJ7yW) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Mentira](https://open.spotify.com/album/6uSys9pSb3hy8jUOFlM8Uw) | 3:29 | 2021-12-24 | 2022-09-10 |
 | [Mi Cama Huele A Ti](https://open.spotify.com/track/0M8Fzjbx1Ia5zcd3MzIKVB) | [Mauri Monasterio](https://open.spotify.com/artist/2hwkCUHxNoO6vIAU5Wv4lo), [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [A Pleno](https://open.spotify.com/album/3ym8AntZiGMg6lP2UDZ0qL) | 3:43 | 2022-01-07 | 2022-07-27 |
 | [Mi Cama No Habla](https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Suena?](https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK) | 3:29 | 2021-12-24 |  |
-| [Mi Venganza](https://open.spotify.com/track/3AFoC3oyF7fLyOFhWp7mS9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Mi Venganza](https://open.spotify.com/album/2VGrCh43R8idRgJsYQrYa0) | 3:55 | 2021-12-24 |  |
+| [Mi Venganza](https://open.spotify.com/track/3AFoC3oyF7fLyOFhWp7mS9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Mi Venganza](https://open.spotify.com/album/2VGrCh43R8idRgJsYQrYa0) | 3:55 | 2021-12-24 | 2022-09-15 |
 | [Miel](https://open.spotify.com/track/7AZ7RDXiwt3TaNyNf54txQ) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Miel](https://open.spotify.com/album/1obdLtb9OxXlu5hZoruFJh) | 2:37 | 2022-04-29 | 2022-07-15 |
 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 | 2022-06-17 |  |
 | [Mientes / Un Dia Sin Ti](https://open.spotify.com/track/3dPreolNY6PUrSrOiWPhpg) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Karavana Quartetera](https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB) | [Mientes / Un Dia Sin Ti](https://open.spotify.com/album/1QnUdLsiso5W7sl1Wo9hoO) | 4:14 | 2022-04-15 | 2022-06-18 |
@@ -175,7 +175,7 @@
 | [Payaso \- En Vivo](https://open.spotify.com/track/6Fr3387z9p0IP08Fw1yxtV) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Payaso \(En Vivo\)](https://open.spotify.com/album/2oMloTN3HaUffg1o2VzyyV) | 3:29 | 2022-04-29 | 2022-07-11 |
 | [Pensando en Ti](https://open.spotify.com/track/7KCRgts0H0XIFpjKpd7lyr) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pensando en Ti](https://open.spotify.com/album/6p9W0n96M50o80ztgz7WOK) | 4:30 | 2022-01-14 | 2022-07-15 |
 | [Pepas](https://open.spotify.com/track/6Ss1uVF4qq1x5dJOm1R1ga) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Pepas](https://open.spotify.com/album/1Jc0KotW5Rv5jI4uUuWSeq) | 2:50 | 2021-12-24 |  |
-| [Perdóname](https://open.spotify.com/track/0lmE82dpxeGYlBzpz27CVJ) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Perdoname](https://open.spotify.com/album/3K1B4I6SatIxr7AWb9Gr7E) | 3:18 | 2022-08-26 |  |
+| [Perdóname](https://open.spotify.com/track/0lmE82dpxeGYlBzpz27CVJ) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Perdoname](https://open.spotify.com/album/3K1B4I6SatIxr7AWb9Gr7E) | 3:18 | 2022-08-26 | 2022-09-15 |
 | [Perfecto Idiota](https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Diferente](https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0) | 4:02 | 2022-07-22 |  |
 | [Pesadilla](https://open.spotify.com/track/5JoxSI5yd4eC2ODlhzIgA7) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Leandro Bueno](https://open.spotify.com/artist/1sUW7DH7RcMzgtnQWzC68Z) | [Pesadilla](https://open.spotify.com/album/5WBGOo1SMfgl4mYTETvpDI) | 3:32 | 2022-01-14 | 2022-05-27 |
 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 | 2021-12-24 |  |
@@ -261,5 +261,6 @@
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/3eQSwoKeqXtJ1Nu7n7Qup8) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [20 Grandes Exitos](https://open.spotify.com/album/5sODoADgphMzZfAuOC5sGk) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Yo No Te Pido la Luna](https://open.spotify.com/track/1pI0IZ9VjXmWKLRMoDMnpZ) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Yo No Te Pido la Luna](https://open.spotify.com/album/65zHSlxJ6lVfTrCi4U1f3V) | 3:20 | 2022-07-31 |  |
 | [Él no soy yo](https://open.spotify.com/track/63F0fLgN8dMRlhWCRnbkyk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:46 | 2021-12-24 | 2022-07-21 |
+| [Él No Soy Yo](https://open.spotify.com/track/6X9Mq6dtHUoHbcdot8mnri) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/04H5Ux6U24V75xIqMMD9he) | 3:46 | 2022-09-09 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Jag vil vara den som tar hela staden hem och tillbaka!
+> Jag vill vara den som tar hela staden hem och tillbaka!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,206 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,701 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 49 | [SNABB](https://open.spotify.com/track/23Aq54DbkbK2Bo1PicKxF2) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Julia Kedhammar](https://open.spotify.com/artist/24JKr8xzxciKUmpx8fu8AY) | [SNABB](https://open.spotify.com/album/3Of7CxWmAnTswawayj6X6I) | 2:24 |
 | 50 | [Piga & dräng](https://open.spotify.com/track/0fXANVK5oDCujoed5II6La) | [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY) | [Piga & dräng](https://open.spotify.com/album/7cuJlIPSxVVZu6kTOJZAJr) | 2:58 |
 
-Snapshot ID: `MTY2MjcxMjYwNSwwMDAwMDAwMDcwZGRhYjUyMTFjYjI1ZTc3Njk5N2Q1MWI0M2MzNTli`
+Snapshot ID: `MTY2MzA1ODk0OSwwMDAwMDAwMDU3Y2NjOTQ2NTdmMTU4NmU1OTE5MjRhYTEyZTNkZjg0`

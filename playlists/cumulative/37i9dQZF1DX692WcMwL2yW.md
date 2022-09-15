@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-296 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+297 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-09-10 |  |
 | [Ascend](https://open.spotify.com/track/0Gybm8PWOmYTQG4Bjqxh0f) | [DayoffSounds](https://open.spotify.com/artist/50Dn3JAzqpZVKtcykEz8NE) | [Instrumental Gems, Vol\. 1](https://open.spotify.com/album/0dvyfEiOU5Wks9vPjEQhfb) | 2:33 | 2021-07-09 | 2021-10-14 |
 | [Astro Beat](https://open.spotify.com/track/4U6d6txn9S3BV6MrFefQuI) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Astro Beat](https://open.spotify.com/album/2NY3CbNis1x7g34As1kKqc) | 3:41 | 2021-07-09 | 2021-08-26 |
-| [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2021-07-09 |  |
+| [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2021-07-09 | 2022-09-15 |
+| [Ataraxis](https://open.spotify.com/track/16uSBcWTIq2kDzgoUGy7Pl) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ataraxis](https://open.spotify.com/album/6jJ3D7mfIcq085Oo52SgqZ) | 3:16 | 2022-09-09 |  |
 | [B.O.H](https://open.spotify.com/track/59Rk6nuKbwujYHiHQhOkV9) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Ayo](https://open.spotify.com/album/3JbCidRahlQ5zLvYN2lVe4) | 4:09 | 2022-04-22 |  |
 | [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 | 2022-07-08 |  |
 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 | 2021-07-09 |  |

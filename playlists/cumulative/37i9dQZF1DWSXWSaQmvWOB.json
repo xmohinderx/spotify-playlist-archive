@@ -8843,6 +8843,24 @@
     {
       "album": {
         "name": "Thank You",
+        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204592,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
+    },
+    {
+      "album": {
+        "name": "Thank You",
         "url": "https://open.spotify.com/album/2egh3XuO9dNyAEacxCxDD7"
       },
       "artists": [
@@ -8951,7 +8969,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 252725,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"

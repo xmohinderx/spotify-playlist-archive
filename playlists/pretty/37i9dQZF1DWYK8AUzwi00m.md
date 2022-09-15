@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,052 likes - 110 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,096 likes - 110 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 4 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 |
 | 5 | [Xmas Treez](https://open.spotify.com/track/6Ouj0h3zO7dHV9Ok5yU8gv) | [Ghost Beatz](https://open.spotify.com/artist/5KdCsUhbJtRff3kRxUl51q) | [Sounds of the Season, Vol\. III](https://open.spotify.com/album/6pNBMJoKqAD3odcjncp75k) | 3:23 |
 | 6 | [Frio](https://open.spotify.com/track/5djxWufx6q2DfDS6OzaJ5J) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:26 |
-| 7 | [Sleepy Christmas](https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB) | [Duce Haus](https://open.spotify.com/artist/7j2z41scihGIdCgqmOmDGs) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:29 |
+| 7 | [Sleepy Christmas](https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:29 |
 | 8 | [When You Wish Upon a Star](https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2) | [Jason Jx](https://open.spotify.com/artist/6lMDF5oPSyrMEPrmBb6zLM) | [When You Wish Upon a Star](https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB) | 2:19 |
 | 9 | [Santa Baby](https://open.spotify.com/track/3DGHKbAxjULWbOZDLDdj71) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Santa Baby](https://open.spotify.com/album/47upBPzqSGKTX5Yy2YPEWY) | 2:42 |
 | 10 | [Hoy es Navidad](https://open.spotify.com/track/49DbI00xJF9moLOaJR6r5I) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 3:10 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 44 | [Feliz Navidad](https://open.spotify.com/track/1hjd4JDtHN18xXKKevrxB6) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN) | [The Lofi Xmas Tape](https://open.spotify.com/album/68blApWYmZVuExE0JxSgpH) | 1:44 |
 | 45 | [O Come, All Ye Faithful \(Lofi Version\)](https://open.spotify.com/track/6Uiguk2IuyNdcRPb3Ss8Ml) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Xmas in \(\(stereo\)\)](https://open.spotify.com/album/2yp2d2MkvZKQkvfRSZy9Rt) | 3:13 |
 | 46 | [Reindeer](https://open.spotify.com/track/6rhv0IzO0oK4RKEHvgdGCR) | [iluvu](https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j), [Lazy Tree Records](https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf) | [A Lofi Christmas](https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ) | 0:51 |
-| 47 | [Frosty Walk](https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R) | [Duce Haus](https://open.spotify.com/artist/7j2z41scihGIdCgqmOmDGs) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:09 |
+| 47 | [Frosty Walk](https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:09 |
 | 48 | [Christmas Time Is Here Charlie Brown](https://open.spotify.com/track/7pJ2lypbozkrCExoJPhgYG) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:30 |
 | 49 | [A Dream Present](https://open.spotify.com/track/5wc7OAxwpUE89bAD5Taco1) | [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [A Dream Present](https://open.spotify.com/album/4QailWei2sNgGgk15VMv7f) | 2:12 |
 | 50 | [All Want For Christmas is Lofi Hip Hop](https://open.spotify.com/track/2tqNQxgNXPa3TqQl46LQCk) | [Christmas Rap Beats](https://open.spotify.com/artist/2ernZA4LlpNCyAuddaXdOa) | [Lofi Xmas Instrumentals](https://open.spotify.com/album/7pm7weCBfcpSrTO4yXzGje) | 1:43 |

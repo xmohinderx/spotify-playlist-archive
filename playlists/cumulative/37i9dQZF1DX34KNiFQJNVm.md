@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Brisa Star com Mc Pedrinho, Marvvila, ROSALÍA e mais!
 
-3,203 songs - 6 day 21 hr 9 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+3,204 songs - 6 day 21 hr 12 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1974,7 +1974,8 @@
 | [Não Tem Sol](https://open.spotify.com/track/1k2Isz8WwKW4Q0E3MkTaor) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Não Tem Sol](https://open.spotify.com/album/5mA8SoNS2I1PxUkKIfAZBr) | 3:10 | 2022-05-20 | 2022-05-28 |
 | [Não Tô Com Ela](https://open.spotify.com/track/0AdzI4Q1mx7md7UbYSThKY) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Não Tô Com Ela](https://open.spotify.com/album/1VcEx47nWTn5rj7w9VNzev) | 2:31 | 2022-03-25 | 2022-04-02 |
 | [Não Vai na Contramão](https://open.spotify.com/track/1zMfTlJsoo7rmHQOXFP9KC) | [MC Julio D.E.R.](https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV) | [Orações](https://open.spotify.com/album/003ajxUyYjWNxGmiMzqLlW) | 2:49 | 2022-08-12 | 2022-08-20 |
-| [Não Vai Ter Fim](https://open.spotify.com/track/4kHSYgTzUiEOrxX5R5aVA7) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1](https://open.spotify.com/album/1EuovXUu1ijJrti8jMgPXH) | 3:07 | 2022-09-09 |  |
+| [Não Vai Ter Fim](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 | 2022-09-09 |  |
+| [Não Vai Ter Fim](https://open.spotify.com/track/4kHSYgTzUiEOrxX5R5aVA7) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1](https://open.spotify.com/album/1EuovXUu1ijJrti8jMgPXH) | 3:07 | 2022-09-09 | 2022-09-15 |
 | [Não Vou](https://open.spotify.com/track/1GasfY7nBm54jGTBZPB4kc) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Não Vou](https://open.spotify.com/album/1M4z8bc5XsfnuqsshthtAD) | 2:01 | 2022-07-08 | 2022-07-16 |
 | [Não Vou Perdoar](https://open.spotify.com/track/3dDE85SGMxCJs3d80eQtaU) | [Matheus Alves](https://open.spotify.com/artist/1YxFGjnC8A82EcYO9Gzhft) | [Sem Perdão](https://open.spotify.com/album/7pvLPA29Ykg5D40aEkRwA2) | 2:42 | 2022-06-17 | 2022-06-25 |
 | [Não É Mais Santinha](https://open.spotify.com/track/6z9RekgyrFjcnV9OC6f0FA) | [Danilo Bolado](https://open.spotify.com/artist/3oM9nGXuq8KGOPwHdFzA9w), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Não É Mais Santinha](https://open.spotify.com/album/03brQzyB1lHNkvDVm0xFMy) | 2:34 | 2022-01-21 | 2022-01-29 |

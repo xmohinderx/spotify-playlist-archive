@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-124 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+125 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Fiction](https://open.spotify.com/track/2cQJCXUhGKilLJT7OE40w0) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/5DdCboBXyuP9VJDaiJ3Y61) | 3:31 | 2022-07-22 |  |
 | [Fiction](https://open.spotify.com/track/7N3pnzacUb4TpSEgRSlgw5) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/1MLutcc8zOKfnxA00EoVwC) | 3:31 | 2021-12-23 | 2022-07-29 |
 | [Finding Neverness](https://open.spotify.com/track/2Z76YJ8By50mep2bAonJ2Y) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [Gentle Sleep](https://open.spotify.com/album/267UdQxOhHcrW7ddx7lAjJ) | 3:25 | 2021-12-23 | 2022-09-03 |
+| [Fleuriste](https://open.spotify.com/track/5vX23o6aI02aIT5EiB4WSV) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Fleuriste](https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa) | 3:43 | 2022-09-13 |  |
 | [Floating Peace](https://open.spotify.com/track/1vpzs2y4nduldNWjJdPMQ6) | [Ee Ve](https://open.spotify.com/artist/18NItzXyxJgwcsJ6skOoPb) | [Transcend](https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq) | 3:34 | 2021-12-23 |  |
 | [Free Air](https://open.spotify.com/track/2bzmMxleX0343iCXyim9cI) | [Michael Arigato](https://open.spotify.com/artist/1GmOmktidNKbqV9Wbvqwyv) | [Forevermore](https://open.spotify.com/album/0tcUR682Jq6YI3Bs53i6j2) | 3:08 | 2022-09-02 |  |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2021-12-23 |  |

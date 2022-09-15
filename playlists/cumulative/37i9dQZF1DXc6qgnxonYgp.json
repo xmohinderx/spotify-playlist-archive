@@ -368,6 +368,28 @@
     },
     {
       "album": {
+        "name": "DIARY",
+        "url": "https://open.spotify.com/album/3fVUyTQ9S54dbGLT3kWNb5"
+      },
+      "artists": [
+        {
+          "name": "Vidushaan",
+          "url": "https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB"
+        },
+        {
+          "name": "MJ Melodies",
+          "url": "https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "DIARY",
+      "url": "https://open.spotify.com/track/2JxS54zjJrd7ljmhQnPR5X"
+    },
+    {
+      "album": {
         "name": "Don't Touch Me",
         "url": "https://open.spotify.com/album/5nYz61zMnv7ukmwHTYG0mn"
       },
@@ -559,6 +581,28 @@
       "duration_ms": 207789,
       "name": "Ennoda Saripathi",
       "url": "https://open.spotify.com/track/3r8dAsKqyHM8GqeKRBgvC9"
+    },
+    {
+      "album": {
+        "name": "Ethu Serilla (From \"Valigal\")",
+        "url": "https://open.spotify.com/album/0H8Fp5AoDeM3QGdKTQWVcK"
+      },
+      "artists": [
+        {
+          "name": "Arjun Heyjay",
+          "url": "https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g"
+        },
+        {
+          "name": "Gunaji",
+          "url": "https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164589,
+      "name": "Ethu Serilla - From \"Valigal\"",
+      "url": "https://open.spotify.com/track/53nYwYfG3tc5pbpZPNAK65"
     },
     {
       "album": {

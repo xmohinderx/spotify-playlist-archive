@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13575,
+  "num_followers": 13603,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDJjZDQ4YjAyYjU4Y2E0Y2Y0MWNlM2VkMTU3N2Y0OWFk",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGFlMTRmMzQ4M2M0NWFjZTQwNGVjNTQzNzNiYjMxOGJh",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 325638,
-      "name": "Love Ain't My Favorite Word",
-      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Anything But Time",
         "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 218413,
       "name": "Anything But Time",
       "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 325638,
+      "name": "Love Ain't My Favorite Word",
+      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -399,6 +399,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Got to Get Up",
+      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Got to Get Up",
-      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Blues",
-        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 315178,
-      "name": "Here Comes the Flood",
-      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+        "name": "Reckless Blues",
+        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+      "duration_ms": 315178,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -575,6 +559,22 @@
       "duration_ms": 599678,
       "name": "Sweet Tea",
       "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Defenestrator",
         "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 428577,
       "name": "Chief's Blues",
       "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
     },
     {
       "added_at": "2020-10-21 17:37:12",

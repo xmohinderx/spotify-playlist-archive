@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-313 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+314 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Enlightenment](https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:51 | 2022-07-22 |  |
 | [Enlightenment](https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/0I4xfg7IicQQb9KQF3Y9p4) | 2:51 | 2020-10-20\* | 2022-07-29 |
 | [Escaping Reality](https://open.spotify.com/track/7yMHwH6DywcjlVhTWtjlvs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Escaping Reality](https://open.spotify.com/album/0fBSqtlGo2gheiYkSZqdjV) | 3:02 | 2020-10-20\* |  |
-| [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2020-10-20\* |  |
+| [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2020-10-20\* | 2022-09-15 |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2020-10-20\* |  |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2021-04-15 |  |
 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 | 2021-10-09 |  |
@@ -143,9 +143,10 @@
 | [Immersed](https://open.spotify.com/track/1HZa1EjZeJDzQ7r6NwX6jW) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [In the Waiting](https://open.spotify.com/album/7tky9E0PLGbIFkgPzV5W1t) | 3:02 | 2020-10-20\* | 2022-08-13 |
 | [In Context](https://open.spotify.com/track/3VtwqVa4zccZMKIiFsMEtk) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Foreigner](https://open.spotify.com/album/1x6UF3Zkljn2tgf8juSF5I) | 2:34 | 2020-10-20\* | 2022-08-13 |
 | [Infinity](https://open.spotify.com/track/7j0rOyP9heljOUoUuFTr1Z) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Infinity](https://open.spotify.com/album/3YPKwO0fyF9cXrmDvrIUtb) | 3:23 | 2020-10-20\* |  |
+| [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2020-10-20\* |  |
 | [KSM66](https://open.spotify.com/track/0j4HJOZqgW0hyAQ2nrKLaI) | [Ted Flounders Jr](https://open.spotify.com/artist/1LpZGSGo6JevJrAAc1VnkV) | [Weighted Blanket](https://open.spotify.com/album/3e9a0xxbZwUJO7yXbYG4F6) | 2:17 | 2021-02-25 |  |
-| [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2020-10-20\* |  |
+| [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2020-10-20\* | 2022-09-15 |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2020-10-20\* |  |
 | [Land Of Eternal Spring](https://open.spotify.com/track/2IbOMyObpd2vXMQSNrV3kP) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:38 | 2020-10-20\* | 2022-02-04 |
 | [Levitate](https://open.spotify.com/track/7dZchcSQZRcqLs9g5FkbYs) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Levitate](https://open.spotify.com/album/6cLDivlBobugdVdPeKuySN) | 1:30 | 2020-10-20\* |  |
@@ -306,7 +307,7 @@
 | [VIII\. Juliet](https://open.spotify.com/track/6oLVqINTKcAPhuQU09qlE9) | [Matthew Bourne](https://open.spotify.com/artist/2gj26qPHNxw4PByxx0GBZp) | [Montauk Variations](https://open.spotify.com/album/20CoNQx672ldK7rpCBWwtr) | 3:20 | 2020-10-20\* | 2022-07-29 |
 | [Wafting Waters](https://open.spotify.com/track/7wnieVijyua873Tmj163CZ) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [In The Open](https://open.spotify.com/album/3NNdbGYBf9prwsRHaKHwb1) | 2:55 | 2020-10-20\* |  |
 | [Waiting](https://open.spotify.com/track/2l6cdCbfZ4l9LZMKjepbS2) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Waiting](https://open.spotify.com/album/2DVdfvJAKnG2Xa5KPoWh2X) | 1:49 | 2020-10-20\* | 2022-09-03 |
-| [Waiting For The Moment](https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 3:24 | 2020-10-20\* |  |
+| [Waiting For The Moment](https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 3:24 | 2020-10-20\* | 2022-09-15 |
 | [Water](https://open.spotify.com/track/15aAIdzt0xxazdV6abyGBC) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [Water](https://open.spotify.com/album/2iqpzaEFsjiuD4HJzu0nJw) | 2:14 | 2020-10-20\* |  |
 | [Water Flow](https://open.spotify.com/track/1KuuHDwv8BKKe911swYISj) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Water](https://open.spotify.com/album/679qmXq9SrdDHIIjPGDuBj) | 3:20 | 2020-10-20\* |  |
 | [Waves](https://open.spotify.com/track/2Qmg0oyUxivJVhVxbXEZcO) | [Opus Monik](https://open.spotify.com/artist/2dh3BSBT3YA8IaxyWYlVzO) | [Waves](https://open.spotify.com/album/7hUuzOKvyttWPjiviHFZln) | 3:20 | 2020-10-20\* |  |

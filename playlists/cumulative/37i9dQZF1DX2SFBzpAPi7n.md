@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: J\-JUN\(김재중\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-390 songs - 1 day 0 hr 2 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+391 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Memories](https://open.spotify.com/track/2tjlsodEoYD9xfPDkedn8s) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Memories](https://open.spotify.com/album/6g7NACiHwVR0qCYiBVcwqa) | 4:22 | 2022-05-11 | 2022-05-15 |
 | [Mercury](https://open.spotify.com/track/1Q1lThtKTcrM96wfrh8O6y) | [oomool](https://open.spotify.com/artist/6Hd7QIFavcdnS1Iiri4ssH) | [Mercury](https://open.spotify.com/album/5rEOxoegOUSR6UW1wqkU12) | 5:13 | 2022-06-13 | 2022-06-19 |
 | [Midnight Train 심야행](https://open.spotify.com/track/5frQVgA52nXd4SqlGaQn3H) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF) | 4:17 | 2022-04-21 | 2022-07-29 |
-| [missing my summer](https://open.spotify.com/track/6NwJhFsGnhOEEwnvFaOruj) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [missing my summer](https://open.spotify.com/album/3T2sKp5MhkB4xrA3Ycphwd) | 2:54 | 2022-09-05 |  |
+| [missing my summer](https://open.spotify.com/track/6NwJhFsGnhOEEwnvFaOruj) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [missing my summer](https://open.spotify.com/album/3T2sKp5MhkB4xrA3Ycphwd) | 2:54 | 2022-09-05 | 2022-09-15 |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-04-12 | 2022-08-05 |
 | [More](https://open.spotify.com/track/5JUMzqH6U6oO6yKXa0rLZg) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [More](https://open.spotify.com/album/1zvUzhuA4hLQpnl5SL02Sv) | 4:36 | 2022-05-02 | 2022-07-05 |
 | [Mouse](https://open.spotify.com/track/3bFpFHcK5cbg93FyKUTNWs) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/3BLdWzAtpi6No30f2m1okJ) | 3:58 | 2022-04-12 | 2022-07-28 |
@@ -224,6 +224,7 @@
 | [NIGHTMARE](https://open.spotify.com/track/0Wej6OtZQU1v1FARRpsQmc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 2:42 | 2022-05-02 | 2022-07-27 |
 | [Nightwalk](https://open.spotify.com/track/7JB4L3CCPY4G6XsQr8EgSg) | [Yang Chang Keun](https://open.spotify.com/artist/2PkqaseTcIQZdKeZc4s0kX) | [WAVE](https://open.spotify.com/album/6MMA1Y9oAHFiLkxZPktVtD) | 3:23 | 2022-04-22 | 2022-07-29 |
 | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/track/2puhFUzrx1DjRJN7guhQoe) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/album/1vVPwJYmieA4IgrddBOCcQ) | 3:50 | 2022-04-22 | 2022-04-26 |
+| [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 | 2022-09-13 |  |
 | [NOIZY](https://open.spotify.com/track/7Achen2ErZs7RQxd32oP20) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:23 | 2022-05-11 | 2022-05-17 |
 | [not even close](https://open.spotify.com/track/1jITrOKQdU6LbaosTXCt0i) | [isnotequalto](https://open.spotify.com/artist/2wDEeSb27uMLqlT8Bx9TuF) | [not even close](https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [not gonna love](https://open.spotify.com/track/0scY0FycWIn2ut429xuMja) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:12 | 2022-06-23 | 2022-06-26 |
@@ -339,10 +340,10 @@
 | [Then, Now and Forever](https://open.spotify.com/track/2YLCxfPRnyYxgirjSYcTZZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [RE\-CODE](https://open.spotify.com/album/6LKHdbZ7TNMnLX4pI1jeF2) | 3:50 | 2022-04-21 | 2022-07-25 |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-04-22 | 2022-07-29 |
 | [Till The End](https://open.spotify.com/track/6346CzN9QIthoAXNlhmDw4) | [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Again my life, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4F5qcsJk3zyB3PsPVebMV7) | 4:00 | 2022-05-03 | 2022-05-22 |
-| [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
+| [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 | 2022-09-15 |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
-| [Tree](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Tree](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 | 2022-09-13 |
+| [Tree](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Tree](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |
 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 | 2022-05-24 | 2022-06-14 |

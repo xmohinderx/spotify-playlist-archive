@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-207 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+213 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,11 +40,13 @@
 | [Chasing Cloud Nine](https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/3EB3bjFZwEXfdMcMFM4eoK) | 2:42 | 2022-07-22 |  |
 | [Chasing Cloud Nine](https://open.spotify.com/track/6nUMS7cttlCUPvl0wfN3sQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/6Y3wbX1sgVdf2KAVJ0nPt7) | 2:42 | 2021-12-23 | 2022-07-29 |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-23 |  |
+| [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Roni Adrian](https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-12-23 |  |
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2021-12-23 |  |
 | [Contemplation](https://open.spotify.com/track/6dAScKFmnc7epcmlV7uXRv) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Contemplation](https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau) | 3:02 | 2021-12-23 |  |
 | [Crayons Part 2](https://open.spotify.com/track/7eyhf1p0OTrZ804PusfMvl) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Dear Dawn](https://open.spotify.com/album/6Aih1IKbgXvDw8Tc3sMsRn) | 2:09 | 2021-12-23 | 2022-07-29 |
 | [Crayons Part 2](https://open.spotify.com/track/19vWPaRELzfUUlA4e9c7RB) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Dear Dawn](https://open.spotify.com/album/65IrZAMOiYuxHlrbxFYwGJ) | 2:10 | 2022-07-22 |  |
+| [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-09-13 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-03-03 |  |
 | [Determination](https://open.spotify.com/track/0IthIgkcnDg9SQ4KV3EOcE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 3:21 | 2021-12-23 |  |
 | [Distant Future](https://open.spotify.com/track/7fQnWktkzG5HN2PJYc6G6g) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 2:19 | 2021-12-23 |  |
@@ -68,6 +70,7 @@
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-24 |  |
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-23 |  |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-12-23 |  |
+| [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
 | [For a while](https://open.spotify.com/track/0AGYeuTCEtwHWZ45RZNaHN) | [Ida Eline](https://open.spotify.com/artist/5KytELOgYZTg1s0VxUG9Nw) | [For a while](https://open.spotify.com/album/7l4681Ts204dYgHCOiZjba) | 3:04 | 2021-12-23 |  |
 | [For Emmabelle](https://open.spotify.com/track/6f096qqr3TLKBEoWxy8HPg) | [Donato Manna](https://open.spotify.com/artist/7ITvoe7pKuN7DqVBje697p) | [For Emmabelle](https://open.spotify.com/album/2NbjoYfZ6toamz1EPAA4lu) | 3:29 | 2021-12-23 | 2022-09-03 |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2021-12-23 |  |
@@ -143,6 +146,7 @@
 | [Paralyzed](https://open.spotify.com/track/6qU5ggMJaYOItNCsUIGeyP) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Paralyzed](https://open.spotify.com/album/6GAFR4ODXrRdbgNrpOpH4w) | 2:21 | 2021-12-23 |  |
 | [Patience](https://open.spotify.com/track/342mXLmWmrjqqIaVtnYjRH) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Patience](https://open.spotify.com/album/4N1vWOBCOVTeQGcWKCavwl) | 3:00 | 2021-12-23 |  |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2021-12-23 |  |
+| [Peaceful Patterns \- Yoga Version](https://open.spotify.com/track/5LvTXUwvXcq348o5LdAVZJ) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/album/5Ac4LwtFRHKe9j4qHJf9Gk) | 2:49 | 2022-09-13 |  |
 | [Peaceful Shore](https://open.spotify.com/track/564sRJoCWNRZhGf0aMnx5Q) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Dreams Within Dreams](https://open.spotify.com/album/4z7X3l4pXbdV4PdVwuyIIW) | 3:06 | 2021-12-23 |  |
 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 | 2021-12-23 |  |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2021-12-23 | 2022-09-03 |
@@ -150,12 +154,14 @@
 | [Pour l'amour de toi](https://open.spotify.com/track/30fnP9bbrN5BVLFQdLAeAu) | [Tranquil Cove](https://open.spotify.com/artist/7wcYGhAdnlsglHP4ty9b26) | [Pour l'amour de toi](https://open.spotify.com/album/5WuFegQt0hnehGmaEkUt4T) | 2:03 | 2021-12-23 |  |
 | [Primrose](https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV) | [Joan Magana](https://open.spotify.com/artist/0WZH1ZpG77XFRS44A8lL5R) | [Primrose](https://open.spotify.com/album/2T22dTQnkNLOFlfsqv8kd4) | 3:38 | 2021-12-23 |  |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2021-12-23 |  |
+| [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Pulses](https://open.spotify.com/track/0g9YBXqgJJ7eRhlTxZyLj0) | [Joan Sterling](https://open.spotify.com/artist/60EppBmOMzamUBBmTjwCdM) | [Pulses](https://open.spotify.com/album/1re1THpQwIZVSnf5O7zgWu) | 2:10 | 2021-12-23 |  |
 | [Purity](https://open.spotify.com/track/0jVoM3xPCje84qve763Zoq) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Way of Life](https://open.spotify.com/album/2WJ3Et6BMjC0ePyPbsEAQc) | 4:28 | 2021-12-23 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2021-12-23 |  |
 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 | 2022-03-03 |  |
 | [Reality](https://open.spotify.com/track/6610gii04R3zRuWpa38XzY) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:06 | 2021-12-23 |  |
 | [Reawake](https://open.spotify.com/track/5Aew5mU2PX5VffgzLKcBrv) | [Alex Sunita](https://open.spotify.com/artist/2NQR3z3RiaO9vSSMAgbOlw) | [Reawake](https://open.spotify.com/album/02Zc1AlasloNJ7EomEUOIO) | 3:10 | 2022-03-03 |  |
+| [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2022-09-13 |  |
 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2021-12-23 | 2022-09-03 |
 | [Reunion](https://open.spotify.com/track/57IlqBXnuaKI854KSBkeIQ) | [Belle Bardot](https://open.spotify.com/artist/6gvhAzNtzWKlXLxWhSJBo9) | [Reunion](https://open.spotify.com/album/3NQk2ASP9xsbRjUtlA92vx) | 2:22 | 2022-07-22 |  |
 | [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 | 2022-09-02 |  |

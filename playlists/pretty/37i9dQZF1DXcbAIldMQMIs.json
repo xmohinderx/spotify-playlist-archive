@@ -1,12 +1,12 @@
 {
   "description": "indie pop when ur crushing so hard it hurts",
-  "num_followers": 417566,
+  "num_followers": 418383,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDJjM2EzNTg3ZDY4MzZhYzllYjRhZDBlMDg1YzM4MGJh",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDcxNjcwMDY2NmUwNzE0NWMzNDhmZTI5NDcwNTAyMTlk",
   "tracks": [
     {
       "added_at": "2022-06-30 20:25:33",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-06-30 20:25:33",
       "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
+    },
+    {
+      "added_at": "2022-06-30 20:25:33",
+      "album": {
         "name": "ERYS (Deluxe)",
         "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 270960,
       "name": "Summertime In Paris",
       "url": "https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o"
-    },
-    {
-      "added_at": "2022-06-30 20:25:33",
-      "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
       "added_at": "2022-06-30 20:25:33",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
       "added_at": "2022-06-30 20:25:33",
       "album": {
         "name": "diary 001",
@@ -819,22 +835,6 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
       "added_at": "2022-06-30 20:25:33",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "One More Weekend",
-        "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 142829,
-      "name": "One More Weekend",
-      "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
-    },
-    {
       "added_at": "2022-06-30 20:25:33",
       "album": {
         "name": "Our Extended Play",
@@ -1031,6 +1015,22 @@
       "duration_ms": 164690,
       "name": "Cologne",
       "url": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "One More Weekend",
+        "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 142829,
+      "name": "One More Weekend",
+      "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
     },
     {
       "added_at": "2022-06-30 20:25:33",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-06-30 20:25:33",
       "album": {
-        "name": "Lychee",
-        "url": "https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 192694,
-      "name": "Beach Boy",
-      "url": "https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE"
-    },
-    {
-      "added_at": "2022-06-30 20:25:33",
-      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 221360,
       "name": "Make Me Your Queen",
       "url": "https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3"
+    },
+    {
+      "added_at": "2022-06-30 20:25:33",
+      "album": {
+        "name": "Lychee",
+        "url": "https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 192694,
+      "name": "Beach Boy",
+      "url": "https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE"
     },
     {
       "added_at": "2022-06-30 20:25:33",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-06-30 20:25:33",
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 223638,
-      "name": "If You Want To",
-      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
-    },
-    {
-      "added_at": "2022-06-30 20:25:33",
-      "album": {
         "name": "Was It Something I Said",
         "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 220588,
       "name": "Was It Something I Said",
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+    },
+    {
+      "added_at": "2022-06-30 20:25:33",
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 223638,
+      "name": "If You Want To",
+      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
     },
     {
       "added_at": "2022-06-30 20:25:33",

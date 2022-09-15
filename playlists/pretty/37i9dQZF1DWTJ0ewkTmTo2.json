@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 455180,
+  "num_followers": 455463,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMDlmODkxZmUxMTc2MzY1ZTdkNTM2OTBmMjdlMmU3ZTM3",
+  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMDgwMDFhMzcyNWE0M2NmMWZiODg2MWRjMDBkNDBiN2Y5",
   "tracks": [
     {
       "added_at": "2022-08-17 15:38:55",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
-        "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
-        "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
+        "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+        "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
     },
     {
       "added_at": "2022-08-17 15:38:55",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
-        "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
         "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
         "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 306373,
       "name": "Home - 2019 - Remaster",
       "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
+        "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
     },
     {
       "added_at": "2022-08-17 15:38:55",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
-        "name": "Broadway",
-        "url": "https://open.spotify.com/album/3qqiudxVW3GmigrTHRUcLf"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Jeff Conaway",
-          "url": "https://open.spotify.com/artist/34NoGpkDKIwSQG1V6gdhRL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Greased Lightnin'",
-      "url": "https://open.spotify.com/track/0hq5mE9kYU4Sy2PpdZwGol"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
         "name": "...Somewhere More Familiar",
         "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 183133,
       "name": "Banana Boat (Day-O)",
       "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
+        "name": "Broadway",
+        "url": "https://open.spotify.com/album/3qqiudxVW3GmigrTHRUcLf"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Jeff Conaway",
+          "url": "https://open.spotify.com/artist/34NoGpkDKIwSQG1V6gdhRL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Greased Lightnin'",
+      "url": "https://open.spotify.com/track/0hq5mE9kYU4Sy2PpdZwGol"
     },
     {
       "added_at": "2022-08-17 15:38:55",

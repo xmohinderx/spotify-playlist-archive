@@ -4,7 +4,7 @@
 
 > The perfect blend of songs, old and new, for around\-the\-clock listening.
 
-612 songs - 1 day 15 hr 23 min - [published](https://open.spotify.com/playlist/4bCnXDDkJHNRPIitsHY1SA)
+613 songs - 1 day 15 hr 27 min - [published](https://open.spotify.com/playlist/4bCnXDDkJHNRPIitsHY1SA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7cKUyLDvGKMd12ovtOU0z5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Gnomeo and Juliet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1SyOCUwocTruZYiY709ZjJ) | 4:33 | 2019-07-29\* | 2022-07-29 |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2022-06-09 |  |
 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 | 2021-01-19 | 2022-07-20 |
+| [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2022-06-09 |  |
 | [Don't You Think It's Time](https://open.spotify.com/track/7ybe2f8sJ6hYDo3vaJ4Y6C) | [Bob Evans](https://open.spotify.com/artist/0fVhP9fCtZ2f0Fy9Ie7Dh8) | [Full Circle \(Best Of\)](https://open.spotify.com/album/0bIEvLRTkmnFb5e6f3xai7) | 3:18 | 2021-02-27 | 2021-03-14 |
 | [Dreams](https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 4:14 | 2019-08-10 | 2021-08-24 |
 | [Dreams](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Find Your Way](https://open.spotify.com/album/3G14jXmb8ul7FmkRnPZooj) | 3:42 | 2019-09-17 | 2019-09-18 |
@@ -179,7 +180,7 @@
 | [GIRL](https://open.spotify.com/track/3y5B5ebFMzEEFqCPOesAXR) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 4:10 | 2019-08-10 | 2022-04-19 |
 | [Girls In Their Summer Clothes](https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:19 | 2021-02-28 | 2022-07-28 |
 | [Girls on the Avenue](https://open.spotify.com/track/60NAi3x5XfU8UDMu5WRUSr) | [Richard Clapton](https://open.spotify.com/artist/3M5nxyS3mmuFqHP2N4x5ZH) | [Girls On The Avenue](https://open.spotify.com/album/7gQWHh8iUv8LI70VgSMYOq) | 4:02 | 2020-01-27 | 2022-01-23 |
-| [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 | 2021-02-28 |  |
+| [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 | 2021-02-28 | 2022-09-15 |
 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 | 2021-02-26 | 2021-10-12 |
 | [Give Me Love](https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 8:46 | 2021-03-17 | 2022-04-19 |
 | [Glittery \- From The Kacey Musgraves Christmas Show](https://open.spotify.com/track/4dFtIGQBrYjiskk7fN5Wmx) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Kacey Musgraves Christmas Show](https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI) | 2:23 | 2020-01-16 | 2021-03-06 |

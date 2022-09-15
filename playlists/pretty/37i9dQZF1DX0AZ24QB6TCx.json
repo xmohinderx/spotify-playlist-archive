@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 266024,
+  "num_followers": 266317,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNzUyOCwwMDAwMDAwMDcwM2ZmMjdhYzhiZDczN2QxMzFkZmRlYmExZmUyM2M0",
+  "snapshot_id": "MTY2MjczNzUyOCwwMDAwMDAwMDYzMGE5MTZhOTc4YTk4NDMyNGE5MzllZTZhY2Q2N2Yw",
   "tracks": [
     {
       "added_at": "2022-09-09 15:32:07",
@@ -787,6 +787,26 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
+        "name": "Eolian",
+        "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
+      },
+      "artists": [
+        {
+          "name": "Xande (IT)",
+          "url": "https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8"
+        },
+        {
+          "name": "Latteo",
+          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
+        }
+      ],
+      "duration_ms": 381965,
+      "name": "Eolian",
+      "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
         "name": "Drum 'N' Feels",
         "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
       },
@@ -807,22 +827,18 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Eolian",
-        "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
       "artists": [
         {
-          "name": "Xande (IT)",
-          "url": "https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8"
-        },
-        {
-          "name": "Latteo",
-          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
         }
       ],
-      "duration_ms": 381965,
-      "name": "Eolian",
-      "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -847,38 +863,6 @@
       "duration_ms": 197796,
       "name": "Don't Go Asking - Radio Edit",
       "url": "https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 293701,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -911,6 +895,38 @@
       "duration_ms": 323919,
       "name": "World Turns",
       "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 293701,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Burning Sun",
+        "url": "https://open.spotify.com/album/3UVk7K3ddWmMvrf0Z4iD3L"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Burning Sun",
+      "url": "https://open.spotify.com/track/2ybxXZvwT6lje7Y1HY4fX7"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Solar Detroit",
-        "url": "https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk"
-      },
-      "artists": [
-        {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
-        }
-      ],
-      "duration_ms": 486137,
-      "name": "Solar Detroit",
-      "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "I Won't Be",
         "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 212596,
       "name": "I Won't Be",
       "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
-        "name": "Home (Remixes)",
-        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 334867,
-      "name": "Holy - Frank Wiedemann Remix",
-      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1023,18 +1003,38 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "The K\u00e1rm\u00e1n Line",
-        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
+        "name": "Solar Detroit",
+        "url": "https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
         }
       ],
-      "duration_ms": 203657,
-      "name": "The K\u00e1rm\u00e1n Line",
-      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
+      "duration_ms": 486137,
+      "name": "Solar Detroit",
+      "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Home (Remixes)",
+        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 334867,
+      "name": "Holy - Frank Wiedemann Remix",
+      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1051,6 +1051,22 @@
       "duration_ms": 508091,
       "name": "The Tribe",
       "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "The K\u00e1rm\u00e1n Line",
+        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 203657,
+      "name": "The K\u00e1rm\u00e1n Line",
+      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Perspective EP",
-        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 304753,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 352240,
       "name": "Love We Found",
       "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Perspective EP",
+        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 304753,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1219,6 +1235,22 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt"
       },
@@ -1235,22 +1267,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Burning Sun",
-        "url": "https://open.spotify.com/album/3UVk7K3ddWmMvrf0Z4iD3L"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Burning Sun",
-      "url": "https://open.spotify.com/track/2ybxXZvwT6lje7Y1HY4fX7"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Neunivai",
         "url": "https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 438533,
       "name": "Neunivai - Original Mix",
       "url": "https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     }
   ],
   "unique_name": "Afterhours",

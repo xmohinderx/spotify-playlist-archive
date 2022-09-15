@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,463,408 likes - 99 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463,903 likes - 99 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 86 | [Won't Let Me Go](https://open.spotify.com/track/4FNan8GUauT5ZdZONLCzdq) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Won't Let Me Go](https://open.spotify.com/album/1XIHJlUQDa7CFghiCQw1Nt) | 3:35 |
 | 87 | [Weary Traveler](https://open.spotify.com/track/3Tk1nsuee5fgUBFAs4a2ZB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Weary Traveler](https://open.spotify.com/album/6pyeFhlMgiernCgP4ks5rF) | 3:20 |
 | 88 | [God You Are](https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 4:25 |
-| 89 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 |
+| 89 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 |
 | 90 | [Love Is Everything We Need](https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Love Is Everything We Need](https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M) | 2:37 |
 | 91 | [Thank God For Sunday Morning](https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Thank God For Sunday Morning](https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb) | 3:28 |
 | 92 | [Overcome \- Radio Edit](https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Overcome \(Radio Edit\)](https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM) | 4:07 |

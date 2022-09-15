@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 46022,
+  "num_followers": 46223,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDgxMTZlOTQzYmRkNTNhNWRlNGUxMzRmNDU2OTgyOTA5",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGZhYWU4YWUyMmNlOTE1YzlhMDFkMDA1ZjA3YmZkNzQ3",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "3 - Supernature",
         "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 585374,
       "name": "Supernature",
       "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Io Fuori",
+        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 349462,
+      "name": "Ti voglio",
+      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "For You (LP)",
         "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Io Fuori",
-        "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 349462,
-      "name": "Ti voglio",
-      "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Italiana Vol. 1",
+        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "Morir\u00f2 Per Te - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Eyes (2020 Remaster)",
         "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 398733,
       "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
       "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Italiana Vol. 1",
-        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Morir\u00f2 Per Te - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Polydans Remixes",
+        "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 239788,
+      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Greatest Hits & Remixes",
         "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 236333,
       "name": "Balla Ba",
       "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Polydans Remixes",
-        "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 239788,
-      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Phazerdelique",
+        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
+      },
+      "artists": [
+        {
+          "name": "Kim And Buran",
+          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Phazerdelique - Extended Mix",
+      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Future Disco: Visions of Love",
         "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Dancing on Townsquare",
-        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
-      },
-      "artists": [
-        {
-          "name": "The Chaplin Band",
-          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Il Veliero - Single Version",
-      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Bambina c/o Bye Bye Mi Amor",
         "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
       },
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+        "name": "Dancing on Townsquare",
+        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
       },
       "artists": [
         {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+          "name": "The Chaplin Band",
+          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
         }
       ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Italian Dance",
-        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
-      },
-      "artists": [
-        {
-          "name": "Gepy & Gepy",
-          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
+      "duration_ms": 210186,
+      "name": "Il Veliero - Single Version",
+      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1203,18 +1187,34 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Phazerdelique",
-        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
       },
       "artists": [
         {
-          "name": "Kim And Buran",
-          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
         }
       ],
-      "duration_ms": 448000,
-      "name": "Phazerdelique - Extended Mix",
-      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+      },
+      "artists": [
+        {
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2022-09-08 22:01:00",

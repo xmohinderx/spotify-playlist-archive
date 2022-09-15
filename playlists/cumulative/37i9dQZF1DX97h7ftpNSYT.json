@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Taking it back to the 2010s. Cover: Big Sean",
+  "description": "Taking it back to the 2010s. Cover: PnB Rock",
   "name": "I Love My 2010s Hip-Hop",
   "published_playlist_ids": [
     "0NVnLMZLWX74QAANrVArj1"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 237240,
       "name": "BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZNrc4kNeQYD9koZ3KvCsy"
@@ -2314,6 +2314,24 @@
     },
     {
       "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121886,
+      "name": "changes",
+      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
+    },
+    {
+      "album": {
         "name": "Barter 6",
         "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
       },
@@ -2363,8 +2381,8 @@
           "url": "https://open.spotify.com/artist/1rs3y69kDwkIdGJcOYngQt"
         },
         {
-          "name": "Spooks",
-          "url": "https://open.spotify.com/artist/5ewJHfiGNQJjmKHzLjcojz"
+          "name": "J Spooks",
+          "url": "https://open.spotify.com/artist/36Tn5h23ysORlLKc42UXfe"
         }
       ],
       "date_added": "2022-04-13",
@@ -9079,7 +9097,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 251573,
       "name": "Real Friends",
       "url": "https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP"
@@ -9515,6 +9533,24 @@
       "duration_ms": 29048,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
+        "name": "GTTM: Goin Thru the Motions",
+        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245604,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw"
     },
     {
       "album": {

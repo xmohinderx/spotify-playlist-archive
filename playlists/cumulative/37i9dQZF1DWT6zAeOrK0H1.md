@@ -4,7 +4,7 @@
 
 > Home of the best bands orbiting the universe right now\. Cover: Arctic Monkeys
 
-148 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
+150 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Good Bad Times](https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx) | 3:18 | 2022-07-08 |  |
 | [Good Bad Times](https://open.spotify.com/track/7hUUFvCY5PtYNu86961d0r) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/5EAxNmYYdSAswaDuqPTiYN) | 3:18 | 2022-03-15 | 2022-07-29 |
 | [Good Girls](https://open.spotify.com/track/1QLt4G7tMstvj6IVcQSwg9) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0QVGIcTbPFeiArrgwRKKtG) | 3:19 | 2022-03-15 | 2022-07-29 |
-| [Good Girls](https://open.spotify.com/track/77fcXpPaKiAlySEqwNLE4i) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0KuAi49HdkjHiuL7TjKsud) | 3:19 | 2022-07-08 |  |
+| [Good Girls](https://open.spotify.com/track/5vrqIOmzON7eO9Fp5iQANm) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 3:19 | 2022-09-01 |  |
+| [Good Girls](https://open.spotify.com/track/77fcXpPaKiAlySEqwNLE4i) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0KuAi49HdkjHiuL7TjKsud) | 3:19 | 2022-07-08 | 2022-09-15 |
 | [Grounds](https://open.spotify.com/track/6jYxxjpNcjglJbAyoxdNQO) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7) | 3:08 | 2022-03-15 | 2022-06-17 |
 | [Guided By Angels](https://open.spotify.com/track/4JDMKZCbeto7G8RhqVIaYs) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Guided By Angels](https://open.spotify.com/album/1Rv5DVHUuzxxqSn9CvF0ZY) | 2:59 | 2022-03-15 | 2022-06-03 |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-08-11 | 2022-09-02 |
@@ -83,8 +84,9 @@
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-09-01 |  |
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2022-03-15 |  |
 | [On A Roll](https://open.spotify.com/track/3x5Epc2KaH4lAeOPa7NnAZ) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:58 | 2022-03-15 |  |
+| [Once](https://open.spotify.com/track/3GKAePuZ3EoZpyH6a6JvLS) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [False Alarm](https://open.spotify.com/album/6bqsvJiwh4RrfzPh0Fb9wL) | 3:18 | 2022-09-01 |  |
 | [Once](https://open.spotify.com/track/3eQGzBDczXA2AwFERikWyl) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [False Alarm](https://open.spotify.com/album/4XgX7TI2RY3vzjKhKJrkGq) | 3:18 | 2022-03-15 | 2022-07-29 |
-| [Once](https://open.spotify.com/track/6zrlgQ8K3ZbXCRJFdB1hkE) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [False Alarm](https://open.spotify.com/album/6dVoyecmTOPWnkZD8HCfvd) | 3:18 | 2022-07-08 |  |
+| [Once](https://open.spotify.com/track/6zrlgQ8K3ZbXCRJFdB1hkE) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [False Alarm](https://open.spotify.com/album/6dVoyecmTOPWnkZD8HCfvd) | 3:18 | 2022-07-08 | 2022-09-15 |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-07-08 |  |
 | [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2022-03-15 | 2022-07-29 |
 | [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 | 2022-08-11 |  |

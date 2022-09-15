@@ -4,10 +4,11 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-83 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
+84 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Flute of Brass](https://open.spotify.com/track/75kHcUvAMwFtpOEnnZCuWJ) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [A Flute of Brass](https://open.spotify.com/album/1EswLuSIJhZD8tdZdQwftw) | 3:36 | 2022-09-13 |  |
 | [A Peaceful Discovery](https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [A Peaceful Discovery](https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid) | 2:27 | 2022-05-26 |  |
 | [African Drums](https://open.spotify.com/track/7doTlELThWgVXRy97siLVn) | [Deep Massage Tribe](https://open.spotify.com/artist/1yRoPKZb7xwcVdDLPMfaTd) | [Energetic Massage to the Sounds of Drums, Deep and Healing Massage](https://open.spotify.com/album/71JWjUnNTXbUf5PATt7JtO) | 3:41 | 2022-05-26 |  |
 | [African Healing Drums](https://open.spotify.com/track/7a8AUMlnM3bHq3RQ8tGoOd) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo), [Shamanic Drumming World](https://open.spotify.com/artist/3B6W7sM7HLbRi9Min5tU56) | [African Healing Drums \(30 Amazing Tribal Music, Joyful African Rhythms, Exotic Ambient\)](https://open.spotify.com/album/1TiUZKAgMnwqzQGuzzNXBP) | 3:48 | 2022-05-26 |  |
@@ -46,7 +47,7 @@
 | [Hypnotic](https://open.spotify.com/track/4DwOcPUyAMVDtQCBEXFGOj) | [Nimah Chantis](https://open.spotify.com/artist/1PAnkrGfJrFbB7wT1SuDHY) | [Shamanic Drums \(Meditation & Sacred Dance\)](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 3:45 | 2022-05-26 |  |
 | [I Told You So](https://open.spotify.com/track/0NOcrJEDvdfUaxukODyXHm) | [Ragu Bandera](https://open.spotify.com/artist/2eGUeI1yjONv79sXZODOqG) | [I Told You So](https://open.spotify.com/album/6S6omVew9fNvzTJcgGao4q) | 2:30 | 2022-05-26 |  |
 | [Inner Sanctum](https://open.spotify.com/track/6flT3JMt6BaqzR5TH0w14W) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Inner Sanctum](https://open.spotify.com/album/0plusPTJbziOVYoqGEHQV7) | 4:09 | 2022-05-26 |  |
-| [Into the Wild](https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-05-26 |  |
+| [Into the Wild](https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-05-26 | 2022-09-15 |
 | [Jai Bhagwan](https://open.spotify.com/track/6x0khUE2pKEPCJ4RrqzACz) | [Pritam Jariwala](https://open.spotify.com/artist/75bjfZZ0jUCTkUYfz2MZPp) | [Jai Bhagwan](https://open.spotify.com/album/1lpCEefFOOYNLREQVD6OYi) | 2:44 | 2022-05-26 |  |
 | [Jaipur Jam](https://open.spotify.com/track/5qOdcbT6a6AI2QLEKJrbqE) | [Gloombeam](https://open.spotify.com/artist/7xRlnntH9IDDltNEV9N7WP) | [Jaipur Jam](https://open.spotify.com/album/7ko5mUgOyZ8v9eLj3o7Kh1) | 2:11 | 2022-05-26 |  |
 | [Kalimba Lullaby](https://open.spotify.com/track/0CvcNslgnm7nuNC5i7c48N) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 4:06 | 2022-05-26 |  |

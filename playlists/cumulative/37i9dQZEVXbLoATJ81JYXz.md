@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-986 songs - 2 day 4 hr 6 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+988 songs - 2 day 4 hr 13 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-02 | 2022-07-04 |
 | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/track/3m9GqZMWHtZPbGhamFjrN9) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/album/1MrXU3B1fECuJ8QmRFyBNs) | 3:14 | 2021-09-12 | 2021-09-13 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-15 |
+| [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-14 |  |
 | [How Long \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From ”Euphoria” An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-01-29 | 2022-01-31 |
 | [Hur mycket? \(pengar vill du ha\)](https://open.spotify.com/track/0F5L21B9FbT2Y9AM2OnCgE) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 3:06 | 2021-10-03 | 2021-11-07 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-10-03 |
@@ -570,7 +571,8 @@
 | [Marbella](https://open.spotify.com/track/5pWQeWrsXX4JYYihgoxUNN) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 2:50 | 2021-10-17 | 2021-11-07 |
 | [Marbella](https://open.spotify.com/track/6PWTqk0c1L5ehd3tG3Zpf2) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Marbella](https://open.spotify.com/album/4UN3LjhJSTQWHqEKUTPd7Y) | 2:50 | 2021-06-20 | 2021-10-17 |
 | [MARIA](https://open.spotify.com/track/5D1UkQaChtBhqt3rpeV2DI) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:59 | 2022-06-11 | 2022-07-17 |
-| [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-23 |  |
+| [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-23 | 2022-09-15 |
+| [Mary On A Cross](https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom) | 4:04 | 2022-09-14 |  |
 | [Mata Hari](https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P) | [Efendi](https://open.spotify.com/artist/4oe1qp9xGSFxMYH4X9AXtl) | [Mata Hari](https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi) | 2:40 | 2021-05-25 | 2021-05-29 |
 | [MATADOR](https://open.spotify.com/track/64s0ZmTEwVhztlrEP6Xt9J) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MATADOR](https://open.spotify.com/album/35f2RCaqMqxU5dNv5v8n7U) | 3:16 | 2022-04-25 | 2022-08-28 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-22 | 2022-06-04 |
@@ -675,7 +677,7 @@
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-27 | 2022-01-17 |
 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 | 2021-09-12 | 2021-09-13 |
 | [Plug Talk](https://open.spotify.com/track/0eXMADfYyg9DRiKbmKuAOu) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:19 | 2021-03-27\* | 2021-04-01 |
-| [POLERS](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [POLERS](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 | 2022-09-10 |  |
+| [POLERS](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [POLERS](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 | 2022-09-10 | 2022-09-15 |
 | [Police](https://open.spotify.com/track/3B903DhOIENm4wNq356KJj) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Police](https://open.spotify.com/album/23klDTxN5Qe2wuZ9ad1y37) | 2:43 | 2022-08-27 | 2022-09-04 |
 | [Pop Smoke](https://open.spotify.com/track/4N9RKF9hpWY7asYF0V72s6) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0), [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 2:53 | 2021-10-23 | 2021-10-26 |
 | [Poppis](https://open.spotify.com/track/0YdaLD97uhero6WpO4HfMe) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Poppis](https://open.spotify.com/album/5abDAhJ618gaQ26XyMa8Bp) | 2:07 | 2022-02-12 | 2022-04-17 |

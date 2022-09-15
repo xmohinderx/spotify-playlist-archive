@@ -4,7 +4,7 @@
 
 > Easy and soft piano Jazz when you need to relax.
 
-121 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/47TMtG71WaoyKFakM6fHQB)
+125 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/47TMtG71WaoyKFakM6fHQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-08-19 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-08-19 |  |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-08-19 |  |
+| [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-14 |  |
 | [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-19 |  |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-08-19 |  |
 | [Farewell](https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Farewell](https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5) | 3:59 | 2022-08-19 |  |
@@ -46,6 +47,7 @@
 | [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-09-08 |  |
 | [Hill](https://open.spotify.com/track/6GFQLWVOpzCZIsvVk9jWQB) | [The Bourbon Trio](https://open.spotify.com/artist/6NwBJDTD73WjyAXoepnK4z) | [Head Start](https://open.spotify.com/album/1Nx0LA5GUp04wJU8tBlCQY) | 6:30 | 2022-08-19 |  |
 | [Homebound](https://open.spotify.com/track/7obaAm9tRqarKIJ1JsRelQ) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Homebound](https://open.spotify.com/album/55PXw2IMn0zVQ9DrjEmYnu) | 3:29 | 2022-08-19 |  |
+| [I Got It Bad](https://open.spotify.com/track/7mAaoHCzBBjj3tYb1l25OH) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Got It Bad](https://open.spotify.com/album/4fifEjoLEumLNYYMlSvaan) | 4:26 | 2022-09-14 |  |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-08-19 |  |
 | [I Promise to Love](https://open.spotify.com/track/19LMucy1MN241ShsoCUKia) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [I Promise to Love](https://open.spotify.com/album/44tqKaAh69xrdFN9s2TCl4) | 2:52 | 2022-09-01 |  |
 | [I Remember Clifford](https://open.spotify.com/track/2WQ5tNYgO3FGmGLK7L13VT) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [I Remember Clifford](https://open.spotify.com/album/4PUEcJYPc6pDKlWszsM6nQ) | 4:57 | 2022-08-19 |  |
@@ -118,7 +120,9 @@
 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 | 2022-08-19 |  |
 | [To See a Flower](https://open.spotify.com/track/5wQ0V1GJByFSa74FqYBADD) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [To See a Flower](https://open.spotify.com/album/2FHOguRDA6SNkRZrpkn5Ol) | 3:23 | 2022-08-19 |  |
 | [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-19 |  |
+| [Turn Down the Lights](https://open.spotify.com/track/0ogRwGa7KtCUBF2PKJKO3F) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 2:57 | 2022-09-14 |  |
 | [turned or twisted](https://open.spotify.com/track/4XkhajNW9YvcoBt1l2UuYe) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [turned or twisted](https://open.spotify.com/album/30UQBgFXxfOORDHH6oxS0a) | 2:27 | 2022-08-19 |  |
+| [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-09-14 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 | 2022-08-19 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-08-19 |  |
 | [What Goes On In All Of Us](https://open.spotify.com/track/6ZF2q1ZKjhpqPXTFGB24tC) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [What Goes On In All Of Us](https://open.spotify.com/album/1qcLJ4NHlfBSJ73hwQHRjY) | 2:59 | 2022-08-19 |  |

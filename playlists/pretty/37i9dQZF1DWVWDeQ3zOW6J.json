@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 26254,
+  "num_followers": 26304,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGFjOWY0OWQ0MjFiZjIyNzdjN2ZiM2NkZDIxOWNlYWNh",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMDE5MzlmZWQ0NDU0MDBjZjJjODhmMzUyN2ExNTdlMjUw",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -419,6 +419,26 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
+        "name": "La Perfecta Combinaci\u00f3n",
+        "url": "https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "La Esencia Del Guaguanc\u00f3",
+      "url": "https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
         "name": "Velvet Salsa All Stars",
         "url": "https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 254866,
       "name": "Sandra Mora",
       "url": "https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "La Perfecta Combinaci\u00f3n",
-        "url": "https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "La Esencia Del Guaguanc\u00f3",
-      "url": "https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -979,6 +979,22 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
+        "name": "Rompiendo clave",
+        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
+      },
+      "artists": [
+        {
+          "name": "El Combo Belga",
+          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "Te conozco bacalao",
+      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
         "name": "Mambo con Conga is Mozambique",
         "url": "https://open.spotify.com/album/2TU4bPkFCFK2ZsIN8p3Xee"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 232733,
       "name": "Suj\u00e9tate La Lengua",
       "url": "https://open.spotify.com/track/3htgU6kH3sqOJLxjtNNd3C"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Rompiendo clave",
-        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
-      },
-      "artists": [
-        {
-          "name": "El Combo Belga",
-          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Te conozco bacalao",
-      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Siguen Pa' Lante y Pa' Lante",
-        "url": "https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm"
+        "name": "L.A. Amistad",
+        "url": "https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3"
       },
       "artists": [
         {
-          "name": "Kako y Totico",
-          "url": "https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w"
+          "name": "Johnny Polanco Y Su Conjunto Amistad",
+          "url": "https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle"
         }
       ],
-      "duration_ms": 233506,
-      "name": "\u00bfQu\u00e9 Quiere la Ni\u00f1a?",
-      "url": "https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV"
+      "duration_ms": 303106,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW"
     }
   ],
   "unique_name": "Cocina con Salsa",

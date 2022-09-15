@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-777 songs - 1 day 19 hr 5 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+778 songs - 1 day 19 hr 9 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [Run It Up](https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Run It Up](https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq) | 2:58 | 2021-12-17 | 2022-04-17 |
 | [Runnin'](https://open.spotify.com/track/4b6mADxnmXq2bbhJJQx8Ac) | [Wajatta](https://open.spotify.com/artist/0Yh5vHNrVsgQ9UEcj8Rqss) | [Casual High Technology](https://open.spotify.com/album/1ib1DjuAru854gV80O6xa2) | 5:38 | 2020-07-01 | 2020-11-03 |
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2020-12-27 | 2021-11-20 |
-| [San Frandisco](https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/1yvc0dwbzh1nGEBk6rOZoc) | 3:05 | 2022-07-14 |  |
+| [San Frandisco](https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/1yvc0dwbzh1nGEBk6rOZoc) | 3:05 | 2022-07-14 | 2022-09-15 |
 | [San Frandisco](https://open.spotify.com/track/4KrATQEoEbKAAY7j0kMDBl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/66IfXKLEgsVPqwElkk8aeP) | 3:05 | 2020-05-22\* | 2022-07-29 |
 | [Saturation](https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Saturation EP](https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb) | 2:53 | 2020-12-27 | 2021-03-23 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 | 2022-08-15 |
@@ -772,6 +772,7 @@
 | [Worst Enemy](https://open.spotify.com/track/3HNB7P3nnZlGzHKPPXXYix) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Worst Enemy](https://open.spotify.com/album/74zgCRedFSiylNUsxCB14L) | 2:51 | 2022-04-01 | 2022-04-21 |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-07-14 | 2022-07-30 |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-05-22\* | 2021-12-21 |
+| [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2022-09-09 |  |
 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 | 2021-05-29 |  |
 | [You Give Me A Feeling](https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12) | 3:05 | 2021-11-23 |  |
 | [You Know You Like It \- Tchami Remix](https://open.spotify.com/track/0OpcI3rARLsNWgVbPdwHD9) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [We Are Your Friends \(Music From The Original Motion Picture\)](https://open.spotify.com/album/0aMv03wMvTndzvWp8FuS4P) | 5:04 | 2020-05-22\* | 2021-12-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59282,
+  "num_followers": 59317,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGIyNzNiY2ZiNDkyOGI3NTc3MTIwMGI3NWQ4ZWQ4Mjli",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDM4Mzg2NTIzNjQ1NGZhYmE0MTlhY2JmNzM3MGMxZDc4",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/1JtxEMmDhKzA7QRZE1ISNP"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "S\u00e1 Marina",
-      "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
@@ -1475,6 +1459,22 @@
       "duration_ms": 223368,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "S\u00e1 Marina",
+      "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1525,20 +1525,20 @@
       "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
+      "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "O Que Fa\u00e7o \u00c9 Musica",
-        "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
+        "name": "Quem Sabe Isso Quer Dizer Amor",
+        "url": "https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU"
       },
       "artists": [
         {
-          "name": "Jards Macal\u00e9",
-          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
         }
       ],
-      "duration_ms": 304533,
-      "name": "Vapor Barato",
-      "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
+      "duration_ms": 216412,
+      "name": "Quem Sabe Isso Quer Dizer Amor",
+      "url": "https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1557,20 +1557,20 @@
       "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
+      "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Quem Sabe Isso Quer Dizer Amor",
-        "url": "https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU"
+        "name": "O Que Fa\u00e7o \u00c9 Musica",
+        "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
       },
       "artists": [
         {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+          "name": "Jards Macal\u00e9",
+          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
         }
       ],
-      "duration_ms": 216412,
-      "name": "Quem Sabe Isso Quer Dizer Amor",
-      "url": "https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv"
+      "duration_ms": 304533,
+      "name": "Vapor Barato",
+      "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
     },
     {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Quem Sabe Isso Quer Dizer Amor",
+        "url": "https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 167568,
+      "name": "O Sal da Terra",
+      "url": "https://open.spotify.com/track/374SHBJGZL3oaArhIi2GFi"
+    },
+    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Jovem Guarda - O Pulo Do Negro Gato",
@@ -1667,22 +1683,6 @@
       "duration_ms": 251546,
       "name": "Negro Gato",
       "url": "https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "'G\u00eet\u00e2'",
-        "url": "https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U"
-      },
-      "artists": [
-        {
-          "name": "Raul Seixas",
-          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Gita",
-      "url": "https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK"
     }
   ],
   "unique_name": "Pais e Filhos",

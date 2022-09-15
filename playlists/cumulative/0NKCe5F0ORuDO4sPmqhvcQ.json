@@ -1810,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "... Onward",
+        "url": "https://open.spotify.com/album/7DJ0bdtLsehTTj541oS2Pk"
+      },
+      "artists": [
+        {
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169326,
+      "name": "fade",
+      "url": "https://open.spotify.com/track/0Pi7TJXg48pyHaAPP4b1I7"
+    },
+    {
+      "album": {
         "name": "Falcon",
         "url": "https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth"
       },

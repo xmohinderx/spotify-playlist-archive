@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Medy, Baby Gang, Lazza, Vale Pain e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,307 likes - 74 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,352 likes - 74 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

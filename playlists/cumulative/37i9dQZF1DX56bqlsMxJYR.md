@@ -4,7 +4,7 @@
 
 > All of the classic hits from the 50s and 60s.
 
-264 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
+265 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Come Go With Me](https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 2:40 | 2020-12-16 | 2022-07-29 |
 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 | 2022-03-07 |  |
 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 | 2020-12-16 |  |
-| [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 | 2020-12-16 |  |
+| [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 | 2020-12-16 | 2022-09-15 |
 | [Cry](https://open.spotify.com/track/74uuI8nGoIPIydD7oXF0O8) | [Johnnie Ray](https://open.spotify.com/artist/5gIQFnxcN2d1jRFG2TpCT6), [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [Vintage Vocal Jazz / Swing No\. 101 \- EP: Walking And Crying](https://open.spotify.com/album/678y1iMnItQmbkZOLZWaM8) | 2:17 | 2022-03-07 | 2022-04-21 |
 | [Cry Baby](https://open.spotify.com/track/6BiQOxPWVZvum3BZ2Bd4a7) | [Garnet Mimms & The Enchanters](https://open.spotify.com/artist/1ktvF9yU9iWgY0aGlKfTS4) | [The Best Of Barnet Mimms: Cry Baby](https://open.spotify.com/album/0Kj6PjTGFNnh8EsFPPj3cI) | 3:26 | 2022-03-07 | 2022-04-19 |
 | [Crying](https://open.spotify.com/track/2M3OVvigcmanSnRq1sdlVE) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/5GYI3MYDtS3pDZOQ29Unr5) | 2:46 | 2020-12-16 | 2022-06-16 |
@@ -259,6 +259,7 @@
 | [Wooly Bully](https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:20 | 2022-03-07 | 2022-04-21 |
 | [Working in the Coal Mine](https://open.spotify.com/track/5GR1Jj5ahZtoR6WqyM5LP4) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [The New Lee Dorsey](https://open.spotify.com/album/2CQt3vL1SHnqxyZvoPQPUb) | 2:49 | 2022-03-07 | 2022-04-20 |
 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 | 2020-12-16 | 2022-09-03 |
+| [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 | 2022-03-07 |  |
 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 | 2022-03-07 |  |
 | [You Can't Hurry Love](https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Favorites](https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3) | 2:45 | 2020-12-16 | 2022-07-29 |
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2022-03-07 |  |

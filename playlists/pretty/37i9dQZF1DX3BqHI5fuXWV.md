@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,574 likes - 75 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,664 likes - 75 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 25 | [So Near, So Far](https://open.spotify.com/track/0CpyNb2RlzO7345kFiwXzg) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:56 |
 | 26 | [Summer Night](https://open.spotify.com/track/3eN0rzXMRYXmXtBkFOXYdI) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Quiet Nights](https://open.spotify.com/album/37sPrSzrALZYsuH8i6zX1M) | 6:01 |
 | 27 | [Water Babies](https://open.spotify.com/track/6XC0a2dZUjDLGJhG1AilVT) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Water Babies](https://open.spotify.com/album/20kXtVP3GMVWmnbttQGRPB) | 5:06 |
-| 28 | [The Man With the Horn](https://open.spotify.com/track/47ULAV7jxxH7xf4qFrIe11) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Man With The Horn](https://open.spotify.com/album/1fRSDRiFk922cV3bgFCdtz) | 6:32 |
+| 28 | [The Man With the Horn \(2022 Remaster\)](https://open.spotify.com/track/47ULAV7jxxH7xf4qFrIe11) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Man With The Horn \(2022 Remaster\)](https://open.spotify.com/album/1fRSDRiFk922cV3bgFCdtz) | 6:32 |
 | 29 | [Madness](https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 7:31 |
 | 30 | [Sivad \- Live at the Cellar Door, Washington, DC \- December 1970](https://open.spotify.com/track/17pDYuwdakHhG64f3CJSHX) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Live \- Evil](https://open.spotify.com/album/4eK5DQxLCshZCUk6D5a8Q1) | 15:13 |
-| 31 | [Star People](https://open.spotify.com/track/2IdNLuyCj6lDUA80VrFMaO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Star People](https://open.spotify.com/album/2j4kRyY7kLm9NuciAHyzg5) | 18:46 |
+| 31 | [Star People \(2022 Remaster\)](https://open.spotify.com/track/2IdNLuyCj6lDUA80VrFMaO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Star People \(2022 Remaster\)](https://open.spotify.com/album/2j4kRyY7kLm9NuciAHyzg5) | 18:42 |
 | 32 | [Tutu](https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Tutu](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7) | 5:16 |
 | 33 | [Amandla](https://open.spotify.com/track/2Ovs392mQ8DrOdYfgCLXI6) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Amandla](https://open.spotify.com/album/0fabOosWong8kopy57JitO) | 5:21 |
-| 34 | [Human Nature](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
+| 34 | [Human Nature \(2022 Remaster\)](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
 | 35 | [Kelo](https://open.spotify.com/track/2aYz8YsMwlTJ468YufM8yA) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Profile](https://open.spotify.com/album/29fodpqtlnqDlZHlnmrbB9) | 3:18 |
 | 36 | [Joshua](https://open.spotify.com/track/3M398IT8mJzKWUGOmO16GG) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps: The Complete Columbia Recordings Of Miles Davis 1963\-1964](https://open.spotify.com/album/1cURRxhG6jxK2mIcPzlNEs) | 5:24 |
 | 37 | [My Old Flame](https://open.spotify.com/track/3qyYE0MZUhzwCeOJBXXJfA) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Platinum Collection](https://open.spotify.com/album/2mwqZ9EDDJB7iYxBrAVotJ) | 3:17 |

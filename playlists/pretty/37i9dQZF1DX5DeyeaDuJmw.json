@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 111938,
+  "num_followers": 112185,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGQyOTg1MDcyMWFmMWYzZWExMzA5OWRlNTM1ZTY2M2Y4",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGRjMTNkMDgyMmZlZGUwYzM4NjkxZjhlODhmMDU2OTE5",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "En El Jacuzzi",
-        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "En El Jacuzzi",
-      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 192000,
       "name": "Hip\u00f3crita",
       "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "En El Jacuzzi",
+        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "En El Jacuzzi",
+      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Pantano",
-        "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Pantano",
-      "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Trakat\u00e1",
         "url": "https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 178064,
       "name": "Trakat\u00e1",
       "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Pantano",
+        "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Pantano",
+      "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
-      },
-      "artists": [
-        {
-          "name": "Pusho",
-          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 224267,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Sola & Vac\u00eda",
         "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 182675,
       "name": "Sola & Vac\u00eda",
       "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
+      },
+      "artists": [
+        {
+          "name": "Pusho",
+          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 224267,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Tussi Code Mari",
+        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Crismj",
+          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
+        }
+      ],
+      "duration_ms": 172390,
+      "name": "Tussi Code Mari",
+      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Ganas de Ti",
         "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 173226,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Tussi Code Mari",
-        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Crismj",
-          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
-        }
-      ],
-      "duration_ms": 172390,
-      "name": "Tussi Code Mari",
-      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1719,30 +1719,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Maripilili",
-        "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
-      },
-      "artists": [
-        {
-          "name": "Bayron Fire",
-          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
-        },
-        {
-          "name": "Betoven",
-          "url": "https://open.spotify.com/artist/3cvPEXfyczjHNpK65vu7pM"
-        },
-        {
-          "name": "Hebreo",
-          "url": "https://open.spotify.com/artist/3AHbiOgxmUv4eB0XMm5KIc"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Maripilili",
-      "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
       },
@@ -1763,6 +1739,30 @@
       "duration_ms": 205500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Maripilili",
+        "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Betoven",
+          "url": "https://open.spotify.com/artist/3cvPEXfyczjHNpK65vu7pM"
+        },
+        {
+          "name": "Hebreo",
+          "url": "https://open.spotify.com/artist/3AHbiOgxmUv4eB0XMm5KIc"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Maripilili",
+      "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "PERREAMOS?",
+        "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        }
+      ],
+      "duration_ms": 184535,
+      "name": "XULITA (feat. Kaydy Cain)",
+      "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -1975,26 +1995,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "PERREAMOS?",
-        "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        }
-      ],
-      "duration_ms": 184535,
-      "name": "XULITA (feat. Kaydy Cain)",
-      "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "VIDRIOS NEGROS",
         "url": "https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC"
       },
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Antonio",
-        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Antonio",
-      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Billetes Azules (with J Balvin)",
         "url": "https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp"
       },
@@ -2055,22 +2039,34 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Cerrando Cap\u00edtulo",
-        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
+        "name": "Antonio",
+        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
       },
       "artists": [
         {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
         }
       ],
-      "duration_ms": 172054,
-      "name": "Coraz\u00f3n Ego\u00edsta",
-      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
+      "duration_ms": 158181,
+      "name": "Antonio",
+      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Un AK",
+        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 168309,
+      "name": "Un AK",
+      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2095,26 +2091,6 @@
       "duration_ms": 202746,
       "name": "Baby Drip",
       "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Deseos",
-        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 203070,
-      "name": "Deseos",
-      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2151,30 +2127,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Always Dream",
-        "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
+        "name": "Cerrando Cap\u00edtulo",
+        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
       },
       "artists": [
         {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         },
         {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
         }
       ],
-      "duration_ms": 216840,
-      "name": "P\u00e1rtela",
-      "url": "https://open.spotify.com/track/1ouF8myNo6048c4WSVJAzL"
+      "duration_ms": 172054,
+      "name": "Coraz\u00f3n Ego\u00edsta",
+      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2195,6 +2163,26 @@
       "duration_ms": 182400,
       "name": "GOTIKA",
       "url": "https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Deseos",
+        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 203070,
+      "name": "Deseos",
+      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
     }
   ],
   "unique_name": "Rimas y Perreo",

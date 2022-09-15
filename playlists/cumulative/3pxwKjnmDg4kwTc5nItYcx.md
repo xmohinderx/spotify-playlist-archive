@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-618 songs - 1 day 9 hr 20 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+619 songs - 1 day 9 hr 24 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Eternal Flame](https://open.spotify.com/track/2BJmGtlUq5abmG0i64xSzD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Eternal Flame](https://open.spotify.com/album/1GGbxiDMS1IfClccAeXm9W) | 2:35 | 2019-12-16 | 2020-05-19 |
 | [Eulogy for the Living](https://open.spotify.com/track/2vpHQ1P7huPZvQvL9HyGHv) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Divine Intervention](https://open.spotify.com/album/78DTvdE1hoKG6Dm7qA7sFS) | 3:33 | 2021-10-02 |  |
 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 | 2022-07-28 |  |
+| [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [EVERGREEN](https://open.spotify.com/track/7B3jGR7VnzEW9Z8av4Hsuk) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [EVERGREEN](https://open.spotify.com/album/1KF7MFZGSKagaCWXtMzFmA) | 2:47 | 2019-11-22 | 2020-05-19 |
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-25 | 2021-05-12 |
 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 | 2022-03-06 |  |

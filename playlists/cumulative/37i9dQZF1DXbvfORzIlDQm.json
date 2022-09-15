@@ -991,7 +991,7 @@
     {
       "album": {
         "name": "You & I",
-        "url": "https://open.spotify.com/album/40lgy95tfZX8pXHOsQdQkZ"
+        "url": "https://open.spotify.com/album/7uSbBFPjRdHap3xlxiroxS"
       },
       "artists": [
         {
@@ -1002,6 +1002,24 @@
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 159440,
+      "name": "To the River",
+      "url": "https://open.spotify.com/track/6RObl56H8PxTiLAn16VCdK"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/40lgy95tfZX8pXHOsQdQkZ"
+      },
+      "artists": [
+        {
+          "name": "ALA.NI",
+          "url": "https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
       "duration_ms": 160440,
       "name": "To the River",
       "url": "https://open.spotify.com/track/3ughINQrsoRqW1V7VSfF3p"

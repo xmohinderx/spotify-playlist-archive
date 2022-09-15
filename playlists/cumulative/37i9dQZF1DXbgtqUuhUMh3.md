@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Noel Kharman
 
-299 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+300 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Afa](https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Afa](https://open.spotify.com/album/01QAkV39wYAMuyj0qdBBC5) | 2:36 | 2022-09-08 |  |
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
 | [Ahlami](https://open.spotify.com/track/0lhh2VQofi8UCkXB9mPpsq) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [AHLAMI](https://open.spotify.com/album/06U0lUuJCrHrgfs1v6bLAW) | 2:55 | 2022-03-01 | 2022-07-29 |
+| [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 |  |
 | [Al Habu Al Saeb](https://open.spotify.com/track/7gr1W9mfJsE3ofCEXZZ4fP) | [Hasna](https://open.spotify.com/artist/0L58uikPHKLuqGPPo2EPWW) | [Al Habu Al Saeb](https://open.spotify.com/album/11ZGk1imwTcJ7bIafieEKH) | 3:31 | 2021-12-23 | 2022-03-02 |
 | [AL Haneen](https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [AL Haneen](https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2) | 3:20 | 2022-03-01 | 2022-07-29 |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-03-03 |  |
@@ -58,7 +59,7 @@
 | [Beast](https://open.spotify.com/track/4INdqXD8eGGHUfgQuFchSs) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Beast](https://open.spotify.com/album/5K830E45fZvNPhCKbFZQJl) | 3:46 | 2021-12-23 | 2022-03-02 |
 | [Bel Mukhtsar](https://open.spotify.com/track/5UDj8FpgnvAAgFEYhrFU9a) | [Sanaa Al Alami](https://open.spotify.com/artist/7o5hnekeakdew02SBU4w5D) | [Bel Mukhtsar](https://open.spotify.com/album/6Vp4pfEkr3ck0ecLyfomvg) | 2:27 | 2021-12-23 | 2022-02-26 |
 | [Betateb Khialak](https://open.spotify.com/track/0YiPfcpDYfPfQ3mTgATAtj) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Betateb Khialak](https://open.spotify.com/album/1ErPBre7sIpdaVPLJgpuUq) | 4:51 | 2022-03-08 | 2022-07-23 |
-| [Bizarre](https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Bizarre](https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n) | 2:40 | 2022-03-03 |  |
+| [Bizarre](https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Bizarre](https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n) | 2:40 | 2022-03-03 | 2022-09-15 |
 | [Bkafi Lahali](https://open.spotify.com/track/1mTZFc6RPX6GRVFLiD4dkk) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Bkafi Lahali](https://open.spotify.com/album/5rXJPbARiCPl0OBpptSv64) | 3:44 | 2021-12-23 | 2022-02-28 |
 | [Bklleshy W Clashy](https://open.spotify.com/track/2kET259hGJdOqIzCYBefPM) | [Azhar Al3asali](https://open.spotify.com/artist/7J6S9ZLG7jSrKpN12yztVI) | [Bklleshy W Clashy](https://open.spotify.com/album/4JyJ3taLjeqDArFyp50MSe) | 3:29 | 2021-12-23 | 2022-03-02 |
 | [Bleil 3eonak](https://open.spotify.com/track/3isvdEPSWHT0qBVjm6KVcu) | [Rahaf Guitara](https://open.spotify.com/artist/3rW9BObnEUJbADBj8oFF4N) | [Bleil 3eonak](https://open.spotify.com/album/5a6aRVjnXVSSH1K1DHDF3c) | 3:16 | 2021-12-23 | 2022-03-02 |

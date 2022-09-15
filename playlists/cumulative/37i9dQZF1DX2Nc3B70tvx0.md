@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: The National & Bon Iver
 
-1,223 songs - 3 day 1 hr 0 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,224 songs - 3 day 1 hr 3 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-09-23 | 2022-04-08 |
 | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/track/78QxYtMmjRePQ4KAe0cZFa) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/album/4d7ABluAS1Igg6bVwXe1cq) | 4:10 | 2019-10-04 | 2020-02-14 |
 | [Evergreen](https://open.spotify.com/track/2dHT2samnOh9mGhCBlicpf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Evergreen](https://open.spotify.com/album/5eHNalmognU8bbYYMhgXRL) | 2:51 | 2022-05-13 | 2022-07-29 |
+| [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [Every Time Around](https://open.spotify.com/track/22iZ9lazlmjPO9sp0uzUex) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [After Fillmore County](https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp) | 3:36 | 2020-10-29 | 2021-05-21 |
 | [Everyone Hides](https://open.spotify.com/track/2dZ0PelHrnlIEGJ6nwpcW1) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Everyone Hides](https://open.spotify.com/album/0kkc5CptgKQFIil9DaGiu8) | 2:59 | 2019-10-04 | 2020-04-03 |
 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 | 2022-03-24 | 2022-07-01 |
@@ -499,7 +500,7 @@
 | [I Know The End](https://open.spotify.com/track/3cr3oAP4bQFNjZBV7ElKaB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 5:44 | 2020-07-03 | 2021-10-13 |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 | 2021-05-11 | 2022-03-11 |
 | [I Love You](https://open.spotify.com/track/2rDaHAwvDFpSR6hta7re5l) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/1ysn1KuQSSRBK96J17wGyD) | 5:05 | 2022-02-25 | 2022-04-09 |
-| [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-12 |  |
+| [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-12 | 2022-09-15 |
 | [I Love You So \- King Henry Remix](https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [I Love You So \(King Henry Remix\)](https://open.spotify.com/album/7mGp8czi0fTiBsg7xq6wMD) | 3:13 | 2022-01-14 | 2022-04-06 |
 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-06-30 | 2022-08-12 |
 | [I Need Nothing From You](https://open.spotify.com/track/2iqn4H1SVAfsVNKeQYz4V2) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [I Need Nothing From You](https://open.spotify.com/album/1uGTPzOxYMjAnq3vy3OBxv) | 3:38 | 2021-11-10 | 2022-03-28 |

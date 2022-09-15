@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-537 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+538 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlorat mot världen](https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:06 | 2021-12-16 | 2022-03-02 |
 | [Försent för mig](https://open.spotify.com/track/6dX26pB0ZQGZHN0NkWhTMF) | [Leo Berg](https://open.spotify.com/artist/5FUB3v35PcriAp7DWHfQVK) | [Försent för mig](https://open.spotify.com/album/7rXTdoTOtJIXdI6je3y8vp) | 3:08 | 2022-04-28 | 2022-07-14 |
-| [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 |  |
+| [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 | 2022-09-15 |
 | [Ge mig ett tecken](https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ge mig ett tecken](https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza) | 2:54 | 2022-03-10 | 2022-07-29 |
 | [Gemini](https://open.spotify.com/track/12cm3pn2krN7RgN0pLlwtY) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [Gemini](https://open.spotify.com/album/7GD6EPBfQtoZddrwvQTkmL) | 3:12 | 2022-04-01 | 2022-07-28 |
 | [Ghost Killer](https://open.spotify.com/track/04l6PAC8SUtEPTY3IdRuT7) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [VIRGO](https://open.spotify.com/album/1u0nScxOJfm43X7wN2wOW0) | 3:17 | 2021-12-16 | 2022-03-06 |
@@ -416,6 +416,7 @@
 | [Släpp mig](https://open.spotify.com/track/2EZmE6pdwIhsOEJKS3nUFI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Släpp mig](https://open.spotify.com/album/74bF6o1WKlI2ZkWwOCY7Gx) | 2:36 | 2022-03-10 | 2022-05-12 |
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Smile for You](https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo) | [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Smile For You](https://open.spotify.com/album/0JVEngez3de3wsfiUdLNvk) | 2:51 | 2022-03-10 | 2022-04-01 |
+| [Smärtsamma minnen](https://open.spotify.com/track/5aN4JPW9GD5TNjKnGjB09w) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Smärtsamma minnen](https://open.spotify.com/album/0YlLdI5yimLSxC4s0437hx) | 3:24 | 2022-09-08 |  |
 | [Snooze](https://open.spotify.com/track/3WYeza72Tw4pyEZ6T1jEwC) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Snooze](https://open.spotify.com/album/1MwYzLeYyefz3708ObaTnD) | 3:18 | 2021-12-16 | 2022-03-01 |
 | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |

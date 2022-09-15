@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-234 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+235 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Twinkle Twinkle](https://open.spotify.com/track/4txC9c27Rw0GNtZzDKn1wW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:31 | 2022-07-22 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6290tINYizQ2bc3QF6p8gA) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Twinkle Twinkle](https://open.spotify.com/album/4PqwdolF10E6xogoo5OeKT) | 3:31 | 2021-12-17 | 2022-07-29 |
 | [Twisted Ambition](https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Twisted Ambition](https://open.spotify.com/album/3PiBghHOpoFuvDw0w61QlI) | 3:14 | 2021-12-17 | 2022-06-18 |
-| [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:22 | 2022-07-22 |  |
+| [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:22 | 2022-07-22 | 2022-09-15 |
+| [Uh Huh](https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:22 | 2022-07-22 |  |
 | [Uh Huh](https://open.spotify.com/track/6UQkKezR70jMXymMJgRcOz) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Uh Huh](https://open.spotify.com/album/4TPh9MRbmnPMv0KXYypM5D) | 2:22 | 2021-12-17 | 2022-07-29 |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 |  |
 | [Under the Sun](https://open.spotify.com/track/1GQ7M3b1B4Dt9lMjoBOGcl) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:52 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 75401,
+  "num_followers": 75475,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDRkYjg4ODI1MDQ1ZTJjN2NlMjUzYzNjZDdlYTY5MDM2",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDhiOWRjZDBmNjQ5Yzc4NmJlNDNiNjdhOTVlOWVkNDQ4",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Kalawa Jazmee Classics: Bongo Maffin",
-        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Thathi Sgubu",
-      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Juju Music",
@@ -571,6 +555,22 @@
       "duration_ms": 307866,
       "name": "Ma Jaiye Oni",
       "url": "https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Kalawa Jazmee Classics: Bongo Maffin",
+        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
     },
     {
       "added_at": "2019-06-28 16:54:51",

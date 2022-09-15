@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,462 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,532 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sega Call](https://open.spotify.com/track/3Wd204vyqSrBlALogNuZwU) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [セガ・サウンド・セレクション 2](https://open.spotify.com/album/0wVKzzrmdUKlAMcs0P8Y5c) | 0:03 |
 | 2 | [I’m Here \- Short Edit](https://open.spotify.com/track/51lYJg0Nhzrmxfb9tHJGCO) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Merry Kirk\-Holmes](https://open.spotify.com/artist/2WtceEj0QjyIzsZp3Gp2wu) | [Sonic Frontiers \- Main Theme EP](https://open.spotify.com/album/1WSi6S8pmbIgbJczmJ7fW1) | 1:42 |
-| 3 | [Theme of Starfall Islands](https://open.spotify.com/track/2yNPCQNb8V1Iy3H7TrKJal) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Sonic Frontiers \- Main Theme EP](https://open.spotify.com/album/1WSi6S8pmbIgbJczmJ7fW1) | 5:58 |
+| 3 | [Theme of Starfall Islands](https://open.spotify.com/track/2yNPCQNb8V1Iy3H7TrKJal) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3) | [Sonic Frontiers \- Main Theme EP](https://open.spotify.com/album/1WSi6S8pmbIgbJczmJ7fW1) | 5:58 |
 | 4 | [hipstar](https://open.spotify.com/track/3Sze5mL4WE464ChCxZubpc) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [クラッキンDJ コンプリートアルバム \(Vol\. 1\)](https://open.spotify.com/album/21Pi9C3oQXPJYRKQPdI7zC) | 1:35 |
 | 5 | [STH1 Green Hill Zone 〜 Mega Drive version 〜](https://open.spotify.com/track/2ZbJuTlSK9TYokeza42cmR) | [Masato Nakamura](https://open.spotify.com/artist/1dMS02fPNC7ace36g64qPm) | [ソニック・ザ・ヘッジホッグ1&2 サウンドトラック](https://open.spotify.com/album/1jUGmnsp1VAmqeYWgpHtK1) | 2:36 |
 | 6 | [Phantasy Star Online OPENING THEME \~The whole new world\~ \- Lyric Version](https://open.spotify.com/track/2WnlcffBs9iKTWwG7kVztj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Phantasy Star Online Original Soundtrack](https://open.spotify.com/album/2rKA68eLinqdmduWEyExHt) | 2:29 |

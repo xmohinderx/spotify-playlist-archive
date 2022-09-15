@@ -2,9 +2,9 @@
 
 ### [Feel Good Piano](https://open.spotify.com/playlist/37i9dQZF1DXcEKFjZJYZcc)
 
-> Positive piano music.
+> Happy vibes for an upbeat morning.
 
-157 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
+163 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2021-12-14 |  |
 | [Abbotsbury](https://open.spotify.com/track/3pagZPFqFtaunRgnimseRR) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Abbotsbury](https://open.spotify.com/album/6xI5KVTGlWKNyeg2BCkx4e) | 2:04 | 2021-12-14 |  |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-14 |  |
+| [Allegrini](https://open.spotify.com/track/7GYHZi5vPB3ihAInagsKu2) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegrini](https://open.spotify.com/album/0AV7kYSGd7yiNupGpSZ8UF) | 1:58 | 2022-09-13 |  |
 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-12-14 |  |
 | [Ambro](https://open.spotify.com/track/5kU2kYLFu3uNDBlmjvvNxg) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ambro](https://open.spotify.com/album/3B6FfU08qymnkrY7paVtUX) | 2:45 | 2021-12-14 | 2022-04-29 |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-14 |  |
@@ -57,11 +58,13 @@
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2021-12-14 | 2022-07-21 |
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-14 |  |
 | [Green Meadow](https://open.spotify.com/track/3utSs25tLqIPeLegK7MRiT) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Green Meadow](https://open.spotify.com/album/77BGGPqjJJEI6g9wF8gy0o) | 2:51 | 2021-12-14 |  |
+| [Hand Woven Clouds](https://open.spotify.com/track/0sGGKnrBxiogubR7KDrxpC) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Hand Woven Clouds](https://open.spotify.com/album/3391Xd2lX5OKi5V2kCITvY) | 2:36 | 2022-09-13 |  |
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-03-17 |  |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-03 |  |
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2021-12-14 |  |
 | [If It Snows](https://open.spotify.com/track/5uaOLZ0lOsNgVGSlfgj8U7) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [If It Snows](https://open.spotify.com/album/1YwmuYcOKl6lOBeQ5b4T9y) | 4:11 | 2022-04-28 | 2022-07-21 |
 | [In Good And Bad Times](https://open.spotify.com/track/4li3ITSBXpSovNGyNEBDeM) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [In Good And Bad Times](https://open.spotify.com/album/69lQz90VYRXxVElJDtgAEv) | 2:59 | 2021-12-14 |  |
+| [in the rain](https://open.spotify.com/track/74H039CiAcy8fahVUYOETr) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [in the rain](https://open.spotify.com/album/4yZ1MJawVr3p6sGxU5enCP) | 2:14 | 2022-09-13 |  |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-12-14 |  |
 | [Inner Peace](https://open.spotify.com/track/4145JIRFoYOykXXnVQpz3F) | [Lianne Steeman](https://open.spotify.com/artist/3U7x7KLCqxl4vE0QC3oQl2) | [Inner Peace](https://open.spotify.com/album/3VwdiiuImq5VJ6mMhlUWBg) | 2:36 | 2022-07-20 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-14 |  |
@@ -69,6 +72,7 @@
 | [Jeunesse du printemps](https://open.spotify.com/track/7aHWyb1G3SiRMXCMPkPo26) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [Jeunesse du printemps](https://open.spotify.com/album/2NWDEBEAK8JnESZDfykIy7) | 2:24 | 2022-08-30 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2021-12-14 |  |
 | [Kleiner Schmetterling](https://open.spotify.com/track/7v4XLVSgxRCj8yorbZ2INL) | [David Fenger](https://open.spotify.com/artist/5m6XLwqI3BUA5zkFsxdKrS) | [Kleiner Schmetterling](https://open.spotify.com/album/4ROfZp4Tk7ygTIcixATZ95) | 3:35 | 2022-04-04 |  |
+| [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2022-09-13 |  |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2021-12-14 |  |
 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 | 2021-12-14 |  |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-14 |  |
@@ -90,6 +94,7 @@
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-14 |  |
 | [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-03 |  |
 | [Ocean](https://open.spotify.com/track/6EP77Zog3nQuQaOHEpE9cR) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Ocean](https://open.spotify.com/album/6YPiF7Xt7QHDS610MMgyoH) | 1:46 | 2021-12-14 | 2022-01-20 |
+| [On My Way Home](https://open.spotify.com/track/4iuGVtUXm2RfdyaGofN5MC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [On My Way Home](https://open.spotify.com/album/0xjLWXYwiERfTpIeBxSPam) | 2:31 | 2022-09-13 |  |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-14 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-14 |  |
 | [Op Reis \(Traveling\)](https://open.spotify.com/track/7s90rbo8Hwm92XghvPxU3e) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Op Reis \(Traveling\)](https://open.spotify.com/album/5x1nANAZwlk8mtOLO8IDXm) | 3:39 | 2022-05-20 |  |
@@ -160,6 +165,7 @@
 | [Valse](https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK) | [Egor Grushin](https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK) | [Valse](https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw) | 2:08 | 2022-04-04 |  |
 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 | 2021-12-14 | 2022-04-29 |
 | [Vejez](https://open.spotify.com/track/7JqiCSsdTJ8pbELhBGcTi8) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/6z16FGd8h6MyiYSJrUhu3l) | 2:18 | 2022-04-28 |  |
+| [Vivendi](https://open.spotify.com/track/6QvGC8d8dZLjYRYXlyTZ4l) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Vivendi](https://open.spotify.com/album/2JC2acFqCcCcPoeqLjioKK) | 2:13 | 2022-09-13 |  |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2021-12-14 |  |
 | [Waltz No\. 1, Collapse](https://open.spotify.com/track/0J2lmSTQQWhTiglHDbhLWm) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Op\. 1: Multiverse](https://open.spotify.com/album/7unO1Rhkr8bhZaE3y0QRU3) | 2:36 | 2022-07-20 |  |
 | [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2021-12-14 | 2022-04-29 |

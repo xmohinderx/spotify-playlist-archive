@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-364 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+365 songs - 21 hr 44 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [La Cuesta del Sol](https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Cuesta del Sol](https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij) | 4:05 | 2022-06-03 |  |
 | [La Despedida](https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi) | [Temporada de Tormentas](https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4) | [La Primera Exploracion](https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU) | 5:37 | 2022-06-03 | 2022-07-20 |
 | [La Esperanza](https://open.spotify.com/track/4NoFt9xrUy40IKu7jQDgp5) | [Bidet](https://open.spotify.com/artist/0AV5dOjIt2LbYakxnmvyfX) | [La Edad](https://open.spotify.com/album/1CMgusAgFgWTbd1RAuzk3t) | 4:12 | 2022-07-01 | 2022-07-15 |
-| [La Espesura](https://open.spotify.com/track/2XGSDaK7QO6R4qCUgYfGNq) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:26 | 2022-07-01 |  |
+| [La Espesura](https://open.spotify.com/track/2XGSDaK7QO6R4qCUgYfGNq) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:26 | 2022-07-01 | 2022-09-15 |
 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 | 2022-06-03 |  |
 | [La Habitación II](https://open.spotify.com/track/15fLGGV39q6EX9FgtSW7UA) | [Las Armas Bs\. As.](https://open.spotify.com/artist/6DW99ulUSSJHyUzdNJuimJ) | [La Habitación II](https://open.spotify.com/album/73epKHQzLXZPfDClYxvAMJ) | 3:59 | 2022-07-01 | 2022-07-28 |
 | [La Luna](https://open.spotify.com/track/6b2XIKwoVZhFEKgTkOJ5Ro) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 3:43 | 2022-06-03 | 2022-07-29 |
@@ -286,6 +286,7 @@
 | [Promotora](https://open.spotify.com/track/6aaljMIyDKTMjWoaSwOUSP) | [Tus Amigos Nuevos](https://open.spotify.com/artist/4dqL8obu05HTocAZNPJvfc) | [Persisten](https://open.spotify.com/album/2ZEDMESL0Nieza6iWHb4xY) | 3:56 | 2022-06-03 | 2022-07-28 |
 | [Puedo](https://open.spotify.com/track/2LXpeBAJRi6uXPnqks3Eps) | [Platónicos](https://open.spotify.com/artist/34p7ODrlQfGS5QgDqgmeqY) | [Puedo](https://open.spotify.com/album/50QJTw1EqEwLCaKRVvJeuc) | 2:51 | 2022-06-03 | 2022-07-17 |
 | [Puedo Con Esto \- Fuera de Foco](https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Puedo Con Esto \(Fuera de Foco\)](https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id) | 3:54 | 2022-06-03 |  |
+| [Puñal](https://open.spotify.com/track/2Qk4jBRm07hWUp2F0oF5N1) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Rampaluz](https://open.spotify.com/album/7y4wPtBbZlQfvAxsGfXwhH) | 2:48 | 2022-09-09 |  |
 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 | 2022-06-03 |  |
 | [Que Todo Ocurra](https://open.spotify.com/track/0d5gK1GjaBD9OIzX6nGiAX) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7) | [Sistema](https://open.spotify.com/album/56td7MvmbqeaXN3LXmtxhi) | 3:35 | 2022-07-15 | 2022-07-26 |
 | [Qué Decir?](https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h) | [L E O](https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2) | [Soy un Extraño](https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi) | 2:34 | 2022-07-01 |  |

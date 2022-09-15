@@ -4,12 +4,13 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: Chimbala
 
-84 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
+85 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#16 \- La Ciencia](https://open.spotify.com/track/23DXsTihEPIlhPDZrJXx0J) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [\#16 \(La Ciencia\)](https://open.spotify.com/album/1kAdv3ZRphj9G6r76o5oQC) | 2:52 | 2022-04-14 | 2022-05-20 |
-| [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 | 2022-03-15 |  |
+| [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 | 2022-03-15 | 2022-09-15 |
+| [3730](https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP) | 2:17 | 2022-06-03 |  |
 | [Acuetate](https://open.spotify.com/track/028MkfDdEe6uyIkuJVj0cb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Capitan Aloo](https://open.spotify.com/artist/6wR3Uihi08MTiX5QGK5d7k), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Acuetate](https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426) | 4:08 | 2022-03-15 |  |
 | [Aficia De Un Chuky \- Remix](https://open.spotify.com/track/7fUzV7e8DEZWlNGmT4NJi4) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Aficia De Un Chuky \(Remix\)](https://open.spotify.com/album/3afNE3WcVomDQgPnDPc82R) | 4:29 | 2022-03-15 | 2022-04-15 |
 | [Alta Gama](https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Alta Gama](https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14) | 2:42 | 2022-03-15 |  |

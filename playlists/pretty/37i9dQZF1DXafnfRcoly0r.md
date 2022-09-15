@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 73 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 73 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 20 | [Dog Song](https://open.spotify.com/track/2KfOb48mPByQ64NbHkvtNy) | [Hullabaloo](https://open.spotify.com/artist/4ruDLmgWVqEhEP8WWZyOXr) | [Best of Hullabaloo, Vol\. 2](https://open.spotify.com/album/6ApJasfGCF0wfY7Ka6fHnu) | 3:15 |
 | 21 | [Dog Pound](https://open.spotify.com/track/1eNDDTXuR91r9niUu395QB) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Critters](https://open.spotify.com/album/4FCvj0mX0Uh2TcJ5wzSdwN) | 1:00 |
 | 22 | [Pet](https://open.spotify.com/track/118hbAhvMQigZB9tBLcyFm) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [Play Music](https://open.spotify.com/album/29CsPLDKBk60dQifzVyB7a) | 1:28 |
-| 23 | [Class Pet Song](https://open.spotify.com/track/7xrMbzfCoQzCXikKFmNLpz) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 9](https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5) | 2:29 |
+| 23 | [Class Pet Song](https://open.spotify.com/track/7xrMbzfCoQzCXikKFmNLpz) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 9](https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5) | 2:29 |
 | 24 | [Dogs](https://open.spotify.com/track/6MxzqBSiePAF9DWcF5dYxh) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Dogs](https://open.spotify.com/album/4un43TkxRwU5kxCoe5o13t) | 1:32 |
 | 25 | [The Puppy Song](https://open.spotify.com/track/6JNY5Tdli77X4vuCE4ixFz) | [Bark Bryan](https://open.spotify.com/artist/0We6ZLwDgnyOSQS8OaTsHw) | [The Puppy Song](https://open.spotify.com/album/43pPNVp9K2KMFmMNVDmYa9) | 2:12 |
 | 26 | [My Pet is my Very Best Friend](https://open.spotify.com/track/1MiUuHlhjAZfVBI8niIsB7) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:02 |

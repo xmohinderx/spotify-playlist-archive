@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,186 likes - 102 songs - 9 hr 24 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,217 likes - 102 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 35 | [Lord Of The Harvest \- Live](https://open.spotify.com/track/7C9T43q7KGEYWkkQ2jFEcE) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Lord Of The Harvest \(Live\)](https://open.spotify.com/album/2MPWAjBXD0w7N8CCJ6OTBe) | 9:54 |
 | 36 | [Rise And Shine \- Live](https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Rise And Shine \(Live\)](https://open.spotify.com/album/2TsFi72UiFcwYAWuDx88Jb) | 9:21 |
 | 37 | [Simple Kingdom \(with Cody Carnes\) \- Live](https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Simple Kingdom \(with Cody Carnes\) \[Live\]](https://open.spotify.com/album/6cdFeMCCrgo9eU2jqLOvJk) | 6:24 |
-| 38 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 |
+| 38 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 |
 | 39 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
 | 40 | [Way Maker \- Live From Passion 2020](https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 6:52 |
 | 41 | [Surrender](https://open.spotify.com/track/4CDA2cAPCUI1TYNTDgsXkH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Surrender](https://open.spotify.com/album/5fSZMYUOCFOBKvBmO27uJs) | 5:40 |

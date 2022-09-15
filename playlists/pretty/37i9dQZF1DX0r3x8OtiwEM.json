@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 763811,
+  "num_followers": 764455,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjE4NiwwMDAwMDAwMGJhZWYwNDdkYTczZGViYzdjOTNiMDE3ZDZkYjA0NDkw",
+  "snapshot_id": "MTY2MjE0MjE4NiwwMDAwMDAwMDZhZmU0ZjE0OTQ5ZTgxZDU5MWYzMjdkZmQ2NjgwNGJm",
   "tracks": [
     {
       "added_at": "2022-09-02 18:09:46",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 221090,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 221090,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
         "name": "Pulsing",
         "url": "https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E"
       },
@@ -807,30 +823,6 @@
       "duration_ms": 237600,
       "name": "Pulsing",
       "url": "https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
-        "name": "Don't Give Up (Radio Edit)",
-        "url": "https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN"
-      },
-      "artists": [
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Talal",
-          "url": "https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz"
-        },
-        {
-          "name": "Amy Wawn",
-          "url": "https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf"
-        }
-      ],
-      "duration_ms": 208977,
-      "name": "Don't Give Up - Radio Edit",
-      "url": "https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -855,18 +847,26 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+        "name": "Don't Give Up (Radio Edit)",
+        "url": "https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN"
       },
       "artists": [
         {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Talal",
+          "url": "https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz"
+        },
+        {
+          "name": "Amy Wawn",
+          "url": "https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf"
         }
       ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+      "duration_ms": 208977,
+      "name": "Don't Give Up - Radio Edit",
+      "url": "https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
         "name": "Bring You Back",
         "url": "https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
         "name": "Tarcu",
         "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
         "name": "FAST LAND",
         "url": "https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 219014,
       "name": "FAST LAND",
       "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        }
-      ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
     },
     {
       "added_at": "2022-09-02 18:09:46",

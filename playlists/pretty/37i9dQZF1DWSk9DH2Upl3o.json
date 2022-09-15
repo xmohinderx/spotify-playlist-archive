@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 6261,
+  "num_followers": 6357,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGQyNGYyMmQ5ZTgxYmFkNzg1YzlmNjdkZTgwMzU3NjIy",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGIwYWU2ZTI3MTZmNzlkZTlkMjNiYWVjNDQwYTRjZjI5",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "The Arcade",
-        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
+        "name": "Joyfell",
+        "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
       },
       "artists": [
         {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+          "name": "Underground Springhouse",
+          "url": "https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt"
         }
       ],
-      "duration_ms": 193101,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
+      "duration_ms": 308798,
+      "name": "Joyfell",
+      "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Joyfell",
-        "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
+        "name": "The Arcade",
+        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
       },
       "artists": [
         {
-          "name": "Underground Springhouse",
-          "url": "https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt"
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
         }
       ],
-      "duration_ms": 308798,
-      "name": "Joyfell",
-      "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
+      "duration_ms": 193101,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Circles Around the Sun",
+        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        }
+      ],
+      "duration_ms": 357053,
+      "name": "Babyman",
+      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Phone.Keys.Wallet",
         "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 342111,
       "name": "River Drift",
       "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Circles Around the Sun",
-        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
-      },
-      "artists": [
-        {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        }
-      ],
-      "duration_ms": 357053,
-      "name": "Babyman",
-      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 379640,
-      "name": "Ghost In The Machine",
-      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Spafford",
@@ -543,6 +527,22 @@
       "duration_ms": 263198,
       "name": "Electric Taco Stand",
       "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 379640,
+      "name": "Ghost In The Machine",
+      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Great Blue",
-        "url": "https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6"
-      },
-      "artists": [
-        {
-          "name": "Great Blue",
-          "url": "https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc"
-        }
-      ],
-      "duration_ms": 297153,
-      "name": "Lily's Tiger",
-      "url": "https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Scary Blankets",
         "url": "https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 558079,
       "name": "Myrtle",
       "url": "https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Great Blue",
+        "url": "https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6"
+      },
+      "artists": [
+        {
+          "name": "Great Blue",
+          "url": "https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc"
+        }
+      ],
+      "duration_ms": 297153,
+      "name": "Lily's Tiger",
+      "url": "https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA"
     }
   ],
   "unique_name": "Modern Jam Band",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,471 likes - 135 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,878 likes - 136 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,17 +131,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 121 | [Gamma Sinus 120 Hz \- 170 Hz](https://open.spotify.com/track/3qdY0cHqy1YsvwIBu691j4) | [Les Bois Noirs](https://open.spotify.com/artist/3ob7uVjfjBY0d7fLQq5QV0) | [Les Bois Noirs](https://open.spotify.com/album/6SFZaNxegCRe6GK8fdUfce) | 3:28 |
 | 122 | [100\-150 Hz Pads](https://open.spotify.com/track/4uTDjinJd0UitcEocsJwjh) | [Masters of Binaurality](https://open.spotify.com/artist/6em3rrtKhjff80iJWE6m6K) | [Total Sleep And Relaxation](https://open.spotify.com/album/11mWqnd5PEdfYuQYEHa2to) | 3:48 |
 | 123 | [Gamma \(L\-73.9Hz R\-111.0Hz\)](https://open.spotify.com/track/6nGYTi1nPFEiZTy1s3Hj3i) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Relief](https://open.spotify.com/album/6rVi7kAYDY3yOBm5l0rYva) | 3:52 |
-| 124 | [Focal Point \(Gamma Drone L131Hz R161Hz\)](https://open.spotify.com/track/18qbDygFJvaOzrm4InKfoE) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Focal Point](https://open.spotify.com/album/5aaBx4Z9ToIRApnqHxwnNP) | 3:24 |
-| 125 | [Smooth Gamma](https://open.spotify.com/track/0uRm6jCU2HMQmrIeqOfJC7) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Binaural Delta Minds](https://open.spotify.com/album/1cPEUroeyLUqzPsDBRQyyw) | 3:28 |
-| 126 | [Memory Training Gamma](https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Binaural Brainwaves Gamma](https://open.spotify.com/album/590xwIqVQdmbaiH59TDI9N) | 3:18 |
-| 127 | [Gamma Air 34 Hz](https://open.spotify.com/track/4uZV7LGieE3kbuwFMUK3SO) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:25 |
-| 128 | [Sun salutations \- Gamma Sinus](https://open.spotify.com/track/42Dri0LyczZglaXKep1A9H) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:37 |
-| 129 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 |
-| 130 | [Binaural Gamma Sinus 40 Hz Drone](https://open.spotify.com/track/5awvTpCzdXeW7bSTR35yUq) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Gamma 30\-100 Hz Awareness Drones](https://open.spotify.com/album/4i46dwRwVDqhyhfv5z0780) | 3:20 |
-| 131 | [70 Hz Gamma Sinus](https://open.spotify.com/track/0DRZNMwqpiXegLBa4cwFCU) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 1:54 |
-| 132 | [Binaural Gamma Sinus 432 Hz \- L 462 Hz \- R](https://open.spotify.com/track/3ef2ED2zxeucJfi7aMmL6O) | [大山さん](https://open.spotify.com/artist/0vVpFe8b0gP3K0euAu845g) | [Pure](https://open.spotify.com/album/3VHE2qGORHjvdcmCcuYNL3) | 1:58 |
-| 133 | [Gamma Sinus 432 Hz \- 462 Hz](https://open.spotify.com/track/2EeLmXbTCjCW1cqKaOmqt6) | [Young Grove](https://open.spotify.com/artist/13evvWhJQpp7eMwNomoJ6e) | [Young Grove](https://open.spotify.com/album/6337k53fE94N3Wh6XAgW60) | 3:19 |
-| 134 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 |
-| 135 | [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:24 |
+| 124 | [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/track/6KV5CVoCjuHX9FOJilDrcw) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Binaural Gamma Voyage \(132 Hz\-144 Hz\)](https://open.spotify.com/album/0xjzdHpgKNy5jusRVHV4oz) | 2:44 |
+| 125 | [Focal Point \(Gamma Drone L131Hz R161Hz\)](https://open.spotify.com/track/18qbDygFJvaOzrm4InKfoE) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Focal Point](https://open.spotify.com/album/5aaBx4Z9ToIRApnqHxwnNP) | 3:24 |
+| 126 | [Smooth Gamma](https://open.spotify.com/track/0uRm6jCU2HMQmrIeqOfJC7) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Binaural Delta Minds](https://open.spotify.com/album/1cPEUroeyLUqzPsDBRQyyw) | 3:28 |
+| 127 | [Memory Training Gamma](https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Binaural Brainwaves Gamma](https://open.spotify.com/album/590xwIqVQdmbaiH59TDI9N) | 3:18 |
+| 128 | [Gamma Air 34 Hz](https://open.spotify.com/track/4uZV7LGieE3kbuwFMUK3SO) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:25 |
+| 129 | [Sun salutations \- Gamma Sinus](https://open.spotify.com/track/42Dri0LyczZglaXKep1A9H) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:37 |
+| 130 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 |
+| 131 | [Binaural Gamma Sinus 40 Hz Drone](https://open.spotify.com/track/5awvTpCzdXeW7bSTR35yUq) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Gamma 30\-100 Hz Awareness Drones](https://open.spotify.com/album/4i46dwRwVDqhyhfv5z0780) | 3:20 |
+| 132 | [70 Hz Gamma Sinus](https://open.spotify.com/track/0DRZNMwqpiXegLBa4cwFCU) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 1:54 |
+| 133 | [Binaural Gamma Sinus 432 Hz \- L 462 Hz \- R](https://open.spotify.com/track/3ef2ED2zxeucJfi7aMmL6O) | [大山さん](https://open.spotify.com/artist/0vVpFe8b0gP3K0euAu845g) | [Pure](https://open.spotify.com/album/3VHE2qGORHjvdcmCcuYNL3) | 1:58 |
+| 134 | [Gamma Sinus 432 Hz \- 462 Hz](https://open.spotify.com/track/2EeLmXbTCjCW1cqKaOmqt6) | [Young Grove](https://open.spotify.com/artist/13evvWhJQpp7eMwNomoJ6e) | [Young Grove](https://open.spotify.com/album/6337k53fE94N3Wh6XAgW60) | 3:19 |
+| 135 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 |
+| 136 | [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:24 |
 
-Snapshot ID: `MTY2MjQ5Mjg4MiwwMDAwMDAwMDVmMWIyZWI1ZTkxYzg2ODE5MjNhZTE5OTY2OGQ0NDk4`
+Snapshot ID: `MTY2MzA3MDIyNywwMDAwMDAwMGZmMjQ3MTA1ZTExNzQzNzg5NjdiMjIzYzZmNTU1ZmFm`

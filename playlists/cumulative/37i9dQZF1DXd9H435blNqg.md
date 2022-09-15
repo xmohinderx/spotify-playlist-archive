@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 | 2021-02-12 | 2022-09-01 |
+| [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 | 2021-02-12 |  |
 | [29 Gold Stars](https://open.spotify.com/track/6YTnk0HV9upkntv86skGcR) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [29 Gold Stars](https://open.spotify.com/album/5cz2W08tqtvSdTBR96IN9b) | 2:25 | 2021-02-12 | 2022-07-29 |
 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 | 2021-02-12 |  |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2021-04-23 | 2022-09-12 |
@@ -86,7 +86,7 @@
 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 | 2022-02-25 |  |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Them That Matter Don't Mind](https://open.spotify.com/album/7M77ODabY87tVTnfnPLscn) | 2:49 | 2022-02-25 | 2022-07-29 |
 | [Third World War](https://open.spotify.com/track/6bNhMOHw8kGRHw9lVbLRme) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Third World War](https://open.spotify.com/album/2YQos92O3jYWeCfWeVywuv) | 3:22 | 2021-02-12 | 2022-09-01 |
-| [This Is My Squad](https://open.spotify.com/track/16FhHjA9XNSQupLwrH6k8n) | [Midnight Riot](https://open.spotify.com/artist/20XwoapKdWs8gkwWKk3vLA) | [This Is My Squad](https://open.spotify.com/album/4BTkSlJR2wNzYznQfKYFff) | 2:55 | 2021-02-12 |  |
+| [This Is My Squad](https://open.spotify.com/track/16FhHjA9XNSQupLwrH6k8n) | [Midnight Riot](https://open.spotify.com/artist/20XwoapKdWs8gkwWKk3vLA) | [This Is My Squad](https://open.spotify.com/album/4BTkSlJR2wNzYznQfKYFff) | 2:55 | 2021-02-12 | 2022-09-15 |
 | [Too Bad](https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj) | 3:10 | 2021-02-12 |  |
 | [Too Bad](https://open.spotify.com/track/57pB9r5nTsngcIWivigDxQ) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Too Bad](https://open.spotify.com/album/7JKSnFB0Xl6bkcMfHbQK8n) | 3:10 | 2021-02-12 | 2022-07-29 |
 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 | 2022-08-31 |  |

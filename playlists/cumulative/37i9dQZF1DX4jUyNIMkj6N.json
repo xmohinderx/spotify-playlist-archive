@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
+    },
+    {
+      "album": {
+        "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr"
       },
       "artists": [
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/2e1MoMhNhxdU0jXYhjF0ld"
@@ -207,7 +225,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 326314,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 226122,
       "name": "Time of the Blue",
       "url": "https://open.spotify.com/track/0e1GAQ4Cm74D1A0zvXVhdT"

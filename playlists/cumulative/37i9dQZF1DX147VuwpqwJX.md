@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-116 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
+117 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Work](https://open.spotify.com/track/3WXUvkBTSkZfMIsp8dKzvy) | [A.](https://open.spotify.com/artist/5Oi5eqLshqruHdSmWvJPdF), [Dr\. Bass & the Experiment](https://open.spotify.com/artist/1xKoV5VuDzJRiLnXBa1eNw) | [Work](https://open.spotify.com/album/4FiqaznOQwBo6C7oAA8oNH) | 2:10 | 2021-11-19 |  |
 | [Work Me Goddamit '96](https://open.spotify.com/track/5Nku82Esm5dmUVMSOBEU3p) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Old Skool Junkies](https://open.spotify.com/artist/3eKGOpNDud6NlcxJgHKn4w) | [Old Skool Junkies](https://open.spotify.com/album/5EKuhX3T8zd0XsGkOsv378) | 5:39 | 2021-11-19 |  |
 | [Work This Pussy \(Revised Mix\)](https://open.spotify.com/track/0T9h9HbgfuMzGZE9b0Fsfl) | [Angel X](https://open.spotify.com/artist/6OKQsKcXP50ebq9CznrfxF), [Sweet Pussy Pauline](https://open.spotify.com/artist/55Vj2oTeeBAe7hSc2tdJxT) | [LEGEND](https://open.spotify.com/album/4GBqE6VnmfTnINsgu56RuI) | 6:52 | 2021-11-19 |  |
-| [Xtravaganza \- Radio Edit](https://open.spotify.com/track/0qOlJjXhjlNfQG1OUvIEAT) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza](https://open.spotify.com/album/0jfpShFOEen1oUQpMyBEnH) | 2:56 | 2022-01-28 |  |
+| [Xtravaganza \- Radio Edit](https://open.spotify.com/track/0qOlJjXhjlNfQG1OUvIEAT) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza](https://open.spotify.com/album/0jfpShFOEen1oUQpMyBEnH) | 2:56 | 2022-01-28 | 2022-09-15 |
+| [Xtravaganza \- Radio Edit](https://open.spotify.com/track/7mdguyC4dPAgeZvQdCs7NJ) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza \(Radio Edit\)](https://open.spotify.com/album/3pZrV5Bg3BZWjFVKTrYg49) | 2:56 | 2022-08-05 |  |
 | [Yacuntcuntcunt](https://open.spotify.com/track/3KM4P4LjEABBRPyx5Ga7Vf) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk) | [3](https://open.spotify.com/album/6AECp5wDwQilg07tmltSQd) | 2:41 | 2021-11-19 |  |
 | [YES Im BACK](https://open.spotify.com/track/1oXw2w8UgSlONuGakzy1PU) | [Angel X](https://open.spotify.com/artist/6OKQsKcXP50ebq9CznrfxF), [Moi Renee](https://open.spotify.com/artist/18XNTdaOxiVSzxY2PpT52J) | [LEGEND](https://open.spotify.com/album/4GBqE6VnmfTnINsgu56RuI) | 4:11 | 2021-11-19 |  |
 | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y) | [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO) | 3:19 | 2022-01-28 |  |

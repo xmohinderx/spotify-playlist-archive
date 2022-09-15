@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: North Point Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,676 likes - 125 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,899 likes - 125 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 66 | [Can I Get An Amen? \- Live](https://open.spotify.com/track/40LrGeDjrYeVQalkobH8jn) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK) | [Can I Get An Amen? \(Live\)](https://open.spotify.com/album/3AyuLV2cV9xwDTFwSmro5Y) | 4:37 |
 | 67 | [Heal My Heart \- Live](https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Heal My Heart \(Live\)](https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam) | 7:38 |
 | 68 | [Walls Come Down \(feat\. Michael Perry\)](https://open.spotify.com/track/3Lul01e0zk3VuLSfz46w8p) | [ReFRESH Worship](https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp), [Michael Perry Jr.](https://open.spotify.com/artist/4vUeIdzRQxCiejr7HN8lnA) | [The Flow](https://open.spotify.com/album/64EmuR1TFGJ7JUASrKsWbu) | 7:36 |
-| 69 | [The Lord Is Great](https://open.spotify.com/track/0hlfk6ACwwm8IoFrIPsPUi) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [The Lord Is Great](https://open.spotify.com/album/0wAABz87f8nKZopDW8JQSZ) | 9:44 |
+| 69 | [The Lord Is Great](https://open.spotify.com/track/0hlfk6ACwwm8IoFrIPsPUi) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [The Lord Is Great](https://open.spotify.com/album/0wAABz87f8nKZopDW8JQSZ) | 9:44 |
 | 70 | [Restoring Eden \- Live](https://open.spotify.com/track/1h15xzqiXW1AxSKXenamEd) | [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [Restoring Eden \(Live\)](https://open.spotify.com/album/25CJc8gW6zakUm5unQtANK) | 6:17 |
 | 71 | [Lift Our Gaze](https://open.spotify.com/track/2DVdkyrx6oFjnvOyEWFzIQ) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [I'll Tell These Stories to My Kids](https://open.spotify.com/album/3xYvltnUkIyXGWA4S5o1UG) | 6:08 |
 | 72 | [Rapha](https://open.spotify.com/track/5OUMZMRUiLK6mHzQ6fkrVZ) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Rapha](https://open.spotify.com/album/0Bj1HbSjUKAI0ij4JJSQsY) | 5:20 |

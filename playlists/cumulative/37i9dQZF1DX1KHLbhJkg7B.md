@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Ashley McBryde
 
-254 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+255 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Love Yourself](https://open.spotify.com/track/7g6KRfjT9n3JWNJtyZtcA5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Love Yourself](https://open.spotify.com/album/2WHKbOZVfSDTJny1dNQnsJ) | 3:39 | 2022-01-21 | 2022-05-30 |
 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 | 2021-12-10 |  |
 | [Lucky Man](https://open.spotify.com/track/4rDIVgCEeGUYn872ainYoy) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Lucky Man](https://open.spotify.com/album/2PMX7yThL1uuvo4Uqr3BI0) | 3:14 | 2021-12-10 | 2022-07-30 |
+| [Make Me Want To](https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Make Me Want To](https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU) | 2:55 | 2022-09-13 |  |
 | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/50yaJDcExOmFaKeyGOyRiE) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/album/0qqdReY9Phr0htx5Rn9F82) | 3:32 | 2022-03-11 | 2022-06-28 |
 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 | 2021-12-10 |  |
 | [Maybe It Was Memphis](https://open.spotify.com/track/6QIbHbEhnyNCZKaWEs65kB) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 2](https://open.spotify.com/album/6JIvjLVu35EUL1tGaxfHIJ) | 4:38 | 2022-03-25 | 2022-04-19 |
@@ -185,7 +186,7 @@
 | [Rhinestone Cowboy](https://open.spotify.com/track/3VNyWCyvBz42RdCeO6rD44) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Rhinestone Cowboy](https://open.spotify.com/album/1mSLs8jfMCK49LDrMcXrn9) | 3:24 | 2022-03-25 | 2022-06-18 |
 | [Ring of Fire](https://open.spotify.com/track/5HBjOCb4Z38T6b3ywNGwWF) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:11 | 2022-03-25 | 2022-09-10 |
 | [River In The Rain](https://open.spotify.com/track/4p1NuLTJwxtDOpYM8e4hAh) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [River In The Rain](https://open.spotify.com/album/2YQxIZ1h6URIjk35ZeqBQw) | 3:53 | 2022-03-25 | 2022-07-09 |
-| [Rocket Man](https://open.spotify.com/track/2SKSUxtD60P62m9sG6QUhL) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 4:47 | 2021-12-10 |  |
+| [Rocket Man](https://open.spotify.com/track/2SKSUxtD60P62m9sG6QUhL) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 4:47 | 2021-12-10 | 2022-09-15 |
 | [Run](https://open.spotify.com/track/2RRUtmzxskvu9dPAJqVX6M) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [ENZI](https://open.spotify.com/artist/61sy3aPmHy18yg0Bjp8s8L) | [Run](https://open.spotify.com/album/6z3nq9k1HgzzvNPxek9pOn) | 4:47 | 2022-04-01 | 2022-06-13 |
 | [Seminole Wind](https://open.spotify.com/track/5W8AbCPIxgy6sJ29OjAV7G) | [American Young](https://open.spotify.com/artist/5qgwXZgnJnxS83T5CtqkLg) | [Seminole Wind](https://open.spotify.com/album/1lFm9MeyQcuCZiu5szg6Dv) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Seminole Wind](https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 4:38 | 2022-08-05 |  |

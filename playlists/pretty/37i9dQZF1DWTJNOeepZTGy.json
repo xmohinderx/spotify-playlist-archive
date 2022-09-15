@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 242337,
+  "num_followers": 242439,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM0OTI0MSwwMDAwMDAwMGRhNjllZjkzMjc1Zjk5ZWIzOTk2YmNlZmJlN2E2NDdj",
+  "snapshot_id": "MTY2MTM0OTI0MSwwMDAwMDAwMDRiMTQzMWE2YmViOTc5M2RhOTZiNmIwNzU3MDVkMDg0",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Kenny Lattimore",
         "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 237200,
       "name": "For You",
       "url": "https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 299626,
-      "name": "Love No Limit",
-      "url": "https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 430000,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
+      "duration_ms": 299626,
+      "name": "Love No Limit",
+      "url": "https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z"
     },
     {
       "added_at": "2022-05-24 13:35:26",

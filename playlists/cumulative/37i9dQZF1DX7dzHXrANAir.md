@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-207 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+208 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Con Moto](https://open.spotify.com/track/444qDZ9HRjqgp2e3N6J2Mv) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Con Moto](https://open.spotify.com/album/4syasMYI7PHjRTIdIfEKMD) | 5:04 | 2021-12-10 | 2022-04-02 |
 | [continuo](https://open.spotify.com/track/4NTaWl9n52PEQqNAa0VAwB) | [Dmitry Selipanov](https://open.spotify.com/artist/7D15e46omm1TnAbpeh2wMY), [Opensoundorchestra](https://open.spotify.com/artist/1foSGHh31n4GhrmqtZ1WWA) | [01](https://open.spotify.com/album/5Zfh0dQYNHMNDzXKwyUf8E) | 7:33 | 2021-12-10 | 2022-04-01 |
 | [Critical Spirit](https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 4:49 | 2022-04-29 |  |
+| [Critical Spirit \- Live](https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Critical Spirit \(Live\)](https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS) | 11:09 | 2022-09-09 |  |
 | [Dancing leaves](https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y) | [Matteo Saggese](https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod) | [Sound Visions](https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB) | 3:27 | 2022-03-11 |  |
 | [Dawn is Near](https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Frost](https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z) | 4:52 | 2022-04-08 |  |
 | [De Luce Et Umbra](https://open.spotify.com/track/0SslNpasndxgkQRvqSgC6N) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [The Dirac Quartet](https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL) | [Orphée](https://open.spotify.com/album/22ohGwoKrvCaZYMmgTGfvR) | 2:28 | 2021-12-10 | 2022-05-12 |
@@ -204,7 +205,7 @@
 | [Vermilion](https://open.spotify.com/track/2eUpkvlZJYm7WiAnM3s9xs) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Vermilion](https://open.spotify.com/album/50uV1MBe1FnhAWxxWb92E8) | 3:17 | 2021-12-10 | 2022-07-29 |
 | [Vermilion](https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 3:17 | 2022-07-22 |  |
 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 | 2021-12-10 | 2022-07-29 |
-| [Wave](https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [Driving Through the Aftermath of a Storm on a Clear Day](https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y) | 2:31 | 2022-01-07 |  |
+| [Wave](https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [Driving Through the Aftermath of a Storm on a Clear Day](https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y) | 2:31 | 2022-01-07 | 2022-09-15 |
 | [We Are Part Mineral](https://open.spotify.com/track/7mmrKcjz0GVCGPm2tikmhK) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [We Are Part Mineral](https://open.spotify.com/album/1wJmOrSIHage3BgFyUMna9) | 6:06 | 2022-03-25 | 2022-03-27 |
 | [We Begin](https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 4:37 | 2021-12-10 |  |
 | [We Could Stay](https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Could Stay](https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w) | 3:37 | 2022-06-17 |  |

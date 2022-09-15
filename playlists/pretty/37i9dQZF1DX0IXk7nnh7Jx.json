@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42306,
+  "num_followers": 42309,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDllYTdkZDA3N2VkOWFiOTBkZGQ0ZjNhODZkZTNlMGFk",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDA1YjM0ZmIwZGNmZTVlYzY3MWMwMTIwYjI5NDI1MDRm",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -279,6 +279,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Saving Me Still",
+        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
+      },
+      "artists": [
+        {
+          "name": "Justin Jarvis",
+          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Saving Me Still",
+      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Fractioned Heart",
         "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 298093,
       "name": "Communion",
       "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Saving Me Still",
-        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
-      },
-      "artists": [
-        {
-          "name": "Justin Jarvis",
-          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Saving Me Still",
-      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
     },
     {
       "added_at": "2020-12-18 06:02:14",

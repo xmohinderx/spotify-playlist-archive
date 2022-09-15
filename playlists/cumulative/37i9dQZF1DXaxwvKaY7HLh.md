@@ -4,7 +4,7 @@
 
 > Esta selección musical se te hará agua la boca.
 
-80 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/4GFgtQ6muqwEA78cKiRjck)
+81 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/4GFgtQ6muqwEA78cKiRjck)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Así Quererte](https://open.spotify.com/track/6R0loMKQKrNks1IJUoBVxj) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Así Quererte](https://open.spotify.com/album/79eykvhKVzBuco5sbnwvRF) | 3:27 | 2022-04-20 |  |
 | [Atardecer](https://open.spotify.com/track/45XKflPDG1zNJsils53sPl) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [D E S I E R T O \- El Día](https://open.spotify.com/album/19Kkq8c60PXIfD7ByFmLK2) | 4:22 | 2022-04-20 |  |
 | [Australia](https://open.spotify.com/track/34WH60sao8l8Fh03jSpVVK) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Australia](https://open.spotify.com/album/4tpANCD3zGZVyHQloCPWC4) | 3:36 | 2022-04-20 |  |
+| [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/20sa61LS3BS3dhOmedmC1A) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/2VaAyaBAQAqVsodcz3iebX) | 3:29 | 2022-04-20 | 2022-07-29 |
-| [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 |  |
+| [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-09-15 |
 | [Como una punzada](https://open.spotify.com/track/6PdSmKN53eNLRFkSBsNBg2) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK), [Eleonor](https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW) | [Como una punzada](https://open.spotify.com/album/2raWeYrWXIF4Vgvd9ZLP5Q) | 3:58 | 2022-04-20 |  |
 | [Como Yo Te Quería](https://open.spotify.com/track/2Fhj0X9NCGKXDItp003eIh) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [Como Yo Te Quería](https://open.spotify.com/album/1roZkRMNGE2RBfWQ1WqZsY) | 3:18 | 2022-04-20 |  |
 | [Cortar \(feat\. Los Macorinos\)](https://open.spotify.com/track/4Gua8rNQgqkAzHschn550K) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Cortar \(feat\. Los Macorinos\)](https://open.spotify.com/album/6WFFdFchQjbwWybSICSWFa) | 3:56 | 2022-04-20 |  |

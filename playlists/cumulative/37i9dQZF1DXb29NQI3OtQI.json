@@ -525,6 +525,28 @@
     {
       "album": {
         "name": "Red Carpet Massacre",
+        "url": "https://open.spotify.com/album/7I7gJPIDgmdaMnHlUJi9AO"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339933,
+      "name": "Falling Down (feat. Justin Timberlake)",
+      "url": "https://open.spotify.com/track/39Fp08QFko8zyYjNbuhJJf"
+    },
+    {
+      "album": {
+        "name": "Red Carpet Massacre",
         "url": "https://open.spotify.com/album/7a1fHsFj4oYVkMtYMzjOXy"
       },
       "artists": [
@@ -1205,7 +1227,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 329866,
       "name": "Sailing to Philadelphia",
       "url": "https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3"

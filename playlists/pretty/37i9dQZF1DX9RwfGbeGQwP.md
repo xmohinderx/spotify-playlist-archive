@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,718 likes - 499 songs - 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,020 likes - 499 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 147 | [Lueur d'Espoir](https://open.spotify.com/track/7rfrfkno6jLUBXP6F6t4UC) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Lueur d'Espoir](https://open.spotify.com/album/1ulHDdGNq69Q6bjwGoDKQi) | 1:59 |
 | 148 | [Pumpkin](https://open.spotify.com/track/7oFtROdiwVSsqm8WmY6Zyv) | [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE) | [Pumpkin](https://open.spotify.com/album/0OmDBT6N79NtzuBX3YNBBB) | 2:12 |
 | 149 | [One Sunny Day](https://open.spotify.com/track/2NbT6GqqH6x3YW0IrKz60t) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Daniel Mayer](https://open.spotify.com/artist/4WghUXiYqQQdd0yl8VoHL5) | [Apeirogon](https://open.spotify.com/album/3T9Tz6Bt3HAe9e5hQfR9H7) | 1:54 |
-| 150 | [Jazz Memories](https://open.spotify.com/track/4cK2bKvfzwcONWMJa0qyrc) | [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74), [DURA](https://open.spotify.com/artist/1fOIYW6D4eoOJxL5x3HGTp), [créature sonore](https://open.spotify.com/artist/4ZswYt4VlUUo9P6AicOqbX) | [Jazz Memories](https://open.spotify.com/album/6XWS5TSJOARapN7OeBF4E5) | 2:43 |
+| 150 | [Jazz Memories](https://open.spotify.com/track/4cK2bKvfzwcONWMJa0qyrc) | [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74), [DURA](https://open.spotify.com/artist/1fOIYW6D4eoOJxL5x3HGTp), [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Jazz Memories](https://open.spotify.com/album/6XWS5TSJOARapN7OeBF4E5) | 2:43 |
 | 151 | [Riviera](https://open.spotify.com/track/0vycziPbYtlN1p3Zlzxs8J) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Riviera](https://open.spotify.com/album/7Fy6fzGOe572EHcCdpogXi) | 2:40 |
 | 152 | [Fat Frogs](https://open.spotify.com/track/1whwmOmw9SYas8jSEnk1Wg) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Fat Frogs](https://open.spotify.com/album/6CmzVlYQ2vjaTMtgvrIg6E) | 1:19 |
 | 153 | [Suburbia](https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Suburbia](https://open.spotify.com/album/1ewTq3HHspQtOgnzc6G8RK) | 2:13 |

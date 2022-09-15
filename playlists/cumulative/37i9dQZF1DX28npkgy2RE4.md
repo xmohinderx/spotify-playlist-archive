@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-351 songs - 21 hr 42 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+352 songs - 21 hr 45 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-07-11 |  |
 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 | 2022-07-11 | 2022-07-29 |
 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 | 2021-11-12 | 2022-07-12 |
+| [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-07-11 |  |
 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-11 | 2022-09-12 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-25 | 2022-07-29 |
 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 | 2022-04-15 |  |
@@ -218,7 +219,7 @@
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-01-14 |  |
 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2021-11-12 | 2022-07-29 |
 | [Nature Song](https://open.spotify.com/track/7gxMs8qsk1PmdSjwHlG86B) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Alternator E.P.](https://open.spotify.com/album/0VLcprwhFTvYUbI31jTCb2) | 2:43 | 2021-11-12 | 2022-07-29 |
-| [Never on My Mind](https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk) | [Tobacco City](https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX) | [Tobacco City, USA](https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20) | 3:45 | 2022-07-11 |  |
+| [Never on My Mind](https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk) | [Tobacco City](https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX) | [Tobacco City, USA](https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20) | 3:45 | 2022-07-11 | 2022-09-15 |
 | [New Mercies](https://open.spotify.com/track/0yl1pCNHItFUpbFgwIfgjY) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [New Mercies](https://open.spotify.com/album/2JrnDNWhJzz5J801SYEOvb) | 4:42 | 2022-04-01 | 2022-04-20 |
 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 | 2021-11-12 |  |
 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 | 2021-11-12 |  |
@@ -229,7 +230,7 @@
 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 | 2021-11-12 |  |
 | [Nothing Compares](https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 4:02 | 2022-07-11 |  |
 | [Nothing Is Real](https://open.spotify.com/track/6D0QkwvPIe6hz1Twvnu2Ae) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 2:44 | 2021-11-12 | 2022-01-18 |
-| [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-11-12 |  |
+| [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-11-12 | 2022-09-15 |
 | [Old Black Magic](https://open.spotify.com/track/2101msXT4EW6S1QWDMqFA5) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Old Black Magic](https://open.spotify.com/album/4fBlyjkl18CQinati1cdsv) | 4:46 | 2021-11-12 | 2022-04-21 |
 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 | 2022-07-11 |  |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2021-11-12 |  |
@@ -352,7 +353,7 @@
 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2021-11-12 |  |
 | [Witchknife](https://open.spotify.com/track/5zSX509s3P2f4wU2dMut49) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Witchknife](https://open.spotify.com/album/1yBHbpoM08NNjVNpxN8UhP) | 3:11 | 2021-11-12 | 2022-07-23 |
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2021-11-12 |  |
-| [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 | 2021-11-12 | 2022-07-29 |
+| [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 | 2021-11-12 |  |
 | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/track/0f8VjKe3TShzHjas4qd6MA) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Woman \(feat\. Lady Lamb\)](https://open.spotify.com/album/7BIJQX1YaJOxJwTCxiTvVM) | 3:45 | 2021-11-12 | 2022-07-29 |
 | [Worldender](https://open.spotify.com/track/6VDvcEeDNYuUwUjgVg72QO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Worldender](https://open.spotify.com/album/1Hs5Q0WA0rAHoFA8a6j77D) | 4:13 | 2022-04-01 | 2022-07-27 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 |  |

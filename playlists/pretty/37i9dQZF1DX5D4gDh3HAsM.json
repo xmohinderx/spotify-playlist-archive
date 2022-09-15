@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 452296,
+  "num_followers": 452290,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMGVhNTRhOWZmYTk5OTRlMTRhZTJmNzIxYTIzYzdhNzVj",
+  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDEzODc0MTVmYjgzMmU4OTAyZjhhYzk5ZTE2ZmM1N2Vm",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "I Dream Of Christmas",
         "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 160290,
       "name": "Christmas Don't Be Late",
       "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Good \u201cSwing\u201d Wenceslas",
+      "url": "https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -331,22 +347,6 @@
       "duration_ms": 154080,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Good \u201cSwing\u201d Wenceslas",
-      "url": "https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -387,18 +387,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
         }
       ],
-      "duration_ms": 194706,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -419,18 +419,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
       "artists": [
         {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+      "duration_ms": 194706,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Big Band Christmas",
+        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
+      },
+      "artists": [
+        {
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+        }
+      ],
+      "duration_ms": 133893,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Simply Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Big Band Christmas",
-        "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
+        "name": "Christmas With The Puppini Sisters",
+        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
       },
       "artists": [
         {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
         }
       ],
-      "duration_ms": 133893,
-      "name": "We Wish You The Merriest",
-      "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+      "duration_ms": 181773,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -627,22 +643,6 @@
       "duration_ms": 223315,
       "name": "The Little Things",
       "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Christmas With The Puppini Sisters",
-        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
-      },
-      "artists": [
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -827,22 +827,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas Cookin'",
-        "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
+        "name": "December",
+        "url": "https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG"
       },
       "artists": [
         {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        },
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
         }
       ],
-      "duration_ms": 360133,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
+      "duration_ms": 190120,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/7IQoSi7j7OEYJj0RsRyyJ2"
     },
     {
       "added_at": "2021-11-12 15:48:58",

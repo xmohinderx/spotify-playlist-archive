@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 169466,
       "name": "Devil Don't Even Bother",
       "url": "https://open.spotify.com/track/6fmex87SKHr4B9vGCrBkzs"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 181920,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/27c2kdskfeM1j3keQ6z4hB"
@@ -874,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "See You Like I Do",
+      "url": "https://open.spotify.com/track/4UZvxMfQRMqj24WHj0VNEf"
+    },
+    {
+      "album": {
         "name": "Kane Brown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 267802,
       "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"

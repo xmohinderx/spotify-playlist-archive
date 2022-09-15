@@ -4,7 +4,7 @@
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-99 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
+100 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Nam Khang](https://open.spotify.com/track/4ZzSW7CyhdAqrIFRdQ2Lee) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep Looking at the Window](https://open.spotify.com/album/4ujNlhHT0WFcfN2wrprJds) | 6:57 | 2022-08-25 |  |
 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 | 2022-08-12 |  |
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-25 |  |
+| [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 | 2022-09-13 |  |
 | [Ocean of Light](https://open.spotify.com/track/3OMAINkoHuBJcLu7R39Q6P) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Escaping Gravity](https://open.spotify.com/album/0jnaBGk3e6LxiFjh2Sa1rO) | 4:58 | 2022-08-25 |  |
 | [Oh Brave Morning Sun](https://open.spotify.com/track/0s2aODxs1y7dRsMsP5egtb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:15 | 2022-08-12 |  |
 | [Oh Yeah!](https://open.spotify.com/track/4BfmJnaP3Ghu4W7JmMHamO) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [개구쟁이 Naughty Boy](https://open.spotify.com/album/0xWooj0tF8YM8CEGIuq0J2) | 3:35 | 2022-08-12 |  |
@@ -76,7 +77,7 @@
 | [Saturday Night Fever](https://open.spotify.com/track/0TTxQr8bXlG43A2lHzKhKB) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 4:03 | 2022-08-25 |  |
 | [Scribble](https://open.spotify.com/track/2GcHFyreG18hZSmxOKrOfl) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Woo Scribbling Night](https://open.spotify.com/album/577g4XzgzSG0qBNABsCQ6q) | 4:15 | 2022-08-12 |  |
 | [Sleepwalk](https://open.spotify.com/track/1mRR4zN3C1mFIbfUMkJeQ6) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU), [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 3:39 | 2022-08-25 |  |
-| [Space Angel](https://open.spotify.com/track/0K7HJKwvOaOKhsfOH7ArIk) | [Parasol](https://open.spotify.com/artist/6YTSSEvQoYsxYwkWLp6JQN), [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Space Angel](https://open.spotify.com/album/7JQ4RpDyrALnQARIzyJQ07) | 6:52 | 2022-08-12 |  |
+| [Space Angel](https://open.spotify.com/track/0K7HJKwvOaOKhsfOH7ArIk) | [Parasol](https://open.spotify.com/artist/6YTSSEvQoYsxYwkWLp6JQN), [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Space Angel](https://open.spotify.com/album/7JQ4RpDyrALnQARIzyJQ07) | 6:52 | 2022-08-12 | 2022-09-15 |
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-25 |  |
 | [Stay](https://open.spotify.com/track/0FKCn2juc9oNNAwrdFaanq) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 3:39 | 2022-08-25 |  |
 | [Summer](https://open.spotify.com/track/3aeZV1y0ck9CMIUIdeOjBj) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 4:11 | 2022-08-25 |  |

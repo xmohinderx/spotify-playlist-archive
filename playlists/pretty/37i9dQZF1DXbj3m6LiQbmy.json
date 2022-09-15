@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4577,
+  "num_followers": 4586,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGFkMzYyZGVkMzQyNmZhYWYyZDUyMzRmNzIxNmE0MTM4",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDA0Y2M3ZGM5NGU4MzYwYjAwYjJmMjdhMTVkMTAyNWMx",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Lil Mariko",
+        "url": "https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb"
+      },
+      "artists": [
+        {
+          "name": "Lil Mariko",
+          "url": "https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hi, I'm a Slut",
+      "url": "https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Short Dick Man",
         "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 290933,
       "name": "Short Dick Man - Club Mix",
       "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Lil Mariko",
-        "url": "https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb"
-      },
-      "artists": [
-        {
-          "name": "Lil Mariko",
-          "url": "https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hi, I'm a Slut",
-      "url": "https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Diana Ross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 468640,
-      "name": "Love Hangover",
-      "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "WIZZ",
         "url": "https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 174915,
       "name": "WIZZ",
       "url": "https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Diana Ross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 468640,
+      "name": "Love Hangover",
+      "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 162781,
       "name": "Cum (feat. Iggy Azalea)",
       "url": "https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -509,7 +509,7 @@
         }
       ],
       "duration_ms": 188307,
-      "name": "SCANDALOSA (feat. Malena)",
+      "name": "SCANDALOSA",
       "url": "https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI"
     },
     {
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Pourquoi pourquoi (Version italienne)",
-        "url": "https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI"
-      },
-      "artists": [
-        {
-          "name": "Corine",
-          "url": "https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Perch\u00e9 Perch\u00e9",
-      "url": "https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 196653,
       "name": "MOVESET (feat. Kiddy Smile & David Blank)",
       "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Pourquoi pourquoi (Version italienne)",
+        "url": "https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI"
+      },
+      "artists": [
+        {
+          "name": "Corine",
+          "url": "https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Perch\u00e9 Perch\u00e9",
+      "url": "https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "LA NI\u00d1A",
-          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
-        },
-        {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "XTC (feat. LA NI\u00d1A & BigMama)",
-      "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Italian Dance",
         "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 260473,
       "name": "Tropicanal",
       "url": "https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        },
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "XTC (feat. LA NI\u00d1A & BigMama)",
+      "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "FUORI!!!",
-        "url": "https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt"
-      },
-      "artists": [
-        {
-          "name": "Hey Cabrera!",
-          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
-        },
-        {
-          "name": "Francesco Urbano Ragazzi",
-          "url": "https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "FUORI!!!",
-      "url": "https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2"
       },
@@ -1191,6 +1171,46 @@
       "duration_ms": 245000,
       "name": "Tell Me What You See",
       "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "FUORI!!!",
+        "url": "https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt"
+      },
+      "artists": [
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "Francesco Urbano Ragazzi",
+          "url": "https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "FUORI!!!",
+      "url": "https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Malcostume",
+        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Casto",
+          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
+        },
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "duration_ms": 238074,
+      "name": "Insegnami la vita",
+      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1235,22 +1255,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Malcostume",
-        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
+        "name": "Superomantico",
+        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
       },
       "artists": [
         {
-          "name": "Immanuel Casto",
-          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
-        },
-        {
-          "name": "Romina Falconi",
-          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+          "name": "Vergo",
+          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
         }
       ],
-      "duration_ms": 238074,
-      "name": "Insegnami la vita",
-      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
+      "duration_ms": 161302,
+      "name": "Superomantico",
+      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 161312,
       "name": "Hands On Me",
       "url": "https://open.spotify.com/track/0HUiEOHqH9gPbuCWDVvZ7u"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Superomantico",
-        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
-      },
-      "artists": [
-        {
-          "name": "Vergo",
-          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
-        }
-      ],
-      "duration_ms": 161302,
-      "name": "Superomantico",
-      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
     }
   ],
   "unique_name": "Pride Italia",

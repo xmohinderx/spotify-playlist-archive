@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-119 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+121 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2021-12-03 |  |
 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 | 2021-12-03 |  |
 | [Freight Train](https://open.spotify.com/track/6oo0HD3mrcYtzApYeYsS4L) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Freight Train](https://open.spotify.com/album/6oCWzZ0s3QMp1MJLKUV8QG) | 4:39 | 2022-02-11 |  |
-| [Gone Too Soon](https://open.spotify.com/track/07mnxqYqssab1EEBynCuQ4) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon](https://open.spotify.com/album/7gWVQxnmBpNv9ZacenAgd8) | 2:49 | 2021-12-03 |  |
+| [Gone Too Soon](https://open.spotify.com/track/07mnxqYqssab1EEBynCuQ4) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon](https://open.spotify.com/album/7gWVQxnmBpNv9ZacenAgd8) | 2:49 | 2021-12-03 | 2022-09-15 |
 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 | 2022-07-20 |  |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-04 |  |
 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 | 2022-04-22 |  |
@@ -104,8 +104,10 @@
 | [She's Country](https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:40 | 2021-12-03 | 2022-07-16 |
 | [She's Mine](https://open.spotify.com/track/1ac5TkGKdYuR43vgKJ652F) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [She's Mine](https://open.spotify.com/album/7AQIoedGAYR8u8f0W5ILw2) | 2:58 | 2021-12-03 |  |
 | [Side Effects](https://open.spotify.com/track/7oKZnoWkLDZjsNsPxYvIWx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Side Effects](https://open.spotify.com/album/38q9a6NcGWx8y1uu0NZgNG) | 3:11 | 2021-12-03 |  |
+| [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 | 2022-09-14 |  |
 | [Tell Your Mom](https://open.spotify.com/track/6hZ7an4nKAiqBkgM5fSCAa) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Tell Your Mom](https://open.spotify.com/album/4ZaGuPG5ubzLHpB9nt28Df) | 3:02 | 2021-12-03 | 2022-07-29 |
 | [Tell Your Mom](https://open.spotify.com/track/6uxGwZV2t6c7Nq2oy1MHvU) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Tell Your Mom](https://open.spotify.com/album/49hM7XdEYqFUlVdUGn40Fg) | 3:02 | 2022-07-25 |  |
+| [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-14 |  |
 | [Thank You Card](https://open.spotify.com/track/363sJuHog5UqucY0D15ggq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Thank You Card](https://open.spotify.com/album/69RR8FI3KIdVizuPF6Bf36) | 3:10 | 2022-02-25 |  |
 | [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 | 2021-12-03 |  |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-12-03 |  |
@@ -113,7 +115,7 @@
 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 | 2022-01-28 |  |
 | [This Damn Song](https://open.spotify.com/track/7s9bJQK8sr8yDyOAHn8miR) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/4KFp8O0ruq7DsaEbU57eNs) | 4:40 | 2021-12-03 |  |
 | [Town Home](https://open.spotify.com/track/3oYzZC4WuE9Ymqcp91cGzk) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Town Home](https://open.spotify.com/album/6Ae78T9dyCD5uWCTmqRCwQ) | 2:50 | 2021-12-03 | 2022-07-16 |
-| [Turn Up On the Weekend](https://open.spotify.com/track/2AEzMPR01sg1wsXurYrgDx) | [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf), [Big Wet](https://open.spotify.com/artist/0VmYHEoxeMIcKpW4Ts7Lro) | [Turn Up On the Weekend](https://open.spotify.com/album/1NvsjYIhRGCBY02pAtAl5i) | 3:19 | 2021-12-03 |  |
+| [Turn Up On the Weekend](https://open.spotify.com/track/2AEzMPR01sg1wsXurYrgDx) | [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf), [Big Wet](https://open.spotify.com/artist/0VmYHEoxeMIcKpW4Ts7Lro) | [Turn Up On the Weekend](https://open.spotify.com/album/1NvsjYIhRGCBY02pAtAl5i) | 3:19 | 2021-12-03 | 2022-09-15 |
 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 | 2022-07-25 |  |
 | [Villain](https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/3qdprgT9HXDTzav58XtZpN) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 | 2021-12-03 |  |
@@ -123,7 +125,7 @@
 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 | 2021-12-03 | 2022-07-16 |
 | [Wish You'd Miss Me](https://open.spotify.com/track/01CDpoz4YozPMx7X6R7eYn) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:21 | 2022-07-25 | 2022-09-11 |
 | [Wish You'd Miss Me](https://open.spotify.com/track/6bg3oASoWVKvtOSGnixIwh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Wish You'd Miss Me](https://open.spotify.com/album/7jMROrwdWbvVjmrOrk4rdv) | 3:21 | 2021-12-03 | 2022-07-29 |
-| [Wish You'd Miss Me](https://open.spotify.com/track/2613r4NIlGRo18Ep9UWgab) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:22 | 2022-09-09 |  |
+| [Wish You'd Miss Me](https://open.spotify.com/track/2613r4NIlGRo18Ep9UWgab) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:22 | 2022-09-09 | 2022-09-15 |
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-12-03 |  |
 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 | 2022-07-25 |  |
 | [Your Man](https://open.spotify.com/track/38puMH41SYytv1i38GWEM0) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5dwwsU4v2sFbnPn0UR835g) | 3:31 | 2021-12-03 | 2022-07-29 |

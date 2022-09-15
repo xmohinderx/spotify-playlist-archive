@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245583,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ"
       },
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 402292,
       "name": "Emotional Music (Chakra Balancing)",
       "url": "https://open.spotify.com/track/4nOyZYW1lFwMeiwF23sB3O"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: Chimbala
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,912 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,035 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 4 | [Guanguan](https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV) | [Guanguan](https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc) | 2:49 |
 | 5 | [Chiviriki](https://open.spotify.com/track/3oFjvBSe1eGB08WmbWXY1F) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Chiviriki](https://open.spotify.com/album/4vVi0T2hsi6QybMIW8l5VL) | 2:33 |
 | 6 | [Depues De Las 3](https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG) | 3:11 |
-| 7 | [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 |
+| 7 | [3730](https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP) | 2:17 |
 | 8 | [Vaina Cara](https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Vaina Cara](https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv) | 3:12 |
 | 9 | [Los Hijos De Chucky73](https://open.spotify.com/track/5vTxhnFniSdhBbkHPgUlkg) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Los Hijos De Chucky73](https://open.spotify.com/album/3N17xdBy62gklLjwBegFyr) | 3:07 |
 | 10 | [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 59 | [En Detone](https://open.spotify.com/track/6ayhb2zGzFKv4cC1kH6XAx) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH), [Drumz LT](https://open.spotify.com/artist/7LQVujKoQp86vom82YHV14), [Berto Lokera](https://open.spotify.com/artist/4huvJpp8DdgopunvvUy2Xs) | [En Detone](https://open.spotify.com/album/6bDglsSOalMjpNNDrOv3EP) | 2:02 |
 | 60 | [Rulay](https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Rulay](https://open.spotify.com/album/0uziOnCOQjWDLQGXmwTukk) | 2:31 |
 
-Snapshot ID: `MTY1NDIyODgwMCwwMDAwMDAwMGM3MjczZGY2ZDFhN2RhOGZhNGI5NDcwNjBkYjk4YmI2`
+Snapshot ID: `MTY1NDIyODgwMCwwMDAwMDAwMDMyYTViMjdmZTZkYzYyMDNhYmI0ZjBlZThiYzIwMGYz`

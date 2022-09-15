@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan all in one playlist",
-  "num_followers": 187857,
+  "num_followers": 188092,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMGVmYWFmYTUwZGM4MzQzYTQ3ODY5OTFhMzcyYzMxYjA4",
+  "snapshot_id": "MTY1ODEyNDY5NCwwMDAwMDAwMDVlMzU4YmQxZGEyMTZmMGM0OGFjYWUyN2JmN2E0YzQ0",
   "tracks": [
     {
       "added_at": "2022-07-18 06:11:34",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-07-18 06:11:34",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        }
-      ],
-      "duration_ms": 338593,
-      "name": "Mere Naam Tu",
-      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
-    },
-    {
-      "added_at": "2022-07-18 06:11:34",
-      "album": {
         "name": "BIBA",
         "url": "https://open.spotify.com/album/0E3lOC2gnWVFMoXwKwkbQ8"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 175721,
       "name": "BIBA",
       "url": "https://open.spotify.com/track/1gt8YXWknKt4sRNZ6SirVW"
+    },
+    {
+      "added_at": "2022-07-18 06:11:34",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "duration_ms": 338593,
+      "name": "Mere Naam Tu",
+      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
     },
     {
       "added_at": "2022-07-18 06:11:34",

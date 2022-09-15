@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-114 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+115 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 | 2021-12-22 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2021-12-22 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2021-12-22 |  |
+| [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2022-09-13 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2021-12-22 |  |
 | [Dynasty](https://open.spotify.com/track/5Ie3qzaZXpR7MLeCN5k2ph) | [Reflowed](https://open.spotify.com/artist/2kYcrynI6pCgHgYdFE4oMK) | [Dynasty](https://open.spotify.com/album/1UnntuIvY26T6Wj7F82W4C) | 3:16 | 2022-07-08 |  |
-| [Emotional Music \(Chakra Balancing\)](https://open.spotify.com/track/4nOyZYW1lFwMeiwF23sB3O) | [Reiki Music](https://open.spotify.com/artist/1MKdS4gCWclRAcVydpTv9T) | [Reiki Music \- Vital Energy Nature Zen Music for Reiki, Qi Gong, Tai Chi, Yoga and Mindfulness Meditation](https://open.spotify.com/album/5JEA9dSY3SccUqniOKsqjz) | 6:42 | 2021-12-22 |  |
+| [Emotional Music \(Chakra Balancing\)](https://open.spotify.com/track/4nOyZYW1lFwMeiwF23sB3O) | [Reiki Music](https://open.spotify.com/artist/1MKdS4gCWclRAcVydpTv9T) | [Reiki Music \- Vital Energy Nature Zen Music for Reiki, Qi Gong, Tai Chi, Yoga and Mindfulness Meditation](https://open.spotify.com/album/5JEA9dSY3SccUqniOKsqjz) | 6:42 | 2021-12-22 | 2022-09-15 |
 | [Five Bowls of Tibetan](https://open.spotify.com/track/4yhqoMdd45giViFd7UVT1d) | [Five Bowls of Tibetan](https://open.spotify.com/artist/2ep4utLbfFM6R7fWqPwAeo) | [Himalayan Shimmer](https://open.spotify.com/album/05bVIBjzo0rOl1aQBF7WRR) | 3:23 | 2021-12-22 |  |
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-01-06 | 2022-01-21 |
 | [Fly Among Clouds](https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:18 | 2021-12-22 |  |

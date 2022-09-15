@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 186685,
       "name": "ava_",
       "url": "https://open.spotify.com/track/40PBYI3cLbrKRwZMaH1TlM"
@@ -1866,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351379,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T"
+    },
+    {
+      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/7s6RExKiewxS5m6aFT4JXN"
       },
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 285737,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3OLtGoMhlQNjEctWGN1yDb"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "Dreams Without Gravity",
       "url": "https://open.spotify.com/track/2aMxrruZ1dkEzrfzshxvs2"
@@ -3683,7 +3701,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 261873,
       "name": "Hanging",
       "url": "https://open.spotify.com/track/3KU48Ql9NwukpId8CB8b3J"
@@ -3791,7 +3809,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 270508,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/3HRDLx6JzmXsfvyBsL3JAC"

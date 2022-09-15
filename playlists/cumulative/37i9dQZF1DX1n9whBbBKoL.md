@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-162 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+163 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Perspective](https://open.spotify.com/track/3DlKVRc8O2XjaFV5vQ5j0S) | [Jorin Williams](https://open.spotify.com/artist/5sKdm7FEijRv1JQfPHwrc7) | [Perspective](https://open.spotify.com/album/2KydKrhYkvgy0CEURNQvjg) | 2:56 | 2021-11-10 |  |
 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/2s6Fglo2Tu3BBUFr5Ihcq9) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 | 2021-11-10 |  |
 | [Plain Delta](https://open.spotify.com/track/3hX38TqFANK56SjLnI8680) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Binaural Relation](https://open.spotify.com/album/07UQDqiOSBWJZVgAsjkPm9) | 3:44 | 2021-11-10 | 2022-04-07 |
-| [Pondering Life](https://open.spotify.com/track/7BM5WFlytFqJ8j0FewyhA7) | [Emblemic X](https://open.spotify.com/artist/4wHW2mQQfB57p5IEdhB4SI) | [Pondering Life](https://open.spotify.com/album/1rJXoYBC9L9pojZ5FqTip3) | 2:36 | 2021-11-10 |  |
+| [Pondering Life](https://open.spotify.com/track/7BM5WFlytFqJ8j0FewyhA7) | [Emblemic X](https://open.spotify.com/artist/4wHW2mQQfB57p5IEdhB4SI) | [Pondering Life](https://open.spotify.com/album/1rJXoYBC9L9pojZ5FqTip3) | 2:36 | 2021-11-10 | 2022-09-15 |
 | [Portraits](https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits](https://open.spotify.com/album/2USBHDZHtyMBWFXFwCYW3V) | 3:13 | 2021-11-10 |  |
 | [Pure Air](https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Pure Air](https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq) | 3:31 | 2021-11-10 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2021-11-10 | 2022-05-04 |
@@ -167,6 +167,7 @@
 | [we are here](https://open.spotify.com/track/0AmWizHZxla0JyvrOX4Cqj) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [we are here](https://open.spotify.com/album/2we0mUjMYZBeABUUYdb89Q) | 3:23 | 2021-11-10 | 2022-09-07 |
 | [Welkin](https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6) | [Amber Twilight](https://open.spotify.com/artist/2YihGzUlFb7MxHElA2IZDd) | [Welkin](https://open.spotify.com/album/2KRfYojhz1PPzElLtf5P4z) | 4:08 | 2021-11-10 | 2022-04-22 |
 | [Wood Siding Railway Station](https://open.spotify.com/track/5ixnYv40UHrZQIuqNlOJl0) | [Baroque Modernist](https://open.spotify.com/artist/5uXsIKri6D2vNv9V1EdGet) | [Pristina](https://open.spotify.com/album/5qcBhbgv4r3UeJAOQKCHuf) | 3:12 | 2021-11-10 |  |
+| [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-17 |  |
 | [Zero Gravity](https://open.spotify.com/track/7hhB3DTBQSHLvfO9RvyZxf) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:05 | 2021-11-10 |  |
 | [zítra](https://open.spotify.com/track/0Lrwxgacqe283eVOdhlMkh) | [petr pechal](https://open.spotify.com/artist/2m2Gdx0nH8UftnqxbQG3Nr) | [zítra](https://open.spotify.com/album/6ITVzWnfKRbUOWAhu5yEq4) | 3:47 | 2021-11-10 |  |

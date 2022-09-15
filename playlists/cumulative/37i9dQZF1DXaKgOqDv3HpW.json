@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Aberaeron",
+        "url": "https://open.spotify.com/album/0421N3byRD3RgcdaOvRgtj"
+      },
+      "artists": [
+        {
+          "name": "Leah Day",
+          "url": "https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176358,
+      "name": "Aberaeron",
+      "url": "https://open.spotify.com/track/2jweXNn6DMD7w58CPssXwZ"
+    },
+    {
+      "album": {
         "name": "Acacia",
         "url": "https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 129482,
       "name": "Ancient Presence",
       "url": "https://open.spotify.com/track/4fEP8wZL27vkaydhMuZGzq"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 175975,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7"
@@ -1074,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/0O67PdetBALfQ0K6EyQvuB"
+      },
+      "artists": [
+        {
+          "name": "Soreana",
+          "url": "https://open.spotify.com/artist/0HdXLO57mF22hjMHIkDF8g"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150583,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/7tTcD8wVyMvKRrzriY78zw"
+    },
+    {
+      "album": {
         "name": "Falling Stars",
         "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
       },
@@ -1164,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Fyna",
+        "url": "https://open.spotify.com/album/0jvaidHFliZFQ7u1yETVRg"
+      },
+      "artists": [
+        {
+          "name": "Sundale",
+          "url": "https://open.spotify.com/artist/3LFFYvQWGZPeQPOJcqKXfi"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158865,
+      "name": "Fyna",
+      "url": "https://open.spotify.com/track/6l0hNEgi62kkGZ69RuVblp"
+    },
+    {
+      "album": {
         "name": "Galaxy River",
         "url": "https://open.spotify.com/album/3TzMmfxAKMqkRFAShdma9u"
       },
@@ -1193,7 +1247,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 193349,
       "name": "Gelborn Heights",
       "url": "https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF"
@@ -2057,7 +2111,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 175800,
       "name": "Onehundredfive",
       "url": "https://open.spotify.com/track/6WvrWe1fnO2ntO1hjL8m8b"
@@ -2111,7 +2165,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 239374,
       "name": "Orca Matriarch",
       "url": "https://open.spotify.com/track/4J5GTc9yuEMKjvjGoFomJO"
@@ -2921,7 +2975,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 178608,
       "name": "The Golden Path",
       "url": "https://open.spotify.com/track/4Yfx8KnmfYaNr58SVLV4QY"

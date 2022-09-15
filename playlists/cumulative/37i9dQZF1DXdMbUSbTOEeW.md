@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-134 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+135 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [A Dream](https://open.spotify.com/track/52E7qutei1inKrIAcBYp89) | [Enine](https://open.spotify.com/artist/6BsL2HkIj6DBL1tYuswybL) | [A Dream](https://open.spotify.com/album/7mqGNYCngh5JwyjySJLHTL) | 2:49 | 2021-11-26 | 2022-02-02 |
 | [Affection](https://open.spotify.com/track/6pv0v0OBVkNBtXcrolRyMn) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Affection](https://open.spotify.com/album/1UbC000R3Z1soH3DRSxODB) | 5:23 | 2022-05-18 |  |
 | [Back Again](https://open.spotify.com/track/3laNvDHh50EvkBUuXWhFYK) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Back Again](https://open.spotify.com/album/79LsJBss75tTPfS4tgNk0G) | 3:24 | 2021-11-26 | 2022-05-19 |
-| [Balenciaga](https://open.spotify.com/track/0YoHFgsl8GHGD7Vnad0OU8) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/6wReWABPEP4moQCGEyIth2) | 2:48 | 2022-07-22 |  |
+| [Balenciaga](https://open.spotify.com/track/0YoHFgsl8GHGD7Vnad0OU8) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/6wReWABPEP4moQCGEyIth2) | 2:48 | 2022-07-22 | 2022-09-15 |
 | [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 | 2022-05-18 | 2022-07-30 |
+| [Balenciaga](https://open.spotify.com/track/7AkaTXiCoyXfUGF1Mzk0Ep) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4ysDej04vod1SPIq4o4m3n) | 2:48 | 2022-07-22 |  |
 | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/track/1afsdE2fV1sq37wvPHH0EU) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/album/38AVJUS2z5C5ltLyiACFum) | 2:46 | 2022-07-22 |  |
 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 | 2022-05-18 |  |
 | [Big \(feat\. Gunna\)](https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Big \(feat\. Gunna\)](https://open.spotify.com/album/4oAJhbdsokVDoLHMdbqtDP) | 2:36 | 2021-11-26 | 2022-05-19 |

@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Cassyette
 
-768 songs - 1 day 17 hr 5 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+769 songs - 1 day 17 hr 8 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 | 2022-04-29 | 2022-07-02 |
 | [Are You Lonely?](https://open.spotify.com/track/4oyowbAtXD12i99ovZXgFP) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Are You Lonely?](https://open.spotify.com/album/72IA9MZ8t7uBZMnibR0nOa) | 3:36 | 2021-11-19 | 2022-01-22 |
 | [Arm's Length](https://open.spotify.com/track/7t4LARzhISs3JPGhSZnsSq) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Arm's Length](https://open.spotify.com/album/7CmMXb8dpxte308mtqGqwe) | 4:18 | 2022-07-15 | 2022-07-23 |
-| [Around and Around](https://open.spotify.com/track/3NNRAgFysK680kgWhTwWHH) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Around and Around](https://open.spotify.com/album/5MIyGmu4DRHCx7ww18W6Da) | 2:34 | 2022-08-05 |  |
+| [Around and Around](https://open.spotify.com/track/3NNRAgFysK680kgWhTwWHH) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Around and Around](https://open.spotify.com/album/5MIyGmu4DRHCx7ww18W6Da) | 2:34 | 2022-08-05 | 2022-09-15 |
+| [Around and Around](https://open.spotify.com/track/3lT43G3g9c8149QDWAjrYA) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/17bTwQsIx4na7kUDtKKrvk) | 2:34 | 2022-09-08 |  |
 | [As The Sun Sets](https://open.spotify.com/track/6dShePyBjmnkk2WPJZdTMF) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [As The Sun Sets](https://open.spotify.com/album/7Mr3tKvuOYt6H5ethLM1nh) | 3:20 | 2022-07-29 |  |
 | [Assassin](https://open.spotify.com/track/6e9rjIDM1bDeWNdro7hLce) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Assassin](https://open.spotify.com/album/2Pm4dNCkvZRVMZhVvCPeaw) | 3:09 | 2022-06-01 | 2022-07-16 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-05 |  |

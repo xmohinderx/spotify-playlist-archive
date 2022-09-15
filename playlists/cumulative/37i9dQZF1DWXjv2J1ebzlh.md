@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,582 songs - 4 day 10 hr 20 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,584 songs - 4 day 10 hr 26 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Commotion](https://open.spotify.com/track/24yum3A1dltBKYMVOCJbsV) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 2:55 | 2022-07-27 |  |
 | [Como Me Gustas](https://open.spotify.com/track/4gMSwfRSwaIbzT6S0sQtZO) | [Pacho Galan Y Su Orquesta](https://open.spotify.com/artist/3oACj8FFNi9TuX4ad4ircv) | [Como Me Gustas](https://open.spotify.com/album/63rSF8T5rtFOu4ksOrZgAK) | 2:36 | 2022-06-09 |  |
 | [Como un Ave](https://open.spotify.com/track/01KKVJvLFpTxZkaKMyGQJy) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [..\. el Fabuloso!](https://open.spotify.com/album/4D2mvhduW9Xt5UUqvGRdbx) | 2:46 | 2022-07-12 |  |
-| [Congo Libre](https://open.spotify.com/track/2LlfWRdnD9OeLJ6SXF2FXk) | [Nicómedes Santa Cruz](https://open.spotify.com/artist/3C4UazJ13qNFlM864LMnEz), [Su Conjunto Cumana](https://open.spotify.com/artist/3KyurgPKMcdXhZeNQGdt8Q) | [Canto Negro](https://open.spotify.com/album/02zSI9eJBrQVARa3J3mAlz) | 1:57 | 2022-06-09 |  |
+| [Congo Libre](https://open.spotify.com/track/031gpDcfnJWZTjLTdvp1Qh) | [Nicómedes Santa Cruz](https://open.spotify.com/artist/3C4UazJ13qNFlM864LMnEz) | [Canto Negro](https://open.spotify.com/album/34SCHDZiG0EHDWenkjLenx) | 1:57 | 2022-09-14 |  |
+| [Congo Libre](https://open.spotify.com/track/2LlfWRdnD9OeLJ6SXF2FXk) | [Nicómedes Santa Cruz](https://open.spotify.com/artist/3C4UazJ13qNFlM864LMnEz), [Su Conjunto Cumana](https://open.spotify.com/artist/3KyurgPKMcdXhZeNQGdt8Q) | [Canto Negro](https://open.spotify.com/album/02zSI9eJBrQVARa3J3mAlz) | 1:57 | 2022-06-09 | 2022-09-15 |
 | [Congênito](https://open.spotify.com/track/7Kiw2eWnLpXmnKXKxpCcq0) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Maravilhas Contemporâneas](https://open.spotify.com/album/5xPNrY6HwxlqlLvpx0S9EA) | 3:32 | 2022-06-09 |  |
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2022-06-09 | 2022-07-29 |
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2022-07-27 |  |
@@ -1536,6 +1537,7 @@
 | [Yebeqagnal](https://open.spotify.com/track/1191c3MFmsESihKbaoWUkC) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj) | [Ethiopiques, Vol\. 8: Swinging Addis 1969\-1974](https://open.spotify.com/album/5tNmMZUAqk6YI6z84PXWAr) | 3:31 | 2022-07-12 |  |
 | [Yeh Aaj Mujh Ko](https://open.spotify.com/track/4n9XJTR2B1vkczfMdzGuDO) | [Tafo Brothers](https://open.spotify.com/artist/4UQhAI9ZsqF63SrJKky317) | [M\. Ashraf At His Best Instrumental](https://open.spotify.com/album/6LDXTdUKS8awQAJNBb1JpH) | 4:08 | 2022-06-09 |  |
 | [Yekfini Nesma' Sotak](https://open.spotify.com/track/5J7ySnOHIqXK7lg3hTb5N9) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/59wUhuFXv88Cov9DMjGGI3) | 4:10 | 2022-07-12 |  |
+| [Yemamaya](https://open.spotify.com/track/1EbJ9DlPVZ6146nt7DhuRw) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/1XMqzOsgdbyCbsSsfNTUnX) | 4:02 | 2022-09-14 |  |
 | [Yo No Tengo Pena](https://open.spotify.com/track/77Ef4ZdJQtRCztVOdpcL50) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Más Sabor](https://open.spotify.com/album/1HBA0puMnLVoLFAgg2DPX8) | 6:10 | 2022-06-09 |  |
 | [Yo Por Ti](https://open.spotify.com/track/0UttGQy60z2NFQMrl5al2F) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/7Ev2rRjhJEvEJrl0ViLX18) | 2:53 | 2022-06-09 | 2022-07-29 |
 | [Yo Por Ti](https://open.spotify.com/track/5XEtVK54D9tenCXln7hfG4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [23 Exitos Para Cumbiar](https://open.spotify.com/album/0SvFkzozkha01lEYIk439z) | 2:53 | 2022-07-27 |  |
